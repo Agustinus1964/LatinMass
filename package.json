@@ -1,0 +1,11 @@
+{
+  "name": "latinmass",
+  "version": "1.0.0",
+  "description": "Traditional Latin Mass Livestreams",
+  "scripts": {
+    "fetch": "node scripts/fetch-data.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
