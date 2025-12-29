@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T19:38:49.771Z",
+  "lastUpdated": "2025-12-29T19:48:53.435Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "IwTtUyC8z-U",
+          "title": "Christmastide 🎄Immaculate Heart of Mary Oratory",
+          "channel": "San Jose Immaculate Heart of Mary Oratory",
+          "channelId": "UCP3UYnnLs9gPCnlpaeLm41A",
+          "thumbnail": "https://i.ytimg.com/vi/IwTtUyC8z-U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T20:00:00Z"
+        },
         {
           "id": "bMo7eLYP5F4",
           "title": "7AM Low Mass. 6th Day in the Octave of Christmas. II. Tuesday, December 30, 2025.",
