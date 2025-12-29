@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T18:51:03.009Z",
+  "lastUpdated": "2025-12-29T19:12:35.933Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,24 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FHqhvsUBPrg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/FHqhvsUBPrg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ecUDAMtmSfU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/ecUDAMtmSfU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bMo7eLYP5F4",
           "title": "7AM Low Mass. 6th Day in the Octave of Christmas. II. Tuesday, December 30, 2025.",
