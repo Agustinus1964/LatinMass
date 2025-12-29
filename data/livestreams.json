@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2025-12-29T17:50:48.516Z",
+  "lastUpdated": "2025-12-29T18:23:41.651Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9aqsa3iGiag",
-          "title": "FSSPX Antwerpen - 29/12 ONDER het OCTAAF van KERSTMIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9aqsa3iGiag/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZDbwkoE6XZE",
-          "title": "Rosenkranz und hl. Messe - 29. Dezember 2025",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ZDbwkoE6XZE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "8yyqUK2kaNw",
           "title": "Hl. Messe - 30. Dezember 2025",
@@ -78,8 +60,8 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/FHqhvsUBPrg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T17:58:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZYUp2odTfH8",
@@ -87,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/ZYUp2odTfH8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ecUDAMtmSfU",
@@ -96,17 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/ecUDAMtmSfU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T18:00:00Z"
-        },
-        {
-          "id": "8Qo7dhtZHGA",
-          "title": "Tuesday 30th December 2025: 6th day in the Christmas Octave",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/8Qo7dhtZHGA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bMo7eLYP5F4",
@@ -125,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/8VU6GQluUOo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-30T12:30:00Z"
+        },
+        {
+          "id": "rCQRUVs1-PQ",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rCQRUVs1-PQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T18:00:00Z"
+        },
+        {
+          "id": "kx5R70vQhDc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/kx5R70vQhDc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T18:00:00Z"
         }
       ]
     }
