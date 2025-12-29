@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2025-12-29T12:33:35.738Z",
+  "lastUpdated": "2025-12-29T13:24:52.980Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qPBEkm5Yx-c",
-          "title": "Mon. Dec. 29, 2025    -    Fifth Day within the Octave of the Nativity",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qPBEkm5Yx-c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZiZdTfOKb0k",
           "title": "Tue. Dec. 30, 2025    -    Sixth Day within the Octave of the Nativity",
@@ -72,20 +63,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Rq50doaXzLg",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Fifth Day in the Octave of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Rq50doaXzLg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tPXxSTgwXqk",
-          "title": "7AM Low Mass. 5th Day in the Octave of Christmas. II. St. Thomas Becket. 12-29-2025.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/tPXxSTgwXqk/mqdefault_live.jpg",
+          "id": "WZ2l_Vk2dEM",
+          "title": "Monday 8 AM Traditional Latin Mass12/29/2025",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/WZ2l_Vk2dEM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -124,6 +106,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bMo7eLYP5F4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-30T12:00:00Z"
+        },
+        {
+          "id": "8VU6GQluUOo",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Sixth Day in the Octave of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/8VU6GQluUOo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T12:30:00Z"
         },
         {
           "id": "yEtYxZ2myGw",
