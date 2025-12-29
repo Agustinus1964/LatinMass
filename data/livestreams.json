@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T14:16:58.019Z",
+  "lastUpdated": "2025-12-29T14:45:09.078Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,29 +63,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3xkLHbpjpes",
-          "title": "Santo Sacrificio de la Misa, Quinto día en la Octava de Navidad, Santo Tomás, 29 de diciembre 2025.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/3xkLHbpjpes/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ZYUp2odTfH8",
           "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/ZYUp2odTfH8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T18:00:00Z"
-        },
-        {
-          "id": "ecUDAMtmSfU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/ecUDAMtmSfU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-29T18:00:00Z"
         },
@@ -125,6 +107,14 @@
           "status": "upcoming"
         },
         {
+          "id": "H7GgcNX9Lag",
+          "title": "Santo Sacrificio de la Misa, Quinto día en la Octava de Navidad, Santo Tomás, 29 de diciembre 2025.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/H7GgcNX9Lag/mqdefault_live.jpg",
+          "status": "upcoming"
+        },
+        {
           "id": "tg0eiF9ImVg",
           "title": "The Oratory, Birmingham",
           "channel": "Cardiff Oratory",
@@ -139,6 +129,15 @@
           "channelId": "UCCd9cGbxpbLzjxqSsmiyznw",
           "thumbnail": "https://i.ytimg.com/vi/cRZG1uFjegw/mqdefault_live.jpg",
           "status": "upcoming"
+        },
+        {
+          "id": "ecUDAMtmSfU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ecUDAMtmSfU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T18:00:00Z"
         }
       ]
     }
