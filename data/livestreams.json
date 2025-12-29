@@ -1,9 +1,53 @@
 {
-  "lastUpdated": "2025-12-29T05:19:51.192Z",
+  "lastUpdated": "2025-12-29T05:26:37.594Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jV_RD21xxCE",
+          "title": "S. Thomæ Cantuariénsis Epíscopi et Mártyris",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/jV_RD21xxCE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T07:30:00Z"
+        },
+        {
+          "id": "O-L3whS9PUY",
+          "title": "S. Thomæ Cantuariénsis Epíscopi et Mártyris",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/O-L3whS9PUY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T07:30:00Z"
+        },
+        {
+          "id": "qPBEkm5Yx-c",
+          "title": "Mon. Dec. 29, 2025    -    Fifth Day within the Octave of the Nativity",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qPBEkm5Yx-c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T12:15:00Z"
+        },
+        {
+          "id": "_niZ_s-vgRM",
+          "title": "Last Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/_niZ_s-vgRM/mqdefault_live.jpg",
+          "status": "upcoming"
+        },
+        {
+          "id": "zkHoWmf6Q8U",
+          "title": "Hl. Messe - 29. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/zkHoWmf6Q8U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T06:15:00Z"
+        },
         {
           "id": "-ON2wsJ2qHI",
           "title": "FSSPX Antwerpen - 29/12 Aanbidding met Rozenhoedje",
@@ -12,6 +56,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-ON2wsJ2qHI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-29T16:00:00Z"
+        },
+        {
+          "id": "ZDbwkoE6XZE",
+          "title": "Rosenkranz und hl. Messe - 29. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ZDbwkoE6XZE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T17:00:00Z"
         },
         {
           "id": "9aqsa3iGiag",
