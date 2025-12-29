@@ -7,25 +7,15 @@
     <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
     <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: 'Lato', sans-serif;
-        }
-        .font-cinzel {
-            font-family: 'Cinzel', serif;
-        }
-        .card-hover {
-            transition: all 0.3s ease;
-        }
+        body { font-family: 'Lato', sans-serif; }
+        .font-cinzel { font-family: 'Cinzel', serif; }
+        .card-hover { transition: all 0.3s ease; }
         .card-hover:hover {
             transform: translateY(-5px);
             box-shadow: 0 20px 40px rgba(0,0,0,0.2);
         }
-        .icon-hover:hover {
-            transform: scale(1.05);
-        }
-        .live-pulse {
-            animation: pulse 2s infinite;
-        }
+        .icon-hover:hover { transform: scale(1.05); }
+        .live-pulse { animation: pulse 2s infinite; }
         @keyframes pulse {
             0%, 100% { opacity: 1; }
             50% { opacity: 0.5; }
@@ -42,9 +32,25 @@
             -webkit-box-orient: vertical;
             overflow: hidden;
         }
+        .notification-badge {
+            animation: bounce 1s infinite;
+        }
+        @keyframes bounce {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-5px); }
+        }
     </style>
 </head>
 <body class="gradient-bg min-h-screen">
+    <!-- Notification Banner -->
+    <div id="liveBanner" class="hidden bg-red-600 text-white py-2 px-4 text-center">
+        <span class="inline-flex items-center">
+            <span class="w-3 h-3 bg-white rounded-full mr-2 live-pulse"></span>
+            <span id="liveBannerText">Ada Misa yang sedang LIVE!</span>
+            <button onclick="closeBanner()" class="ml-4 text-white/80 hover:text-white">✕</button>
+        </span>
+    </div>
+
     <!-- Header -->
     <header class="py-6 border-b border-amber-600/30">
         <div class="container mx-auto px-4">
@@ -65,7 +71,10 @@
             <h2 class="font-cinzel text-2xl md:text-3xl text-amber-300 mb-12 text-center">Pilih Kategori Misa</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-4xl w-full">
                 <!-- SSPX Latin Mass -->
-                <div onclick="loadCategory('sspx')" class="icon-hover cursor-pointer bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl p-8 border border-amber-600/30 hover:border-amber-400 transition-all duration-300 shadow-xl">
+                <div onclick="loadCategory('sspx')" class="icon-hover cursor-pointer bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl p-8 border border-amber-600/30 hover:border-amber-400 transition-all duration-300 shadow-xl relative">
+                    <div id="sspxLiveBadge" class="hidden absolute -top-2 -right-2 bg-red-600 text-white text-xs px-3 py-1 rounded-full notification-badge">
+                        🔴 LIVE
+                    </div>
                     <div class="flex flex-col items-center">
                         <div class="w-32 h-32 rounded-full bg-gradient-to-br from-amber-600 to-amber-800 flex items-center justify-center mb-6 shadow-lg">
                             <svg class="w-16 h-16 text-amber-100" fill="currentColor" viewBox="0 0 24 24">
@@ -82,7 +91,10 @@
                 </div>
 
                 <!-- Non-SSPX Latin Mass -->
-                <div onclick="loadCategory('non-sspx')" class="icon-hover cursor-pointer bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl p-8 border border-amber-600/30 hover:border-amber-400 transition-all duration-300 shadow-xl">
+                <div onclick="loadCategory('non-sspx')" class="icon-hover cursor-pointer bg-gradient-to-br from-slate-800 to-slate-900 rounded-2xl p-8 border border-amber-600/30 hover:border-amber-400 transition-all duration-300 shadow-xl relative">
+                    <div id="nonSspxLiveBadge" class="hidden absolute -top-2 -right-2 bg-red-600 text-white text-xs px-3 py-1 rounded-full notification-badge">
+                        🔴 LIVE
+                    </div>
                     <div class="flex flex-col items-center">
                         <div class="w-32 h-32 rounded-full bg-gradient-to-br from-purple-600 to-purple-800 flex items-center justify-center mb-6 shadow-lg">
                             <svg class="w-16 h-16 text-purple-100" fill="currentColor" viewBox="0 0 24 24">
@@ -97,6 +109,24 @@
                         </div>
                     </div>
                 </div>
+            </div>
+
+            <!-- Link to Recent Videos -->
+            <div class="mt-12">
+                <a href="recent.html" class="group flex items-center gap-3 bg-gradient-to-br from-slate-800 to-slate-900 rounded-xl px-6 py-4 border border-slate-600 hover:border-amber-400 transition-all duration-300">
+                    <div class="w-12 h-12 rounded-full bg-gradient-to-br from-green-600 to-green-800 flex items-center justify-center shadow-lg group-hover:scale-110 transition-transform">
+                        <svg class="w-6 h-6 text-green-100" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z"/>
+                        </svg>
+                    </div>
+                    <div>
+                        <h3 class="font-cinzel text-lg font-bold text-green-400 group-hover:text-green-300">Video Katolik Terbaru</h3>
+                        <p class="text-slate-400 text-sm">Lihat video-video terbaru dari channel Katolik</p>
+                    </div>
+                    <svg class="w-5 h-5 text-slate-500 group-hover:text-amber-400 transition-colors ml-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+                    </svg>
+                </a>
             </div>
             
             <!-- Last Updated -->
@@ -225,6 +255,74 @@
         let currentFilter = 'all';
         const videosPerPage = 8;
 
+        // Check for live streams and show notification
+        function checkLiveNotification() {
+            if (!livestreamData) return;
+            
+            const sspxVideos = livestreamData.categories.sspx.videos;
+            const nonSspxVideos = livestreamData.categories['non-sspx'].videos;
+            
+            const sspxLive = sspxVideos.filter(v => v.status === 'live').length;
+            const nonSspxLive = nonSspxVideos.filter(v => v.status === 'live').length;
+            const totalLive = sspxLive + nonSspxLive;
+            
+            // Show/hide SSPX live badge
+            const sspxBadge = document.getElementById('sspxLiveBadge');
+            if (sspxLive > 0) {
+                sspxBadge.classList.remove('hidden');
+                sspxBadge.textContent = `🔴 ${sspxLive} LIVE`;
+            } else {
+                sspxBadge.classList.add('hidden');
+            }
+            
+            // Show/hide Non-SSPX live badge
+            const nonSspxBadge = document.getElementById('nonSspxLiveBadge');
+            if (nonSspxLive > 0) {
+                nonSspxBadge.classList.remove('hidden');
+                nonSspxBadge.textContent = `🔴 ${nonSspxLive} LIVE`;
+            } else {
+                nonSspxBadge.classList.add('hidden');
+            }
+            
+            // Show banner if there are live streams
+            const banner = document.getElementById('liveBanner');
+            const bannerText = document.getElementById('liveBannerText');
+            
+            if (totalLive > 0 && !sessionStorage.getItem('bannerClosed')) {
+                banner.classList.remove('hidden');
+                bannerText.textContent = `🔴 ${totalLive} Misa sedang LIVE sekarang!`;
+                
+                // Request browser notification permission
+                requestNotificationPermission(totalLive);
+            }
+        }
+        
+        // Request browser notification permission
+        function requestNotificationPermission(liveCount) {
+            if ('Notification' in window && Notification.permission === 'default') {
+                Notification.requestPermission();
+            }
+            
+            // Show browser notification if permitted
+            if ('Notification' in window && Notification.permission === 'granted') {
+                // Check if we already notified for this session
+                const lastNotified = sessionStorage.getItem('lastLiveCount');
+                if (lastNotified !== String(liveCount)) {
+                    new Notification('eTradWorld - Misa LIVE', {
+                        body: `${liveCount} Misa Latin sedang berlangsung sekarang!`,
+                        icon: 'data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y=".9em" font-size="90">✝</text></svg>'
+                    });
+                    sessionStorage.setItem('lastLiveCount', String(liveCount));
+                }
+            }
+        }
+        
+        // Close banner
+        function closeBanner() {
+            document.getElementById('liveBanner').classList.add('hidden');
+            sessionStorage.setItem('bannerClosed', 'true');
+        }
+
         // Load data from JSON
         async function loadData() {
             try {
@@ -248,6 +346,9 @@
                 const lastUpdated = new Date(livestreamData.lastUpdated);
                 document.getElementById('lastUpdated').textContent = 
                     `Data diperbarui: ${lastUpdated.toLocaleString('id-ID')}`;
+                
+                // Check for live notifications
+                checkLiveNotification();
                 
                 return true;
             } catch (error) {
@@ -502,6 +603,11 @@
         // Initialize
         document.addEventListener('DOMContentLoaded', () => {
             loadData();
+            
+            // Auto-refresh data every 5 minutes
+            setInterval(() => {
+                loadData();
+            }, 5 * 60 * 1000);
         });
     </script>
 </body>
