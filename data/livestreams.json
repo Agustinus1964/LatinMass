@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T18:23:41.651Z",
+  "lastUpdated": "2025-12-29T18:51:03.009Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/FHqhvsUBPrg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZYUp2odTfH8",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ZYUp2odTfH8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
