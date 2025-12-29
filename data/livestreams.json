@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T10:18:08.038Z",
+  "lastUpdated": "2025-12-29T10:46:50.299Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -68,8 +68,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/qgk16rlIuIM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tPXxSTgwXqk",
@@ -88,6 +88,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Rq50doaXzLg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-29T12:30:00Z"
+        },
+        {
+          "id": "8Qo7dhtZHGA",
+          "title": "Tuesday 30th December 2025: 6th day in the Christmas Octave",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/8Qo7dhtZHGA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T10:30:00Z"
         }
       ]
     }
