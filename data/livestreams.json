@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-12-29T05:45:18.835Z",
+  "lastUpdated": "2025-12-29T06:27:06.930Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "zkHoWmf6Q8U",
+          "title": "Hl. Messe - 29. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/zkHoWmf6Q8U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jV_RD21xxCE",
           "title": "S. Thomæ Cantuariénsis Epíscopi et Mártyris",
@@ -40,15 +49,6 @@
           "status": "upcoming"
         },
         {
-          "id": "zkHoWmf6Q8U",
-          "title": "Hl. Messe - 29. Dezember 2025",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zkHoWmf6Q8U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T06:15:00Z"
-        },
-        {
           "id": "-ON2wsJ2qHI",
           "title": "FSSPX Antwerpen - 29/12 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
@@ -74,6 +74,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9aqsa3iGiag/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-29T17:30:00Z"
+        },
+        {
+          "id": "8yyqUK2kaNw",
+          "title": "Hl. Messe - 30. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/8yyqUK2kaNw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T06:15:00Z"
         }
       ]
     },
