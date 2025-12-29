@@ -1,13 +1,60 @@
 {
-  "lastUpdated": "2025-12-29T05:06:38.809Z",
+  "lastUpdated": "2025-12-29T05:19:51.192Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "-ON2wsJ2qHI",
+          "title": "FSSPX Antwerpen - 29/12 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/-ON2wsJ2qHI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T16:00:00Z"
+        },
+        {
+          "id": "9aqsa3iGiag",
+          "title": "FSSPX Antwerpen - 29/12 ONDER het OCTAAF van KERSTMIS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9aqsa3iGiag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T17:30:00Z"
+        }
+      ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "qgk16rlIuIM",
+          "title": "Monday 29th December 2025: 5th day in the Christmas Octave",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qgk16rlIuIM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T10:30:00Z"
+        },
+        {
+          "id": "tPXxSTgwXqk",
+          "title": "7AM Low Mass. 5th Day in the Octave of Christmas. II. St. Thomas Becket. 12-29-2025.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/tPXxSTgwXqk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T12:00:00Z"
+        },
+        {
+          "id": "Rq50doaXzLg",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Fifth Day in the Octave of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Rq50doaXzLg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T12:30:00Z"
+        }
+      ]
     }
   }
 }
