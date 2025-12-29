@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T11:50:07.393Z",
+  "lastUpdated": "2025-12-29T12:33:35.738Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/qPBEkm5Yx-c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ZiZdTfOKb0k",
+          "title": "Tue. Dec. 30, 2025    -    Sixth Day within the Octave of the Nativity",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ZiZdTfOKb0k/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2025-12-29T12:15:00Z"
+          "scheduledTime": "2025-12-30T12:15:00Z"
         },
         {
           "id": "_niZ_s-vgRM",
@@ -63,11 +72,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "qgk16rlIuIM",
-          "title": "Monday 29th December 2025: 5th day in the Christmas Octave",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/qgk16rlIuIM/mqdefault_live.jpg",
+          "id": "Rq50doaXzLg",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Fifth Day in the Octave of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Rq50doaXzLg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -81,13 +90,22 @@
           "scheduledTime": null
         },
         {
-          "id": "Rq50doaXzLg",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Fifth Day in the Octave of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Rq50doaXzLg/mqdefault_live.jpg",
+          "id": "ZYUp2odTfH8",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ZYUp2odTfH8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2025-12-29T12:30:00Z"
+          "scheduledTime": "2025-12-29T18:00:00Z"
+        },
+        {
+          "id": "ecUDAMtmSfU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ecUDAMtmSfU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-29T18:00:00Z"
         },
         {
           "id": "8Qo7dhtZHGA",
@@ -97,6 +115,39 @@
           "thumbnail": "https://i.ytimg.com/vi/8Qo7dhtZHGA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-30T10:30:00Z"
+        },
+        {
+          "id": "bMo7eLYP5F4",
+          "title": "7AM Low Mass. 6th Day in the Octave of Christmas. II. Tuesday, December 30, 2025.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bMo7eLYP5F4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T12:00:00Z"
+        },
+        {
+          "id": "yEtYxZ2myGw",
+          "title": "National Shrine of Saint Alphonsus Liguori Live Stream",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/yEtYxZ2myGw/mqdefault_live.jpg",
+          "status": "upcoming"
+        },
+        {
+          "id": "tg0eiF9ImVg",
+          "title": "The Oratory, Birmingham",
+          "channel": "Cardiff Oratory",
+          "channelId": "UCCd9cGbxpbLzjxqSsmiyznw",
+          "thumbnail": "https://i.ytimg.com/vi/tg0eiF9ImVg/mqdefault_live.jpg",
+          "status": "upcoming"
+        },
+        {
+          "id": "cRZG1uFjegw",
+          "title": "The Oratory, Birmingham",
+          "channel": "Cardiff Oratory",
+          "channelId": "UCCd9cGbxpbLzjxqSsmiyznw",
+          "thumbnail": "https://i.ytimg.com/vi/cRZG1uFjegw/mqdefault_live.jpg",
+          "status": "upcoming"
         }
       ]
     }
