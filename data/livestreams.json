@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2025-12-29T06:27:06.930Z",
+  "lastUpdated": "2025-12-29T06:58:26.489Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zkHoWmf6Q8U",
-          "title": "Hl. Messe - 29. Dezember 2025",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zkHoWmf6Q8U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jV_RD21xxCE",
-          "title": "S. Thomæ Cantuariénsis Epíscopi et Mártyris",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/jV_RD21xxCE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T07:30:00Z"
-        },
         {
           "id": "O-L3whS9PUY",
           "title": "S. Thomæ Cantuariénsis Epíscopi et Mártyris",
