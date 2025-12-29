@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T20:18:11.760Z",
+  "lastUpdated": "2025-12-29T20:43:51.404Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8yyqUK2kaNw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-30T06:15:00Z"
+        },
+        {
+          "id": "LQfCxuddJYI",
+          "title": "De sexta die infra Octávam Nativitátis",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/LQfCxuddJYI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T07:30:00Z"
         },
         {
           "id": "ZiZdTfOKb0k",
