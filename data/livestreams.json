@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-29T15:54:46.893Z",
+  "lastUpdated": "2025-12-29T16:19:17.428Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/-ON2wsJ2qHI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-29T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZDbwkoE6XZE",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZiZdTfOKb0k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-30T12:15:00Z"
+        },
+        {
+          "id": "UlKB6sj6E4w",
+          "title": "FSSPX Antwerpen - 30/12 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/UlKB6sj6E4w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T16:00:00Z"
         }
       ]
     },
