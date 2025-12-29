@@ -111,8 +111,10 @@ async function fetchChannelLivestreams(channelId, channelName) {
       const actualStartTime = liveDetails?.actualStartTime;
       const scheduledTime = liveDetails?.scheduledStartTime;
       
+      // Skip jika video sudah selesai
       if (actualEndTime) continue;
       
+      // Video LIVE
       if (liveBroadcastContent === 'live' || (actualStartTime && !actualEndTime)) {
         videos.push({
           id: item.id,
@@ -126,15 +128,30 @@ async function fetchChannelLivestreams(channelId, channelName) {
         continue;
       }
       
-      if (liveBroadcastContent === 'upcoming' || (scheduledTime && !actualStartTime)) {
+      // Video UPCOMING - HANYA jika punya scheduledStartTime yang valid
+      if (liveBroadcastContent === 'upcoming' && scheduledTime) {
         const scheduleDate = new Date(scheduledTime);
         
-        if (scheduleDate < now) {
-          const hoursPassed = (now - scheduleDate) / (1000 * 60 * 60);
-          if (hoursPassed > 1) continue;
+        // Validasi: scheduledTime harus valid date
+        if (isNaN(scheduleDate.getTime())) {
+          console.log(`  Skipping ${item.snippet.title}: Invalid scheduled time`);
+          continue;
         }
         
-        if (scheduleDate > next24Hours) continue;
+        // Skip jika sudah lewat lebih dari 1 jam
+        if (scheduleDate < now) {
+          const hoursPassed = (now - scheduleDate) / (1000 * 60 * 60);
+          if (hoursPassed > 1) {
+            console.log(`  Skipping ${item.snippet.title}: Overdue by ${hoursPassed.toFixed(1)} hours`);
+            continue;
+          }
+        }
+        
+        // Skip jika lebih dari 24 jam ke depan
+        if (scheduleDate > next24Hours) {
+          console.log(`  Skipping ${item.snippet.title}: More than 24h away`);
+          continue;
+        }
         
         videos.push({
           id: item.id,
@@ -145,6 +162,11 @@ async function fetchChannelLivestreams(channelId, channelName) {
           status: 'upcoming',
           scheduledTime: scheduledTime
         });
+      }
+      // Jika upcoming tapi TIDAK punya scheduledTime, SKIP (tidak ditampilkan)
+      else if (liveBroadcastContent === 'upcoming' && !scheduledTime) {
+        console.log(`  Skipping ${item.snippet.title}: No scheduled time (uncertain)`);
+        continue;
       }
     }
     
@@ -193,30 +215,4 @@ async function main() {
         if (a.scheduledTime && b.scheduledTime) {
           return new Date(a.scheduledTime) - new Date(b.scheduledTime);
         }
-        return 0;
-      });
-      
-      result.categories[category].videos = allVideos;
-      console.log(`  Total: ${allVideos.length} videos`);
-      
-    } catch (error) {
-      console.error(`Error processing ${category}:`, error.message);
-    }
-  }
-  
-  const dataDir = path.join(__dirname, '..', 'data');
-  if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-  }
-  
-  const outputPath = path.join(dataDir, 'livestreams.json');
-  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2));
-  
-  console.log(`\nSaved to ${outputPath}`);
-  console.log('Done!');
-}
-
-main().catch(error => {
-  console.error('Fatal error:', error);
-  process.exit(1);
-});
+        return 
