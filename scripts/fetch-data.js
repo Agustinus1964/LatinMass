@@ -215,4 +215,33 @@ async function main() {
         if (a.scheduledTime && b.scheduledTime) {
           return new Date(a.scheduledTime) - new Date(b.scheduledTime);
         }
-        return 
+        return 0;
+      });
+      
+      result.categories[category].videos = allVideos;
+      
+      const liveCount = allVideos.filter(v => v.status === 'live').length;
+      const upcomingCount = allVideos.filter(v => v.status === 'upcoming').length;
+      console.log(`  Total: ${allVideos.length} videos (${liveCount} live, ${upcomingCount} upcoming)`);
+      
+    } catch (error) {
+      console.error(`Error processing ${category}:`, error.message);
+    }
+  }
+  
+  const dataDir = path.join(__dirname, '..', 'data');
+  if (!fs.existsSync(dataDir)) {
+    fs.mkdirSync(dataDir, { recursive: true });
+  }
+  
+  const outputPath = path.join(dataDir, 'livestreams.json');
+  fs.writeFileSync(outputPath, JSON.stringify(result, null, 2));
+  
+  console.log(`\nSaved to ${outputPath}`);
+  console.log('Done!');
+}
+
+main().catch(error => {
+  console.error('Fatal error:', error);
+  process.exit(1);
+});
