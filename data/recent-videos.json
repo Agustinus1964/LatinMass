@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-29T19:38:53.592Z",
+  "lastUpdated": "2025-12-29T19:50:56.043Z",
   "videos": [
+    {
+      "id": "Rqk7ubrdG4k",
+      "title": "Welcome to our live show!",
+      "channel": "Catholic Family Podcast",
+      "channelId": "UC-cRj4IntkMecMGH8zeGiVA",
+      "description": "Thanks for joining our exclusive live broadcast. Feel free to share your questions and interact with other participants in the chat.",
+      "thumbnail": "https://i.ytimg.com/vi/Rqk7ubrdG4k/mqdefault.jpg",
+      "publishedAt": "2025-12-29T19:47:11Z",
+      "category": "Catholic Family Podcast"
+    },
     {
       "id": "uvPSYr9n-Rw",
       "title": "Welcome to our live show!",
@@ -170,16 +180,6 @@
       "thumbnail": "https://i.ytimg.com/vi/k7pnli5Tzhs/mqdefault.jpg",
       "publishedAt": "2025-12-28T14:01:17Z",
       "category": "Return To Tradition"
-    },
-    {
-      "id": "dlXssRtLQf4",
-      "title": "Father Dominic -- Time is Precious",
-      "channel": "Catholic Family Podcast",
-      "channelId": "UC-cRj4IntkMecMGH8zeGiVA",
-      "description": "Queen of Angels Church, Santa Clarita, California.\n\nSunday after Christmas, 2024.",
-      "thumbnail": "https://i.ytimg.com/vi/dlXssRtLQf4/mqdefault.jpg",
-      "publishedAt": "2025-12-28T13:01:11Z",
-      "category": "Catholic Family Podcast"
     },
     {
       "id": "DN-orbKqcUw",
