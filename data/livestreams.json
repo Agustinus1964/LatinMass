@@ -1,13 +1,114 @@
 {
-  "lastUpdated": "2025-12-30T07:58:37.505Z",
+  "lastUpdated": "2025-12-30T08:02:17.644Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "LQfCxuddJYI",
+          "title": "De sexta die infra Octávam Nativitátis",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/LQfCxuddJYI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ZiZdTfOKb0k",
+          "title": "Tue. Dec. 30, 2025    -    Sixth Day within the Octave of the Nativity",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ZiZdTfOKb0k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T12:15:00Z"
+        },
+        {
+          "id": "UlKB6sj6E4w",
+          "title": "FSSPX Antwerpen - 30/12 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/UlKB6sj6E4w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T16:00:00Z"
+        },
+        {
+          "id": "-1yuhEs8c28",
+          "title": "Rosenkranz und hl. Messe - 30. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-1yuhEs8c28/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T17:00:00Z"
+        },
+        {
+          "id": "mY5mL4PWKw0",
+          "title": "FSSPX Antwerpen - 30/12 ONDER het OCTAAF van KERSTMIS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/mY5mL4PWKw0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T17:30:00Z"
+        },
+        {
+          "id": "RqsU2ypOzYw",
+          "title": "Hl. Messe - 31. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/RqsU2ypOzYw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-31T06:15:00Z"
+        }
+      ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "p8aV9z_El5E",
+          "title": "Tuesday 30th December 2025: 6th day in the Christmas Octave",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/p8aV9z_El5E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T10:30:00Z"
+        },
+        {
+          "id": "bMo7eLYP5F4",
+          "title": "7AM Low Mass. 6th Day in the Octave of Christmas. II. Tuesday, December 30, 2025.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bMo7eLYP5F4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T12:00:00Z"
+        },
+        {
+          "id": "8VU6GQluUOo",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Sixth Day in the Octave of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/8VU6GQluUOo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T12:30:00Z"
+        },
+        {
+          "id": "rCQRUVs1-PQ",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rCQRUVs1-PQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T18:00:00Z"
+        },
+        {
+          "id": "kx5R70vQhDc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/kx5R70vQhDc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-30T18:00:00Z"
+        }
+      ]
     }
   }
 }
