@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T16:51:26.343Z",
+  "lastUpdated": "2025-12-30T17:18:01.952Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/-1yuhEs8c28/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mY5mL4PWKw0",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ewIBmn5GXU0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T12:30:00Z"
+        },
+        {
+          "id": "lFg_snJ-AtQ",
+          "title": "Wednesday 31st December 2025: 7th day in the Christmas Octave",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/lFg_snJ-AtQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-31T17:00:00Z"
         }
       ]
     }
