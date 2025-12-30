@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T11:16:44.078Z",
+  "lastUpdated": "2025-12-30T11:40:01.273Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "bMo7eLYP5F4",
+          "title": "7AM Low Mass. 6th Day in the Octave of Christmas. II. Tuesday, December 30, 2025.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bMo7eLYP5F4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "GKmZgzGeyi4",
           "title": "Tuesday 6 AM Traditional Catholic Mass 12/30/2025",
           "channel": "St. Benedict Parish",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GKmZgzGeyi4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "bMo7eLYP5F4",
-          "title": "7AM Low Mass. 6th Day in the Octave of Christmas. II. Tuesday, December 30, 2025.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bMo7eLYP5F4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T12:00:00Z"
         },
         {
           "id": "8VU6GQluUOo",
