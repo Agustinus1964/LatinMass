@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T08:52:20.585Z",
+  "lastUpdated": "2025-12-30T09:22:29.849Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9fgUyjI2ZQ8",
+          "title": "Prima e Santa Missa rezada do VI dia da oitava de Natal",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9fgUyjI2ZQ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "p8aV9z_El5E",
           "title": "Tuesday 30th December 2025: 6th day in the Christmas Octave",
