@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2025-12-30T17:18:01.952Z",
+  "lastUpdated": "2025-12-30T17:43:35.213Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "UlKB6sj6E4w",
-          "title": "FSSPX Antwerpen - 30/12 Aanbidding met Rozenhoedje",
+          "id": "mY5mL4PWKw0",
+          "title": "FSSPX Antwerpen - 30/12 ONDER het OCTAAF van KERSTMIS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/UlKB6sj6E4w/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/mY5mL4PWKw0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-1yuhEs8c28/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "mY5mL4PWKw0",
-          "title": "FSSPX Antwerpen - 30/12 ONDER het OCTAAF van KERSTMIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/mY5mL4PWKw0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T17:30:00Z"
         },
         {
           "id": "RqsU2ypOzYw",
