@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2025-12-30T17:43:35.213Z",
+  "lastUpdated": "2025-12-30T18:27:16.983Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mY5mL4PWKw0",
-          "title": "FSSPX Antwerpen - 30/12 ONDER het OCTAAF van KERSTMIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/mY5mL4PWKw0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-1yuhEs8c28",
-          "title": "Rosenkranz und hl. Messe - 30. Dezember 2025",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/-1yuhEs8c28/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "RqsU2ypOzYw",
           "title": "Hl. Messe - 31. Dezember 2025",
@@ -55,13 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "sNjyNdo4MuM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/sNjyNdo4MuM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "rCQRUVs1-PQ",
           "title": "Tuesday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/rCQRUVs1-PQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "kx5R70vQhDc",
@@ -69,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/kx5R70vQhDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IHVY_GIsLrA",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lFg_snJ-AtQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T17:00:00Z"
+        },
+        {
+          "id": "tLV6O6YrQnI",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tLV6O6YrQnI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-31T18:00:00Z"
         }
       ]
     }
