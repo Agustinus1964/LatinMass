@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T14:18:01.175Z",
+  "lastUpdated": "2025-12-30T14:45:41.078Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5s0am54-JU8",
-          "title": "Santo Sacrificio de La Misa, Sexto día en La Octava de Navidad, 30 de diciembre 2025.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/5s0am54-JU8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rCQRUVs1-PQ",
           "title": "Tuesday",
