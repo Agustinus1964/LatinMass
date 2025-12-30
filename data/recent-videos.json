@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-30T01:17:17.948Z",
+  "lastUpdated": "2025-12-30T03:11:51.488Z",
   "videos": [
+    {
+      "id": "8FNyrpGbDaQ",
+      "title": "Holy Mass 12/29/25 - Feast of St. Thomas of Canterbury",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/8FNyrpGbDaQ/mqdefault.jpg",
+      "publishedAt": "2025-12-30T03:00:45Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "gEjFH3TpYJU",
       "title": "Pope Leo’s Christmas Message on Immigration: Is He Right? Dr. Taylor Marshall",
@@ -52,26 +62,6 @@
       "category": "Pelican Plus"
     },
     {
-      "id": "Rqk7ubrdG4k",
-      "title": "Welcome to our live show!",
-      "channel": "Catholic Family Podcast",
-      "channelId": "UC-cRj4IntkMecMGH8zeGiVA",
-      "description": "Thanks for joining our exclusive live broadcast. Feel free to share your questions and interact with other participants in the chat.",
-      "thumbnail": "https://i.ytimg.com/vi/Rqk7ubrdG4k/mqdefault.jpg",
-      "publishedAt": "2025-12-29T19:47:11Z",
-      "category": "Catholic Family Podcast"
-    },
-    {
-      "id": "uvPSYr9n-Rw",
-      "title": "Welcome to our live show!",
-      "channel": "Catholic Family Podcast",
-      "channelId": "UC-cRj4IntkMecMGH8zeGiVA",
-      "description": "Thanks for joining our exclusive live broadcast. Feel free to share your questions and interact with other participants in the chat.",
-      "thumbnail": "https://i.ytimg.com/vi/uvPSYr9n-Rw/mqdefault.jpg",
-      "publishedAt": "2025-12-29T19:37:59Z",
-      "category": "Catholic Family Podcast"
-    },
-    {
       "id": "8-aMSVRGfdc",
       "title": "The Mystery of Christmas - SSPX Sermons",
       "channel": "SSPX News - English",
@@ -110,16 +100,6 @@
       "thumbnail": "https://i.ytimg.com/vi/B2v0-e4rMwE/mqdefault.jpg",
       "publishedAt": "2025-12-29T14:53:54Z",
       "category": "SSPX News"
-    },
-    {
-      "id": "8FNyrpGbDaQ",
-      "title": "Holy Mass 12/29/25 - Feast of St. Thomas of Canterbury",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/8FNyrpGbDaQ/mqdefault_live.jpg",
-      "publishedAt": "2025-12-29T13:22:57Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "8Ps4dXKH5Bw",
@@ -232,6 +212,16 @@
       "category": "Return To Tradition"
     },
     {
+      "id": "dlXssRtLQf4",
+      "title": "Father Dominic -- Time is Precious",
+      "channel": "Catholic Family Podcast",
+      "channelId": "UC-cRj4IntkMecMGH8zeGiVA",
+      "description": "Queen of Angels Church, Santa Clarita, California.\n\nSunday after Christmas, 2024.",
+      "thumbnail": "https://i.ytimg.com/vi/dlXssRtLQf4/mqdefault.jpg",
+      "publishedAt": "2025-12-28T13:01:11Z",
+      "category": "Catholic Family Podcast"
+    },
+    {
       "id": "DN-orbKqcUw",
       "title": "Dec 28 – Sun in Octave / Holy Innocents",
       "channel": "SSPX News - English",
@@ -240,6 +230,16 @@
       "thumbnail": "https://i.ytimg.com/vi/DN-orbKqcUw/mqdefault.jpg",
       "publishedAt": "2025-12-28T08:09:08Z",
       "category": "SSPX News"
+    },
+    {
+      "id": "hBmxX5QXp9Q",
+      "title": "Holy Innocents",
+      "channel": "Catholic Family Podcast",
+      "channelId": "UC-cRj4IntkMecMGH8zeGiVA",
+      "description": "December 28, or \"Childermas\", is a day historically dedicated to children, including such fun traditions as \"Bishop for a day\", prank days and flour wars.\n\nFirst published in 2022.",
+      "thumbnail": "https://i.ytimg.com/vi/hBmxX5QXp9Q/mqdefault.jpg",
+      "publishedAt": "2025-12-28T06:00:44Z",
+      "category": "Catholic Family Podcast"
     },
     {
       "id": "jMjzZyvzgPQ",
