@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T21:17:06.851Z",
+  "lastUpdated": "2025-12-30T21:40:13.201Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -87,6 +87,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/tLV6O6YrQnI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-31T18:00:00Z"
+        },
+        {
+          "id": "I3VwUgbciX4",
+          "title": "Sainte messe de la fête de Saint Silvestre & Te Deum - PUER NATUS EST NOBIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/I3VwUgbciX4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T18:00:00Z"
         }
