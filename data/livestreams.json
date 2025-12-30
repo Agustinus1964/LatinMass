@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T15:44:07.729Z",
+  "lastUpdated": "2025-12-30T16:23:34.248Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/UlKB6sj6E4w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-30T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-1yuhEs8c28",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MWLtnMkkOA4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T10:00:00Z"
+        },
+        {
+          "id": "P7SkHgepBrA",
+          "title": "Jahresschlussandacht und hl. Messe - 31. Dezember 2025",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/P7SkHgepBrA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-31T16:00:00Z"
         }
       ]
     },
