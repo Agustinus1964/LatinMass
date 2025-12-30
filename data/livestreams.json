@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-12-30T19:36:42.592Z",
+  "lastUpdated": "2025-12-30T20:20:10.804Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "3eMW5wKBGMg",
+          "title": "Seventh day in the OCTAVE OF CHRISTMAS - 31.12.25",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/3eMW5wKBGMg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "RqsU2ypOzYw",
           "title": "Hl. Messe - 31. Dezember 2025",
