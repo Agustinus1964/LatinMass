@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-30T21:40:13.201Z",
+  "lastUpdated": "2025-12-30T22:17:21.919Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Y3d5B2qZrLw",
-          "title": "Terço e Santa Missa rezada do VI dia da oitava de Natal",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Y3d5B2qZrLw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "IHVY_GIsLrA",
           "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -92,12 +83,21 @@
         },
         {
           "id": "I3VwUgbciX4",
-          "title": "Sainte messe de la fête de Saint Silvestre & Te Deum - PUER NATUS EST NOBIS",
+          "title": "Sainte messe de la fête de Saint Silvestre & Te Deum - SI DILIGIS ME",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/I3VwUgbciX4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T18:00:00Z"
+        },
+        {
+          "id": "0U6NUgfoS1U",
+          "title": "Divine Office & 6PM Low Mass. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/0U6NUgfoS1U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2025-12-31T22:00:00Z"
         }
       ]
     }
