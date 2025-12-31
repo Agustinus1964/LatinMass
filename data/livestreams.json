@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T10:19:06.749Z",
+  "lastUpdated": "2025-12-31T10:45:13.138Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -134,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PEG8ZEWzufE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T10:00:00Z"
+        },
+        {
+          "id": "W6VL-DtCOFg",
+          "title": "Thursday 1st January 2026: Christmas Octave",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/W6VL-DtCOFg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T10:30:00Z"
         }
       ]
     }
