@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-12-31T11:38:12.122Z",
+  "lastUpdated": "2025-12-31T12:37:03.917Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "NfBxUndIAdE",
+          "title": "Wed. Dec. 31, 2025    -    Seventh Day within the Octave of the Nativity    -    New Years Eve",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/NfBxUndIAdE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bc_N4ypOftE",
           "title": "De séptima die infra octávam Nativitátis",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/P7SkHgepBrA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T16:00:00Z"
-        },
-        {
-          "id": "NfBxUndIAdE",
-          "title": "Wed. Dec. 31, 2025    -    Seventh Day within the Octave of the Nativity    -    New Years Eve",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/NfBxUndIAdE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T23:00:00Z"
         },
         {
           "id": "YtIJVK4Q16g",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "ewIBmn5GXU0",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Seventh Day in the Octave of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ewIBmn5GXU0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "IHVY_GIsLrA",
           "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "NoZ-6BdraN8",
-          "title": "Wednesday 6 AM Traditional Catholic Mass12/31/2025",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NoZ-6BdraN8/mqdefault_live.jpg",
+          "id": "nFEOAl29JXk",
+          "title": "Missa rezada do VI dia da oitava de Natal (Sermão da retrospectiva)",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/nFEOAl29JXk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ewIBmn5GXU0",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Seventh Day in the Octave of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ewIBmn5GXU0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T12:30:00Z"
         },
         {
           "id": "lFg_snJ-AtQ",
