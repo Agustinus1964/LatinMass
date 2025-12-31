@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2025-12-31T16:22:32.075Z",
+  "lastUpdated": "2025-12-31T16:48:25.278Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bc_N4ypOftE",
-          "title": "De séptima die infra octávam Nativitátis",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/bc_N4ypOftE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "P7SkHgepBrA",
           "title": "Jahresschlussandacht und hl. Messe - 31. Dezember 2025",
@@ -41,6 +32,15 @@
           "scheduledTime": "2026-01-01T09:00:00Z"
         },
         {
+          "id": "CesvXueOe1Y",
+          "title": "Ottava della Natività di Nostro Signore Gesù Cristo - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/CesvXueOe1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T09:25:00Z"
+        },
+        {
           "id": "gEKdgyacrqM",
           "title": "Thu. Jan. 1, 2026     -     Octave Day of the Nativity of Our Lord    -    Holy Day of Obligation",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gEKdgyacrqM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T15:00:00Z"
+        },
+        {
+          "id": "xGMdvXriF8I",
+          "title": "Vesper und Sakramentsandacht - Oktavtag von Weihnachten - 01. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/xGMdvXriF8I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T16:30:00Z"
         }
       ]
     },
