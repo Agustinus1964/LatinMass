@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T08:26:07.344Z",
+  "lastUpdated": "2025-12-31T08:52:18.130Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NfBxUndIAdE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T23:00:00Z"
+        },
+        {
+          "id": "YtIJVK4Q16g",
+          "title": "Amt - Oktavtag von Weihnachten - 01. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YtIJVK4Q16g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T08:30:00Z"
         }
       ]
     },
