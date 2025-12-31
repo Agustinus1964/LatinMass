@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-12-31T20:43:23.212Z",
+  "lastUpdated": "2025-12-31T21:16:07.561Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "XBqSnbA7nuw",
+          "title": "Mass of Circumcision of Our Lord - 1.1.2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/XBqSnbA7nuw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dUlLpdzYyfQ",
           "title": "In Octava Nativitatis Domini et Circumcisione Domini",
