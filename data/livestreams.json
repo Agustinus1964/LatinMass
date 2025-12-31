@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T14:43:14.098Z",
+  "lastUpdated": "2025-12-31T15:18:03.317Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/yUoqV7AobGE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T09:00:00Z"
+        },
+        {
+          "id": "gEKdgyacrqM",
+          "title": "Thu. Jan. 1, 2026     -     Octave Day of the Nativity of Our Lord    -    Holy Day of Obligation",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/gEKdgyacrqM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uWIoNUUOng0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/uWIoNUUOng0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "lFg_snJ-AtQ",
           "title": "Wednesday 31st December 2025: 7th day in the Christmas Octave",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/B7_8UKvob1E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T13:00:00Z"
+        },
+        {
+          "id": "uy45nY1F8xM",
+          "title": "10AM Sung Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/uy45nY1F8xM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T15:00:00Z"
         }
       ]
     }
