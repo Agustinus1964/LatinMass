@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T19:13:37.938Z",
+  "lastUpdated": "2025-12-31T19:36:23.572Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "I3VwUgbciX4",
-          "title": "Sainte messe de la fête de Saint Silvestre & Te Deum - SI DILIGIS ME",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/I3VwUgbciX4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0U6NUgfoS1U",
           "title": "Divine Office & 6PM Low Mass. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
