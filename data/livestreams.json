@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T16:48:25.278Z",
+  "lastUpdated": "2025-12-31T17:16:02.129Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,8 +69,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/lFg_snJ-AtQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tLV6O6YrQnI",
