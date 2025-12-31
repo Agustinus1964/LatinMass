@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T09:45:10.404Z",
+  "lastUpdated": "2025-12-31T10:19:06.749Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/MWLtnMkkOA4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "P7SkHgepBrA",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nhe-SLGz6aY",
-          "title": "Prima e Missa rezada do VI dia da oitava de Natal",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/nhe-SLGz6aY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IHVY_GIsLrA",
           "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
@@ -125,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/0U6NUgfoS1U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2025-12-31T22:00:00Z"
+        },
+        {
+          "id": "44c4XjE2R9M",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/44c4XjE2R9M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T10:00:00Z"
+        },
+        {
+          "id": "PEG8ZEWzufE",
+          "title": "Sainte messe de la fête de la Circoncision - PUER NATUS EST NOBIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/PEG8ZEWzufE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T10:00:00Z"
         }
       ]
     }
