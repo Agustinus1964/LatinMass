@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2025-12-31T20:19:34.113Z",
+  "lastUpdated": "2025-12-31T20:43:23.212Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dUlLpdzYyfQ",
+          "title": "In Octava Nativitatis Domini et Circumcisione Domini",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/dUlLpdzYyfQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T07:30:00Z"
+        },
         {
           "id": "YtIJVK4Q16g",
           "title": "Amt - Oktavtag von Weihnachten - 01. Januar 2026",
