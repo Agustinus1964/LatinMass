@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2025-12-31T21:39:05.217Z",
+  "lastUpdated": "2025-12-31T22:18:01.350Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XBqSnbA7nuw",
-          "title": "Mass of Circumcision of Our Lord - 1.1.2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/XBqSnbA7nuw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dUlLpdzYyfQ",
           "title": "In Octava Nativitatis Domini et Circumcisione Domini",
@@ -78,8 +69,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/0U6NUgfoS1U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "44c4XjE2R9M",
@@ -127,6 +118,15 @@
           "scheduledTime": "2026-01-01T13:00:00Z"
         },
         {
+          "id": "CV3mG2HNr_M",
+          "title": "8:30 AM Mass celebrating the Octave of the Nativity",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/CV3mG2HNr_M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T13:26:00Z"
+        },
+        {
           "id": "bhQ11KQn55M",
           "title": "Live Stream Holy Mass (Low) from Cleveland (Circumcision of the Lord, Octave-Day of the Nativity)",
           "channel": "Usus Antiquior",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uy45nY1F8xM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T15:00:00Z"
+        },
+        {
+          "id": "LMcrsbESFwA",
+          "title": "11 AM Mass celebrating the Octave of Nativity",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/LMcrsbESFwA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T15:56:00Z"
         }
       ]
     }
