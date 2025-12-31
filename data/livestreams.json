@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T15:18:03.317Z",
+  "lastUpdated": "2025-12-31T15:41:53.573Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/B7_8UKvob1E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T13:00:00Z"
+        },
+        {
+          "id": "bhQ11KQn55M",
+          "title": "Live Stream Holy Mass (Low) from Cleveland (Circumcision of the Lord, Octave-Day of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bhQ11KQn55M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T14:00:00Z"
         },
         {
           "id": "uy45nY1F8xM",
