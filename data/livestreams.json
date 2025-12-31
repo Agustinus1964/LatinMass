@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T08:52:18.130Z",
+  "lastUpdated": "2025-12-31T09:22:11.786Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/YtIJVK4Q16g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T08:30:00Z"
+        },
+        {
+          "id": "yUoqV7AobGE",
+          "title": "FSSPX Antwerpen - 01/01 OCTAAFDAG van KERSTMIS, BESNIJDENIS des HEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/yUoqV7AobGE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "nhe-SLGz6aY",
+          "title": "Prima e Missa rezada do VI dia da oitava de Natal",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/nhe-SLGz6aY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "IHVY_GIsLrA",
           "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
