@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2025-12-31T17:40:40.032Z",
+  "lastUpdated": "2025-12-31T18:25:30.708Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "P7SkHgepBrA",
-          "title": "Jahresschlussandacht und hl. Messe - 31. Dezember 2025",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/P7SkHgepBrA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YtIJVK4Q16g",
           "title": "Amt - Oktavtag von Weihnachten - 01. Januar 2026",
@@ -64,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "lFg_snJ-AtQ",
-          "title": "Wednesday 31st December 2025: 7th day in the Christmas Octave",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/lFg_snJ-AtQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tLV6O6YrQnI",
           "title": "Wednesday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/tLV6O6YrQnI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "I3VwUgbciX4",
@@ -87,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/I3VwUgbciX4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0U6NUgfoS1U",
