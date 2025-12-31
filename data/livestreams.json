@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T18:50:53.015Z",
+  "lastUpdated": "2025-12-31T19:13:37.938Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tLV6O6YrQnI",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tLV6O6YrQnI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "I3VwUgbciX4",
           "title": "Sainte messe de la fête de Saint Silvestre & Te Deum - SI DILIGIS ME",
