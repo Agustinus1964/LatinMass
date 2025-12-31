@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T10:45:13.138Z",
+  "lastUpdated": "2025-12-31T11:16:42.172Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "NoZ-6BdraN8",
+          "title": "Wednesday 6 AM Traditional Catholic Mass12/31/2025",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NoZ-6BdraN8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "IHVY_GIsLrA",
           "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
