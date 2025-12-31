@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T21:16:07.561Z",
+  "lastUpdated": "2025-12-31T21:39:05.217Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W6VL-DtCOFg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T10:30:00Z"
+        },
+        {
+          "id": "TOEKYjNK2pw",
+          "title": "7 AM Mass celebrating the Octave of the Nativity",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/TOEKYjNK2pw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T11:55:00Z"
         },
         {
           "id": "B7_8UKvob1E",
