@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2025-12-31T11:16:42.172Z",
+  "lastUpdated": "2025-12-31T11:38:12.122Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/bc_N4ypOftE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MWLtnMkkOA4",
-          "title": "FSSPX Antwerpen - 31/12 ONDER het OCTAAF van KERSTMIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/MWLtnMkkOA4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "IHVY_GIsLrA",
+          "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/IHVY_GIsLrA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "NoZ-6BdraN8",
           "title": "Wednesday 6 AM Traditional Catholic Mass12/31/2025",
           "channel": "St. Benedict Parish",
@@ -71,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/NoZ-6BdraN8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "IHVY_GIsLrA",
-          "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/IHVY_GIsLrA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2025-12-31T12:00:00Z"
         },
         {
           "id": "ewIBmn5GXU0",
