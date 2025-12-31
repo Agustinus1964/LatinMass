@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2025-12-31T12:37:03.917Z",
+  "lastUpdated": "2025-12-31T13:30:37.085Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NfBxUndIAdE",
-          "title": "Wed. Dec. 31, 2025    -    Seventh Day within the Octave of the Nativity    -    New Years Eve",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/NfBxUndIAdE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bc_N4ypOftE",
           "title": "De séptima die infra octávam Nativitátis",
@@ -55,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ewIBmn5GXU0",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Seventh Day in the Octave of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ewIBmn5GXU0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IHVY_GIsLrA",
-          "title": "7AM Low Mass & Divine Office. 7th Day in the Octave of Christmas. II. St Sylvester I, Pope. 12-31-25",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/IHVY_GIsLrA/mqdefault_live.jpg",
+          "id": "ySTAA__X-24",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 12/31/2025",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ySTAA__X-24/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W6VL-DtCOFg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T10:30:00Z"
+        },
+        {
+          "id": "B7_8UKvob1E",
+          "title": "8AM Low Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/B7_8UKvob1E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T13:00:00Z"
         }
       ]
     }
