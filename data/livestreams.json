@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-01-01T15:42:09.035Z",
+  "lastUpdated": "2026-01-01T16:22:57.937Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "V2xl_yoU69o",
-          "title": "Feast of the Circumcision & Octave Day of the Nativity - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/V2xl_yoU69o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XUswN1MVwYA",
-          "title": "January 1st 2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/XUswN1MVwYA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gEKdgyacrqM",
-          "title": "Thu. Jan. 1, 2026     -     Octave Day of the Nativity of Our Lord    -    Holy Day of Obligation",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gEKdgyacrqM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dh6D00mhmYs",
           "title": "Feast of the Circumcision, January 1, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/dh6D00mhmYs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T15:45:18Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "xGMdvXriF8I",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ubTqB6yl9qI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T12:15:00Z"
+        },
+        {
+          "id": "u1hTMGS28rc",
+          "title": "FSSPX Antwerpen - 02/01 H. Uur met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/u1hTMGS28rc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T16:00:00Z"
         }
       ]
     },
@@ -82,11 +64,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uy45nY1F8xM",
-          "title": "10AM Sung Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/uy45nY1F8xM/mqdefault_live.jpg",
+          "id": "NDiTV8Dhuc0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/NDiTV8Dhuc0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "LMcrsbESFwA",
+          "title": "11 AM Mass celebrating the Octave of Nativity",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/LMcrsbESFwA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,15 +109,6 @@
           "scheduledTime": null
         },
         {
-          "id": "LMcrsbESFwA",
-          "title": "11 AM Mass celebrating the Octave of Nativity",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/LMcrsbESFwA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T15:56:00Z"
-        },
-        {
           "id": "oGqZR8qIy3I",
           "title": "Live Stream Holy Mass (High) from Cleveland (Circumcision of the Lord, Octave Day of the Nativity)",
           "channel": "Usus Antiquior",
@@ -143,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LNBBevmjAhc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T00:00:00Z"
+        },
+        {
+          "id": "WmRQCxTCUKo",
+          "title": "11AM Low Mass & Divine Office. First Friday. Feria of Christmas. Sacred Heart of Jesus. Jan. 2, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WmRQCxTCUKo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T16:00:00Z"
         }
       ]
     }
