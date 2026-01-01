@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-01-01T13:31:09.189Z",
+  "lastUpdated": "2026-01-01T14:17:02.337Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "CesvXueOe1Y",
-          "title": "Ottava della Natività di Nostro Signore Gesù Cristo - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/CesvXueOe1Y/mqdefault_live.jpg",
+          "id": "QBB9AXLH3s8",
+          "title": "High Mass - Circumcision of Our Lord - 1/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/QBB9AXLH3s8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "V2xl_yoU69o",
+          "title": "Feast of the Circumcision & Octave Day of the Nativity - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/V2xl_yoU69o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "B7_8UKvob1E",
-          "title": "8AM Low Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/B7_8UKvob1E/mqdefault_live.jpg",
+          "id": "bhQ11KQn55M",
+          "title": "Live Stream Holy Mass (Low) from Cleveland (Circumcision of the Lord, Octave-Day of the Nativity)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bhQ11KQn55M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sOtDzGaqMi8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/sOtDzGaqMi8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,15 +109,6 @@
           "scheduledTime": null
         },
         {
-          "id": "bhQ11KQn55M",
-          "title": "Live Stream Holy Mass (Low) from Cleveland (Circumcision of the Lord, Octave-Day of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/bhQ11KQn55M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T14:00:00Z"
-        },
-        {
           "id": "uy45nY1F8xM",
           "title": "10AM Sung Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uy45nY1F8xM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T15:00:00Z"
+        },
+        {
+          "id": "zyVIhOiKxvw",
+          "title": "Octave Day of Christmas / Jour de l'Octave de Noël",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/zyVIhOiKxvw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-01T15:30:00Z"
         },
         {
           "id": "LMcrsbESFwA",
