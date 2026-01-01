@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T14:17:02.337Z",
+  "lastUpdated": "2026-01-01T14:43:03.148Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,6 +19,15 @@
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/V2xl_yoU69o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XUswN1MVwYA",
+          "title": "January 1st 2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/XUswN1MVwYA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,15 +105,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/CV3mG2HNr_M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cyTSApnAyZs",
-          "title": "Missa Cantada da Oitava do Natal 01.01.2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/cyTSApnAyZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
