@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-01T08:51:22.042Z",
+  "lastUpdated": "2026-01-01T09:22:12.766Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "yUoqV7AobGE",
+          "title": "FSSPX Antwerpen - 01/01 OCTAAFDAG van KERSTMIS, BESNIJDENIS des HEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/yUoqV7AobGE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "YtIJVK4Q16g",
           "title": "Amt - Oktavtag von Weihnachten - 01. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/YtIJVK4Q16g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "yUoqV7AobGE",
-          "title": "FSSPX Antwerpen - 01/01 OCTAAFDAG van KERSTMIS, BESNIJDENIS des HEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yUoqV7AobGE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T09:00:00Z"
         },
         {
           "id": "CesvXueOe1Y",
