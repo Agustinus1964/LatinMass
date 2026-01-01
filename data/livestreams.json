@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T21:39:26.576Z",
+  "lastUpdated": "2026-01-01T22:17:33.659Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/98A59Vzwr44/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T18:00:00Z"
+        },
+        {
+          "id": "a2dG8hjWvfg",
+          "title": "Divine Office, Mass, Holy Hour. First Friday. Feria of Christmas. Sacred Heart of Jesus. 1-2-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T22:00:00Z"
         }
       ]
     }
