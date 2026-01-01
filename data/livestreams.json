@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T10:45:50.001Z",
+  "lastUpdated": "2026-01-01T11:15:51.337Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "W6VL-DtCOFg",
-          "title": "Thursday 1st January 2026: Christmas Octave",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/W6VL-DtCOFg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PEG8ZEWzufE",
           "title": "Sainte messe de la fête de la Circoncision - PUER NATUS EST NOBIS",
