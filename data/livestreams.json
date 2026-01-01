@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T07:25:23.450Z",
+  "lastUpdated": "2026-01-01T07:42:24.571Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/dUlLpdzYyfQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YtIJVK4Q16g",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/YtIJVK4Q16g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "yUoqV7AobGE",
