@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-01T20:43:50.587Z",
+  "lastUpdated": "2026-01-01T21:16:46.848Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PqCPAPVgJwk",
-          "title": "Ferial Mass  - 2.1.2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/PqCPAPVgJwk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OluPvVdRfZU",
           "title": "Hl. Messe - Herz-Jesu Freitag - 02. Januar 2026",
@@ -72,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "md3F6CWBAI0",
-          "title": "Missa Rezada da Oitava de Natal e Circuncisão do Senhor",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/md3F6CWBAI0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oGqZR8qIy3I",
           "title": "Live Stream Holy Mass (High) from Cleveland (Circumcision of the Lord, Octave Day of the Nativity)",
