@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T05:48:49.736Z",
+  "lastUpdated": "2026-01-01T06:28:49.202Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7dxi4XP6FLE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-01T18:00:00Z"
+        },
+        {
+          "id": "OluPvVdRfZU",
+          "title": "Hl. Messe - Herz-Jesu Freitag - 02. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/OluPvVdRfZU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T06:15:00Z"
         }
       ]
     },
