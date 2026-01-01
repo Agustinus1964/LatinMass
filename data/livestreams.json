@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-01T10:19:42.394Z",
+  "lastUpdated": "2026-01-01T10:45:50.001Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yUoqV7AobGE",
-          "title": "FSSPX Antwerpen - 01/01 OCTAAFDAG van KERSTMIS, BESNIJDENIS des HEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yUoqV7AobGE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CesvXueOe1Y",
           "title": "Ottava della Natività di Nostro Signore Gesù Cristo - Santa Messa cantata - FSSPX Italia",
@@ -64,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "44c4XjE2R9M",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/44c4XjE2R9M/mqdefault_live.jpg",
+          "id": "W6VL-DtCOFg",
+          "title": "Thursday 1st January 2026: Christmas Octave",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/W6VL-DtCOFg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sDQLZOca2N0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "W6VL-DtCOFg",
-          "title": "Thursday 1st January 2026: Christmas Octave",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/W6VL-DtCOFg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T10:30:00Z"
         },
         {
           "id": "TOEKYjNK2pw",
