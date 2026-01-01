@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T11:38:29.306Z",
+  "lastUpdated": "2026-01-01T12:37:10.904Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OluPvVdRfZU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T06:15:00Z"
+        },
+        {
+          "id": "ubTqB6yl9qI",
+          "title": "Fri. Jan. 2, 2026    -    Ferial Day     -     (First Friday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ubTqB6yl9qI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T12:15:00Z"
         }
       ]
     },
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sDQLZOca2N0",
-          "title": "Missa rezada da oitava de Natal",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/sDQLZOca2N0/mqdefault_live.jpg",
+          "id": "B7_8UKvob1E",
+          "title": "8AM Low Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/B7_8UKvob1E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,17 +78,17 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/TOEKYjNK2pw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "B7_8UKvob1E",
-          "title": "8AM Low Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/B7_8UKvob1E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T13:00:00Z"
+          "id": "cyTSApnAyZs",
+          "title": "Missa Cantada da Oitava do Natal 01.01.2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/cyTSApnAyZs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CV3mG2HNr_M",
