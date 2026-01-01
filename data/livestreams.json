@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-01T17:17:14.936Z",
+  "lastUpdated": "2026-01-01T17:41:52.662Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dh6D00mhmYs",
-          "title": "Feast of the Circumcision, January 1, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/dh6D00mhmYs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xGMdvXriF8I",
-          "title": "Vesper und Sakramentsandacht - Oktavtag von Weihnachten - 01. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xGMdvXriF8I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7dxi4XP6FLE",
           "title": "Octave Day of the Nativity of Our Lord | January 1st",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oS204W3Bg50/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T17:00:00Z"
+        },
+        {
+          "id": "I54R8iTtqeg",
+          "title": "FSSPX Antwerpen - 02/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/I54R8iTtqeg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T17:30:00Z"
         }
       ]
     },
