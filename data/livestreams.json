@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T11:15:51.337Z",
+  "lastUpdated": "2026-01-01T11:38:29.306Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PEG8ZEWzufE",
-          "title": "Sainte messe de la fête de la Circoncision - PUER NATUS EST NOBIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/PEG8ZEWzufE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sDQLZOca2N0",
           "title": "Missa rezada da oitava de Natal",
