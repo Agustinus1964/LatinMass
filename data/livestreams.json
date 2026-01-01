@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T17:41:52.662Z",
+  "lastUpdated": "2026-01-01T18:26:19.382Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/7dxi4XP6FLE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OluPvVdRfZU",
@@ -64,29 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "NDiTV8Dhuc0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/NDiTV8Dhuc0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LMcrsbESFwA",
-          "title": "11 AM Mass celebrating the Octave of Nativity",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/LMcrsbESFwA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rjGp_aHnEBg",
-          "title": "Santa Misa. 01 de Enero 2026.",
+          "id": "pYwhhNbWNZs",
+          "title": "Santo Sacrificio de la Misa. La Circuncisión de Nuestro Señor Jesucristo. 01 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/rjGp_aHnEBg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/pYwhhNbWNZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WmRQCxTCUKo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T16:00:00Z"
+        },
+        {
+          "id": "Zi1ASG-tJW8",
+          "title": "Friday 2nd January 2026: First Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Zi1ASG-tJW8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T18:00:00Z"
+        },
+        {
+          "id": "98A59Vzwr44",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/98A59Vzwr44/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T18:00:00Z"
         }
       ]
     }
