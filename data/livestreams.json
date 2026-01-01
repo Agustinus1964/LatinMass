@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T23:17:47.705Z",
+  "lastUpdated": "2026-01-01T23:40:26.732Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,8 +69,8 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/oGqZR8qIy3I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LNBBevmjAhc",
