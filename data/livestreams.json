@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T20:20:32.409Z",
+  "lastUpdated": "2026-01-01T20:43:50.587Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OluPvVdRfZU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T06:15:00Z"
+        },
+        {
+          "id": "E-SXxKAGquc",
+          "title": "Feria in Christmastide",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/E-SXxKAGquc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T07:30:00Z"
         },
         {
           "id": "ubTqB6yl9qI",
