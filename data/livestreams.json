@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T14:43:03.148Z",
+  "lastUpdated": "2026-01-01T15:18:36.271Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,8 +37,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/gEKdgyacrqM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dh6D00mhmYs",
+          "title": "Feast of the Circumcision, January 1, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/dh6D00mhmYs/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-01T15:00:00Z"
+          "scheduledTime": "2026-01-01T15:45:18Z"
         },
         {
           "id": "xGMdvXriF8I",
@@ -82,40 +91,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "bhQ11KQn55M",
-          "title": "Live Stream Holy Mass (Low) from Cleveland (Circumcision of the Lord, Octave-Day of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/bhQ11KQn55M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sOtDzGaqMi8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/sOtDzGaqMi8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "CV3mG2HNr_M",
-          "title": "8:30 AM Mass celebrating the Octave of the Nativity",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/CV3mG2HNr_M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "uy45nY1F8xM",
           "title": "10AM Sung Mass. Octave of the Nativity of the Lord. Thursday, January 1, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/uy45nY1F8xM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rjGp_aHnEBg",
+          "title": "Santa Misa. 01 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/rjGp_aHnEBg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zyVIhOiKxvw",
