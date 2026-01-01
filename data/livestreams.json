@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T12:37:10.904Z",
+  "lastUpdated": "2026-01-01T13:31:09.189Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,11 +73,11 @@
           "scheduledTime": null
         },
         {
-          "id": "TOEKYjNK2pw",
-          "title": "7 AM Mass celebrating the Octave of the Nativity",
+          "id": "CV3mG2HNr_M",
+          "title": "8:30 AM Mass celebrating the Octave of the Nativity",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/TOEKYjNK2pw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/CV3mG2HNr_M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cyTSApnAyZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "CV3mG2HNr_M",
-          "title": "8:30 AM Mass celebrating the Octave of the Nativity",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/CV3mG2HNr_M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-01T13:26:00Z"
         },
         {
           "id": "bhQ11KQn55M",
