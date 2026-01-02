@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T21:13:48.500Z",
+  "lastUpdated": "2026-01-02T21:37:40.607Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "a2dG8hjWvfg",
+          "title": "Divine Office, Mass, Holy Hour. First Friday. Feria of Christmas. Sacred Heart of Jesus. 1-2-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "PeQrIa3QTbk",
           "title": "Santo Terço",
           "channel": "Missa Tridentina em Brasília",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PeQrIa3QTbk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "a2dG8hjWvfg",
-          "title": "Divine Office, Mass, Holy Hour. First Friday. Feria of Christmas. Sacred Heart of Jesus. 1-2-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T22:00:00Z"
         },
         {
           "id": "nJGX7n-5hgg",
