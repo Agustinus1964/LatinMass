@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-02T06:57:18.652Z",
+  "lastUpdated": "2026-01-02T07:26:30.644Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OluPvVdRfZU",
-          "title": "Hl. Messe - Herz-Jesu Freitag - 02. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/OluPvVdRfZU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "E-SXxKAGquc",
           "title": "Feria in Christmastide",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/q_yph6nlLNU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T06:15:00Z"
+        },
+        {
+          "id": "bKhcEIKf7Ws",
+          "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T07:15:00Z"
         }
       ]
     },
