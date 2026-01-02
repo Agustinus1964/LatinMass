@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-02T20:43:24.738Z",
+  "lastUpdated": "2026-01-02T21:13:48.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "sIbeUdu9rqY",
-          "title": "Rosary and Benediction - Saturday 3rd January 2026",
+          "id": "qTfJgU3L2ok",
+          "title": "Mass of Our Lady on Saturdays - 3rd January 2026",
           "channel": "SSPX ANZ-District",
           "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/sIbeUdu9rqY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qTfJgU3L2ok/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PeQrIa3QTbk",
+          "title": "Santo Terço",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/PeQrIa3QTbk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "a2dG8hjWvfg",
           "title": "Divine Office, Mass, Holy Hour. First Friday. Feria of Christmas. Sacred Heart of Jesus. 1-2-26.",
