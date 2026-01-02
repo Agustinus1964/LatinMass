@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T13:30:40.974Z",
+  "lastUpdated": "2026-01-02T14:18:13.299Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-JI1zP39b0U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T09:00:00Z"
+        },
+        {
+          "id": "TOUp7Lg5QK4",
+          "title": "Sat. Jan. 3, 2026    -    Blessed Virgin Mary on Saturday    -    (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/TOUp7Lg5QK4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T14:00:00Z"
         }
       ]
     },
@@ -69,6 +78,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/NiPCsxIQWmM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "a2vwffQ2Idg",
+          "title": "Santo Sacrificio de la Misa. Sagrado Corazón de Jesús. 02 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/a2vwffQ2Idg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -152,6 +170,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WhfqwRU3shg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T12:30:00Z"
+        },
+        {
+          "id": "6APAJzssmsg",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 01/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6APAJzssmsg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T13:55:00Z"
+        },
+        {
+          "id": "6e6cEY2HWd8",
+          "title": "9AM Low Mass. Our Lady on Saturday. IV. January 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/6e6cEY2HWd8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T14:00:00Z"
         }
       ]
     }
