@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T14:18:13.299Z",
+  "lastUpdated": "2026-01-02T14:44:19.668Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NiPCsxIQWmM",
-          "title": "First Friday 8 AM Mass and Devotions 01/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NiPCsxIQWmM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "a2vwffQ2Idg",
           "title": "Santo Sacrificio de la Misa. Sagrado Corazón de Jesús. 02 de Enero 2026.",
