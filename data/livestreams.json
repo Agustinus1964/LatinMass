@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T10:44:55.579Z",
+  "lastUpdated": "2026-01-02T11:16:11.854Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/ZUP-3Qn9tEs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ubTqB6yl9qI",
