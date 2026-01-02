@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-02T17:41:05.337Z",
+  "lastUpdated": "2026-01-02T18:26:32.864Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "I54R8iTtqeg",
-          "title": "FSSPX Antwerpen - 02/01 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/I54R8iTtqeg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oS204W3Bg50",
           "title": "Sakramentsandacht und hl. Messe - Herz-Jesu Freitag - 02. Januar 2026",
@@ -69,8 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Zi1ASG-tJW8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "98A59Vzwr44",
@@ -78,8 +69,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/98A59Vzwr44/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "j3QWutgx_u8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/j3QWutgx_u8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "a2dG8hjWvfg",
@@ -152,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6e6cEY2HWd8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T14:00:00Z"
+        },
+        {
+          "id": "4nttDRQVtao",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4nttDRQVtao/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T18:00:00Z"
         }
       ]
     }
