@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T04:25:15.469Z",
+  "lastUpdated": "2026-01-02T04:57:42.398Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "NiPCsxIQWmM",
+          "title": "First Friday 8 AM Mass and Devotions 01/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NiPCsxIQWmM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T12:55:00Z"
+        },
+        {
           "id": "WmRQCxTCUKo",
           "title": "11AM Low Mass & Divine Office. First Friday. Feria of Christmas. Sacred Heart of Jesus. Jan. 2, 2026",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nJGX7n-5hgg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T23:30:00Z"
+        },
+        {
+          "id": "9r97GYfnjpU",
+          "title": "First Friday Traditional Latin Mass and Benediction 01/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/9r97GYfnjpU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T23:55:00Z"
         }
       ]
     }
