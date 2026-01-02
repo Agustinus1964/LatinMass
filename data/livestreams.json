@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-01T23:40:26.732Z",
+  "lastUpdated": "2026-01-02T01:24:30.954Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "oGqZR8qIy3I",
-          "title": "Live Stream Holy Mass (High) from Cleveland (Circumcision of the Lord, Octave Day of the Nativity)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/oGqZR8qIy3I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "LNBBevmjAhc",
           "title": "OCTAVE OF CHRISTMAS, 2025",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/LNBBevmjAhc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T00:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WmRQCxTCUKo",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T22:00:00Z"
+        },
+        {
+          "id": "nJGX7n-5hgg",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/nJGX7n-5hgg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T23:30:00Z"
         }
       ]
     }
