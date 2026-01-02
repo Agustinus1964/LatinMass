@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T20:19:32.285Z",
+  "lastUpdated": "2026-01-02T20:43:24.738Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T07:15:00Z"
+        },
+        {
+          "id": "8xzeQV2tlGI",
+          "title": "Our Lady on Saturday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/8xzeQV2tlGI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T07:30:00Z"
         },
         {
           "id": "-JI1zP39b0U",
