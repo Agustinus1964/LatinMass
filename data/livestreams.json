@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-02T10:18:47.017Z",
+  "lastUpdated": "2026-01-02T10:44:55.579Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZUP-3Qn9tEs",
+          "title": "Sung Mass - First Friday (Sacred Heart)",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/ZUP-3Qn9tEs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-02T11:00:00Z"
+        },
         {
           "id": "ubTqB6yl9qI",
           "title": "Fri. Jan. 2, 2026    -    Ferial Day     -     (First Friday)",
@@ -73,15 +82,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "xLHgAmau1Kg",
-          "title": "Prima e Missa rezada do Sagrado Coração de Jesus",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/xLHgAmau1Kg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "NiPCsxIQWmM",
           "title": "First Friday 8 AM Mass and Devotions 01/02/2026",
           "channel": "St. Benedict Parish",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mdIx7FbvFmU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T23:55:00Z"
+        },
+        {
+          "id": "07aHs3N5wUc",
+          "title": "Saturday 3rd January 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/07aHs3N5wUc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T10:30:00Z"
         }
       ]
     }
