@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-02T17:15:46.760Z",
+  "lastUpdated": "2026-01-02T17:41:05.337Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "u1hTMGS28rc",
-          "title": "FSSPX Antwerpen - 02/01 H. Uur met Rozenhoedje",
+          "id": "I54R8iTtqeg",
+          "title": "FSSPX Antwerpen - 02/01 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/u1hTMGS28rc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/I54R8iTtqeg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/oS204W3Bg50/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T17:00:00Z"
-        },
-        {
-          "id": "I54R8iTtqeg",
-          "title": "FSSPX Antwerpen - 02/01 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/I54R8iTtqeg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T17:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "q_yph6nlLNU",
