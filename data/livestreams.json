@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T23:17:00.684Z",
+  "lastUpdated": "2026-01-02T23:38:50.257Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "nJGX7n-5hgg",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/nJGX7n-5hgg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "a2dG8hjWvfg",
           "title": "Divine Office, Mass, Holy Hour. First Friday. Feria of Christmas. Sacred Heart of Jesus. 1-2-26.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "nJGX7n-5hgg",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/nJGX7n-5hgg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T23:30:00Z"
         },
         {
           "id": "mdIx7FbvFmU",
