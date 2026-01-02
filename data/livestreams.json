@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-02T21:37:40.607Z",
+  "lastUpdated": "2026-01-02T22:17:43.210Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qTfJgU3L2ok",
-          "title": "Mass of Our Lady on Saturdays - 3rd January 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/qTfJgU3L2ok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "q_yph6nlLNU",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 03. Januar 2026",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mdIx7FbvFmU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-02T23:55:00Z"
+        },
+        {
+          "id": "B-Nkatfx77Y",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/B-Nkatfx77Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T08:30:00Z"
         },
         {
           "id": "07aHs3N5wUc",
