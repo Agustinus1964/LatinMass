@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-02T11:37:56.366Z",
+  "lastUpdated": "2026-01-02T12:36:08.815Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZUP-3Qn9tEs",
-          "title": "Sung Mass - First Friday (Sacred Heart)",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/ZUP-3Qn9tEs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ubTqB6yl9qI",
           "title": "Fri. Jan. 2, 2026    -    Ferial Day     -     (First Friday)",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/ubTqB6yl9qI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "u1hTMGS28rc",
@@ -152,6 +143,24 @@
           "thumbnail": "https://i.ytimg.com/vi/07aHs3N5wUc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T10:30:00Z"
+        },
+        {
+          "id": "KZser39td5A",
+          "title": "First Saturday 7 AM Mass01/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/KZser39td5A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T11:55:00Z"
+        },
+        {
+          "id": "WhfqwRU3shg",
+          "title": "7:30AM Low Mass. Our Lady on Saturday. IV. January 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WhfqwRU3shg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T12:30:00Z"
         }
       ]
     }
