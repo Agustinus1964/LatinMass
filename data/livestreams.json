@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T08:52:00.565Z",
+  "lastUpdated": "2026-01-02T09:21:31.887Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T07:15:00Z"
+        },
+        {
+          "id": "-JI1zP39b0U",
+          "title": "FSSPX Antwerpen - 03/01 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/-JI1zP39b0U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "xLHgAmau1Kg",
+          "title": "Prima e Missa rezada do Sagrado Coração de Jesus",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/xLHgAmau1Kg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "NiPCsxIQWmM",
           "title": "First Friday 8 AM Mass and Devotions 01/02/2026",
