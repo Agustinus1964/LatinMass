@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T22:17:43.210Z",
+  "lastUpdated": "2026-01-02T22:44:03.947Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PeQrIa3QTbk",
-          "title": "Santo Terço",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/PeQrIa3QTbk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
