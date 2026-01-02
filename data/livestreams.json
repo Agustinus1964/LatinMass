@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T18:51:45.807Z",
+  "lastUpdated": "2026-01-02T19:11:57.466Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Zi1ASG-tJW8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "j3QWutgx_u8",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/j3QWutgx_u8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
