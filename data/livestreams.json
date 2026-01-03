@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T09:40:55.752Z",
+  "lastUpdated": "2026-01-03T10:17:52.583Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YkGHILdd8O4",
-          "title": "Prima e missa votiva rezada do Imaculado Coração de Maria",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YkGHILdd8O4/mqdefault_live.jpg",
+          "id": "4nttDRQVtao",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4nttDRQVtao/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6e6cEY2HWd8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T14:00:00Z"
-        },
-        {
-          "id": "4nttDRQVtao",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4nttDRQVtao/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T18:00:00Z"
         }
       ]
     }
