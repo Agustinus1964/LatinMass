@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T16:46:18.537Z",
+  "lastUpdated": "2026-01-03T17:15:03.262Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -134,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4KgHXE0TlBw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T16:30:00Z"
+        },
+        {
+          "id": "GFOVNwZOwzo",
+          "title": "Vespers and Benediction — Holy Name of Jesus",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/GFOVNwZOwzo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T17:00:00Z"
         }
       ]
     }
