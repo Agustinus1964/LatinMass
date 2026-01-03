@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T10:17:52.583Z",
+  "lastUpdated": "2026-01-03T10:43:46.191Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,22 +28,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4nttDRQVtao",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4nttDRQVtao/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "07aHs3N5wUc",
           "title": "Saturday 3rd January 2026: First Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/07aHs3N5wUc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KZser39td5A",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6e6cEY2HWd8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T14:00:00Z"
+        },
+        {
+          "id": "O6Z8gAxpcTA",
+          "title": "Sunday 4th January 2026: The Most Holy Name of Jesus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/O6Z8gAxpcTA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T10:30:00Z"
         }
       ]
     }
