@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-03T10:43:46.191Z",
+  "lastUpdated": "2026-01-03T11:14:34.024Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bKhcEIKf7Ws",
+          "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "TOUp7Lg5QK4",
           "title": "Sat. Jan. 3, 2026    -    Blessed Virgin Mary on Saturday    -    (First Saturday)",
@@ -82,6 +91,24 @@
           "scheduledTime": "2026-01-03T14:00:00Z"
         },
         {
+          "id": "nJZJe9AHkMo",
+          "title": "8am — Holy Name of Jesus",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/nJZJe9AHkMo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T08:00:00Z"
+        },
+        {
+          "id": "_ti14BWOrR0",
+          "title": "9:30am — 2nd Sunday of Christmas",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_ti14BWOrR0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T09:30:00Z"
+        },
+        {
           "id": "O6Z8gAxpcTA",
           "title": "Sunday 4th January 2026: The Most Holy Name of Jesus",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -89,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/O6Z8gAxpcTA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T10:30:00Z"
+        },
+        {
+          "id": "B-vsdKE83SM",
+          "title": "11am —  2nd Sunday of Christmas",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/B-vsdKE83SM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T11:00:00Z"
         }
       ]
     }
