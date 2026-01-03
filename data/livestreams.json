@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T18:24:54.859Z",
+  "lastUpdated": "2026-01-03T18:49:47.574Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "w6Qs9t0I5_8",
+          "title": "Santo Sacrificio de la Misa. Quince años Zoé. 03 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/w6Qs9t0I5_8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nJZJe9AHkMo",
           "title": "8am — Holy Name of Jesus",
