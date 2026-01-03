@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T01:19:53.800Z",
+  "lastUpdated": "2026-01-03T03:06:23.448Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_gjBWsaupK8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/_gjBWsaupK8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "B-Nkatfx77Y",
           "title": "Sainte messe en semaine",
