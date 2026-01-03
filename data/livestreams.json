@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-03T15:39:51.756Z",
+  "lastUpdated": "2026-01-03T16:21:12.553Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TOUp7Lg5QK4",
-          "title": "Sat. Jan. 3, 2026    -    Blessed Virgin Mary on Saturday    -    (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/TOUp7Lg5QK4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "yVwOKXuTodo",
           "title": "Amt - Fest Namen Jesu - 04. Januar 2026",
@@ -36,24 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FPoqjEjp66c",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/FPoqjEjp66c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6APAJzssmsg",
-          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 01/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/6APAJzssmsg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nJZJe9AHkMo",
           "title": "8am — Holy Name of Jesus",
@@ -134,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Vx3w-W3QqH8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T15:30:00Z"
+        },
+        {
+          "id": "sz1VPDN17Ac",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/sz1VPDN17Ac/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T15:45:00Z"
         }
       ]
     }
