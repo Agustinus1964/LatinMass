@@ -1,33 +1,15 @@
 {
-  "lastUpdated": "2026-01-03T07:38:33.559Z",
+  "lastUpdated": "2026-01-03T08:23:13.065Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8xzeQV2tlGI",
-          "title": "Our Lady on Saturday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/8xzeQV2tlGI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bKhcEIKf7Ws",
           "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "q_yph6nlLNU",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 03. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/q_yph6nlLNU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
