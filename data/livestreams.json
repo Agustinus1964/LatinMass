@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T14:16:18.331Z",
+  "lastUpdated": "2026-01-03T14:41:19.788Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -33,15 +33,6 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/_iEZ0j4c-So/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6e6cEY2HWd8",
-          "title": "9AM Low Mass. Our Lady on Saturday. IV. January 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/6e6cEY2HWd8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,6 +91,15 @@
           "scheduledTime": "2026-01-04T11:00:00Z"
         },
         {
+          "id": "21LnO2b0Ths",
+          "title": "Sunday 7 AM Catholic Mass for 01/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/21LnO2b0Ths/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T11:54:00Z"
+        },
+        {
           "id": "xsY9XeV6gIM",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xsY9XeV6gIM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T12:00:00Z"
+        },
+        {
+          "id": "UBU0XrTaRq0",
+          "title": "Sunday 8:30 AM Catholic Mass for 01/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/UBU0XrTaRq0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T13:24:00Z"
         }
       ]
     }
