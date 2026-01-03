@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-03T11:14:34.024Z",
+  "lastUpdated": "2026-01-03T11:37:20.688Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bKhcEIKf7Ws",
-          "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TOUp7Lg5QK4",
           "title": "Sat. Jan. 3, 2026    -    Blessed Virgin Mary on Saturday    -    (First Saturday)",
@@ -36,15 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "07aHs3N5wUc",
-          "title": "Saturday 3rd January 2026: First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/07aHs3N5wUc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KZser39td5A",
           "title": "First Saturday 7 AM Mass01/03/2026",
