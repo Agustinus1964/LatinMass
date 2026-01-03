@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-03T06:53:22.136Z",
+  "lastUpdated": "2026-01-03T07:16:49.520Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bKhcEIKf7Ws",
+          "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "q_yph6nlLNU",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 03. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/q_yph6nlLNU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "bKhcEIKf7Ws",
-          "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T07:15:00Z"
         },
         {
           "id": "8xzeQV2tlGI",
