@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T17:39:53.771Z",
+  "lastUpdated": "2026-01-03T18:24:54.859Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dR_zcvhXKoY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T16:30:00Z"
+        },
+        {
+          "id": "jtWDB-gYUgs",
+          "title": "Feast of the Holy Name of Jesus | January 4th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/jtWDB-gYUgs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T18:00:00Z"
         }
       ]
     },
