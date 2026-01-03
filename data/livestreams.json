@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-02T23:38:50.257Z",
+  "lastUpdated": "2026-01-03T01:19:53.800Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nJGX7n-5hgg",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/nJGX7n-5hgg/mqdefault_live.jpg",
+          "id": "_gjBWsaupK8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/_gjBWsaupK8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "a2dG8hjWvfg",
-          "title": "Divine Office, Mass, Holy Hour. First Friday. Feria of Christmas. Sacred Heart of Jesus. 1-2-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/a2dG8hjWvfg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mdIx7FbvFmU",
-          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 01/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mdIx7FbvFmU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-02T23:55:00Z"
         },
         {
           "id": "B-Nkatfx77Y",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6APAJzssmsg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-03T13:55:00Z"
+        },
+        {
+          "id": "_iEZ0j4c-So",
+          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/_iEZ0j4c-So/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-03T14:00:00Z"
         },
         {
           "id": "6e6cEY2HWd8",
