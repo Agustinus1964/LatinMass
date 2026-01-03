@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T11:37:20.688Z",
+  "lastUpdated": "2026-01-03T12:34:31.980Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,22 +28,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KZser39td5A",
-          "title": "First Saturday 7 AM Mass01/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/KZser39td5A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T11:55:00Z"
-        },
-        {
           "id": "WhfqwRU3shg",
           "title": "7:30AM Low Mass. Our Lady on Saturday. IV. January 3, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/WhfqwRU3shg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KZser39td5A",
+          "title": "First Saturday 7 AM Mass01/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/KZser39td5A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6APAJzssmsg",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/B-vsdKE83SM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T11:00:00Z"
+        },
+        {
+          "id": "xsY9XeV6gIM",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/xsY9XeV6gIM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T12:00:00Z"
         }
       ]
     }
