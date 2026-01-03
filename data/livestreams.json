@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T14:41:19.788Z",
+  "lastUpdated": "2026-01-03T15:16:40.906Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yVwOKXuTodo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T08:30:00Z"
+        },
+        {
+          "id": "a1CnyNa-vtw",
+          "title": "Sun. Jan. 4, 2026    -    Feast of the Holy Name of Jesus",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/a1CnyNa-vtw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T15:00:00Z"
         }
       ]
     },
@@ -28,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_iEZ0j4c-So",
-          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/_iEZ0j4c-So/mqdefault_live.jpg",
+          "id": "FPoqjEjp66c",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/FPoqjEjp66c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -42,15 +51,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/6APAJzssmsg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ywt0YMwNItc",
-          "title": "Santo Sacrificio de la Misa. Sagrado Corazón de María. 03 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/ywt0YMwNItc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xsY9XeV6gIM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T12:00:00Z"
+        },
+        {
+          "id": "eKDL346wr90",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Most Holy Name of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/eKDL346wr90/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T13:00:00Z"
         },
         {
           "id": "UBU0XrTaRq0",
