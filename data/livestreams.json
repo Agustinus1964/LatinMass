@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-03T07:16:49.520Z",
+  "lastUpdated": "2026-01-03T07:38:33.559Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "8xzeQV2tlGI",
+          "title": "Our Lady on Saturday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/8xzeQV2tlGI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bKhcEIKf7Ws",
           "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
@@ -21,24 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/q_yph6nlLNU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "8xzeQV2tlGI",
-          "title": "Our Lady on Saturday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/8xzeQV2tlGI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T07:30:00Z"
-        },
-        {
-          "id": "-JI1zP39b0U",
-          "title": "FSSPX Antwerpen - 03/01 ONZE-LIEVE-VROUW op ZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/-JI1zP39b0U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-03T09:00:00Z"
         },
         {
           "id": "TOUp7Lg5QK4",
