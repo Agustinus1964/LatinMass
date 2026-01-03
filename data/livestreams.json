@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-03T08:48:22.182Z",
+  "lastUpdated": "2026-01-03T09:17:48.395Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "bKhcEIKf7Ws",
-          "title": "FSSPX Antwerpen - 03/01 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "id": "-JI1zP39b0U",
+          "title": "FSSPX Antwerpen - 03/01 ONZE-LIEVE-VROUW op ZATERDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bKhcEIKf7Ws/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/-JI1zP39b0U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -42,6 +42,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/B-Nkatfx77Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "YkGHILdd8O4",
+          "title": "Prima e missa votiva rezada do Imaculado Coração de Maria",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/YkGHILdd8O4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
