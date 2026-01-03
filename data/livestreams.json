@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T15:16:40.906Z",
+  "lastUpdated": "2026-01-03T15:39:51.756Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UBU0XrTaRq0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T13:24:00Z"
+        },
+        {
+          "id": "Vx3w-W3QqH8",
+          "title": "10:30AM Sung Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Vx3w-W3QqH8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T15:30:00Z"
         }
       ]
     }
