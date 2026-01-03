@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-03T16:21:12.553Z",
+  "lastUpdated": "2026-01-03T16:46:18.537Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a1CnyNa-vtw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T15:00:00Z"
+        },
+        {
+          "id": "dR_zcvhXKoY",
+          "title": "Vesper und Sakramentsandacht - Fest Namen Jesu - 04. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/dR_zcvhXKoY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T16:30:00Z"
         }
       ]
     },
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sz1VPDN17Ac/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T15:45:00Z"
+        },
+        {
+          "id": "4KgHXE0TlBw",
+          "title": "MOST HOLY NAME OF JESUS, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/4KgHXE0TlBw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T16:30:00Z"
         }
       ]
     }
