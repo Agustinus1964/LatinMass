@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-04T08:48:50.188Z",
+  "lastUpdated": "2026-01-04T09:17:08.083Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hfm1TVxjwIY",
+          "title": "FSSPX Antwerpen - 04/01 FEEST v/d ALLERHEILIGSTE NAAM van JEZUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/hfm1TVxjwIY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "yVwOKXuTodo",
           "title": "Amt - Fest Namen Jesu - 04. Januar 2026",
@@ -54,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nJZJe9AHkMo",
-          "title": "8am — Holy Name of Jesus",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/nJZJe9AHkMo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_ti14BWOrR0",
           "title": "9:30am — 2nd Sunday of Christmas",
