@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-04T17:40:32.509Z",
+  "lastUpdated": "2026-01-04T18:25:02.785Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KbI8pT-NP5k",
-          "title": "Feast of the Most Holy Name of Jesus, January 4, 2025",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/KbI8pT-NP5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jtWDB-gYUgs",
           "title": "Feast of the Holy Name of Jesus | January 4th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/jtWDB-gYUgs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KEZHgq74T1c",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KEZHgq74T1c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T12:15:00Z"
+        },
+        {
+          "id": "JsxqjISkweA",
+          "title": "FSSPX Antwerpen - 05/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/JsxqjISkweA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T17:30:00Z"
         }
       ]
     },
@@ -37,56 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nKZ1oEzTRtw",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/nKZ1oEzTRtw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4KgHXE0TlBw",
-          "title": "MOST HOLY NAME OF JESUS, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/4KgHXE0TlBw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xj-5GN-vGTM",
-          "title": "Sunday 11 AM Sung Mass 2026-01-04",
+          "id": "5cK8bxbv6Rc",
+          "title": "Sunday 1:30 PM Catholic Mass 01/04/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/xj-5GN-vGTM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JLQDnXRxIZM",
-          "title": "Santa Misa Dominical. 4 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/JLQDnXRxIZM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GFOVNwZOwzo",
-          "title": "Vespers and Benediction — Holy Name of Jesus",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GFOVNwZOwzo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qvQQiYX9LeA",
-          "title": "Secondes vêpres de la solennité de sainte Geneviève - FELICI CURSU",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/qvQQiYX9LeA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/5cK8bxbv6Rc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/pAFokqxoEAs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T12:30:00Z"
+        },
+        {
+          "id": "Yb4oUdti7zE",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Yb4oUdti7zE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T18:00:00Z"
+        },
+        {
+          "id": "FS6g5NB1HmM",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/FS6g5NB1HmM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T18:00:00Z"
         }
       ]
     }
