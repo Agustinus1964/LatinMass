@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-01-04T13:27:40.577Z",
+  "lastUpdated": "2026-01-04T13:47:00.301Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "D4navfGAJhw",
+          "title": "Low Mass - Most Holy name of Jesus - 1/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/D4navfGAJhw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tH6WQatrtQo",
+          "title": "The Feast of the Holy Name of Jesus",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/tH6WQatrtQo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dR_zcvhXKoY",
           "title": "Vesper und Sakramentsandacht - Fest Namen Jesu - 04. Januar 2026",
