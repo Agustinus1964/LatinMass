@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-04T19:36:25.423Z",
+  "lastUpdated": "2026-01-04T20:20:09.770Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "VnTNu5R8NM0",
+          "title": "Ferial Mon 5/Jan/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/VnTNu5R8NM0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KEZHgq74T1c",
           "title": "Mon. Jan. 5, 2026    -    Ferial Day",
@@ -37,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5cK8bxbv6Rc",
-          "title": "Sunday 1:30 PM Catholic Mass 01/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/5cK8bxbv6Rc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HVGpmuRH4AY",
-          "title": "Santo Sacrificio de La Misa, Domingo del dulce nombre de Jesús, 4 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/HVGpmuRH4AY/mqdefault_live.jpg",
+          "id": "3DH8_2G4RKw",
+          "title": "Missa rezada do Santíssimo Nome de Jesus",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/3DH8_2G4RKw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
