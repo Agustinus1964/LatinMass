@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T11:14:25.983Z",
+  "lastUpdated": "2026-01-04T11:37:15.798Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
           "scheduledTime": null
         },
         {
+          "id": "xsY9XeV6gIM",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/xsY9XeV6gIM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "B-vsdKE83SM",
           "title": "11am —  2nd Sunday of Christmas",
           "channel": "Oxford Oratory",
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/21LnO2b0Ths/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T11:54:00Z"
-        },
-        {
-          "id": "xsY9XeV6gIM",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xsY9XeV6gIM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T12:00:00Z"
         },
         {
           "id": "eKDL346wr90",
