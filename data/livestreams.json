@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T15:16:47.337Z",
+  "lastUpdated": "2026-01-04T15:39:24.063Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a1CnyNa-vtw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "KbI8pT-NP5k",
+          "title": "Feast of the Most Holy Name of Jesus, January 4, 2025",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/KbI8pT-NP5k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-04T15:45:38Z"
         },
         {
           "id": "dR_zcvhXKoY",
@@ -73,6 +82,15 @@
           "scheduledTime": null
         },
         {
+          "id": "sAgnhXeDjKc",
+          "title": "Feast of the Holy Name of Jesus / Fête du Saint Nom de Jésus",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/sAgnhXeDjKc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "5vHIH-4zh7g",
           "title": "Santa Misa Dominical. 4 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -80,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5vHIH-4zh7g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "sAgnhXeDjKc",
-          "title": "Feast of the Holy Name of Jesus / Fête du Saint Nom de Jésus",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/sAgnhXeDjKc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T15:30:00Z"
         },
         {
           "id": "sz1VPDN17Ac",
