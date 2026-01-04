@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T14:16:03.845Z",
+  "lastUpdated": "2026-01-04T14:40:52.634Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,24 +69,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/dksoi4l5I1I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xsY9XeV6gIM",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xsY9XeV6gIM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "UBU0XrTaRq0",
-          "title": "Sunday 8:30 AM Catholic Mass for 01/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UBU0XrTaRq0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
