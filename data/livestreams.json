@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T13:47:00.301Z",
+  "lastUpdated": "2026-01-04T14:16:03.845Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/D4navfGAJhw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "NU5yyfb_mJ0",
+          "title": "The Holy Face of Jesus - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/NU5yyfb_mJ0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "eKDL346wr90",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Most Holy Name of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/eKDL346wr90/mqdefault_live.jpg",
+          "id": "dksoi4l5I1I",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/dksoi4l5I1I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,6 +87,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/UBU0XrTaRq0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5vHIH-4zh7g",
+          "title": "Santa Misa Dominical. 4 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/5vHIH-4zh7g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -152,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Mq74PKN6ItM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T12:00:00Z"
+        },
+        {
+          "id": "pAFokqxoEAs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Telesphorus, Pope and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/pAFokqxoEAs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T12:30:00Z"
         }
       ]
     }
