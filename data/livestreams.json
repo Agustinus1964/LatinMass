@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T10:17:26.780Z",
+  "lastUpdated": "2026-01-04T10:43:13.577Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_ti14BWOrR0",
-          "title": "9:30am — 2nd Sunday of Christmas",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/_ti14BWOrR0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "iwfufaYPrCY",
           "title": "Sainte messe de la solennité de sainte Geneviève, patronne de Paris - GAUDENS GAUDEBO",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/iwfufaYPrCY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-E1W7309UPc",
+          "title": "Missa da Festa do Menino Jesus de Praga e do Santíssimo Nome de Jesus",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-E1W7309UPc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
