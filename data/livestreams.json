@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T16:46:46.211Z",
+  "lastUpdated": "2026-01-04T17:15:06.013Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -100,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "5vHIH-4zh7g",
-          "title": "Santa Misa Dominical. 4 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/5vHIH-4zh7g/mqdefault_live.jpg",
+          "id": "GFOVNwZOwzo",
+          "title": "Vespers and Benediction — Holy Name of Jesus",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/GFOVNwZOwzo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qvQQiYX9LeA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "GFOVNwZOwzo",
-          "title": "Vespers and Benediction — Holy Name of Jesus",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GFOVNwZOwzo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T17:00:00Z"
         },
         {
           "id": "roAYxlj9C3Y",
