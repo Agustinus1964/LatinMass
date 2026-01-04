@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T21:38:53.856Z",
+  "lastUpdated": "2026-01-04T22:17:08.415Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FS6g5NB1HmM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T18:00:00Z"
+        },
+        {
+          "id": "AcuMgM6zhzo",
+          "title": "Divine Office & 6PM Low Mass. Feria of Christmas. Monday, January 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/AcuMgM6zhzo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T22:00:00Z"
         }
       ]
     }
