@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T18:25:02.785Z",
+  "lastUpdated": "2026-01-04T18:50:06.398Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,6 +23,15 @@
           "scheduledTime": "2026-01-05T12:15:00Z"
         },
         {
+          "id": "OhhSqKPxH9E",
+          "title": "FSSPX Antwerpen - 05/01 Wijding van het Driekoningenwater",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/OhhSqKPxH9E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T15:00:00Z"
+        },
+        {
           "id": "JsxqjISkweA",
           "title": "FSSPX Antwerpen - 05/01 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -42,6 +51,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/5cK8bxbv6Rc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "HVGpmuRH4AY",
+          "title": "Santo Sacrificio de La Misa, Domingo del dulce nombre de Jesús, 4 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/HVGpmuRH4AY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
