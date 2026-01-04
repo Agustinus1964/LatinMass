@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-04T14:40:52.634Z",
+  "lastUpdated": "2026-01-04T15:16:47.337Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "D4navfGAJhw",
-          "title": "Low Mass - Most Holy name of Jesus - 1/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/D4navfGAJhw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "NU5yyfb_mJ0",
           "title": "The Holy Face of Jesus - The Immaculata",
@@ -28,6 +19,15 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/tH6WQatrtQo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "a1CnyNa-vtw",
+          "title": "Sun. Jan. 4, 2026    -    Feast of the Holy Name of Jesus",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/a1CnyNa-vtw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dksoi4l5I1I",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/dksoi4l5I1I/mqdefault_live.jpg",
+          "id": "Vx3w-W3QqH8",
+          "title": "10:30AM Sung Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Vx3w-W3QqH8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,20 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "kv-hPG8YVws",
-          "title": "Missa cantada do Santíssimo Nome de Jesus",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/kv-hPG8YVws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Vx3w-W3QqH8",
-          "title": "10:30AM Sung Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Vx3w-W3QqH8/mqdefault_live.jpg",
+          "id": "sAgnhXeDjKc",
+          "title": "Feast of the Holy Name of Jesus / Fête du Saint Nom de Jésus",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/sAgnhXeDjKc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T15:30:00Z"
         },
