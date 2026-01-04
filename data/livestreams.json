@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T17:15:06.013Z",
+  "lastUpdated": "2026-01-04T17:40:32.509Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,24 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/KbI8pT-NP5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7hhZf6RI2E0",
-          "title": "FSSPX Antwerpen - 04/01 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7hhZf6RI2E0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dR_zcvhXKoY",
-          "title": "Vesper und Sakramentsandacht - Fest Namen Jesu - 04. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/dR_zcvhXKoY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,15 +46,6 @@
           "scheduledTime": null
         },
         {
-          "id": "Vx3w-W3QqH8",
-          "title": "10:30AM Sung Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Vx3w-W3QqH8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "4KgHXE0TlBw",
           "title": "MOST HOLY NAME OF JESUS, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -91,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "sAgnhXeDjKc",
-          "title": "Feast of the Holy Name of Jesus / Fête du Saint Nom de Jésus",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/sAgnhXeDjKc/mqdefault_live.jpg",
+          "id": "JLQDnXRxIZM",
+          "title": "Santa Misa Dominical. 4 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/JLQDnXRxIZM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
