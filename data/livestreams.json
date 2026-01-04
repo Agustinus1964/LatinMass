@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T11:37:15.798Z",
+  "lastUpdated": "2026-01-04T12:35:05.082Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/jtWDB-gYUgs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T18:00:00Z"
+        },
+        {
+          "id": "KEZHgq74T1c",
+          "title": "Mon. Jan. 5, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/KEZHgq74T1c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "O6Z8gAxpcTA",
-          "title": "Sunday 4th January 2026: The Most Holy Name of Jesus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/O6Z8gAxpcTA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "xsY9XeV6gIM",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
@@ -55,40 +55,22 @@
           "scheduledTime": null
         },
         {
-          "id": "B-vsdKE83SM",
-          "title": "11am —  2nd Sunday of Christmas",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/B-vsdKE83SM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iwfufaYPrCY",
-          "title": "Sainte messe de la solennité de sainte Geneviève, patronne de Paris - GAUDENS GAUDEBO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/iwfufaYPrCY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-E1W7309UPc",
-          "title": "Missa da Festa do Menino Jesus de Praga e do Santíssimo Nome de Jesus",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-E1W7309UPc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "21LnO2b0Ths",
           "title": "Sunday 7 AM Catholic Mass for 01/04/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/21LnO2b0Ths/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T11:54:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kv-hPG8YVws",
+          "title": "Missa cantada do Santíssimo Nome de Jesus",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/kv-hPG8YVws/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eKDL346wr90",
@@ -161,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/roAYxlj9C3Y/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-04T19:00:00Z"
+        },
+        {
+          "id": "Mq74PKN6ItM",
+          "title": "7AM Low Mass & Divine Office. Feria of Christmas. Monday, January 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Mq74PKN6ItM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T12:00:00Z"
         }
       ]
     }
