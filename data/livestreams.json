@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-04T12:35:05.082Z",
+  "lastUpdated": "2026-01-04T13:27:40.577Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PM5QZPh3ApY",
-          "title": "Holy Name of Jesus",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/PM5QZPh3ApY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dR_zcvhXKoY",
           "title": "Vesper und Sakramentsandacht - Fest Namen Jesu - 04. Januar 2026",
@@ -46,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "eKDL346wr90",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Most Holy Name of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/eKDL346wr90/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "xsY9XeV6gIM",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. The Holy Name of Jesus. II. Sunday, January 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,11 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "21LnO2b0Ths",
-          "title": "Sunday 7 AM Catholic Mass for 01/04/2026",
+          "id": "UBU0XrTaRq0",
+          "title": "Sunday 8:30 AM Catholic Mass for 01/04/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/21LnO2b0Ths/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UBU0XrTaRq0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kv-hPG8YVws/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "eKDL346wr90",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Most Holy Name of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/eKDL346wr90/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T13:00:00Z"
-        },
-        {
-          "id": "UBU0XrTaRq0",
-          "title": "Sunday 8:30 AM Catholic Mass for 01/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UBU0XrTaRq0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T13:24:00Z"
         },
         {
           "id": "Vx3w-W3QqH8",
