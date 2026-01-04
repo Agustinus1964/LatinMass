@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T16:20:52.997Z",
+  "lastUpdated": "2026-01-04T16:46:46.211Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/KbI8pT-NP5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "a1CnyNa-vtw",
-          "title": "Sun. Jan. 4, 2026    -    Feast of the Holy Name of Jesus",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/a1CnyNa-vtw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -37,8 +28,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/dR_zcvhXKoY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jtWDB-gYUgs",
@@ -82,6 +73,15 @@
           "scheduledTime": null
         },
         {
+          "id": "4KgHXE0TlBw",
+          "title": "MOST HOLY NAME OF JESUS, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/4KgHXE0TlBw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "xj-5GN-vGTM",
           "title": "Sunday 11 AM Sung Mass 2026-01-04",
           "channel": "St. Benedict Parish",
@@ -109,31 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "sz1VPDN17Ac",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/sz1VPDN17Ac/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4KgHXE0TlBw",
-          "title": "MOST HOLY NAME OF JESUS, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/4KgHXE0TlBw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T16:30:00Z"
-        },
-        {
           "id": "qvQQiYX9LeA",
           "title": "Secondes vêpres de la solennité de sainte Geneviève - FELICI CURSU",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/qvQQiYX9LeA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T16:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GFOVNwZOwzo",
