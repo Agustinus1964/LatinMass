@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T09:39:32.041Z",
+  "lastUpdated": "2026-01-04T10:17:26.780Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/hfm1TVxjwIY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yVwOKXuTodo",
-          "title": "Amt - Fest Namen Jesu - 04. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/yVwOKXuTodo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/iwfufaYPrCY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-04T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "O6Z8gAxpcTA",
