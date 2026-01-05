@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T21:17:43.932Z",
+  "lastUpdated": "2026-01-05T21:42:25.471Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "AcuMgM6zhzo",
+          "title": "Divine Office & 6PM Low Mass. Feria of Christmas. Monday, January 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/AcuMgM6zhzo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "0erM_8qMJ-w",
           "title": "Terço, missa da vigília da Epifania e benção da Água da Epifania",
           "channel": "Missa Tridentina em Brasília",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/0erM_8qMJ-w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "AcuMgM6zhzo",
-          "title": "Divine Office & 6PM Low Mass. Feria of Christmas. Monday, January 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/AcuMgM6zhzo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T22:00:00Z"
         },
         {
           "id": "iUpFQiP7zU8",
