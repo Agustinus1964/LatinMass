@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-05T06:34:40.227Z",
+  "lastUpdated": "2026-01-05T07:26:05.257Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9JdzIFMSsDQ",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9JdzIFMSsDQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SEJeBSJs7d8",
           "title": "Die Quinta Ianuarii",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/SEJeBSJs7d8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KEZHgq74T1c",
