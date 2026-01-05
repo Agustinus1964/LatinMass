@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T18:56:26.757Z",
+  "lastUpdated": "2026-01-05T19:20:22.478Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JsxqjISkweA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "bhplcbm3kaU",
+          "title": "Amt - Epiphanie - 06. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/bhplcbm3kaU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T08:30:00Z"
         },
         {
           "id": "W-WWN8XaiTU",
@@ -30,30 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/gDKp_h9yemk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-06T12:15:00Z"
+        },
+        {
+          "id": "HsFZ6C14PTY",
+          "title": "Vesper und Sakramentsandacht - Epiphanie - 06. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VnGj08EVxJU",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/VnGj08EVxJU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Yb4oUdti7zE",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Yb4oUdti7zE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "AcuMgM6zhzo",
           "title": "Divine Office & 6PM Low Mass. Feria of Christmas. Monday, January 5, 2026.",
