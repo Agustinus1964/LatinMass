@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T08:58:45.579Z",
+  "lastUpdated": "2026-01-05T09:39:47.559Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "USpB_8leKWw",
+          "title": "Missa votiva de Nossa Senhora",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/USpB_8leKWw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Mq74PKN6ItM",
           "title": "7AM Low Mass & Divine Office. Feria of Christmas. Monday, January 5, 2026.",
