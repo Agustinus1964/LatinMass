@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-01-05T19:39:59.728Z",
+  "lastUpdated": "2026-01-05T20:22:06.659Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JsxqjISkweA",
+          "title": "FSSPX Antwerpen - 05/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/JsxqjISkweA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "qGOi9O44sh8",
+          "title": "Mass of the Epiphany of Our Lord - 6.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/qGOi9O44sh8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bhplcbm3kaU",
           "title": "Amt - Epiphanie - 06. Januar 2026",
