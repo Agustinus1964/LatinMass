@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T13:38:39.063Z",
+  "lastUpdated": "2026-01-05T14:21:35.229Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pAFokqxoEAs",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Telesphorus, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pAFokqxoEAs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iZqSpfRsA-o",
-          "title": "Monday 8 AM Traditional Latin Mass01/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/iZqSpfRsA-o/mqdefault_live.jpg",
+          "id": "O2pNONYAavI",
+          "title": "Santo Sacrificio de La Misa, Vigilia de la Epifanía. 5 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/O2pNONYAavI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BY9qrMzSiko/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-06T12:00:00Z"
+        },
+        {
+          "id": "_tRJWQFIegg",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Epiphany of the Lord)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/_tRJWQFIegg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T12:30:00Z"
         }
       ]
     }
