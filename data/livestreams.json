@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T10:50:19.284Z",
+  "lastUpdated": "2026-01-05T11:17:04.313Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JsxqjISkweA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T17:30:00Z"
+        },
+        {
+          "id": "W-WWN8XaiTU",
+          "title": "Solemn High Mass - Epiphany of the Lord",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/W-WWN8XaiTU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T11:00:00Z"
         }
       ]
     },
@@ -37,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "USpB_8leKWw",
-          "title": "Missa votiva de Nossa Senhora",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/USpB_8leKWw/mqdefault_live.jpg",
+          "id": "4lsDHRFW3tY",
+          "title": "Monday 6 AM Traditional Catholic Mass 01/05/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/4lsDHRFW3tY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
