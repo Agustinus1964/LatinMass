@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T18:28:42.930Z",
+  "lastUpdated": "2026-01-05T18:56:26.757Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,29 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "hjRxIyKDxkQ",
-          "title": "Monday 5th January 2026: Saint Telesphorus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/hjRxIyKDxkQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Yb4oUdti7zE",
           "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Yb4oUdti7zE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FS6g5NB1HmM",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/FS6g5NB1HmM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
