@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T11:17:04.313Z",
+  "lastUpdated": "2026-01-05T11:41:23.301Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Mq74PKN6ItM",
+          "title": "7AM Low Mass & Divine Office. Feria of Christmas. Monday, January 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Mq74PKN6ItM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "4lsDHRFW3tY",
           "title": "Monday 6 AM Traditional Catholic Mass 01/05/2026",
           "channel": "St. Benedict Parish",
@@ -55,15 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "Mq74PKN6ItM",
-          "title": "7AM Low Mass & Divine Office. Feria of Christmas. Monday, January 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Mq74PKN6ItM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T12:00:00Z"
-        },
-        {
           "id": "pAFokqxoEAs",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Telesphorus, Pope and Martyr)",
           "channel": "Usus Antiquior",
@@ -71,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pAFokqxoEAs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T12:30:00Z"
+        },
+        {
+          "id": "hjRxIyKDxkQ",
+          "title": "Monday 5th January 2026: Saint Telesphorus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/hjRxIyKDxkQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-05T18:00:00Z"
         },
         {
           "id": "Yb4oUdti7zE",
