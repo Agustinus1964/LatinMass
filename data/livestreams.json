@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T17:45:34.246Z",
+  "lastUpdated": "2026-01-05T18:28:42.930Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "VnGj08EVxJU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/VnGj08EVxJU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "hjRxIyKDxkQ",
           "title": "Monday 5th January 2026: Saint Telesphorus",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -51,8 +60,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Yb4oUdti7zE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FS6g5NB1HmM",
@@ -60,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/FS6g5NB1HmM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "AcuMgM6zhzo",
@@ -98,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/_tRJWQFIegg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-06T12:30:00Z"
+        },
+        {
+          "id": "lebGx3HW29o",
+          "title": "Tuesday 6th January 2026: Epiphany of Our Lord",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/lebGx3HW29o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T18:00:00Z"
+        },
+        {
+          "id": "tGlhqaEihik",
+          "title": "Solemn Mass for the Epiphany of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tGlhqaEihik/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T18:00:00Z"
+        },
+        {
+          "id": "Gk82CzSsFKo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Gk82CzSsFKo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T18:00:00Z"
         }
       ]
     }
