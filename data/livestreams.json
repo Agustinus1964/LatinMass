@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T22:45:04.467Z",
+  "lastUpdated": "2026-01-05T23:17:38.058Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/AcuMgM6zhzo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0erM_8qMJ-w",
-          "title": "Terço, missa da vigília da Epifania e benção da Água da Epifania",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/0erM_8qMJ-w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
