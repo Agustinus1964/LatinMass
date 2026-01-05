@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-04T23:40:04.664Z",
+  "lastUpdated": "2026-01-05T01:41:41.878Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AcuMgM6zhzo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-05T22:00:00Z"
+        },
+        {
+          "id": "iUpFQiP7zU8",
+          "title": "SAINT JOHN NEUMANN & EVE OF EPIPHANY BLESSING OF WATER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/iUpFQiP7zU8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T00:00:00Z"
         }
       ]
     }
