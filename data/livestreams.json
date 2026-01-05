@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-05T17:20:31.136Z",
+  "lastUpdated": "2026-01-05T17:45:34.246Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Y0WVYlXEtKw",
-          "title": "FSSPX Antwerpen - 05/01 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Y0WVYlXEtKw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "JsxqjISkweA",
           "title": "FSSPX Antwerpen - 05/01 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/JsxqjISkweA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T17:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "W-WWN8XaiTU",
@@ -51,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/hjRxIyKDxkQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-05T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Yb4oUdti7zE",
