@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-06T22:45:18.933Z",
+  "lastUpdated": "2026-01-06T23:17:54.433Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "amfuJpUTzuo",
+          "title": "The Feast of the Epiphany of Our Lord",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/amfuJpUTzuo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "r-DXdu-zz4M",
           "title": "Tue. Jan. 6, 2026   -   The Epiphany of Our Lord",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/r-DXdu-zz4M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-06T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jIAY-xuF2GQ",
@@ -55,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "_aOr8ahJ-6c",
+          "title": "Divine Office & 7PM Sung Mass. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/_aOr8ahJ-6c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "_7qGLkjB1DE",
           "title": "Missa cantada da Festa da Epifania",
           "channel": "Missa Tridentina em Brasília",
@@ -62,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_7qGLkjB1DE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_aOr8ahJ-6c",
-          "title": "7PM Sung Mass. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_aOr8ahJ-6c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-07T00:00:00Z"
         },
         {
           "id": "K5Rb8uzTB-4",
