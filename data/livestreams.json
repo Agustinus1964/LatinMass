@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T16:54:06.774Z",
+  "lastUpdated": "2026-01-06T17:20:52.941Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-06T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r-DXdu-zz4M",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EQM-MfcHauo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-07T12:15:00Z"
+        },
+        {
+          "id": "1hC10nM-EHo",
+          "title": "Rosenkranz und hl. Messe - 07. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/1hC10nM-EHo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-07T17:00:00Z"
         }
       ]
     },
