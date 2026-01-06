@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-06T15:45:11.474Z",
+  "lastUpdated": "2026-01-06T16:24:39.820Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "K0Tz4MhFsKs",
+          "title": "FSSPX Antwerpen - 06/01 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/K0Tz4MhFsKs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HsFZ6C14PTY",
           "title": "Vesper und Sakramentsandacht - Epiphanie - 06. Januar 2026",
@@ -36,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BY9qrMzSiko",
-          "title": "7AM Low Mass & Divine Office. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/BY9qrMzSiko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "lebGx3HW29o",
           "title": "Tuesday 6th January 2026: Epiphany of Our Lord",
