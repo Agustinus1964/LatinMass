@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-01-06T19:38:39.233Z",
+  "lastUpdated": "2026-01-06T20:20:33.831Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "C_7a7g5qWeU",
-          "title": "FSSPX Antwerpen - 06/01 VERSCHIJNING des HEREN, FEEST van DRIEKONINGEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/C_7a7g5qWeU/mqdefault_live.jpg",
+          "id": "HsFZ6C14PTY",
+          "title": "Vesper und Sakramentsandacht - Epiphanie - 06. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "7aRTUgYKQ8M",
+          "title": "Ferial Mass - 7.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/7aRTUgYKQ8M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
