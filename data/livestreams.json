@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T11:16:34.167Z",
+  "lastUpdated": "2026-01-06T11:39:27.360Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "BY9qrMzSiko",
+          "title": "7AM Low Mass & Divine Office. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/BY9qrMzSiko/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "lJsWGnO9jU4",
           "title": "Tuesday 6 AM Traditional Catholic Mass 01/06/2026",
           "channel": "St. Benedict Parish",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lJsWGnO9jU4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "BY9qrMzSiko",
-          "title": "7AM Low Mass & Divine Office. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/BY9qrMzSiko/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-06T12:00:00Z"
         },
         {
           "id": "_tRJWQFIegg",
