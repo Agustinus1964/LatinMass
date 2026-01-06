@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T18:27:34.122Z",
+  "lastUpdated": "2026-01-06T18:53:24.675Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/C_7a7g5qWeU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HsFZ6C14PTY",
-          "title": "Vesper und Sakramentsandacht - Epiphanie - 06. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "lebGx3HW29o",
-          "title": "Tuesday 6th January 2026: Epiphany of Our Lord",
+          "id": "z3fx9OctTec",
+          "title": "Tuesday 11th February 2025: Our Lady of Lourdes",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/lebGx3HW29o/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/z3fx9OctTec/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
