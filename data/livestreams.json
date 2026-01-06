@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T16:24:39.820Z",
+  "lastUpdated": "2026-01-06T16:54:06.774Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-06T16:30:00Z"
+        },
+        {
+          "id": "r-DXdu-zz4M",
+          "title": "Tue. Jan. 6, 2026   -   The Epiphany of Our Lord",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/r-DXdu-zz4M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T23:00:00Z"
         },
         {
           "id": "jIAY-xuF2GQ",
