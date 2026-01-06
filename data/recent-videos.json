@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T17:19:47.149Z",
+  "lastUpdated": "2026-01-06T17:45:44.410Z",
   "videos": [
     {
       "id": "MD1NQvlycTQ",
@@ -30,6 +30,16 @@
       "thumbnail": "https://i.ytimg.com/vi/JcELlfXy-ew/mqdefault.jpg",
       "publishedAt": "2026-01-06T16:43:15Z",
       "category": "John Henry Westen Channel"
+    },
+    {
+      "id": "Vj6aF9FO5WI",
+      "title": "Holy Mass 1/6/26 - The Epiphany of Our Lord",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/Vj6aF9FO5WI/mqdefault_live.jpg",
+      "publishedAt": "2026-01-06T15:38:46Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "85uQESN6W74",
@@ -290,16 +300,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mo7N8i4asSE/mqdefault.jpg",
       "publishedAt": "2026-01-04T19:52:03Z",
       "category": "Jeremiah Alphonsus"
-    },
-    {
-      "id": "vDGXf_WQuFc",
-      "title": "Holy Mass 1/4/26 - Feast of the Most Holy Name of Jesus",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/vDGXf_WQuFc/mqdefault.jpg",
-      "publishedAt": "2026-01-04T17:51:47Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "rlStnrynMP8",
