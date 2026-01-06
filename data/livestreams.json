@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T19:14:22.244Z",
+  "lastUpdated": "2026-01-06T19:38:39.233Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/C_7a7g5qWeU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HsFZ6C14PTY",
-          "title": "Vesper und Sakramentsandacht - Epiphanie - 06. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -63,24 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z3fx9OctTec",
-          "title": "Tuesday 11th February 2025: Our Lady of Lourdes",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/z3fx9OctTec/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tGlhqaEihik",
-          "title": "Solemn Mass for the Epiphany of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tGlhqaEihik/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_aOr8ahJ-6c",
           "title": "7PM Sung Mass. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
