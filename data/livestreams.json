@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-06T05:48:46.629Z",
+  "lastUpdated": "2026-01-06T06:30:08.136Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Wo3Lk-VzWpk",
+          "title": "In Epiphania Domini",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/Wo3Lk-VzWpk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-06T07:15:00Z"
+        },
         {
           "id": "bhplcbm3kaU",
           "title": "Amt - Epiphanie - 06. Januar 2026",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HsFZ6C14PTY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-06T16:30:00Z"
+        },
+        {
+          "id": "jIAY-xuF2GQ",
+          "title": "Hl. Messe - 07. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jIAY-xuF2GQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-07T06:15:00Z"
         }
       ]
     },
