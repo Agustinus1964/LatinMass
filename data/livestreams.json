@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T14:48:19.096Z",
+  "lastUpdated": "2026-01-06T15:19:51.162Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,15 +42,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/BY9qrMzSiko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "eLF6qZiTbDs",
-          "title": "Santo Sacrificio de La Misa, La Epifanía el Señor, 6 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/eLF6qZiTbDs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
