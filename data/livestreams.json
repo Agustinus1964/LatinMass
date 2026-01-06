@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-05T23:41:11.620Z",
+  "lastUpdated": "2026-01-06T01:24:24.619Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "AcuMgM6zhzo",
-          "title": "Blessing of Epiphany Water & 6PM Low Mass. Feria of Christmas. Monday, January 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/AcuMgM6zhzo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "iUpFQiP7zU8",
           "title": "SAINT JOHN NEUMANN & EVE OF EPIPHANY BLESSING OF WATER, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/iUpFQiP7zU8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-06T00:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BY9qrMzSiko",
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Gk82CzSsFKo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-06T18:00:00Z"
+        },
+        {
+          "id": "_aOr8ahJ-6c",
+          "title": "7PM Sung Mass. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/_aOr8ahJ-6c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-07T00:00:00Z"
+        },
+        {
+          "id": "K5Rb8uzTB-4",
+          "title": "EPIPHANY OF OUR LORD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/K5Rb8uzTB-4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-07T00:00:00Z"
         }
       ]
     }
