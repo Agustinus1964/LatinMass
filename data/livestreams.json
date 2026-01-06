@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-06T21:41:49.581Z",
+  "lastUpdated": "2026-01-06T22:18:20.743Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jIAY-xuF2GQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-07T06:15:00Z"
+        },
+        {
+          "id": "NveFk-mNwkw",
+          "title": "Die Septima Ianuarii",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/NveFk-mNwkw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-07T07:15:00Z"
         },
         {
           "id": "EQM-MfcHauo",
@@ -45,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_7qGLkjB1DE",
+          "title": "Missa cantada da Festa da Epifania",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/_7qGLkjB1DE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_aOr8ahJ-6c",
           "title": "7PM Sung Mass. Epiphany of the Lord. I. Tuesday, January 6, 2026.",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/539cd5ZF4VU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-07T18:00:00Z"
+        },
+        {
+          "id": "1yaSgfqI9j8",
+          "title": "Divine Office & 6PM Low Mass. Feria of Epiphany. IV. Wednesday, January 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/1yaSgfqI9j8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-07T22:00:00Z"
         }
       ]
     }
