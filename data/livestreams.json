@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-07T06:58:41.142Z",
+  "lastUpdated": "2026-01-07T07:31:11.707Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "er7trHj9_Ko",
-          "title": "FSSPX Antwerpen - 07/01 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/er7trHj9_Ko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "NveFk-mNwkw",
           "title": "Die Septima Ianuarii",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/NveFk-mNwkw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-07T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EQM-MfcHauo",
