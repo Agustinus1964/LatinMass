@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T21:41:09.575Z",
+  "lastUpdated": "2026-01-07T22:17:59.220Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HzZanc8wyp8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-08T18:00:00Z"
+        },
+        {
+          "id": "-bYWnqWXwIc",
+          "title": "Divine Office & 6PM Low Mass. Feria of Epiphany. IV. Thursday, January 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-bYWnqWXwIc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T22:00:00Z"
         }
       ]
     }
