@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T15:48:13.096Z",
+  "lastUpdated": "2026-01-07T16:27:02.833Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1Xb_vIENsyo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-08T12:15:00Z"
+        },
+        {
+          "id": "_PnhJGH-4UI",
+          "title": "Sakramentsandacht und hl. Messe - 08. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/_PnhJGH-4UI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T16:00:00Z"
         }
       ]
     },
