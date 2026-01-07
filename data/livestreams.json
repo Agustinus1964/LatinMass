@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-07T12:39:23.511Z",
+  "lastUpdated": "2026-01-07T13:37:28.856Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EQM-MfcHauo",
-          "title": "Wed. Jan. 7, 2026    -    Ferial after Epiphany",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/EQM-MfcHauo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1hC10nM-EHo",
           "title": "Rosenkranz und hl. Messe - 07. Januar 2026",
@@ -46,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nSgZccaaeG8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/nSgZccaaeG8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mE0FCT8AeXE",
-          "title": "7AM Low Mass & Divine Office. Feria of Epiphany. IV. Wednesday, January 7, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/mE0FCT8AeXE/mqdefault_live.jpg",
+          "id": "LShdbo5b9q0",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 01/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/LShdbo5b9q0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
