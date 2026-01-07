@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T13:37:28.856Z",
+  "lastUpdated": "2026-01-07T14:21:25.146Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "LShdbo5b9q0",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 01/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/LShdbo5b9q0/mqdefault_live.jpg",
+          "id": "FmHwF5QCuCo",
+          "title": "Santo Sacrificio de La Misa, Feria de Epifanía, 7 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/FmHwF5QCuCo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zlwXS-rsKfw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-08T12:00:00Z"
+        },
+        {
+          "id": "XdCP74Vj6eU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/XdCP74Vj6eU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T12:30:00Z"
         }
       ]
     }
