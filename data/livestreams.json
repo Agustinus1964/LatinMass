@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-07T19:40:11.932Z",
+  "lastUpdated": "2026-01-07T20:21:34.216Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "A4kT8aByt6k",
+          "title": "Ferial Mass - 8.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/A4kT8aByt6k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "CAY8mWjRcTo",
           "title": "Hl. Messe - 08. Januar 2026",
