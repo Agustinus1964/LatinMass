@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T06:28:58.808Z",
+  "lastUpdated": "2026-01-07T06:58:41.142Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/er7trHj9_Ko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jIAY-xuF2GQ",
-          "title": "Hl. Messe - 07. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/jIAY-xuF2GQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
