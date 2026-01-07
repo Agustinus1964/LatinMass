@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-07T18:28:17.735Z",
+  "lastUpdated": "2026-01-07T18:56:45.258Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,33 +55,6 @@
           "scheduledTime": null
         },
         {
-          "id": "3ReXCB3Ro-s",
-          "title": "Wednesday 7th January 2026: Votive Mass of the Epiphany",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/3ReXCB3Ro-s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "l2cqFDreMWI",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/l2cqFDreMWI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "539cd5ZF4VU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/539cd5ZF4VU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "1yaSgfqI9j8",
           "title": "Divine Office & 6PM Low Mass. Feria of Epiphany. IV. Wednesday, January 7, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -89,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1yaSgfqI9j8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-07T22:00:00Z"
+        },
+        {
+          "id": "5u9xJ554ndY",
+          "title": "Thursday 8th January 2026: Votive Mass of the Epiphany",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/5u9xJ554ndY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T08:00:00Z"
         },
         {
           "id": "zlwXS-rsKfw",
