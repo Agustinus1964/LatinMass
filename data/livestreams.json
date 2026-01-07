@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-07T17:49:57.451Z",
+  "lastUpdated": "2026-01-07T18:28:17.735Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1hC10nM-EHo",
-          "title": "Rosenkranz und hl. Messe - 07. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/1hC10nM-EHo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CAY8mWjRcTo",
           "title": "Hl. Messe - 08. Januar 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CAY8mWjRcTo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-08T06:15:00Z"
+        },
+        {
+          "id": "qS7_VDDknjM",
+          "title": "Die Octava Ianuarii",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/qS7_VDDknjM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T07:15:00Z"
         },
         {
           "id": "1Xb_vIENsyo",
@@ -51,8 +51,17 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/0XQbPU2kPak/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-07T17:58:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3ReXCB3Ro-s",
+          "title": "Wednesday 7th January 2026: Votive Mass of the Epiphany",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/3ReXCB3Ro-s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "l2cqFDreMWI",
@@ -60,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/l2cqFDreMWI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-07T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "539cd5ZF4VU",
@@ -69,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/539cd5ZF4VU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-07T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1yaSgfqI9j8",
@@ -98,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/XdCP74Vj6eU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-08T12:30:00Z"
+        },
+        {
+          "id": "ClJTe7UD0hY",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ClJTe7UD0hY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T18:00:00Z"
+        },
+        {
+          "id": "HzZanc8wyp8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/HzZanc8wyp8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T18:00:00Z"
         }
       ]
     }
