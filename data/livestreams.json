@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-07T05:50:05.545Z",
+  "lastUpdated": "2026-01-07T06:28:58.808Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "er7trHj9_Ko",
+          "title": "FSSPX Antwerpen - 07/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/er7trHj9_Ko/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jIAY-xuF2GQ",
           "title": "Hl. Messe - 07. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/jIAY-xuF2GQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-07T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NveFk-mNwkw",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1hC10nM-EHo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-07T17:00:00Z"
+        },
+        {
+          "id": "CAY8mWjRcTo",
+          "title": "Hl. Messe - 08. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/CAY8mWjRcTo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T06:15:00Z"
         }
       ]
     },
