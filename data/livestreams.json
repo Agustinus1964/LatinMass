@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T23:16:09.355Z",
+  "lastUpdated": "2026-01-08T23:39:04.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NUQvg2--NNc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-09T22:00:00Z"
+        },
+        {
+          "id": "UYh_BZZZV70",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/UYh_BZZZV70/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-09T23:30:00Z"
         }
       ]
     }
