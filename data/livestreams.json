@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T22:18:21.756Z",
+  "lastUpdated": "2026-01-08T22:45:12.258Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,15 +51,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/-bYWnqWXwIc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rESOgf1uhfw",
-          "title": "Adoração ao Santíssimo Sacramento e Santa Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rESOgf1uhfw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
