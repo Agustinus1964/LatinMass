@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-08T16:56:42.942Z",
+  "lastUpdated": "2026-01-08T17:27:34.662Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dgS28ydLDxA",
-          "title": "FSSPX Antwerpen - 08/01 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dgS28ydLDxA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_PnhJGH-4UI",
           "title": "Sakramentsandacht und hl. Messe - 08. Januar 2026",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MFIj8gb30iw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-09T12:15:00Z"
+        },
+        {
+          "id": "0FgtUG8uF3c",
+          "title": "Rosenkranz und hl. Messe - 09. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0FgtUG8uF3c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-09T17:00:00Z"
         }
       ]
     },
