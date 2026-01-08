@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T21:42:31.403Z",
+  "lastUpdated": "2026-01-08T22:18:21.756Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "-bYWnqWXwIc",
+          "title": "Divine Office & 6PM Low Mass. Feria of Epiphany. IV. Thursday, January 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-bYWnqWXwIc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "rESOgf1uhfw",
           "title": "Adoração ao Santíssimo Sacramento e Santa Missa rezada",
           "channel": "Missa Tridentina em Brasília",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rESOgf1uhfw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "-bYWnqWXwIc",
-          "title": "Divine Office & 6PM Low Mass. Feria of Epiphany. IV. Thursday, January 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-bYWnqWXwIc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-08T22:00:00Z"
         },
         {
           "id": "1zaZ88rvawA",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/p4UnE0A4N40/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-09T18:00:00Z"
+        },
+        {
+          "id": "NUQvg2--NNc",
+          "title": "Divine Office, 6PM Low Mass. Holy Hour. Feria of Epiphany. IV. Friday, January 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NUQvg2--NNc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-09T22:00:00Z"
         }
       ]
     }
