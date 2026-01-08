@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-08T17:27:34.662Z",
+  "lastUpdated": "2026-01-08T17:52:02.270Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-SwnW4zubuw",
+          "title": "FSSPX Antwerpen - 08/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/-SwnW4zubuw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_PnhJGH-4UI",
           "title": "Sakramentsandacht und hl. Messe - 08. Januar 2026",
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "IIy9mN4FNKE",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/IIy9mN4FNKE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-08T17:58:00Z"
+        },
         {
           "id": "ClJTe7UD0hY",
           "title": "Thursday",
