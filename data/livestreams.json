@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-08T14:22:27.477Z",
+  "lastUpdated": "2026-01-08T14:51:40.828Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dgS28ydLDxA",
+          "title": "FSSPX Antwerpen - 08/01 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/dgS28ydLDxA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_PnhJGH-4UI",
           "title": "Sakramentsandacht und hl. Messe - 08. Januar 2026",
@@ -36,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NWgMBoOYqMU",
-          "title": "Santo Sacrificio de La Misa, Feria de Epifanía, 8 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/NWgMBoOYqMU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ClJTe7UD0hY",
           "title": "Thursday",
