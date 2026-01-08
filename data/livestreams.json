@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T15:49:08.364Z",
+  "lastUpdated": "2026-01-08T16:26:09.167Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/_PnhJGH-4UI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-08T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iUxyUb7zYwg",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-bYWnqWXwIc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-08T22:00:00Z"
+        },
+        {
+          "id": "1zaZ88rvawA",
+          "title": "11AM Low Mass & Divine Office. Feria of Epiphany. IV. Friday, January 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/1zaZ88rvawA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-09T16:00:00Z"
         }
       ]
     }
