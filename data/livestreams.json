@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-08T14:51:40.828Z",
+  "lastUpdated": "2026-01-08T15:22:24.022Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iUxyUb7zYwg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-09T06:15:00Z"
+        },
+        {
+          "id": "GVfbtWY4ulw",
+          "title": "Die Nona Ianuarii",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/GVfbtWY4ulw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-09T07:15:00Z"
         },
         {
           "id": "MFIj8gb30iw",
