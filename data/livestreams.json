@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T05:50:12.068Z",
+  "lastUpdated": "2026-01-09T06:29:27.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/iUxyUb7zYwg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-09T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GVfbtWY4ulw",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0FgtUG8uF3c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-09T17:00:00Z"
+        },
+        {
+          "id": "s97JeF-nZ4c",
+          "title": "Hl. Messe - Muttergottessamstag - 10. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/s97JeF-nZ4c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-10T06:15:00Z"
         }
       ]
     },
