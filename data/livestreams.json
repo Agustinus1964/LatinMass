@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T18:28:05.731Z",
+  "lastUpdated": "2026-01-09T18:55:59.160Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,15 +42,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/lJjG6Z3C4Pk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p4UnE0A4N40",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/p4UnE0A4N40/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
