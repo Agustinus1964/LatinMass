@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T13:35:50.259Z",
+  "lastUpdated": "2026-01-09T14:21:13.155Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "R4pzssKJwaw",
-          "title": "Friday 8 AM Catholic Mass for 01/09/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/R4pzssKJwaw/mqdefault_live.jpg",
+          "id": "TBDDD09uYX0",
+          "title": "Santo Sacrificio de La Misa, Feria de Epifanía, 9 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/TBDDD09uYX0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NfWULWAsAEw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-10T12:30:00Z"
+        },
+        {
+          "id": "oS3IVYVZgqY",
+          "title": "9AM Low Mass. Our Lady on Saturday. IV. January 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/oS3IVYVZgqY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-10T14:00:00Z"
         }
       ]
     }
