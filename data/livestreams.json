@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-09T16:23:44.045Z",
+  "lastUpdated": "2026-01-09T16:53:17.454Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "DmSnf_IEQzY",
-          "title": "FSSPX Antwerpen - 09/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "Pz-ADUgrnEw",
+          "title": "FSSPX Antwerpen - 09/01 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DmSnf_IEQzY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Pz-ADUgrnEw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1zaZ88rvawA",
-          "title": "11AM Low Mass & Divine Office. Feria of Epiphany. IV. Friday, January 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/1zaZ88rvawA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SzLeZSYrSIQ",
           "title": "Friday 9th January 2026: Votive Mass of the Epiphany",
