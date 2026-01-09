@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T21:41:03.217Z",
+  "lastUpdated": "2026-01-09T22:18:20.074Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "NUQvg2--NNc",
+          "title": "Divine Office, 6PM Low Mass. Holy Hour. Feria of Epiphany. IV. Friday, January 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NUQvg2--NNc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "919eDaDeOuo",
           "title": "Terço e missa rezada da Oitava da epifania",
           "channel": "Missa Tridentina em Brasília",
@@ -35,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/919eDaDeOuo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "NUQvg2--NNc",
-          "title": "Divine Office, 6PM Low Mass. Holy Hour. Feria of Epiphany. IV. Friday, January 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/NUQvg2--NNc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-09T22:00:00Z"
         },
         {
           "id": "UYh_BZZZV70",
