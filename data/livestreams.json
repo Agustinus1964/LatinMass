@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-09T11:39:54.908Z",
+  "lastUpdated": "2026-01-09T12:38:50.117Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/MFIj8gb30iw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-09T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0FgtUG8uF3c",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wvDtH7Kireo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-10T10:30:00Z"
+        },
+        {
+          "id": "NfWULWAsAEw",
+          "title": "7:30AM Low Mass. Our Lady on Saturday. IV. January 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NfWULWAsAEw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-10T12:30:00Z"
         }
       ]
     }
