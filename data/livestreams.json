@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T16:20:44.926Z",
+  "lastUpdated": "2026-01-10T16:46:40.161Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/y2VHnqz7v-Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T15:00:00Z"
+        },
+        {
+          "id": "54D6boRNb5A",
+          "title": "Vesper und Sakramentsandacht - Fest der hl. Familie - 11. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/54D6boRNb5A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T16:30:00Z"
         }
       ]
     },
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9IhZ5_NdMlE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T15:45:00Z"
+        },
+        {
+          "id": "g1Mzi0KGJDk",
+          "title": "HOLY FAMILY OF JESUS, MARY, AND JOSEPH, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/g1Mzi0KGJDk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T16:30:00Z"
         }
       ]
     }
