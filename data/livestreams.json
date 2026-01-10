@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T10:17:27.425Z",
+  "lastUpdated": "2026-01-10T10:43:10.847Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ny4n61CV_HA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ny4n61CV_HA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "wvDtH7Kireo",
           "title": "Saturday 10th January 2026: Saturday of Our Lady",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/wvDtH7Kireo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-10T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NfWULWAsAEw",
@@ -91,6 +82,24 @@
           "scheduledTime": "2026-01-10T14:00:00Z"
         },
         {
+          "id": "RJT_fS01uQQ",
+          "title": "8am — The Holy Family: Jesus, Mary, and Joseph",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/RJT_fS01uQQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T08:00:00Z"
+        },
+        {
+          "id": "LNOLN46PXNU",
+          "title": "9:30am — The Baptism of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/LNOLN46PXNU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T09:30:00Z"
+        },
+        {
           "id": "7wUb-Bl2pss",
           "title": "Sainte messe de la solennité de l'Epiphanie - ECCE ADVENIT",
           "channel": "Ite Missa Est",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7wUb-Bl2pss/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T10:00:00Z"
+        },
+        {
+          "id": "wuicOET1V_c",
+          "title": "Sunday 11th January 2026: Feast of the Holy Family",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/wuicOET1V_c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T10:30:00Z"
         }
       ]
     }
