@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T14:15:02.924Z",
+  "lastUpdated": "2026-01-10T14:41:12.037Z",
   "videos": [
     {
       "id": "vZ1LlJTU1IQ",
@@ -10,6 +10,16 @@
       "thumbnail": "https://i.ytimg.com/vi/vZ1LlJTU1IQ/mqdefault.jpg",
       "publishedAt": "2026-01-10T14:01:42Z",
       "category": "Fatima Center"
+    },
+    {
+      "id": "_GM-hROrMYU",
+      "title": "Holy Mass 1/10/26 - Within the Octave of the Epiphany",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/_GM-hROrMYU/mqdefault_live.jpg",
+      "publishedAt": "2026-01-10T12:51:25Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "HGa1YYWQsls",
@@ -170,16 +180,6 @@
       "thumbnail": "https://i.ytimg.com/vi/iB3u-RFiUuo/mqdefault.jpg",
       "publishedAt": "2026-01-09T19:24:19Z",
       "category": "Crisis Magazine"
-    },
-    {
-      "id": "LZeDHvQ67dM",
-      "title": "Holy Mass 1/8/26 - Within the Octave of the Epiphany",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/LZeDHvQ67dM/mqdefault.jpg",
-      "publishedAt": "2026-01-09T18:55:29Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "T9nw-snKvBM",
