@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T14:42:14.256Z",
+  "lastUpdated": "2026-01-10T15:16:50.545Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/kF9l2GCjqz8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T08:30:00Z"
+        },
+        {
+          "id": "y2VHnqz7v-Q",
+          "title": "Sun. Jan. 11, 2026    -    Feast of Holy Family",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/y2VHnqz7v-Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T15:00:00Z"
         }
       ]
     },
@@ -37,29 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "AKU5MZzXRo4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/AKU5MZzXRo4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "oS3IVYVZgqY",
           "title": "Divine Office & 9AM Low Mass. Our Lady on Saturday. IV. January 10, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/oS3IVYVZgqY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "A3GRvDJxHGg",
-          "title": "Saturday 9 AM Catholic Mass for 01/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/A3GRvDJxHGg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-GgpR1En8CU",
-          "title": "Santo Sacrificio de La Misa, Feria de Epifanía, 10 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/-GgpR1En8CU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
