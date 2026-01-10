@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T05:43:49.132Z",
+  "lastUpdated": "2026-01-10T06:26:24.100Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/s97JeF-nZ4c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5kmgMSY5WuU",
+          "title": "Sanctae Mariae in Sabbato",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/5kmgMSY5WuU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-10T06:15:00Z"
+          "scheduledTime": "2026-01-10T07:30:00Z"
         },
         {
           "id": "6uPhfBeR1HY",
