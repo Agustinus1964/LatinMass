@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T15:16:50.545Z",
+  "lastUpdated": "2026-01-10T15:39:55.836Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IZYuPQqu858/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T12:00:00Z"
+        },
+        {
+          "id": "eMTnmD7bmVg",
+          "title": "10:30AM Sung Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, January 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/eMTnmD7bmVg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T15:30:00Z"
         }
       ]
     }
