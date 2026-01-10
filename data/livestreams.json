@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-10T21:38:19.406Z",
+  "lastUpdated": "2026-01-10T22:17:07.499Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-7ReJfulAsQ",
-          "title": "Rosary - 1/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-7ReJfulAsQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T00:00:00Z"
-        },
         {
           "id": "Gw-bbMj7qp4",
           "title": "Sung Mass - Holy Family of Jesus, Mary & Joseph",
@@ -21,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Gw-bbMj7qp4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T01:30:00Z"
-        },
-        {
-          "id": "fVee10_DXUk",
-          "title": "Compline - 1/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/fVee10_DXUk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T01:45:00Z"
         },
         {
           "id": "pQGCgylEdIA",
@@ -48,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kF9l2GCjqz8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T08:30:00Z"
-        },
-        {
-          "id": "UBzW2BLUJ1o",
-          "title": "Solemn High Mass - Holy Family Jesus, Mary, and Joseph - 1/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/UBzW2BLUJ1o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T15:00:00Z"
         },
         {
           "id": "54D6boRNb5A",
