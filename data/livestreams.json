@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-10T22:42:34.220Z",
+  "lastUpdated": "2026-01-10T23:16:48.737Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "T5lgV8lR1Ns",
+          "title": "Feast of the Holy Family",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/T5lgV8lR1Ns/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Gw-bbMj7qp4",
           "title": "Sung Mass - Holy Family of Jesus, Mary & Joseph",
