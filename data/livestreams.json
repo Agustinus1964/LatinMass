@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T13:46:17.318Z",
+  "lastUpdated": "2026-01-10T14:16:33.634Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Bll6HhUOego",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Bll6HhUOego/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "oS3IVYVZgqY",
           "title": "Divine Office & 9AM Low Mass. Our Lady on Saturday. IV. January 10, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -46,13 +55,22 @@
           "scheduledTime": null
         },
         {
-          "id": "Bll6HhUOego",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Bll6HhUOego/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-10T14:00:00Z"
+          "id": "A3GRvDJxHGg",
+          "title": "Saturday 9 AM Catholic Mass for 01/10/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/A3GRvDJxHGg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-GgpR1En8CU",
+          "title": "Santo Sacrificio de La Misa, Feria de Epifanía, 10 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/-GgpR1En8CU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RJT_fS01uQQ",
