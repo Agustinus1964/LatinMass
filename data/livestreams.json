@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-10T17:39:59.765Z",
+  "lastUpdated": "2026-01-10T18:25:13.396Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/54D6boRNb5A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T16:30:00Z"
+        },
+        {
+          "id": "O0chdvSGRK4",
+          "title": "Feast of the Holy Family | January 11th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/O0chdvSGRK4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T18:00:00Z"
         }
       ]
     },
