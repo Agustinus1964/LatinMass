@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T05:22:34.674Z",
+  "lastUpdated": "2026-01-11T05:46:37.189Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Lky9Lmg5mOs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T13:00:00Z"
+        },
+        {
+          "id": "AmH3lA82qcg",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Holy Family of Jesus, Mary and Joseph)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/AmH3lA82qcg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T15:00:00Z"
         },
         {
           "id": "eMTnmD7bmVg",
