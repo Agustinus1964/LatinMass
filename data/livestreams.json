@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T12:35:26.286Z",
+  "lastUpdated": "2026-01-11T13:27:55.942Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PGmddO8GODk",
-          "title": "Low Mass - Holy Family Jesus, Mary, and Joseph - 1/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/PGmddO8GODk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "psc4Ip0jzMc",
-          "title": "Holy Family",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/psc4Ip0jzMc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "54D6boRNb5A",
           "title": "Vesper und Sakramentsandacht - Fest der hl. Familie - 11. Januar 2026",
@@ -64,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Lky9Lmg5mOs",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Holy Family of Jesus, Mary and Joseph)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Lky9Lmg5mOs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "IZYuPQqu858",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, 1-11-2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "HaTzT4V_wxs",
-          "title": "Sunday 7 AM Catholic Mass for 01/11/2026",
+          "id": "VatOufW8oSs",
+          "title": "Sunday 8:30 AM Catholic Mass for 01/11/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/HaTzT4V_wxs/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/VatOufW8oSs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6vy7iKxsmH8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Lky9Lmg5mOs",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Holy Family of Jesus, Mary and Joseph)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Lky9Lmg5mOs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T13:00:00Z"
         },
         {
           "id": "AmH3lA82qcg",
