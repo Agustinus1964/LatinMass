@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-11T21:38:46.035Z",
+  "lastUpdated": "2026-01-11T22:17:21.648Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "t5raNVAVXeg",
+          "title": "Simple II Vespers - Holy Family Jesus, Mary, and Joseph - 1/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/t5raNVAVXeg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ZftZkOr7GZs",
           "title": "Compline - 1/11/26",
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UqBgulOmJRM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T18:00:00Z"
+        },
+        {
+          "id": "fagF3akSfs0",
+          "title": "Divine Office & 6PM Low Mass. Feria of Epiphany. IV. Monday, January 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/fagF3akSfs0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T22:00:00Z"
         }
       ]
     }
