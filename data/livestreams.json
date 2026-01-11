@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-11T10:44:11.633Z",
+  "lastUpdated": "2026-01-11T11:14:50.229Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "H6uSYsb9PyI",
-          "title": "FSSPX Antwerpen - 11/01 FEEST van de H. FAMILIE, 1° ZONDAG na DRIEKONINGEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/H6uSYsb9PyI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "psc4Ip0jzMc",
           "title": "Holy Family",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/psc4Ip0jzMc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "54D6boRNb5A",
@@ -64,6 +55,15 @@
           "scheduledTime": null
         },
         {
+          "id": "TzJkKAoO6DI",
+          "title": "11am — The Baptism of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/TzJkKAoO6DI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "7wUb-Bl2pss",
           "title": "Sainte messe de la solennité de l'Epiphanie - ECCE ADVENIT",
           "channel": "Ite Missa Est",
@@ -80,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Xmy0ZYf2g6E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "TzJkKAoO6DI",
-          "title": "11am — The Baptism of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/TzJkKAoO6DI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T11:00:00Z"
         },
         {
           "id": "IZYuPQqu858",
