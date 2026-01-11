@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T17:40:31.502Z",
+  "lastUpdated": "2026-01-11T18:24:52.824Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/O0chdvSGRK4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZftZkOr7GZs",
@@ -64,56 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SlXyb79rS14",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/SlXyb79rS14/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "g1Mzi0KGJDk",
-          "title": "HOLY FAMILY OF JESUS, MARY, AND JOSEPH, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/g1Mzi0KGJDk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hKUmQJqfVWc",
-          "title": "Sunday 11 AM Sung Mass 2026-01-11",
+          "id": "04brMsr2IR4",
+          "title": "Sunday 1:30 PM Catholic Mass 01/11/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/hKUmQJqfVWc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Asl014ixKXY",
-          "title": "Santa Misa Dominical. 11 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Asl014ixKXY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9r3TNkqUzyc",
-          "title": "Vespers and Benediction — The Baptism of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/9r3TNkqUzyc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zgB4o6clIOY",
-          "title": "Secondes vêpres de la solennité de l'Epiphanie - TRIBUS MIRACULIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zgB4o6clIOY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/04brMsr2IR4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/-V5uPHfaBiI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T12:30:00Z"
+        },
+        {
+          "id": "4RMEMPiBIcg",
+          "title": "Monday 12th January 2026: Votive Mass of the Epiphany",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/4RMEMPiBIcg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T18:00:00Z"
+        },
+        {
+          "id": "mcWExCl4f6A",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/mcWExCl4f6A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T18:00:00Z"
+        },
+        {
+          "id": "UqBgulOmJRM",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/UqBgulOmJRM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T18:00:00Z"
         }
       ]
     }
