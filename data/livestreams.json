@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T14:16:48.901Z",
+  "lastUpdated": "2026-01-11T14:41:49.748Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,24 +69,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/iEN5S5UlUCM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IZYuPQqu858",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, 1-11-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/IZYuPQqu858/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VatOufW8oSs",
-          "title": "Sunday 8:30 AM Catholic Mass for 01/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/VatOufW8oSs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
