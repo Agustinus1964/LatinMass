@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T09:18:07.397Z",
+  "lastUpdated": "2026-01-11T09:41:25.939Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/MpgRivXRgwI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T09:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "psc4Ip0jzMc",
@@ -73,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "8OBcN4XiX1k",
+          "title": "11am —  The Baptism of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/8OBcN4XiX1k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "7wUb-Bl2pss",
           "title": "Sainte messe de la solennité de l'Epiphanie - ECCE ADVENIT",
           "channel": "Ite Missa Est",
@@ -89,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/wuicOET1V_c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T10:30:00Z"
-        },
-        {
-          "id": "8OBcN4XiX1k",
-          "title": "11am —  The Baptism of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/8OBcN4XiX1k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T11:00:00Z"
         },
         {
           "id": "IZYuPQqu858",
