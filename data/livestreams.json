@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T13:27:55.942Z",
+  "lastUpdated": "2026-01-11T13:48:12.141Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6vy7iKxsmH8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "iEN5S5UlUCM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/iEN5S5UlUCM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T13:58:00Z"
         },
         {
           "id": "AmH3lA82qcg",
