@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T01:41:42.083Z",
+  "lastUpdated": "2026-01-11T03:47:31.077Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Gw-bbMj7qp4",
-          "title": "Sung Mass - Holy Family of Jesus, Mary & Joseph",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/Gw-bbMj7qp4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pQGCgylEdIA",
           "title": "FSSPX Antwerpen - 11/01 Aanbidding met Rozenhoedje",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/O0chdvSGRK4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T18:00:00Z"
+        },
+        {
+          "id": "ZftZkOr7GZs",
+          "title": "Compline - 1/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ZftZkOr7GZs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T01:45:00Z"
         }
       ]
     },
