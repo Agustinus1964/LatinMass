@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T09:41:25.939Z",
+  "lastUpdated": "2026-01-11T10:18:47.246Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/H6uSYsb9PyI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kF9l2GCjqz8",
-          "title": "Amt - Fest der hl. Familie - 11. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/kF9l2GCjqz8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -74,7 +65,7 @@
       "videos": [
         {
           "id": "8OBcN4XiX1k",
-          "title": "11am —  The Baptism of the Lord",
+          "title": "9:30am —  The Baptism of the Lord",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/8OBcN4XiX1k/mqdefault_live.jpg",
@@ -87,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/7wUb-Bl2pss/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wuicOET1V_c",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wuicOET1V_c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T10:30:00Z"
+        },
+        {
+          "id": "TzJkKAoO6DI",
+          "title": "11am — The Baptism of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/TzJkKAoO6DI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T11:00:00Z"
         },
         {
           "id": "IZYuPQqu858",
