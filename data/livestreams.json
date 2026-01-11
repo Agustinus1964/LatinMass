@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T16:46:37.200Z",
+  "lastUpdated": "2026-01-11T17:14:51.320Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "eMTnmD7bmVg",
-          "title": "10:30AM Sung Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, January 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/eMTnmD7bmVg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "g1Mzi0KGJDk",
           "title": "HOLY FAMILY OF JESUS, MARY, AND JOSEPH, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -109,20 +100,20 @@
           "scheduledTime": null
         },
         {
-          "id": "aV6sJk_-Zc0",
-          "title": "The Feast of the Holy Family/la fête de la Sainte Famille",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/aV6sJk_-Zc0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Asl014ixKXY",
           "title": "Santa Misa Dominical. 11 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/Asl014ixKXY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9r3TNkqUzyc",
+          "title": "Vespers and Benediction — The Baptism of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/9r3TNkqUzyc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zgB4o6clIOY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "9r3TNkqUzyc",
-          "title": "Vespers and Benediction — The Holy Family: Jesus, Mary, and Joseph",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/9r3TNkqUzyc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T17:00:00Z"
         },
         {
           "id": "TmHlkDP7n9A",
