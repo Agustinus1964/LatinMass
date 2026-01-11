@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T11:14:50.229Z",
+  "lastUpdated": "2026-01-11T11:37:37.054Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
           "scheduledTime": null
         },
         {
+          "id": "IZYuPQqu858",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, 1-11-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/IZYuPQqu858/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "TzJkKAoO6DI",
           "title": "11am — The Baptism of the Lord",
           "channel": "Oxford Oratory",
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Xmy0ZYf2g6E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "IZYuPQqu858",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, 1-11-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/IZYuPQqu858/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T12:00:00Z"
         },
         {
           "id": "Lky9Lmg5mOs",
