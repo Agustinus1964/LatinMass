@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-11T08:22:56.781Z",
+  "lastUpdated": "2026-01-11T08:47:57.023Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kF9l2GCjqz8",
+          "title": "Amt - Fest der hl. Familie - 11. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/kF9l2GCjqz8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pQGCgylEdIA",
           "title": "FSSPX Antwerpen - 11/01 Aanbidding met Rozenhoedje",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pQGCgylEdIA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T08:00:00Z"
-        },
-        {
-          "id": "kF9l2GCjqz8",
-          "title": "Amt - Fest der hl. Familie - 11. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/kF9l2GCjqz8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T08:30:00Z"
         },
         {
           "id": "MpgRivXRgwI",
@@ -72,24 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RJT_fS01uQQ",
-          "title": "8am — The Holy Family: Jesus, Mary, and Joseph",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/RJT_fS01uQQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LNOLN46PXNU",
-          "title": "9:30am — The Baptism of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/LNOLN46PXNU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T09:30:00Z"
-        },
         {
           "id": "7wUb-Bl2pss",
           "title": "Sainte messe de la solennité de l'Epiphanie - ECCE ADVENIT",
