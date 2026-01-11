@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T15:17:10.994Z",
+  "lastUpdated": "2026-01-11T15:40:21.484Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/y2VHnqz7v-Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "7S_UV_vYInE",
+          "title": "Feast of the Holy Family, January 11, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/7S_UV_vYInE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T15:45:15Z"
         },
         {
           "id": "54D6boRNb5A",
@@ -100,6 +109,15 @@
           "scheduledTime": null
         },
         {
+          "id": "aV6sJk_-Zc0",
+          "title": "The Feast of the Holy Family/la fête de la Sainte Famille",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/aV6sJk_-Zc0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Asl014ixKXY",
           "title": "Santa Misa Dominical. 11 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -109,13 +127,13 @@
           "scheduledTime": null
         },
         {
-          "id": "aV6sJk_-Zc0",
-          "title": "The Feast of the Holy Family/la fête de la Sainte Famille",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/aV6sJk_-Zc0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T15:30:00Z"
+          "id": "9IhZ5_NdMlE",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/9IhZ5_NdMlE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "g1Mzi0KGJDk",
