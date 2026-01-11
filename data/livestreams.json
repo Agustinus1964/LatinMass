@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-11T08:47:57.023Z",
+  "lastUpdated": "2026-01-11T09:18:07.397Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "H6uSYsb9PyI",
+          "title": "FSSPX Antwerpen - 11/01 FEEST van de H. FAMILIE, 1° ZONDAG na DRIEKONINGEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/H6uSYsb9PyI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "kF9l2GCjqz8",
           "title": "Amt - Fest der hl. Familie - 11. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kF9l2GCjqz8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "pQGCgylEdIA",
-          "title": "FSSPX Antwerpen - 11/01 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pQGCgylEdIA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T08:00:00Z"
         },
         {
           "id": "MpgRivXRgwI",
