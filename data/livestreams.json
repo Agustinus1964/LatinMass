@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T18:24:52.824Z",
+  "lastUpdated": "2026-01-11T18:50:17.680Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZftZkOr7GZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T01:45:00Z"
+        },
+        {
+          "id": "CLwQVSUu1G8",
+          "title": "Hl. Messe - 12. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/CLwQVSUu1G8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T06:15:00Z"
         },
         {
           "id": "At5ALTl7o3M",
@@ -50,6 +59,15 @@
           "scheduledTime": "2026-01-12T16:00:00Z"
         },
         {
+          "id": "q8Nj-9k1Myk",
+          "title": "Rosenkranz und hl. Messe - 12. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/q8Nj-9k1Myk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T17:00:00Z"
+        },
+        {
           "id": "a_qf1HywjJw",
           "title": "FSSPX Antwerpen - 12/01 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -69,6 +87,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/04brMsr2IR4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Nb9X30D5ZDc",
+          "title": "Santo Sacrificio de la Misa. Domingo de la Sagrada Familia.11 de Enero 2026. 12:30",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Nb9X30D5ZDc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
