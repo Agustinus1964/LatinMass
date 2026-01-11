@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T06:54:58.328Z",
+  "lastUpdated": "2026-01-11T07:18:47.395Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MpgRivXRgwI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T09:25:00Z"
+        },
+        {
+          "id": "psc4Ip0jzMc",
+          "title": "Holy Family",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/psc4Ip0jzMc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T11:00:00Z"
         },
         {
           "id": "54D6boRNb5A",
