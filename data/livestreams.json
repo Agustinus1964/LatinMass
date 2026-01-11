@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-11T18:50:17.680Z",
+  "lastUpdated": "2026-01-11T19:13:31.745Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Nb9X30D5ZDc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "TmHlkDP7n9A",
-          "title": "Sermons for Salvation: The Family Under Siege",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/TmHlkDP7n9A/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T19:00:00Z"
         },
         {
           "id": "TzMq2Vmmk7c",
