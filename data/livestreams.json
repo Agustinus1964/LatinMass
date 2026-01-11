@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-11T11:37:37.054Z",
+  "lastUpdated": "2026-01-11T12:35:26.286Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PGmddO8GODk",
+          "title": "Low Mass - Holy Family Jesus, Mary, and Joseph - 1/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/PGmddO8GODk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "psc4Ip0jzMc",
           "title": "Holy Family",
@@ -39,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/ZftZkOr7GZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T01:45:00Z"
+        },
+        {
+          "id": "H68vnbqDgGw",
+          "title": "Mon. Jan. 12, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/H68vnbqDgGw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wuicOET1V_c",
-          "title": "Sunday 11th January 2026: Feast of the Holy Family",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/wuicOET1V_c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IZYuPQqu858",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, 1-11-2026.",
@@ -64,29 +73,20 @@
           "scheduledTime": null
         },
         {
-          "id": "TzJkKAoO6DI",
-          "title": "11am — The Baptism of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/TzJkKAoO6DI/mqdefault_live.jpg",
+          "id": "HaTzT4V_wxs",
+          "title": "Sunday 7 AM Catholic Mass for 01/11/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/HaTzT4V_wxs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "7wUb-Bl2pss",
-          "title": "Sainte messe de la solennité de l'Epiphanie - ECCE ADVENIT",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/7wUb-Bl2pss/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Xmy0ZYf2g6E",
-          "title": "Missa rezada da Festa da Sagrada Família",
+          "id": "6vy7iKxsmH8",
+          "title": "Missa cantada da Festa da Sagrada Família",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Xmy0ZYf2g6E/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/6vy7iKxsmH8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +143,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9r3TNkqUzyc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-11T17:00:00Z"
+        },
+        {
+          "id": "TmHlkDP7n9A",
+          "title": "Sermons for Salvation: The Family Under Siege",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/TmHlkDP7n9A/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-11T19:00:00Z"
+        },
+        {
+          "id": "TzMq2Vmmk7c",
+          "title": "7AM Low Mass & Divine Office. Feria of Epiphany. IV. Monday, January 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TzMq2Vmmk7c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T12:00:00Z"
         }
       ]
     }
