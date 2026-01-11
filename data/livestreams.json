@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-11T14:41:49.748Z",
+  "lastUpdated": "2026-01-11T15:17:10.994Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "UBzW2BLUJ1o",
+          "title": "Solemn High Mass - Holy Family Jesus, Mary, and Joseph - 1/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/UBzW2BLUJ1o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hd3614XDJW0",
           "title": "Feast of the Holy Family - The Immaculata",
@@ -19,6 +28,15 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/3cesuRUozLE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "y2VHnqz7v-Q",
+          "title": "Sun. Jan. 11, 2026    -    Feast of Holy Family",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/y2VHnqz7v-Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +82,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iEN5S5UlUCM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/iEN5S5UlUCM/mqdefault_live.jpg",
+          "id": "AmH3lA82qcg",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Holy Family of Jesus, Mary and Joseph)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/AmH3lA82qcg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "eMTnmD7bmVg",
+          "title": "10:30AM Sung Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, January 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/eMTnmD7bmVg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,33 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Asl014ixKXY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6vy7iKxsmH8",
-          "title": "Missa cantada da Festa da Sagrada Família",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/6vy7iKxsmH8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AmH3lA82qcg",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Holy Family of Jesus, Mary and Joseph)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/AmH3lA82qcg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T15:00:00Z"
-        },
-        {
-          "id": "eMTnmD7bmVg",
-          "title": "10:30AM Sung Mass. Holy Family of Jesus, Mary, & Joseph. I. Sunday, January 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/eMTnmD7bmVg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T15:30:00Z"
         },
         {
           "id": "aV6sJk_-Zc0",
