@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T17:14:51.320Z",
+  "lastUpdated": "2026-01-11T17:40:31.502Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7S_UV_vYInE",
-          "title": "Feast of the Holy Family, January 11, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/7S_UV_vYInE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "54D6boRNb5A",
-          "title": "Vesper und Sakramentsandacht - Fest der hl. Familie - 11. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/54D6boRNb5A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T16:30:00Z"
-        },
         {
           "id": "O0chdvSGRK4",
           "title": "Feast of the Holy Family | January 11th",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TsTN51FgnR0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T16:00:00Z"
+        },
+        {
+          "id": "a_qf1HywjJw",
+          "title": "FSSPX Antwerpen - 12/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/a_qf1HywjJw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T17:30:00Z"
         }
       ]
     },
