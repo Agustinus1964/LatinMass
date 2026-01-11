@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-11T16:20:48.906Z",
+  "lastUpdated": "2026-01-11T16:46:37.200Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UBzW2BLUJ1o",
-          "title": "Solemn High Mass - Holy Family Jesus, Mary, and Joseph - 1/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/UBzW2BLUJ1o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3cesuRUozLE",
-          "title": "Feast of the Holy Family",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/3cesuRUozLE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7S_UV_vYInE",
           "title": "Feast of the Holy Family, January 11, 2026",
@@ -59,6 +41,15 @@
           "scheduledTime": "2026-01-12T01:45:00Z"
         },
         {
+          "id": "At5ALTl7o3M",
+          "title": "Feria: 1ˢᵗ Sunday after Epiphany",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/At5ALTl7o3M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T07:15:00Z"
+        },
+        {
           "id": "H68vnbqDgGw",
           "title": "Mon. Jan. 12, 2026    -    Ferial Day",
           "channel": "Transfiguration Church SSPX",
@@ -82,15 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "AmH3lA82qcg",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Holy Family of Jesus, Mary and Joseph)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/AmH3lA82qcg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "SlXyb79rS14",
           "title": "Mass",
           "channel": "ICKSP",
@@ -105,6 +87,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/eMTnmD7bmVg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "g1Mzi0KGJDk",
+          "title": "HOLY FAMILY OF JESUS, MARY, AND JOSEPH, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/g1Mzi0KGJDk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -136,31 +127,13 @@
           "scheduledTime": null
         },
         {
-          "id": "9IhZ5_NdMlE",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/9IhZ5_NdMlE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "g1Mzi0KGJDk",
-          "title": "HOLY FAMILY OF JESUS, MARY, AND JOSEPH, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/g1Mzi0KGJDk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T16:30:00Z"
-        },
-        {
           "id": "zgB4o6clIOY",
           "title": "Secondes vêpres de la solennité de l'Epiphanie - TRIBUS MIRACULIS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/zgB4o6clIOY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-11T16:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9r3TNkqUzyc",
@@ -188,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TzMq2Vmmk7c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T12:00:00Z"
+        },
+        {
+          "id": "-V5uPHfaBiI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the First Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/-V5uPHfaBiI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-12T12:30:00Z"
         }
       ]
     }
