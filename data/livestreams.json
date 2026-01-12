@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-12T20:45:51.195Z",
+  "lastUpdated": "2026-01-12T21:17:55.149Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9KVn3fa5Y7o",
-          "title": "Mass of the Baptism of Our Lord - 13.1.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/9KVn3fa5Y7o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hvimPIkz_7s",
           "title": "Compline - 1/12/26",
@@ -87,6 +78,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/UqBgulOmJRM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "FWQx47XDpv0",
+          "title": "Terço e Santa Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/FWQx47XDpv0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
