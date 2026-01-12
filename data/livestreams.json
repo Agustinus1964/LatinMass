@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T11:18:16.626Z",
+  "lastUpdated": "2026-01-12T11:41:01.296Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "TzMq2Vmmk7c",
+          "title": "7AM Low Mass & Divine Office. Feria of Epiphany. IV. Monday, January 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TzMq2Vmmk7c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "uXTnf8fS6RI",
           "title": "Monday 6 AM Traditional Catholic Mass 01/12/2026",
           "channel": "St. Benedict Parish",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uXTnf8fS6RI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "TzMq2Vmmk7c",
-          "title": "7AM Low Mass & Divine Office. Feria of Epiphany. IV. Monday, January 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/TzMq2Vmmk7c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-12T12:00:00Z"
         },
         {
           "id": "-V5uPHfaBiI",
