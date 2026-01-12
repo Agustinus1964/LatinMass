@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-12T19:23:24.782Z",
+  "lastUpdated": "2026-01-12T19:40:04.442Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CfPzBmL3DTs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-13T06:15:00Z"
+        },
+        {
+          "id": "YXrnjprks1k",
+          "title": "In Commemoratione Baptismatis D.N.I.C.",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/YXrnjprks1k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-13T07:15:00Z"
         },
         {
           "id": "924qUveBytM",
