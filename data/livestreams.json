@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-12T17:21:19.488Z",
+  "lastUpdated": "2026-01-12T17:44:13.286Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "TsTN51FgnR0",
-          "title": "FSSPX Antwerpen - 12/01 Aanbidding met Rozenhoedje",
+          "id": "a_qf1HywjJw",
+          "title": "FSSPX Antwerpen - 12/01 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/TsTN51FgnR0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/a_qf1HywjJw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/q8Nj-9k1Myk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "a_qf1HywjJw",
-          "title": "FSSPX Antwerpen - 12/01 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/a_qf1HywjJw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-12T17:30:00Z"
         },
         {
           "id": "hvimPIkz_7s",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TtSzQwGU9Wc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-13T17:00:00Z"
+        },
+        {
+          "id": "VqJh3Yy8BUs",
+          "title": "FSSPX Antwerpen - 13/01 GEDACHTENIS van het DOOPSEL van O. H. J. C",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/VqJh3Yy8BUs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-13T17:30:00Z"
         }
       ]
     },
@@ -87,8 +87,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/4RMEMPiBIcg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-12T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mcWExCl4f6A",
