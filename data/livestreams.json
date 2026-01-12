@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-12T06:32:07.122Z",
+  "lastUpdated": "2026-01-12T07:24:56.596Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CLwQVSUu1G8",
-          "title": "Hl. Messe - 12. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/CLwQVSUu1G8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "At5ALTl7o3M",
           "title": "Feria: 1ˢᵗ Sunday after Epiphany",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/At5ALTl7o3M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-12T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "H68vnbqDgGw",
