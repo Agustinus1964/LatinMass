@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-12T01:28:20.362Z",
+  "lastUpdated": "2026-01-12T03:25:32.331Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZftZkOr7GZs",
-          "title": "Compline - 1/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZftZkOr7GZs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-12T01:45:00Z"
-        },
         {
           "id": "CLwQVSUu1G8",
           "title": "Hl. Messe - 12. Januar 2026",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a_qf1HywjJw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-12T17:30:00Z"
+        },
+        {
+          "id": "hvimPIkz_7s",
+          "title": "Compline - 1/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hvimPIkz_7s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-13T01:45:00Z"
         }
       ]
     },
