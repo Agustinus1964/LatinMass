@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-12T19:40:04.442Z",
+  "lastUpdated": "2026-01-12T20:21:24.138Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9KVn3fa5Y7o",
+          "title": "Mass of the Baptism of Our Lord - 13.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/9KVn3fa5Y7o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hvimPIkz_7s",
           "title": "Compline - 1/12/26",
