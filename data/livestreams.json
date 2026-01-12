@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-12T12:40:44.767Z",
+  "lastUpdated": "2026-01-12T13:40:01.170Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "X877N16NJtg",
-          "title": "Low Mass - Feria of Epiphany - 1/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/X877N16NJtg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "H68vnbqDgGw",
-          "title": "Mon. Jan. 12, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/H68vnbqDgGw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TsTN51FgnR0",
           "title": "FSSPX Antwerpen - 12/01 Aanbidding met Rozenhoedje",
@@ -82,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-V5uPHfaBiI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the First Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/-V5uPHfaBiI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TzMq2Vmmk7c",
-          "title": "7AM Low Mass & Divine Office. Feria of Epiphany. IV. Monday, January 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/TzMq2Vmmk7c/mqdefault_live.jpg",
+          "id": "5x8Mdr6ngtg",
+          "title": "Monday 8 AM Traditional Latin Mass01/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/5x8Mdr6ngtg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ft4TjJOxq_w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-13T12:00:00Z"
+        },
+        {
+          "id": "3YZ3Bt0RJzY",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Baptism of the Lord)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/3YZ3Bt0RJzY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-13T12:30:00Z"
         }
       ]
     }
