@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T06:29:42.322Z",
+  "lastUpdated": "2026-01-13T06:59:13.033Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zZ00Q26NYgo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-14T06:15:00Z"
+        },
+        {
+          "id": "Bm6B5NG6zys",
+          "title": "FSSPX Antwerpen - 14/01 H. HILARIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Bm6B5NG6zys/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-14T06:30:00Z"
         }
       ]
     },
