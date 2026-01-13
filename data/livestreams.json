@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-13T06:59:13.033Z",
+  "lastUpdated": "2026-01-13T07:32:08.526Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CfPzBmL3DTs",
-          "title": "Hl. Messe - Gedächtnis der Taufe unseres Hernn Jesus Christus - 13. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/CfPzBmL3DTs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YXrnjprks1k",
           "title": "In Commemoratione Baptismatis D.N.I.C.",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/YXrnjprks1k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-13T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "924qUveBytM",
