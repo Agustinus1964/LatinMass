@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-13T17:33:21.826Z",
+  "lastUpdated": "2026-01-13T18:27:56.860Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VqJh3Yy8BUs",
-          "title": "FSSPX Antwerpen - 13/01 GEDACHTENIS van het DOOPSEL van O. H. J. C",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/VqJh3Yy8BUs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TtSzQwGU9Wc",
           "title": "Andacht und hl. Messe - Gedächtnis der Taufe unseres Hernn Jesus Christus - 13. Januar 2026",
@@ -41,6 +32,15 @@
           "scheduledTime": "2026-01-14T06:30:00Z"
         },
         {
+          "id": "Z1D6ZH5LrWU",
+          "title": "S. Hilarii Episcopi, Confessoris et Ecclesiae Doctoris",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/Z1D6ZH5LrWU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-14T07:15:00Z"
+        },
+        {
           "id": "4qiGyluUp08",
           "title": "Wed. Jan.14, 2026    -     St. Hilary,    Bishop, Confessor and Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
@@ -64,13 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Rf9eipEb0f4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Rf9eipEb0f4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "QmBhXty-eTo",
           "title": "Tuesday 13th January 2026: The Baptism of Our Lord",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/QmBhXty-eTo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-13T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-yguYQoPW38",
@@ -78,8 +87,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/-yguYQoPW38/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-13T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cZ3RerKhuKU",
@@ -87,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/cZ3RerKhuKU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-13T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eJng0UgFiJ0",
@@ -125,6 +134,33 @@
           "thumbnail": "https://i.ytimg.com/vi/ql3VwvzKwaI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-14T12:30:00Z"
+        },
+        {
+          "id": "Z83ZFrQqcJQ",
+          "title": "Wednesday 14th January 2026: Saint Hilary of Poitiers",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Z83ZFrQqcJQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-14T18:00:00Z"
+        },
+        {
+          "id": "mezgNUmpV4M",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/mezgNUmpV4M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-14T18:00:00Z"
+        },
+        {
+          "id": "Nn8U7djk46g",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Nn8U7djk46g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-14T18:00:00Z"
         }
       ]
     }
