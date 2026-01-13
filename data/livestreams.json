@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-01-13T12:40:40.303Z",
+  "lastUpdated": "2026-01-13T13:38:58.029Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AMGkbPi7zio",
-          "title": "Sung Mass - Commemoration of the Baptism of our Lord Jesus Christ - 1/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/AMGkbPi7zio/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "924qUveBytM",
-          "title": "Tue. Jan. 13, 2026    -    The Baptism of Our Lord Jesus Christ",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/924qUveBytM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tPsC2l19ap0",
-          "title": "Adult Catechism - Lesson 31",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/tPsC2l19ap0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UTKi5cz7H8w",
           "title": "FSSPX Antwerpen - 13/01 Aanbidding met Rozenhoedje",
@@ -91,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3YZ3Bt0RJzY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Commemoration of the Baptism of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/3YZ3Bt0RJzY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ft4TjJOxq_w",
-          "title": "7AM Low Mass & Divine Office. Commemoration of the Baptism of our Lord Jesus Christ. II. 1-13-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Ft4TjJOxq_w/mqdefault_live.jpg",
+          "id": "qjPgIypMn5g",
+          "title": "Tuesday 8 AM Catholic Mass for 01/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/qjPgIypMn5g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9-5wRxYhvKs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-14T12:00:00Z"
+        },
+        {
+          "id": "ql3VwvzKwaI",
+          "title": "Live Stram Holy Mass from Cleveland USA (Saint Hilary, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ql3VwvzKwaI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-14T12:30:00Z"
         }
       ]
     }
