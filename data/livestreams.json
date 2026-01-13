@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T21:18:13.271Z",
+  "lastUpdated": "2026-01-13T21:42:46.438Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "eJng0UgFiJ0",
+          "title": "Divine Office 6PM Low Mass. Commemoration of the Baptism of our Lord Jesus Christ. II. 1-13-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/eJng0UgFiJ0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "cZ3RerKhuKU",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Mx8LyYBSyU0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "eJng0UgFiJ0",
-          "title": "Divine Office 6PM Low Mass. Commemoration of the Baptism of our Lord Jesus Christ. II. 1-13-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/eJng0UgFiJ0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-13T22:00:00Z"
         },
         {
           "id": "z3n2RHFBiJ0",
