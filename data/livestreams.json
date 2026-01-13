@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T11:17:46.644Z",
+  "lastUpdated": "2026-01-13T11:41:24.914Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Ft4TjJOxq_w",
+          "title": "7AM Low Mass & Divine Office. Commemoration of the Baptism of our Lord Jesus Christ. II. 1-13-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Ft4TjJOxq_w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "sX80x1vkSeI",
           "title": "Tuesday 6 AM Traditional Catholic Mass 01/13/2026",
           "channel": "St. Benedict Parish",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sX80x1vkSeI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Ft4TjJOxq_w",
-          "title": "7AM Low Mass & Divine Office. Commemoration of the Baptism of our Lord Jesus Christ. II. 1-13-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Ft4TjJOxq_w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-13T12:00:00Z"
         },
         {
           "id": "3YZ3Bt0RJzY",
