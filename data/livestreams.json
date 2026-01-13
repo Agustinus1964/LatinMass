@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T18:27:56.860Z",
+  "lastUpdated": "2026-01-13T18:55:37.764Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,24 +69,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/Rf9eipEb0f4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QmBhXty-eTo",
-          "title": "Tuesday 13th January 2026: The Baptism of Our Lord",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/QmBhXty-eTo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-yguYQoPW38",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/-yguYQoPW38/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
