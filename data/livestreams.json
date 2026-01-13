@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T08:55:48.216Z",
+  "lastUpdated": "2026-01-13T09:26:55.828Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tM1DKSg1VxU",
+          "title": "Missa rezada da Comemoração do Batismo de Nosso Senhor",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/tM1DKSg1VxU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Ft4TjJOxq_w",
           "title": "7AM Low Mass & Divine Office. Commemoration of the Baptism of our Lord Jesus Christ. II. 1-13-2026.",
