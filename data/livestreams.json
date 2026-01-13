@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-13T21:42:46.438Z",
+  "lastUpdated": "2026-01-13T22:18:57.736Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,15 +69,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/cZ3RerKhuKU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Mx8LyYBSyU0",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Mx8LyYBSyU0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
