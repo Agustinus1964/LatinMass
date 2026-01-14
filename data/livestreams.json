@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T15:45:20.255Z",
+  "lastUpdated": "2026-01-14T16:26:51.482Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,6 +23,15 @@
           "scheduledTime": "2026-01-15T06:15:00Z"
         },
         {
+          "id": "LrzzH4WJwI4",
+          "title": "S. Pauli Primi Eremitae et Confessoris",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/LrzzH4WJwI4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T07:15:00Z"
+        },
+        {
           "id": "SCwN2bCY6AM",
           "title": "Thu. Jan. 15, 2026    -    St. Paul,   First Hermit",
           "channel": "Transfiguration Church SSPX",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VwmiuisDbAA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T14:30:00Z"
+        },
+        {
+          "id": "hnSYZ6ghLRY",
+          "title": "Sakramentsandacht und hl. Messe - hl. Paulus der Einsiedler - 15. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/hnSYZ6ghLRY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T16:00:00Z"
         }
       ]
     },
