@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-01-14T06:58:27.270Z",
+  "lastUpdated": "2026-01-14T07:31:40.141Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Bm6B5NG6zys",
-          "title": "FSSPX Antwerpen - 14/01 H. HILARIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Bm6B5NG6zys/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zZ00Q26NYgo",
-          "title": "Hl. Messe - hl. Hilarius - 14. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zZ00Q26NYgo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Z1D6ZH5LrWU",
           "title": "S. Hilarii Episcopi, Confessoris et Ecclesiae Doctoris",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/Z1D6ZH5LrWU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4qiGyluUp08",
