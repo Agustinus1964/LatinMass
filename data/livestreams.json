@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-14T20:43:57.572Z",
+  "lastUpdated": "2026-01-14T21:19:27.906Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aeROlFdowzw",
-          "title": "Mass of St Paul, First Hermit - 15.1.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/aeROlFdowzw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "09gv-ZDiW8s",
           "title": "Hl. Messe - hl. Paulus der Einsiedler - 15. Januar 2026",
@@ -78,6 +69,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Nn8U7djk46g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3VV_DD5_D-s",
+          "title": "Terço e Santa Missa rezada da festa de Santo Hilário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/3VV_DD5_D-s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
