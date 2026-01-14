@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-14T17:51:55.250Z",
+  "lastUpdated": "2026-01-14T18:29:19.702Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "emJiRpmybkU",
-          "title": "Rosenkranz und hl. Messe - hl. Hilarius - 14. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/emJiRpmybkU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "09gv-ZDiW8s",
           "title": "Hl. Messe - hl. Paulus der Einsiedler - 15. Januar 2026",
@@ -73,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "qVhcKD0Lc_Q",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/qVhcKD0Lc_Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Z83ZFrQqcJQ",
           "title": "Wednesday 14th January 2026: Saint Hilary of Poitiers",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -82,22 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "qVhcKD0Lc_Q",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/qVhcKD0Lc_Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T17:58:00Z"
-        },
-        {
           "id": "mezgNUmpV4M",
           "title": "Wednesday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/mezgNUmpV4M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nn8U7djk46g",
@@ -105,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Nn8U7djk46g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eHJe6_GFYkE",
@@ -134,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/PKvwLGRHf_g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T12:30:00Z"
+        },
+        {
+          "id": "h6zb57-Neus",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/h6zb57-Neus/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T18:00:00Z"
+        },
+        {
+          "id": "3kbNIe5A8HM",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/3kbNIe5A8HM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T18:00:00Z"
         }
       ]
     }
