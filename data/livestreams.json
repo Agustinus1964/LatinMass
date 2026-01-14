@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-14T08:26:43.673Z",
+  "lastUpdated": "2026-01-14T08:55:27.330Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Z1D6ZH5LrWU",
+          "title": "S. Hilarii Episcopi, Confessoris et Ecclesiae Doctoris",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/Z1D6ZH5LrWU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4qiGyluUp08",
           "title": "Wed. Jan.14, 2026    -     St. Hilary,    Bishop, Confessor and Doctor of the Church",
