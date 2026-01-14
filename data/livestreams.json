@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-14T12:39:48.827Z",
+  "lastUpdated": "2026-01-14T13:38:26.374Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oEPIecuvbzM",
-          "title": "Low Mass - St. Hilary, Bishop Confessor & Doctor of the Church - 1/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/oEPIecuvbzM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4qiGyluUp08",
-          "title": "Wed. Jan.14, 2026    -     St. Hilary,    Bishop, Confessor and Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/4qiGyluUp08/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "emJiRpmybkU",
           "title": "Rosenkranz und hl. Messe - hl. Hilarius - 14. Januar 2026",
@@ -55,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ql3VwvzKwaI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hilary, Bishop, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ql3VwvzKwaI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9-5wRxYhvKs",
-          "title": "7AM Low Mass & Divine Office. St. Hilary, Bishop Confessor & Doctor of the Church. III. 1-14-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/9-5wRxYhvKs/mqdefault_live.jpg",
+          "id": "6FtUnAJliQU",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 01/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6FtUnAJliQU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gNfygrkvx-g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T12:00:00Z"
+        },
+        {
+          "id": "PKvwLGRHf_g",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Paul, the First Hermit)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PKvwLGRHf_g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T12:30:00Z"
         }
       ]
     }
