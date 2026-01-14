@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-14T08:55:27.330Z",
+  "lastUpdated": "2026-01-14T09:26:53.251Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Z1D6ZH5LrWU",
-          "title": "S. Hilarii Episcopi, Confessoris et Ecclesiae Doctoris",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/Z1D6ZH5LrWU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "4qiGyluUp08",
           "title": "Wed. Jan.14, 2026    -     St. Hilary,    Bishop, Confessor and Doctor of the Church",
@@ -45,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "txNGQtI_2W0",
+          "title": "Missa rezada da festa de Santo Hilário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/txNGQtI_2W0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9-5wRxYhvKs",
           "title": "7AM Low Mass & Divine Office. St. Hilary, Bishop Confessor & Doctor of the Church. III. 1-14-2026.",
