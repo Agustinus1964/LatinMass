@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-14T06:29:45.227Z",
+  "lastUpdated": "2026-01-14T06:58:27.270Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Bm6B5NG6zys",
+          "title": "FSSPX Antwerpen - 14/01 H. HILARIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Bm6B5NG6zys/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zZ00Q26NYgo",
           "title": "Hl. Messe - hl. Hilarius - 14. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zZ00Q26NYgo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Bm6B5NG6zys",
-          "title": "FSSPX Antwerpen - 14/01 H. HILARIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Bm6B5NG6zys/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T06:30:00Z"
         },
         {
           "id": "Z1D6ZH5LrWU",
