@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T21:43:05.991Z",
+  "lastUpdated": "2026-01-14T22:19:20.904Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "3VV_DD5_D-s",
-          "title": "Terço e Santa Missa rezada da festa de Santo Hilário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/3VV_DD5_D-s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "eHJe6_GFYkE",
           "title": "Thursday 15th January 2026: Saint Paul, Ermit",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3kbNIe5A8HM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T18:00:00Z"
+        },
+        {
+          "id": "jqGqXE1ON_Q",
+          "title": "Divine Office & 6PM Low Mass. St. Paul the first Hermit & Confessor. III. Thursday, January 15, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/jqGqXE1ON_Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T22:00:00Z"
         }
       ]
     }
