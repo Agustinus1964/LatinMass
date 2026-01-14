@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T10:50:37.113Z",
+  "lastUpdated": "2026-01-14T11:18:40.334Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_Z7yr0Hcj6Q",
+          "title": "Wednesday 6 AM Traditional Catholic Mass01/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/_Z7yr0Hcj6Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9-5wRxYhvKs",
           "title": "7AM Low Mass & Divine Office. St. Hilary, Bishop Confessor & Doctor of the Church. III. 1-14-2026.",
