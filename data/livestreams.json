@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-14T11:42:28.369Z",
+  "lastUpdated": "2026-01-14T12:39:48.827Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "oEPIecuvbzM",
+          "title": "Low Mass - St. Hilary, Bishop Confessor & Doctor of the Church - 1/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/oEPIecuvbzM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4qiGyluUp08",
           "title": "Wed. Jan.14, 2026    -     St. Hilary,    Bishop, Confessor and Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/4qiGyluUp08/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "emJiRpmybkU",
@@ -30,12 +39,30 @@
           "thumbnail": "https://i.ytimg.com/vi/09gv-ZDiW8s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T06:15:00Z"
+        },
+        {
+          "id": "SCwN2bCY6AM",
+          "title": "Thu. Jan. 15, 2026    -    St. Paul,   First Hermit",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/SCwN2bCY6AM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ql3VwvzKwaI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hilary, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ql3VwvzKwaI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9-5wRxYhvKs",
           "title": "7AM Low Mass & Divine Office. St. Hilary, Bishop Confessor & Doctor of the Church. III. 1-14-2026.",
@@ -44,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9-5wRxYhvKs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_Z7yr0Hcj6Q",
-          "title": "Wednesday 6 AM Traditional Catholic Mass01/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/_Z7yr0Hcj6Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ql3VwvzKwaI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hilary, Bishop, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ql3VwvzKwaI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-14T12:30:00Z"
         },
         {
           "id": "Z83ZFrQqcJQ",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eHJe6_GFYkE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T08:00:00Z"
+        },
+        {
+          "id": "gNfygrkvx-g",
+          "title": "7AM Low Mass & Divine Office. St. Paul the first Hermit & Confessor. III. Thursday, January 15, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/gNfygrkvx-g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T12:00:00Z"
         }
       ]
     }
