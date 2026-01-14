@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-14T17:28:31.658Z",
+  "lastUpdated": "2026-01-14T17:51:55.250Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hnSYZ6ghLRY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T16:00:00Z"
+        },
+        {
+          "id": "-8F4OIrwpoE",
+          "title": "FSSPX Antwerpen - 15/01 H. PAULUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/-8F4OIrwpoE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-15T17:30:00Z"
         }
       ]
     },
@@ -69,8 +78,17 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Z83ZFrQqcJQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "qVhcKD0Lc_Q",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/qVhcKD0Lc_Q/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-14T18:00:00Z"
+          "scheduledTime": "2026-01-14T17:58:00Z"
         },
         {
           "id": "mezgNUmpV4M",
