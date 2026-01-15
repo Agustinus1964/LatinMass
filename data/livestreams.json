@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T06:58:38.614Z",
+  "lastUpdated": "2026-01-15T07:31:25.686Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/LrzzH4WJwI4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SCwN2bCY6AM",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SCwN2bCY6AM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T12:15:00Z"
-        },
-        {
-          "id": "VwmiuisDbAA",
-          "title": "FSSPX Antwerpen - 15/01 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/VwmiuisDbAA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T14:30:00Z"
         },
         {
           "id": "hnSYZ6ghLRY",
