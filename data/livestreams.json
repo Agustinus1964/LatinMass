@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-15T17:58:55.889Z",
+  "lastUpdated": "2026-01-15T18:47:42.530Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-8F4OIrwpoE",
-          "title": "FSSPX Antwerpen - 15/01 H. PAULUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/-8F4OIrwpoE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hnSYZ6ghLRY",
-          "title": "Sakramentsandacht und hl. Messe - hl. Paulus der Einsiedler - 15. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/hnSYZ6ghLRY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YS0MxXZEANE",
           "title": "Hl. Messe - hl. Marcellus I. - 16. Januar 2026",
@@ -134,6 +116,33 @@
           "thumbnail": "https://i.ytimg.com/vi/fWluKYFXAf0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-16T16:00:00Z"
+        },
+        {
+          "id": "aRAfAPE3lR4",
+          "title": "Friday 16th January 2026: Saint Marcellus, Pope",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/aRAfAPE3lR4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T18:00:00Z"
+        },
+        {
+          "id": "mAc32RXQtKM",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/mAc32RXQtKM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T18:00:00Z"
+        },
+        {
+          "id": "cwkaZoU1JXE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/cwkaZoU1JXE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T18:00:00Z"
         }
       ]
     }
