@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T08:55:05.280Z",
+  "lastUpdated": "2026-01-15T09:25:16.785Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "p6Q1cSzQESE",
+          "title": "Prima e Santa Missa rezada da festa de São Paulo eremita",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/p6Q1cSzQESE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "gNfygrkvx-g",
           "title": "7AM Low Mass & Divine Office. St. Paul the first Hermit & Confessor. III. Thursday, January 15, 2026",
