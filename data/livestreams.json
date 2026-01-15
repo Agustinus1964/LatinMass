@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T21:18:33.857Z",
+  "lastUpdated": "2026-01-15T21:42:21.670Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "jqGqXE1ON_Q",
+          "title": "Divine Office & 6PM Low Mass. St. Paul the first Hermit & Confessor. III. Thursday, January 15, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/jqGqXE1ON_Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "3kbNIe5A8HM",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/b4ljf2s6AzY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "jqGqXE1ON_Q",
-          "title": "Divine Office & 6PM Low Mass. St. Paul the first Hermit & Confessor. III. Thursday, January 15, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/jqGqXE1ON_Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T22:00:00Z"
         },
         {
           "id": "2_iJ0DIJYIc",
