@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-15T12:39:39.253Z",
+  "lastUpdated": "2026-01-15T13:37:35.787Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XQ4ibtlA1E0",
-          "title": "Low Mass - St. Paul the first Hermit & Confessor - 1/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/XQ4ibtlA1E0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "SCwN2bCY6AM",
-          "title": "Thu. Jan. 15, 2026    -    St. Paul,   First Hermit",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/SCwN2bCY6AM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hnSYZ6ghLRY",
           "title": "Sakramentsandacht und hl. Messe - hl. Paulus der Einsiedler - 15. Januar 2026",
@@ -73,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PKvwLGRHf_g",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Paul, the First Hermit)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PKvwLGRHf_g/mqdefault_live.jpg",
+          "id": "2_jeh0TeNog",
+          "title": "Thursday 8 AM Traditional Catholic Mass 01/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/2_jeh0TeNog/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
