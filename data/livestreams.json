@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-15T17:29:26.549Z",
+  "lastUpdated": "2026-01-15T17:58:55.889Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "VwmiuisDbAA",
-          "title": "FSSPX Antwerpen - 15/01 Priester-Uur-Gebed",
+          "id": "-8F4OIrwpoE",
+          "title": "FSSPX Antwerpen - 15/01 H. PAULUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/VwmiuisDbAA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/-8F4OIrwpoE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -50,15 +50,6 @@
           "scheduledTime": "2026-01-16T12:15:00Z"
         },
         {
-          "id": "zZRRROmAXz8",
-          "title": "FSSPX Antwerpen - 16/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/zZRRROmAXz8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T16:00:00Z"
-        },
-        {
           "id": "lChhxkQzers",
           "title": "FSSPX Antwerpen - 16/01 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jGda6_1HwBU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-16T17:00:00Z"
+        },
+        {
+          "id": "t45QVz5kfZk",
+          "title": "FSSPX Antwerpen - 16/01 H. MARCELLUS I",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/t45QVz5kfZk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T17:30:00Z"
         }
       ]
     },
@@ -82,13 +82,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "LOsOb0iQGF0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/LOsOb0iQGF0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "h6zb57-Neus",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/h6zb57-Neus/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3kbNIe5A8HM",
@@ -96,8 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3kbNIe5A8HM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jqGqXE1ON_Q",
