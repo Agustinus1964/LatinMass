@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-15T19:44:23.926Z",
+  "lastUpdated": "2026-01-15T20:21:50.599Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Jw2KbbcH8zo",
+          "title": "Mass of St Marcellus 1 - 16.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/Jw2KbbcH8zo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "YS0MxXZEANE",
           "title": "Hl. Messe - hl. Marcellus I. - 16. Januar 2026",
