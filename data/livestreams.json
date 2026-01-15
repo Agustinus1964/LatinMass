@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-15T07:31:25.686Z",
+  "lastUpdated": "2026-01-15T08:27:14.353Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LrzzH4WJwI4",
-          "title": "S. Pauli Primi Eremitae et Confessoris",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/LrzzH4WJwI4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SCwN2bCY6AM",
           "title": "Thu. Jan. 15, 2026    -    St. Paul,   First Hermit",
@@ -60,8 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/eHJe6_GFYkE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gNfygrkvx-g",
