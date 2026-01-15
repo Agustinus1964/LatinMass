@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T22:18:57.805Z",
+  "lastUpdated": "2026-01-15T22:45:18.745Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -78,15 +78,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3kbNIe5A8HM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "b4ljf2s6AzY",
-          "title": "Adoração ao Santíssimo Sacramento e Missa rezada da festa de São Paulo eremita",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/b4ljf2s6AzY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
