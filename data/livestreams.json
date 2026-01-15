@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-15T16:31:27.501Z",
+  "lastUpdated": "2026-01-15T17:29:26.549Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/zZRRROmAXz8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-16T16:00:00Z"
+        },
+        {
+          "id": "lChhxkQzers",
+          "title": "FSSPX Antwerpen - 16/01 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/lChhxkQzers/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T16:45:00Z"
+        },
+        {
+          "id": "jGda6_1HwBU",
+          "title": "Rosenkranz und hl. Messe - hl. Marcellus I. - 16. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jGda6_1HwBU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T17:00:00Z"
         }
       ]
     },
@@ -89,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jqGqXE1ON_Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T22:00:00Z"
+        },
+        {
+          "id": "2_iJ0DIJYIc",
+          "title": "Solemn Requiem for Monsignor Vaughn Morgan",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/2_iJ0DIJYIc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-16T11:30:00Z"
         },
         {
           "id": "fWluKYFXAf0",
