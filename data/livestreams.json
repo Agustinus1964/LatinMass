@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-15T14:22:00.677Z",
+  "lastUpdated": "2026-01-15T14:49:18.935Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "VwmiuisDbAA",
+          "title": "FSSPX Antwerpen - 15/01 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/VwmiuisDbAA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hnSYZ6ghLRY",
           "title": "Sakramentsandacht und hl. Messe - hl. Paulus der Einsiedler - 15. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hnSYZ6ghLRY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-15T16:00:00Z"
-        },
-        {
-          "id": "-8F4OIrwpoE",
-          "title": "FSSPX Antwerpen - 15/01 H. PAULUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/-8F4OIrwpoE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-15T17:30:00Z"
         },
         {
           "id": "YS0MxXZEANE",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SXpNjIOuc2o",
-          "title": "Santo Sacrificio de la Misa, San Pablo, Ermitaño y San Mauro, 15 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/SXpNjIOuc2o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "h6zb57-Neus",
           "title": "Thursday",
