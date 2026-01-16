@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-16T17:21:54.419Z",
+  "lastUpdated": "2026-01-16T17:47:00.284Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "lChhxkQzers",
-          "title": "FSSPX Antwerpen - 16/01 H. Kruisweg",
+          "id": "t45QVz5kfZk",
+          "title": "FSSPX Antwerpen - 16/01 H. MARCELLUS I",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/lChhxkQzers/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/t45QVz5kfZk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ienpBXmGV9U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T07:30:00Z"
-        },
-        {
-          "id": "vLUWhbyQE98",
-          "title": "FSSPX Antwerpen - 17/01 H. ANTONIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/vLUWhbyQE98/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-17T09:00:00Z"
         },
         {
           "id": "speaK-EoNME",
