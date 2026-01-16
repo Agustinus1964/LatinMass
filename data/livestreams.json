@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-16T06:29:42.928Z",
+  "lastUpdated": "2026-01-16T06:58:09.816Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YS0MxXZEANE",
-          "title": "Hl. Messe - hl. Marcellus I. - 16. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YS0MxXZEANE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HcY8uOv2PbU",
           "title": "S. Marcelli I Papae et Martyris",
@@ -91,15 +82,6 @@
           "scheduledTime": "2026-01-16T11:30:00Z"
         },
         {
-          "id": "fWluKYFXAf0",
-          "title": "11AM Low Mass. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/fWluKYFXAf0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T16:00:00Z"
-        },
-        {
           "id": "aRAfAPE3lR4",
           "title": "Friday 16th January 2026: Saint Marcellus, Pope",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,15 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cwkaZoU1JXE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-16T18:00:00Z"
-        },
-        {
-          "id": "nt4F5X6FpLU",
-          "title": "6PM Mass & Holy Hour. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/nt4F5X6FpLU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T23:00:00Z"
         },
         {
           "id": "FAZ7mZtTxRo",
