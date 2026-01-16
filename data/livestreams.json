@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-16T21:18:25.894Z",
+  "lastUpdated": "2026-01-16T21:41:54.743Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TDgjQ4pmuM0",
-          "title": "Mass of St Anthony the Abbot - 17th January 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/TDgjQ4pmuM0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZyL52v7JgvM",
           "title": "Hl. Messe - hl. Antonius - 17. Januar 2026",
@@ -45,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "nt4F5X6FpLU",
+          "title": "Divine Office, 6PM Mass & Holy Hour. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/nt4F5X6FpLU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "cwkaZoU1JXE",
           "title": "Sainte messe en semaine",
