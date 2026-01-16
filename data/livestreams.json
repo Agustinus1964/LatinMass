@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-01-16T11:40:40.274Z",
+  "lastUpdated": "2026-01-16T12:38:21.073Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "r8ZDh3q9vlg",
+          "title": "Low Mass - St. Marcellus I, Pope & Martyr - 1/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/r8ZDh3q9vlg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xImjI0jKuhU",
+          "title": "Fri. Jan. 16, 2026    -    St. Marcellus I,   Pope and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/xImjI0jKuhU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "yvvkFWtAY3A",
+          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 3",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/yvvkFWtAY3A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "t3jHxUinTh8",
           "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 1",
@@ -12,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/t3jHxUinTh8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-16T11:45:00Z"
-        },
-        {
-          "id": "xImjI0jKuhU",
-          "title": "Fri. Jan. 16, 2026    -    St. Marcellus I,   Pope and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/xImjI0jKuhU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T12:15:00Z"
         },
         {
           "id": "lChhxkQzers",
