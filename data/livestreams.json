@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-16T17:47:00.284Z",
+  "lastUpdated": "2026-01-16T18:28:06.468Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "t45QVz5kfZk",
-          "title": "FSSPX Antwerpen - 16/01 H. MARCELLUS I",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/t45QVz5kfZk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jGda6_1HwBU",
-          "title": "Rosenkranz und hl. Messe - hl. Marcellus I. - 16. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/jGda6_1HwBU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZyL52v7JgvM",
           "title": "Hl. Messe - hl. Antonius - 17. Januar 2026",
@@ -60,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/aRAfAPE3lR4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mAc32RXQtKM",
@@ -69,8 +51,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/mAc32RXQtKM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cwkaZoU1JXE",
@@ -78,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/cwkaZoU1JXE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FAZ7mZtTxRo",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jBIYHoY1-jY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T10:30:00Z"
+        },
+        {
+          "id": "FmZFL1zL0t0",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/FmZFL1zL0t0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T18:00:00Z"
         }
       ]
     }
