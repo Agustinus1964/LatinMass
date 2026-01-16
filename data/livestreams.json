@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T05:48:07.583Z",
+  "lastUpdated": "2026-01-16T06:29:42.928Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/YS0MxXZEANE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "HcY8uOv2PbU",
+          "title": "S. Marcelli I Papae et Martyris",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/HcY8uOv2PbU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-16T06:15:00Z"
+          "scheduledTime": "2026-01-16T07:15:00Z"
         },
         {
           "id": "t3jHxUinTh8",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/t45QVz5kfZk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-16T17:30:00Z"
+        },
+        {
+          "id": "ZyL52v7JgvM",
+          "title": "Hl. Messe - hl. Antonius - 17. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ZyL52v7JgvM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T06:15:00Z"
         }
       ]
     },
@@ -74,7 +92,7 @@
         },
         {
           "id": "fWluKYFXAf0",
-          "title": "11AM Low Mass & Divine Office. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
+          "title": "11AM Low Mass. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/fWluKYFXAf0/mqdefault_live.jpg",
@@ -110,12 +128,12 @@
         },
         {
           "id": "nt4F5X6FpLU",
-          "title": "Divine Office, 6PM Mass, Holy Hour. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
+          "title": "6PM Mass & Holy Hour. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/nt4F5X6FpLU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-16T22:00:00Z"
+          "scheduledTime": "2026-01-16T23:00:00Z"
         },
         {
           "id": "FAZ7mZtTxRo",
