@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-16T16:24:37.790Z",
+  "lastUpdated": "2026-01-16T16:53:14.110Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "zZRRROmAXz8",
-          "title": "FSSPX Antwerpen - 16/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "lChhxkQzers",
+          "title": "FSSPX Antwerpen - 16/01 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/zZRRROmAXz8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/lChhxkQzers/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-01-16T17:00:00Z"
         },
         {
-          "id": "t45QVz5kfZk",
-          "title": "FSSPX Antwerpen - 16/01 H. MARCELLUS I",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/t45QVz5kfZk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-16T17:30:00Z"
-        },
-        {
           "id": "ZyL52v7JgvM",
           "title": "Hl. Messe - hl. Antonius - 17. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZyL52v7JgvM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T06:15:00Z"
+        },
+        {
+          "id": "ienpBXmGV9U",
+          "title": "S. Antonii Abbatis",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ienpBXmGV9U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T07:30:00Z"
         },
         {
           "id": "vLUWhbyQE98",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fWluKYFXAf0",
-          "title": "11AM Low Mass. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/fWluKYFXAf0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "aRAfAPE3lR4",
           "title": "Friday 16th January 2026: Saint Marcellus, Pope",
