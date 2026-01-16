@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T10:20:28.537Z",
+  "lastUpdated": "2026-01-16T10:48:35.941Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nLyRMxnEPeU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T08:30:00Z"
+        },
+        {
+          "id": "jBIYHoY1-jY",
+          "title": "Saturday 17th January 2026: Our Lady on Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/jBIYHoY1-jY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T10:30:00Z"
         }
       ]
     }
