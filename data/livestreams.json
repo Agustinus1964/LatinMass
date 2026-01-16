@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T08:53:15.559Z",
+  "lastUpdated": "2026-01-16T09:24:06.220Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/ZyL52v7JgvM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T06:15:00Z"
+        },
+        {
+          "id": "vLUWhbyQE98",
+          "title": "FSSPX Antwerpen - 17/01 H. ANTONIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/vLUWhbyQE98/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lgbkbgztdIU",
+          "title": "Prima e Santa Missa rezada da festa de São Marcelo I, Papa e mártir",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/lgbkbgztdIU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "2_iJ0DIJYIc",
           "title": "Solemn Requiem for Monsignor Vaughan Morgan",
