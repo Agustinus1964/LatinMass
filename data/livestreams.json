@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T18:28:06.468Z",
+  "lastUpdated": "2026-01-16T18:56:22.069Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,15 +42,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/aRAfAPE3lR4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mAc32RXQtKM",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/mAc32RXQtKM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
