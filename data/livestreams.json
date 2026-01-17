@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T16:19:56.509Z",
+  "lastUpdated": "2026-01-17T16:45:00.855Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Wmx4mlsXYvY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T15:00:00Z"
+        },
+        {
+          "id": "VX3e6M539s4",
+          "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/VX3e6M539s4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T16:30:00Z"
         }
       ]
     },
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/n0uRfCcnMNU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T15:45:00Z"
+        },
+        {
+          "id": "oJPk3kTO3KA",
+          "title": "SECOND SUNDAY AFTER EPIPHANY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/oJPk3kTO3KA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T16:30:00Z"
         }
       ]
     }
