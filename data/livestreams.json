@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-16T23:40:37.589Z",
+  "lastUpdated": "2026-01-17T01:21:38.278Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "FAZ7mZtTxRo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Marcellus I, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/FAZ7mZtTxRo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nt4F5X6FpLU",
-          "title": "Divine Office, 6PM Mass & Holy Hour. St. Marcellus I, Pope & Martyr. III. Friday, January 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/nt4F5X6FpLU/mqdefault_live.jpg",
+          "id": "enwySL27vWo",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/enwySL27vWo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jBIYHoY1-jY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T10:30:00Z"
+        },
+        {
+          "id": "PWi7qwzaliI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony, Abbot)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PWi7qwzaliI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T14:00:00Z"
         },
         {
           "id": "FmZFL1zL0t0",
