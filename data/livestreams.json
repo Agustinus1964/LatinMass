@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T05:42:57.250Z",
+  "lastUpdated": "2026-01-17T06:26:52.664Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/ZyL52v7JgvM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-17T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ienpBXmGV9U",
@@ -53,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nLyRMxnEPeU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-17T08:30:00Z"
+        },
+        {
+          "id": "NpehIqDXiiQ",
+          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les moines, bâtisseurs de l'Europe (5/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/NpehIqDXiiQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-17T09:45:00Z"
         },
         {
           "id": "jBIYHoY1-jY",
