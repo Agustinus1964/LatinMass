@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T22:16:42.482Z",
+  "lastUpdated": "2026-01-17T22:42:26.783Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -62,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4JhgPtm8mm8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T09:30:00Z"
+        },
+        {
+          "id": "JYfkxHwZMxw",
+          "title": "Sainte messe du second dimanche après l'Epiphanie - OMNIS TERRA",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/JYfkxHwZMxw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T10:00:00Z"
         },
         {
           "id": "gGZARR6MPtM",
