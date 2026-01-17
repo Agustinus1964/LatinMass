@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T13:45:35.828Z",
+  "lastUpdated": "2026-01-17T14:16:02.720Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "PWi7qwzaliI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony, Abbot)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PWi7qwzaliI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "lpD5YS7Vj5c",
           "title": "7:30AM Low Mass, Rosary, 9AM Low Mass. St. Anthony, Abbot. III. Saturday, January 17, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -37,13 +46,22 @@
           "scheduledTime": null
         },
         {
-          "id": "PWi7qwzaliI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony, Abbot)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PWi7qwzaliI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-17T14:00:00Z"
+          "id": "zKSzbjo_Jk8",
+          "title": "Saturday 9 AM Catholic Mass for 01/17/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/zKSzbjo_Jk8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Gbb6mLKEkW0",
+          "title": "Santo Sacrificio de la Misa, San Antonio, Abad, 17 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Gbb6mLKEkW0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vV7jLW5vf_E",
