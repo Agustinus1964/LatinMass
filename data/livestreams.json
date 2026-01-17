@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T14:16:02.720Z",
+  "lastUpdated": "2026-01-17T14:41:27.205Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -33,15 +33,6 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/PWi7qwzaliI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lpD5YS7Vj5c",
-          "title": "7:30AM Low Mass, Rosary, 9AM Low Mass. St. Anthony, Abbot. III. Saturday, January 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/lpD5YS7Vj5c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
