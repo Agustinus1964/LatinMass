@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-17T11:37:36.596Z",
+  "lastUpdated": "2026-01-17T12:34:26.266Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5RsRGIglV2E",
+          "title": "Low Mass - St. Anthony, Abbot - 1/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/5RsRGIglV2E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "speaK-EoNME",
           "title": "Sat. Jan. 17, 2026    -    St. Anthony the Hermit",
@@ -37,11 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jBIYHoY1-jY",
-          "title": "Saturday 17th January 2026: Our Lady on Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/jBIYHoY1-jY/mqdefault_live.jpg",
+          "id": "lpD5YS7Vj5c",
+          "title": "7:30AM Low Mass, Rosary, 9AM Low Mass. St. Anthony, Abbot. III. Saturday, January 17, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/lpD5YS7Vj5c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KM3u3OJ7_0o",
+          "title": "Saturday 7 AM Traditional Catholic Mass 01/17/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/KM3u3OJ7_0o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
