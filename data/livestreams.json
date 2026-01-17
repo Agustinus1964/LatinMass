@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T14:41:27.205Z",
+  "lastUpdated": "2026-01-17T15:17:08.422Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IcO-ZzD13jw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T08:30:00Z"
+        },
+        {
+          "id": "Wmx4mlsXYvY",
+          "title": "Sun. Jan. 18, 2026    -    Second Sunday after Epiphany",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Wmx4mlsXYvY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T15:00:00Z"
         }
       ]
     },
@@ -28,29 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PWi7qwzaliI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony, Abbot)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PWi7qwzaliI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zKSzbjo_Jk8",
-          "title": "Saturday 9 AM Catholic Mass for 01/17/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/zKSzbjo_Jk8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Gbb6mLKEkW0",
-          "title": "Santo Sacrificio de la Misa, San Antonio, Abad, 17 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Gbb6mLKEkW0/mqdefault_live.jpg",
+          "id": "TlOpPzNFV1s",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/TlOpPzNFV1s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
