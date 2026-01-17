@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T10:42:54.606Z",
+  "lastUpdated": "2026-01-17T11:14:41.258Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
           "scheduledTime": null
         },
         {
-          "id": "NpehIqDXiiQ",
-          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les moines, bâtisseurs de l'Europe (5/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/NpehIqDXiiQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "PWi7qwzaliI",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony, Abbot)",
           "channel": "Usus Antiquior",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gGZARR6MPtM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T10:30:00Z"
+        },
+        {
+          "id": "4cPsDE_f2Zc",
+          "title": "11am — 2nd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4cPsDE_f2Zc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T11:00:00Z"
         }
       ]
     }
