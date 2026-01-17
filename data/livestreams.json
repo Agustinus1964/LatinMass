@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-17T09:17:28.030Z",
+  "lastUpdated": "2026-01-17T09:40:26.097Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vLUWhbyQE98",
-          "title": "FSSPX Antwerpen - 17/01 H. ANTONIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/vLUWhbyQE98/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "speaK-EoNME",
           "title": "Sat. Jan. 17, 2026    -    St. Anthony the Hermit",
@@ -46,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nLyRMxnEPeU",
-          "title": "Sainte messe en semaine",
+          "id": "NpehIqDXiiQ",
+          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les moines, bâtisseurs de l'Europe (5/10)",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/nLyRMxnEPeU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/NpehIqDXiiQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,15 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-eekRFM9bB4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "NpehIqDXiiQ",
-          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les moines, bâtisseurs de l'Europe (5/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/NpehIqDXiiQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-17T09:45:00Z"
         },
         {
           "id": "jBIYHoY1-jY",
