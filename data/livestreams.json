@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-17T22:42:26.783Z",
+  "lastUpdated": "2026-01-17T23:16:28.847Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mVkoPJvTbgk",
+          "title": "SECOND SUNDAY OF EPIPHANY - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/mVkoPJvTbgk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "x2_1hYihrLM",
           "title": "Sung Mass - 2nd Sunday after Epiphany",
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oJPk3kTO3KA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T16:30:00Z"
+        },
+        {
+          "id": "Pu-Stbm96QQ",
+          "title": "Secondes vêpres du second dimanche après l'Epiphanie - DEFICIENTE VINO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Pu-Stbm96QQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T16:45:00Z"
         },
         {
           "id": "jX7Rm-45dtA",
