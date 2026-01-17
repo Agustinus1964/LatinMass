@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-17T08:47:35.452Z",
+  "lastUpdated": "2026-01-17T09:17:28.030Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "vLUWhbyQE98",
+          "title": "FSSPX Antwerpen - 17/01 H. ANTONIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/vLUWhbyQE98/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "speaK-EoNME",
           "title": "Sat. Jan. 17, 2026    -    St. Anthony the Hermit",
@@ -42,6 +51,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/nLyRMxnEPeU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-eekRFM9bB4",
+          "title": "Prima e Santa Missa da Festa de Santo Antão abade",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-eekRFM9bB4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
