@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T15:39:47.997Z",
+  "lastUpdated": "2026-01-17T16:19:56.509Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,15 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TlOpPzNFV1s",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/TlOpPzNFV1s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "vV7jLW5vf_E",
           "title": "8am — 2nd Sunday after Epiphany",
           "channel": "Oxford Oratory",
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4cPsDE_f2Zc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T11:00:00Z"
+        },
+        {
+          "id": "n0uRfCcnMNU",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/n0uRfCcnMNU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T15:45:00Z"
         }
       ]
     }
