@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-17T09:40:26.097Z",
+  "lastUpdated": "2026-01-17T10:17:27.478Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "FmZFL1zL0t0",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/FmZFL1zL0t0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "NpehIqDXiiQ",
           "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les moines, bâtisseurs de l'Europe (5/10)",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/NpehIqDXiiQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-eekRFM9bB4",
-          "title": "Prima e Santa Missa da Festa de Santo Antão abade",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-eekRFM9bB4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,13 +73,22 @@
           "scheduledTime": "2026-01-17T14:00:00Z"
         },
         {
-          "id": "FmZFL1zL0t0",
-          "title": "Saturday",
+          "id": "vV7jLW5vf_E",
+          "title": "8am — 2nd Sunday after Epiphany",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/FmZFL1zL0t0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/vV7jLW5vf_E/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-17T18:00:00Z"
+          "scheduledTime": "2026-01-18T08:00:00Z"
+        },
+        {
+          "id": "4JhgPtm8mm8",
+          "title": "9:30am —  2nd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4JhgPtm8mm8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T09:30:00Z"
         }
       ]
     }
