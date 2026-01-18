@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T09:41:21.024Z",
+  "lastUpdated": "2026-01-18T10:17:47.330Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/PS6cZsZt1ZQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IcO-ZzD13jw",
-          "title": "Amt - 2. Sonntag nach Erscheinung - 18. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/IcO-ZzD13jw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,8 +60,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/JYfkxHwZMxw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AWriG2I5BSw",
+          "title": "Missa Rezada do 2º Domingo depois da Epifania",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/AWriG2I5BSw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gGZARR6MPtM",
