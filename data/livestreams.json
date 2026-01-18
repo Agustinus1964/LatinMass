@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-18T11:37:02.068Z",
+  "lastUpdated": "2026-01-18T12:34:37.504Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dPalDK94Q5Q",
+          "title": "Low Mass - Second Sunday after Epiphany - 1/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/dPalDK94Q5Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VX3e6M539s4",
           "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zPnpimbrnj8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T18:00:00Z"
+        },
+        {
+          "id": "NyUFPsR3fb0",
+          "title": "Mon. Jan. 19, 2026    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/NyUFPsR3fb0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T12:15:00Z"
         }
       ]
     },
@@ -28,38 +46,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gGZARR6MPtM",
-          "title": "Sunday 18th January 2026: Second Sunday after the Epiphany",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/gGZARR6MPtM/mqdefault_live.jpg",
+          "id": "iLE21xZSI4I",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Second Sunday after Epiphany. II. January 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/iLE21xZSI4I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "4cPsDE_f2Zc",
-          "title": "11am — 2nd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4cPsDE_f2Zc/mqdefault_live.jpg",
+          "id": "TG17tyYjV4o",
+          "title": "Sunday 7 AM Catholic Mass for 01/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/TG17tyYjV4o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "JYfkxHwZMxw",
-          "title": "Sainte messe du second dimanche après l'Epiphanie - OMNIS TERRA",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/JYfkxHwZMxw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AWriG2I5BSw",
-          "title": "Missa Rezada do 2º Domingo depois da Epifania",
+          "id": "7UbbRGhurnE",
+          "title": "Missa Cantada do II Domingo depois da Epifania",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/AWriG2I5BSw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/7UbbRGhurnE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
