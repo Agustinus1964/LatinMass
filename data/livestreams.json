@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T15:40:02.316Z",
+  "lastUpdated": "2026-01-18T16:20:54.281Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,15 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "b78YBycmKGc",
-          "title": "Second Sunday After Epiphany - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/b78YBycmKGc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "VfswgBa1438",
           "title": "II Sunday after Epiphany",
           "channel": "SSPX Florida",
@@ -32,22 +23,22 @@
           "scheduledTime": null
         },
         {
-          "id": "Wmx4mlsXYvY",
-          "title": "Sun. Jan. 18, 2026    -    Second Sunday after Epiphany",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Wmx4mlsXYvY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "0NDiJ_TSP_c",
           "title": "Second Sunday  after Epiphany, January 18, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/0NDiJ_TSP_c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T15:45:09Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-0TJbocJa80",
+          "title": "FSSPX Antwerpen - 18/01 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/-0TJbocJa80/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zPnpimbrnj8",
@@ -100,6 +91,15 @@
           "scheduledTime": null
         },
         {
+          "id": "8PAnzCVyv6s",
+          "title": "Sunday 11 AM Sung Mass 2026-01-18",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/8PAnzCVyv6s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "eIBsfvh8Hb8",
           "title": "2nd Sunday after Epiphany / 2e dimanche après l'Épiphanie",
           "channel": "St. Clement's Parish Paroisse St-Clement",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/n0uRfCcnMNU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "241qu3c-Iak",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/241qu3c-Iak/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T15:58:00Z"
         },
         {
           "id": "oJPk3kTO3KA",
