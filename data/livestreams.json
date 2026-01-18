@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-18T12:34:37.504Z",
+  "lastUpdated": "2026-01-18T13:26:39.400Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dPalDK94Q5Q",
-          "title": "Low Mass - Second Sunday after Epiphany - 1/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dPalDK94Q5Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VX3e6M539s4",
           "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
@@ -46,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "4xyjYiABDQU",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Second Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/4xyjYiABDQU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "iLE21xZSI4I",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Second Sunday after Epiphany. II. January 18, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,11 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "TG17tyYjV4o",
-          "title": "Sunday 7 AM Catholic Mass for 01/18/2026",
+          "id": "TMlWs9vdlCA",
+          "title": "Sunday 8:30 AM Catholic Mass for 01/18/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/TG17tyYjV4o/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/TMlWs9vdlCA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7UbbRGhurnE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "4xyjYiABDQU",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Second Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/4xyjYiABDQU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T13:00:00Z"
         },
         {
           "id": "Z_WM7O2BldI",
