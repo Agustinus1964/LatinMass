@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T03:43:24.183Z",
+  "lastUpdated": "2026-01-18T04:39:15.608Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jX7Rm-45dtA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T17:00:00Z"
+        },
+        {
+          "id": "6xxgZIZ3K9g",
+          "title": "Sermons for Salvation: One Shepherd, One Sheepfold",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/6xxgZIZ3K9g/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T19:00:00Z"
         }
       ]
     }
