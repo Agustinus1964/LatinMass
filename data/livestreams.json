@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-01-18T17:14:54.591Z",
+  "lastUpdated": "2026-01-18T17:41:03.652Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0NDiJ_TSP_c",
-          "title": "Second Sunday  after Epiphany, January 18, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/0NDiJ_TSP_c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-0TJbocJa80",
-          "title": "FSSPX Antwerpen - 18/01 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/-0TJbocJa80/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VX3e6M539s4",
-          "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VX3e6M539s4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zPnpimbrnj8",
           "title": "II Sunday after Epiphany | January 18th",
@@ -57,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/NyUFPsR3fb0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-19T12:15:00Z"
+        },
+        {
+          "id": "1UpZxXgGpEs",
+          "title": "FSSPX Antwerpen - 19/01 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/1UpZxXgGpEs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T17:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-oKpCuGqUl8",
-          "title": "10:30AM Sung Mass. Second Sunday after Epiphany. II. January 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-oKpCuGqUl8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oJPk3kTO3KA",
           "title": "SECOND SUNDAY AFTER EPIPHANY, 2026",
@@ -91,15 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "eIBsfvh8Hb8",
-          "title": "2nd Sunday after Epiphany / 2e dimanche après l'Épiphanie",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/eIBsfvh8Hb8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "F6L-UbaXXE4",
           "title": "Santa Misa Dominical. 18 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -114,15 +78,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/jX7Rm-45dtA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Pu-Stbm96QQ",
-          "title": "Secondes vêpres du second dimanche après l'Epiphanie - DEFICIENTE VINO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Pu-Stbm96QQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
