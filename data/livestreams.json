@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-18T14:41:01.693Z",
+  "lastUpdated": "2026-01-18T15:16:51.787Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "a40xvVwkhxw",
+          "title": "Solemn High Mass - Second Sunday after Epiphany - 1/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/a40xvVwkhxw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "b78YBycmKGc",
           "title": "Second Sunday After Epiphany - The Immaculata",
@@ -23,13 +32,22 @@
           "scheduledTime": null
         },
         {
-          "id": "VX3e6M539s4",
-          "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VX3e6M539s4/mqdefault_live.jpg",
+          "id": "Wmx4mlsXYvY",
+          "title": "Sun. Jan. 18, 2026    -    Second Sunday after Epiphany",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Wmx4mlsXYvY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0NDiJ_TSP_c",
+          "title": "Second Sunday  after Epiphany, January 18, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/0NDiJ_TSP_c/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-18T16:30:00Z"
+          "scheduledTime": "2026-01-18T15:45:09Z"
         },
         {
           "id": "zPnpimbrnj8",
@@ -39,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zPnpimbrnj8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T18:00:00Z"
+        },
+        {
+          "id": "ZvhIke_4wb0",
+          "title": "Hl. Messe - 19. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ZvhIke_4wb0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T06:15:00Z"
         },
         {
           "id": "NyUFPsR3fb0",
@@ -55,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "EXNp3Sc08Ws",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/EXNp3Sc08Ws/mqdefault_live.jpg",
+          "id": "Z_WM7O2BldI",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Second Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Z_WM7O2BldI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/F6L-UbaXXE4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Z_WM7O2BldI",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Second Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Z_WM7O2BldI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T15:00:00Z"
         },
         {
           "id": "eIBsfvh8Hb8",
