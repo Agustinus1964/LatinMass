@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T18:48:49.774Z",
+  "lastUpdated": "2026-01-18T19:13:16.845Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/zPnpimbrnj8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VX3e6M539s4",
-          "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VX3e6M539s4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LSyG_2-1OZY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6xxgZIZ3K9g",
-          "title": "Sermons for Salvation: One Shepherd, One Sheepfold",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/6xxgZIZ3K9g/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T19:00:00Z"
         },
         {
           "id": "jDSsHEhCmAo",
