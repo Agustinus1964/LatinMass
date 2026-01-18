@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T17:41:03.652Z",
+  "lastUpdated": "2026-01-18T18:23:56.684Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/zPnpimbrnj8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZvhIke_4wb0",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZvhIke_4wb0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-19T06:15:00Z"
+        },
+        {
+          "id": "c-PYE4UHvNM",
+          "title": "Feria",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/c-PYE4UHvNM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T07:15:00Z"
         },
         {
           "id": "NyUFPsR3fb0",
@@ -46,38 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "oJPk3kTO3KA",
-          "title": "SECOND SUNDAY AFTER EPIPHANY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/oJPk3kTO3KA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8PAnzCVyv6s",
-          "title": "Sunday 11 AM Sung Mass 2026-01-18",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/8PAnzCVyv6s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "F6L-UbaXXE4",
+          "id": "LSyG_2-1OZY",
           "title": "Santa Misa Dominical. 18 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/F6L-UbaXXE4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jX7Rm-45dtA",
-          "title": "Vespers and Benediction — 2nd Sunday after Epiphany",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/jX7Rm-45dtA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/LSyG_2-1OZY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jDSsHEhCmAo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-19T12:30:00Z"
+        },
+        {
+          "id": "84p_NdlJKB0",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/84p_NdlJKB0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T18:00:00Z"
+        },
+        {
+          "id": "woeTrhYZrAg",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/woeTrhYZrAg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T18:00:00Z"
         }
       ]
     }
