@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-01-18T13:45:57.995Z",
+  "lastUpdated": "2026-01-18T14:15:46.591Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "b78YBycmKGc",
+          "title": "Second Sunday After Epiphany - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/b78YBycmKGc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "VfswgBa1438",
+          "title": "II Sunday after Epiphany",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/VfswgBa1438/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VX3e6M539s4",
           "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
@@ -37,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4xyjYiABDQU",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Second Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/4xyjYiABDQU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iLE21xZSI4I",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Second Sunday after Epiphany. II. January 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iLE21xZSI4I/mqdefault_live.jpg",
+          "id": "EXNp3Sc08Ws",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/EXNp3Sc08Ws/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -60,6 +69,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/TMlWs9vdlCA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "F6L-UbaXXE4",
+          "title": "Santa Misa Dominical. 18 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/F6L-UbaXXE4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
