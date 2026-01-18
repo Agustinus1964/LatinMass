@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T14:15:46.591Z",
+  "lastUpdated": "2026-01-18T14:41:01.693Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,29 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "TMlWs9vdlCA",
-          "title": "Sunday 8:30 AM Catholic Mass for 01/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/TMlWs9vdlCA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "F6L-UbaXXE4",
           "title": "Santa Misa Dominical. 18 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/F6L-UbaXXE4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7UbbRGhurnE",
-          "title": "Missa Cantada do II Domingo depois da Epifania",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/7UbbRGhurnE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Z_WM7O2BldI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T15:00:00Z"
+        },
+        {
+          "id": "eIBsfvh8Hb8",
+          "title": "2nd Sunday after Epiphany / 2e dimanche après l'Épiphanie",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/eIBsfvh8Hb8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-18T15:30:00Z"
         },
         {
           "id": "n0uRfCcnMNU",
