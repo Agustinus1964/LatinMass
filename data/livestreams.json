@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-18T19:36:18.201Z",
+  "lastUpdated": "2026-01-18T20:19:25.743Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "SdWxhXsPj1M",
+          "title": "Ferial - 19.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/SdWxhXsPj1M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ZvhIke_4wb0",
           "title": "Hl. Messe - 19. Januar 2026",
@@ -46,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gy_Upkml8Jw",
-          "title": "Sunday 1:30 PM Catholic Mass 01/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/gy_Upkml8Jw/mqdefault_live.jpg",
+          "id": "9KRtelA3PO8",
+          "title": "Devotions to the Most Precious Blood / Dévotions au Très Précieux Sang",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/9KRtelA3PO8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "LSyG_2-1OZY",
-          "title": "Santa Misa Dominical. 18 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/LSyG_2-1OZY/mqdefault_live.jpg",
+          "id": "c2yhBFPP__U",
+          "title": "Missa rezada do II domingo da Epifania Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/c2yhBFPP__U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
