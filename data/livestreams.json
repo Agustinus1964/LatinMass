@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-18T10:43:47.697Z",
+  "lastUpdated": "2026-01-18T11:14:27.868Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
           "scheduledTime": null
         },
         {
+          "id": "4cPsDE_f2Zc",
+          "title": "11am — 2nd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4cPsDE_f2Zc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "JYfkxHwZMxw",
           "title": "Sainte messe du second dimanche après l'Epiphanie - OMNIS TERRA",
           "channel": "Ite Missa Est",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AWriG2I5BSw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "4cPsDE_f2Zc",
-          "title": "11am — 2nd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4cPsDE_f2Zc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T11:00:00Z"
         },
         {
           "id": "4xyjYiABDQU",
