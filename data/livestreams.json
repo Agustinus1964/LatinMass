@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-18T16:46:56.583Z",
+  "lastUpdated": "2026-01-18T17:14:54.591Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VfswgBa1438",
-          "title": "II Sunday after Epiphany",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/VfswgBa1438/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0NDiJ_TSP_c",
           "title": "Second Sunday  after Epiphany, January 18, 2026",
@@ -118,6 +109,15 @@
           "scheduledTime": null
         },
         {
+          "id": "jX7Rm-45dtA",
+          "title": "Vespers and Benediction — 2nd Sunday after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/jX7Rm-45dtA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Pu-Stbm96QQ",
           "title": "Secondes vêpres du second dimanche après l'Epiphanie - DEFICIENTE VINO",
           "channel": "Ite Missa Est",
@@ -125,24 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Pu-Stbm96QQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "241qu3c-Iak",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/241qu3c-Iak/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T15:58:00Z"
-        },
-        {
-          "id": "jX7Rm-45dtA",
-          "title": "Vespers and Benediction — 2nd Sunday after Epiphany",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/jX7Rm-45dtA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T17:00:00Z"
         },
         {
           "id": "6xxgZIZ3K9g",
