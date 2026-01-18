@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-18T16:20:54.281Z",
+  "lastUpdated": "2026-01-18T16:46:56.583Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "a40xvVwkhxw",
-          "title": "Solemn High Mass - Second Sunday after Epiphany - 1/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/a40xvVwkhxw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VfswgBa1438",
           "title": "II Sunday after Epiphany",
@@ -37,6 +28,15 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/-0TJbocJa80/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "VX3e6M539s4",
+          "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Erscheinung - 18. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/VX3e6M539s4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,20 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Z_WM7O2BldI",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Second Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Z_WM7O2BldI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "-oKpCuGqUl8",
           "title": "10:30AM Sung Mass. Second Sunday after Epiphany. II. January 18, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/-oKpCuGqUl8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oJPk3kTO3KA",
+          "title": "SECOND SUNDAY AFTER EPIPHANY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/oJPk3kTO3KA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,11 +118,11 @@
           "scheduledTime": null
         },
         {
-          "id": "n0uRfCcnMNU",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "id": "Pu-Stbm96QQ",
+          "title": "Secondes vêpres du second dimanche après l'Epiphanie - DEFICIENTE VINO",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/n0uRfCcnMNU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Pu-Stbm96QQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,24 +134,6 @@
           "thumbnail": "https://i.ytimg.com/vi/241qu3c-Iak/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T15:58:00Z"
-        },
-        {
-          "id": "oJPk3kTO3KA",
-          "title": "SECOND SUNDAY AFTER EPIPHANY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/oJPk3kTO3KA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T16:30:00Z"
-        },
-        {
-          "id": "Pu-Stbm96QQ",
-          "title": "Secondes vêpres du second dimanche après l'Epiphanie - DEFICIENTE VINO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Pu-Stbm96QQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-18T16:45:00Z"
         },
         {
           "id": "jX7Rm-45dtA",
@@ -170,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6xxgZIZ3K9g/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-18T19:00:00Z"
+        },
+        {
+          "id": "jDSsHEhCmAo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Marius, Martha, Audifax and Abachum, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/jDSsHEhCmAo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T12:30:00Z"
         }
       ]
     }
