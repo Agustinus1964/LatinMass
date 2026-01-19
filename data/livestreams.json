@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-19T12:42:40.463Z",
+  "lastUpdated": "2026-01-19T13:42:29.544Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xrortf94kUc",
-          "title": "Low Mass - Mass for Deceased Friends and Benefactors - 1/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/xrortf94kUc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NyUFPsR3fb0",
-          "title": "Mon. Jan. 19, 2026    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/NyUFPsR3fb0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1UpZxXgGpEs",
           "title": "FSSPX Antwerpen - 19/01 DOOR DE WEEK",
@@ -41,6 +23,15 @@
           "scheduledTime": "2026-01-20T06:15:00Z"
         },
         {
+          "id": "j36oNqqxZsA",
+          "title": "Low Mass - Ss. Fabian, Pope and Sebastian, Martyrs - 1/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/j36oNqqxZsA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-20T12:15:00Z"
+        },
+        {
           "id": "NIc8CyFDNsU",
           "title": "Tue. Jan. 20, 2026    -    Sts. Fabian and Sebastian    -    Pope (St. Fabian) and Martyrs",
           "channel": "Transfiguration Church SSPX",
@@ -55,20 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jDSsHEhCmAo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Marius, Martha, Audifax and Abachum, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/jDSsHEhCmAo/mqdefault_live.jpg",
+          "id": "7GPC95P5qVA",
+          "title": "9AM Mass. Feira. IV. Monday, January 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/7GPC95P5qVA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "96UFuyqipeM",
-          "title": "7AM Low Mass & Divine Office. Feira. IV. Monday, January 19, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/96UFuyqipeM/mqdefault_live.jpg",
+          "id": "7dYkJa1dkAc",
+          "title": "Monday 8 AM Traditional Latin Mass01/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/7dYkJa1dkAc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/woeTrhYZrAg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-19T18:00:00Z"
+        },
+        {
+          "id": "vd6jTz61TT8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Fabian, Pope, and Sebastian, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/vd6jTz61TT8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-20T12:30:00Z"
         }
       ]
     }
