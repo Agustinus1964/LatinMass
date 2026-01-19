@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-19T17:21:11.549Z",
+  "lastUpdated": "2026-01-19T17:46:55.255Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "8ROKtabkagA",
-          "title": "FSSPX Antwerpen - 19/01 Aanbidding met Rozenhoedje",
+          "id": "1UpZxXgGpEs",
+          "title": "FSSPX Antwerpen - 19/01 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/8ROKtabkagA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/1UpZxXgGpEs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -50,15 +50,6 @@
           "scheduledTime": "2026-01-20T12:15:00Z"
         },
         {
-          "id": "vzBv5K5Oh7Q",
-          "title": "FSSPX Antwerpen - 20/01 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/vzBv5K5Oh7Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-20T16:00:00Z"
-        },
-        {
           "id": "d5pEvNw8ZPk",
           "title": "Rosenkranz und hl. Messe - hl. Fabian und Sebastian - 20. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/d5pEvNw8ZPk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-20T17:00:00Z"
+        },
+        {
+          "id": "ZveRG3JKc-M",
+          "title": "FSSPX Antwerpen - 20/01 HH. FABIANUS en SEBASTIANUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZveRG3JKc-M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-20T17:30:00Z"
         }
       ]
     },
@@ -78,8 +78,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/6LdOGFacsOI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-19T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "84p_NdlJKB0",
