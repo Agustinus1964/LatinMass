@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T05:55:55.453Z",
+  "lastUpdated": "2026-01-19T06:37:08.741Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/ZvhIke_4wb0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-19T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "c-PYE4UHvNM",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1UpZxXgGpEs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-19T17:30:00Z"
+        },
+        {
+          "id": "nhzTUppxjm0",
+          "title": "Hl. Messe - hl. Fabian und Sebastian - 20. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/nhzTUppxjm0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-20T06:15:00Z"
         }
       ]
     },
