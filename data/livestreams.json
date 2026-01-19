@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-19T20:20:48.722Z",
+  "lastUpdated": "2026-01-19T20:45:01.177Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "V9yhWnQBHE0",
+          "title": "Mass of Ss Fabian P & Sebastian - 20.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/V9yhWnQBHE0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nhzTUppxjm0",
           "title": "Hl. Messe - hl. Fabian und Sebastian - 20. Januar 2026",
