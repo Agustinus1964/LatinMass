@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T16:54:54.565Z",
+  "lastUpdated": "2026-01-19T17:21:11.549Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nhzTUppxjm0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-20T06:15:00Z"
+        },
+        {
+          "id": "CHXlaV3G0og",
+          "title": "Saints Fabian, pope, and Sebastian, martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/CHXlaV3G0og/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-20T07:15:00Z"
         },
         {
           "id": "j36oNqqxZsA",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vzBv5K5Oh7Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-20T16:00:00Z"
+        },
+        {
+          "id": "d5pEvNw8ZPk",
+          "title": "Rosenkranz und hl. Messe - hl. Fabian und Sebastian - 20. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/d5pEvNw8ZPk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-20T17:00:00Z"
         }
       ]
     },
