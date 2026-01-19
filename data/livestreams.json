@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-19T06:37:08.741Z",
+  "lastUpdated": "2026-01-19T07:26:42.697Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZvhIke_4wb0",
-          "title": "Hl. Messe - 19. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ZvhIke_4wb0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "c-PYE4UHvNM",
           "title": "Feria",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/c-PYE4UHvNM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-19T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NyUFPsR3fb0",
