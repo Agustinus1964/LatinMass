@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T10:53:53.648Z",
+  "lastUpdated": "2026-01-19T11:19:31.531Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "TeInQFmhgnA",
+          "title": "Monday 6 AM Traditional Catholic Mass 01/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/TeInQFmhgnA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jDSsHEhCmAo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Marius, Martha, Audifax and Abachum, Martyrs)",
