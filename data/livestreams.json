@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T08:59:22.029Z",
+  "lastUpdated": "2026-01-19T09:44:14.595Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "S98FCA_QWYs",
+          "title": "Segunda-feira do II Domingo da Epifania",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/S98FCA_QWYs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jDSsHEhCmAo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Marius, Martha, Audifax and Abachum, Martyrs)",
