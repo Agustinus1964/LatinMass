@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T21:17:02.021Z",
+  "lastUpdated": "2026-01-19T21:40:56.031Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -71,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Hm33IwAIdZE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "r9H5-IPXhok",
+          "title": "Sagrada Familia, modelo a seguir. Homilía domingo 11 de enero 2025. P. José María Velázquez.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/r9H5-IPXhok/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-19T23:00:00Z"
         },
         {
           "id": "vd6jTz61TT8",
