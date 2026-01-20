@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T01:24:36.722Z",
+  "lastUpdated": "2026-01-20T03:17:56.845Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,21 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/CQCvhA_7roo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-21T00:00:00Z"
+        },
+        {
+          "id": "ifOFBjqTAmk",
+          "title": "Compline - 1/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ifOFBjqTAmk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-21T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QYkVZA03QlY",
-          "title": "Santo Santo Sacrificio de La Misa, Santos Mario, Marta y sus dos hijos San Canuto, 19 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/QYkVZA03QlY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "vd6jTz61TT8",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Fabian, Pope, and Sebastian, Martyrs)",
