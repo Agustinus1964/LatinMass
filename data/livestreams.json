@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-19T23:41:38.560Z",
+  "lastUpdated": "2026-01-20T01:24:36.722Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZveRG3JKc-M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-20T17:30:00Z"
+        },
+        {
+          "id": "CQCvhA_7roo",
+          "title": "Rosary - 1/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CQCvhA_7roo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-21T00:00:00Z"
         }
       ]
     },
@@ -64,13 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "U8HlVNF8pUo",
-          "title": "Noviazgo católico, no mundano. Homilía II domingo después de Epifanía 2026. P. Danien Heenan.",
+          "id": "QYkVZA03QlY",
+          "title": "Santo Santo Sacrificio de La Misa, Santos Mario, Marta y sus dos hijos San Canuto, 19 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/U8HlVNF8pUo/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-20T00:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/QYkVZA03QlY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vd6jTz61TT8",
