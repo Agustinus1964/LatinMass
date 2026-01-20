@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-20T06:31:53.250Z",
+  "lastUpdated": "2026-01-20T07:24:51.386Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nhzTUppxjm0",
-          "title": "Hl. Messe - hl. Fabian und Sebastian - 20. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/nhzTUppxjm0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CHXlaV3G0og",
           "title": "Saints Fabian, pope, and Sebastian, martyrs",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/CHXlaV3G0og/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-20T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "j36oNqqxZsA",
