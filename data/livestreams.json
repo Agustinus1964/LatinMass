@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T05:52:14.160Z",
+  "lastUpdated": "2026-01-20T06:31:53.250Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/nhzTUppxjm0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-20T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CHXlaV3G0og",
@@ -75,6 +75,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ifOFBjqTAmk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-21T01:45:00Z"
+        },
+        {
+          "id": "gsqLekmcmbY",
+          "title": "Hl. Messe - hl. Agnes - 21. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/gsqLekmcmbY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-21T06:15:00Z"
+        },
+        {
+          "id": "Q4QF0N2c2cs",
+          "title": "FSSPX Antwerpen - 21/01 H. AGNES",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Q4QF0N2c2cs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-21T06:30:00Z"
         }
       ]
     },
