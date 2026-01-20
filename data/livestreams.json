@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-20T16:31:35.209Z",
+  "lastUpdated": "2026-01-20T17:26:15.661Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -84,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dGQCqIs3UI4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-21T12:15:00Z"
+        },
+        {
+          "id": "IEDPFAObvhE",
+          "title": "Rosenkranz und hl. Messe - hl. Agnes - 21. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IEDPFAObvhE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-21T17:00:00Z"
         }
       ]
     },
