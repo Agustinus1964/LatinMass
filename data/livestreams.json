@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-20T17:26:15.661Z",
+  "lastUpdated": "2026-01-20T17:53:28.293Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "vzBv5K5Oh7Q",
-          "title": "FSSPX Antwerpen - 20/01 Aanbidding met Rozenhoedje",
+          "id": "ZveRG3JKc-M",
+          "title": "FSSPX Antwerpen - 20/01 HH. FABIANUS en SEBASTIANUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/vzBv5K5Oh7Q/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ZveRG3JKc-M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "d5pEvNw8ZPk",
-          "title": "Rosenkranz und hl. Messe - hl. Fabian und Sebastian - 20. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/d5pEvNw8ZPk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-20T17:00:00Z"
         },
         {
           "id": "CQCvhA_7roo",
@@ -48,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gsqLekmcmbY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-21T06:15:00Z"
-        },
-        {
-          "id": "Q4QF0N2c2cs",
-          "title": "FSSPX Antwerpen - 21/01 H. AGNES",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Q4QF0N2c2cs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T06:30:00Z"
         },
         {
           "id": "3kzkn0EY-BY",
@@ -105,8 +87,17 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/w2VkEkWZn64/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-k_TAMjr6QI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/-k_TAMjr6QI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-20T18:00:00Z"
+          "scheduledTime": "2026-01-20T17:58:00Z"
         },
         {
           "id": "a3fDeA_lICA",
