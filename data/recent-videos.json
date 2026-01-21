@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-21T05:50:46.255Z",
+  "lastUpdated": "2026-01-21T06:29:32.232Z",
   "videos": [
+    {
+      "id": "aI2VJQV5mM0",
+      "title": "Holy Mass 1/20/26 - Requiem Mass",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/aI2VJQV5mM0/mqdefault.jpg",
+      "publishedAt": "2026-01-21T06:09:44Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "ze4jyDoKaJA",
       "title": "Wagner | Lohengrin | Prelude",
@@ -150,16 +160,6 @@
       "thumbnail": "https://i.ytimg.com/vi/0F84uR_O5Js/mqdefault.jpg",
       "publishedAt": "2026-01-20T16:54:20Z",
       "category": "Timothy Gordon"
-    },
-    {
-      "id": "aI2VJQV5mM0",
-      "title": "Holy Mass 1/20/26 - Requiem Mass",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/aI2VJQV5mM0/mqdefault_live.jpg",
-      "publishedAt": "2026-01-20T15:18:23Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "qZNfjkk3b6A",
