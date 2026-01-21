@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-21T13:42:42.520Z",
+  "lastUpdated": "2026-01-21T14:27:49.426Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gsqLekmcmbY",
-          "title": "Hl. Messe - hl. Agnes - 21. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/gsqLekmcmbY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IEDPFAObvhE",
           "title": "Rosenkranz und hl. Messe - hl. Agnes - 21. Januar 2026",
@@ -73,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gVxFf5IEyKU",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 01/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/gVxFf5IEyKU/mqdefault_live.jpg",
+          "id": "Y_BvmoVsKiU",
+          "title": "Santo Sacrificio de La Misa, Santa Inés, Virgen y Mártir, 21 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Y_BvmoVsKiU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
