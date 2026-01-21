@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-21T01:27:23.658Z",
+  "lastUpdated": "2026-01-21T03:19:02.752Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ifOFBjqTAmk",
-          "title": "Compline - 1/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ifOFBjqTAmk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T01:45:00Z"
-        },
         {
           "id": "gsqLekmcmbY",
           "title": "Hl. Messe - hl. Agnes - 21. Januar 2026",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tRi44ugVsEs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-22T00:00:00Z"
+        },
+        {
+          "id": "5Wm8naUmwM4",
+          "title": "Compline - 1/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/5Wm8naUmwM4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T01:45:00Z"
         }
       ]
     },
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0v5MJ9xErhQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-21T18:00:00Z"
+        },
+        {
+          "id": "Fi-V8zqjXmk",
+          "title": "Cristología: Resurrección y Ascensión de Nuestro Señor Jesucristo. P Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Fi-V8zqjXmk/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T02:00:00Z"
         }
       ]
     }
