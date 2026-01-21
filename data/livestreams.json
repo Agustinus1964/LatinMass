@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-21T05:50:52.789Z",
+  "lastUpdated": "2026-01-21T06:32:05.970Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Q4QF0N2c2cs",
+          "title": "FSSPX Antwerpen - 21/01 H. AGNES",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Q4QF0N2c2cs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "gsqLekmcmbY",
           "title": "Hl. Messe - hl. Agnes - 21. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/gsqLekmcmbY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3kzkn0EY-BY",
@@ -66,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5Wm8naUmwM4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-22T01:45:00Z"
+        },
+        {
+          "id": "MBV9jFhxo1U",
+          "title": "Hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/MBV9jFhxo1U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T06:15:00Z"
         }
       ]
     },
