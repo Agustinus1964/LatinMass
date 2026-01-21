@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-21T20:27:22.850Z",
+  "lastUpdated": "2026-01-21T20:56:10.686Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zqwf-tfzhlk",
-          "title": "Mass of St Vincent & Anastasius - 22.1.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/zqwf-tfzhlk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tRi44ugVsEs",
           "title": "Rosary - 1/21/26",
@@ -81,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "v6g4Z4_EarQ",
+          "title": "Terço e Missa Rezada de Santa Inês",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/v6g4Z4_EarQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Fi-V8zqjXmk",
           "title": "Cristología: Resurrección y Ascensión de Nuestro Señor Jesucristo. P Daniel Heenan.",
