@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-21T06:32:05.970Z",
+  "lastUpdated": "2026-01-21T07:25:20.934Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Q4QF0N2c2cs",
-          "title": "FSSPX Antwerpen - 21/01 H. AGNES",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Q4QF0N2c2cs/mqdefault_live.jpg",
+          "id": "3kzkn0EY-BY",
+          "title": "Saint Agnes, virgin and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/3kzkn0EY-BY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gsqLekmcmbY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "3kzkn0EY-BY",
-          "title": "Saint Agnes, virgin and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/3kzkn0EY-BY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T07:15:00Z"
         },
         {
           "id": "bJbZ9uj2dj8",
