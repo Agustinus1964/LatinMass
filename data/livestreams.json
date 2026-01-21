@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T15:36:49.033Z",
+  "lastUpdated": "2026-01-21T16:40:35.950Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -41,6 +41,15 @@
           "scheduledTime": "2026-01-22T06:15:00Z"
         },
         {
+          "id": "E2hoV86QV6I",
+          "title": "Saints Vincent and Anastasius, martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/E2hoV86QV6I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T07:15:00Z"
+        },
+        {
           "id": "otXNqyZC9Xc",
           "title": "Low Mass - Ss. Vincent and Anastasius, Martyrs - 1/22/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VI-ukVl8pG0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-22T12:15:00Z"
+        },
+        {
+          "id": "VJOagbpkt5U",
+          "title": "Sakramentsandacht und hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/VJOagbpkt5U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T16:00:00Z"
         }
       ]
     },
