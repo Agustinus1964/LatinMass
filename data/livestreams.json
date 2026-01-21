@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T22:51:24.332Z",
+  "lastUpdated": "2026-01-21T23:22:04.111Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -78,15 +78,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bEIzvf-DYBc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "673eY9YCw8w",
-          "title": "Missa rezada de Santa Inês",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/673eY9YCw8w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
