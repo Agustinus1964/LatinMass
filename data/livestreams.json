@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-21T17:51:38.888Z",
+  "lastUpdated": "2026-01-21T18:38:26.380Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "BrPblqf3KwY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/BrPblqf3KwY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "0vnPx1dQ4p0",
           "title": "Wednesday 21st January 2026: Saint Agnes",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -82,31 +91,13 @@
           "scheduledTime": null
         },
         {
-          "id": "BrPblqf3KwY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/BrPblqf3KwY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T17:58:00Z"
-        },
-        {
-          "id": "b2-nfXN-dGM",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/b2-nfXN-dGM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T18:00:00Z"
-        },
-        {
           "id": "0v5MJ9xErhQ",
           "title": "Messe solennelle de Requiem pour Louis XVI - REQUIEM ÆTERNAM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/0v5MJ9xErhQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-21T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Fi-V8zqjXmk",
@@ -134,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/H4Z2QpcZTJE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-22T12:30:00Z"
+        },
+        {
+          "id": "LVWS1XqZ-gA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/LVWS1XqZ-gA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T18:00:00Z"
+        },
+        {
+          "id": "F09cq5vExcA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/F09cq5vExcA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T18:00:00Z"
         }
       ]
     }
