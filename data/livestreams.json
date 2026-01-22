@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-22T14:27:05.339Z",
+  "lastUpdated": "2026-01-22T14:56:30.496Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dZOlnynw0bo",
+          "title": "FSSPX Antwerpen - 22/01 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/dZOlnynw0bo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VJOagbpkt5U",
           "title": "Sakramentsandacht und hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
@@ -32,6 +41,15 @@
           "scheduledTime": "2026-01-23T06:15:00Z"
         },
         {
+          "id": "iBtMqVigk1Y",
+          "title": "Saint Raymond of Pennafort, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/iBtMqVigk1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T07:15:00Z"
+        },
+        {
           "id": "0JeSQM9UVxw",
           "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 2",
           "channel": "SSPX District of Asia",
@@ -54,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fTuRQwxNaJ0",
-          "title": "Santo Sacrificio de La Misa, Santos Vicente y Anastasio, Mártires, 22 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/fTuRQwxNaJ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LVWS1XqZ-gA",
           "title": "Thursday",
