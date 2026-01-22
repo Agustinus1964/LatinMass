@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T09:39:28.332Z",
+  "lastUpdated": "2026-01-22T10:24:09.135Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BC5W_C69w5s",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/BC5W_C69w5s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "H4Z2QpcZTJE",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Vincent and Anastasius, Martyrs)",
