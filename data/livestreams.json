@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-22T17:53:27.787Z",
+  "lastUpdated": "2026-01-22T18:28:20.591Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LFbY97xW8dg",
-          "title": "FSSPX Antwerpen - 22/01 HH. VINCENTIUS en ANASTASIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/LFbY97xW8dg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PUVxXJbmO4s",
           "title": "Benediction - 1/22/26",
@@ -78,8 +69,8 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/csuMGLWH5jE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-22T17:58:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LVWS1XqZ-gA",
@@ -87,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/LVWS1XqZ-gA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-22T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "F09cq5vExcA",
@@ -96,8 +87,26 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/F09cq5vExcA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Q8TQLnog3Pc",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q8TQLnog3Pc/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-22T18:00:00Z"
+          "scheduledTime": "2026-01-23T18:00:00Z"
+        },
+        {
+          "id": "rBhFOgr0pWA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/rBhFOgr0pWA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T18:00:00Z"
         }
       ]
     }
