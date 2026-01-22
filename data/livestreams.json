@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-22T17:25:46.890Z",
+  "lastUpdated": "2026-01-22T17:53:27.787Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "dZOlnynw0bo",
-          "title": "FSSPX Antwerpen - 22/01 Priester-Uur-Gebed",
+          "id": "LFbY97xW8dg",
+          "title": "FSSPX Antwerpen - 22/01 HH. VINCENTIUS en ANASTASIUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dZOlnynw0bo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/LFbY97xW8dg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -72,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "csuMGLWH5jE",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/csuMGLWH5jE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-22T17:58:00Z"
+        },
         {
           "id": "LVWS1XqZ-gA",
           "title": "Thursday",
