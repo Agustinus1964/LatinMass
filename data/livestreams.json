@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-22T07:47:36.436Z",
+  "lastUpdated": "2026-01-22T08:27:52.837Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E2hoV86QV6I",
-          "title": "Saints Vincent and Anastasius, martyrs",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/E2hoV86QV6I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MBV9jFhxo1U",
           "title": "Hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
@@ -78,8 +69,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/dHjSxB0l3PM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-22T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "H4Z2QpcZTJE",
