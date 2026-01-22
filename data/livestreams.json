@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T19:00:04.049Z",
+  "lastUpdated": "2026-01-22T19:32:04.372Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "csuMGLWH5jE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/csuMGLWH5jE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Q8TQLnog3Pc",
           "title": "Friday",
