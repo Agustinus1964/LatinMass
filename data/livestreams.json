@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-22T23:18:19.817Z",
+  "lastUpdated": "2026-01-22T23:42:08.304Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rBhFOgr0pWA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-23T18:00:00Z"
+        },
+        {
+          "id": "uKUUIc-p8xg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Raymond of Peñafort, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/uKUUIc-p8xg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T23:30:00Z"
         }
       ]
     }
