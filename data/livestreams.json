@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-22T11:43:59.959Z",
+  "lastUpdated": "2026-01-22T12:42:03.400Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "MBV9jFhxo1U",
-          "title": "Hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/MBV9jFhxo1U/mqdefault_live.jpg",
+          "id": "otXNqyZC9Xc",
+          "title": "Low Mass - Ss. Vincent and Anastasius, Martyrs - 1/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/otXNqyZC9Xc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/VI-ukVl8pG0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-22T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MBV9jFhxo1U",
+          "title": "Hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/MBV9jFhxo1U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VJOagbpkt5U",
@@ -41,15 +50,6 @@
           "scheduledTime": "2026-01-23T00:00:00Z"
         },
         {
-          "id": "OLJjJIykl14",
-          "title": "Compline - 1/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/OLJjJIykl14/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T01:45:00Z"
-        },
-        {
           "id": "oXpgk8IV-gk",
           "title": "Hl. Messe - hl. Raymund von Penafort - 23. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,12 +57,48 @@
           "thumbnail": "https://i.ytimg.com/vi/oXpgk8IV-gk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-23T06:15:00Z"
+        },
+        {
+          "id": "0JeSQM9UVxw",
+          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 2",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/0JeSQM9UVxw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T11:45:00Z"
+        },
+        {
+          "id": "NHlLStCrqjg",
+          "title": "Low Mass - St. Raymund de Peaeafort, Confessor - 1/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/NHlLStCrqjg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T12:15:00Z"
+        },
+        {
+          "id": "gkuI3eqtry0",
+          "title": "Fri. Jan. 23, 2026    -    St. Raymond of Penafort,    Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/gkuI3eqtry0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "C0CbkcVykgM",
+          "title": "7AM Low Mass & Divine Office. Ss. Vincent & Anastasius, Martyrs. III. Thursday, January 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/C0CbkcVykgM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "H4Z2QpcZTJE",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Vincent and Anastasius, Martyrs)",
