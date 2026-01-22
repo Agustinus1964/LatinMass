@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-22T20:22:52.693Z",
+  "lastUpdated": "2026-01-22T20:49:37.761Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "m9GjAddBjpY",
-          "title": "Mass of St Raymond of Penafort - 23.1.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/m9GjAddBjpY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PUVxXJbmO4s",
           "title": "Benediction - 1/22/26",
@@ -72,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Bg4kk3xC0Uk",
+          "title": "Missa rezada e Exposição do Santíssimo Sacramento",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Bg4kk3xC0Uk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Q8TQLnog3Pc",
           "title": "Friday",
