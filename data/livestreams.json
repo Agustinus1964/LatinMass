@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-22T12:42:03.400Z",
+  "lastUpdated": "2026-01-22T13:44:00.567Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "otXNqyZC9Xc",
-          "title": "Low Mass - Ss. Vincent and Anastasius, Martyrs - 1/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/otXNqyZC9Xc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VI-ukVl8pG0",
-          "title": "Thu. Jan. 22, 2026    -    Sts. Vincent and Anastasius    -    Martyrs",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/VI-ukVl8pG0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MBV9jFhxo1U",
           "title": "Hl. Messe - hl. Vincentius und Anastasius - 22. Januar 2026",
@@ -68,15 +50,6 @@
           "scheduledTime": "2026-01-23T11:45:00Z"
         },
         {
-          "id": "NHlLStCrqjg",
-          "title": "Low Mass - St. Raymund de Peaeafort, Confessor - 1/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/NHlLStCrqjg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T12:15:00Z"
-        },
-        {
           "id": "gkuI3eqtry0",
           "title": "Fri. Jan. 23, 2026    -    St. Raymond of Penafort,    Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -91,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "C0CbkcVykgM",
-          "title": "7AM Low Mass & Divine Office. Ss. Vincent & Anastasius, Martyrs. III. Thursday, January 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/C0CbkcVykgM/mqdefault_live.jpg",
+          "id": "NfFStj9QciE",
+          "title": "Thursday 8 AM Traditional Catholic Mass 01/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NfFStj9QciE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "H4Z2QpcZTJE",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Vincent and Anastasius, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/H4Z2QpcZTJE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-22T12:30:00Z"
+          "id": "fTuRQwxNaJ0",
+          "title": "Santo Sacrificio de La Misa, Santos Vicente y Anastasio, Mártires, 22 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/fTuRQwxNaJ0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LVWS1XqZ-gA",
