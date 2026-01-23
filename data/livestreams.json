@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T08:26:43.757Z",
+  "lastUpdated": "2026-01-23T08:54:49.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Z12ifJ4wStg",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Z12ifJ4wStg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Q8TQLnog3Pc",
           "title": "Friday",
           "channel": "Oxford Oratory",
@@ -71,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uKUUIc-p8xg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-23T23:30:00Z"
+        },
+        {
+          "id": "BMi4MKDk_0M",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/BMi4MKDk_0M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-24T08:30:00Z"
         }
       ]
     }
