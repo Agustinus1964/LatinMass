@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T14:22:33.116Z",
+  "lastUpdated": "2026-01-23T14:51:26.973Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3nIPsZtjmn8",
-          "title": "Santo Sacrificio de La Misa, San Raimundo de Peñafort, 23 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/3nIPsZtjmn8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Q8TQLnog3Pc",
           "title": "Friday",
