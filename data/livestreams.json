@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-23T15:48:23.248Z",
+  "lastUpdated": "2026-01-23T16:26:17.153Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CnpUFp2_SuI",
+          "title": "FSSPX Antwerpen - 23/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/CnpUFp2_SuI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "NOnfeFapI9c",
           "title": "Rosenkranz und hl. Messe - hl. Raymund von Penafort - 23. Januar 2026",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/YVvLqJduMbc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-24T06:15:00Z"
-        },
-        {
-          "id": "x0fBU8-7uic",
-          "title": "FSSPX Antwerpen - 24/01 H. TIMOTHEUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/x0fBU8-7uic/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-24T09:00:00Z"
         },
         {
           "id": "QaoD3kkIfNA",
