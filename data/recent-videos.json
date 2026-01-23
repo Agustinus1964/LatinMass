@@ -1,9 +1,19 @@
 {
-  "lastUpdated": "2026-01-23T05:36:02.174Z",
+  "lastUpdated": "2026-01-23T06:27:44.106Z",
   "videos": [
     {
+      "id": "nVr_stuwj7c",
+      "title": "Holy Mass",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/nVr_stuwj7c/mqdefault.jpg",
+      "publishedAt": "2026-01-23T05:47:30Z",
+      "category": "What Catholics Believe"
+    },
+    {
       "id": "rkCUpsXaFmc",
-      "title": "Religious Liberty is a Damnable Heresy...Embraced by the False Popes of Vatican II",
+      "title": "Religious Liberty: A Damnable Heresy Embraced by the False Popes of Vatican II",
       "channel": "Jeremiah Alphonsus",
       "channelId": "UC5A-8YEpRPapV8OuacF0E7g",
       "description": "From: https://www.youtube.com/live/liIS_g5nfA0?si=fjRoJqPM-v0_ELVi",
@@ -170,16 +180,6 @@
       "thumbnail": "https://i.ytimg.com/vi/66w8etmW_qs/mqdefault.jpg",
       "publishedAt": "2026-01-22T18:06:31Z",
       "category": "Timothy Gordon"
-    },
-    {
-      "id": "nVr_stuwj7c",
-      "title": "Holy Mass",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/nVr_stuwj7c/mqdefault_live.jpg",
-      "publishedAt": "2026-01-22T15:36:22Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "VyCUmoaAdAM",
