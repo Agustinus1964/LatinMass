@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-23T16:56:26.379Z",
+  "lastUpdated": "2026-01-23T17:25:56.523Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CnpUFp2_SuI",
-          "title": "FSSPX Antwerpen - 23/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/CnpUFp2_SuI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "NOnfeFapI9c",
           "title": "Rosenkranz und hl. Messe - hl. Raymund von Penafort - 23. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/NOnfeFapI9c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YVvLqJduMbc",
@@ -45,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MLmA3qJcLJo",
-          "title": "11AM Mass. St. Raymund de Penafort, Confessor. III. Friday, January 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/MLmA3qJcLJo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "vsvwMmwsRjQ",
           "title": "Friday 23rd January 2026: Saint Raymund de Peñafort",
