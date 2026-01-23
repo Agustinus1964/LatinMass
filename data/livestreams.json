@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-23T06:30:27.568Z",
+  "lastUpdated": "2026-01-23T07:23:21.296Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oXpgk8IV-gk",
-          "title": "Hl. Messe - hl. Raymund von Penafort - 23. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/oXpgk8IV-gk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "iBtMqVigk1Y",
           "title": "Saint Raymond of Pennafort, confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/iBtMqVigk1Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0JeSQM9UVxw",
