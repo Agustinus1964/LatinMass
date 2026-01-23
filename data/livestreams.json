@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-23T17:47:14.423Z",
+  "lastUpdated": "2026-01-23T18:29:03.842Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hXkf_MidRm8",
-          "title": "FSSPX Antwerpen - 23/01 H. RAYMUNDUS van PENNAFORT",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hXkf_MidRm8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NOnfeFapI9c",
-          "title": "Rosenkranz und hl. Messe - hl. Raymund von Penafort - 23. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NOnfeFapI9c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YVvLqJduMbc",
           "title": "Hl. Messe - hl. Timotheus - 24. Januar 2026",
@@ -51,8 +33,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/vsvwMmwsRjQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Q8TQLnog3Pc",
@@ -60,8 +42,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Q8TQLnog3Pc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rBhFOgr0pWA",
@@ -69,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/rBhFOgr0pWA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "uKUUIc-p8xg",
