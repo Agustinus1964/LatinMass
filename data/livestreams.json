@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T23:18:25.619Z",
+  "lastUpdated": "2026-01-23T23:41:51.447Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "uKUUIc-p8xg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Raymond of Peñafort, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/uKUUIc-p8xg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "lR5rBtZaQ7c",
           "title": "6PM Mass & Holy Hour. St Raymund de Penafort, Confessor. III. Friday, January 23, 2026",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -35,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lR5rBtZaQ7c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "uKUUIc-p8xg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Raymond of Peñafort, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/uKUUIc-p8xg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-23T23:30:00Z"
         },
         {
           "id": "BMi4MKDk_0M",
