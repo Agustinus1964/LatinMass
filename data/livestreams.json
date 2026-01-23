@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T16:26:17.153Z",
+  "lastUpdated": "2026-01-23T16:56:26.379Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
           "scheduledTime": null
         },
         {
+          "id": "vsvwMmwsRjQ",
+          "title": "Friday 23rd January 2026: Saint Raymund de Peñafort",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/vsvwMmwsRjQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-23T18:00:00Z"
+        },
+        {
           "id": "Q8TQLnog3Pc",
           "title": "Friday",
           "channel": "Oxford Oratory",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xvogijBbu6s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-24T10:00:00Z"
+        },
+        {
+          "id": "XWGE3cWr52c",
+          "title": "Saturday 24th January 2026: Saint Timothy",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/XWGE3cWr52c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-24T10:30:00Z"
         }
       ]
     }
