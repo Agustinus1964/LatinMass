@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T15:22:37.605Z",
+  "lastUpdated": "2026-01-23T15:48:23.248Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "MLmA3qJcLJo",
+          "title": "11AM Mass. St. Raymund de Penafort, Confessor. III. Friday, January 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/MLmA3qJcLJo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Q8TQLnog3Pc",
           "title": "Friday",
