@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-23T17:25:56.523Z",
+  "lastUpdated": "2026-01-23T17:47:14.423Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hXkf_MidRm8",
+          "title": "FSSPX Antwerpen - 23/01 H. RAYMUNDUS van PENNAFORT",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/hXkf_MidRm8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "NOnfeFapI9c",
           "title": "Rosenkranz und hl. Messe - hl. Raymund von Penafort - 23. Januar 2026",
