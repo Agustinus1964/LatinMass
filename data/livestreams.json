@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-23T08:54:49.091Z",
+  "lastUpdated": "2026-01-23T09:27:26.498Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YVvLqJduMbc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-24T06:15:00Z"
+        },
+        {
+          "id": "x0fBU8-7uic",
+          "title": "FSSPX Antwerpen - 24/01 H. TIMOTHEUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/x0fBU8-7uic/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-24T09:00:00Z"
         }
       ]
     },
