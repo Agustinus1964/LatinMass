@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-24T11:38:14.806Z",
+  "lastUpdated": "2026-01-24T12:35:16.275Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "OocQ-VA-Wvk",
+          "title": "Low Mass - St. Timothy, Bishop & Martyr - 1/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/OocQ-VA-Wvk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "QaoD3kkIfNA",
           "title": "Sat. Jan. 24, 2026    -    St. Timothy,     Bishop and Martyr",
@@ -37,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "EcpmRM_tTkM",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/EcpmRM_tTkM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3oqkI0WJJR0",
-          "title": "Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/3oqkI0WJJR0/mqdefault_live.jpg",
+          "id": "zrfGs4b8U20",
+          "title": "Saturday 7 AM Traditional Catholic Mass 01/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/zrfGs4b8U20/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oJJl3hO2zHE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T11:00:00Z"
+        },
+        {
+          "id": "GmFrHdCqFow",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GmFrHdCqFow/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T12:00:00Z"
         }
       ]
     }
