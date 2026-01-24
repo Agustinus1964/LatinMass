@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T09:41:11.645Z",
+  "lastUpdated": "2026-01-24T10:18:32.385Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "xvogijBbu6s",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/xvogijBbu6s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "EcpmRM_tTkM",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/EcpmRM_tTkM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "W0U-NkDg_tI",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/W0U-NkDg_tI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rCLVxMe_XhM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T09:30:00Z"
+        },
+        {
+          "id": "lpSYHmmBARM",
+          "title": "Sainte messe du troisième dimanche après l'Epiphanie -",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/lpSYHmmBARM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T10:00:00Z"
         }
       ]
     }
