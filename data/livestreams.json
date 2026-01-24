@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T10:18:32.385Z",
+  "lastUpdated": "2026-01-24T10:44:12.631Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "xvogijBbu6s",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/xvogijBbu6s/mqdefault_live.jpg",
+          "id": "XWGE3cWr52c",
+          "title": "Saturday 24th January 2026: Saint Timothy",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/XWGE3cWr52c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -53,15 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/EcpmRM_tTkM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "XWGE3cWr52c",
-          "title": "Saturday 24th January 2026: Saint Timothy",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/XWGE3cWr52c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-24T10:30:00Z"
         },
         {
           "id": "q0fuJO182yM",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lpSYHmmBARM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T10:00:00Z"
+        },
+        {
+          "id": "qPVt9ZtETgs",
+          "title": "Sunday 25th January 2026: Third Sunday after the Epiphany",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qPVt9ZtETgs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T10:30:00Z"
         }
       ]
     }
