@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T14:15:34.901Z",
+  "lastUpdated": "2026-01-24T14:42:16.112Z",
   "videos": [
     {
       "id": "vgemRfPtY4E",
@@ -20,6 +20,16 @@
       "thumbnail": "https://i.ytimg.com/vi/FSRe2ykl8LQ/mqdefault.jpg",
       "publishedAt": "2026-01-24T13:00:33Z",
       "category": "Return To Tradition"
+    },
+    {
+      "id": "uQTN8GWTnbA",
+      "title": "Holy Mass 1/24/26 - Feast of St. Timothy",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/uQTN8GWTnbA/mqdefault_live.jpg",
+      "publishedAt": "2026-01-24T13:00:24Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "EFYxibtBjpY",
@@ -250,16 +260,6 @@
       "thumbnail": "https://i.ytimg.com/vi/m1_1_E6uGdM/mqdefault.jpg",
       "publishedAt": "2026-01-23T08:06:07Z",
       "category": "SSPX News"
-    },
-    {
-      "id": "nVr_stuwj7c",
-      "title": "Holy Mass",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/nVr_stuwj7c/mqdefault.jpg",
-      "publishedAt": "2026-01-23T05:47:30Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "rkCUpsXaFmc",
