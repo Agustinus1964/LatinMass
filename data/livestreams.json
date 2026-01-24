@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T01:22:56.513Z",
+  "lastUpdated": "2026-01-24T03:10:40.829Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QaoD3kkIfNA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-24T13:00:00Z"
+        },
+        {
+          "id": "JTmq9XQwp_M",
+          "title": "Sung Mass - 3rd Sunday after Epiphany",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/JTmq9XQwp_M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T01:30:00Z"
         }
       ]
     },
@@ -28,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vkvYqF7rCvQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/vkvYqF7rCvQ/mqdefault_live.jpg",
+          "id": "MGgRJNlLWns",
+          "title": "Introducción a la Apologética Bíblica. P Joel Pinto Rodríguez.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/MGgRJNlLWns/mqdefault.jpg",
           "status": "live",
           "scheduledTime": null
         },
