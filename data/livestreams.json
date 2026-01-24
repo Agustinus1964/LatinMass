@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-24T08:48:25.511Z",
+  "lastUpdated": "2026-01-24T09:17:51.948Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "x0fBU8-7uic",
+          "title": "FSSPX Antwerpen - 24/01 H. TIMOTHEUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/x0fBU8-7uic/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "QaoD3kkIfNA",
           "title": "Sat. Jan. 24, 2026    -    St. Timothy,     Bishop and Martyr",
@@ -46,13 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "xvogijBbu6s",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/xvogijBbu6s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-24T10:00:00Z"
+          "id": "W0U-NkDg_tI",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/W0U-NkDg_tI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XWGE3cWr52c",
@@ -71,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/q0fuJO182yM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-24T14:00:00Z"
+        },
+        {
+          "id": "ny9jvZ2MJ0I",
+          "title": "8am — 3rd Sunday after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ny9jvZ2MJ0I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T08:00:00Z"
         }
       ]
     }
