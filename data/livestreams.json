@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T10:44:12.631Z",
+  "lastUpdated": "2026-01-24T11:15:23.913Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qPVt9ZtETgs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T10:30:00Z"
+        },
+        {
+          "id": "oJJl3hO2zHE",
+          "title": "11am — 3rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/oJJl3hO2zHE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T11:00:00Z"
         }
       ]
     }
