@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-24T19:36:23.758Z",
+  "lastUpdated": "2026-01-24T20:18:50.508Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "HXq_Q2ft1KU",
+          "title": "Schroder Wedding",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/HXq_Q2ft1KU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "JTmq9XQwp_M",
           "title": "Sung Mass - 3rd Sunday after Epiphany",
