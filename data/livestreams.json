@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T13:48:45.193Z",
+  "lastUpdated": "2026-01-24T14:16:56.994Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "q0fuJO182yM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Timothy, Bishop and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/q0fuJO182yM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ng37eJrZycg",
           "title": "9AM Mass. St. Timothy, Bishop & Martyr. III. Saturday, January 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -46,13 +55,22 @@
           "scheduledTime": null
         },
         {
-          "id": "q0fuJO182yM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Timothy, Bishop and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/q0fuJO182yM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-24T14:00:00Z"
+          "id": "8LKZ7IBcPLI",
+          "title": "Saturday 9 AM Catholic Mass for 01/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/8LKZ7IBcPLI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "7wTQ926CKL0",
+          "title": "Santo Sacrificio de La Misa, San Timoteo, Obispo y Mártir 24 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/7wTQ926CKL0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ny9jvZ2MJ0I",
