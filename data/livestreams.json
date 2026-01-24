@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-24T12:35:16.275Z",
+  "lastUpdated": "2026-01-24T13:28:43.867Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OocQ-VA-Wvk",
-          "title": "Low Mass - St. Timothy, Bishop & Martyr - 1/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/OocQ-VA-Wvk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QaoD3kkIfNA",
           "title": "Sat. Jan. 24, 2026    -    St. Timothy,     Bishop and Martyr",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/QaoD3kkIfNA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-24T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JTmq9XQwp_M",
@@ -45,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zrfGs4b8U20",
-          "title": "Saturday 7 AM Traditional Catholic Mass 01/24/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/zrfGs4b8U20/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "q0fuJO182yM",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Timothy, Bishop and Martyr)",
