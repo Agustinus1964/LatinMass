@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T11:15:23.913Z",
+  "lastUpdated": "2026-01-24T11:38:14.806Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "XWGE3cWr52c",
-          "title": "Saturday 24th January 2026: Saint Timothy",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/XWGE3cWr52c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "EcpmRM_tTkM",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/EcpmRM_tTkM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3oqkI0WJJR0",
+          "title": "Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/3oqkI0WJJR0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
