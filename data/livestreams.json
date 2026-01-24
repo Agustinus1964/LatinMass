@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-24T09:17:51.948Z",
+  "lastUpdated": "2026-01-24T09:41:11.645Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "x0fBU8-7uic",
-          "title": "FSSPX Antwerpen - 24/01 H. TIMOTHEUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/x0fBU8-7uic/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QaoD3kkIfNA",
           "title": "Sat. Jan. 24, 2026    -    St. Timothy,     Bishop and Martyr",
@@ -46,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BMi4MKDk_0M",
-          "title": "Sainte messe en semaine",
+          "id": "EcpmRM_tTkM",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/BMi4MKDk_0M/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/EcpmRM_tTkM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ny9jvZ2MJ0I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T08:00:00Z"
+        },
+        {
+          "id": "rCLVxMe_XhM",
+          "title": "9:30am —  3rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rCLVxMe_XhM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T09:30:00Z"
         }
       ]
     }
