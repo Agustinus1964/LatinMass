@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-24T15:17:24.123Z",
+  "lastUpdated": "2026-01-24T15:41:03.549Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,15 +42,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/IEEY3qUdR6U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ng37eJrZycg",
-          "title": "9AM Mass. St. Timothy, Bishop & Martyr. III. Saturday, January 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ng37eJrZycg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/oJJl3hO2zHE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T11:00:00Z"
+        },
+        {
+          "id": "GmFrHdCqFow",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GmFrHdCqFow/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T12:00:00Z"
+        },
+        {
+          "id": "Omn5Bwp2Je4",
+          "title": "10:30AM Sung Mass. Third Sunday after Epiphany. II. January 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Omn5Bwp2Je4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T15:30:00Z"
         }
       ]
     }
