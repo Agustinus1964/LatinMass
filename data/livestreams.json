@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T16:48:20.876Z",
+  "lastUpdated": "2026-01-25T17:15:18.505Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/WtsG2FaEVvs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "O1JpNXyz_iw",
-          "title": "Sun. Jan. 25. 2026    -    Third Sunday after Epiphany",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/O1JpNXyz_iw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Y28q_Xpmotc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T18:00:00Z"
+        },
+        {
+          "id": "8Go_8Bhk4RQ",
+          "title": "Saint Polycarp, bishop and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/8Go_8Bhk4RQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T07:15:00Z"
         },
         {
           "id": "QHfHoLsgWmM",
@@ -100,6 +100,15 @@
           "scheduledTime": null
         },
         {
+          "id": "Q13PCWN4lAs",
+          "title": "Vespers and Benediction — 3rd Sunday after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q13PCWN4lAs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Pdrq0JitKJo",
           "title": "Secondes vêpres du troisième dimanche après l'Epiphanie - DOMINE SI TU VIS",
           "channel": "Ite Missa Est",
@@ -107,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Pdrq0JitKJo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Q13PCWN4lAs",
-          "title": "Vespers and Benediction — 3rd Sunday after Epiphany",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Q13PCWN4lAs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T17:00:00Z"
         },
         {
           "id": "6Qsde5aoliA",
