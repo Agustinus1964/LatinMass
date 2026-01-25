@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-01-25T15:41:08.096Z",
+  "lastUpdated": "2026-01-25T16:21:54.542Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "7Rqp5EpjxCg",
-          "title": "Solemn High Mass - Third Sunday after Epiphany - 1/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7Rqp5EpjxCg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qusBf897CE0",
-          "title": "Third Sunday after Epiphany",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/qusBf897CE0/mqdefault_live.jpg",
+          "id": "WtsG2FaEVvs",
+          "title": "Third Sunday after Epiphany, January 25, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/WtsG2FaEVvs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/K8rtxsdWVj0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "WtsG2FaEVvs",
-          "title": "Third Sunday after Epiphany, January 25, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/WtsG2FaEVvs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T15:45:04Z"
         },
         {
           "id": "VRIlQYNnD1U",
@@ -91,11 +73,20 @@
           "scheduledTime": null
         },
         {
-          "id": "Omn5Bwp2Je4",
-          "title": "10:30AM Sung Mass. Third Sunday after Epiphany. II. January 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Omn5Bwp2Je4/mqdefault_live.jpg",
+          "id": "s7BQidqJoAQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/s7BQidqJoAQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XcCP_u07a3o",
+          "title": "Sunday 11 AM Sung Mass 2026-01-25",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/XcCP_u07a3o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
