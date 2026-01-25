@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-25T14:16:30.485Z",
+  "lastUpdated": "2026-01-25T14:42:59.376Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ExINEHy-7CI",
-          "title": "Third Sunday After Epiphany - The Immaculata",
+          "id": "qusBf897CE0",
+          "title": "Third Sunday after Epiphany",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/ExINEHy-7CI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T14:05:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/qusBf897CE0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "K8rtxsdWVj0",
+          "title": "FSSPX Antwerpen - 25/01 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/K8rtxsdWVj0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VRIlQYNnD1U",
@@ -55,20 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "GmFrHdCqFow",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/GmFrHdCqFow/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RmuqsUL1de0",
-          "title": "Sunday 8:30 AM Catholic Mass for 01/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/RmuqsUL1de0/mqdefault_live.jpg",
+          "id": "5HVdqjgWJRE",
+          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 -  9:30 AM",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/5HVdqjgWJRE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,24 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tXctDn8NJF4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "zPo14sUSRHk",
-          "title": "Missa Cantada III Domingo Depois da Epifania",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/zPo14sUSRHk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5HVdqjgWJRE",
-          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 -  9:30 AM",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/5HVdqjgWJRE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T14:30:00Z"
         },
         {
           "id": "PxYpKNa58HA",
