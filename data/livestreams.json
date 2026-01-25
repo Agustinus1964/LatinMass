@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-01-25T17:15:18.505Z",
+  "lastUpdated": "2026-01-25T17:41:20.259Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WtsG2FaEVvs",
-          "title": "Third Sunday after Epiphany, January 25, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/WtsG2FaEVvs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K8rtxsdWVj0",
-          "title": "FSSPX Antwerpen - 25/01 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/K8rtxsdWVj0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VRIlQYNnD1U",
-          "title": "Vesper und Sakramentsandacht - 3. Sonntag nach Erscheinung - 25. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VRIlQYNnD1U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Y28q_Xpmotc",
           "title": "III Sunday after Epiphany | January 25th",
@@ -57,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QHfHoLsgWmM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T12:15:00Z"
+        },
+        {
+          "id": "RstwxevFu4A",
+          "title": "FSSPX Antwerpen - 26/01 H. POLYCARPUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/RstwxevFu4A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T17:30:00Z"
         }
       ]
     },
@@ -69,15 +51,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/s7BQidqJoAQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "keIIs8QiuKE",
-          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 - 11:30am",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/keIIs8QiuKE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,15 +78,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Q13PCWN4lAs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Pdrq0JitKJo",
-          "title": "Secondes vêpres du troisième dimanche après l'Epiphanie - DOMINE SI TU VIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Pdrq0JitKJo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
