@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-25T21:39:49.913Z",
+  "lastUpdated": "2026-01-25T22:17:33.178Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hnmqgHj7pNs",
+          "title": "Simple II Vespers -Third Sunday after Epiphany - 1/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hnmqgHj7pNs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "YVugcW03oz8",
           "title": "Hl. Messe - hl. Polykarp - 26. Januar 2026",
@@ -55,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dbqJuew7GYg",
-          "title": "Missa Rezada III Domingo Depois da Epifania",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/dbqJuew7GYg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Gihn35yorPM",
           "title": "7AM Mass & Divine Office. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qNQi9zTblJU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T18:00:00Z"
+        },
+        {
+          "id": "bRLNxILjk84",
+          "title": "Divine Office & 6PM Mass. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bRLNxILjk84/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T22:00:00Z"
         }
       ]
     }
