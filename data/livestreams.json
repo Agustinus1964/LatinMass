@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T22:17:33.178Z",
+  "lastUpdated": "2026-01-25T22:43:38.097Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "nK_zvo5digA",
+          "title": "Third Sunday after the Epiphany / Troisième Dimanche après l'Épiphanie",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/nK_zvo5digA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Gihn35yorPM",
           "title": "7AM Mass & Divine Office. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
