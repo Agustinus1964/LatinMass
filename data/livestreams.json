@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T06:55:59.768Z",
+  "lastUpdated": "2026-01-25T07:20:49.682Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ooncfrW52wY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T09:25:00Z"
+        },
+        {
+          "id": "bNTWry1Mjyc",
+          "title": "3rd Sunday after Epiphany",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/bNTWry1Mjyc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T11:00:00Z"
         },
         {
           "id": "VRIlQYNnD1U",
