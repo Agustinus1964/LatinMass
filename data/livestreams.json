@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T15:17:32.413Z",
+  "lastUpdated": "2026-01-25T15:41:08.096Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/K8rtxsdWVj0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "WtsG2FaEVvs",
+          "title": "Third Sunday after Epiphany, January 25, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/WtsG2FaEVvs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T15:45:04Z"
         },
         {
           "id": "VRIlQYNnD1U",
@@ -91,20 +100,20 @@
           "scheduledTime": null
         },
         {
-          "id": "5HVdqjgWJRE",
-          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 -  9:30 AM",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/5HVdqjgWJRE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tXctDn8NJF4",
           "title": "Santa Misa Dominical. 25 de Enero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/tXctDn8NJF4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MlLzd4uH9GI",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/MlLzd4uH9GI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -115,20 +124,11 @@
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/nK_zvo5digA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-25T15:30:00Z"
-        },
-        {
-          "id": "MlLzd4uH9GI",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/MlLzd4uH9GI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T15:45:00Z"
+          "scheduledTime": "2026-01-25T15:25:00Z"
         },
         {
           "id": "keIIs8QiuKE",
-          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026",
+          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 - 11:30am",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/keIIs8QiuKE/mqdefault_live.jpg",
