@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-25T01:42:52.406Z",
+  "lastUpdated": "2026-01-25T03:51:23.054Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GWO7HUcX550",
-          "title": "Compline - 1/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/GWO7HUcX550/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JTmq9XQwp_M",
-          "title": "Sung Mass - 3rd Sunday after Epiphany",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/JTmq9XQwp_M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "AkTrXsZ4rmA",
           "title": "Amt - 3. Sonntag nach Erscheinung - 25. Januar 2026",
@@ -116,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/GmFrHdCqFow/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T12:00:00Z"
+        },
+        {
+          "id": "3a9uaiVmi0c",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/3a9uaiVmi0c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T13:00:00Z"
+        },
+        {
+          "id": "PxYpKNa58HA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PxYpKNa58HA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T15:00:00Z"
         },
         {
           "id": "Omn5Bwp2Je4",
