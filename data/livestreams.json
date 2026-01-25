@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T03:51:23.054Z",
+  "lastUpdated": "2026-01-25T04:49:48.880Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Q13PCWN4lAs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T17:00:00Z"
+        },
+        {
+          "id": "6Qsde5aoliA",
+          "title": "Sermons for Salvation: Remember Hell",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/6Qsde5aoliA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T19:00:00Z"
         }
       ]
     }
