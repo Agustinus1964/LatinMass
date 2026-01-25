@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:26:23.649Z",
+  "lastUpdated": "2026-01-25T18:52:17.638Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,6 +51,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/vw8Nifbdqmw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Nm88lS75JJc",
+          "title": "Santa Misa Dominical. 25 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Nm88lS75JJc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
