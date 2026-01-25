@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T18:52:17.638Z",
+  "lastUpdated": "2026-01-25T19:14:36.516Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Y28q_Xpmotc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "YVugcW03oz8",
+          "title": "Hl. Messe - hl. Polykarp - 26. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YVugcW03oz8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T06:15:00Z"
         },
         {
           "id": "8Go_8Bhk4RQ",
@@ -30,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QHfHoLsgWmM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T12:15:00Z"
+        },
+        {
+          "id": "b57ALEir9s8",
+          "title": "Rosenkranz und hl. Messe - hl. Polykarp - 26. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/b57ALEir9s8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T17:00:00Z"
         },
         {
           "id": "RstwxevFu4A",
@@ -62,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Nm88lS75JJc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6Qsde5aoliA",
-          "title": "Sermons for Salvation: Remember Hell",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/6Qsde5aoliA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T19:00:00Z"
         },
         {
           "id": "Gihn35yorPM",
