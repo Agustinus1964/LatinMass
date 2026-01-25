@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-01-25T14:42:59.376Z",
+  "lastUpdated": "2026-01-25T15:17:32.413Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7Rqp5EpjxCg",
+          "title": "Solemn High Mass - Third Sunday after Epiphany - 1/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7Rqp5EpjxCg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "qusBf897CE0",
           "title": "Third Sunday after Epiphany",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/qusBf897CE0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "O1JpNXyz_iw",
+          "title": "Sun. Jan. 25. 2026    -    Third Sunday after Epiphany",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/O1JpNXyz_iw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,11 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nlYQ8uMK3rc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/nlYQ8uMK3rc/mqdefault_live.jpg",
+          "id": "PxYpKNa58HA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PxYpKNa58HA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Omn5Bwp2Je4",
+          "title": "10:30AM Sung Mass. Third Sunday after Epiphany. II. January 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Omn5Bwp2Je4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,20 +109,11 @@
           "scheduledTime": null
         },
         {
-          "id": "PxYpKNa58HA",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PxYpKNa58HA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T15:00:00Z"
-        },
-        {
-          "id": "Omn5Bwp2Je4",
-          "title": "10:30AM Sung Mass. Third Sunday after Epiphany. II. January 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Omn5Bwp2Je4/mqdefault_live.jpg",
+          "id": "nK_zvo5digA",
+          "title": "Third Sunday after the Epiphany",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/nK_zvo5digA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T15:30:00Z"
         },
