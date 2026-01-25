@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T10:18:51.517Z",
+  "lastUpdated": "2026-01-25T10:45:27.114Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rCLVxMe_XhM",
-          "title": "9:30am —  3rd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/rCLVxMe_XhM/mqdefault_live.jpg",
+          "id": "qPVt9ZtETgs",
+          "title": "Sunday 25th January 2026: Third Sunday after the Epiphany",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qPVt9ZtETgs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,13 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "qPVt9ZtETgs",
-          "title": "Sunday 25th January 2026: Third Sunday after the Epiphany",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/qPVt9ZtETgs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T10:30:00Z"
+          "id": "Bs2YOB-yIkU",
+          "title": "Missa Rezada III Domingo Depois da Epifania",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Bs2YOB-yIkU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oJJl3hO2zHE",
