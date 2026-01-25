@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T09:42:25.877Z",
+  "lastUpdated": "2026-01-25T10:18:51.517Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/GSWYNDokFSQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AkTrXsZ4rmA",
-          "title": "Amt - 3. Sonntag nach Erscheinung - 25. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/AkTrXsZ4rmA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -74,12 +65,12 @@
         },
         {
           "id": "lpSYHmmBARM",
-          "title": "Sainte messe du troisième dimanche après l'Epiphanie -",
+          "title": "[E] Sainte messe du troisième dimanche après l'Epiphanie - ADORATE DEUM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/lpSYHmmBARM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qPVt9ZtETgs",
