@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-25T19:37:21.860Z",
+  "lastUpdated": "2026-01-25T20:20:27.425Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Y28q_Xpmotc",
-          "title": "III Sunday after Epiphany | January 25th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/Y28q_Xpmotc/mqdefault_live.jpg",
+          "id": "gCw34gSGZVw",
+          "title": "Mass of St Polycarp - 26.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/gCw34gSGZVw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vw8Nifbdqmw",
-          "title": "Sunday 1:30 PM Catholic Mass 01/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/vw8Nifbdqmw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Nm88lS75JJc",
-          "title": "Santa Misa Dominical. 25 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Nm88lS75JJc/mqdefault_live.jpg",
+          "id": "dbqJuew7GYg",
+          "title": "Missa Rezada III Domingo Depois da Epifania",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/dbqJuew7GYg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Gihn35yorPM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T12:00:00Z"
+        },
+        {
+          "id": "0myzNja3zvo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Polycarp, Bishop and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/0myzNja3zvo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T12:30:00Z"
         },
         {
           "id": "g9vEOSELP6c",
