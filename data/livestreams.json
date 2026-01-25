@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-25T11:38:19.897Z",
+  "lastUpdated": "2026-01-25T12:36:40.766Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "uqhC2rFiOAc",
+          "title": "Low Mass - Third Sunday after Epiphany - 1/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/uqhC2rFiOAc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bNTWry1Mjyc",
           "title": "3rd Sunday after Epiphany",
@@ -30,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Y28q_Xpmotc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T18:00:00Z"
+        },
+        {
+          "id": "QHfHoLsgWmM",
+          "title": "Mon. Jan. 26, 2026    -    St. Polycarp,     Bishop and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/QHfHoLsgWmM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qPVt9ZtETgs",
-          "title": "Sunday 25th January 2026: Third Sunday after the Epiphany",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/qPVt9ZtETgs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GmFrHdCqFow",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
@@ -55,29 +64,29 @@
           "scheduledTime": null
         },
         {
-          "id": "oJJl3hO2zHE",
-          "title": "11am — 3rd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/oJJl3hO2zHE/mqdefault_live.jpg",
+          "id": "ttYT9I9K4X8",
+          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 -  7:30 AM",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/ttYT9I9K4X8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "lpSYHmmBARM",
-          "title": "[E] Sainte messe du troisième dimanche après l'Epiphanie - ADORATE DEUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/lpSYHmmBARM/mqdefault_live.jpg",
+          "id": "ohpjrirGhaQ",
+          "title": "Sunday 7 AM Catholic Mass for 01/25/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ohpjrirGhaQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "Bs2YOB-yIkU",
-          "title": "Missa Rezada III Domingo Depois da Epifania",
+          "id": "zPo14sUSRHk",
+          "title": "Missa Cantada III Domingo Depois da Epifania",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Bs2YOB-yIkU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/zPo14sUSRHk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3a9uaiVmi0c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T13:00:00Z"
+        },
+        {
+          "id": "5HVdqjgWJRE",
+          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 -  9:30 AM",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/5HVdqjgWJRE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T14:30:00Z"
         },
         {
           "id": "PxYpKNa58HA",
@@ -152,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6Qsde5aoliA/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-25T19:00:00Z"
+        },
+        {
+          "id": "Gihn35yorPM",
+          "title": "7AM Mass & Divine Office. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Gihn35yorPM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T12:00:00Z"
         }
       ]
     }
