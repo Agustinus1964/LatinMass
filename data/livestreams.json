@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-25T12:36:40.766Z",
+  "lastUpdated": "2026-01-25T13:30:05.249Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uqhC2rFiOAc",
-          "title": "Low Mass - Third Sunday after Epiphany - 1/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/uqhC2rFiOAc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bNTWry1Mjyc",
-          "title": "3rd Sunday after Epiphany",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/bNTWry1Mjyc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VRIlQYNnD1U",
           "title": "Vesper und Sakramentsandacht - 3. Sonntag nach Erscheinung - 25. Januar 2026",
@@ -55,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "3a9uaiVmi0c",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday after Epiphany)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/3a9uaiVmi0c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "GmFrHdCqFow",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,20 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "ttYT9I9K4X8",
-          "title": "THIRD SUNDAY AFTER EPIPHANY, 2026 -  7:30 AM",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/ttYT9I9K4X8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ohpjrirGhaQ",
-          "title": "Sunday 7 AM Catholic Mass for 01/25/2026",
+          "id": "RmuqsUL1de0",
+          "title": "Sunday 8:30 AM Catholic Mass for 01/25/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/ohpjrirGhaQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/RmuqsUL1de0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zPo14sUSRHk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "3a9uaiVmi0c",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/3a9uaiVmi0c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T13:00:00Z"
         },
         {
           "id": "5HVdqjgWJRE",
