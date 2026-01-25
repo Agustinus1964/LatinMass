@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-25T13:51:21.773Z",
+  "lastUpdated": "2026-01-25T14:16:30.485Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ExINEHy-7CI",
+          "title": "Third Sunday After Epiphany - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/ExINEHy-7CI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-25T14:05:00Z"
+        },
         {
           "id": "VRIlQYNnD1U",
           "title": "Vesper und Sakramentsandacht - 3. Sonntag nach Erscheinung - 25. Januar 2026",
@@ -37,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3a9uaiVmi0c",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday after Epiphany)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/3a9uaiVmi0c/mqdefault_live.jpg",
+          "id": "nlYQ8uMK3rc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/nlYQ8uMK3rc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,6 +73,15 @@
           "scheduledTime": null
         },
         {
+          "id": "tXctDn8NJF4",
+          "title": "Santa Misa Dominical. 25 de Enero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/tXctDn8NJF4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "zPo14sUSRHk",
           "title": "Missa Cantada III Domingo Depois da Epifania",
           "channel": "Missa Tridentina em Brasília",
@@ -71,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zPo14sUSRHk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "nlYQ8uMK3rc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/nlYQ8uMK3rc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T13:58:00Z"
         },
         {
           "id": "5HVdqjgWJRE",
