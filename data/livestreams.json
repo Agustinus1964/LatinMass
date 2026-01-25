@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T11:15:19.026Z",
+  "lastUpdated": "2026-01-25T11:38:19.897Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
           "scheduledTime": null
         },
         {
+          "id": "GmFrHdCqFow",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GmFrHdCqFow/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "oJJl3hO2zHE",
           "title": "11am — 3rd Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Bs2YOB-yIkU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "GmFrHdCqFow",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday after Epiphany. II. January 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/GmFrHdCqFow/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T12:00:00Z"
         },
         {
           "id": "3a9uaiVmi0c",
