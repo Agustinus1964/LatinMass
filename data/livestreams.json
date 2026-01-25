@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T17:41:20.259Z",
+  "lastUpdated": "2026-01-25T18:26:23.649Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/Y28q_Xpmotc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-25T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8Go_8Bhk4RQ",
@@ -46,38 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "s7BQidqJoAQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/s7BQidqJoAQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XcCP_u07a3o",
-          "title": "Sunday 11 AM Sung Mass 2026-01-25",
+          "id": "vw8Nifbdqmw",
+          "title": "Sunday 1:30 PM Catholic Mass 01/25/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/XcCP_u07a3o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tXctDn8NJF4",
-          "title": "Santa Misa Dominical. 25 de Enero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/tXctDn8NJF4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Q13PCWN4lAs",
-          "title": "Vespers and Benediction — 3rd Sunday after Epiphany",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Q13PCWN4lAs/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/vw8Nifbdqmw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Gihn35yorPM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T12:00:00Z"
+        },
+        {
+          "id": "g9vEOSELP6c",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/g9vEOSELP6c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T18:00:00Z"
+        },
+        {
+          "id": "qNQi9zTblJU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/qNQi9zTblJU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-26T18:00:00Z"
         }
       ]
     }
