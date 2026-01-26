@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:20:45.760Z",
+  "lastUpdated": "2026-01-26T21:45:44.395Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "bRLNxILjk84",
+          "title": "Divine Office & 6PM Mass. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bRLNxILjk84/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "uZhMzwZKNPE",
           "title": "Terço e Missa Rezada de São Policarpo",
           "channel": "Missa Tridentina em Brasília",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uZhMzwZKNPE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "VmE1g_wLSw0",
-          "title": "7AM Mass & Divine Office. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/VmE1g_wLSw0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T12:00:00Z"
         },
         {
           "id": "j0nJMdkGEGA",
