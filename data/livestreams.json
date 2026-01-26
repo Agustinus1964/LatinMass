@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-25T23:41:02.048Z",
+  "lastUpdated": "2026-01-26T01:42:47.874Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Gihn35yorPM",
-          "title": "7AM Mass & Divine Office. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Gihn35yorPM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-26T12:00:00Z"
-        },
-        {
           "id": "0myzNja3zvo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Polycarp, Bishop and Martyr)",
           "channel": "Usus Antiquior",
@@ -89,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qNQi9zTblJU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T18:00:00Z"
-        },
-        {
-          "id": "bRLNxILjk84",
-          "title": "Divine Office & 6PM Mass. St. Polycarp, Bishop & Martyr. III. Monday, January 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bRLNxILjk84/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-26T22:00:00Z"
         }
       ]
     }
