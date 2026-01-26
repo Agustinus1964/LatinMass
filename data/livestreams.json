@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-26T12:41:32.105Z",
+  "lastUpdated": "2026-01-26T13:41:46.473Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3WIGrYulm_o",
-          "title": "Low Mass - St. Polycarp, Bishop & Martyr - 1/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/3WIGrYulm_o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QHfHoLsgWmM",
-          "title": "Mon. Jan. 26, 2026    -    St. Polycarp,     Bishop and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/QHfHoLsgWmM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "b57ALEir9s8",
           "title": "Rosenkranz und hl. Messe - hl. Polykarp - 26. Januar 2026",
@@ -41,6 +23,15 @@
           "scheduledTime": "2026-01-27T06:15:00Z"
         },
         {
+          "id": "Ib6i1yX1XQA",
+          "title": "Low Mass - St. John Chrysostom - 1/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Ib6i1yX1XQA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T12:15:00Z"
+        },
+        {
           "id": "N55aUPBuXgA",
           "title": "Tue. Jan. 27, 2026    -    St. John Chrysostom,   Bishop, Confessor and Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
@@ -55,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "0myzNja3zvo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Polycarp, Bishop and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/0myzNja3zvo/mqdefault_live.jpg",
+          "id": "Yj8HJYhGfBs",
+          "title": "Monday 8 AM Traditional Latin Mass01/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Yj8HJYhGfBs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VmE1g_wLSw0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T12:00:00Z"
+        },
+        {
+          "id": "j0nJMdkGEGA",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Chrysostom, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/j0nJMdkGEGA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T12:30:00Z"
         }
       ]
     }
