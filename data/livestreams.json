@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T16:29:54.076Z",
+  "lastUpdated": "2026-01-26T17:02:36.023Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/b57ALEir9s8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-26T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "d4IWMRa6rMc",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/N55aUPBuXgA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T12:15:00Z"
+        },
+        {
+          "id": "jJomif0XjYk",
+          "title": "Rosenkranz und hl. Messe - hl. Johannes Chrysostomus - 27. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jJomif0XjYk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T17:00:00Z"
         }
       ]
     },
