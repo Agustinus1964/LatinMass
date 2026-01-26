@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-26T06:32:44.835Z",
+  "lastUpdated": "2026-01-26T07:25:20.858Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YVugcW03oz8",
-          "title": "Hl. Messe - hl. Polykarp - 26. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YVugcW03oz8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "8Go_8Bhk4RQ",
           "title": "Saint Polycarp, bishop and martyr",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/8Go_8Bhk4RQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-26T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QHfHoLsgWmM",
