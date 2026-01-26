@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-26T15:52:15.361Z",
+  "lastUpdated": "2026-01-26T16:29:54.076Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZGHM74kZT7g",
+          "title": "FSSPX Antwerpen - 26/01 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZGHM74kZT7g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "b57ALEir9s8",
           "title": "Rosenkranz und hl. Messe - hl. Polykarp - 26. Januar 2026",
