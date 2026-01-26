@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-26T11:41:39.210Z",
+  "lastUpdated": "2026-01-26T12:41:32.105Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "3WIGrYulm_o",
+          "title": "Low Mass - St. Polycarp, Bishop & Martyr - 1/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/3WIGrYulm_o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "QHfHoLsgWmM",
           "title": "Mon. Jan. 26, 2026    -    St. Polycarp,     Bishop and Martyr",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/QHfHoLsgWmM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-26T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "b57ALEir9s8",
@@ -30,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/d4IWMRa6rMc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T06:15:00Z"
+        },
+        {
+          "id": "N55aUPBuXgA",
+          "title": "Tue. Jan. 27, 2026    -    St. John Chrysostom,   Bishop, Confessor and Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/N55aUPBuXgA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T12:15:00Z"
         }
       ]
     },
@@ -37,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YxcJ_KMy9uE",
-          "title": "Monday 6 AM Traditional Catholic Mass 01/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/YxcJ_KMy9uE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "0myzNja3zvo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Polycarp, Bishop and Martyr)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/0myzNja3zvo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-26T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7TR0cF4m6f4",
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qNQi9zTblJU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-26T18:00:00Z"
+        },
+        {
+          "id": "VmE1g_wLSw0",
+          "title": "7AM Mass & Divine Office. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/VmE1g_wLSw0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T12:00:00Z"
         }
       ]
     }
