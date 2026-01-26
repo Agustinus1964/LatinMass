@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T10:51:37.862Z",
+  "lastUpdated": "2026-01-26T11:18:38.802Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "YxcJ_KMy9uE",
+          "title": "Monday 6 AM Traditional Catholic Mass 01/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/YxcJ_KMy9uE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0myzNja3zvo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Polycarp, Bishop and Martyr)",
