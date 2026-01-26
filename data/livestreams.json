@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-26T21:45:44.395Z",
+  "lastUpdated": "2026-01-26T22:18:51.225Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "uZhMzwZKNPE",
-          "title": "Terço e Missa Rezada de São Policarpo",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/uZhMzwZKNPE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "j0nJMdkGEGA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Chrysostom, Bishop, Confessor and Doctor)",
           "channel": "Usus Antiquior",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZOwJy1IAyzM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T18:00:00Z"
+        },
+        {
+          "id": "4agxnET6iok",
+          "title": "Divine Office & 6PM Mass. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/4agxnET6iok/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T22:00:00Z"
         }
       ]
     }
