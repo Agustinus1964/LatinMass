@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-27T15:35:08.934Z",
+  "lastUpdated": "2026-01-27T16:26:39.249Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZRw6PQpDpK0",
+          "title": "FSSPX Antwerpen - 27/01 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZRw6PQpDpK0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jJomif0XjYk",
           "title": "Rosenkranz und hl. Messe - hl. Johannes Chrysostomus - 27. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/jJomif0XjYk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T17:00:00Z"
-        },
-        {
-          "id": "FANn-fOK0Y8",
-          "title": "FSSPX Antwerpen - 27/01 H. JOHANNES CHRYSOSTOMUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/FANn-fOK0Y8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T17:30:00Z"
         },
         {
           "id": "95mp_KPOpgI",
