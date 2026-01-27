@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:41:34.857Z",
+  "lastUpdated": "2026-01-27T22:20:27.934Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,15 +55,6 @@
           "scheduledTime": null
         },
         {
-          "id": "MjIDZfWvQvg",
-          "title": "Terço e Missa Rezada São João Crisóstomo",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/MjIDZfWvQvg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "TqvQTX9IXjA",
           "title": "7AM Mass & Divine Office. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/w-9Obwlpgcw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-28T18:00:00Z"
+        },
+        {
+          "id": "ctU7vpVEoRc",
+          "title": "Divine Office & 6PM Mass. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-28T22:00:00Z"
         }
       ]
     }
