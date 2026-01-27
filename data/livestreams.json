@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-27T19:46:36.700Z",
+  "lastUpdated": "2026-01-27T20:20:09.316Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2OMZdKgciPo",
+          "title": "Mass of St Peter Nolasco - 28.1.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/2OMZdKgciPo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "95mp_KPOpgI",
           "title": "Hl. Messe - hl. Petrus Nolascus - 28. Januar 2026",
