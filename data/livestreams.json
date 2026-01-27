@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-27T16:57:42.826Z",
+  "lastUpdated": "2026-01-27T17:31:46.506Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZRw6PQpDpK0",
-          "title": "FSSPX Antwerpen - 27/01 Aanbidding met Rozenhoedje",
+          "id": "FANn-fOK0Y8",
+          "title": "FSSPX Antwerpen - 27/01 H. JOHANNES CHRYSOSTOMUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZRw6PQpDpK0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FANn-fOK0Y8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -32,15 +32,6 @@
           "scheduledTime": "2026-01-28T06:15:00Z"
         },
         {
-          "id": "R4ONwA6oAJ4",
-          "title": "FSSPX Antwerpen - 28/01 H. PETRUS NOLASCUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/R4ONwA6oAJ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T06:30:00Z"
-        },
-        {
           "id": "t8nVL0BajBk",
           "title": "Wed. Jan. 28, 2026    -    St. Peter Nolasco,   Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/t8nVL0BajBk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-28T12:15:00Z"
+        },
+        {
+          "id": "8wXugBv3mRU",
+          "title": "Rosenkranz und hl. Messe - hl. Petrus Nolascus - 28. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/8wXugBv3mRU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-28T17:00:00Z"
         }
       ]
     },
