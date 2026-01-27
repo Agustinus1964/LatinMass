@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-27T06:30:49.388Z",
+  "lastUpdated": "2026-01-27T07:25:13.877Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "d4IWMRa6rMc",
-          "title": "Hl. Messe - hl. Johannes Chrysostomus - 27. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/d4IWMRa6rMc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "F42RGYWR3t4",
           "title": "Saint John Chrysostom, bishop, confessor and doctor of t",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/F42RGYWR3t4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "S9Xf9Q9f4LI",
