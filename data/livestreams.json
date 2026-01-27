@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T04:44:02.380Z",
+  "lastUpdated": "2026-01-27T05:24:15.335Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/F42RGYWR3t4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T07:15:00Z"
+        },
+        {
+          "id": "S9Xf9Q9f4LI",
+          "title": "ByAdult Catechism - Lesson 34",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/S9Xf9Q9f4LI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-27T11:45:00Z"
         },
         {
           "id": "N55aUPBuXgA",
