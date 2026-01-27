@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-27T11:44:20.408Z",
+  "lastUpdated": "2026-01-27T12:42:13.591Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "S9Xf9Q9f4LI",
-          "title": "Adult Catechism - Lesson 34",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/S9Xf9Q9f4LI/mqdefault_live.jpg",
+          "id": "Ib6i1yX1XQA",
+          "title": "Low Mass - St. John Chrysostom - 1/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Ib6i1yX1XQA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/N55aUPBuXgA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "S9Xf9Q9f4LI",
+          "title": "Adult Catechism - Lesson 34",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/S9Xf9Q9f4LI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jJomif0XjYk",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/R4ONwA6oAJ4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-28T06:30:00Z"
+        },
+        {
+          "id": "t8nVL0BajBk",
+          "title": "Wed. Jan. 28, 2026    -    St. Peter Nolasco,   Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/t8nVL0BajBk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-28T12:15:00Z"
         }
       ]
     },
@@ -64,22 +82,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "VmE1g_wLSw0",
-          "title": "7AM Mass & Divine Office. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/VmE1g_wLSw0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T12:00:00Z"
-        },
-        {
           "id": "j0nJMdkGEGA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Chrysostom, Bishop, Confessor and Doctor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/j0nJMdkGEGA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "VmE1g_wLSw0",
+          "title": "7AM Mass & Divine Office. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/VmE1g_wLSw0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1If1D9ztp74",
@@ -116,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4agxnET6iok/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-27T22:00:00Z"
+        },
+        {
+          "id": "TqvQTX9IXjA",
+          "title": "7AM Mass & Divine Office. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TqvQTX9IXjA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-28T12:00:00Z"
         }
       ]
     }
