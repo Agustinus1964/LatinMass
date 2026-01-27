@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T08:59:37.391Z",
+  "lastUpdated": "2026-01-27T09:41:52.644Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Te8EnC1hhio",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Te8EnC1hhio/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VmE1g_wLSw0",
           "title": "7AM Mass & Divine Office. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
