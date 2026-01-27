@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-27T20:46:06.558Z",
+  "lastUpdated": "2026-01-27T21:15:36.260Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2OMZdKgciPo",
-          "title": "Mass of St Peter Nolasco - 28.1.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/2OMZdKgciPo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "95mp_KPOpgI",
           "title": "Hl. Messe - hl. Petrus Nolascus - 28. Januar 2026",
@@ -54,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "MjIDZfWvQvg",
+          "title": "Terço e Missa Rezada São João Crisóstomo",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/MjIDZfWvQvg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4agxnET6iok",
           "title": "Divine Office & 6PM Mass. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
