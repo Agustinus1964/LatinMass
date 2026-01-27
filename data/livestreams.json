@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-27T21:15:36.260Z",
+  "lastUpdated": "2026-01-27T21:41:34.857Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "4agxnET6iok",
+          "title": "Divine Office & 6PM Mass. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/4agxnET6iok/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "MjIDZfWvQvg",
           "title": "Terço e Missa Rezada São João Crisóstomo",
           "channel": "Missa Tridentina em Brasília",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MjIDZfWvQvg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "4agxnET6iok",
-          "title": "Divine Office & 6PM Mass. St John Chrysostom, Bishop, Confessor & Doctor of the Church. III. 1-27-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/4agxnET6iok/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-27T22:00:00Z"
         },
         {
           "id": "TqvQTX9IXjA",
