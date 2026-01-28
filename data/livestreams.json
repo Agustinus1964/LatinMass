@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T11:20:38.895Z",
+  "lastUpdated": "2026-01-28T11:43:46.142Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "TqvQTX9IXjA",
+          "title": "7AM Mass & Divine Office. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TqvQTX9IXjA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "urUGHIrJm_U",
           "title": "Wednesday 6 AM Traditional Catholic Mass01/28/2026",
           "channel": "St. Benedict Parish",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/urUGHIrJm_U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "TqvQTX9IXjA",
-          "title": "7AM Mass & Divine Office. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/TqvQTX9IXjA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T12:00:00Z"
         },
         {
           "id": "S7vf8vLwxt4",
