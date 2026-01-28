@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T21:30:55.594Z",
+  "lastUpdated": "2026-01-28T22:23:26.284Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "ctU7vpVEoRc",
+          "title": "Divine Office & 6PM Mass. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "NzR71mbSQ9U",
           "title": "Terço, missa rezada e exposição",
           "channel": "Missa Tridentina em Brasília",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/NzR71mbSQ9U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ctU7vpVEoRc",
-          "title": "Divine Office & 6PM Mass. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T22:00:00Z"
         },
         {
           "id": "4PXyUjAkPa8",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5DdY-WnTnOg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-29T18:00:00Z"
+        },
+        {
+          "id": "GwcmPiQbcR8",
+          "title": "Divine Office & 7AM Mass. St Francis de Sales, Bishop, Confessor, Doctor of the Church. III. 1-29-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GwcmPiQbcR8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-29T22:00:00Z"
         }
       ]
     }
