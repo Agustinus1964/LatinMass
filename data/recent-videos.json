@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-28T05:01:45.370Z",
+  "lastUpdated": "2026-01-28T05:50:52.864Z",
   "videos": [
+    {
+      "id": "ArHRXnctzZc",
+      "title": "Holy Mass 1/27/26 - Feast of St. John Chrysostom",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/ArHRXnctzZc/mqdefault.jpg",
+      "publishedAt": "2026-01-28T05:44:08Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "K2VlmymLCI0",
       "title": "Immaculate Conception Church Catechesis Lesson 20",
@@ -130,16 +140,6 @@
       "thumbnail": "https://i.ytimg.com/vi/5CX2H7v8Oes/mqdefault.jpg",
       "publishedAt": "2026-01-27T18:50:52Z",
       "category": "Fatima Center"
-    },
-    {
-      "id": "ArHRXnctzZc",
-      "title": "Holy Mass 1/27/26 - Feast of St. John Chrysostom",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/ArHRXnctzZc/mqdefault_live.jpg",
-      "publishedAt": "2026-01-27T15:35:31Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "l_SOTD22FBQ",
