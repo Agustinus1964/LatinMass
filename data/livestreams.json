@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-01-28T06:32:14.098Z",
+  "lastUpdated": "2026-01-28T07:23:36.634Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "R4ONwA6oAJ4",
-          "title": "FSSPX Antwerpen - 28/01 H. PETRUS NOLASCUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/R4ONwA6oAJ4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "95mp_KPOpgI",
-          "title": "Hl. Messe - hl. Petrus Nolascus - 28. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/95mp_KPOpgI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "kDHwzqAgpQM",
           "title": "Saint Peter Nolasco, confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/kDHwzqAgpQM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "t8nVL0BajBk",
