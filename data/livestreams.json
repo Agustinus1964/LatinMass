@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T17:29:32.635Z",
+  "lastUpdated": "2026-01-28T17:58:03.403Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WFDf3Iu0xQE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-29T16:00:00Z"
+        },
+        {
+          "id": "DUGK-_c-eAA",
+          "title": "FSSPX Antwerpen - 29/01 H. FRANCISCUS van SALES",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/DUGK-_c-eAA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-29T17:30:00Z"
         }
       ]
     },
@@ -64,13 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Sg8AsiHLtMI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Sg8AsiHLtMI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ZNkA6qXk920",
           "title": "Wednesday 28th January 2026: Saint Peter Nolascus",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/ZNkA6qXk920/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1EEg__3g1nQ",
@@ -78,8 +96,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/1EEg__3g1nQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "w-9Obwlpgcw",
@@ -87,8 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/w-9Obwlpgcw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ctU7vpVEoRc",
