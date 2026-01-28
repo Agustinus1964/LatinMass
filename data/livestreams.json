@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T10:54:14.871Z",
+  "lastUpdated": "2026-01-28T11:20:38.895Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "urUGHIrJm_U",
+          "title": "Wednesday 6 AM Traditional Catholic Mass01/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/urUGHIrJm_U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "TqvQTX9IXjA",
           "title": "7AM Mass & Divine Office. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
