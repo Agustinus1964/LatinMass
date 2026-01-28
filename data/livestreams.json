@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T16:32:31.882Z",
+  "lastUpdated": "2026-01-28T17:29:32.635Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/8wXugBv3mRU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-28T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "arRArC5GTUA",
