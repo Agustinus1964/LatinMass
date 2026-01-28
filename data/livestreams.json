@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T15:35:16.060Z",
+  "lastUpdated": "2026-01-28T16:32:31.882Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": "2026-01-29T06:15:00Z"
         },
         {
+          "id": "pevv0erwoj0",
+          "title": "Saint Francis de Sales, bishop, confessor and doctor of",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/pevv0erwoj0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-29T07:15:00Z"
+        },
+        {
           "id": "KraAkjUzScc",
           "title": "Thu. Jan. 29, 2026    -    St. Francis de Sales,    Bishop, Confessor, Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KraAkjUzScc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-29T12:15:00Z"
+        },
+        {
+          "id": "WFDf3Iu0xQE",
+          "title": "Sakramentsandacht und hl. Messe - hl. Franz von Sales - 29. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WFDf3Iu0xQE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-29T16:00:00Z"
         }
       ]
     },
