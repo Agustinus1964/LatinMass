@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-28T13:45:13.696Z",
+  "lastUpdated": "2026-01-28T14:26:36.959Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "muEkKR_fQtM",
+          "title": "Santo Sacrificio de La Misa, San Pedro Nolasco, Confesor, 28 de enero de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/muEkKR_fQtM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ZNkA6qXk920",
           "title": "Wednesday 28th January 2026: Saint Peter Nolascus",
