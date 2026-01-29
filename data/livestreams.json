@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T09:39:14.138Z",
+  "lastUpdated": "2026-01-29T10:33:43.339Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HKDd-wDy-I8",
-          "title": "Prima e Missa Rezada de São Francisco de Sales",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/HKDd-wDy-I8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
