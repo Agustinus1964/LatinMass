@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T18:39:57.118Z",
+  "lastUpdated": "2026-01-29T19:28:04.379Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,24 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QUFAWhREMFE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/QUFAWhREMFE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5DdY-WnTnOg",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5DdY-WnTnOg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GwcmPiQbcR8",
           "title": "Divine Office & 7AM Mass. St Francis de Sales, Bishop, Confessor, Doctor of the Church. III. 1-29-26",
