@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-29T16:39:49.757Z",
+  "lastUpdated": "2026-01-29T17:34:47.757Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "wCPKGFuSscE",
-          "title": "FSSPX Antwerpen - 29/01 Priester-Uur-Gebed",
+          "id": "DUGK-_c-eAA",
+          "title": "FSSPX Antwerpen - 29/01 H. FRANCISCUS van SALES",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/wCPKGFuSscE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DUGK-_c-eAA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -59,13 +59,31 @@
           "scheduledTime": "2026-01-30T12:15:00Z"
         },
         {
-          "id": "9cEp3ischkk",
-          "title": "FSSPX Antwerpen - 30/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "o2JS34zqXqw",
+          "title": "FSSPX Antwerpen - 30/01 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9cEp3ischkk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/o2JS34zqXqw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-01-30T16:00:00Z"
+          "scheduledTime": "2026-01-30T16:45:00Z"
+        },
+        {
+          "id": "owIerhDfsBM",
+          "title": "Rosenkranz und hl. Messe - hl. Eusebius - 30. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/owIerhDfsBM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-30T17:00:00Z"
+        },
+        {
+          "id": "SXT1WnkiExU",
+          "title": "FSSPX Antwerpen - 30/01 H. MARTINA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SXT1WnkiExU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-30T17:30:00Z"
         }
       ]
     },
