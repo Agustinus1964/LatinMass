@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-29T13:57:59.105Z",
+  "lastUpdated": "2026-01-29T14:41:31.390Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wCPKGFuSscE",
+          "title": "FSSPX Antwerpen - 29/01 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/wCPKGFuSscE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WFDf3Iu0xQE",
           "title": "Sakramentsandacht und hl. Messe - hl. Franz von Sales - 29. Januar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/WFDf3Iu0xQE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-29T16:00:00Z"
-        },
-        {
-          "id": "DUGK-_c-eAA",
-          "title": "FSSPX Antwerpen - 29/01 H. FRANCISCUS van SALES",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DUGK-_c-eAA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T17:30:00Z"
         },
         {
           "id": "7R1r2nWtSyI",
