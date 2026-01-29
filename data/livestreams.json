@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-01-29T11:54:33.338Z",
+  "lastUpdated": "2026-01-29T12:51:52.549Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ow_of5c0SKw",
+          "title": "Low Mass - St. Francis de Sales - 1/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ow_of5c0SKw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KraAkjUzScc",
           "title": "Thu. Jan. 29, 2026    -    St. Francis de Sales,    Bishop, Confessor, Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/KraAkjUzScc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WFDf3Iu0xQE",
@@ -32,15 +41,6 @@
           "scheduledTime": "2026-01-29T17:30:00Z"
         },
         {
-          "id": "aV9PhqML7Xk",
-          "title": "Benediction - 1/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aV9PhqML7Xk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T00:00:00Z"
-        },
-        {
           "id": "7R1r2nWtSyI",
           "title": "Hl. Messe - hl. Eusebius - 30. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/t3jHxUinTh8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-30T11:45:00Z"
+        },
+        {
+          "id": "VH8G8wvCdeY",
+          "title": "Fri. Jan. 30, 2026    -    St. Martina,    Virgin and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/VH8G8wvCdeY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-30T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "XFxRCpxe9wk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Francis de Sales, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/XFxRCpxe9wk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "vzo5q7tZNtg",
           "title": "7AM Mass & Divine Office. St Francis de Sales, Bishop, Confessor, Doctor of the Church. III. 1-29-26",
@@ -71,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vzo5q7tZNtg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "XFxRCpxe9wk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Francis de Sales, Bishop, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/XFxRCpxe9wk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T12:30:00Z"
         },
         {
           "id": "vrKVbQlMZBY",
