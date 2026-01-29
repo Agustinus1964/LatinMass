@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-01-28T23:48:05.733Z",
+  "lastUpdated": "2026-01-29T01:48:24.094Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "arRArC5GTUA",
-          "title": "Rosary - 1/28/26",
+          "id": "IyxHCzpeYMI",
+          "title": "Compline - 1/28/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/arRArC5GTUA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T00:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/IyxHCzpeYMI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NCID2wtK_cE",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DUGK-_c-eAA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-29T17:30:00Z"
+        },
+        {
+          "id": "aV9PhqML7Xk",
+          "title": "Benediction - 1/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/aV9PhqML7Xk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-30T00:00:00Z"
         }
       ]
     },
