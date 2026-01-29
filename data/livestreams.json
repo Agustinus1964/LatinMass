@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T10:33:43.339Z",
+  "lastUpdated": "2026-01-29T11:28:32.303Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,6 +60,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sGSyy6dXqr4",
+          "title": "Thursday 6 AM Traditional Catholic Mass 01/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/sGSyy6dXqr4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
