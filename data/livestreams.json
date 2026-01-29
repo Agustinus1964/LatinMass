@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-29T01:48:24.094Z",
+  "lastUpdated": "2026-01-29T04:05:42.184Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IyxHCzpeYMI",
-          "title": "Compline - 1/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IyxHCzpeYMI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "NCID2wtK_cE",
           "title": "Hl. Messe - hl. Franz von Sales - 29. Januar 2026",
@@ -80,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "4PXyUjAkPa8",
-          "title": "Cristología: Resurrección de Jesús fundamentada en Sto Tomás de Aquino. Parte 2. P. Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/4PXyUjAkPa8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T02:00:00Z"
         },
         {
           "id": "UgxZ5iEe8pw",
