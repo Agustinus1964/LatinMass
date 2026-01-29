@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-29T11:28:32.303Z",
+  "lastUpdated": "2026-01-29T11:54:33.338Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7R1r2nWtSyI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-30T06:15:00Z"
+        },
+        {
+          "id": "t3jHxUinTh8",
+          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 3",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/t3jHxUinTh8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-30T11:45:00Z"
         }
       ]
     },
@@ -55,31 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ctU7vpVEoRc",
-          "title": "Divine Office & 6PM Mass. St. Peter Nolasco, Confessor. III. Wednesday, January 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ctU7vpVEoRc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sGSyy6dXqr4",
-          "title": "Thursday 6 AM Traditional Catholic Mass 01/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/sGSyy6dXqr4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "vzo5q7tZNtg",
           "title": "7AM Mass & Divine Office. St Francis de Sales, Bishop, Confessor, Doctor of the Church. III. 1-29-26",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/vzo5q7tZNtg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T12:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XFxRCpxe9wk",
