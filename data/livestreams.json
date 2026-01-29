@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-01-29T12:51:52.549Z",
+  "lastUpdated": "2026-01-29T13:57:59.105Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ow_of5c0SKw",
-          "title": "Low Mass - St. Francis de Sales - 1/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ow_of5c0SKw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KraAkjUzScc",
-          "title": "Thu. Jan. 29, 2026    -    St. Francis de Sales,    Bishop, Confessor, Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/KraAkjUzScc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WFDf3Iu0xQE",
           "title": "Sakramentsandacht und hl. Messe - hl. Franz von Sales - 29. Januar 2026",
@@ -73,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "XFxRCpxe9wk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Francis de Sales, Bishop, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/XFxRCpxe9wk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vzo5q7tZNtg",
-          "title": "7AM Mass & Divine Office. St Francis de Sales, Bishop, Confessor, Doctor of the Church. III. 1-29-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vzo5q7tZNtg/mqdefault_live.jpg",
+          "id": "GXYltY9hsI4",
+          "title": "Santo Sacrificio de La Misa, San Francisco de Sales, Obispo y Confesor, 29 de enero de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/GXYltY9hsI4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
