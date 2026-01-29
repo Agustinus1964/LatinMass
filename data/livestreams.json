@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-29T06:05:18.248Z",
+  "lastUpdated": "2026-01-29T07:12:13.904Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NCID2wtK_cE",
-          "title": "Hl. Messe - hl. Franz von Sales - 29. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NCID2wtK_cE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T06:15:00Z"
-        },
         {
           "id": "pevv0erwoj0",
           "title": "Saint Francis de Sales, bishop, confessor and doctor of",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/pevv0erwoj0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-29T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KraAkjUzScc",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aV9PhqML7Xk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-30T00:00:00Z"
+        },
+        {
+          "id": "7R1r2nWtSyI",
+          "title": "Hl. Messe - hl. Eusebius - 30. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7R1r2nWtSyI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-30T06:15:00Z"
         }
       ]
     },
