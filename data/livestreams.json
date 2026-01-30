@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T10:30:37.489Z",
+  "lastUpdated": "2026-01-30T11:25:22.041Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-01-30T12:15:00Z"
         },
         {
-          "id": "o2JS34zqXqw",
-          "title": "FSSPX Antwerpen - 30/01 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/o2JS34zqXqw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T16:45:00Z"
-        },
-        {
           "id": "owIerhDfsBM",
           "title": "Rosenkranz und hl. Messe - hl. Eusebius - 30. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-01-30T17:00:00Z"
         },
         {
-          "id": "SXT1WnkiExU",
-          "title": "FSSPX Antwerpen - 30/01 H. MARTINA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SXT1WnkiExU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T17:30:00Z"
-        },
-        {
           "id": "c9qs1JVxM9A",
           "title": "Hl. Messe - hl. Johannes Bosco - 31. Januar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/c9qs1JVxM9A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T06:15:00Z"
-        },
-        {
-          "id": "QH6Ec1aDVeg",
-          "title": "FSSPX Antwerpen - 31/01 H. JOHANNES BOSCO",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/QH6Ec1aDVeg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-31T09:00:00Z"
         }
       ]
     },
