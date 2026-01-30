@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-01-30T12:48:08.161Z",
+  "lastUpdated": "2026-01-30T13:53:45.099Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1iXe36iTCbU",
-          "title": "Pontifical Low Mass - St. Martina, Virgin & Martyr - 1/30/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/1iXe36iTCbU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VH8G8wvCdeY",
-          "title": "Fri. Jan. 30, 2026    -    St. Martina,    Virgin and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/VH8G8wvCdeY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "t3jHxUinTh8",
-          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 3",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/t3jHxUinTh8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "owIerhDfsBM",
           "title": "Rosenkranz und hl. Messe - hl. Eusebius - 30. Januar 2026",
@@ -48,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/c9qs1JVxM9A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T06:15:00Z"
+        },
+        {
+          "id": "7fSNLw6pGjA",
+          "title": "Sat. Jan. 31, 2026    -     St. John Bosco,    Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/7fSNLw6pGjA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T13:00:00Z"
         }
       ]
     },
