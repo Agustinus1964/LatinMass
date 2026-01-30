@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T09:35:39.415Z",
+  "lastUpdated": "2026-01-30T10:30:37.489Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,15 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vaP945XwNTY",
-          "title": "Prima e Missa Rezada de Santa Martinha",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/vaP945XwNTY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "euUk9aCzbD8",
           "title": "11AM Mass & Divine Office. St. Martina, Virgin & Martyr. III. Friday, January 30, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -143,6 +134,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WjRVQPmqNb0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T08:30:00Z"
+        },
+        {
+          "id": "fVbsDdy28Gw",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/fVbsDdy28Gw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T10:00:00Z"
+        },
+        {
+          "id": "IUMBysQvAE4",
+          "title": "Saturday 31st January 2026: Saint John Bosco",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/IUMBysQvAE4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T10:30:00Z"
         }
       ]
     }
