@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-01-30T11:49:29.526Z",
+  "lastUpdated": "2026-01-30T12:48:08.161Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "t3jHxUinTh8",
-          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 3",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/t3jHxUinTh8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T11:45:00Z"
+          "id": "1iXe36iTCbU",
+          "title": "Pontifical Low Mass - St. Martina, Virgin & Martyr - 1/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/1iXe36iTCbU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VH8G8wvCdeY",
@@ -19,8 +19,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/VH8G8wvCdeY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "t3jHxUinTh8",
+          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 3",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/t3jHxUinTh8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "owIerhDfsBM",
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IUMBysQvAE4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T10:30:00Z"
+        },
+        {
+          "id": "-9LwQhMNKQM",
+          "title": "7:30 Mass, Rosary, 9AM Mass. St. John Bosco, Confessor. III. Saturday, January 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-9LwQhMNKQM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T12:30:00Z"
         }
       ]
     }
