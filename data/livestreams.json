@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T21:47:51.406Z",
+  "lastUpdated": "2026-01-30T22:21:41.470Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -33,15 +33,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/g09hUtZHcyY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "y660ZCRQ7io",
-          "title": "Terço e Missa Rezada de Santa Martinha",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/y660ZCRQ7io/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
