@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-30T16:35:24.371Z",
+  "lastUpdated": "2026-01-30T17:30:39.630Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "9cEp3ischkk",
-          "title": "FSSPX Antwerpen - 30/01 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "SXT1WnkiExU",
+          "title": "FSSPX Antwerpen - 30/01 H. MARTINA",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9cEp3ischkk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/SXT1WnkiExU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/owIerhDfsBM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "c9qs1JVxM9A",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "euUk9aCzbD8",
-          "title": "11AM Mass & Divine Office. St. Martina, Virgin & Martyr. III. Friday, January 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/euUk9aCzbD8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "qve93VwgCM8",
           "title": "Friday 30th January 2026: Saint Martina",
