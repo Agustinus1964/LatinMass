@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-30T06:43:31.018Z",
+  "lastUpdated": "2026-01-30T07:37:57.418Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7R1r2nWtSyI",
-          "title": "Hl. Messe - hl. Eusebius - 30. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7R1r2nWtSyI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LqRTLRzG56k",
           "title": "Saint Martina, virgin and martyr",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/LqRTLRzG56k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "t3jHxUinTh8",
