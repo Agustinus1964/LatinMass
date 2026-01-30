@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-30T07:37:57.418Z",
+  "lastUpdated": "2026-01-30T08:34:34.295Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LqRTLRzG56k",
-          "title": "Saint Martina, virgin and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/LqRTLRzG56k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "t3jHxUinTh8",
           "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 3",
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5Kf8lZD24cY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-30T23:30:00Z"
+        },
+        {
+          "id": "WjRVQPmqNb0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WjRVQPmqNb0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T08:30:00Z"
         }
       ]
     }
