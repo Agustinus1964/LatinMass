@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-30T05:30:11.825Z",
+  "lastUpdated": "2026-01-30T06:43:31.018Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/7R1r2nWtSyI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-30T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LqRTLRzG56k",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SXT1WnkiExU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-30T17:30:00Z"
+        },
+        {
+          "id": "c9qs1JVxM9A",
+          "title": "Hl. Messe - hl. Johannes Bosco - 31. Januar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/c9qs1JVxM9A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T06:15:00Z"
         }
       ]
     },
