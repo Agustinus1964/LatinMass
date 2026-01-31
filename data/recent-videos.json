@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-31T11:41:28.202Z",
+  "lastUpdated": "2026-01-31T12:37:04.255Z",
   "videos": [
+    {
+      "id": "AQeJL49bJHc",
+      "title": "Holy Mass 1/30/26 - Feast of St. Martina",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/AQeJL49bJHc/mqdefault.jpg",
+      "publishedAt": "2026-01-31T12:33:25Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "bOD891rVtII",
       "title": "Bishop Strickland: The Greatest Threat Facing The Church",
@@ -100,16 +110,6 @@
       "thumbnail": "https://i.ytimg.com/vi/Mal15AtNLgE/mqdefault.jpg",
       "publishedAt": "2026-01-30T23:18:46Z",
       "category": "Dr. Taylor Marshall"
-    },
-    {
-      "id": "AQeJL49bJHc",
-      "title": "Holy Mass 1/30/26 - Feast of St. Martina",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/AQeJL49bJHc/mqdefault_live.jpg",
-      "publishedAt": "2026-01-30T22:49:41Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "HhzPcO3Voko",
