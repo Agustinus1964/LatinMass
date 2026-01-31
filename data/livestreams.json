@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T11:17:32.652Z",
+  "lastUpdated": "2026-01-31T11:42:18.585Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,24 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qve93VwgCM8",
-          "title": "Friday 30th January 2026: Saint Martina",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/qve93VwgCM8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IUMBysQvAE4",
-          "title": "Saturday 31st January 2026: Saint John Bosco",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/IUMBysQvAE4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-31T10:30:00Z"
-        },
         {
           "id": "-9LwQhMNKQM",
           "title": "7:30 Mass, Rosary, 9AM Mass. St. John Bosco, Confessor. III. Saturday, January 31, 2026.",
