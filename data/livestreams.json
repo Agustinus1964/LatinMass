@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T14:21:07.857Z",
+  "lastUpdated": "2026-01-31T14:49:10.524Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MXBI2gkrgkc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Bosco, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/MXBI2gkrgkc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "-9LwQhMNKQM",
           "title": "7:30 Mass, Rosary, 9AM Mass. St. John Bosco, Confessor. III. Saturday, January 31, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,13 +64,13 @@
           "scheduledTime": null
         },
         {
-          "id": "H8PSZ4XYBbc",
-          "title": "Santo Sacrificio de La Misa, San Juan Bosco, confesor. 31 de enero de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/H8PSZ4XYBbc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "6GhofiT_tW8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/6GhofiT_tW8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T14:58:00Z"
         },
         {
           "id": "wSH-mTpJMPI",
