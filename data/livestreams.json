@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T16:23:49.003Z",
+  "lastUpdated": "2026-01-31T16:52:56.988Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/f4dPQ02wx60/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T15:00:00Z"
+        },
+        {
+          "id": "no5o9GsHGLE",
+          "title": "Vesper und Sakramentsandacht -  Septuagesima - 01. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/no5o9GsHGLE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-9LwQhMNKQM",
-          "title": "7:30 Mass, Rosary, 9AM Mass. St. John Bosco, Confessor. III. Saturday, January 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-9LwQhMNKQM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wSH-mTpJMPI",
           "title": "8am — Septuagesima",
@@ -152,6 +152,24 @@
           "thumbnail": "https://i.ytimg.com/vi/htUDPZNw5Yo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T15:45:00Z"
+        },
+        {
+          "id": "fEgMGR7isBw",
+          "title": "SEPTUAGESIMA SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/fEgMGR7isBw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T16:30:00Z"
+        },
+        {
+          "id": "5ohImORnoQE",
+          "title": "Premières vêpres de la fête de la Chandeleur - SENEX PUERUM PORTABAT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5ohImORnoQE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T16:45:00Z"
         }
       ]
     }
