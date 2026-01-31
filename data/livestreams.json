@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-31T06:50:13.592Z",
+  "lastUpdated": "2026-01-31T07:25:51.249Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "c9qs1JVxM9A",
-          "title": "Hl. Messe - hl. Johannes Bosco - 31. Januar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/c9qs1JVxM9A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GcsnJTh0AjU",
           "title": "Saint John Bosco, Confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/GcsnJTh0AjU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-31T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7fSNLw6pGjA",
