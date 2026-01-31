@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T15:20:20.663Z",
+  "lastUpdated": "2026-01-31T15:46:02.493Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,42 @@
           "thumbnail": "https://i.ytimg.com/vi/YlfZgQf5cOg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T12:00:00Z"
+        },
+        {
+          "id": "w5CeaFxsHMY",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Septuagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/w5CeaFxsHMY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T13:00:00Z"
+        },
+        {
+          "id": "zzSzNzIxNiM",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Septuagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zzSzNzIxNiM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T15:00:00Z"
+        },
+        {
+          "id": "py5rjUbBZqU",
+          "title": "10:30AM Sung Mass. Septuagesima Sunday. II. February 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/py5rjUbBZqU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T15:30:00Z"
+        },
+        {
+          "id": "htUDPZNw5Yo",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/htUDPZNw5Yo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T15:45:00Z"
         }
       ]
     }
