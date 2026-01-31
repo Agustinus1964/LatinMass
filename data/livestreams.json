@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-31T08:54:00.679Z",
+  "lastUpdated": "2026-01-31T09:25:04.614Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "QH6Ec1aDVeg",
+          "title": "FSSPX Antwerpen - 31/01 H. JOHANNES BOSCO",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/QH6Ec1aDVeg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7fSNLw6pGjA",
           "title": "Sat. Jan. 31, 2026    -     St. John Bosco,    Confessor",
@@ -30,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xYNogm3M0po/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T08:30:00Z"
+        },
+        {
+          "id": "pigcBWopE8I",
+          "title": "Domenica di Settuagesima - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/pigcBWopE8I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T09:25:00Z"
         }
       ]
     },
@@ -37,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "WjRVQPmqNb0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WjRVQPmqNb0/mqdefault_live.jpg",
+          "id": "uYQCJo9hfUk",
+          "title": "Laudes e Missa Rezada de São João Bosco",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/uYQCJo9hfUk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
