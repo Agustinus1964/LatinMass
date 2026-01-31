@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T08:26:16.980Z",
+  "lastUpdated": "2026-01-31T08:54:00.679Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HlOySwxYGtQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T01:30:00Z"
+        },
+        {
+          "id": "xYNogm3M0po",
+          "title": "Amt - Septuagesima - 01. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/xYNogm3M0po/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T08:30:00Z"
         }
       ]
     },
