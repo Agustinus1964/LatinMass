@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-01-31T12:40:17.505Z",
+  "lastUpdated": "2026-01-31T13:38:35.526Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rpgKikQ-kLw",
-          "title": "Pontifical Low Mass - St. John Bosco, Confessor - 1/31/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/rpgKikQ-kLw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7fSNLw6pGjA",
           "title": "Sat. Jan. 31, 2026    -     St. John Bosco,    Confessor",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/7fSNLw6pGjA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-31T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HlOySwxYGtQ",
@@ -69,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/-9LwQhMNKQM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4fghdd6hMAY",
-          "title": "Saturday 7 AM Traditional Catholic Mass 01/31/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/4fghdd6hMAY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
