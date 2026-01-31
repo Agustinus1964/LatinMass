@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T10:20:57.376Z",
+  "lastUpdated": "2026-01-31T10:50:00.206Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,15 +51,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/qve93VwgCM8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fVbsDdy28Gw",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/fVbsDdy28Gw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Zu2ocNeX7o4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T10:00:00Z"
+        },
+        {
+          "id": "oVObtNBJPQA",
+          "title": "Sunday 1st February 2026: Septuagesima Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/oVObtNBJPQA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T10:30:00Z"
         }
       ]
     }
