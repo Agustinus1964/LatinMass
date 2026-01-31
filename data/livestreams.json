@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T19:40:51.034Z",
+  "lastUpdated": "2026-01-31T20:21:40.766Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "d5MGNqM19ZU",
-          "title": "Santo Sacrificio de La Misa, XV AÑOS ABRIL. 31 de enero de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/d5MGNqM19ZU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wSH-mTpJMPI",
           "title": "8am — Septuagesima",
