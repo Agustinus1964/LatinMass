@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T17:48:07.989Z",
+  "lastUpdated": "2026-01-31T18:27:29.781Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/no5o9GsHGLE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T16:30:00Z"
+        },
+        {
+          "id": "4WroJozCY2A",
+          "title": "Septuagesima Sunday | February 1st",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/4WroJozCY2A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T18:00:00Z"
         }
       ]
     },
