@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-01-31T09:25:04.614Z",
+  "lastUpdated": "2026-01-31T09:49:57.445Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QH6Ec1aDVeg",
-          "title": "FSSPX Antwerpen - 31/01 H. JOHANNES BOSCO",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/QH6Ec1aDVeg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7fSNLw6pGjA",
           "title": "Sat. Jan. 31, 2026    -     St. John Bosco,    Confessor",
@@ -64,15 +55,6 @@
           "scheduledTime": null
         },
         {
-          "id": "fVbsDdy28Gw",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/fVbsDdy28Gw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-01-31T10:00:00Z"
-        },
-        {
           "id": "IUMBysQvAE4",
           "title": "Saturday 31st January 2026: Saint John Bosco",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -98,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/MXBI2gkrgkc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T14:00:00Z"
+        },
+        {
+          "id": "wSH-mTpJMPI",
+          "title": "8am — Septuagesima",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wSH-mTpJMPI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T08:00:00Z"
+        },
+        {
+          "id": "H0fF5vrOUOU",
+          "title": "9:30am —  4th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/H0fF5vrOUOU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T09:30:00Z"
         }
       ]
     }
