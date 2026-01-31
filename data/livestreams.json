@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T16:52:56.988Z",
+  "lastUpdated": "2026-01-31T17:20:50.831Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -170,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5ohImORnoQE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T16:45:00Z"
+        },
+        {
+          "id": "Qu3vvn0U3c0",
+          "title": "Vespers and Benediction — Septuagesima",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Qu3vvn0U3c0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T17:00:00Z"
         }
       ]
     }
