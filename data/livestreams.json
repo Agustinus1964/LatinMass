@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-01-30T23:47:41.624Z",
+  "lastUpdated": "2026-01-31T01:44:46.179Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "V2avop2kC8Y",
+          "title": "Compline - 1/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/V2avop2kC8Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "c9qs1JVxM9A",
           "title": "Hl. Messe - hl. Johannes Bosco - 31. Januar 2026",
@@ -21,30 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/7fSNLw6pGjA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T13:00:00Z"
+        },
+        {
+          "id": "HlOySwxYGtQ",
+          "title": "Sung Mass - Septuagesima Sunday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/HlOySwxYGtQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T01:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5Kf8lZD24cY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Martina, Virgin and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/5Kf8lZD24cY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "g09hUtZHcyY",
-          "title": "Divine Office, 6PM Mass, Holy Hour. St. Martina, Virgin & Martyr. III. Friday, January 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/g09hUtZHcyY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WjRVQPmqNb0",
           "title": "Sainte messe en semaine",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-9LwQhMNKQM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-01-31T12:30:00Z"
+        },
+        {
+          "id": "MXBI2gkrgkc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Bosco, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/MXBI2gkrgkc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-01-31T14:00:00Z"
         }
       ]
     }
