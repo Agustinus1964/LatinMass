@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-01-31T09:49:57.445Z",
+  "lastUpdated": "2026-01-31T10:20:57.376Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,11 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uYQCJo9hfUk",
-          "title": "Laudes e Missa Rezada de São João Bosco",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/uYQCJo9hfUk/mqdefault_live.jpg",
+          "id": "qve93VwgCM8",
+          "title": "Friday 30th January 2026: Saint Martina",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qve93VwgCM8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fVbsDdy28Gw",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/fVbsDdy28Gw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/H0fF5vrOUOU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T09:30:00Z"
+        },
+        {
+          "id": "Zu2ocNeX7o4",
+          "title": "Sainte messe du dimanche de la Septuagésime - CIRCUMDEDERUNT ME",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Zu2ocNeX7o4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T10:00:00Z"
         }
       ]
     }
