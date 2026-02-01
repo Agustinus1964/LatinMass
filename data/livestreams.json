@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-02-01T13:40:33.731Z",
+  "lastUpdated": "2026-02-01T14:23:16.539Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lzFjtHKhsSo",
+          "title": "SEPTUAGESIMA SUNDAY",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/lzFjtHKhsSo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "LplN1vQbTxM",
+          "title": "Setuagesima Sunday",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/LplN1vQbTxM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ngc-kGy1eC8",
+          "title": "FSSPX Antwerpen - 01/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ngc-kGy1eC8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "no5o9GsHGLE",
           "title": "Vesper und Sakramentsandacht -  Septuagesima - 01. Februar 2026",
@@ -37,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "w5CeaFxsHMY",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Septuagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/w5CeaFxsHMY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YlfZgQf5cOg",
-          "title": "7AM Mass, Rosary, 8:30AM Mass. Septuagesima Sunday. II. February 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/YlfZgQf5cOg/mqdefault_live.jpg",
+          "id": "BPOn85pS2gc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/BPOn85pS2gc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -60,6 +78,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/O_AGwnaCNQ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3rP6ZR0YSbg",
+          "title": "Santa Misa Dominical. 1 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/3rP6ZR0YSbg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
