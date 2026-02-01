@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T08:28:35.485Z",
+  "lastUpdated": "2026-02-01T08:58:18.240Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wSH-mTpJMPI",
-          "title": "8am — Septuagesima",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wSH-mTpJMPI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "H0fF5vrOUOU",
           "title": "9:30am —  4th Sunday in Ordinary Time",
