@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-01T19:01:55.917Z",
+  "lastUpdated": "2026-02-01T19:43:43.463Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4WroJozCY2A",
-          "title": "Septuagesima Sunday | February 1st",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/4WroJozCY2A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "gdq52YnPSas",
           "title": "The Purification of the Blessed Virgin Mary",
@@ -54,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-cSdLdY-NXA",
-          "title": "Perseverance Through Trials",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/-cSdLdY-NXA/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "j9fkJP7wSLE",
-          "title": "Sunday 1:30 PM Catholic Mass 02/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/j9fkJP7wSLE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fZnCUICy9vU",
           "title": "Santa Misa Dominical. 1 de Febrero 2026.",
