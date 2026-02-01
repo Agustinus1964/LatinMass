@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T16:54:20.859Z",
+  "lastUpdated": "2026-02-01T17:21:42.391Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/8Y9-TtBOxUQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "py5rjUbBZqU",
-          "title": "10:30AM Sung Mass. Septuagesima Sunday. II. February 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/py5rjUbBZqU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
