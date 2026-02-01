@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T07:36:52.231Z",
+  "lastUpdated": "2026-02-01T08:28:35.485Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/xYNogm3M0po/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pigcBWopE8I",
@@ -60,8 +60,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/wSH-mTpJMPI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "H0fF5vrOUOU",
