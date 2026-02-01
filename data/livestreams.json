@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T11:18:56.297Z",
+  "lastUpdated": "2026-02-01T11:43:20.678Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,20 +46,20 @@
           "scheduledTime": null
         },
         {
+          "id": "YlfZgQf5cOg",
+          "title": "7AM Mass, Rosary, 8:30AM Mass. Septuagesima Sunday. II. February 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/YlfZgQf5cOg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "4f-DPFqGItU",
           "title": "11am — 4th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/4f-DPFqGItU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Zu2ocNeX7o4",
-          "title": "Sainte messe du dimanche de la Septuagésime - CIRCUMDEDERUNT ME",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Zu2ocNeX7o4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rZVYy6lYEkQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "oVObtNBJPQA",
-          "title": "Sunday 1st February 2026: Septuagesima Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/oVObtNBJPQA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T10:30:00Z"
-        },
-        {
-          "id": "YlfZgQf5cOg",
-          "title": "7AM Mass, Rosary, 8:30AM Mass. Septuagesima Sunday. II. February 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/YlfZgQf5cOg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T12:00:00Z"
         },
         {
           "id": "w5CeaFxsHMY",
