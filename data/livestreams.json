@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-01T22:20:27.642Z",
+  "lastUpdated": "2026-02-01T22:50:28.727Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GJYq--dFEoo",
-          "title": "Simple II Vespers - Septuagesima Sunday - 2/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/GJYq--dFEoo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "gdq52YnPSas",
           "title": "The Purification of the Blessed Virgin Mary",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LXN-AwgpEdI",
-          "title": "Domingo da Septuagésima, missa rezada e ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/LXN-AwgpEdI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uEjBOsLLpVs",
           "title": "7AM Mass & Divine Office. Purification of the Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
