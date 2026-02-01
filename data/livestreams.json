@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-01T21:44:52.047Z",
+  "lastUpdated": "2026-02-01T22:20:27.642Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "GJYq--dFEoo",
+          "title": "Simple II Vespers - Septuagesima Sunday - 2/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/GJYq--dFEoo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "gdq52YnPSas",
           "title": "The Purification of the Blessed Virgin Mary",
@@ -71,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/daLV74Hu5L8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-02T18:00:00Z"
+        },
+        {
+          "id": "VlJQRpwu8yQ",
+          "title": "Divine Office & 6PM Sung Mass. Purification of Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/VlJQRpwu8yQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T22:00:00Z"
         }
       ]
     }
