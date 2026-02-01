@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T22:50:28.727Z",
+  "lastUpdated": "2026-02-01T23:21:15.586Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vPwSgQkW_A0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-02T17:25:00Z"
+        },
+        {
+          "id": "HQwf88lwn4g",
+          "title": "Mon. Feb. 2, 2026    -    Purification of the Blessed Virgin Mary,  Candlemas",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/HQwf88lwn4g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T23:00:00Z"
         }
       ]
     },
@@ -60,6 +69,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/daLV74Hu5L8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T18:00:00Z"
+        },
+        {
+          "id": "RK_YP0m1LaU",
+          "title": "Sainte messe de la fête de la Chandeleur - SUSCEPIMUS DEUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/RK_YP0m1LaU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-02T18:00:00Z"
         },
