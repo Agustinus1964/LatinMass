@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T18:29:55.326Z",
+  "lastUpdated": "2026-02-01T19:01:55.917Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "-cSdLdY-NXA",
+          "title": "Perseverance Through Trials",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/-cSdLdY-NXA/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "j9fkJP7wSLE",
           "title": "Sunday 1:30 PM Catholic Mass 02/01/2026",
           "channel": "St. Benedict Parish",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fZnCUICy9vU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "-cSdLdY-NXA",
-          "title": "Perseverance Through Trials",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/-cSdLdY-NXA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T19:00:00Z"
         },
         {
           "id": "uEjBOsLLpVs",
