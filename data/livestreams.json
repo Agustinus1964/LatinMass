@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T14:51:34.498Z",
+  "lastUpdated": "2026-02-01T15:21:25.269Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,11 +32,11 @@
           "scheduledTime": null
         },
         {
-          "id": "ngc-kGy1eC8",
-          "title": "FSSPX Antwerpen - 01/02 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ngc-kGy1eC8/mqdefault_live.jpg",
+          "id": "f4dPQ02wx60",
+          "title": "Sun. Feb. 1, 2026    -    Septuagesima Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/f4dPQ02wx60/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,11 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BPOn85pS2gc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/BPOn85pS2gc/mqdefault_live.jpg",
+          "id": "zzSzNzIxNiM",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Septuagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zzSzNzIxNiM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "py5rjUbBZqU",
+          "title": "10:30AM Sung Mass. Septuagesima Sunday. II. February 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/py5rjUbBZqU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,20 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "zzSzNzIxNiM",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Septuagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/zzSzNzIxNiM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T15:00:00Z"
-        },
-        {
-          "id": "py5rjUbBZqU",
-          "title": "10:30AM Sung Mass. Septuagesima Sunday. II. February 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/py5rjUbBZqU/mqdefault_live.jpg",
+          "id": "nieYqtBMYvA",
+          "title": "Septuagesima Sunday / Dimanche de la Septuagésime",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/nieYqtBMYvA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T15:30:00Z"
         },
