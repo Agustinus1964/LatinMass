@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T15:47:09.294Z",
+  "lastUpdated": "2026-02-01T16:25:42.008Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,15 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "lzFjtHKhsSo",
-          "title": "SEPTUAGESIMA SUNDAY",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/lzFjtHKhsSo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "LplN1vQbTxM",
           "title": "Setuagesima Sunday",
           "channel": "SSPX Florida",
@@ -32,22 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "f4dPQ02wx60",
-          "title": "Sun. Feb. 1, 2026    -    Septuagesima Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/f4dPQ02wx60/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "N5fV1afOeys",
           "title": "Septuagesima Sunday, Febuary 1, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/N5fV1afOeys/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T15:45:09Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "no5o9GsHGLE",
@@ -55,8 +37,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/no5o9GsHGLE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4WroJozCY2A",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_du2sJcqK1g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-02T12:15:00Z"
+        },
+        {
+          "id": "2vVlWo0Tg60",
+          "title": "Purification of the B.V.M, Candlemas | February 2nd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/2vVlWo0Tg60/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T16:00:00Z"
         }
       ]
     },
@@ -91,11 +82,38 @@
           "scheduledTime": null
         },
         {
+          "id": "8Y9-TtBOxUQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/8Y9-TtBOxUQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "py5rjUbBZqU",
           "title": "10:30AM Sung Mass. Septuagesima Sunday. II. February 1, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/py5rjUbBZqU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fEgMGR7isBw",
+          "title": "SEPTUAGESIMA SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/fEgMGR7isBw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "y2evdZxLc5g",
+          "title": "Sunday 11 AM Sung Mass 2026-02-01",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/y2evdZxLc5g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,15 +143,6 @@
           "thumbnail": "https://i.ytimg.com/vi/htUDPZNw5Yo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "fEgMGR7isBw",
-          "title": "SEPTUAGESIMA SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/fEgMGR7isBw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T16:30:00Z"
         },
         {
           "id": "5ohImORnoQE",
