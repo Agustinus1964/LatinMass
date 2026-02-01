@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-01T14:23:16.539Z",
+  "lastUpdated": "2026-02-01T14:51:34.498Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-ZctHip_DWQ",
+          "title": "Solemn High Mass - Septuagesima Sunday - 2/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-ZctHip_DWQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "lzFjtHKhsSo",
           "title": "SEPTUAGESIMA SUNDAY",
@@ -73,29 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "O_AGwnaCNQ8",
-          "title": "Sunday 8:30 AM Catholic Mass for 02/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/O_AGwnaCNQ8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3rP6ZR0YSbg",
           "title": "Santa Misa Dominical. 1 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/3rP6ZR0YSbg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Wcfubw0oloA",
-          "title": "Domingo da Septuagésima, missa catada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Wcfubw0oloA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
