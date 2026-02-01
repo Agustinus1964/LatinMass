@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-01-31T23:44:23.625Z",
+  "lastUpdated": "2026-02-01T02:03:31.802Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "YyGTRc0G3Bg",
-          "title": "SEPTUAGESIMA SUNDAY - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/YyGTRc0G3Bg/mqdefault_live.jpg",
+          "id": "-aZ8CgyxVWU",
+          "title": "Compline - 1/31/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-aZ8CgyxVWU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/HlOySwxYGtQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T01:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "xYNogm3M0po",
