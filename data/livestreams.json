@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T10:52:21.894Z",
+  "lastUpdated": "2026-02-01T11:18:56.297Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
           "scheduledTime": null
         },
         {
+          "id": "4f-DPFqGItU",
+          "title": "11am — 4th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4f-DPFqGItU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Zu2ocNeX7o4",
           "title": "Sainte messe du dimanche de la Septuagésime - CIRCUMDEDERUNT ME",
           "channel": "Ite Missa Est",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oVObtNBJPQA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T10:30:00Z"
-        },
-        {
-          "id": "4f-DPFqGItU",
-          "title": "11am — 4th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4f-DPFqGItU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T11:00:00Z"
         },
         {
           "id": "YlfZgQf5cOg",
