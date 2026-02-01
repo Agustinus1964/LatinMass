@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T17:50:08.178Z",
+  "lastUpdated": "2026-02-01T18:29:55.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/4WroJozCY2A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "gdq52YnPSas",
+          "title": "The Purification of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/gdq52YnPSas/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-01T18:00:00Z"
+          "scheduledTime": "2026-02-02T07:15:00Z"
         },
         {
           "id": "_du2sJcqK1g",
@@ -46,29 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "fEgMGR7isBw",
-          "title": "SEPTUAGESIMA SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/fEgMGR7isBw/mqdefault_live.jpg",
+          "id": "j9fkJP7wSLE",
+          "title": "Sunday 1:30 PM Catholic Mass 02/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/j9fkJP7wSLE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "3rP6ZR0YSbg",
+          "id": "fZnCUICy9vU",
           "title": "Santa Misa Dominical. 1 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/3rP6ZR0YSbg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Qu3vvn0U3c0",
-          "title": "Vespers and Benediction — Septuagesima",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Qu3vvn0U3c0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/fZnCUICy9vU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uEjBOsLLpVs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-02T12:00:00Z"
+        },
+        {
+          "id": "daLV74Hu5L8",
+          "title": "Solemn Mass for Candlemas",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/daLV74Hu5L8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T18:00:00Z"
         }
       ]
     }
