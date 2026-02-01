@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-01T16:25:42.008Z",
+  "lastUpdated": "2026-02-01T16:54:20.859Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-ZctHip_DWQ",
-          "title": "Solemn High Mass - Septuagesima Sunday - 2/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-ZctHip_DWQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LplN1vQbTxM",
-          "title": "Setuagesima Sunday",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/LplN1vQbTxM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "N5fV1afOeys",
           "title": "Septuagesima Sunday, Febuary 1, 2026",
@@ -72,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zzSzNzIxNiM",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Septuagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/zzSzNzIxNiM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "8Y9-TtBOxUQ",
           "title": "Mass",
@@ -136,31 +109,22 @@
           "scheduledTime": null
         },
         {
-          "id": "htUDPZNw5Yo",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/htUDPZNw5Yo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5ohImORnoQE",
-          "title": "Premières vêpres de la fête de la Chandeleur - SENEX PUERUM PORTABAT",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5ohImORnoQE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T16:45:00Z"
-        },
-        {
           "id": "Qu3vvn0U3c0",
           "title": "Vespers and Benediction — Septuagesima",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Qu3vvn0U3c0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5ohImORnoQE",
+          "title": "[E] Premières vêpres de la fête de la Chandeleur - SENEX PUERUM PORTABAT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5ohImORnoQE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-cSdLdY-NXA",
