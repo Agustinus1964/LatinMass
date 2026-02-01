@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-01T02:03:31.802Z",
+  "lastUpdated": "2026-02-01T04:39:20.930Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-aZ8CgyxVWU",
-          "title": "Compline - 1/31/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-aZ8CgyxVWU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HlOySwxYGtQ",
-          "title": "Sung Mass - Septuagesima Sunday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/HlOySwxYGtQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "xYNogm3M0po",
           "title": "Amt - Septuagesima - 01. Februar 2026",
@@ -188,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qu3vvn0U3c0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T17:00:00Z"
+        },
+        {
+          "id": "-cSdLdY-NXA",
+          "title": "Perseverance Through Trials",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/-cSdLdY-NXA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T19:00:00Z"
         }
       ]
     }
