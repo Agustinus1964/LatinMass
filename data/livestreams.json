@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T15:21:25.269Z",
+  "lastUpdated": "2026-02-01T15:47:09.294Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/f4dPQ02wx60/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "N5fV1afOeys",
+          "title": "Septuagesima Sunday, Febuary 1, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/N5fV1afOeys/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-01T15:45:09Z"
         },
         {
           "id": "no5o9GsHGLE",
@@ -91,6 +100,15 @@
           "scheduledTime": null
         },
         {
+          "id": "nieYqtBMYvA",
+          "title": "Septuagesima Sunday / Dimanche de la Septuagésime",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/nieYqtBMYvA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "3rP6ZR0YSbg",
           "title": "Santa Misa Dominical. 1 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -100,22 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "nieYqtBMYvA",
-          "title": "Septuagesima Sunday / Dimanche de la Septuagésime",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/nieYqtBMYvA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T15:30:00Z"
-        },
-        {
           "id": "htUDPZNw5Yo",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/htUDPZNw5Yo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fEgMGR7isBw",
