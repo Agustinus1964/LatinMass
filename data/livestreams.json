@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-01T11:43:20.678Z",
+  "lastUpdated": "2026-02-01T12:42:01.491Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Zod2pRf64Yg",
+          "title": "Low Mass - Septuagesima Sunday - 2/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Zod2pRf64Yg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "y3oRpmp_prI",
           "title": "Septuagesima Sunday",
@@ -30,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/4WroJozCY2A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T18:00:00Z"
+        },
+        {
+          "id": "_du2sJcqK1g",
+          "title": "Mon. Feb. 2, 2026    -    Purification of the Blessed Virgin Mary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/_du2sJcqK1g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IUMBysQvAE4",
-          "title": "Saturday 31st January 2026: Saint John Bosco",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/IUMBysQvAE4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YlfZgQf5cOg",
           "title": "7AM Mass, Rosary, 8:30AM Mass. Septuagesima Sunday. II. February 1, 2026.",
@@ -55,20 +64,20 @@
           "scheduledTime": null
         },
         {
-          "id": "4f-DPFqGItU",
-          "title": "11am — 4th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4f-DPFqGItU/mqdefault_live.jpg",
+          "id": "MTi3QuvBPzk",
+          "title": "Sunday 7 AM Catholic Mass for 02/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/MTi3QuvBPzk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "rZVYy6lYEkQ",
-          "title": "Domingo da Septuagésima, missa rezada",
+          "id": "Wcfubw0oloA",
+          "title": "Domingo da Septuagésima, missa catada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rZVYy6lYEkQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Wcfubw0oloA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-cSdLdY-NXA/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-01T19:00:00Z"
+        },
+        {
+          "id": "uEjBOsLLpVs",
+          "title": "7AM Mass & Divine Office. Purification of the Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/uEjBOsLLpVs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T12:00:00Z"
         }
       ]
     }
