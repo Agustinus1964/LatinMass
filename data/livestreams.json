@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-01T09:37:01.408Z",
+  "lastUpdated": "2026-02-01T10:22:10.827Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/HWQXLYe1s7I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xYNogm3M0po",
-          "title": "Amt - Septuagesima - 01. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xYNogm3M0po/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "H0fF5vrOUOU",
-          "title": "9:30am —  4th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/H0fF5vrOUOU/mqdefault_live.jpg",
+          "id": "IUMBysQvAE4",
+          "title": "Saturday 31st January 2026: Saint John Bosco",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/IUMBysQvAE4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Zu2ocNeX7o4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-01T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oVObtNBJPQA",
