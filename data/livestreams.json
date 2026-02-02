@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-02-02T18:38:39.939Z",
+  "lastUpdated": "2026-02-02T23:25:26.137Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YW-yqdqJICc",
-          "title": "FSSPX Antwerpen - 02/02 FEEST van MARIA-LICHTMIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/YW-yqdqJICc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gKlJ_iRD_8U",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/gKlJ_iRD_8U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vPwSgQkW_A0",
-          "title": "Presentazione di Gesù e Purificazione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/vPwSgQkW_A0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HQwf88lwn4g",
           "title": "Mon. Feb. 2, 2026    -    Purification of the Blessed Virgin Mary,  Candlemas",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/HQwf88lwn4g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-02T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "K6DQqYVFENo",
@@ -50,6 +23,15 @@
           "scheduledTime": "2026-02-03T00:00:00Z"
         },
         {
+          "id": "5BVynLTUofw",
+          "title": "Hl. Messe - hl. Blasius - 03. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/5BVynLTUofw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-03T06:15:00Z"
+        },
+        {
           "id": "HR6LbnIakGw",
           "title": "Tue. Feb. 3, 2026    -    Ferial Day    -    St. Blaise,       Blessing of the Throats",
           "channel": "Transfiguration Church SSPX",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HR6LbnIakGw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-03T12:15:00Z"
+        },
+        {
+          "id": "INes7UBNho8",
+          "title": "Rosenkranz und hl. Messe - hl. Blasius - 03. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/INes7UBNho8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-03T17:00:00Z"
         }
       ]
     },
@@ -64,49 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rknGaijg_-E",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/rknGaijg_-E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oVObtNBJPQA",
-          "title": "Monday 2nd February 2026: Candlemas",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/oVObtNBJPQA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "daLV74Hu5L8",
-          "title": "Solemn Mass for Candlemas",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/daLV74Hu5L8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RK_YP0m1LaU",
-          "title": "Sainte messe de la fête de la Chandeleur - SUSCEPIMUS DEUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/RK_YP0m1LaU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "VlJQRpwu8yQ",
           "title": "6PM Sung Mass. Purification of Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/VlJQRpwu8yQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-02T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Jj7UvxvdO_o",
+          "title": "Terço E Missa Cantada Da Purificação",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Jj7UvxvdO_o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "AtfzDa5d1Eo",
@@ -170,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/C95Ivd9P_Lw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-03T18:00:00Z"
+        },
+        {
+          "id": "mFSUczdq3Io",
+          "title": "6PM Mass. Feria. IV.  St. Blaise Bishop & Martyr. IV. Tuesday, February 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/mFSUczdq3Io/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-03T23:00:00Z"
         }
       ]
     }
