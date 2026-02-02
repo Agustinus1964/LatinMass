@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-02T08:37:12.753Z",
+  "lastUpdated": "2026-02-02T09:41:47.144Z",
   "videos": [
+    {
+      "id": "zzcWjyAOg7w",
+      "title": "Holy Rosary & Benediction 2/1/26",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/zzcWjyAOg7w/mqdefault.jpg",
+      "publishedAt": "2026-02-02T09:03:02Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "9oAqMTKsOjM",
       "title": "Feb 2 – Candlemas",
@@ -70,16 +80,6 @@
       "thumbnail": "https://i.ytimg.com/vi/r6CL0CKV3Fo/mqdefault.jpg",
       "publishedAt": "2026-02-01T20:56:01Z",
       "category": "Faith And Tradition"
-    },
-    {
-      "id": "zzcWjyAOg7w",
-      "title": "Holy Rosary & Benediction 2/1/26",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/zzcWjyAOg7w/mqdefault_live.jpg",
-      "publishedAt": "2026-02-01T19:12:02Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "fVGHV6htLSU",
@@ -510,16 +510,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xoH6sLXfXa4/mqdefault.jpg",
       "publishedAt": "2026-01-26T14:48:32Z",
       "category": "Ascent of Mount Carmel"
-    },
-    {
-      "id": "FTVfSp8Gvq8",
-      "title": "SINODALITÀ E VIGILE ATTESA",
-      "channel": "Archbishop Carlo Maria Viganò",
-      "channelId": "UCvYHKJLeyR4w49CEPxEKgpg",
-      "description": "SINODALITÀ E VIGILE ATTESA - Il Vaticano II “sicuro ed efficace” \n\nIntervento dell’Arcivescovo Carlo Maria Viganò a margine del Concistoro straordinario - 18 Gennaio 2026\n\n♦️Testo completo: https://ex",
-      "thumbnail": "https://i.ytimg.com/vi/FTVfSp8Gvq8/mqdefault.jpg",
-      "publishedAt": "2026-01-19T08:39:41Z",
-      "category": "Abp. Vigano"
     }
   ]
 }
