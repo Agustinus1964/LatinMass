@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T08:39:04.294Z",
+  "lastUpdated": "2026-02-02T09:43:26.365Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "AZS1nf7mZNY",
+          "title": "Purificação de Nossa Senhora, missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/AZS1nf7mZNY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "uEjBOsLLpVs",
           "title": "7AM Mass & Divine Office. Purification of the Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uEjBOsLLpVs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-02T12:00:00Z"
+        },
+        {
+          "id": "oVObtNBJPQA",
+          "title": "Monday 2nd February 2026: Candlemas",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/oVObtNBJPQA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-02T18:00:00Z"
         },
         {
           "id": "daLV74Hu5L8",
