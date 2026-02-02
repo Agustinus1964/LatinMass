@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-02T06:58:34.922Z",
+  "lastUpdated": "2026-02-02T07:54:13.161Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UhbMy77PPlM",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UhbMy77PPlM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gdq52YnPSas",
-          "title": "The Purification of the Blessed Virgin Mary",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/gdq52YnPSas/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-02T07:15:00Z"
-        },
         {
           "id": "_du2sJcqK1g",
           "title": "Mon. Feb. 2, 2026    -    Purification of the Blessed Virgin Mary",
