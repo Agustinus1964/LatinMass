@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-02T09:43:26.365Z",
+  "lastUpdated": "2026-02-02T10:40:52.172Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AZS1nf7mZNY",
-          "title": "Purificação de Nossa Senhora, missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/AZS1nf7mZNY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uEjBOsLLpVs",
           "title": "7AM Mass & Divine Office. Purification of the Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
