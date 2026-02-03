@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-02T23:51:54.054Z",
+  "lastUpdated": "2026-02-03T01:54:28.804Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "HQwf88lwn4g",
-          "title": "Mon. Feb. 2, 2026    -    Purification of the Blessed Virgin Mary,  Candlemas",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/HQwf88lwn4g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K6DQqYVFENo",
-          "title": "Benediction - 2/2/26",
+          "id": "QZItaOvlaQg",
+          "title": "Compline - 2/2/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/K6DQqYVFENo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-03T00:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/QZItaOvlaQg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5BVynLTUofw",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/INes7UBNho8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-03T17:00:00Z"
+        },
+        {
+          "id": "RpfD-NHhcRQ",
+          "title": "Rosary - 2/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/RpfD-NHhcRQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-04T00:00:00Z"
         }
       ]
     },
@@ -55,49 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "AtfzDa5d1Eo",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Purification of the Blessed Virgin Mary aka Candlemas)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/AtfzDa5d1Eo/mqdefault_live.jpg",
+          "id": "pKfc1qqrAgA",
+          "title": "Purification",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/pKfc1qqrAgA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "VlJQRpwu8yQ",
-          "title": "6PM Sung Mass. Purification of Blessed Virgin Mary (Candlemas). II. Monday, 2-2-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/VlJQRpwu8yQ/mqdefault_live.jpg",
+          "id": "cBt_eIZn0Bs",
+          "title": "Santo Sacrificio de La Misa, Purificación de La Santísima Virgen, 2 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/cBt_eIZn0Bs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Jj7UvxvdO_o",
-          "title": "Terço E Missa Cantada Da Purificação",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Jj7UvxvdO_o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DLd42xFzkOs",
-          "title": "7 PM Candlemass for Monday 2 Feb 2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/DLd42xFzkOs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-02T23:55:00Z"
-        },
-        {
-          "id": "gkE2Ccx2W3Q",
-          "title": "CANDLEMAS: PURIFICATION OF THE BLESSED VIRGIN MARY , 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/gkE2Ccx2W3Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-03T00:00:00Z"
         },
         {
           "id": "nbWxjkR3Cy0",
@@ -107,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nbWxjkR3Cy0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-03T12:00:00Z"
+        },
+        {
+          "id": "WlgTnnXSFTk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Blaise, Bishop and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/WlgTnnXSFTk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-03T12:30:00Z"
         },
         {
           "id": "frGfmDBuDV0",
