@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-03T16:11:07.763Z",
+  "lastUpdated": "2026-02-03T17:27:05.526Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YbG38xdNzvQ",
-          "title": "FSSPX Antwerpen - 03/02 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/YbG38xdNzvQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "INes7UBNho8",
           "title": "Rosenkranz und hl. Messe - hl. Blasius - 03. Februar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/INes7UBNho8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RpfD-NHhcRQ",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oiqu18Dk6fs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-04T12:15:00Z"
+        },
+        {
+          "id": "01Hj6Td2Nds",
+          "title": "Rosenkranz und hl. Messe - hl. Andreas Corsini - 04. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/01Hj6Td2Nds/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-04T17:00:00Z"
         }
       ]
     },
