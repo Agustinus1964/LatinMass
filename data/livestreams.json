@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-03T12:53:29.282Z",
+  "lastUpdated": "2026-02-03T14:02:59.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rZ-7YC_lfDE",
-          "title": "Low Mass - Feria - 2/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/rZ-7YC_lfDE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HR6LbnIakGw",
-          "title": "Tue. Feb. 3, 2026    -    Ferial Day    -    St. Blaise,       Blessing of the Throats",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/HR6LbnIakGw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "INes7UBNho8",
           "title": "Rosenkranz und hl. Messe - hl. Blasius - 03. Februar 2026",
@@ -64,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "WlgTnnXSFTk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Blaise, Bishop and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/WlgTnnXSFTk/mqdefault_live.jpg",
+          "id": "a2Y2u9Tp8ko",
+          "title": "Santo Sacrificio de La Misa, Feria de la infraoctava de Septuagésima. 03  de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/a2Y2u9Tp8ko/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7BAFZjQplfI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-04T12:00:00Z"
+        },
+        {
+          "id": "4v9Oy9-aU4s",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Andrew Corsini, Bishop and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/4v9Oy9-aU4s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-04T12:30:00Z"
         }
       ]
     }
