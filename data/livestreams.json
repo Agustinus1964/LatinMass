@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T05:33:11.595Z",
+  "lastUpdated": "2026-02-03T06:45:58.654Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/5BVynLTUofw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "212m0A-sbg0",
+          "title": "Saint Blaise, bishop and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/212m0A-sbg0/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-03T06:15:00Z"
+          "scheduledTime": "2026-02-03T07:15:00Z"
         },
         {
           "id": "HR6LbnIakGw",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RpfD-NHhcRQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-04T00:00:00Z"
+        },
+        {
+          "id": "6qtexT0P5E8",
+          "title": "Hl. Messe - hl. Andreas Corsini - 04. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6qtexT0P5E8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-04T06:15:00Z"
         }
       ]
     },
