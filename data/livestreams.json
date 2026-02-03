@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T08:32:54.885Z",
+  "lastUpdated": "2026-02-03T09:37:41.795Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mxFNGVVJwiw",
+          "title": "Prima e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/mxFNGVVJwiw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nbWxjkR3Cy0",
           "title": "7AM Mass. Feria. IV.  St. Blaise Bishop & Martyr. IV. Tuesday, February 3, 2026.",
