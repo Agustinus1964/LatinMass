@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-03T06:45:58.654Z",
+  "lastUpdated": "2026-02-03T07:40:02.226Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5BVynLTUofw",
-          "title": "Hl. Messe - hl. Blasius - 03. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/5BVynLTUofw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "212m0A-sbg0",
           "title": "Saint Blaise, bishop and martyr",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/212m0A-sbg0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-03T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HR6LbnIakGw",
