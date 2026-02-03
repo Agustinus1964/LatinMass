@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-03T15:09:11.898Z",
+  "lastUpdated": "2026-02-03T16:11:07.763Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "YbG38xdNzvQ",
+          "title": "FSSPX Antwerpen - 03/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/YbG38xdNzvQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "INes7UBNho8",
           "title": "Rosenkranz und hl. Messe - hl. Blasius - 03. Februar 2026",
