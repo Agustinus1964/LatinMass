@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-03T22:57:03.592Z",
+  "lastUpdated": "2026-02-03T23:29:58.412Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/GB3eEMvq1BQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-04T18:00:00Z"
+        },
+        {
+          "id": "Y-dfJTbFm6E",
+          "title": "6PM Mass. St. Andrew Corsini, Bishop & Confessor. III. Wednesday, February 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Y-dfJTbFm6E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-04T23:00:00Z"
         }
       ]
     }
