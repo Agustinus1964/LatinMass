@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-03T19:58:36.873Z",
+  "lastUpdated": "2026-02-03T20:45:55.242Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5PERr6jCOwk",
+          "title": "Mass of St Andrew Corsini - 4.2.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/5PERr6jCOwk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "RpfD-NHhcRQ",
           "title": "Rosary - 2/3/26",
