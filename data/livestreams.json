@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-04T17:13:26.732Z",
+  "lastUpdated": "2026-02-04T18:07:39.274Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "01Hj6Td2Nds",
-          "title": "Rosenkranz und hl. Messe - hl. Andreas Corsini - 04. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/01Hj6Td2Nds/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T17:00:00Z"
-        },
         {
           "id": "7b3O_8aynHg",
           "title": "Hl. Messe - hl. Agatha - 05. Februar 2026",
@@ -55,13 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "eOB0ahwsmQA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/eOB0ahwsmQA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "JswMwNhmV_Q",
           "title": "Wednesday 4th February 2026: Saint Andrew",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/JswMwNhmV_Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YfrNCNraoYs",
@@ -69,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/YfrNCNraoYs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GB3eEMvq1BQ",
@@ -78,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/GB3eEMvq1BQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Y-dfJTbFm6E",
@@ -107,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/n5cU3bxRUdw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T12:00:00Z"
+        },
+        {
+          "id": "BW7CRQyj27I",
+          "title": "11AM Requiem (Funeral) Mass for Barbara Johnson. Thursday, February 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/BW7CRQyj27I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T16:00:00Z"
+        },
+        {
+          "id": "JLoWUB-RawA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/JLoWUB-RawA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T18:00:00Z"
+        },
+        {
+          "id": "WjftQip2hYU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WjftQip2hYU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T18:00:00Z"
         }
       ]
     }
