@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-04T06:10:07.856Z",
+  "lastUpdated": "2026-02-04T07:26:27.851Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6qtexT0P5E8",
-          "title": "Hl. Messe - hl. Andreas Corsini - 04. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6qtexT0P5E8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T06:15:00Z"
-        },
         {
           "id": "yzPP1ERAgkI",
           "title": "Saint Andrew Corsini, bishop and confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/yzPP1ERAgkI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oiqu18Dk6fs",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/01Hj6Td2Nds/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-04T17:00:00Z"
+        },
+        {
+          "id": "7b3O_8aynHg",
+          "title": "Hl. Messe - hl. Agatha - 05. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7b3O_8aynHg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T06:15:00Z"
         }
       ]
     },
