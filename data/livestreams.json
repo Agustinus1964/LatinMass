@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T15:07:11.142Z",
+  "lastUpdated": "2026-02-04T16:06:57.065Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z3eFID4ssKM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T12:15:00Z"
+        },
+        {
+          "id": "JSOeuvV_E60",
+          "title": "Sakramentsandacht und hl. Messe - hl. Agatha - 05. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/JSOeuvV_E60/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T16:00:00Z"
         }
       ]
     },
