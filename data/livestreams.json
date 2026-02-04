@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-04T07:26:27.851Z",
+  "lastUpdated": "2026-02-04T08:01:43.364Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yzPP1ERAgkI",
-          "title": "Saint Andrew Corsini, bishop and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/yzPP1ERAgkI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oiqu18Dk6fs",
           "title": "Wed. Feb. 4, 2026    -    St. Andrew Corsini,    Bishop and Confessor",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Y-dfJTbFm6E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-04T23:00:00Z"
+        },
+        {
+          "id": "LhDNlWytxtY",
+          "title": "Thursday 5th February 2026: First Thursday (Votive Mass of Our Lord Eternal and High Priest)",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/LhDNlWytxtY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T08:00:00Z"
         }
       ]
     }
