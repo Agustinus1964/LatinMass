@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-04T11:53:24.927Z",
+  "lastUpdated": "2026-02-04T12:52:59.874Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oiqu18Dk6fs",
-          "title": "Wed. Feb. 4, 2026    -    St. Andrew Corsini,    Bishop and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/oiqu18Dk6fs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T12:15:00Z"
-        },
         {
           "id": "01Hj6Td2Nds",
           "title": "Rosenkranz und hl. Messe - hl. Andreas Corsini - 04. Februar 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7b3O_8aynHg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T06:15:00Z"
+        },
+        {
+          "id": "z3eFID4ssKM",
+          "title": "Thu. Feb. 5, 2026    -    St. Agatha,      Virgin and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/z3eFID4ssKM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T12:15:00Z"
         }
       ]
     },
@@ -37,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7BAFZjQplfI",
-          "title": "7AM Mass. St. Andrew Corsini, Bishop & Confessor. III. Wednesday, February 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/7BAFZjQplfI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "4v9Oy9-aU4s",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Andrew Corsini, Bishop and Confessor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/4v9Oy9-aU4s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-04T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JswMwNhmV_Q",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LhDNlWytxtY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T08:00:00Z"
+        },
+        {
+          "id": "n5cU3bxRUdw",
+          "title": "7AM Mass. St. Agatha, Virgin & Martyr. III. Thursday, February 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/n5cU3bxRUdw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T12:00:00Z"
         }
       ]
     }
