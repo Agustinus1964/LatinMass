@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-04T16:06:57.065Z",
+  "lastUpdated": "2026-02-04T17:13:26.732Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7b3O_8aynHg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T06:15:00Z"
+        },
+        {
+          "id": "IAOpmIgQdpM",
+          "title": "Saint Agatha, virgin and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/IAOpmIgQdpM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-05T07:15:00Z"
         },
         {
           "id": "z3eFID4ssKM",
