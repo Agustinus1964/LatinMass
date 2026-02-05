@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T15:09:05.088Z",
+  "lastUpdated": "2026-02-05T16:05:45.247Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/JSOeuvV_E60/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-05T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OzSXH4fKvoc",
@@ -60,8 +60,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/BW7CRQyj27I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-05T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JLoWUB-RawA",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OtLn648htdU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-06T12:55:00Z"
+        },
+        {
+          "id": "XvPL51KpO2g",
+          "title": "11AM Mass. First Friday. St. Titus, Bishop & Confessor. III. February 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/XvPL51KpO2g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-06T16:00:00Z"
         }
       ]
     }
