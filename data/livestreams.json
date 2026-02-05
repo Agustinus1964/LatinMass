@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T12:55:36.096Z",
+  "lastUpdated": "2026-02-05T14:04:47.538Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "FIsb-5VywS4",
-          "title": "Live Stream Holy Mass from Cleveland (1st Thursday—Our Lord Jesus Christ, Supreme & Eternal Priest)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/FIsb-5VywS4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VKomV0KEvVM",
-          "title": "Thursday 8 AM Traditional Catholic Mass 02/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/VKomV0KEvVM/mqdefault_live.jpg",
+          "id": "UKeU0NL-As8",
+          "title": "Santo Sacrificio de La Misa, San Felipe de Jesús y Santa Águeda, Mártires, 5 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/UKeU0NL-As8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WjftQip2hYU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T18:00:00Z"
+        },
+        {
+          "id": "j3o0tl67SF4",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/j3o0tl67SF4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-06T12:30:00Z"
         },
         {
           "id": "OtLn648htdU",
