@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-05T18:09:23.241Z",
+  "lastUpdated": "2026-02-05T19:11:52.892Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pp53HWakb8k",
-          "title": "FSSPX Antwerpen - 05/02 H. AGATHA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pp53HWakb8k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JSOeuvV_E60",
-          "title": "Sakramentsandacht und hl. Messe - hl. Agatha - 05. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/JSOeuvV_E60/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OzSXH4fKvoc",
           "title": "Hl. Messe - Herz-Jesu Freitag - 06. Februar 2026",
@@ -63,33 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sbi7SvvDSmU",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/sbi7SvvDSmU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JLoWUB-RawA",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/JLoWUB-RawA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WjftQip2hYU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WjftQip2hYU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j3o0tl67SF4",
           "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
