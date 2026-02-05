@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-05T20:33:00.676Z",
+  "lastUpdated": "2026-02-05T21:24:46.147Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Phaz-GFtrX4",
-          "title": "Mass of St Titus - 6.2.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/Phaz-GFtrX4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OzSXH4fKvoc",
           "title": "Hl. Messe - Herz-Jesu Freitag - 06. Februar 2026",
@@ -54,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "GY4CwxtrLPo",
+          "title": "Terço, missa e adoração",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/GY4CwxtrLPo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "j3o0tl67SF4",
           "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
