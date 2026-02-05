@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T05:35:59.043Z",
+  "lastUpdated": "2026-02-05T06:55:07.050Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/7b3O_8aynHg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-05T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IAOpmIgQdpM",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JSOeuvV_E60/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-05T16:00:00Z"
+        },
+        {
+          "id": "OzSXH4fKvoc",
+          "title": "Hl. Messe - Herz-Jesu Freitag - 06. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/OzSXH4fKvoc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-06T06:15:00Z"
         }
       ]
     },
