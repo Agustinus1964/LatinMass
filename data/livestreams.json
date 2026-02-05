@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-05T06:55:07.050Z",
+  "lastUpdated": "2026-02-05T07:48:13.552Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "IAOpmIgQdpM",
+          "title": "Saint Agatha, virgin and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/IAOpmIgQdpM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7b3O_8aynHg",
           "title": "Hl. Messe - hl. Agatha - 05. Februar 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/7b3O_8aynHg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "IAOpmIgQdpM",
-          "title": "Saint Agatha, virgin and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/IAOpmIgQdpM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-05T07:15:00Z"
         },
         {
           "id": "z3eFID4ssKM",
