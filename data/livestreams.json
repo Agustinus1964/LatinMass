@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-05T14:04:47.538Z",
+  "lastUpdated": "2026-02-05T15:09:05.088Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Xd5yCvWqe9Q",
+          "title": "FSSPX Antwerpen - 05/02 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Xd5yCvWqe9Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "JSOeuvV_E60",
           "title": "Sakramentsandacht und hl. Messe - hl. Agatha - 05. Februar 2026",
@@ -23,6 +32,15 @@
           "scheduledTime": "2026-02-06T06:15:00Z"
         },
         {
+          "id": "pNUCmTlIaOI",
+          "title": "Saint Titus, bishop and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/pNUCmTlIaOI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-06T07:15:00Z"
+        },
+        {
           "id": "5HcYniTmrFo",
           "title": "Fri. Feb. 6, 2026    -    St. Titus,   Bishop and Confessor     -     (First Friday)",
           "channel": "Transfiguration Church SSPX",
@@ -36,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UKeU0NL-As8",
-          "title": "Santo Sacrificio de La Misa, San Felipe de Jesús y Santa Águeda, Mártires, 5 de Febrero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/UKeU0NL-As8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BW7CRQyj27I",
           "title": "11AM Requiem (Funeral) Mass for Barbara Johnson. Thursday, February 5, 2026.",
