@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-05T19:55:58.456Z",
+  "lastUpdated": "2026-02-05T20:33:00.676Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Phaz-GFtrX4",
+          "title": "Mass of St Titus - 6.2.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/Phaz-GFtrX4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "OzSXH4fKvoc",
           "title": "Hl. Messe - Herz-Jesu Freitag - 06. Februar 2026",
