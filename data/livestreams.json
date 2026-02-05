@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-05T07:48:13.552Z",
+  "lastUpdated": "2026-02-05T08:38:32.153Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IAOpmIgQdpM",
-          "title": "Saint Agatha, virgin and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/IAOpmIgQdpM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7b3O_8aynHg",
-          "title": "Hl. Messe - hl. Agatha - 05. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7b3O_8aynHg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "z3eFID4ssKM",
           "title": "Thu. Feb. 5, 2026    -    St. Agatha,      Virgin and Martyr",
@@ -60,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/LhDNlWytxtY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-05T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "n5cU3bxRUdw",
