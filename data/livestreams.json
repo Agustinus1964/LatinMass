@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-06T18:04:28.519Z",
+  "lastUpdated": "2026-02-06T19:12:09.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kmELTBnIdh8",
-          "title": "FSSPX Antwerpen - 06/02 H. AMANDUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/kmELTBnIdh8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "U2c221w2qus",
           "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 06. Februar 2026",
@@ -51,24 +42,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/of-10yP3vJw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MSHS27YhB1U",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/MSHS27YhB1U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jeZeE2R55eI",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/jeZeE2R55eI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
