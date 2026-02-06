@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T09:39:13.363Z",
+  "lastUpdated": "2026-02-06T10:35:59.381Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-WZENztpKDE",
-          "title": "Prima e Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-WZENztpKDE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j3o0tl67SF4",
           "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
@@ -125,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Fj6v2BeMVVk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-07T08:30:00Z"
+        },
+        {
+          "id": "hL_FTY7TnPs",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/hL_FTY7TnPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T10:00:00Z"
+        },
+        {
+          "id": "F8d1SuHg0Xg",
+          "title": "Saturday 7th February 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/F8d1SuHg0Xg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T10:30:00Z"
         }
       ]
     }
