@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-06T12:53:03.999Z",
+  "lastUpdated": "2026-02-06T14:00:12.308Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5HcYniTmrFo",
-          "title": "Fri. Feb. 6, 2026    -    St. Titus,   Bishop and Confessor     -     (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5HcYniTmrFo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "U2c221w2qus",
           "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 06. Februar 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ARXXM5RpAyA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-07T06:15:00Z"
+        },
+        {
+          "id": "ym_Io8kxFo4",
+          "title": "Sat. Feb. 7, 2026     -     St. Romuald    -   (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ym_Io8kxFo4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T14:00:00Z"
         }
       ]
     },
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "j3o0tl67SF4",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/j3o0tl67SF4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T12:30:00Z"
-        },
-        {
           "id": "OtLn648htdU",
           "title": "First Friday 8 AM Mass and Devotions 02/06/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/OtLn648htdU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T12:55:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "q0-dwVlRc_0",
+          "title": "Santo Sacrificio de La Misa, San Tito, Obispo, 6 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/q0-dwVlRc_0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XvPL51KpO2g",
@@ -143,6 +143,24 @@
           "thumbnail": "https://i.ytimg.com/vi/GcpJXsOf_SQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-07T11:55:00Z"
+        },
+        {
+          "id": "EJTiC4SwF-Y",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 02/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/EJTiC4SwF-Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T13:55:00Z"
+        },
+        {
+          "id": "FftrgqsQHms",
+          "title": "9AM Mass. First Saturday. St. Romuald, Abbot. III. Immaculate Heart of Mary. III. February 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/FftrgqsQHms/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T14:00:00Z"
         }
       ]
     }
