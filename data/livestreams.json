@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T08:37:31.537Z",
+  "lastUpdated": "2026-02-06T09:39:13.363Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-WZENztpKDE",
+          "title": "Prima e Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-WZENztpKDE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "j3o0tl67SF4",
           "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
