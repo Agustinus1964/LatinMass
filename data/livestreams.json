@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-06T06:50:35.459Z",
+  "lastUpdated": "2026-02-06T07:43:23.984Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OzSXH4fKvoc",
-          "title": "Hl. Messe - Herz-Jesu Freitag - 06. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/OzSXH4fKvoc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pNUCmTlIaOI",
           "title": "Saint Titus, bishop and confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/pNUCmTlIaOI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5HcYniTmrFo",
