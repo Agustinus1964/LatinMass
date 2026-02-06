@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-06T19:12:09.002Z",
+  "lastUpdated": "2026-02-06T19:54:23.417Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "U2c221w2qus",
-          "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 06. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/U2c221w2qus/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ARXXM5RpAyA",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. Februar 2026",
@@ -36,15 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "of-10yP3vJw",
-          "title": "Friday 6th February 2026: First Friday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/of-10yP3vJw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BeOx1Atyio0",
           "title": "6PM Mass & Holy Hour. First Friday. St. Titus, Bishop & Confessor. III. February 6, 2026.",
