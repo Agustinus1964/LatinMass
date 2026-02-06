@@ -1,32 +1,22 @@
 {
-  "lastUpdated": "2026-02-06T23:22:30.253Z",
+  "lastUpdated": "2026-02-06T23:48:53.694Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "ARXXM5RpAyA",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ARXXM5RpAyA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T06:15:00Z"
-        },
-        {
-          "id": "ym_Io8kxFo4",
-          "title": "Sat. Feb. 7, 2026     -     St. Romuald    -   (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ym_Io8kxFo4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T14:00:00Z"
-        }
-      ]
+      "videos": []
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "j3o0tl67SF4",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Hert of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/j3o0tl67SF4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BeOx1Atyio0",
           "title": "6PM Mass & Holy Hour. First Friday. St. Titus, Bishop & Confessor. III. February 6, 2026.",
