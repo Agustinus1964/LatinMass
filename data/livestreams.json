@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-06T16:03:06.110Z",
+  "lastUpdated": "2026-02-06T17:10:30.244Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "329ARqHt_84",
+          "title": "FSSPX Antwerpen - 06/02 H. Uur met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/329ARqHt_84/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "U2c221w2qus",
           "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 06. Februar 2026",
@@ -36,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XvPL51KpO2g",
-          "title": "11AM Mass. First Friday. St. Titus, Bishop & Confessor. III. February 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/XvPL51KpO2g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "of-10yP3vJw",
           "title": "Friday 6th February 2026: First Friday",
