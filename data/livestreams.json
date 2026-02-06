@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-05T23:47:40.585Z",
+  "lastUpdated": "2026-02-06T01:50:03.089Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BeOx1Atyio0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-06T23:00:00Z"
+        },
+        {
+          "id": "6ch9LpJx4aI",
+          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 02/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6ch9LpJx4aI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-06T23:55:00Z"
         }
       ]
     }
