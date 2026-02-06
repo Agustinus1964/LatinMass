@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-06T11:30:45.903Z",
+  "lastUpdated": "2026-02-06T12:53:03.999Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "w8tKomYZpVM",
-          "title": "Sung Mass - First Friday (Sacred Heart)",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/w8tKomYZpVM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5HcYniTmrFo",
           "title": "Fri. Feb. 6, 2026    -    St. Titus,   Bishop and Confessor     -     (First Friday)",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/5HcYniTmrFo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "U2c221w2qus",
@@ -143,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/F8d1SuHg0Xg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-07T10:30:00Z"
+        },
+        {
+          "id": "GcpJXsOf_SQ",
+          "title": "First Saturday 7 AM Mass02/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/GcpJXsOf_SQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T11:55:00Z"
         }
       ]
     }
