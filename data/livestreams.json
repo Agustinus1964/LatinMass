@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-06T17:10:30.244Z",
+  "lastUpdated": "2026-02-06T18:04:28.519Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "329ARqHt_84",
-          "title": "FSSPX Antwerpen - 06/02 H. Uur met Rozenhoedje",
+          "id": "kmELTBnIdh8",
+          "title": "FSSPX Antwerpen - 06/02 H. AMANDUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/329ARqHt_84/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kmELTBnIdh8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/U2c221w2qus/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T17:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ARXXM5RpAyA",
@@ -51,8 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/of-10yP3vJw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MSHS27YhB1U",
@@ -60,8 +60,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/MSHS27YhB1U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jeZeE2R55eI",
@@ -69,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/jeZeE2R55eI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BeOx1Atyio0",
