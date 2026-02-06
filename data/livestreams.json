@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-06T05:34:29.075Z",
+  "lastUpdated": "2026-02-06T06:50:35.459Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/OzSXH4fKvoc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-06T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pNUCmTlIaOI",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/U2c221w2qus/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-06T17:30:00Z"
+        },
+        {
+          "id": "ARXXM5RpAyA",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ARXXM5RpAyA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-07T06:15:00Z"
         }
       ]
     },
