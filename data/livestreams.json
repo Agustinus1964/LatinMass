@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T20:51:32.145Z",
+  "lastUpdated": "2026-02-07T21:22:40.626Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/im9-Xt25M70/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:00:00Z"
-        },
-        {
-          "id": "74rQY2xZITw",
-          "title": "Sun. Feb. 8, 2026    -     Sexagesima Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/74rQY2xZITw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T15:00:00Z"
         },
