@@ -1,33 +1,15 @@
 {
-  "lastUpdated": "2026-02-07T07:50:35.524Z",
+  "lastUpdated": "2026-02-07T08:27:43.846Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tc5wkYmRe0I",
-          "title": "Saint Romuald, Abbot",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/tc5wkYmRe0I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "4-sDceO3MFY",
           "title": "FSSPX Antwerpen - 07/02 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/4-sDceO3MFY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ARXXM5RpAyA",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ARXXM5RpAyA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -60,8 +42,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Fj6v2BeMVVk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hL_FTY7TnPs",
