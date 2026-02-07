@@ -1,16 +1,6 @@
 {
-  "lastUpdated": "2026-02-07T14:51:32.067Z",
+  "lastUpdated": "2026-02-07T15:19:41.313Z",
   "videos": [
-    {
-      "id": "K9--AoFr5rU",
-      "title": "Malachi Martin Part II: The Eternal War",
-      "channel": "The Fatima Center",
-      "channelId": "UCe87sEM3AUxAyhl5RhCpkcA",
-      "description": "The Message of Fatima is the ONLY solution to the grave crises facing the Church and the world today. LEARN MORE about Our Lady's Message: » www.fatima.org\n\nPlease help us spread the saving Message of",
-      "thumbnail": "https://i.ytimg.com/vi/K9--AoFr5rU/mqdefault.jpg",
-      "publishedAt": "2026-02-07T14:00:30Z",
-      "category": "Fatima Center"
-    },
     {
       "id": "x_iy7zY1dYk",
       "title": "Holy Mass 2/6/26 - Feast of St. Titus, First Friday",
@@ -30,6 +20,16 @@
       "thumbnail": "https://i.ytimg.com/vi/7BQD6qcikT4/mqdefault.jpg",
       "publishedAt": "2026-02-07T13:00:20Z",
       "category": "Return To Tradition"
+    },
+    {
+      "id": "bPOLbwwcHW4",
+      "title": "Holy Mass 2/7/26 - Feast of St. Romuald, First Saturday",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/bPOLbwwcHW4/mqdefault_live.jpg",
+      "publishedAt": "2026-02-07T12:51:50Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "MI3EsnGcQfc",
@@ -250,16 +250,6 @@
       "thumbnail": "https://i.ytimg.com/vi/g2rqD9twTPc/mqdefault.jpg",
       "publishedAt": "2026-02-06T15:35:18Z",
       "category": "Pelican Plus"
-    },
-    {
-      "id": "ROhkQdQTqj8",
-      "title": "Holy Hour of Reparation 2/5/26",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/ROhkQdQTqj8/mqdefault.jpg",
-      "publishedAt": "2026-02-06T14:26:03Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "CMtoAhlWUx0",
@@ -530,6 +520,16 @@
       "thumbnail": "https://i.ytimg.com/vi/mNvNG3fqON0/mqdefault.jpg",
       "publishedAt": "2026-02-01T14:01:13Z",
       "category": "Sensus Fidelium"
+    },
+    {
+      "id": "UemHAGXrpj8",
+      "title": "This Didn’t Break the Church — It Neutralized It #catholicdevotion #history #podcasts",
+      "channel": "The Fatima Center",
+      "channelId": "UCe87sEM3AUxAyhl5RhCpkcA",
+      "description": "The Message of Fatima is the ONLY solution to the grave crises facing the Church and the world today. LEARN MORE about Our Lady's Message: » www.fatima.org\n\nPlease help us spread the saving Message of",
+      "thumbnail": "https://i.ytimg.com/vi/UemHAGXrpj8/mqdefault.jpg",
+      "publishedAt": "2026-02-01T11:01:01Z",
+      "category": "Fatima Center"
     },
     {
       "id": "q6k_M8MBaHk",
