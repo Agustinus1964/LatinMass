@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T11:19:17.674Z",
+  "lastUpdated": "2026-02-07T11:43:51.901Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "F8d1SuHg0Xg",
-          "title": "Saturday 7th February 2026: First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/F8d1SuHg0Xg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GcpJXsOf_SQ",
           "title": "First Saturday 7 AM Mass02/07/2026",
