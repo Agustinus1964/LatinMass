@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T13:41:26.279Z",
+  "lastUpdated": "2026-02-07T14:23:16.622Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/ym_Io8kxFo4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "kWlMi_VWW4M",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "f8zuwgUYRCA",
+          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/f8zuwgUYRCA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "FftrgqsQHms",
           "title": "9AM Mass. First Saturday. St. Romuald, Abbot. III. Immaculate Heart of Mary. III. February 7, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,13 +73,22 @@
           "scheduledTime": null
         },
         {
-          "id": "f8zuwgUYRCA",
-          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/f8zuwgUYRCA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T14:00:00Z"
+          "id": "EJTiC4SwF-Y",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 02/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/EJTiC4SwF-Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AvctYsnv1oE",
+          "title": "Santo Sacrificio de La Misa, San Tito, Obispo, 6 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/AvctYsnv1oE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HGS6kANe-JY",
