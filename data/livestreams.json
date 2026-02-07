@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T12:41:04.934Z",
+  "lastUpdated": "2026-02-07T13:41:26.279Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "GcpJXsOf_SQ",
-          "title": "First Saturday 7 AM Mass02/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/GcpJXsOf_SQ/mqdefault_live.jpg",
+          "id": "FftrgqsQHms",
+          "title": "9AM Mass. First Saturday. St. Romuald, Abbot. III. Immaculate Heart of Mary. III. February 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/FftrgqsQHms/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "EJTiC4SwF-Y",
-          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 02/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/EJTiC4SwF-Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T13:55:00Z"
         },
         {
           "id": "f8zuwgUYRCA",
@@ -78,15 +69,6 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/f8zuwgUYRCA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T14:00:00Z"
-        },
-        {
-          "id": "FftrgqsQHms",
-          "title": "9AM Mass. First Saturday. St. Romuald, Abbot. III. Immaculate Heart of Mary. III. February 7, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/FftrgqsQHms/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-07T14:00:00Z"
         },
