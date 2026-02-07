@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T11:43:51.901Z",
+  "lastUpdated": "2026-02-07T12:41:04.934Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EnTfOHgXN6w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T11:00:00Z"
+        },
+        {
+          "id": "kTXwOTnKRYM",
+          "title": "Low Mass - Sexagesima Sunday - 2/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kTXwOTnKRYM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T12:20:00Z"
         }
       ]
     },
@@ -51,8 +60,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/GcpJXsOf_SQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EJTiC4SwF-Y",
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RdD-IpoYVXM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T11:00:00Z"
+        },
+        {
+          "id": "C_p2fwFX8iM",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Sexagesima Sunday. II. February 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/C_p2fwFX8iM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T12:00:00Z"
         }
       ]
     }
