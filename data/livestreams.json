@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T08:27:43.846Z",
+  "lastUpdated": "2026-02-07T08:57:55.511Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/kWlMi_VWW4M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T01:30:00Z"
+        },
+        {
+          "id": "KjmhbweaPfA",
+          "title": "Amt - Sexagesima - 08. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/KjmhbweaPfA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T08:30:00Z"
         }
       ]
     },
@@ -42,6 +51,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Fj6v2BeMVVk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "2euhQtfdp2E",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/2euhQtfdp2E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
