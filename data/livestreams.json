@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-07T08:57:55.511Z",
+  "lastUpdated": "2026-02-07T09:35:33.289Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "4-sDceO3MFY",
-          "title": "FSSPX Antwerpen - 07/02 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "id": "QNDCRYLbaXs",
+          "title": "FSSPX Antwerpen - 07/02 H. ROMUALDUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/4-sDceO3MFY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/QNDCRYLbaXs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Fj6v2BeMVVk",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Fj6v2BeMVVk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "2euhQtfdp2E",
           "title": "Prima e Missa Rezada",
           "channel": "Missa Tridentina em Brasília",
@@ -62,15 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2euhQtfdp2E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "hL_FTY7TnPs",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/hL_FTY7TnPs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-07T10:00:00Z"
         },
         {
           "id": "F8d1SuHg0Xg",
@@ -116,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/FftrgqsQHms/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-07T14:00:00Z"
+        },
+        {
+          "id": "HGS6kANe-JY",
+          "title": "8am — Sexagesima",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/HGS6kANe-JY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T08:00:00Z"
+        },
+        {
+          "id": "TqrM9hOK1tM",
+          "title": "9:30am —  5th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/TqrM9hOK1tM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T09:30:00Z"
         }
       ]
     }
