@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T10:51:54.691Z",
+  "lastUpdated": "2026-02-07T11:19:17.674Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KjmhbweaPfA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T08:30:00Z"
+        },
+        {
+          "id": "EnTfOHgXN6w",
+          "title": "Sexagesima Sunday",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/EnTfOHgXN6w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T11:00:00Z"
         }
       ]
     },
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AtuE1JbLnBE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T10:30:00Z"
+        },
+        {
+          "id": "RdD-IpoYVXM",
+          "title": "11am — 5th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/RdD-IpoYVXM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T11:00:00Z"
         }
       ]
     }
