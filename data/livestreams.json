@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T21:48:31.055Z",
+  "lastUpdated": "2026-02-07T22:22:04.496Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RNcDcqTxFeY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T18:00:00Z"
+        },
+        {
+          "id": "c2ddXD3SY9Y",
+          "title": "Simple II Vespers - Sexagesima Sunday - 2/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/c2ddXD3SY9Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T22:00:00Z"
         }
       ]
     },
