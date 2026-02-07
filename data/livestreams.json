@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-07T15:21:13.635Z",
+  "lastUpdated": "2026-02-07T15:47:53.975Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ym_Io8kxFo4",
-          "title": "Sat. Feb. 7, 2026     -     St. Romuald    -   (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ym_Io8kxFo4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "kWlMi_VWW4M",
           "title": "Sung Mass - Sexagesima Sunday",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/74rQY2xZITw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T15:00:00Z"
+        },
+        {
+          "id": "EDpSk5XU_d0",
+          "title": "Sexagesima Sunday,February 8, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/EDpSk5XU_d0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T15:45:38Z"
         }
       ]
     },
@@ -161,6 +161,24 @@
           "thumbnail": "https://i.ytimg.com/vi/QUCHsBFjB-0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T15:00:00Z"
+        },
+        {
+          "id": "5HKN0j4TTCY",
+          "title": "10:30AM Sung Mass. Sexagesima Sunday. II. February 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/5HKN0j4TTCY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T15:30:00Z"
+        },
+        {
+          "id": "uTbnZ6QpkBU",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/uTbnZ6QpkBU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T15:45:00Z"
         }
       ]
     }
