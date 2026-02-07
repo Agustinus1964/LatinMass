@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-02-07T07:07:03.349Z",
+  "lastUpdated": "2026-02-07T07:50:35.524Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tc5wkYmRe0I",
+          "title": "Saint Romuald, Abbot",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/tc5wkYmRe0I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "4-sDceO3MFY",
+          "title": "FSSPX Antwerpen - 07/02 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/4-sDceO3MFY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ARXXM5RpAyA",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. Februar 2026",
