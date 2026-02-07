@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-07T15:47:53.975Z",
+  "lastUpdated": "2026-02-07T16:26:21.485Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,24 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CHXQWGPIx0Q",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/CHXQWGPIx0Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EJTiC4SwF-Y",
-          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 02/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/EJTiC4SwF-Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HGS6kANe-JY",
           "title": "8am — Sexagesima",
