@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T19:45:25.934Z",
+  "lastUpdated": "2026-02-08T20:23:12.526Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gnH5nMdqqoY",
+          "title": "St Cyril of Alexandria - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/gnH5nMdqqoY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4bg-hLcn7Fo",
           "title": "Hl. Messe - hl. Cyrillus - 09. Februar 2026",
@@ -36,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "01XqoTvuS2I",
-          "title": "Santo Sacrificio de La Misa, Domingo de Sexagésima, 8 de Febrero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/01XqoTvuS2I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Up1G8wWnmO0",
           "title": "Missa Rezada da Sexagésima e Oficio do Rosário",
