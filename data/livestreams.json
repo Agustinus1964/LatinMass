@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T16:57:00.932Z",
+  "lastUpdated": "2026-02-08T17:28:33.785Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/EDpSk5XU_d0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hbensOoqcqk",
-          "title": "Vesper und Sakramentsandacht - Sexagesima - 08. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/hbensOoqcqk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,15 +55,6 @@
           "scheduledTime": null
         },
         {
-          "id": "5HKN0j4TTCY",
-          "title": "10:30AM Sung Mass. Sexagesima Sunday. II. February 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/5HKN0j4TTCY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "L--0qFHE5oY",
           "title": "SEXAGESIMA SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -91,20 +73,20 @@
           "scheduledTime": null
         },
         {
-          "id": "oUBaESd6FBE",
-          "title": "Sexagesima Sunday / Dimanche de la sexagésime",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/oUBaESd6FBE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "_0j7kkeSb_s",
           "title": "Santa Misa, Dominical. 8 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/_0j7kkeSb_s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ad8zOMF1BXs",
+          "title": "Vespers and Benediction — Sexagesima",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ad8zOMF1BXs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gOOuZih-w2c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ad8zOMF1BXs",
-          "title": "Vespers and Benediction — Sexagesima",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ad8zOMF1BXs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T17:00:00Z"
         },
         {
           "id": "MRU0CRe2NUw",
