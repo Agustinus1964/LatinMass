@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-08T12:42:10.915Z",
+  "lastUpdated": "2026-02-08T13:41:47.753Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kTXwOTnKRYM",
-          "title": "Low Mass - Sexagesima Sunday - 2/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/kTXwOTnKRYM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "im9-Xt25M70",
           "title": "Solemn High Mass - Sexagesima Sunday - 2/8/26",
@@ -82,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "qES06tgTY8E",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Sexagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/qES06tgTY8E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "C_p2fwFX8iM",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Sexagesima Sunday. II. February 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -91,11 +91,11 @@
           "scheduledTime": null
         },
         {
-          "id": "WownK0PDIV0",
-          "title": "Sunday 7 AM Catholic Mass for 02/08/2026",
+          "id": "o0Lz-Q0RFg4",
+          "title": "Sunday 8:30 AM Catholic Mass for 02/08/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/WownK0PDIV0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/o0Lz-Q0RFg4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,15 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/R7oShGiUguE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "qES06tgTY8E",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Sexagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/qES06tgTY8E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T13:00:00Z"
         },
         {
           "id": "QUCHsBFjB-0",
