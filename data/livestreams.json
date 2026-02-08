@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-08T11:44:13.753Z",
+  "lastUpdated": "2026-02-08T12:42:10.915Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EnTfOHgXN6w",
-          "title": "Sexagesima Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/EnTfOHgXN6w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "kTXwOTnKRYM",
           "title": "Low Mass - Sexagesima Sunday - 2/8/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/kTXwOTnKRYM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T12:20:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "im9-Xt25M70",
@@ -75,21 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/CZTvEFaX-F8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-09T01:45:00Z"
+        },
+        {
+          "id": "470UEgOCo7E",
+          "title": "Mon. Feb. 9, 2026    -    St. Cyril of Alexandria,  Bishop, Confessor, and Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/470UEgOCo7E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-09T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AtuE1JbLnBE",
-          "title": "Sunday 8th February 2026: Sexagesima Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/AtuE1JbLnBE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "C_p2fwFX8iM",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Sexagesima Sunday. II. February 8, 2026.",
@@ -100,20 +91,20 @@
           "scheduledTime": null
         },
         {
-          "id": "RdD-IpoYVXM",
-          "title": "11am — 5th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/RdD-IpoYVXM/mqdefault_live.jpg",
+          "id": "WownK0PDIV0",
+          "title": "Sunday 7 AM Catholic Mass for 02/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/WownK0PDIV0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "g_UeTz3WZRg",
-          "title": "Domingo da Sexagésima - Missa Rezada",
+          "id": "R7oShGiUguE",
+          "title": "Domingo da Sexagésima - missa cantada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/g_UeTz3WZRg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/R7oShGiUguE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
