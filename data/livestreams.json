@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T13:41:47.753Z",
+  "lastUpdated": "2026-02-08T14:24:41.688Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JWzo9K_bMhk",
+          "title": "Sexagesima Sunday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/JWzo9K_bMhk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "im9-Xt25M70",
           "title": "Solemn High Mass - Sexagesima Sunday - 2/8/26",
@@ -73,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "qES06tgTY8E",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Sexagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/qES06tgTY8E/mqdefault_live.jpg",
+          "id": "YrGxmJbpWhI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/YrGxmJbpWhI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,6 +105,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/o0Lz-Q0RFg4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_0j7kkeSb_s",
+          "title": "Santa Misa, Dominical. 8 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/_0j7kkeSb_s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
