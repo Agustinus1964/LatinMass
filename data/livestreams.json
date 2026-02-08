@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T14:24:41.688Z",
+  "lastUpdated": "2026-02-08T14:52:40.745Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "im9-Xt25M70",
+          "title": "Solemn High Mass - Sexagesima Sunday - 2/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/im9-Xt25M70/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "JWzo9K_bMhk",
           "title": "Sexagesima Sunday - The Immaculata",
@@ -14,13 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "im9-Xt25M70",
-          "title": "Solemn High Mass - Sexagesima Sunday - 2/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/im9-Xt25M70/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:00:00Z"
+          "id": "se6BGBln-yA",
+          "title": "Sexagesima Sunday",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/se6BGBln-yA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EDpSk5XU_d0",
@@ -68,6 +77,15 @@
           "scheduledTime": "2026-02-09T01:45:00Z"
         },
         {
+          "id": "8qM1azCKdII",
+          "title": "Low Mass - St. Cyril, Bisop of Alexandria, Confessor & Doctor of the Church - 2/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8qM1azCKdII/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-09T12:15:00Z"
+        },
+        {
           "id": "470UEgOCo7E",
           "title": "Mon. Feb. 9, 2026    -    St. Cyril of Alexandria,  Bishop, Confessor, and Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
@@ -91,38 +109,11 @@
           "scheduledTime": null
         },
         {
-          "id": "C_p2fwFX8iM",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Sexagesima Sunday. II. February 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/C_p2fwFX8iM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "o0Lz-Q0RFg4",
-          "title": "Sunday 8:30 AM Catholic Mass for 02/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/o0Lz-Q0RFg4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "_0j7kkeSb_s",
           "title": "Santa Misa, Dominical. 8 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/_0j7kkeSb_s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "R7oShGiUguE",
-          "title": "Domingo da Sexagésima - missa cantada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/R7oShGiUguE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QUCHsBFjB-0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T15:00:00Z"
+        },
+        {
+          "id": "oUBaESd6FBE",
+          "title": "Sexagesima Sunday / Dimanche de la sexagésime",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/oUBaESd6FBE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T15:30:00Z"
         },
         {
           "id": "uTbnZ6QpkBU",
