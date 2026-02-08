@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T18:31:28.496Z",
+  "lastUpdated": "2026-02-08T19:22:19.475Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RNcDcqTxFeY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "4bg-hLcn7Fo",
+          "title": "Hl. Messe - hl. Cyrillus - 09. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4bg-hLcn7Fo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-09T06:15:00Z"
         },
         {
           "id": "8qM1azCKdII",
@@ -46,13 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "MRU0CRe2NUw",
-          "title": "Remorse of Conscience",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/MRU0CRe2NUw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T19:00:00Z"
+          "id": "01XqoTvuS2I",
+          "title": "Santo Sacrificio de La Misa, Domingo de Sexagésima, 8 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/01XqoTvuS2I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QmsPGPKocWY",
