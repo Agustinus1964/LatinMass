@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-02-08T07:54:21.713Z",
+  "lastUpdated": "2026-02-08T08:29:01.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bE3sUd7l9HY",
+          "title": "FSSPX Antwerpen - 08/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bE3sUd7l9HY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KjmhbweaPfA",
           "title": "Amt - Sexagesima - 08. Februar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/KjmhbweaPfA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EnTfOHgXN6w",
@@ -96,8 +105,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/HGS6kANe-JY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TqrM9hOK1tM",
