@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-08T02:31:29.873Z",
+  "lastUpdated": "2026-02-08T05:00:23.163Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kWlMi_VWW4M",
-          "title": "Sung Mass - Sexagesima Sunday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/kWlMi_VWW4M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KjmhbweaPfA",
           "title": "Amt - Sexagesima - 08. Februar 2026",
@@ -215,6 +206,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ad8zOMF1BXs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T17:00:00Z"
+        },
+        {
+          "id": "MRU0CRe2NUw",
+          "title": "Remorse of Conscience",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/MRU0CRe2NUw/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-08T19:00:00Z"
         }
       ]
     }
