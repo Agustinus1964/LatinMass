@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T08:58:54.155Z",
+  "lastUpdated": "2026-02-08T09:38:04.465Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "m_pK7tXhfdw",
+          "title": "FSSPX Antwerpen - 08/02 ZONDAG van SEXAGESIMA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/m_pK7tXhfdw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KjmhbweaPfA",
           "title": "Amt - Sexagesima - 08. Februar 2026",
@@ -14,13 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "m_pK7tXhfdw",
-          "title": "FSSPX Antwerpen - 08/02 ZONDAG van SEXAGESIMA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/m_pK7tXhfdw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T09:00:00Z"
+          "id": "r3Hnq9YdZ7M",
+          "title": "Domenica di Sessagesima - Santa Messa cantata FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/r3Hnq9YdZ7M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EnTfOHgXN6w",
@@ -105,8 +114,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/TqrM9hOK1tM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "U-uRX9gb2Mg",
@@ -136,15 +145,6 @@
           "scheduledTime": "2026-02-08T11:00:00Z"
         },
         {
-          "id": "C_p2fwFX8iM",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Sexagesima Sunday. II. February 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/C_p2fwFX8iM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T12:00:00Z"
-        },
-        {
           "id": "qES06tgTY8E",
           "title": "Live Stream Holy Mass (Low) from Cleveland USA (Sexagesima Sunday)",
           "channel": "Usus Antiquior",
@@ -161,15 +161,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QUCHsBFjB-0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-08T15:00:00Z"
-        },
-        {
-          "id": "5HKN0j4TTCY",
-          "title": "10:30AM Sung Mass. Sexagesima Sunday. II. February 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/5HKN0j4TTCY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:30:00Z"
         },
         {
           "id": "uTbnZ6QpkBU",
