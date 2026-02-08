@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-08T16:26:50.278Z",
+  "lastUpdated": "2026-02-08T16:57:00.932Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "im9-Xt25M70",
-          "title": "Solemn High Mass - Sexagesima Sunday - 2/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/im9-Xt25M70/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "EDpSk5XU_d0",
           "title": "Sexagesima Sunday,February 8, 2026",
@@ -28,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/hbensOoqcqk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RNcDcqTxFeY",
@@ -118,22 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "uTbnZ6QpkBU",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/uTbnZ6QpkBU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "gOOuZih-w2c",
           "title": "Secondes vêpres du dimanche de la Sexagésime - VOBIS DATUM EST",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/gOOuZih-w2c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T16:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ad8zOMF1BXs",
