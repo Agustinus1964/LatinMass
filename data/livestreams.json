@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T14:52:40.745Z",
+  "lastUpdated": "2026-02-08T15:22:49.486Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": null
         },
         {
+          "id": "74rQY2xZITw",
+          "title": "Sun. Feb. 8, 2026    -     Sexagesima Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/74rQY2xZITw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "EDpSk5XU_d0",
           "title": "Sexagesima Sunday,February 8, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
@@ -59,24 +68,6 @@
           "scheduledTime": "2026-02-08T18:00:00Z"
         },
         {
-          "id": "c2ddXD3SY9Y",
-          "title": "Simple II Vespers - Sexagesima Sunday - 2/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/c2ddXD3SY9Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T22:00:00Z"
-        },
-        {
-          "id": "CZTvEFaX-F8",
-          "title": "Compline - 2/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/CZTvEFaX-F8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-09T01:45:00Z"
-        },
-        {
           "id": "8qM1azCKdII",
           "title": "Low Mass - St. Cyril, Bisop of Alexandria, Confessor & Doctor of the Church - 2/9/26",
           "channel": "SSPX Seminary - USA",
@@ -100,11 +91,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YrGxmJbpWhI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/YrGxmJbpWhI/mqdefault_live.jpg",
+          "id": "QUCHsBFjB-0",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Sexagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/QUCHsBFjB-0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5HKN0j4TTCY",
+          "title": "10:30AM Sung Mass. Sexagesima Sunday. II. February 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/5HKN0j4TTCY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oUBaESd6FBE",
+          "title": "Sexagesima Sunday / Dimanche de la sexagésime",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/oUBaESd6FBE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,24 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_0j7kkeSb_s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "QUCHsBFjB-0",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Sexagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/QUCHsBFjB-0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:00:00Z"
-        },
-        {
-          "id": "oUBaESd6FBE",
-          "title": "Sexagesima Sunday / Dimanche de la sexagésime",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/oUBaESd6FBE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:30:00Z"
         },
         {
           "id": "uTbnZ6QpkBU",
