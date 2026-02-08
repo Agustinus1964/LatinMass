@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T10:54:14.501Z",
+  "lastUpdated": "2026-02-08T11:20:17.036Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/EnTfOHgXN6w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m_pK7tXhfdw",
-          "title": "FSSPX Antwerpen - 08/02 ZONDAG van SEXAGESIMA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/m_pK7tXhfdw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,6 +91,15 @@
           "scheduledTime": null
         },
         {
+          "id": "RdD-IpoYVXM",
+          "title": "11am — 5th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/RdD-IpoYVXM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "U-uRX9gb2Mg",
           "title": "Sainte messe du dimanche de la Sexagésime - EXSURGE QUARE OBDORMIS",
           "channel": "Ite Missa Est",
@@ -116,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/g_UeTz3WZRg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "RdD-IpoYVXM",
-          "title": "11am — 5th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/RdD-IpoYVXM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T11:00:00Z"
         },
         {
           "id": "qES06tgTY8E",
