@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T15:22:49.486Z",
+  "lastUpdated": "2026-02-08T15:49:30.616Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": null
         },
         {
+          "id": "EDpSk5XU_d0",
+          "title": "Sexagesima Sunday,February 8, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/EDpSk5XU_d0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "74rQY2xZITw",
           "title": "Sun. Feb. 8, 2026    -     Sexagesima Sunday",
           "channel": "Transfiguration Church SSPX",
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/74rQY2xZITw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "EDpSk5XU_d0",
-          "title": "Sexagesima Sunday,February 8, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/EDpSk5XU_d0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:45:38Z"
         },
         {
           "id": "hbensOoqcqk",
@@ -132,8 +132,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/uTbnZ6QpkBU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "WeSo95HFDzs",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/WeSo95HFDzs/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-08T15:45:00Z"
+          "scheduledTime": "2026-02-08T15:58:00Z"
         },
         {
           "id": "L--0qFHE5oY",
