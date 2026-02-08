@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-08T09:38:04.465Z",
+  "lastUpdated": "2026-02-08T10:22:53.788Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/m_pK7tXhfdw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KjmhbweaPfA",
-          "title": "Amt - Sexagesima - 08. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/KjmhbweaPfA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,11 +100,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TqrM9hOK1tM",
-          "title": "9:30am —  5th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/TqrM9hOK1tM/mqdefault_live.jpg",
+          "id": "AtuE1JbLnBE",
+          "title": "Sunday 8th February 2026: Sexagesima Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/AtuE1JbLnBE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,17 +114,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/U-uRX9gb2Mg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "AtuE1JbLnBE",
-          "title": "Sunday 8th February 2026: Sexagesima Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/AtuE1JbLnBE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-08T10:30:00Z"
+          "id": "g_UeTz3WZRg",
+          "title": "Domingo da Sexagésima - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/g_UeTz3WZRg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RdD-IpoYVXM",
