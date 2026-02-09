@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T13:02:06.651Z",
+  "lastUpdated": "2026-02-09T14:34:06.649Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/OH_R79oAwoU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-10T00:00:00Z"
-        },
-        {
-          "id": "CuINz3twj3c",
-          "title": "Compline - 2/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/CuINz3twj3c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-10T01:45:00Z"
         },
         {
           "id": "YiMaEPLdWWQ",
@@ -55,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "QmsPGPKocWY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Cyril of Alexandria, Bishop, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/QmsPGPKocWY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1kCVHCUrJpk",
-          "title": "Monday 8 AM Traditional Latin Mass02/09/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/1kCVHCUrJpk/mqdefault_live.jpg",
+          "id": "dKjEc4RGuFw",
+          "title": "Santo Sacrificio de La Misa, San Cirilo de Alejandría, Doctor, 9 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/dKjEc4RGuFw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Dv7MwLPPFdY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-09T18:00:00Z"
+        },
+        {
+          "id": "AG-OTqcvwzY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Scholastica, Virgin)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/AG-OTqcvwzY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T12:30:00Z"
         }
       ]
     }
