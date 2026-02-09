@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-09T15:52:41.322Z",
+  "lastUpdated": "2026-02-09T17:49:56.767Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "R71awrXM_T8",
+          "title": "FSSPX Antwerpen - 09/02 H. CYRILLUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/R71awrXM_T8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "OH_R79oAwoU",
           "title": "Rosary - 2/9/26",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mdw-g1FCg2o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-10T12:15:00Z"
+        },
+        {
+          "id": "LOezxti9C_I",
+          "title": "Rosenkranz und hl. Messe - hl. Scholastika - 10. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/LOezxti9C_I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T17:00:00Z"
         }
       ]
     },
