@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-09T17:49:56.767Z",
+  "lastUpdated": "2026-02-09T20:01:31.258Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "R71awrXM_T8",
-          "title": "FSSPX Antwerpen - 09/02 H. CYRILLUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/R71awrXM_T8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OH_R79oAwoU",
           "title": "Rosary - 2/9/26",
@@ -64,33 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MR1gk49sE3c",
-          "title": "Monday 9th February 2026: Saint Cyril of Alexandria",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/MR1gk49sE3c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-09T18:00:00Z"
-        },
-        {
-          "id": "9LXwBtGoOQ0",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/9LXwBtGoOQ0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-09T18:00:00Z"
-        },
-        {
-          "id": "Dv7MwLPPFdY",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Dv7MwLPPFdY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-09T18:00:00Z"
-        },
-        {
           "id": "AG-OTqcvwzY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Scholastica, Virgin)",
           "channel": "Usus Antiquior",
@@ -98,6 +62,33 @@
           "thumbnail": "https://i.ytimg.com/vi/AG-OTqcvwzY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-10T12:30:00Z"
+        },
+        {
+          "id": "c2tDhLQ_1Ao",
+          "title": "Tuesday 10th February 2026: Saint Scholastica",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/c2tDhLQ_1Ao/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T18:00:00Z"
+        },
+        {
+          "id": "quGgmOD0bJ8",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/quGgmOD0bJ8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T18:00:00Z"
+        },
+        {
+          "id": "glyM-wCwB2w",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/glyM-wCwB2w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T18:00:00Z"
         }
       ]
     }
