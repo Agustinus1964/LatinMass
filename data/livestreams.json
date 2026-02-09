@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-02-09T05:53:16.937Z",
+  "lastUpdated": "2026-02-09T07:00:45.329Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "4bg-hLcn7Fo",
-          "title": "Hl. Messe - hl. Cyrillus - 09. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4bg-hLcn7Fo/mqdefault_live.jpg",
+          "id": "AERZG9ODAds",
+          "title": "Saint Cyril, bishop of Alexandria, confessor and doctor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/AERZG9ODAds/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-09T06:15:00Z"
+          "scheduledTime": "2026-02-09T07:30:00Z"
         },
         {
           "id": "470UEgOCo7E",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CuINz3twj3c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-10T01:45:00Z"
+        },
+        {
+          "id": "YiMaEPLdWWQ",
+          "title": "Hl. Messe - hl. Scholastika - 10. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YiMaEPLdWWQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T06:15:00Z"
         }
       ]
     },
