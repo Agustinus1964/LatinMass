@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-08T23:54:38.728Z",
+  "lastUpdated": "2026-02-09T01:57:48.130Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CZTvEFaX-F8",
+          "title": "Compline - 2/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CZTvEFaX-F8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4bg-hLcn7Fo",
           "title": "Hl. Messe - hl. Cyrillus - 09. Februar 2026",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/470UEgOCo7E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-09T12:15:00Z"
+        },
+        {
+          "id": "CuINz3twj3c",
+          "title": "Compline - 2/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CuINz3twj3c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-10T01:45:00Z"
         }
       ]
     },
