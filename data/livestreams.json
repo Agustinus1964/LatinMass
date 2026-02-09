@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-09T20:01:31.258Z",
+  "lastUpdated": "2026-02-09T21:04:05.735Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "F_d-zT1ro7c",
+          "title": "Terço e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/F_d-zT1ro7c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "AG-OTqcvwzY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Scholastica, Virgin)",
