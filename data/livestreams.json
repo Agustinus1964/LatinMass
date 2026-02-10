@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-10T17:58:27.758Z",
+  "lastUpdated": "2026-02-10T19:13:33.862Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZHzpG3P81mk",
-          "title": "FSSPX Antwerpen - 10/02 H. SCHOLASTICA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZHzpG3P81mk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LOezxti9C_I",
-          "title": "Rosenkranz und hl. Messe - hl. Scholastika - 10. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/LOezxti9C_I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5_0c2fzivzk",
           "title": "Hl. Messe - Unsere Liebe Frau von Lourdes - 11. Februar 2026",
@@ -64,42 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mkW6bRgvhNs",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/mkW6bRgvhNs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "c2tDhLQ_1Ao",
-          "title": "Tuesday 10th February 2026: Saint Scholastica",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/c2tDhLQ_1Ao/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "quGgmOD0bJ8",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/quGgmOD0bJ8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "glyM-wCwB2w",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/glyM-wCwB2w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "eKN_6Vk1IF8",
           "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of the Blessed Virgin Mary at Lourdes)",
           "channel": "Usus Antiquior",
@@ -107,6 +53,33 @@
           "thumbnail": "https://i.ytimg.com/vi/eKN_6Vk1IF8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-11T12:30:00Z"
+        },
+        {
+          "id": "XAdYzJ3EFNw",
+          "title": "Wednesday 11th February 2026: Apparition of Our Lady of Lourdes",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/XAdYzJ3EFNw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T18:00:00Z"
+        },
+        {
+          "id": "5-jNRTKa8UQ",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/5-jNRTKa8UQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T18:00:00Z"
+        },
+        {
+          "id": "7ZuYWMzk1TI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/7ZuYWMzk1TI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T18:00:00Z"
         }
       ]
     }
