@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T20:07:17.119Z",
+  "lastUpdated": "2026-02-10T21:08:26.611Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-P59URib4Tc",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-P59URib4Tc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "eKN_6Vk1IF8",
           "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of the Blessed Virgin Mary at Lourdes)",
