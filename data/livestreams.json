@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-10T12:05:59.732Z",
+  "lastUpdated": "2026-02-10T13:58:45.207Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6lIFY6eehPk",
-          "title": "Adult Catechism - Lesson 36 and 37",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/6lIFY6eehPk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mdw-g1FCg2o",
-          "title": "Tue. Feb. 10, 2026    -    St. Scholastica,     Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/mdw-g1FCg2o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-10T12:15:00Z"
-        },
         {
           "id": "LOezxti9C_I",
           "title": "Rosenkranz und hl. Messe - hl. Scholastika - 10. Februar 2026",
@@ -30,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LOezxti9C_I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-10T17:00:00Z"
-        },
-        {
-          "id": "ob5dpHcOVEg",
-          "title": "Rosary - 2/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ob5dpHcOVEg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T00:00:00Z"
         },
         {
           "id": "5_0c2fzivzk",
@@ -57,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Bbe6wByMqSE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-11T11:50:00Z"
+        },
+        {
+          "id": "jdgP6mkQRs4",
+          "title": "Wed. Feb. 11, 2026    -    Apparition of our Lady of Lourdes",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/jdgP6mkQRs4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T12:15:00Z"
         }
       ]
     },
@@ -64,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ib4lqUylEmE",
-          "title": "7AM Mass. St. Scholastica, Virgin. III. Tuesday, February 10, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ib4lqUylEmE/mqdefault_live.jpg",
+          "id": "HvootAkr_LA",
+          "title": "Santo Sacrificio de La Misa, Santa Escolástica, Virgen, 10 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/HvootAkr_LA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "AG-OTqcvwzY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Scholastica, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/AG-OTqcvwzY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-10T12:30:00Z"
         },
         {
           "id": "c2tDhLQ_1Ao",
@@ -107,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/glyM-wCwB2w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-10T18:00:00Z"
+        },
+        {
+          "id": "eKN_6Vk1IF8",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of the Blessed Virgin Mary at Lourdes)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/eKN_6Vk1IF8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T12:30:00Z"
         }
       ]
     }
