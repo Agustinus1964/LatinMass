@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-10T15:06:21.915Z",
+  "lastUpdated": "2026-02-10T16:37:30.800Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "6-NYRlAtOvE",
+          "title": "FSSPX Antwerpen - 10/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/6-NYRlAtOvE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "LOezxti9C_I",
           "title": "Rosenkranz und hl. Messe - hl. Scholastika - 10. Februar 2026",
