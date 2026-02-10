@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T11:27:19.263Z",
+  "lastUpdated": "2026-02-10T12:05:59.732Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/6lIFY6eehPk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-10T11:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mdw-g1FCg2o",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5_0c2fzivzk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-11T06:15:00Z"
+        },
+        {
+          "id": "Bbe6wByMqSE",
+          "title": "Sung Mass - Apparition of the BVM at Lourdes - 2/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Bbe6wByMqSE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T11:50:00Z"
         }
       ]
     },
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7l5u4zJKNBI",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 02/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7l5u4zJKNBI/mqdefault_live.jpg",
+          "id": "ib4lqUylEmE",
+          "title": "7AM Mass. St. Scholastica, Virgin. III. Tuesday, February 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ib4lqUylEmE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
