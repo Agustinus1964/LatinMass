@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-10T05:16:00.137Z",
+  "lastUpdated": "2026-02-10T06:41:51.145Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/YiMaEPLdWWQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-10T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6lIFY6eehPk",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ob5dpHcOVEg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-11T00:00:00Z"
+        },
+        {
+          "id": "5_0c2fzivzk",
+          "title": "Hl. Messe - Unsere Liebe Frau von Lourdes - 11. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/5_0c2fzivzk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-11T06:15:00Z"
         }
       ]
     },
