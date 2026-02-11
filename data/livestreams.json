@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T17:08:47.002Z",
+  "lastUpdated": "2026-02-11T18:13:43.039Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,13 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "tVa43ogp8F0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/tVa43ogp8F0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "XAdYzJ3EFNw",
           "title": "Wednesday 11th February 2026: Apparition of Our Lady of Lourdes",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/XAdYzJ3EFNw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5-jNRTKa8UQ",
@@ -60,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/5-jNRTKa8UQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7ZuYWMzk1TI",
@@ -69,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/7ZuYWMzk1TI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pJ7HrZ4Lp4k",
@@ -116,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/teHEiJ7xULc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T12:30:00Z"
+        },
+        {
+          "id": "19u4AAwjjws",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/19u4AAwjjws/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T18:00:00Z"
+        },
+        {
+          "id": "GY0S5sSHg80",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/GY0S5sSHg80/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T18:00:00Z"
         }
       ]
     }
