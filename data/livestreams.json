@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T13:02:48.104Z",
+  "lastUpdated": "2026-02-11T14:35:36.609Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "eKN_6Vk1IF8",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of the Blessed Virgin Mary at Lourdes)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/eKN_6Vk1IF8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TSy9IldG-kk",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 02/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/TSy9IldG-kk/mqdefault_live.jpg",
+          "id": "w-h7WMchghE",
+          "title": "Santo Sacrificio de La Misa, Aparición de la Santísima Virgen en Lourdes, 11 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/w-h7WMchghE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4UVNTTEX41s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T12:00:00Z"
+        },
+        {
+          "id": "teHEiJ7xULc",
+          "title": "Live Stream Holy Mass Cleveland (The Holy Seven Founders of the Order of Servants of the BVM, Conf.)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/teHEiJ7xULc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T12:30:00Z"
         }
       ]
     }
