@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T15:58:10.965Z",
+  "lastUpdated": "2026-02-11T17:08:47.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/VIiNjeRVPmE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7z4JW88U7QE",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FWgVN-97EMA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T12:15:00Z"
+        },
+        {
+          "id": "EFcY6TzwaHg",
+          "title": "Sakramentsandacht und hl. Messe - hl. Sieben Stifter des Servitenordens - 12. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/EFcY6TzwaHg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T16:00:00Z"
         }
       ]
     },
