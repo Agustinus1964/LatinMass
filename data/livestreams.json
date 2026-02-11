@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-11T22:59:30.583Z",
+  "lastUpdated": "2026-02-11T23:41:12.935Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/GY0S5sSHg80/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T18:00:00Z"
+        },
+        {
+          "id": "hGq4C4jCND0",
+          "title": "6PM Mass. Seven Holy Founders of the Servile Order of the BVM, Confessors. III. Thursday, 2-12-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/hGq4C4jCND0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T23:00:00Z"
         }
       ]
     }
