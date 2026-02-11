@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-11T19:33:05.810Z",
+  "lastUpdated": "2026-02-11T20:35:43.099Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WlXKmx1JND4",
+          "title": "Mass of Seven Holy Founders - 12.2.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/WlXKmx1JND4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7z4JW88U7QE",
           "title": "Hl. Messe - hl. Sieben Stifter des Servitenordens - 12. Februar 2026",
