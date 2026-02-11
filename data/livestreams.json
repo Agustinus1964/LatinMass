@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-11T18:13:43.039Z",
+  "lastUpdated": "2026-02-11T19:33:05.810Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VIiNjeRVPmE",
-          "title": "Rosenkranz und hl. Messe - Unsere Liebe Frau von Lourdes - 11. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VIiNjeRVPmE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7z4JW88U7QE",
           "title": "Hl. Messe - hl. Sieben Stifter des Servitenordens - 12. Februar 2026",
@@ -45,42 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tVa43ogp8F0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/tVa43ogp8F0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XAdYzJ3EFNw",
-          "title": "Wednesday 11th February 2026: Apparition of Our Lady of Lourdes",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/XAdYzJ3EFNw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5-jNRTKa8UQ",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5-jNRTKa8UQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7ZuYWMzk1TI",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/7ZuYWMzk1TI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pJ7HrZ4Lp4k",
           "title": "6PM Sung Mass. Apparition of the Blessed Virgin Mary Immaculate. III. Wednesday, February 11, 2026.",
