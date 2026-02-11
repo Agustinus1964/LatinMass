@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-11T11:41:59.677Z",
+  "lastUpdated": "2026-02-11T13:02:48.104Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jdgP6mkQRs4",
-          "title": "Wed. Feb. 11, 2026    -    Apparition of our Lady of Lourdes",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/jdgP6mkQRs4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T12:15:00Z"
-        },
         {
           "id": "VIiNjeRVPmE",
           "title": "Rosenkranz und hl. Messe - Unsere Liebe Frau von Lourdes - 11. Februar 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7z4JW88U7QE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T06:15:00Z"
+        },
+        {
+          "id": "FWgVN-97EMA",
+          "title": "Thu. Feb. 12, 2026    -    Seven Holy Founders,    Confessors",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/FWgVN-97EMA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T12:15:00Z"
         }
       ]
     },
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "LoH9iWBDdo8",
-          "title": "Wednesday 6 AM Traditional Catholic Mass02/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/LoH9iWBDdo8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "eKN_6Vk1IF8",
           "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of the Blessed Virgin Mary at Lourdes)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/eKN_6Vk1IF8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TSy9IldG-kk",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 02/11/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/TSy9IldG-kk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XAdYzJ3EFNw",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pdQlDqP_KN4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T08:00:00Z"
+        },
+        {
+          "id": "4UVNTTEX41s",
+          "title": "7AM Mass. Seven Holy Founders of the Servile Order of the BVM, Confessors. III. Thursday, 2-12-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/4UVNTTEX41s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-12T12:00:00Z"
         }
       ]
     }
