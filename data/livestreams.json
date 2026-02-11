@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-11T00:01:04.400Z",
+  "lastUpdated": "2026-02-11T03:31:44.558Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ob5dpHcOVEg",
-          "title": "Rosary - 2/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ob5dpHcOVEg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5_0c2fzivzk",
           "title": "Hl. Messe - Unsere Liebe Frau von Lourdes - 11. Februar 2026",
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VIiNjeRVPmE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-11T17:00:00Z"
-        },
-        {
-          "id": "WjolO8FoAuE",
-          "title": "Rosary - 2/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WjolO8FoAuE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-11T23:55:00Z"
         }
       ]
     },
