@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-12T14:30:08.464Z",
+  "lastUpdated": "2026-02-12T15:27:28.903Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "cVdJb38eqS0",
+          "title": "FSSPX Antwerpen - 12/02 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/cVdJb38eqS0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "EFcY6TzwaHg",
           "title": "Sakramentsandacht und hl. Messe - hl. Sieben Stifter des Servitenordens - 12. Februar 2026",
@@ -45,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "A-VP6MH-A84",
-          "title": "Santo Sacrificio de La Misa, Siete Santos fundadores de los siervos de María, 12 de Febrero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/A-VP6MH-A84/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "19u4AAwjjws",
           "title": "Thursday",
