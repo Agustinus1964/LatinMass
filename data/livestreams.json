@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T13:00:45.799Z",
+  "lastUpdated": "2026-02-12T14:30:08.464Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "teHEiJ7xULc",
-          "title": "Live Stream Holy Mass Cleveland (The Holy Seven Founders of the Order of Servants of the BVM, Conf.)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/teHEiJ7xULc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ph9zAssetBg",
-          "title": "Thursday 8 AM Traditional Catholic Mass 02/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Ph9zAssetBg/mqdefault_live.jpg",
+          "id": "A-VP6MH-A84",
+          "title": "Santo Sacrificio de La Misa, Siete Santos fundadores de los siervos de María, 12 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/A-VP6MH-A84/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
