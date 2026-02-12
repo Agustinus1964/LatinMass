@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T04:25:27.419Z",
+  "lastUpdated": "2026-02-12T05:46:27.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hGq4C4jCND0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T23:00:00Z"
+        },
+        {
+          "id": "pB4gD__As2o",
+          "title": "El Espíritu Santo: El gran desconocido. P. Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/pB4gD__As2o/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T02:30:00Z"
         }
       ]
     }
