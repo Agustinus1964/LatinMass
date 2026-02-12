@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T22:59:12.261Z",
+  "lastUpdated": "2026-02-12T23:37:52.654Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -47,7 +47,7 @@
       "videos": [
         {
           "id": "hGq4C4jCND0",
-          "title": "6PM Mass. Seven Holy Founders of the Servile Order of the BVM, Confessors. III. Thursday, 2-12-2026.",
+          "title": "No livestream this evening. Power down at the church.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/hGq4C4jCND0/mqdefault_live.jpg",
@@ -107,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/g6FFuocp4ZY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-13T18:00:00Z"
+        },
+        {
+          "id": "BeBnJ-1IX6g",
+          "title": "6PM Mass & Holy Hour. Feria. IV. Friday, February 13, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/BeBnJ-1IX6g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T23:00:00Z"
+        },
+        {
+          "id": "bakG9xfwalA",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Passion of Our Lord Jesus Christ)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bakG9xfwalA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T23:30:00Z"
         }
       ]
     }
