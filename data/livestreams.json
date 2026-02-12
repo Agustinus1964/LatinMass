@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T05:46:27.326Z",
+  "lastUpdated": "2026-02-12T06:57:30.949Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/7z4JW88U7QE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-12T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FWgVN-97EMA",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EFcY6TzwaHg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-12T16:00:00Z"
+        },
+        {
+          "id": "jYXsTukJ5XE",
+          "title": "Hl. Messe - 13. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jYXsTukJ5XE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T06:15:00Z"
         }
       ]
     },
