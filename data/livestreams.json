@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-12T09:44:31.877Z",
+  "lastUpdated": "2026-02-12T10:41:34.811Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sfCI_4dDp7A",
-          "title": "Prima e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/sfCI_4dDp7A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "4UVNTTEX41s",
           "title": "7AM Mass. Seven Holy Founders of the Servile Order of the BVM, Confessors. III. Thursday, 2-12-2026.",
