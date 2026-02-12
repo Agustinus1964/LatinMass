@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-11T23:41:12.935Z",
+  "lastUpdated": "2026-02-12T01:56:51.281Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "KLCk72WBWu4",
+          "title": "Compline - 2/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/KLCk72WBWu4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7z4JW88U7QE",
           "title": "Hl. Messe - hl. Sieben Stifter des Servitenordens - 12. Februar 2026",
@@ -36,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pJ7HrZ4Lp4k",
-          "title": "6PM Sung Mass. Apparition of the Blessed Virgin Mary Immaculate. III. Wednesday, February 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/pJ7HrZ4Lp4k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "i5Ci6kzpKis",
-          "title": "APPARITION OF THE BLESSED VIRGIN MARY IMMACULATE, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/i5Ci6kzpKis/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-12T00:00:00Z"
-        },
         {
           "id": "pdQlDqP_KN4",
           "title": "Thursday 12th February 2026: Seven Founders of the Servites of Mary",
