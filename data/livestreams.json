@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-12T11:37:43.255Z",
+  "lastUpdated": "2026-02-12T13:00:45.799Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FWgVN-97EMA",
-          "title": "Thu. Feb. 12, 2026    -    Seven Holy Founders,    Confessors",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/FWgVN-97EMA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-12T12:15:00Z"
-        },
         {
           "id": "EFcY6TzwaHg",
           "title": "Sakramentsandacht und hl. Messe - hl. Sieben Stifter des Servitenordens - 12. Februar 2026",
@@ -30,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jYXsTukJ5XE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-13T06:15:00Z"
+        },
+        {
+          "id": "7bMCPcQeoVM",
+          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 4",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/7bMCPcQeoVM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T11:45:00Z"
+        },
+        {
+          "id": "CH4_Aju9HBU",
+          "title": "Fri. Feb. 13, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/CH4_Aju9HBU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T12:15:00Z"
         }
       ]
     },
@@ -37,31 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4UVNTTEX41s",
-          "title": "7AM Mass. Seven Holy Founders of the Servile Order of the BVM, Confessors. III. Thursday, 2-12-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/4UVNTTEX41s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "T9FL0T9ohe0",
-          "title": "Thursday 6 AM Traditional Catholic Mass 02/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/T9FL0T9ohe0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "teHEiJ7xULc",
           "title": "Live Stream Holy Mass Cleveland (The Holy Seven Founders of the Order of Servants of the BVM, Conf.)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/teHEiJ7xULc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-12T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Ph9zAssetBg",
+          "title": "Thursday 8 AM Traditional Catholic Mass 02/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ph9zAssetBg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "19u4AAwjjws",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pB4gD__As2o/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-13T02:30:00Z"
+        },
+        {
+          "id": "NG5D41WeGNY",
+          "title": "Friday 8 AM Catholic Mass for 02/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NG5D41WeGNY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T12:55:00Z"
         }
       ]
     }
