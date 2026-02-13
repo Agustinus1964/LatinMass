@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-13T01:59:39.021Z",
+  "lastUpdated": "2026-02-13T04:26:49.868Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CRqVUDXROtQ",
-          "title": "Compline - 2/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/CRqVUDXROtQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jYXsTukJ5XE",
           "title": "Hl. Messe - 13. Februar 2026",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pB4gD__As2o",
-          "title": "El Espíritu Santo: El gran desconocido. P. Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/pB4gD__As2o/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T02:30:00Z"
-        },
         {
           "id": "NG5D41WeGNY",
           "title": "Friday 8 AM Catholic Mass for 02/13/2026",
