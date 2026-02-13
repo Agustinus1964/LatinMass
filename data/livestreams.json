@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-13T11:55:59.558Z",
+  "lastUpdated": "2026-02-13T12:57:43.766Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "7bMCPcQeoVM",
-          "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 4",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/7bMCPcQeoVM/mqdefault_live.jpg",
+          "id": "A0SPW4sRCD8",
+          "title": "Dominican Rite Low Mass - Feria - 2/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/A0SPW4sRCD8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "CH4_Aju9HBU",
-          "title": "Fri. Feb. 13, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/CH4_Aju9HBU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T12:15:00Z"
         },
         {
           "id": "3e9o5rl4-q0",
@@ -51,8 +42,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/NG5D41WeGNY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T12:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XPUNV_JbjDc",
