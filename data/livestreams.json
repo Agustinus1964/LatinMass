@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-12T23:37:52.654Z",
+  "lastUpdated": "2026-02-13T01:59:39.021Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CRqVUDXROtQ",
+          "title": "Compline - 2/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CRqVUDXROtQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jYXsTukJ5XE",
           "title": "Hl. Messe - 13. Februar 2026",
@@ -45,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hGq4C4jCND0",
-          "title": "No livestream this evening. Power down at the church.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/hGq4C4jCND0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-12T23:00:00Z"
-        },
         {
           "id": "pB4gD__As2o",
           "title": "El Espíritu Santo: El gran desconocido. P. Daniel Heenan.",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bakG9xfwalA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-13T23:30:00Z"
+        },
+        {
+          "id": "D4zsvXnGN4w",
+          "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 02/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/D4zsvXnGN4w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-13T23:55:00Z"
         }
       ]
     }
