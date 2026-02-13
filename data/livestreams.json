@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-13T18:02:30.935Z",
+  "lastUpdated": "2026-02-13T19:13:30.240Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "DPc2GuIWIpI",
-          "title": "FSSPX Antwerpen - 13/02 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DPc2GuIWIpI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3e9o5rl4-q0",
           "title": "Fatima Sühneabend und hl. Messe - 13. Februar 2026",
@@ -51,24 +42,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/ivOlD1MvYrc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_oy9B9QKXY0",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/_oy9B9QKXY0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "g6FFuocp4ZY",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/g6FFuocp4ZY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
