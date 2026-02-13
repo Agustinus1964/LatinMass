@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-13T05:42:55.299Z",
+  "lastUpdated": "2026-02-13T06:56:18.866Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jYXsTukJ5XE",
-          "title": "Hl. Messe - 13. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/jYXsTukJ5XE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T06:15:00Z"
-        },
         {
           "id": "7bMCPcQeoVM",
           "title": "Spiritual Conference: Gethsemani Monastery, Kentucky Part 4",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3e9o5rl4-q0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-13T17:00:00Z"
+        },
+        {
+          "id": "TrGTmO-X3yM",
+          "title": "Hl. Messe -14. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/TrGTmO-X3yM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T06:15:00Z"
         }
       ]
     },
