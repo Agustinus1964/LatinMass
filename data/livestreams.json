@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-13T12:57:43.766Z",
+  "lastUpdated": "2026-02-13T14:03:45.456Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "A0SPW4sRCD8",
-          "title": "Dominican Rite Low Mass - Feria - 2/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/A0SPW4sRCD8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3e9o5rl4-q0",
           "title": "Fatima Sühneabend und hl. Messe - 13. Februar 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TrGTmO-X3yM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T06:15:00Z"
+        },
+        {
+          "id": "NAsKtfBc5bc",
+          "title": "Sat. Feb. 14, 2026    -    Blessed Virgin Mary on Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/NAsKtfBc5bc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T13:00:00Z"
         }
       ]
     },
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "NG5D41WeGNY",
-          "title": "Friday 8 AM Catholic Mass for 02/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NG5D41WeGNY/mqdefault_live.jpg",
+          "id": "GPDsBRHC_14",
+          "title": "Santo Sacrificio de La Misa, Requiem, 13 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/GPDsBRHC_14/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +143,24 @@
           "thumbnail": "https://i.ytimg.com/vi/0b0nlQ3zT3o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T11:55:00Z"
+        },
+        {
+          "id": "v1A60DyZpn4",
+          "title": "Saturday 9 AM Catholic Mass for 02/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/v1A60DyZpn4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T13:55:00Z"
+        },
+        {
+          "id": "_XrrI55-5y0",
+          "title": "9AM Mass. Our Lady on Saturday. IV. February 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/_XrrI55-5y0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T14:00:00Z"
         }
       ]
     }
