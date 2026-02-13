@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-13T21:32:05.162Z",
+  "lastUpdated": "2026-02-13T22:29:24.111Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "b4Sfs31IZJk",
-          "title": "Our Lady on Saturdays - 14th February 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/b4Sfs31IZJk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TrGTmO-X3yM",
           "title": "Hl. Messe -14. Februar 2026",
@@ -36,15 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OfycXPBXN14",
-          "title": "Terço e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/OfycXPBXN14/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BeBnJ-1IX6g",
           "title": "6PM Mass & Holy Hour. Feria. IV. Friday, February 13, 2026.",
