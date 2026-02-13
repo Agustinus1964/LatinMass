@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T23:02:12.841Z",
+  "lastUpdated": "2026-02-13T23:51:50.857Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "bakG9xfwalA",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Passion of Our Lord Jesus Christ)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bakG9xfwalA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "BeBnJ-1IX6g",
           "title": "6PM Mass & Holy Hour. Feria. IV. Friday, February 13, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -35,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BeBnJ-1IX6g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "bakG9xfwalA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Passion of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/bakG9xfwalA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T23:30:00Z"
         },
         {
           "id": "D4zsvXnGN4w",
