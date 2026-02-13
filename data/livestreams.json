@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T11:28:55.028Z",
+  "lastUpdated": "2026-02-13T11:55:59.558Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/7bMCPcQeoVM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T11:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CH4_Aju9HBU",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W3EIcseyH8o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T10:30:00Z"
+        },
+        {
+          "id": "0b0nlQ3zT3o",
+          "title": "Saturday 7 AM Traditional Catholic Mass 02/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/0b0nlQ3zT3o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T11:55:00Z"
         }
       ]
     }
