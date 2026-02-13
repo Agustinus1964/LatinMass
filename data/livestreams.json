@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-13T08:38:50.094Z",
+  "lastUpdated": "2026-02-13T09:40:34.046Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5uSIBWJl_lg",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/5uSIBWJl_lg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "NG5D41WeGNY",
           "title": "Friday 8 AM Catholic Mass for 02/13/2026",
