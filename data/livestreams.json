@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-13T15:07:28.750Z",
+  "lastUpdated": "2026-02-13T16:05:58.909Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lf2xHlW12j8",
+          "title": "FSSPX Antwerpen - 13/02 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/lf2xHlW12j8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "3e9o5rl4-q0",
           "title": "Fatima Sühneabend und hl. Messe - 13. Februar 2026",
@@ -42,8 +51,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/XPUNV_JbjDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ivOlD1MvYrc",
