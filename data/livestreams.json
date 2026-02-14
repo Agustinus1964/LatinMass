@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-14T14:23:55.856Z",
+  "lastUpdated": "2026-02-14T14:52:05.178Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "nEyKh39wt58",
+          "title": "Nuptial Mass 2/14/2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/nEyKh39wt58/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aNLTNKy1n2c",
           "title": "Sung Mass - Quinquagesima Sunday",
@@ -28,33 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "F_YPM70PpSw",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/F_YPM70PpSw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_XrrI55-5y0",
-          "title": "9AM Mass. Our Lady on Saturday. IV. February 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_XrrI55-5y0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "v1A60DyZpn4",
-          "title": "Saturday 9 AM Catholic Mass for 02/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/v1A60DyZpn4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "R6c15rPcSzA",
           "title": "Santo Sacrificio de La Misa, Santa Maria en Sábado, 14 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -71,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XzqAgLWslsU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "1s0_Q9m3240",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/1s0_Q9m3240/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T14:58:00Z"
         },
         {
           "id": "77B4cOgf1xQ",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/n709cMZLiyo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T12:00:00Z"
+        },
+        {
+          "id": "nOCaGMR9JiU",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Quinquagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/nOCaGMR9JiU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T13:00:00Z"
         }
       ]
     }
