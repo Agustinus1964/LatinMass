@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T10:23:06.207Z",
+  "lastUpdated": "2026-02-14T10:52:58.703Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,15 +42,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/W3EIcseyH8o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lqMoMziqLZs",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lqMoMziqLZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XzqAgLWslsU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T10:00:00Z"
+        },
+        {
+          "id": "WudgU-k6QyQ",
+          "title": "Sunday 15th February 2026: Quiquagesima Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/WudgU-k6QyQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T10:30:00Z"
         }
       ]
     }
