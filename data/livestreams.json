@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T14:52:05.178Z",
+  "lastUpdated": "2026-02-14T15:21:32.995Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6wvxGWc1deM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T08:30:00Z"
+        },
+        {
+          "id": "0xIkcOtcoAs",
+          "title": "Sun. Feb. 15, 2026    -    Quinquagesima Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/0xIkcOtcoAs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:00:00Z"
         }
       ]
     },
@@ -37,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "R6c15rPcSzA",
-          "title": "Santo Sacrificio de La Misa, Santa Maria en Sábado, 14 de Febrero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/R6c15rPcSzA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XzqAgLWslsU",
-          "title": "Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/XzqAgLWslsU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "1s0_Q9m3240",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/1s0_Q9m3240/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T14:58:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "77B4cOgf1xQ",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nOCaGMR9JiU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T13:00:00Z"
+        },
+        {
+          "id": "8LJWFkjyXFE",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Quinquagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/8LJWFkjyXFE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:00:00Z"
         }
       ]
     }
