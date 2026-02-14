@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T13:41:37.950Z",
+  "lastUpdated": "2026-02-14T14:23:55.856Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "F_YPM70PpSw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/F_YPM70PpSw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "_XrrI55-5y0",
           "title": "9AM Mass. Our Lady on Saturday. IV. February 14, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -42,17 +51,26 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/v1A60DyZpn4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T13:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "F_YPM70PpSw",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/F_YPM70PpSw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T14:00:00Z"
+          "id": "R6c15rPcSzA",
+          "title": "Santo Sacrificio de La Misa, Santa Maria en Sábado, 14 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/R6c15rPcSzA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XzqAgLWslsU",
+          "title": "Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/XzqAgLWslsU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "77B4cOgf1xQ",
@@ -71,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fZaNwAQaR20/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T09:30:00Z"
-        },
-        {
-          "id": "XzqAgLWslsU",
-          "title": "Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/XzqAgLWslsU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T10:00:00Z"
         },
         {
           "id": "WudgU-k6QyQ",
