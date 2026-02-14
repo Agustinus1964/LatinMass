@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T07:53:14.345Z",
+  "lastUpdated": "2026-02-14T08:28:07.995Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -33,8 +33,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/bVN-W2AOKzg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lqMoMziqLZs",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_XrrI55-5y0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T14:00:00Z"
+        },
+        {
+          "id": "77B4cOgf1xQ",
+          "title": "8am — Quinquagesima",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/77B4cOgf1xQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T08:00:00Z"
         }
       ]
     }
