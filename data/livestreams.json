@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-14T16:25:21.762Z",
+  "lastUpdated": "2026-02-14T16:55:22.146Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nEyKh39wt58",
-          "title": "Nuptial Mass 2/14/2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/nEyKh39wt58/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "aNLTNKy1n2c",
           "title": "Sung Mass - Quinquagesima Sunday",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0xIkcOtcoAs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T15:00:00Z"
+        },
+        {
+          "id": "VNFMUtGU6WY",
+          "title": "Vesper und Sakramentsandacht - Quinquagesima - 15. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/VNFMUtGU6WY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T16:30:00Z"
         }
       ]
     },
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uEE_cJdDrus/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T15:45:00Z"
+        },
+        {
+          "id": "SJvKxZ6w0vI",
+          "title": "QUINQUAGESIMA SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/SJvKxZ6w0vI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T16:30:00Z"
         }
       ]
     }
