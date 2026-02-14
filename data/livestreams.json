@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-14T11:44:26.837Z",
+  "lastUpdated": "2026-02-14T12:40:42.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "qe53XQ3tLHE",
+          "title": "Dominican Rite Low Mass - Our Lady on Saturdays - 2/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qe53XQ3tLHE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "NAsKtfBc5bc",
           "title": "Sat. Feb. 14, 2026    -    Blessed Virgin Mary on Saturday",
@@ -37,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PFI6XzqyIFI",
-          "title": "Missa Rezada de Nossa Senhora no Sábado",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/PFI6XzqyIFI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "0b0nlQ3zT3o",
           "title": "Saturday 7 AM Traditional Catholic Mass 02/14/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/0b0nlQ3zT3o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "v1A60DyZpn4",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/49M4SrBIEtU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T11:00:00Z"
+        },
+        {
+          "id": "n709cMZLiyo",
+          "title": "7AM Mass, Rosary, 8:30AM Mass. Quinquagesima Sunday. II. February 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/n709cMZLiyo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T12:00:00Z"
         }
       ]
     }
