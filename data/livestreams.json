@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T08:59:10.635Z",
+  "lastUpdated": "2026-02-14T09:39:13.860Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "bVN-W2AOKzg",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/bVN-W2AOKzg/mqdefault_live.jpg",
+          "id": "4LmyGMpgzEE",
+          "title": "Prima e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/4LmyGMpgzEE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "lqMoMziqLZs",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lqMoMziqLZs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T10:00:00Z"
         },
         {
           "id": "W3EIcseyH8o",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/77B4cOgf1xQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T08:00:00Z"
+        },
+        {
+          "id": "fZaNwAQaR20",
+          "title": "9:30am —  6th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/fZaNwAQaR20/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T09:30:00Z"
         }
       ]
     }
