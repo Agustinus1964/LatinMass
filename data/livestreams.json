@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T15:21:32.995Z",
+  "lastUpdated": "2026-02-14T15:48:05.718Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/8LJWFkjyXFE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T15:00:00Z"
+        },
+        {
+          "id": "-TorsKBX-rU",
+          "title": "10:30AM Sung Mass. Quinquagesima Sunday. II. February 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-TorsKBX-rU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:30:00Z"
+        },
+        {
+          "id": "uEE_cJdDrus",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/uEE_cJdDrus/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:45:00Z"
         }
       ]
     }
