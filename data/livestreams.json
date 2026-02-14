@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T18:29:43.099Z",
+  "lastUpdated": "2026-02-14T19:01:35.248Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VNFMUtGU6WY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T16:30:00Z"
+        },
+        {
+          "id": "FxahniNTPHQ",
+          "title": "Quinquagesima Sunday | February 15th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/FxahniNTPHQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T18:00:00Z"
         }
       ]
     },
