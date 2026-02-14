@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T11:20:01.339Z",
+  "lastUpdated": "2026-02-14T11:44:26.837Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PFI6XzqyIFI",
+          "title": "Missa Rezada de Nossa Senhora no Sábado",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/PFI6XzqyIFI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0b0nlQ3zT3o",
           "title": "Saturday 7 AM Traditional Catholic Mass 02/14/2026",
