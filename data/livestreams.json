@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-13T23:51:50.857Z",
+  "lastUpdated": "2026-02-14T01:49:15.148Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ocjSivJoHUw",
+          "title": "Compline - 2/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ocjSivJoHUw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "TrGTmO-X3yM",
           "title": "Hl. Messe -14. Februar 2026",
@@ -21,39 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/NAsKtfBc5bc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T13:00:00Z"
+        },
+        {
+          "id": "aNLTNKy1n2c",
+          "title": "Sung Mass - Quinquagesima Sunday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/aNLTNKy1n2c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T01:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bakG9xfwalA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Passion of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/bakG9xfwalA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BeBnJ-1IX6g",
-          "title": "6PM Mass & Holy Hour. Feria. IV. Friday, February 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/BeBnJ-1IX6g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "D4zsvXnGN4w",
-          "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 02/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/D4zsvXnGN4w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-13T23:55:00Z"
-        },
         {
           "id": "bVN-W2AOKzg",
           "title": "Sainte messe en semaine",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/v1A60DyZpn4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T13:55:00Z"
+        },
+        {
+          "id": "F_YPM70PpSw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/F_YPM70PpSw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-14T14:00:00Z"
         },
         {
           "id": "_XrrI55-5y0",
