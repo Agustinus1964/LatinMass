@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-14T12:40:42.628Z",
+  "lastUpdated": "2026-02-14T13:41:37.950Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qe53XQ3tLHE",
-          "title": "Dominican Rite Low Mass - Our Lady on Saturdays - 2/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/qe53XQ3tLHE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NAsKtfBc5bc",
-          "title": "Sat. Feb. 14, 2026    -    Blessed Virgin Mary on Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/NAsKtfBc5bc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T13:00:00Z"
-        },
         {
           "id": "aNLTNKy1n2c",
           "title": "Sung Mass - Quinquagesima Sunday",
@@ -46,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "0b0nlQ3zT3o",
-          "title": "Saturday 7 AM Traditional Catholic Mass 02/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/0b0nlQ3zT3o/mqdefault_live.jpg",
+          "id": "_XrrI55-5y0",
+          "title": "9AM Mass. Our Lady on Saturday. IV. February 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/_XrrI55-5y0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,15 +51,6 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/F_YPM70PpSw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T14:00:00Z"
-        },
-        {
-          "id": "_XrrI55-5y0",
-          "title": "9AM Mass. Our Lady on Saturday. IV. February 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_XrrI55-5y0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-14T14:00:00Z"
         },
