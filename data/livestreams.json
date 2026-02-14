@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T09:39:13.860Z",
+  "lastUpdated": "2026-02-14T10:23:06.207Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4LmyGMpgzEE",
-          "title": "Prima e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/4LmyGMpgzEE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "W3EIcseyH8o",
           "title": "Saturday 14th February 2026: Saint Valentine",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/W3EIcseyH8o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-14T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "lqMoMziqLZs",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lqMoMziqLZs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0b0nlQ3zT3o",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fZaNwAQaR20/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T09:30:00Z"
+        },
+        {
+          "id": "XzqAgLWslsU",
+          "title": "Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/XzqAgLWslsU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T10:00:00Z"
         }
       ]
     }
