@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-14T22:49:37.064Z",
+  "lastUpdated": "2026-02-14T23:21:06.537Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "iqfUD6un3xQ",
+          "title": "QUINQUAGESIMA SUNDAY - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/iqfUD6un3xQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aNLTNKy1n2c",
           "title": "Sung Mass - Quinquagesima Sunday",
