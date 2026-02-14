@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T14:21:52.940Z",
+  "lastUpdated": "2026-02-14T14:51:38.736Z",
   "videos": [
     {
       "id": "fQhmCNrHfNw",
@@ -40,6 +40,16 @@
       "thumbnail": "https://i.ytimg.com/vi/uOHLdbUHIKs/mqdefault.jpg",
       "publishedAt": "2026-02-14T13:01:44Z",
       "category": "Return To Tradition"
+    },
+    {
+      "id": "5rbhOk3amo8",
+      "title": "Holy Mass 2/14/26 - Our Lady's Saturday",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/5rbhOk3amo8/mqdefault_live.jpg",
+      "publishedAt": "2026-02-14T12:51:49Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "_wgiY-NBTdM",
@@ -270,16 +280,6 @@
       "thumbnail": "https://i.ytimg.com/vi/655KnZr2NkA/mqdefault.jpg",
       "publishedAt": "2026-02-13T08:14:15Z",
       "category": "SSPX News"
-    },
-    {
-      "id": "U8Z5R_pi4EY",
-      "title": "Holy Mass 2/12/26 - Feast of the Seven Holy Founders of the Servites",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/U8Z5R_pi4EY/mqdefault.jpg",
-      "publishedAt": "2026-02-13T05:39:16Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "ZBInKNGXJmE",
