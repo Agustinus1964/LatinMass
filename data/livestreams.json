@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-14T08:28:07.995Z",
+  "lastUpdated": "2026-02-14T08:59:10.635Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aNLTNKy1n2c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T01:30:00Z"
+        },
+        {
+          "id": "6wvxGWc1deM",
+          "title": "Amt - Quinquagesima - 15. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6wvxGWc1deM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T08:30:00Z"
         }
       ]
     },
