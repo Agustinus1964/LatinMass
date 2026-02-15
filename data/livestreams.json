@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T09:40:56.132Z",
+  "lastUpdated": "2026-02-15T10:22:56.742Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "WudgU-k6QyQ",
+          "title": "Sunday 15th February 2026: Quiquagesima Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/WudgU-k6QyQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "fZaNwAQaR20",
           "title": "9:30am —  6th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
@@ -74,21 +83,12 @@
         },
         {
           "id": "vJCedeZsDIM",
-          "title": "Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
+          "title": "[E] Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/vJCedeZsDIM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T10:00:00Z"
-        },
-        {
-          "id": "WudgU-k6QyQ",
-          "title": "Sunday 15th February 2026: Quiquagesima Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/WudgU-k6QyQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "49M4SrBIEtU",
