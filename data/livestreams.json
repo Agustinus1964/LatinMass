@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-15T12:42:45.849Z",
+  "lastUpdated": "2026-02-15T13:42:48.094Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZRZbxqx3uhE",
-          "title": "Quinquagesima Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZRZbxqx3uhE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VNFMUtGU6WY",
           "title": "Vesper und Sakramentsandacht - Quinquagesima - 15. Februar 2026",
@@ -46,11 +37,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "nOCaGMR9JiU",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Quinquagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/nOCaGMR9JiU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "n709cMZLiyo",
           "title": "7AM Mass, Rosary, 8:30AM Mass. Quinquagesima Sunday. II. February 15, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/n709cMZLiyo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "FEwZUxvebaw",
+          "title": "Sunday 8:30 AM Catholic Mass for 02/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/FEwZUxvebaw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/EMhtn-Qrq2E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "nOCaGMR9JiU",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Quinquagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/nOCaGMR9JiU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T13:00:00Z"
         },
         {
           "id": "8LJWFkjyXFE",
