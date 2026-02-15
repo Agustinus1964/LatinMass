@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T17:51:15.126Z",
+  "lastUpdated": "2026-02-15T18:31:47.211Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/FxahniNTPHQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vs-BxOoBcfM",
@@ -37,20 +37,20 @@
           "scheduledTime": null
         },
         {
-          "id": "0bK1u03d_vI",
-          "title": "Santa Misa Dominical. 15 de Febrero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/0bK1u03d_vI/mqdefault_live.jpg",
+          "id": "CBnyquaxhSE",
+          "title": "Sunday 1:30 PM Catholic Mass 02/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/CBnyquaxhSE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "thokfVZfv2o",
-          "title": "Vespers and Benediction — Quinquagesima",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/thokfVZfv2o/mqdefault_live.jpg",
+          "id": "Jekc6E5yxdE",
+          "title": "Santo Sacrificio de La Misa, Domingo de Quincuagésima, 15 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Jekc6E5yxdE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -60,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EJpYg1ut718",
@@ -89,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/5Hgxk6dd0V4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-16T14:00:00Z"
+        },
+        {
+          "id": "LjeET-lyudM",
+          "title": "Monday 16th February 2026: Votive Mass of the Blessed Sacrament",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/LjeET-lyudM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-16T18:00:00Z"
+        },
+        {
+          "id": "zdbJyel4ZrY",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/zdbJyel4ZrY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-16T18:00:00Z"
+        },
+        {
+          "id": "iMIryMkwOZc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/iMIryMkwOZc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-16T18:00:00Z"
         }
       ]
     }
