@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T21:21:26.848Z",
+  "lastUpdated": "2026-02-15T21:46:32.802Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,6 +51,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9FxU-ygqG2w",
+          "title": "Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9FxU-ygqG2w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
