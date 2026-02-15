@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-15T01:59:02.970Z",
+  "lastUpdated": "2026-02-15T04:26:54.954Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8Db7Xsxks88",
-          "title": "Compline - 2/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/8Db7Xsxks88/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "aNLTNKy1n2c",
-          "title": "Sung Mass - Quinquagesima Sunday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/aNLTNKy1n2c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6wvxGWc1deM",
           "title": "Amt - Quinquagesima - 15. Februar 2026",
@@ -170,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/thokfVZfv2o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T17:00:00Z"
+        },
+        {
+          "id": "EJpYg1ut718",
+          "title": "Do you suffer from spiritual blindness? Lord, That I Might See.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/EJpYg1ut718/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T19:00:00Z"
         }
       ]
     }
