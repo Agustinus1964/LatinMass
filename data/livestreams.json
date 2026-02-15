@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-15T21:46:32.802Z",
+  "lastUpdated": "2026-02-15T22:20:53.391Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "IMyf0nY08kI",
+          "title": "Simple II Vespers - Quinquagesima Sunday - 2/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IMyf0nY08kI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HAy4PWELKZo",
           "title": "Hl. Messe - 16. Februar 2026",
@@ -46,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "M3v3cs-qkNo",
+          "title": "Most Precious Blood Devotions / Dévotions au Très Précieux Sang",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/M3v3cs-qkNo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "hVTq2SlEDHw",
           "title": "Sainte messe d'exposition des Quarante Heures - CIBAVIT EOS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9FxU-ygqG2w",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9FxU-ygqG2w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
