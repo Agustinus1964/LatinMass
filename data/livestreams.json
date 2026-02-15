@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T16:56:32.833Z",
+  "lastUpdated": "2026-02-15T17:25:47.331Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,15 +19,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/O0TXfXD2Olk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VNFMUtGU6WY",
-          "title": "Vesper und Sakramentsandacht - Quinquagesima - 15. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VNFMUtGU6WY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "sTqZ1WsKuiU",
-          "title": "Quinquagesima Sunday / Dimanche de la quinquagésime",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/sTqZ1WsKuiU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "0bK1u03d_vI",
           "title": "Santa Misa Dominical. 15 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -100,22 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "AkDkcH3UozI",
-          "title": "Secondes vêpres du dimanche de la Quinquagésime - STANS AUTEM JESUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/AkDkcH3UozI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "thokfVZfv2o",
           "title": "Vespers and Benediction — Quinquagesima",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/thokfVZfv2o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hVTq2SlEDHw",
