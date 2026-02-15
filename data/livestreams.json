@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T10:53:07.711Z",
+  "lastUpdated": "2026-02-15T11:19:28.192Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/ZRZbxqx3uhE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VNFMUtGU6WY",
@@ -60,15 +60,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/vJCedeZsDIM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m2neZbEbio0",
-          "title": "Domingo da quinquagésima - Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/m2neZbEbio0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
