@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T14:52:49.206Z",
+  "lastUpdated": "2026-02-15T15:22:10.875Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/ziyXwsK9ZsA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0xIkcOtcoAs",
+          "title": "Sun. Feb. 15, 2026    -    Quinquagesima Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/0xIkcOtcoAs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +73,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dMqs7I_R_IY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/dMqs7I_R_IY/mqdefault_live.jpg",
+          "id": "8LJWFkjyXFE",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Quinquagesima Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/8LJWFkjyXFE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-TorsKBX-rU",
+          "title": "10:30AM Sung Mass. Quinquagesima Sunday. II. February 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-TorsKBX-rU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sTqZ1WsKuiU",
+          "title": "Quinquagesima Sunday / Dimanche de la quinquagésime",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/sTqZ1WsKuiU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,42 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/0bK1u03d_vI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "EMhtn-Qrq2E",
-          "title": "Missa Cantada da Quinquagésima",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/EMhtn-Qrq2E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8LJWFkjyXFE",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Quinquagesima Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/8LJWFkjyXFE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T15:00:00Z"
-        },
-        {
-          "id": "-TorsKBX-rU",
-          "title": "10:30AM Sung Mass. Quinquagesima Sunday. II. February 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-TorsKBX-rU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T15:30:00Z"
-        },
-        {
-          "id": "sTqZ1WsKuiU",
-          "title": "Quinquagesima Sunday / Dimanche de la quinquagésime",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/sTqZ1WsKuiU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T15:30:00Z"
         },
         {
           "id": "uEE_cJdDrus",
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/thokfVZfv2o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T17:00:00Z"
+        },
+        {
+          "id": "hVTq2SlEDHw",
+          "title": "Sainte messe d'exposition des Quarante Heures - CIBAVIT EOS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T18:00:00Z"
         },
         {
           "id": "EJpYg1ut718",
