@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-15T19:45:37.428Z",
+  "lastUpdated": "2026-02-15T20:22:15.993Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "FxahniNTPHQ",
-          "title": "Quinquagesima Sunday | February 15th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/FxahniNTPHQ/mqdefault_live.jpg",
+          "id": "-PpzoNdMVNo",
+          "title": "Mon 16 Feb Ferial - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/-PpzoNdMVNo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Jekc6E5yxdE",
-          "title": "Santo Sacrificio de La Misa, Domingo de Quincuagésima, 15 de Febrero 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Jekc6E5yxdE/mqdefault_live.jpg",
+          "id": "M3v3cs-qkNo",
+          "title": "Most Precious Blood Devotions / Dévotions au Très Précieux Sang",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/M3v3cs-qkNo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -60,6 +60,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ffFCOtqH8NI",
+          "title": "Domingo da Quinquagésima - Missa Rezada e ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ffFCOtqH8NI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
