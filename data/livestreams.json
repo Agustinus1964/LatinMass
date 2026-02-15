@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T20:22:15.993Z",
+  "lastUpdated": "2026-02-15T20:50:06.336Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HAy4PWELKZo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-16T06:15:00Z"
+        },
+        {
+          "id": "W0_WKsVvvtA",
+          "title": "Requiem",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/W0_WKsVvvtA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-16T07:30:00Z"
         },
         {
           "id": "vs-BxOoBcfM",
@@ -60,15 +69,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ffFCOtqH8NI",
-          "title": "Domingo da Quinquagésima - Missa Rezada e ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ffFCOtqH8NI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
