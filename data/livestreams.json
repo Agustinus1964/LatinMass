@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-02-15T14:24:04.503Z",
+  "lastUpdated": "2026-02-15T14:52:49.206Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "cCwRX6ydMBs",
+          "title": "Solemn High Mass - Quinquagesima Sunday - 2/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/cCwRX6ydMBs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "G9nZb5wJhIY",
           "title": "Quinquagesima Sunday - The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/G9nZb5wJhIY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ziyXwsK9ZsA",
+          "title": "Quinquagesima Sunday",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/ziyXwsK9ZsA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,24 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "n709cMZLiyo",
-          "title": "7AM Mass, Rosary, 8:30AM Mass. Quinquagesima Sunday. II. February 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/n709cMZLiyo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FEwZUxvebaw",
-          "title": "Sunday 8:30 AM Catholic Mass for 02/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/FEwZUxvebaw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "0bK1u03d_vI",
           "title": "Santa Misa Dominical. 15 de Febrero 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -98,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/8LJWFkjyXFE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T15:00:00Z"
+        },
+        {
+          "id": "-TorsKBX-rU",
+          "title": "10:30AM Sung Mass. Quinquagesima Sunday. II. February 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-TorsKBX-rU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:30:00Z"
+        },
+        {
+          "id": "sTqZ1WsKuiU",
+          "title": "Quinquagesima Sunday / Dimanche de la quinquagésime",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/sTqZ1WsKuiU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:30:00Z"
         },
         {
           "id": "uEE_cJdDrus",
