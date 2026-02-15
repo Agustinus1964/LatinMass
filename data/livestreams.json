@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-15T17:25:47.331Z",
+  "lastUpdated": "2026-02-15T17:51:15.126Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-5yf4eU70Vw",
-          "title": "Quinquagesima Sunday, February 15, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/-5yf4eU70Vw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "O0TXfXD2Olk",
-          "title": "FSSPX Antwerpen - 15/02 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/O0TXfXD2Olk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FxahniNTPHQ",
           "title": "Quinquagesima Sunday | February 15th",
@@ -46,29 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DokTjdRgDWQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/DokTjdRgDWQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "SJvKxZ6w0vI",
           "title": "QUINQUAGESIMA SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/SJvKxZ6w0vI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E0Bmz-hBU-A",
-          "title": "Sunday 11 AM Sung Mass 2026-02-15",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/E0Bmz-hBU-A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
