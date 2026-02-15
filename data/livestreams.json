@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T07:35:55.867Z",
+  "lastUpdated": "2026-02-15T08:29:02.267Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,8 +51,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/77B4cOgf1xQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fZaNwAQaR20",
