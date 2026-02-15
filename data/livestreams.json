@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-02-15T08:29:02.267Z",
+  "lastUpdated": "2026-02-15T08:59:50.719Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "iZhMtUKLg6s",
+          "title": "FSSPX Antwerpen - 15/02 ZONDAG van QUINQUAGESIMA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/iZhMtUKLg6s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "6wvxGWc1deM",
           "title": "Amt - Quinquagesima - 15. Februar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/6wvxGWc1deM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "uianlMAudPI",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uianlMAudPI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T09:25:00Z"
+        },
+        {
+          "id": "ZRZbxqx3uhE",
+          "title": "Quinquagesima Sunday",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZRZbxqx3uhE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T11:00:00Z"
         },
         {
           "id": "VNFMUtGU6WY",
@@ -45,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "77B4cOgf1xQ",
-          "title": "8am — Quinquagesima",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/77B4cOgf1xQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fZaNwAQaR20",
           "title": "9:30am —  6th Sunday in Ordinary Time",
