@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T11:44:21.954Z",
+  "lastUpdated": "2026-02-15T12:42:45.849Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/FxahniNTPHQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T18:00:00Z"
+        },
+        {
+          "id": "vs-BxOoBcfM",
+          "title": "Mon. Feb. 16, 2026    -    Ferial Day    -     Day of Adoration",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/vs-BxOoBcfM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-16T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WudgU-k6QyQ",
-          "title": "Sunday 15th February 2026: Quiquagesima Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/WudgU-k6QyQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "n709cMZLiyo",
           "title": "7AM Mass, Rosary, 8:30AM Mass. Quinquagesima Sunday. II. February 15, 2026.",
@@ -55,20 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "49M4SrBIEtU",
-          "title": "11am — 6th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/49M4SrBIEtU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m2neZbEbio0",
-          "title": "Domingo da quinquagésima - Missa Rezada",
+          "id": "EMhtn-Qrq2E",
+          "title": "Missa Cantada da Quinquagésima",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/m2neZbEbio0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/EMhtn-Qrq2E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
