@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T11:19:28.192Z",
+  "lastUpdated": "2026-02-15T11:44:21.954Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
           "scheduledTime": null
         },
         {
+          "id": "n709cMZLiyo",
+          "title": "7AM Mass, Rosary, 8:30AM Mass. Quinquagesima Sunday. II. February 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/n709cMZLiyo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "49M4SrBIEtU",
           "title": "11am — 6th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
@@ -55,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "vJCedeZsDIM",
-          "title": "[E] Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/vJCedeZsDIM/mqdefault_live.jpg",
+          "id": "m2neZbEbio0",
+          "title": "Domingo da quinquagésima - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/m2neZbEbio0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8LJWFkjyXFE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T15:00:00Z"
-        },
-        {
-          "id": "-TorsKBX-rU",
-          "title": "10:30AM Sung Mass. Quinquagesima Sunday. II. February 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-TorsKBX-rU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T15:30:00Z"
         },
         {
           "id": "uEE_cJdDrus",
