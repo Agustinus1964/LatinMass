@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-02-15T10:22:56.742Z",
+  "lastUpdated": "2026-02-15T10:53:07.711Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iZhMtUKLg6s",
-          "title": "FSSPX Antwerpen - 15/02 ZONDAG van QUINQUAGESIMA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/iZhMtUKLg6s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6wvxGWc1deM",
-          "title": "Amt - Quinquagesima - 15. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6wvxGWc1deM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uianlMAudPI",
-          "title": "Domenica di Quinquagesima - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/uianlMAudPI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZRZbxqx3uhE",
           "title": "Quinquagesima Sunday",
@@ -73,11 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "fZaNwAQaR20",
-          "title": "9:30am —  6th Sunday in Ordinary Time",
+          "id": "49M4SrBIEtU",
+          "title": "11am — 6th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/fZaNwAQaR20/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/49M4SrBIEtU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,13 +64,13 @@
           "scheduledTime": null
         },
         {
-          "id": "49M4SrBIEtU",
-          "title": "11am — 6th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/49M4SrBIEtU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T11:00:00Z"
+          "id": "m2neZbEbio0",
+          "title": "Domingo da quinquagésima - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/m2neZbEbio0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nOCaGMR9JiU",
