@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T15:22:10.875Z",
+  "lastUpdated": "2026-02-15T15:48:09.385Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/0xIkcOtcoAs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "O0TXfXD2Olk",
+          "title": "FSSPX Antwerpen - 15/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/O0TXfXD2Olk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-5yf4eU70Vw",
+          "title": "Quinquagesima Sunday, February 15, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/-5yf4eU70Vw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T15:45:00Z"
         },
         {
           "id": "VNFMUtGU6WY",
@@ -114,8 +132,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/uEE_cJdDrus/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DokTjdRgDWQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/DokTjdRgDWQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-15T15:45:00Z"
+          "scheduledTime": "2026-02-15T15:58:00Z"
         },
         {
           "id": "SJvKxZ6w0vI",
