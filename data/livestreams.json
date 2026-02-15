@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-15T23:22:59.107Z",
+  "lastUpdated": "2026-02-15T23:49:23.102Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hVTq2SlEDHw",
-          "title": "Sainte messe d'exposition des Quarante Heures - CIBAVIT EOS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/hVTq2SlEDHw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uyY9R9mY9ss",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass for Peace)",
