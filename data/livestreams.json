@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-15T20:50:06.336Z",
+  "lastUpdated": "2026-02-15T21:21:26.848Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-PpzoNdMVNo",
-          "title": "Mon 16 Feb Ferial - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/-PpzoNdMVNo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HAy4PWELKZo",
           "title": "Hl. Messe - 16. Februar 2026",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "M3v3cs-qkNo",
-          "title": "Most Precious Blood Devotions / Dévotions au Très Précieux Sang",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/M3v3cs-qkNo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hVTq2SlEDHw",
           "title": "Sainte messe d'exposition des Quarante Heures - CIBAVIT EOS",
