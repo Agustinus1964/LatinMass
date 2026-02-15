@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-14T23:46:32.920Z",
+  "lastUpdated": "2026-02-15T01:59:02.970Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "iqfUD6un3xQ",
-          "title": "QUINQUAGESIMA SUNDAY - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/iqfUD6un3xQ/mqdefault_live.jpg",
+          "id": "8Db7Xsxks88",
+          "title": "Compline - 2/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8Db7Xsxks88/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/aNLTNKy1n2c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-15T01:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6wvxGWc1deM",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fZaNwAQaR20/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T09:30:00Z"
+        },
+        {
+          "id": "vJCedeZsDIM",
+          "title": "Sainte messe du dimanche de la Quinquagésime - ESTO MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/vJCedeZsDIM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T10:00:00Z"
         },
         {
           "id": "WudgU-k6QyQ",
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SJvKxZ6w0vI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-15T16:30:00Z"
+        },
+        {
+          "id": "AkDkcH3UozI",
+          "title": "Secondes vêpres du dimanche de la Quinquagésime - STANS AUTEM JESUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/AkDkcH3UozI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-15T16:45:00Z"
         },
         {
           "id": "thokfVZfv2o",
