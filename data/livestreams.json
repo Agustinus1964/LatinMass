@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-16T20:56:16.574Z",
+  "lastUpdated": "2026-02-16T21:28:14.517Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PZe-CWI5Vps",
-          "title": "Tue 17 Feb Ferial - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/PZe-CWI5Vps/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oKdakaZoYqg",
           "title": "Low Mass - Feria - 2/17/26",
@@ -45,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7fdfSPw5oq0",
+          "title": "Terço",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/7fdfSPw5oq0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Un3OWVKFesA",
           "title": "6PM Mass. Feria. IV. Monday, February 16, 2026.",
