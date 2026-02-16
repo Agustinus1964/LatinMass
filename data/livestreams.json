@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-16T17:09:33.437Z",
+  "lastUpdated": "2026-02-16T18:01:25.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Am7iyKF38Og",
-          "title": "FSSPX Antwerpen - 16/02 Aanbidding met Rozenhoedje",
+          "id": "cZ_VwtSKkp8",
+          "title": "FSSPX Antwerpen - 16/02 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Am7iyKF38Og/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/cZ_VwtSKkp8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "yZrm9Zgxqz8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/yZrm9Zgxqz8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "LjeET-lyudM",
           "title": "Monday 16th February 2026: Votive Mass of the Blessed Sacrament",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/LjeET-lyudM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-16T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zdbJyel4ZrY",
@@ -69,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/zdbJyel4ZrY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-16T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iMIryMkwOZc",
@@ -78,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/iMIryMkwOZc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-16T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Un3OWVKFesA",
@@ -116,6 +125,33 @@
           "thumbnail": "https://i.ytimg.com/vi/RQLraiexK8I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-17T12:30:00Z"
+        },
+        {
+          "id": "f7OClvi52M4",
+          "title": "Tuesday 17th February 2026: Votive Mass of the Holy Face",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/f7OClvi52M4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T18:00:00Z"
+        },
+        {
+          "id": "fH9QugCHPXg",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/fH9QugCHPXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T18:00:00Z"
+        },
+        {
+          "id": "qYlS0Y4FKyk",
+          "title": "Sainte messe de reposition des Quarante-Heures - CIBAVIT EOS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/qYlS0Y4FKyk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T18:00:00Z"
         }
       ]
     }
