@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T16:03:50.782Z",
+  "lastUpdated": "2026-02-16T17:09:33.437Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,13 +14,13 @@
           "scheduledTime": null
         },
         {
-          "id": "uPN8228bKDE",
-          "title": "Schlussandacht und hl. Messe - 17. Februar 2026",
+          "id": "_bEoGC3TCOk",
+          "title": "Sakramentsandacht und hl. Messe - 16. Februar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uPN8228bKDE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T05:55:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/_bEoGC3TCOk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oKdakaZoYqg",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LvXSzriJylY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-17T12:15:00Z"
+        },
+        {
+          "id": "QSQ2g2LHksE",
+          "title": "Rosenkranz und hl. Messe - 17. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QSQ2g2LHksE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T17:00:00Z"
         }
       ]
     },
