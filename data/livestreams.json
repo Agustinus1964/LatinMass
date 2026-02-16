@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-16T23:28:45.800Z",
+  "lastUpdated": "2026-02-16T23:54:38.107Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Un3OWVKFesA",
-          "title": "6PM Mass. Feria. IV. Monday, February 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Un3OWVKFesA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KPWzPg9u8-o",
           "title": "MASS DURING FORTY HOURS DEVOTION, 2026",
