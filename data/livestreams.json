@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-16T15:07:20.034Z",
+  "lastUpdated": "2026-02-16T16:03:50.782Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Am7iyKF38Og",
+          "title": "FSSPX Antwerpen - 16/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Am7iyKF38Og/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "uPN8228bKDE",
           "title": "Schlussandacht und hl. Messe - 17. Februar 2026",
