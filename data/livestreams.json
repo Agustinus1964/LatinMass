@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-16T12:56:27.562Z",
+  "lastUpdated": "2026-02-16T14:05:11.407Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vs-BxOoBcfM",
-          "title": "Mon. Feb. 16, 2026    -    Ferial Day    -     Day of Adoration",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/vs-BxOoBcfM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uPN8228bKDE",
           "title": "Schlussandacht und hl. Messe - 17. Februar 2026",
@@ -46,31 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uyY9R9mY9ss",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass for Peace)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/uyY9R9mY9ss/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dm7mSep79sQ",
-          "title": "Monday 8 AM Traditional Latin Mass02/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/dm7mSep79sQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "5Hgxk6dd0V4",
           "title": "9AM Mass. Feria. IV. Monday, February 16, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/5Hgxk6dd0V4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-16T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BlbMs3FbLYw",
+          "title": "Santo Sacrificio de La Misa, Feria, 16 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/BlbMs3FbLYw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LjeET-lyudM",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/meROzTRHokk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-17T12:00:00Z"
+        },
+        {
+          "id": "RQLraiexK8I",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass For the Forgiveness of Sins)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/RQLraiexK8I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T12:30:00Z"
         }
       ]
     }
