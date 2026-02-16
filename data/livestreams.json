@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-16T22:56:14.462Z",
+  "lastUpdated": "2026-02-16T23:28:45.800Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ngWWFGbO3Ns",
+          "title": "Wed 18 Feb - 2026 Ash Wednesday",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ngWWFGbO3Ns/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "oKdakaZoYqg",
           "title": "Low Mass - Feria - 2/17/26",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qYlS0Y4FKyk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-17T18:00:00Z"
+        },
+        {
+          "id": "EoUzNIWcO2I",
+          "title": "Divine Office & 6PM Mass. Feria. IV. Tuesday, February 17, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/EoUzNIWcO2I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T23:00:00Z"
         }
       ]
     }
