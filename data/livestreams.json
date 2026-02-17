@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T22:58:15.645Z",
+  "lastUpdated": "2026-02-17T23:34:50.252Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,15 +82,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "EoUzNIWcO2I",
-          "title": "Divine Office & 6PM Mass. Feria. IV. Tuesday, February 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/EoUzNIWcO2I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "c0Alnr-1xU0",
           "title": "MASS CLOSING FORTY HOURS DEVOTION, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/c0Alnr-1xU0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T00:00:00Z"
+        },
+        {
+          "id": "usImu_bdYs8",
+          "title": "Votive Mass of the Holy Face / Messe Votive de la Sainte Face",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/usImu_bdYs8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T00:30:00Z"
         },
         {
           "id": "ij_qdprvqhM",
