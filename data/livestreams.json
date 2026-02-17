@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T17:33:51.256Z",
+  "lastUpdated": "2026-02-17T18:53:53.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,15 +19,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/nc4nIouMvtw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QSQ2g2LHksE",
-          "title": "Rosenkranz und hl. Messe - 17. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QSQ2g2LHksE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aXcS-_QAmwo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T15:00:00Z"
+        },
+        {
+          "id": "f5DZF94VKjg",
+          "title": "Amt - Aschermittwoch - 18. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/f5DZF94VKjg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T18:00:00Z"
         }
       ]
     },
@@ -82,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "f7OClvi52M4",
-          "title": "Tuesday 17th February 2026: Votive Mass of the Holy Face",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/f7OClvi52M4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T18:00:00Z"
-        },
-        {
-          "id": "fH9QugCHPXg",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/fH9QugCHPXg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T18:00:00Z"
+          "id": "Hqu2MNECTBY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Hqu2MNECTBY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qYlS0Y4FKyk",
@@ -105,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/qYlS0Y4FKyk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EoUzNIWcO2I",
@@ -161,6 +152,33 @@
           "thumbnail": "https://i.ytimg.com/vi/HV9FskIyL5M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T16:00:00Z"
+        },
+        {
+          "id": "PvmApuIbm1Y",
+          "title": "Wednesday 18th February 2026: Ash Wednesday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/PvmApuIbm1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T18:00:00Z"
+        },
+        {
+          "id": "nQGImJ0V_do",
+          "title": "Solemn Mass for Ash Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/nQGImJ0V_do/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T18:00:00Z"
+        },
+        {
+          "id": "iAO4opc57TQ",
+          "title": "Sainte messe du Mercredi des Cendres - MISERERIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/iAO4opc57TQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T18:00:00Z"
         }
       ]
     }
