@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-17T06:54:54.547Z",
+  "lastUpdated": "2026-02-17T07:48:52.006Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uPN8228bKDE",
-          "title": "Schlussandacht und hl. Messe - 17. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uPN8228bKDE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "d9aqeUVvZcA",
           "title": "Feria",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/d9aqeUVvZcA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oKdakaZoYqg",
