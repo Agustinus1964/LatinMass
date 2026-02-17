@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-17T01:52:50.938Z",
+  "lastUpdated": "2026-02-17T04:17:18.025Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "F1-xInYJQzE",
-          "title": "Compline - 2/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/F1-xInYJQzE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oKdakaZoYqg",
           "title": "Low Mass - Feria - 2/17/26",
