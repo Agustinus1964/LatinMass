@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T16:27:56.255Z",
+  "lastUpdated": "2026-02-17T17:33:51.256Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,11 +14,20 @@
           "scheduledTime": null
         },
         {
-          "id": "2GTjCCRV8MI",
-          "title": "FSSPX Antwerpen - 17/02 Aanbidding met Rozenhoedje",
+          "id": "nc4nIouMvtw",
+          "title": "FSSPX Antwerpen - 17/02 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2GTjCCRV8MI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/nc4nIouMvtw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "QSQ2g2LHksE",
+          "title": "Rosenkranz und hl. Messe - 17. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QSQ2g2LHksE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rxSC4eysPV8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T01:45:00Z"
-        },
-        {
-          "id": "3RLRozEWSwY",
-          "title": "Hl. Messe - Aschermittwoch - 18. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3RLRozEWSwY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T06:15:00Z"
         },
         {
           "id": "PTA-X8BAGg0",
