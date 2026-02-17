@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-02-17T05:40:50.967Z",
+  "lastUpdated": "2026-02-17T06:54:54.547Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "uPN8228bKDE",
+          "title": "Schlussandacht und hl. Messe - 17. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/uPN8228bKDE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "d9aqeUVvZcA",
+          "title": "Feria",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/d9aqeUVvZcA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-17T07:30:00Z"
+        },
         {
           "id": "oKdakaZoYqg",
           "title": "Low Mass - Feria - 2/17/26",
@@ -23,15 +41,6 @@
           "scheduledTime": "2026-02-17T12:15:00Z"
         },
         {
-          "id": "QSQ2g2LHksE",
-          "title": "Rosenkranz und hl. Messe - 17. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QSQ2g2LHksE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T17:00:00Z"
-        },
-        {
           "id": "LhmdDgdc-Uo",
           "title": "Rosary - 2/17/26",
           "channel": "SSPX Seminary - USA",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rxSC4eysPV8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T01:45:00Z"
+        },
+        {
+          "id": "3RLRozEWSwY",
+          "title": "Hl. Messe - Aschermittwoch - 18. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3RLRozEWSwY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T06:15:00Z"
         }
       ]
     },
