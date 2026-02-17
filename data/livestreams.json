@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T10:41:36.793Z",
+  "lastUpdated": "2026-02-17T11:37:00.408Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,8 +60,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/meROzTRHokk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T12:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "wree0HjHsUg",
+          "title": "Tuesday 6 AM Traditional Catholic Mass 02/17/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/wree0HjHsUg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RQLraiexK8I",
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/c0Alnr-1xU0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T00:00:00Z"
+        },
+        {
+          "id": "ij_qdprvqhM",
+          "title": "Wednesday 6 AM Traditional Catholic Mass02/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ij_qdprvqhM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T10:55:00Z"
         }
       ]
     }
