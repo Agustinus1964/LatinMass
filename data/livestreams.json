@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T15:12:21.757Z",
+  "lastUpdated": "2026-02-17T16:27:56.255Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/LvXSzriJylY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "2GTjCCRV8MI",
+          "title": "FSSPX Antwerpen - 17/02 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/2GTjCCRV8MI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/G9x5by2-nm8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T12:30:00Z"
+        },
+        {
+          "id": "HV9FskIyL5M",
+          "title": "11AM Low Mass. Ash Wednesday. I. February 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/HV9FskIyL5M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T16:00:00Z"
         }
       ]
     }
