@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T11:37:00.408Z",
+  "lastUpdated": "2026-02-17T12:56:44.596Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/oKdakaZoYqg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LvXSzriJylY",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/LvXSzriJylY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LhmdDgdc-Uo",
@@ -48,12 +48,39 @@
           "thumbnail": "https://i.ytimg.com/vi/3RLRozEWSwY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T06:15:00Z"
+        },
+        {
+          "id": "PTA-X8BAGg0",
+          "title": "Wed. Feb. 18, 2026    -    Ash Wednesday    -    Day of Fast and Abstinence",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/PTA-X8BAGg0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T12:15:00Z"
+        },
+        {
+          "id": "vp4ArPMiBF8",
+          "title": "Low Mass - Ash Wednesday - 2/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/vp4ArPMiBF8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T12:20:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "RQLraiexK8I",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass For the Forgiveness of Sins)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/RQLraiexK8I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "meROzTRHokk",
           "title": "7AM Mass & Divine Office. Feria. IV. Tuesday, February 17, 2026.",
@@ -64,22 +91,22 @@
           "scheduledTime": null
         },
         {
-          "id": "wree0HjHsUg",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 02/17/2026",
+          "id": "eBD6xpBQblQ",
+          "title": "Tuesday 8 AM Catholic Mass for 02/17/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/wree0HjHsUg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/eBD6xpBQblQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "RQLraiexK8I",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass For the Forgiveness of Sins)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RQLraiexK8I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T12:30:00Z"
+          "id": "ojD7_eg61nw",
+          "title": "Missa Cantada - Coram exposito",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ojD7_eg61nw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "f7OClvi52M4",
@@ -134,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ij_qdprvqhM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T10:55:00Z"
+        },
+        {
+          "id": "IPWjlqBR-vk",
+          "title": "7AM Low Mass. Ash Wednesday. I. February 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/IPWjlqBR-vk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T12:00:00Z"
         }
       ]
     }
