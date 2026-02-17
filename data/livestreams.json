@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-17T07:48:52.006Z",
+  "lastUpdated": "2026-02-17T08:41:11.131Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "d9aqeUVvZcA",
-          "title": "Feria",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/d9aqeUVvZcA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oKdakaZoYqg",
           "title": "Low Mass - Feria - 2/17/26",
