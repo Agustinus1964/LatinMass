@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-17T12:56:44.596Z",
+  "lastUpdated": "2026-02-17T14:06:46.407Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oKdakaZoYqg",
-          "title": "Low Mass - Feria - 2/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/oKdakaZoYqg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LvXSzriJylY",
           "title": "Tue. Feb. 17, 2026    -    Ferial Day",
@@ -73,29 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RQLraiexK8I",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass For the Forgiveness of Sins)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RQLraiexK8I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "meROzTRHokk",
-          "title": "7AM Mass & Divine Office. Feria. IV. Tuesday, February 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/meROzTRHokk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "eBD6xpBQblQ",
-          "title": "Tuesday 8 AM Catholic Mass for 02/17/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/eBD6xpBQblQ/mqdefault_live.jpg",
+          "id": "ioRNbxghiHY",
+          "title": "Santo Sacrificio de La Misa, Feria, 17 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/ioRNbxghiHY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -170,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IPWjlqBR-vk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T12:00:00Z"
+        },
+        {
+          "id": "G9x5by2-nm8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ash Wednesday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/G9x5by2-nm8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T12:30:00Z"
         }
       ]
     }
