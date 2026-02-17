@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-17T21:32:46.036Z",
+  "lastUpdated": "2026-02-17T22:27:52.173Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "oZCh3GXZGto",
-          "title": "Terço",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/oZCh3GXZGto/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "EoUzNIWcO2I",
           "title": "Divine Office & 6PM Mass. Feria. IV. Tuesday, February 17, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/EoUzNIWcO2I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-17T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "c0Alnr-1xU0",
