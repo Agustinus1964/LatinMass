@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T21:35:19.814Z",
+  "lastUpdated": "2026-02-18T22:28:57.988Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UlLn_UYiva0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T18:00:00Z"
+        },
+        {
+          "id": "KPmKbq8Hhko",
+          "title": "Divine Office & 6PM Mass. Thursday after Ash Wednesday. III. February 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KPmKbq8Hhko/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T22:00:00Z"
         }
       ]
     }
