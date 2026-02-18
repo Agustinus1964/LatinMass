@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T23:01:40.836Z",
+  "lastUpdated": "2026-02-18T23:51:58.689Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "kgxsCDizxWk",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Ash Wednesday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/kgxsCDizxWk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "oQgLl6qcqQM",
           "title": "Divine Office & 7PM Sung Mass. Ash Wednesday. I. February 18, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -82,15 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "kgxsCDizxWk",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Ash Wednesday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/kgxsCDizxWk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T23:30:00Z"
-        },
-        {
           "id": "WWqqtyq_yDw",
           "title": "ASH WEDNESDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WWqqtyq_yDw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T00:00:00Z"
+        },
+        {
+          "id": "A5SkJfbIKi8",
+          "title": "Ash Wednesday / Mercredi des cendres",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/A5SkJfbIKi8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T00:30:00Z"
         },
         {
           "id": "r41N0fRyj8k",
