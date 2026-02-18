@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T08:40:37.345Z",
+  "lastUpdated": "2026-02-18T09:43:19.516Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mKmJCecEY8g",
+          "title": "Quarta feira de Cinzas - Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/mKmJCecEY8g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ij_qdprvqhM",
           "title": "Wednesday 6 AM Traditional Catholic Mass02/18/2026",
