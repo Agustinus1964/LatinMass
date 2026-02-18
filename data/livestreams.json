@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-02-17T23:34:50.252Z",
+  "lastUpdated": "2026-02-18T01:56:31.167Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LvXSzriJylY",
-          "title": "Tue. Feb. 17, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/LvXSzriJylY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LhmdDgdc-Uo",
-          "title": "Rosary - 2/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/LhmdDgdc-Uo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T00:00:00Z"
-        },
         {
           "id": "rxSC4eysPV8",
           "title": "Compline - 2/17/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/rxSC4eysPV8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TWPQu5ZUfXs",
@@ -75,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/f5DZF94VKjg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T18:00:00Z"
+        },
+        {
+          "id": "jIwPJrGjh7c",
+          "title": "Rosary - 2/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jIwPJrGjh7c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T00:00:00Z"
+        },
+        {
+          "id": "jWHdudEbjyY",
+          "title": "Compline - 2/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jWHdudEbjyY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T01:45:00Z"
         }
       ]
     },
@@ -87,8 +87,8 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/c0Alnr-1xU0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T00:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "usImu_bdYs8",
@@ -96,8 +96,8 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/usImu_bdYs8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T00:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ij_qdprvqhM",
@@ -161,6 +161,24 @@
           "thumbnail": "https://i.ytimg.com/vi/iAO4opc57TQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T18:00:00Z"
+        },
+        {
+          "id": "oQgLl6qcqQM",
+          "title": "7PM Sung Mass. Ash Wednesday. I. February 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/oQgLl6qcqQM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T00:00:00Z"
+        },
+        {
+          "id": "WWqqtyq_yDw",
+          "title": "ASH WEDNESDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/WWqqtyq_yDw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T00:00:00Z"
         }
       ]
     }
