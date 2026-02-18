@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T06:58:12.177Z",
+  "lastUpdated": "2026-02-18T07:53:46.591Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/TWPQu5ZUfXs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PTA-X8BAGg0",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aXcS-_QAmwo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-18T15:00:00Z"
+        },
+        {
+          "id": "f5DZF94VKjg",
+          "title": "Amt - Aschermittwoch - 18. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/f5DZF94VKjg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-18T18:00:00Z"
         },
         {
           "id": "jIwPJrGjh7c",
