@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-02-18T11:36:09.274Z",
+  "lastUpdated": "2026-02-18T12:57:49.938Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0ce1j-7-yOE",
-          "title": "Sung Mass - Ash Wednesday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/0ce1j-7-yOE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PTA-X8BAGg0",
           "title": "Wed. Feb. 18, 2026    -    Ash Wednesday    -    Day of Fast and Abstinence",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/PTA-X8BAGg0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T12:15:00Z"
-        },
-        {
-          "id": "vp4ArPMiBF8",
-          "title": "Low Mass - Ash Wednesday - 2/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vp4ArPMiBF8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T12:20:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aXcS-_QAmwo",
@@ -75,12 +57,39 @@
           "thumbnail": "https://i.ytimg.com/vi/ork6EOTYRhU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T06:15:00Z"
+        },
+        {
+          "id": "zws0wcBsVnw",
+          "title": "Low Mass - Thursday after Ash Wednesday - 2/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/zws0wcBsVnw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T12:15:00Z"
+        },
+        {
+          "id": "x-cFemiqqNw",
+          "title": "Thu. Feb. 19, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/x-cFemiqqNw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "G9x5by2-nm8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ash Wednesday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/G9x5by2-nm8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "IPWjlqBR-vk",
           "title": "7AM Mass. Ash Wednesday. I. February 18, 2026.",
@@ -91,22 +100,31 @@
           "scheduledTime": null
         },
         {
-          "id": "ij_qdprvqhM",
-          "title": "Wednesday 6 AM Traditional Catholic Mass02/18/2026",
+          "id": "OkaR04a-YyQ",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 02/18/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/ij_qdprvqhM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/OkaR04a-YyQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "G9x5by2-nm8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ash Wednesday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/G9x5by2-nm8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T12:30:00Z"
+          "id": "hZqK8DNvZM4",
+          "title": "Miércoles de Ceniza.18 de Febrero 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/hZqK8DNvZM4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DF2AegGzGwY",
+          "title": "Missa Cantada Quarta-feira de Cinzas",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/DF2AegGzGwY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HV9FskIyL5M",
@@ -170,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/r41N0fRyj8k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T08:00:00Z"
+        },
+        {
+          "id": "gGd0LJ_p5I0",
+          "title": "7AM Mass & Divine Office. Thursday after Ash Wednesday. III. February 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/gGd0LJ_p5I0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T12:00:00Z"
         }
       ]
     }
