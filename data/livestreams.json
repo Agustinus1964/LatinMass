@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T14:08:08.565Z",
+  "lastUpdated": "2026-02-18T15:11:09.937Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/aXcS-_QAmwo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-18T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "f5DZF94VKjg",
@@ -78,15 +78,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/hZqK8DNvZM4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DF2AegGzGwY",
-          "title": "Missa Cantada Quarta-feira de Cinzas",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/DF2AegGzGwY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
