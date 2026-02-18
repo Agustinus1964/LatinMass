@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-18T07:53:46.591Z",
+  "lastUpdated": "2026-02-18T08:40:37.345Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TWPQu5ZUfXs",
-          "title": "Féria IV Cínerum",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/TWPQu5ZUfXs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PTA-X8BAGg0",
           "title": "Wed. Feb. 18, 2026    -    Ash Wednesday    -    Day of Fast and Abstinence",
@@ -161,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WWqqtyq_yDw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T00:00:00Z"
+        },
+        {
+          "id": "r41N0fRyj8k",
+          "title": "Thursday 19th February 2026: Thursday after Ash Wednesday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/r41N0fRyj8k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-19T08:00:00Z"
         }
       ]
     }
