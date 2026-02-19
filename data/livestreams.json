@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T23:27:02.360Z",
+  "lastUpdated": "2026-02-19T23:53:52.936Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/3Oh1g_N3lTY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T17:00:00Z"
+        },
+        {
+          "id": "dS9M-QDfbWE",
+          "title": "Stations of the Cross - 2/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/dS9M-QDfbWE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T23:50:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KPmKbq8Hhko",
-          "title": "Divine Office & 6PM Mass. Thursday after Ash Wednesday. III. February 19, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KPmKbq8Hhko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3a2h40MI3to",
           "title": "11AM Mass. Friday after Ash Wednesday. III. February 20, 2026.",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/GMe2rfhRHiw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T23:00:00Z"
+        },
+        {
+          "id": "cNrx_DAprzc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Friday after Ash Wednesday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/cNrx_DAprzc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T23:30:00Z"
         }
       ]
     }
