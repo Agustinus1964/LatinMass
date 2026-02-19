@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-19T17:28:11.903Z",
+  "lastUpdated": "2026-02-19T18:11:51.116Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "eHLaU7ZqW2o",
-          "title": "FSSPX Antwerpen - 19/02 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/eHLaU7ZqW2o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_sgXIAWaec8",
-          "title": "FSSPX Antwerpen - 19/02 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/_sgXIAWaec8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DB3S4Sq7jeU",
           "title": "Sakramentsandacht und hl. Messe - 19. Februar 2026",
@@ -82,13 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "HrsXAn1KZU8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/HrsXAn1KZU8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "hQULi5j90Hw",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/hQULi5j90Hw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UlLn_UYiva0",
@@ -96,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/UlLn_UYiva0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KPmKbq8Hhko",
@@ -116,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/3a2h40MI3to/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T16:00:00Z"
+        },
+        {
+          "id": "F2mg5VvWKMs",
+          "title": "Friday 20th February 2026: Friday after Ash Wednesday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/F2mg5VvWKMs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T18:00:00Z"
+        },
+        {
+          "id": "PKg-6OrngWc",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/PKg-6OrngWc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T18:00:00Z"
+        },
+        {
+          "id": "EKCtPKpaWjk",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/EKCtPKpaWjk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T18:00:00Z"
         }
       ]
     }
