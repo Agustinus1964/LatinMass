@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-18T23:51:58.689Z",
+  "lastUpdated": "2026-02-19T01:55:37.060Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/jWHdudEbjyY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ork6EOTYRhU",
@@ -66,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/DB3S4Sq7jeU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T16:00:00Z"
+        },
+        {
+          "id": "dhHMHSw-nZU",
+          "title": "Benediction - 2/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/dhHMHSw-nZU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T00:00:00Z"
+        },
+        {
+          "id": "cmJCe6GPrfA",
+          "title": "Compline - 2/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/cmJCe6GPrfA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T01:45:00Z"
         }
       ]
     },
@@ -73,40 +91,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "kgxsCDizxWk",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Ash Wednesday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/kgxsCDizxWk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oQgLl6qcqQM",
-          "title": "Divine Office & 7PM Sung Mass. Ash Wednesday. I. February 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/oQgLl6qcqQM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WWqqtyq_yDw",
-          "title": "ASH WEDNESDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/WWqqtyq_yDw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T00:00:00Z"
-        },
-        {
           "id": "A5SkJfbIKi8",
           "title": "Ash Wednesday / Mercredi des cendres",
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/A5SkJfbIKi8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T00:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "r-Z4G_LNPJ0",
+          "title": "Miércoles de Ceniza.18 de Febrero 2026",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/r-Z4G_LNPJ0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r41N0fRyj8k",
@@ -127,11 +127,11 @@
           "scheduledTime": "2026-02-19T12:00:00Z"
         },
         {
-          "id": "oBv3GC0Blx4",
+          "id": "FuptyqLuBWk",
           "title": "Live Stream Holy Mass from Cleveland USA (Thursday after Ash Wednesday)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/oBv3GC0Blx4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FuptyqLuBWk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T12:30:00Z"
         },
