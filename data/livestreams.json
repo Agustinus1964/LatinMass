@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T21:58:25.273Z",
+  "lastUpdated": "2026-02-19T22:37:41.161Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "jXOLrpUMoSs",
-          "title": "Benção do Santíssimo Sacramento e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/jXOLrpUMoSs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3a2h40MI3to",
           "title": "11AM Mass. Friday after Ash Wednesday. III. February 20, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EKCtPKpaWjk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T18:00:00Z"
+        },
+        {
+          "id": "MlV0y24GJN8",
+          "title": "Divine Office, Mass, Holy Hour. Friday after Ash Wednesday. III. February 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/MlV0y24GJN8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T22:00:00Z"
         }
       ]
     }
