@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-19T19:55:58.555Z",
+  "lastUpdated": "2026-02-19T20:31:39.066Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7nEJ51BWZBQ",
+          "title": "Mass of Friday after Ash Wednesday - 20.2.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/7nEJ51BWZBQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "cmJCe6GPrfA",
           "title": "Compline - 2/16/26",
