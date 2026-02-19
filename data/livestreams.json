@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-19T05:41:25.609Z",
+  "lastUpdated": "2026-02-19T06:56:50.076Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ork6EOTYRhU",
-          "title": "Hl. Messe - 19. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ork6EOTYRhU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T06:15:00Z"
-        },
-        {
-          "id": "GBe55jRkF3k",
-          "title": "Thursday after Ash Wednesday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/GBe55jRkF3k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T07:30:00Z"
-        },
         {
           "id": "3ZRVfKJ1CFk",
           "title": "Thursday after Ash Wednesday",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cmJCe6GPrfA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T01:45:00Z"
+        },
+        {
+          "id": "HoTm2R1Iu7w",
+          "title": "Hl. Messe - 20. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HoTm2R1Iu7w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T06:15:00Z"
         }
       ]
     },
