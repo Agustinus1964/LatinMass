@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T15:12:38.765Z",
+  "lastUpdated": "2026-02-19T16:11:35.597Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/DB3S4Sq7jeU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cmJCe6GPrfA",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KPmKbq8Hhko/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T22:00:00Z"
+        },
+        {
+          "id": "3a2h40MI3to",
+          "title": "11AM Mass. Friday after Ash Wednesday. III. February 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3a2h40MI3to/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T16:00:00Z"
         }
       ]
     }
