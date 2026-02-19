@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T06:56:50.076Z",
+  "lastUpdated": "2026-02-19T07:49:37.981Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/3ZRVfKJ1CFk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zws0wcBsVnw",
@@ -78,8 +78,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/r41N0fRyj8k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-19T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gGd0LJ_p5I0",
