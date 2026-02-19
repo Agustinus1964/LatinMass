@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-19T01:55:37.060Z",
+  "lastUpdated": "2026-02-19T04:19:45.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jWHdudEbjyY",
-          "title": "Compline - 2/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jWHdudEbjyY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ork6EOTYRhU",
           "title": "Hl. Messe - 19. Februar 2026",
@@ -90,24 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "A5SkJfbIKi8",
-          "title": "Ash Wednesday / Mercredi des cendres",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/A5SkJfbIKi8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "r-Z4G_LNPJ0",
-          "title": "Miércoles de Ceniza.18 de Febrero 2026",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/r-Z4G_LNPJ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "r41N0fRyj8k",
           "title": "Thursday 19th February 2026: Thursday after Ash Wednesday",
