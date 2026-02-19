@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-19T12:58:44.615Z",
+  "lastUpdated": "2026-02-19T14:11:20.694Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DB3S4Sq7jeU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-19T16:00:00Z"
-        },
-        {
-          "id": "dhHMHSw-nZU",
-          "title": "Benediction - 2/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dhHMHSw-nZU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T00:00:00Z"
         },
         {
           "id": "cmJCe6GPrfA",
@@ -72,24 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FuptyqLuBWk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Thursday after Ash Wednesday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/FuptyqLuBWk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K6z_bVqIVss",
-          "title": "Thursday 8 AM Traditional Catholic Mass 02/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/K6z_bVqIVss/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hQULi5j90Hw",
           "title": "Thursday",
