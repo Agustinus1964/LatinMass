@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-20T12:57:36.576Z",
+  "lastUpdated": "2026-02-20T14:01:42.873Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1hmU3sjPu80",
-          "title": "Fri. Feb. 20, 2026     -     Ferial Day in Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/1hmU3sjPu80/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T12:15:00Z"
-        },
         {
           "id": "3Oh1g_N3lTY",
           "title": "Rosenkranz und hl. Messe - 20. Februar 2026",
@@ -21,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3Oh1g_N3lTY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T17:00:00Z"
-        },
-        {
-          "id": "dS9M-QDfbWE",
-          "title": "Stations of the Cross - 2/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dS9M-QDfbWE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T23:50:00Z"
         },
         {
           "id": "tI71WRrGQqk",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/053MJZvgujA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-21T12:15:00Z"
+        },
+        {
+          "id": "6BfMB6niZ8k",
+          "title": "Sat. Feb. 21, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/6BfMB6niZ8k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T13:00:00Z"
         }
       ]
     },
@@ -64,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YTny2n2RBzM",
-          "title": "Friday 8 AM Catholic Mass for 02/20/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/YTny2n2RBzM/mqdefault_live.jpg",
+          "id": "skhGMHRd0N4",
+          "title": "Santo Sacrificio de La Misa, viernes después del miércoles de Ceniza, 20 de Febrero,  2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/skhGMHRd0N4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eDmJ8dmQmn0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-21T10:30:00Z"
+        },
+        {
+          "id": "D5mqkUtWCPs",
+          "title": "9AM Mass. Saturday after Ash Wednesday. III. February 21, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/D5mqkUtWCPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T14:00:00Z"
         }
       ]
     }
