@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T09:37:18.754Z",
+  "lastUpdated": "2026-02-20T10:33:50.465Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9RO7QNAuaKw",
-          "title": "Prime e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9RO7QNAuaKw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3a2h40MI3to",
           "title": "11AM Mass. Friday after Ash Wednesday. III. February 20, 2026.",
@@ -143,6 +134,24 @@
           "thumbnail": "https://i.ytimg.com/vi/kvHKGV7ZEt0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-21T08:30:00Z"
+        },
+        {
+          "id": "t2LFW9TNLho",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/t2LFW9TNLho/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T10:00:00Z"
+        },
+        {
+          "id": "eDmJ8dmQmn0",
+          "title": "Saturday 21st February 2026: Saturday after Ash Wednesday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/eDmJ8dmQmn0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T10:30:00Z"
         }
       ]
     }
