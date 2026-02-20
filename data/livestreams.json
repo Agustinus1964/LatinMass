@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-20T11:29:19.715Z",
+  "lastUpdated": "2026-02-20T11:56:05.341Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_JYlO8W4AWo",
+          "title": "Spiritual Conference: Our Lady of Guadalupe",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/_JYlO8W4AWo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_C6kcEXh4IU",
           "title": "Low Mass - Friday after Ash Wednesday - 2/20/26",
