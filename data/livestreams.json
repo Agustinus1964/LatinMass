@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-02-19T23:53:52.936Z",
+  "lastUpdated": "2026-02-20T01:51:01.189Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
           "id": "cmJCe6GPrfA",
-          "title": "Compline - 2/16/26",
+          "title": "Compline - 2/19/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/cmJCe6GPrfA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HoTm2R1Iu7w",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dS9M-QDfbWE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T23:50:00Z"
+        },
+        {
+          "id": "tI71WRrGQqk",
+          "title": "Compline - 2/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/tI71WRrGQqk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T01:45:00Z"
         }
       ]
     },
