@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-20T21:48:35.626Z",
+  "lastUpdated": "2026-02-20T22:21:59.030Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "1hmU3sjPu80",
+          "title": "Fri. Feb. 20, 2026     -     Ferial Day in Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/1hmU3sjPu80/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-20T23:00:00Z"
+        },
         {
           "id": "tI71WRrGQqk",
           "title": "Compline - 2/20/26",
@@ -60,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/MlV0y24GJN8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8-vFBnc80Vg",
-          "title": "Via sacra e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8-vFBnc80Vg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
