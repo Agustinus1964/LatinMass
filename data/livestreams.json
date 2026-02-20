@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-20T06:51:56.927Z",
+  "lastUpdated": "2026-02-20T07:45:20.833Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HoTm2R1Iu7w",
-          "title": "Hl. Messe - 20. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HoTm2R1Iu7w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "R72oHAAChfA",
           "title": "Friday after Ash Wednesday",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/R72oHAAChfA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_C6kcEXh4IU",
