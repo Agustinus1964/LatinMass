@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-20T07:45:20.833Z",
+  "lastUpdated": "2026-02-20T08:36:38.514Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "R72oHAAChfA",
-          "title": "Friday after Ash Wednesday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/R72oHAAChfA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_C6kcEXh4IU",
           "title": "Low Mass - Friday after Ash Wednesday - 2/20/26",
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cNrx_DAprzc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-20T23:30:00Z"
+        },
+        {
+          "id": "kvHKGV7ZEt0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/kvHKGV7ZEt0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T08:30:00Z"
         }
       ]
     }
