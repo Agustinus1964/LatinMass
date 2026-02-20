@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T15:58:36.569Z",
+  "lastUpdated": "2026-02-20T16:49:58.054Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "EX6iCsy106I",
-          "title": "FSSPX Antwerpen - 20/02 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "XfqHF14LjEY",
+          "title": "FSSPX Antwerpen - 20/02 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EX6iCsy106I/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/XfqHF14LjEY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3a2h40MI3to",
-          "title": "11AM Mass. Friday after Ash Wednesday. III. February 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3a2h40MI3to/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "F2mg5VvWKMs",
           "title": "Friday 20th February 2026: Friday after Ash Wednesday",
