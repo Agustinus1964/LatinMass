@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-20T23:26:00.893Z",
+  "lastUpdated": "2026-02-20T23:51:48.181Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1hmU3sjPu80",
-          "title": "Fri. Feb. 20, 2026     -     Ferial Day in Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/1hmU3sjPu80/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tI71WRrGQqk",
           "title": "Compline - 2/20/26",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "cNrx_DAprzc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Friday after Ash Wednesday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/cNrx_DAprzc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "MlV0y24GJN8",
           "title": "Divine Office, Mass, Holy Hour. Friday after Ash Wednesday. III. February 20, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -80,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GMe2rfhRHiw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "cNrx_DAprzc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Friday after Ash Wednesday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/cNrx_DAprzc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T23:30:00Z"
         },
         {
           "id": "kvHKGV7ZEt0",
