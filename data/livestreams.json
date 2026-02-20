@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-20T11:56:05.341Z",
+  "lastUpdated": "2026-02-20T12:57:36.576Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_JYlO8W4AWo",
-          "title": "Spiritual Conference: Our Lady of Guadalupe",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/_JYlO8W4AWo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_C6kcEXh4IU",
-          "title": "Low Mass - Friday after Ash Wednesday - 2/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/_C6kcEXh4IU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T12:15:00Z"
-        },
         {
           "id": "1hmU3sjPu80",
           "title": "Fri. Feb. 20, 2026     -     Ferial Day in Lent",
@@ -66,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/hNf9CV4EMxA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-21T06:15:00Z"
+        },
+        {
+          "id": "053MJZvgujA",
+          "title": "Low Mass - Saturday after Ash Wednesday - 2/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/053MJZvgujA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "YTny2n2RBzM",
+          "title": "Friday 8 AM Catholic Mass for 02/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/YTny2n2RBzM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "3a2h40MI3to",
           "title": "11AM Mass. Friday after Ash Wednesday. III. February 20, 2026.",
