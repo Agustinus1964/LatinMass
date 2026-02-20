@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-20T21:21:14.601Z",
+  "lastUpdated": "2026-02-20T21:48:35.626Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QzqLVsvYQyo",
-          "title": "Mass of Saturday after Ash Wednesday - 21st February 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/QzqLVsvYQyo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tI71WRrGQqk",
           "title": "Compline - 2/20/26",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "MlV0y24GJN8",
+          "title": "Divine Office, Mass, Holy Hour. Friday after Ash Wednesday. III. February 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/MlV0y24GJN8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "8-vFBnc80Vg",
           "title": "Via sacra e Missa Rezada",
           "channel": "Missa Tridentina em Brasília",
@@ -71,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8-vFBnc80Vg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "MlV0y24GJN8",
-          "title": "Divine Office, Mass, Holy Hour. Friday after Ash Wednesday. III. February 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/MlV0y24GJN8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T22:00:00Z"
         },
         {
           "id": "GMe2rfhRHiw",
