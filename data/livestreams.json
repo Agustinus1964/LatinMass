@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-20T17:35:00.542Z",
+  "lastUpdated": "2026-02-20T18:41:12.639Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "o_VDylsV-sE",
-          "title": "FSSPX Antwerpen - 20/02 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/o_VDylsV-sE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3Oh1g_N3lTY",
-          "title": "Rosenkranz und hl. Messe - 20. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3Oh1g_N3lTY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tI71WRrGQqk",
           "title": "Compline - 2/20/26",
@@ -69,17 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/F2mg5VvWKMs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T18:00:00Z"
-        },
-        {
-          "id": "PKg-6OrngWc",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/PKg-6OrngWc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EKCtPKpaWjk",
@@ -87,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/EKCtPKpaWjk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MlV0y24GJN8",
