@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-20T20:26:59.789Z",
+  "lastUpdated": "2026-02-20T20:54:23.676Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hNf9CV4EMxA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-21T06:15:00Z"
+        },
+        {
+          "id": "tiocEKmw16w",
+          "title": "Saturday after Ash Wednesday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/tiocEKmw16w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T07:30:00Z"
         },
         {
           "id": "053MJZvgujA",
@@ -45,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "8-vFBnc80Vg",
+          "title": "Via sacra e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/8-vFBnc80Vg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "MlV0y24GJN8",
           "title": "Divine Office, Mass, Holy Hour. Friday after Ash Wednesday. III. February 20, 2026.",
