@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-20T15:06:07.166Z",
+  "lastUpdated": "2026-02-20T15:58:36.569Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "EX6iCsy106I",
+          "title": "FSSPX Antwerpen - 20/02 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/EX6iCsy106I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "3Oh1g_N3lTY",
           "title": "Rosenkranz und hl. Messe - 20. Februar 2026",
@@ -60,8 +69,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/3a2h40MI3to/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "F2mg5VvWKMs",
