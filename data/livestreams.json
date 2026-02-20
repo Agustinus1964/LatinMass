@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T16:49:58.054Z",
+  "lastUpdated": "2026-02-20T17:35:00.542Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "XfqHF14LjEY",
-          "title": "FSSPX Antwerpen - 20/02 H. Kruisweg",
+          "id": "o_VDylsV-sE",
+          "title": "FSSPX Antwerpen - 20/02 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/XfqHF14LjEY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/o_VDylsV-sE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/3Oh1g_N3lTY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tI71WRrGQqk",
