@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T14:23:33.942Z",
+  "lastUpdated": "2026-02-21T14:51:40.705Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,33 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RRUxyqa_ZB0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday after Ash Wednesday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RRUxyqa_ZB0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "D5mqkUtWCPs",
-          "title": "7:30AM Mass, Rosary, 9AM Mass. Saturday after Ash Wednesday. III. February 21, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/D5mqkUtWCPs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KOClLwysQQs",
-          "title": "Saturday 9 AM Catholic Mass for 02/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/KOClLwysQQs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "yPcjz_Aaee8",
           "title": "Santo Sacrificio de La Misa, sábado después del miércoles de Ceniza, 21 de Febrero,  2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -71,6 +44,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yPcjz_Aaee8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "YtWBrth3ELY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/YtWBrth3ELY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-21T14:58:00Z"
         },
         {
           "id": "KxgoHSwBgdE",
