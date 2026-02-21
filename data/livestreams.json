@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T16:24:48.262Z",
+  "lastUpdated": "2026-02-21T16:54:07.279Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iH2jdHALsqM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T15:00:00Z"
+        },
+        {
+          "id": "Deka-9JAOjc",
+          "title": "Vesper und Sakramentsandacht - 1. Fastensonntag - 22. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Deka-9JAOjc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T16:50:00Z"
         }
       ]
     },
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AgJAq11dIrs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T15:30:00Z"
+        },
+        {
+          "id": "aUUk9R6CCE4",
+          "title": "FIRST SUNDAY OF LENT, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T16:30:00Z"
         }
       ]
     }
