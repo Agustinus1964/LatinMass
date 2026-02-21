@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T09:52:46.264Z",
+  "lastUpdated": "2026-02-21T10:22:02.977Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rlan9QaXClo",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rlan9QaXClo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "eDmJ8dmQmn0",
           "title": "Saturday 21st February 2026: Saturday after Ash Wednesday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/eDmJ8dmQmn0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-21T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "t2LFW9TNLho",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/t2LFW9TNLho/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "D5mqkUtWCPs",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2BaDAqKIMVc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T09:30:00Z"
+        },
+        {
+          "id": "V9fFGiYBoag",
+          "title": "Sainte messe du premier dimanche de Carême - INVOCABIT ME",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/V9fFGiYBoag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T10:00:00Z"
         }
       ]
     }
