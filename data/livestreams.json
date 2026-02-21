@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T17:50:15.162Z",
+  "lastUpdated": "2026-02-21T18:30:26.107Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/aqNoQK59HiU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T15:00:00Z"
-        },
-        {
-          "id": "iH2jdHALsqM",
-          "title": "Sun. Feb. 22, 2026    -    First Sunday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/iH2jdHALsqM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T15:00:00Z"
         },
