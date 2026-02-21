@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T11:19:26.167Z",
+  "lastUpdated": "2026-02-21T11:43:49.795Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,6 +69,15 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/eDmJ8dmQmn0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "USO0GrfVe0A",
+          "title": "Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/USO0GrfVe0A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
