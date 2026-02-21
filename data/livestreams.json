@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T09:27:30.610Z",
+  "lastUpdated": "2026-02-21T09:52:46.264Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KxgoHSwBgdE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T08:00:00Z"
+        },
+        {
+          "id": "2BaDAqKIMVc",
+          "title": "9:30am —  1st Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/2BaDAqKIMVc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T09:30:00Z"
         }
       ]
     }
