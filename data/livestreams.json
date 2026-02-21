@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T16:54:07.279Z",
+  "lastUpdated": "2026-02-21T17:22:48.828Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zIW4xuR9LYs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T08:30:00Z"
+        },
+        {
+          "id": "Uxexo67Py10",
+          "title": "1st Sunday of Lent",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/Uxexo67Py10/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T11:00:00Z"
         },
         {
           "id": "ZHGmLLFKY_g",
@@ -119,7 +128,7 @@
         },
         {
           "id": "wwOSUqqo82s",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The First Sunday in Lent)",
+          "title": "Live Stream Holy Mass from Cleveland USA (The First Sunday in Lent)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/wwOSUqqo82s/mqdefault_live.jpg",
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T16:30:00Z"
+        },
+        {
+          "id": "2P9-TsJuTjU",
+          "title": "Vespers and Benediction — 1st Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/2P9-TsJuTjU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T17:00:00Z"
         }
       ]
     }
