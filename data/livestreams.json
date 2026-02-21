@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-21T21:44:39.480Z",
+  "lastUpdated": "2026-02-21T22:19:58.222Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Deka-9JAOjc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T16:50:00Z"
+        },
+        {
+          "id": "733U-OF-pCg",
+          "title": "Simple II Vespers - First Sunday of Lent - 2/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/733U-OF-pCg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T22:00:00Z"
         }
       ]
     },
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T16:30:00Z"
+        },
+        {
+          "id": "2KK_AyIMVRE",
+          "title": "Secondes vêpres du premier dimanche de Carême - ECCE NUNC TEMPUS ACCEPTABILE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/2KK_AyIMVRE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T16:45:00Z"
         },
         {
           "id": "2P9-TsJuTjU",
