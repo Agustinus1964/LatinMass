@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-21T10:22:02.977Z",
+  "lastUpdated": "2026-02-21T10:51:27.621Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "QO0vCS6CNew",
+          "title": "FSSPX Antwerpen - 21/02 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/QO0vCS6CNew/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "053MJZvgujA",
           "title": "Low Mass - Saturday after Ash Wednesday - 2/21/26",
@@ -64,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "t2LFW9TNLho",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/t2LFW9TNLho/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "D5mqkUtWCPs",
           "title": "7:30AM Mass, Rosary, 9AM Mass. Saturday after Ash Wednesday. III. February 21, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/V9fFGiYBoag/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T10:00:00Z"
+        },
+        {
+          "id": "OeTCeosz9nU",
+          "title": "Sunday 22nd February 2026: First Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/OeTCeosz9nU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T10:30:00Z"
         }
       ]
     }
