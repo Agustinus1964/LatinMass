@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-21T22:48:58.924Z",
+  "lastUpdated": "2026-02-21T23:21:06.534Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bdlKIzxmO3k",
+          "title": "FIRST SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/bdlKIzxmO3k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zIW4xuR9LYs",
           "title": "Amt - 1. Fastensonntag - 22. Februar 2026",
