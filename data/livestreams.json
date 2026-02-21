@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-21T08:26:43.617Z",
+  "lastUpdated": "2026-02-21T08:55:39.200Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tiocEKmw16w",
-          "title": "Saturday after Ash Wednesday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/tiocEKmw16w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-21T07:30:00Z"
-        },
         {
           "id": "053MJZvgujA",
           "title": "Low Mass - Saturday after Ash Wednesday - 2/21/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zS7Pr-CDgXY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T01:45:00Z"
+        },
+        {
+          "id": "zIW4xuR9LYs",
+          "title": "Amt - 1. Fastensonntag - 22. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/zIW4xuR9LYs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T08:30:00Z"
         }
       ]
     },
