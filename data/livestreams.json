@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-22T08:57:16.878Z",
+  "lastUpdated": "2026-02-22T09:34:13.511Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jk8B9Zj7hbY",
+          "title": "FSSPX Antwerpen - 22/02 1° ZONDAG van de Vasten",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/jk8B9Zj7hbY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zIW4xuR9LYs",
           "title": "Amt - 1. Fastensonntag - 22. Februar 2026",
@@ -19,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/LeiewnEGOvE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T09:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Uxexo67Py10",
@@ -105,8 +114,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/2BaDAqKIMVc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "V9fFGiYBoag",
