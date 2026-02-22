@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-02-22T13:40:55.675Z",
+  "lastUpdated": "2026-02-22T14:23:02.043Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "6fIJnIzmZSs",
-          "title": "Kreuzweg - 1. Fastensonntag - 22. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6fIJnIzmZSs/mqdefault_live.jpg",
+          "id": "7D6XywUYsMA",
+          "title": "First Sunday of Lent - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/7D6XywUYsMA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Qly8cij0J6Y",
+          "title": "FSSPX Antwerpen - 22/02 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Qly8cij0J6Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,20 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "wwOSUqqo82s",
-          "title": "Live Stream Holy Mass from Cleveland USA (The First Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/wwOSUqqo82s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ol-zqdGhxQ8",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. First Sunday of Lent. I. February 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Ol-zqdGhxQ8/mqdefault_live.jpg",
+          "id": "ZvSzcvyQy-8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ZvSzcvyQy-8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,6 +105,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/hSTXt7UKcT0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "u3NXp8SjPMc",
+          "title": "Santa Misa Dominical. 22 de Febrero,  2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/u3NXp8SjPMc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,6 +132,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/AgJAq11dIrs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T15:30:00Z"
+        },
+        {
+          "id": "wpHPEv_dmAI",
+          "title": "1st Sunday of Lent / Premier dimanche de Carême",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/wpHPEv_dmAI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T15:30:00Z"
         },
