@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T17:50:07.647Z",
+  "lastUpdated": "2026-02-22T18:31:06.623Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/OFuVAi8TD1s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "733U-OF-pCg",
@@ -64,29 +64,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "aUUk9R6CCE4",
-          "title": "FIRST SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
+          "id": "W02rB9btDgs",
+          "title": "Sunday 1:30 PM Catholic Mass 02/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/W02rB9btDgs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "u3NXp8SjPMc",
-          "title": "Santa Misa Dominical. 22 de Febrero,  2026.",
+          "id": "Sg6GR3OaNno",
+          "title": "Santo Sacrificio de la Misa. Primer Domingo de Cuaresma. 22 de Febrero,  2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/u3NXp8SjPMc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2P9-TsJuTjU",
-          "title": "Vespers and Benediction — 1st Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/2P9-TsJuTjU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Sg6GR3OaNno/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/fj2hxwLLOLk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-23T12:30:00Z"
+        },
+        {
+          "id": "bhKclBN3T7o",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/bhKclBN3T7o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T18:00:00Z"
+        },
+        {
+          "id": "kjLAj5m2fOw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/kjLAj5m2fOw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T18:00:00Z"
         }
       ]
     }
