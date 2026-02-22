@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-22T16:25:24.871Z",
+  "lastUpdated": "2026-02-22T16:55:43.844Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aqNoQK59HiU",
-          "title": "Solemn High Mass - First Sunday of Lent - 2/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aqNoQK59HiU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UwKBYCAIwCk",
           "title": "First Sunday in Lent, February 22, 2026",
@@ -37,8 +28,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/Deka-9JAOjc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T16:50:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OFuVAi8TD1s",
@@ -100,15 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "AgJAq11dIrs",
-          "title": "10:30AM Sung Mass. First Sunday of Lent. I. February 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/AgJAq11dIrs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "aUUk9R6CCE4",
           "title": "FIRST SUNDAY OF LENT, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -150,8 +132,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/2KK_AyIMVRE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T16:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2P9-TsJuTjU",
