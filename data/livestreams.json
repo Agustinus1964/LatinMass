@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T11:18:27.200Z",
+  "lastUpdated": "2026-02-22T11:43:43.879Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,6 +91,15 @@
           "scheduledTime": null
         },
         {
+          "id": "Ol-zqdGhxQ8",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. First Sunday of Lent. I. February 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Ol-zqdGhxQ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "eIIVVtgqKYc",
           "title": "11am — 1st Sunday of Lent",
           "channel": "Oxford Oratory",
@@ -116,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/E9Mo0X6bmd0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Ol-zqdGhxQ8",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. First Sunday of Lent. I. February 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Ol-zqdGhxQ8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T12:00:00Z"
         },
         {
           "id": "wwOSUqqo82s",
