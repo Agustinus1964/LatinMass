@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-22T11:43:43.879Z",
+  "lastUpdated": "2026-02-22T12:41:50.662Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Uxexo67Py10",
-          "title": "1st Sunday of Lent",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/Uxexo67Py10/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZHGmLLFKY_g",
           "title": "Low Mass - First Sunday of Lent - 2/22/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/ZHGmLLFKY_g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T12:20:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6fIJnIzmZSs",
@@ -75,21 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/f6A4V9_whv4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-23T01:45:00Z"
+        },
+        {
+          "id": "Abwk8KBEafE",
+          "title": "Low Mass - Feria of Lent - 2/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Abwk8KBEafE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T12:15:00Z"
+        },
+        {
+          "id": "jJUsnEcVRoU",
+          "title": "Mon. Feb. 23, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/jJUsnEcVRoU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OeTCeosz9nU",
-          "title": "Sunday 22nd February 2026: First Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/OeTCeosz9nU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Ol-zqdGhxQ8",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. First Sunday of Lent. I. February 22, 2026.",
@@ -100,29 +100,20 @@
           "scheduledTime": null
         },
         {
-          "id": "eIIVVtgqKYc",
-          "title": "11am — 1st Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/eIIVVtgqKYc/mqdefault_live.jpg",
+          "id": "duE3m3djpnY",
+          "title": "Sunday 7 AM Catholic Mass for 02/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/duE3m3djpnY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "V9fFGiYBoag",
-          "title": "Sainte messe du premier dimanche de Carême - INVOCABIT ME",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/V9fFGiYBoag/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E9Mo0X6bmd0",
-          "title": "Missa Rezada 1º Domingo da Quaresma",
+          "id": "FyIRF0_xWk8",
+          "title": "Missa Cantada do 1º Domingo da Quaresma",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/E9Mo0X6bmd0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FyIRF0_xWk8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -179,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Icsb7dRAUeI/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T19:00:00Z"
+        },
+        {
+          "id": "cstF4PwaG08",
+          "title": "7AM Mass & Divine Office. Feria of Lent. III. February 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/cstF4PwaG08/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T12:00:00Z"
         }
       ]
     }
