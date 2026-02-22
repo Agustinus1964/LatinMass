@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T04:14:19.412Z",
+  "lastUpdated": "2026-02-22T05:33:51.243Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Deka-9JAOjc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T16:50:00Z"
+        },
+        {
+          "id": "OFuVAi8TD1s",
+          "title": "I Sunday of Lent | February 22nd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/OFuVAi8TD1s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T18:00:00Z"
         },
         {
           "id": "733U-OF-pCg",
