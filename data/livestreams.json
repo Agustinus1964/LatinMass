@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-22T19:44:16.875Z",
+  "lastUpdated": "2026-02-22T20:22:59.393Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "rtrWLrQKEwg",
+          "title": "Monday after FIRST SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/rtrWLrQKEwg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "733U-OF-pCg",
           "title": "Simple II Vespers - First Sunday of Lent - 2/22/26",
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "KKALtNVYSPc",
+          "title": "Missa Rezada do 1º Domingo da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/KKALtNVYSPc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "cstF4PwaG08",
           "title": "7AM Mass & Divine Office. Feria of Lent. III. February 23, 2026.",
