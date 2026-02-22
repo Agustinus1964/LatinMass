@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T15:47:49.902Z",
+  "lastUpdated": "2026-02-22T16:25:24.871Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,38 +14,11 @@
           "scheduledTime": null
         },
         {
-          "id": "7D6XywUYsMA",
-          "title": "First Sunday of Lent - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/7D6XywUYsMA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Wm4VWIRLuRo",
-          "title": "First Sunday Of Lent",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/Wm4VWIRLuRo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "UwKBYCAIwCk",
           "title": "First Sunday in Lent, February 22, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/UwKBYCAIwCk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iH2jdHALsqM",
-          "title": "Sun. Feb. 22, 2026    -    First Sunday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/iH2jdHALsqM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,11 +91,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "n05BVFkGl64",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/n05BVFkGl64/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "AgJAq11dIrs",
           "title": "10:30AM Sung Mass. First Sunday of Lent. I. February 22, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/AgJAq11dIrs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "aUUk9R6CCE4",
+          "title": "FIRST SUNDAY OF LENT, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BaBO8DH4BiY",
+          "title": "Sunday 11 AM Sung Mass 2026-02-22",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/BaBO8DH4BiY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,15 +143,6 @@
           "thumbnail": "https://i.ytimg.com/vi/u3NXp8SjPMc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "aUUk9R6CCE4",
-          "title": "FIRST SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T16:30:00Z"
         },
         {
           "id": "2KK_AyIMVRE",
