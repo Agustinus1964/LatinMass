@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-02-22T14:23:02.043Z",
+  "lastUpdated": "2026-02-22T14:51:03.997Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "aqNoQK59HiU",
+          "title": "Solemn High Mass - First Sunday of Lent - 2/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/aqNoQK59HiU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7D6XywUYsMA",
           "title": "First Sunday of Lent - The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/7D6XywUYsMA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Wm4VWIRLuRo",
+          "title": "First Sunday Of Lent",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/Wm4VWIRLuRo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Qly8cij0J6Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "aqNoQK59HiU",
-          "title": "Solemn High Mass - First Sunday of Lent - 2/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aqNoQK59HiU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T15:00:00Z"
         },
         {
           "id": "Deka-9JAOjc",
@@ -100,29 +109,11 @@
           "scheduledTime": null
         },
         {
-          "id": "hSTXt7UKcT0",
-          "title": "Sunday 8:30 AM Catholic Mass for 02/22/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/hSTXt7UKcT0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "u3NXp8SjPMc",
           "title": "Santa Misa Dominical. 22 de Febrero,  2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/u3NXp8SjPMc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FyIRF0_xWk8",
-          "title": "Missa Cantada do 1º Domingo da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/FyIRF0_xWk8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
