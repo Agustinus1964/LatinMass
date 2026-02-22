@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-22T17:23:47.131Z",
+  "lastUpdated": "2026-02-22T17:50:07.647Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UwKBYCAIwCk",
-          "title": "First Sunday in Lent, February 22, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/UwKBYCAIwCk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Qly8cij0J6Y",
-          "title": "FSSPX Antwerpen - 22/02 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Qly8cij0J6Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OFuVAi8TD1s",
           "title": "I Sunday of Lent | February 22nd",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jJUsnEcVRoU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-23T12:15:00Z"
+        },
+        {
+          "id": "wkAkI5Pdwww",
+          "title": "FSSPX Antwerpen - 23/02 MAANDAG na de 1° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/wkAkI5Pdwww/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T17:30:00Z"
         }
       ]
     },
@@ -73,38 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "n05BVFkGl64",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/n05BVFkGl64/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "aUUk9R6CCE4",
           "title": "FIRST SUNDAY OF LENT, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/aUUk9R6CCE4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BaBO8DH4BiY",
-          "title": "Sunday 11 AM Sung Mass 2026-02-22",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/BaBO8DH4BiY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wpHPEv_dmAI",
-          "title": "1st Sunday of Lent / Premier dimanche de Carême",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/wpHPEv_dmAI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,15 +87,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/2P9-TsJuTjU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2KK_AyIMVRE",
-          "title": "Secondes vêpres du premier dimanche de Carême - ECCE NUNC TEMPUS ACCEPTABILE",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/2KK_AyIMVRE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
