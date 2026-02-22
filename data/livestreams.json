@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T09:34:13.511Z",
+  "lastUpdated": "2026-02-22T10:21:10.951Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/jk8B9Zj7hbY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zIW4xuR9LYs",
-          "title": "Amt - 1. Fastensonntag - 22. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zIW4xuR9LYs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,6 +100,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "OeTCeosz9nU",
+          "title": "Sunday 22nd February 2026: First Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/OeTCeosz9nU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "2BaDAqKIMVc",
           "title": "9:30am —  1st Sunday of Lent",
           "channel": "Oxford Oratory",
@@ -123,17 +123,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/V9fFGiYBoag/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "OeTCeosz9nU",
-          "title": "Sunday 22nd February 2026: First Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/OeTCeosz9nU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T10:30:00Z"
+          "id": "E9Mo0X6bmd0",
+          "title": "Missa Rezada 1º Domingo da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/E9Mo0X6bmd0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eIIVVtgqKYc",
