@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-22T10:50:58.532Z",
+  "lastUpdated": "2026-02-22T11:18:27.200Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jk8B9Zj7hbY",
-          "title": "FSSPX Antwerpen - 22/02 1° ZONDAG van de Vasten",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/jk8B9Zj7hbY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Uxexo67Py10",
           "title": "1st Sunday of Lent",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/Uxexo67Py10/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZHGmLLFKY_g",
@@ -100,6 +91,15 @@
           "scheduledTime": null
         },
         {
+          "id": "eIIVVtgqKYc",
+          "title": "11am — 1st Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/eIIVVtgqKYc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "V9fFGiYBoag",
           "title": "Sainte messe du premier dimanche de Carême - INVOCABIT ME",
           "channel": "Ite Missa Est",
@@ -116,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/E9Mo0X6bmd0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "eIIVVtgqKYc",
-          "title": "11am — 1st Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/eIIVVtgqKYc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T11:00:00Z"
         },
         {
           "id": "Ol-zqdGhxQ8",
