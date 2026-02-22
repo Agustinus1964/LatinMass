@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T20:22:59.393Z",
+  "lastUpdated": "2026-02-22T20:49:51.416Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": "2026-02-23T01:45:00Z"
         },
         {
+          "id": "8f1iaRXoCaY",
+          "title": "Hl. Messe - 23. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/8f1iaRXoCaY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T06:15:00Z"
+        },
+        {
           "id": "Abwk8KBEafE",
           "title": "Low Mass - Feria of Lent - 2/23/26",
           "channel": "SSPX Seminary - USA",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jJUsnEcVRoU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-23T12:15:00Z"
+        },
+        {
+          "id": "6kOF_Dl8EbA",
+          "title": "Rosenkranz und hl. Messe - 23. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6kOF_Dl8EbA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T17:00:00Z"
         },
         {
           "id": "wkAkI5Pdwww",
