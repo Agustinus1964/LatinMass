@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-22T01:54:33.225Z",
+  "lastUpdated": "2026-02-22T04:14:19.412Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iI7GCSc-kEA",
-          "title": "Sung Mass - 1st Sunday of Lent",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/iI7GCSc-kEA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zIW4xuR9LYs",
           "title": "Amt - 1. Fastensonntag - 22. Februar 2026",
@@ -197,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2P9-TsJuTjU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T17:00:00Z"
+        },
+        {
+          "id": "Icsb7dRAUeI",
+          "title": "The Wages of Sin is Death. The Conflict Between Good & Evil.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Icsb7dRAUeI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T19:00:00Z"
         }
       ]
     }
