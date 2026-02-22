@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-22T12:41:50.662Z",
+  "lastUpdated": "2026-02-22T13:40:55.675Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZHGmLLFKY_g",
-          "title": "Low Mass - First Sunday of Lent - 2/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZHGmLLFKY_g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6fIJnIzmZSs",
           "title": "Kreuzweg - 1. Fastensonntag - 22. Februar 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/6fIJnIzmZSs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aqNoQK59HiU",
@@ -91,6 +82,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "wwOSUqqo82s",
+          "title": "Live Stream Holy Mass from Cleveland USA (The First Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/wwOSUqqo82s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Ol-zqdGhxQ8",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. First Sunday of Lent. I. February 22, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -100,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "duE3m3djpnY",
-          "title": "Sunday 7 AM Catholic Mass for 02/22/2026",
+          "id": "hSTXt7UKcT0",
+          "title": "Sunday 8:30 AM Catholic Mass for 02/22/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/duE3m3djpnY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/hSTXt7UKcT0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/FyIRF0_xWk8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wwOSUqqo82s",
-          "title": "Live Stream Holy Mass from Cleveland USA (The First Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/wwOSUqqo82s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T13:00:00Z"
         },
         {
           "id": "AgJAq11dIrs",
