@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-21T23:45:07.373Z",
+  "lastUpdated": "2026-02-22T01:54:33.225Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "bdlKIzxmO3k",
-          "title": "FIRST SUNDAY OF LENT - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/bdlKIzxmO3k/mqdefault_live.jpg",
+          "id": "iI7GCSc-kEA",
+          "title": "Sung Mass - 1st Sunday of Lent",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/iI7GCSc-kEA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zIW4xuR9LYs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T08:30:00Z"
+        },
+        {
+          "id": "LeiewnEGOvE",
+          "title": "I Domenica di Quaresima - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/LeiewnEGOvE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-22T09:25:00Z"
         },
         {
           "id": "Uxexo67Py10",
@@ -75,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/733U-OF-pCg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-22T22:00:00Z"
+        },
+        {
+          "id": "f6A4V9_whv4",
+          "title": "Compline - 2/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/f6A4V9_whv4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-23T01:45:00Z"
         }
       ]
     },
