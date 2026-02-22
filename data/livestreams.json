@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-22T15:21:09.744Z",
+  "lastUpdated": "2026-02-22T15:47:49.902Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": null
         },
         {
+          "id": "UwKBYCAIwCk",
+          "title": "First Sunday in Lent, February 22, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/UwKBYCAIwCk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "iH2jdHALsqM",
           "title": "Sun. Feb. 22, 2026    -    First Sunday of Lent",
           "channel": "Transfiguration Church SSPX",
@@ -48,15 +57,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Qly8cij0J6Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "UwKBYCAIwCk",
-          "title": "First Sunday in Lent, February 22, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/UwKBYCAIwCk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T15:45:04Z"
         },
         {
           "id": "Deka-9JAOjc",
@@ -127,6 +127,15 @@
           "scheduledTime": null
         },
         {
+          "id": "wpHPEv_dmAI",
+          "title": "1st Sunday of Lent / Premier dimanche de Carême",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/wpHPEv_dmAI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "u3NXp8SjPMc",
           "title": "Santa Misa Dominical. 22 de Febrero,  2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -134,15 +143,6 @@
           "thumbnail": "https://i.ytimg.com/vi/u3NXp8SjPMc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wpHPEv_dmAI",
-          "title": "1st Sunday of Lent / Premier dimanche de Carême",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/wpHPEv_dmAI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-22T15:30:00Z"
         },
         {
           "id": "aUUk9R6CCE4",
