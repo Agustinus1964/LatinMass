@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-23T11:58:39.270Z",
+  "lastUpdated": "2026-02-23T13:20:02.670Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Abwk8KBEafE",
-          "title": "Low Mass - Feria of Lent - 2/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Abwk8KBEafE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-23T12:15:00Z"
-        },
-        {
-          "id": "jJUsnEcVRoU",
-          "title": "Mon. Feb. 23, 2026    -    Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/jJUsnEcVRoU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-23T12:15:00Z"
-        },
         {
           "id": "wkAkI5Pdwww",
           "title": "FSSPX Antwerpen - 23/02 MAANDAG na de 1° ZONDAG",
@@ -51,12 +33,21 @@
         },
         {
           "id": "l9T0h4N3TEg",
-          "title": "Low Mass - St. Matthias, Apostle - 2/24/26",
+          "title": "Sung Mass - St. Matthias, Apostle - 2/24/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/l9T0h4N3TEg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-24T11:50:00Z"
+        },
+        {
+          "id": "pfePHMWENoI",
+          "title": "Tue. Feb. 24, 2026   -    St. Matthias,   Apostle",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/pfePHMWENoI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-24T12:15:00Z"
         }
       ]
     },
@@ -64,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cstF4PwaG08",
-          "title": "7AM Mass Canceled Due to Blizzard. February 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/cstF4PwaG08/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-23T12:00:00Z"
-        },
-        {
-          "id": "fj2hxwLLOLk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Monday of the First Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/fj2hxwLLOLk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-23T12:30:00Z"
+          "id": "_uuchhDqDuM",
+          "title": "Monday 8 AM Traditional Latin Mass02/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/_uuchhDqDuM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bhKclBN3T7o",
@@ -116,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/rnDoV2H2qb8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-24T00:00:00Z"
+        },
+        {
+          "id": "TVRZhM7eUek",
+          "title": "7AM Mass & Divine Office. St. Matthias, Apostle. II. Tuesday, February 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TVRZhM7eUek/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-24T12:00:00Z"
+        },
+        {
+          "id": "Oc4LwO4eVHQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Matthias, Apostle)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Oc4LwO4eVHQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-24T12:30:00Z"
         }
       ]
     }
