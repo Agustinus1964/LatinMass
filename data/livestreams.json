@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T10:27:19.163Z",
+  "lastUpdated": "2026-02-23T11:12:35.451Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "OXgDlyRi7NU",
+          "title": "Monday 6 AM Traditional Catholic Mass 02/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/OXgDlyRi7NU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "cstF4PwaG08",
           "title": "7AM Mass Canceled Due to Blizzard. February 23, 2026.",
