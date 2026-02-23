@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-02-23T16:11:48.649Z",
+  "lastUpdated": "2026-02-23T17:35:59.291Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "JB4pXJUZUS8",
-          "title": "FSSPX Antwerpen - 23/02 Aanbidding met Rozenhoedje",
+          "id": "wkAkI5Pdwww",
+          "title": "FSSPX Antwerpen - 23/02 MAANDAG na de 1° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/JB4pXJUZUS8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wkAkI5Pdwww/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6kOF_Dl8EbA",
+          "title": "Rosenkranz und hl. Messe - 23. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6kOF_Dl8EbA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -50,13 +59,13 @@
           "scheduledTime": "2026-02-24T12:15:00Z"
         },
         {
-          "id": "k_2egmrySLQ",
-          "title": "FSSPX Antwerpen - 24/02 Aanbidding met Rozenhoedje",
+          "id": "sNtkZBmuGr4",
+          "title": "FSSPX Antwerpen - 24/02 H. MATTHIAS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/k_2egmrySLQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sNtkZBmuGr4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-24T16:00:00Z"
+          "scheduledTime": "2026-02-24T17:30:00Z"
         }
       ]
     },
