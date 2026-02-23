@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T09:12:41.209Z",
+  "lastUpdated": "2026-02-23T10:27:19.163Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mS0xCyyisww",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/mS0xCyyisww/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cstF4PwaG08",
           "title": "7AM Mass Canceled Due to Blizzard. February 23, 2026.",
