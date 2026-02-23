@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-23T19:58:41.981Z",
+  "lastUpdated": "2026-02-23T20:52:19.473Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2Gf79O5jMiQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-24T01:45:00Z"
+        },
+        {
+          "id": "FZDtQpMukZ0",
+          "title": "Saint Matthias, apostle",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/FZDtQpMukZ0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-24T07:15:00Z"
         },
         {
           "id": "l9T0h4N3TEg",
