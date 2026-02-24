@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-24T06:56:26.090Z",
+  "lastUpdated": "2026-02-24T07:50:44.376Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "FZDtQpMukZ0",
+          "title": "Saint Matthias, apostle",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/FZDtQpMukZ0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_niZ_s-vgRM",
           "title": "Last Sunday after Whitsun",
@@ -12,24 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_niZ_s-vgRM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "nrGbNgm19xE",
-          "title": "Hl. Messe - hl. Apostel Matthias - 24. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/nrGbNgm19xE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FZDtQpMukZ0",
-          "title": "Saint Matthias, apostle",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/FZDtQpMukZ0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-24T07:15:00Z"
         },
         {
           "id": "l9T0h4N3TEg",
