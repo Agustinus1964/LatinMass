@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T18:57:21.763Z",
+  "lastUpdated": "2026-02-24T19:49:02.069Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5lU5eGSUuXc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/5lU5eGSUuXc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cWKZk2JzGsw",
-          "title": "Tuesday 24th February 2026: Saint Matthias (Mass followed by Lenten Conference)",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/cWKZk2JzGsw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "H6ngYVhiM_o",
+          "title": "Homilía primer domingo de cuaresma 2026. P. Mateo Vierno",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/H6ngYVhiM_o/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-24T21:00:00Z"
         },
         {
           "id": "4lX9s9GV4j4",
