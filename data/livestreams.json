@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-24T07:50:44.376Z",
+  "lastUpdated": "2026-02-24T08:42:14.910Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FZDtQpMukZ0",
-          "title": "Saint Matthias, apostle",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/FZDtQpMukZ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_niZ_s-vgRM",
           "title": "Last Sunday after Whitsun",
