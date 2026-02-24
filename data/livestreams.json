@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T05:40:08.328Z",
+  "lastUpdated": "2026-02-24T06:56:26.090Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/_niZ_s-vgRM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "nrGbNgm19xE",
+          "title": "Hl. Messe - hl. Apostel Matthias - 24. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/nrGbNgm19xE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -66,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/H2tnomujXbk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-25T01:45:00Z"
+        },
+        {
+          "id": "pK6_Y494yTA",
+          "title": "FSSPX Antwerpen - 25/02 QUATERTEMPERWOENSDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/pK6_Y494yTA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-25T06:30:00Z"
         }
       ]
     },
