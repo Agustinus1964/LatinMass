@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T21:31:04.362Z",
+  "lastUpdated": "2026-02-24T22:30:04.317Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -15,7 +15,7 @@
         },
         {
           "id": "P0xLAvPROTQ",
-          "title": "Rosary - 2/24/26",
+          "title": "Benediction - 2/24/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/P0xLAvPROTQ/mqdefault_live.jpg",
@@ -64,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HBYW5Ffx7Tg",
-          "title": "Terço e Missa Rezada de São Mathias",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/HBYW5Ffx7Tg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "4lX9s9GV4j4",
           "title": "Divine Office & 6PM Mass. St. Matthias, Apostle. II. Tuesday, February 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/4lX9s9GV4j4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-24T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hie7iwIK2w8",
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/kTGtWCxbads/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-25T18:00:00Z"
+        },
+        {
+          "id": "BTY3PMNmCT0",
+          "title": "Divine Office & 6PM Low Mass. Ember Wednesday of Lent. II. February 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/BTY3PMNmCT0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-25T22:00:00Z"
         }
       ]
     }
