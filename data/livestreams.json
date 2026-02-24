@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-02-23T23:32:04.911Z",
+  "lastUpdated": "2026-02-24T01:52:23.764Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CHlGUPBZqGw",
-          "title": "Rosary - 2/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/CHlGUPBZqGw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-24T00:00:00Z"
-        },
         {
           "id": "2Gf79O5jMiQ",
           "title": "Compline - 2/23/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/2Gf79O5jMiQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-24T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_niZ_s-vgRM",
+          "title": "Last Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/_niZ_s-vgRM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FZDtQpMukZ0",
@@ -57,30 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/sNtkZBmuGr4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-24T17:30:00Z"
+        },
+        {
+          "id": "P0xLAvPROTQ",
+          "title": "Rosary - 2/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/P0xLAvPROTQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-25T00:00:00Z"
+        },
+        {
+          "id": "H2tnomujXbk",
+          "title": "Compline - 2/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/H2tnomujXbk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-25T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ShfJyqG2nuA",
-          "title": "Divine Office & 6PM Mass. Feria of Lent. III. Monday, February 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ShfJyqG2nuA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rnDoV2H2qb8",
-          "title": "CHAIR OF SAINT PETER (TRANSFERRED), 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/rnDoV2H2qb8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-24T00:00:00Z"
-        },
         {
           "id": "TVRZhM7eUek",
           "title": "7AM Mass & Divine Office. St. Matthias, Apostle. II. Tuesday, February 24, 2026.",
