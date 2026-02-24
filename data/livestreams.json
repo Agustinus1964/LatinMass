@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-24T15:29:42.050Z",
+  "lastUpdated": "2026-02-24T16:36:08.780Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,13 +14,13 @@
           "scheduledTime": null
         },
         {
-          "id": "sNtkZBmuGr4",
-          "title": "FSSPX Antwerpen - 24/02 H. MATTHIAS",
+          "id": "k_2egmrySLQ",
+          "title": "FSSPX Antwerpen - 24/02 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/sNtkZBmuGr4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-24T17:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/k_2egmrySLQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "P0xLAvPROTQ",
