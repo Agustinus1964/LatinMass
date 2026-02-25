@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-25T17:05:04.312Z",
+  "lastUpdated": "2026-02-25T19:47:55.096Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lBPIz_O6MEY",
-          "title": "Rosenkranz und hl. Messe - Quatembermittwoch - 25. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/lBPIz_O6MEY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_jinp-DMg74",
           "title": "Rosary - 2/25/26",
@@ -55,33 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "WxkW6Gw475k",
-          "title": "Wednesday 25th February 2026: Ember Wednesday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/WxkW6Gw475k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T18:00:00Z"
-        },
-        {
-          "id": "CdLVK-4Wdyc",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/CdLVK-4Wdyc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T18:00:00Z"
-        },
-        {
-          "id": "kTGtWCxbads",
-          "title": "Sainte messe du Mercredi des Quatre-Temps de Carême - REMINISCERE",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/kTGtWCxbads/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T18:00:00Z"
-        },
-        {
           "id": "BTY3PMNmCT0",
           "title": "Divine Office & 6PM Low Mass. Ember Wednesday of Lent. II. February 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -107,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/SeJW_eixcfU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-26T12:00:00Z"
+        },
+        {
+          "id": "E0pSsIAVDDI",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/E0pSsIAVDDI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T18:00:00Z"
+        },
+        {
+          "id": "3-E3dBqjeQc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/3-E3dBqjeQc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T18:00:00Z"
         }
       ]
     }
