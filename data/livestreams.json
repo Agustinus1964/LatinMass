@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-25T11:37:57.933Z",
+  "lastUpdated": "2026-02-25T12:57:51.983Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1PdYZQqGqU4",
-          "title": "Low Mass - Ember Wednesday of Lent - 2/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/1PdYZQqGqU4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T12:15:00Z"
-        },
-        {
-          "id": "dDwAafQARUg",
-          "title": "Wed. Feb. 25, 2026    -    Ember Wednesday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/dDwAafQARUg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T12:15:00Z"
-        },
         {
           "id": "_jinp-DMg74",
           "title": "Rosary - 2/25/26",
@@ -39,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/dkDAXiRZ_A8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-26T01:45:00Z"
+        },
+        {
+          "id": "EJ1fqcl2gO4",
+          "title": "Low Mass - Feria of Lent - 2/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/EJ1fqcl2gO4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T12:15:00Z"
+        },
+        {
+          "id": "eVjEeFd8ViU",
+          "title": "Thu. Feb. 26, 2026    -     Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/eVjEeFd8ViU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T12:15:00Z"
         }
       ]
     },
@@ -46,31 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "hie7iwIK2w8",
-          "title": "7AM Low Mass & Divine Office. Ember Wednesday of Lent. II. February 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/hie7iwIK2w8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zISBTivrElQ",
-          "title": "Wednesday 6 AM Traditional Catholic Mass02/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/zISBTivrElQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "4UHHUklJmpc",
           "title": "Live Stream Holy Mass from Cleveland USA (Ember Wednesday in Lent)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/4UHHUklJmpc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pZ8euwJOFVU",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 02/25/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/pZ8euwJOFVU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WxkW6Gw475k",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/18rr7UqGitQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-26T08:00:00Z"
+        },
+        {
+          "id": "SeJW_eixcfU",
+          "title": "7AM Low Mass & Divine Office. Feria of Lent. III. Thursday, February 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/SeJW_eixcfU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T12:00:00Z"
         }
       ]
     }
