@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T12:57:51.983Z",
+  "lastUpdated": "2026-02-25T14:11:13.359Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4UHHUklJmpc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Wednesday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/4UHHUklJmpc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pZ8euwJOFVU",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 02/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pZ8euwJOFVU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WxkW6Gw475k",
           "title": "Wednesday 25th February 2026: Ember Wednesday",
