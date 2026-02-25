@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-24T23:54:20.392Z",
+  "lastUpdated": "2026-02-25T01:54:58.164Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "H2tnomujXbk",
+          "title": "Compline - 2/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/H2tnomujXbk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_niZ_s-vgRM",
           "title": "Last Sunday after Whitsun",
@@ -12,24 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_niZ_s-vgRM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "P0xLAvPROTQ",
-          "title": "Benediction - 2/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/P0xLAvPROTQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T00:00:00Z"
-        },
-        {
-          "id": "H2tnomujXbk",
-          "title": "Compline - 2/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/H2tnomujXbk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T01:45:00Z"
         },
         {
           "id": "2mEUG_rSDXE",
@@ -57,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/dDwAafQARUg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-25T12:15:00Z"
+        },
+        {
+          "id": "_jinp-DMg74",
+          "title": "Rosary - 2/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/_jinp-DMg74/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T00:00:00Z"
+        },
+        {
+          "id": "dkDAXiRZ_A8",
+          "title": "Compline - 2/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/dkDAXiRZ_A8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T01:45:00Z"
         }
       ]
     },
