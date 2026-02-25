@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-02-25T06:58:21.317Z",
+  "lastUpdated": "2026-02-25T07:55:37.607Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pK6_Y494yTA",
-          "title": "FSSPX Antwerpen - 25/02 QUATERTEMPERWOENSDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pK6_Y494yTA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "k-OfuoWtWWk",
-          "title": "Hl. Messe - Quatembermittwoch - 25. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/k-OfuoWtWWk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2mEUG_rSDXE",
-          "title": "Ember Wednesday of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/2mEUG_rSDXE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T07:15:00Z"
-        },
         {
           "id": "1PdYZQqGqU4",
           "title": "Low Mass - Ember Wednesday of Lent - 2/25/26",
