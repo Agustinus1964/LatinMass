@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-25T15:31:30.090Z",
+  "lastUpdated": "2026-02-25T17:05:04.312Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lBPIz_O6MEY",
+          "title": "Rosenkranz und hl. Messe - Quatembermittwoch - 25. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lBPIz_O6MEY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_jinp-DMg74",
           "title": "Rosary - 2/25/26",
