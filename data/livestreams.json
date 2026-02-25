@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T07:55:37.607Z",
+  "lastUpdated": "2026-02-25T08:46:09.909Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BTY3PMNmCT0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-25T22:00:00Z"
+        },
+        {
+          "id": "18rr7UqGitQ",
+          "title": "Thursday 26th February 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/18rr7UqGitQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T08:00:00Z"
         }
       ]
     }
