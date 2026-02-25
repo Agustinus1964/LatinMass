@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T21:31:44.686Z",
+  "lastUpdated": "2026-02-25T22:29:35.826Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,15 +55,6 @@
           "scheduledTime": null
         },
         {
-          "id": "nnahkdXY2UQ",
-          "title": "Terço e Missa Rezada da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/nnahkdXY2UQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "gsKDEY-8JZE",
           "title": "Cristo y los Sacramentos en la Iglesia. Sobre la Fraternidad de San Pío . P Daniel Heenan.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -80,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/18rr7UqGitQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-26T08:00:00Z"
-        },
-        {
-          "id": "SeJW_eixcfU",
-          "title": "7AM Low Mass & Divine Office. Feria of Lent. III. Thursday, February 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/SeJW_eixcfU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T12:00:00Z"
         },
         {
           "id": "E0pSsIAVDDI",
