@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-25T20:32:05.754Z",
+  "lastUpdated": "2026-02-25T21:31:44.686Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dkJ4Nqph23k",
-          "title": "Mass of Thursday after 1st Sunday of Lent - 26.2.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/dkJ4Nqph23k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_jinp-DMg74",
           "title": "Rosary - 2/25/26",
@@ -60,8 +51,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/BTY3PMNmCT0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-25T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "nnahkdXY2UQ",
+          "title": "Terço e Missa Rezada da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/nnahkdXY2UQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gsKDEY-8JZE",
