@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-26T20:33:59.957Z",
+  "lastUpdated": "2026-02-26T21:29:20.747Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PW4Z39o9gy0",
-          "title": "Mass of Ember Friday - 27.2.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/PW4Z39o9gy0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jgY63YLUtp8",
           "title": "Compline - 2/26/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cc7XRqX8J2A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T06:15:00Z"
+        },
+        {
+          "id": "M-kITHMBUJo",
+          "title": "Ember Friday of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/M-kITHMBUJo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T07:15:00Z"
         },
         {
           "id": "75in1tEUr9A",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WQ3tD8aPY6Y",
+          "title": "Exposição do Santíssimo Sacramento e Missa Rezada da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/WQ3tD8aPY6Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zWdmn-Mjoio",
           "title": "Friday 27th February 2026: Ember Friday (Mass followed by Stations of the Cross)",
