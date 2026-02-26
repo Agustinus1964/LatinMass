@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-26T06:56:25.914Z",
+  "lastUpdated": "2026-02-26T07:51:08.269Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KdmJTF3A2rE",
-          "title": "Hl. Messe - 26. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/KdmJTF3A2rE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ISqXBmHP5Oo",
-          "title": "Thursday in the 1ˢᵗ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ISqXBmHP5Oo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T07:15:00Z"
-        },
         {
           "id": "eVjEeFd8ViU",
           "title": "Thu. Feb. 26, 2026    -     Ferial Day of Lent",
@@ -60,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/18rr7UqGitQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZcYlXrV6OiQ",
