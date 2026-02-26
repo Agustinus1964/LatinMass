@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-26T17:34:50.561Z",
+  "lastUpdated": "2026-02-26T18:49:25.229Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "94pWpjR2a7Y",
-          "title": "FSSPX Antwerpen - 26/02 DONDERDAG na de 1° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/94pWpjR2a7Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BWDBlPg2PnI",
           "title": "Sakramentsandacht und hl. Messe - 26. Februar 2026",
@@ -73,13 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "E0pSsIAVDDI",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/E0pSsIAVDDI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T18:00:00Z"
+          "id": "r7c0p3R3tZ0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/r7c0p3R3tZ0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3-E3dBqjeQc",
@@ -87,8 +78,26 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3-E3dBqjeQc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zWdmn-Mjoio",
+          "title": "Friday 27th February 2026: Ember Friday (Mass followed by Stations of the Cross)",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/zWdmn-Mjoio/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-26T18:00:00Z"
+          "scheduledTime": "2026-02-27T18:00:00Z"
+        },
+        {
+          "id": "YRqBXHr-oYU",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/YRqBXHr-oYU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T18:00:00Z"
         }
       ]
     }
