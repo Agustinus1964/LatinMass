@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-26T01:50:56.602Z",
+  "lastUpdated": "2026-02-26T04:13:48.751Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dkDAXiRZ_A8",
-          "title": "Compline - 2/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dkDAXiRZ_A8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "eVjEeFd8ViU",
           "title": "Thu. Feb. 26, 2026    -     Ferial Day of Lent",
@@ -37,15 +28,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gsKDEY-8JZE",
-          "title": "Cristo y los Sacramentos en la Iglesia. Sobre la Fraternidad de San Pío . P Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/gsKDEY-8JZE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T02:30:00Z"
-        },
-        {
           "id": "18rr7UqGitQ",
           "title": "Thursday 26th February 2026: Lenten Feria",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -53,6 +35,15 @@
           "thumbnail": "https://i.ytimg.com/vi/18rr7UqGitQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-26T08:00:00Z"
+        },
+        {
+          "id": "ZcYlXrV6OiQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Thursday of the First Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZcYlXrV6OiQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-26T12:30:00Z"
         },
         {
           "id": "E0pSsIAVDDI",
