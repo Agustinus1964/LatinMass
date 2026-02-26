@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-02-26T11:37:24.439Z",
+  "lastUpdated": "2026-02-26T12:58:56.366Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "eVjEeFd8ViU",
-          "title": "Thu. Feb. 26, 2026    -     Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/eVjEeFd8ViU/mqdefault_live.jpg",
+          "id": "bgrUJgNkKqQ",
+          "title": "FSSPX Antwerpen - 26/02 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bgrUJgNkKqQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-02-26T12:15:00Z"
+          "scheduledTime": "2026-02-26T14:30:00Z"
         },
         {
           "id": "jgY63YLUtp8",
@@ -30,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/cc7XRqX8J2A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T06:15:00Z"
+        },
+        {
+          "id": "75in1tEUr9A",
+          "title": "Spiritual Conference: Our Lady of Guadalupe Part 2",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/75in1tEUr9A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T11:45:00Z"
+        },
+        {
+          "id": "kwy6wrr3uZk",
+          "title": "Fri. Feb. 27, 2026    -   Ember Friday    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/kwy6wrr3uZk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T12:15:00Z"
         }
       ]
     },
@@ -37,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nygyC9sQKrU",
-          "title": "Thursday 6 AM Traditional Catholic Mass 02/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/nygyC9sQKrU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ZcYlXrV6OiQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Thursday of the First Week in Lent)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/ZcYlXrV6OiQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "4DkQA8tSMkQ",
+          "title": "Thursday 8 AM Traditional Catholic Mass 02/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/4DkQA8tSMkQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "E0pSsIAVDDI",
