@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T15:11:51.099Z",
+  "lastUpdated": "2026-02-26T16:14:10.168Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/bgrUJgNkKqQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BWDBlPg2PnI",
+          "title": "Sakramentsandacht und hl. Messe - 26. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/BWDBlPg2PnI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
