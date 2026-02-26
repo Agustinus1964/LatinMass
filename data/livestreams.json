@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-26T16:14:10.168Z",
+  "lastUpdated": "2026-02-26T17:34:50.561Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "bgrUJgNkKqQ",
-          "title": "FSSPX Antwerpen - 26/02 Priester-Uur-Gebed",
+          "id": "94pWpjR2a7Y",
+          "title": "FSSPX Antwerpen - 26/02 DONDERDAG na de 1° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bgrUJgNkKqQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/94pWpjR2a7Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/kwy6wrr3uZk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T12:15:00Z"
+        },
+        {
+          "id": "FcP0zvGrZ-g",
+          "title": "FSSPX Antwerpen - 27/02 QUATERTEMPERVRIJDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/FcP0zvGrZ-g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T17:30:00Z"
         }
       ]
     },
