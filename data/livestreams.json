@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T23:26:09.385Z",
+  "lastUpdated": "2026-02-26T23:52:33.338Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/K1bf4o0k1KA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T23:00:00Z"
+        },
+        {
+          "id": "0f-oa74l6f0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/0f-oa74l6f0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T23:30:00Z"
         }
       ]
     }
