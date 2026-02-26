@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-26T22:37:04.133Z",
+  "lastUpdated": "2026-02-26T23:26:09.385Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "0FwF9sPXhgc",
+          "title": "Requiem Mass of Juliana Johnston - 27th Feb.2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/0FwF9sPXhgc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jgY63YLUtp8",
           "title": "Compline - 2/26/26",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Jwws1bD3jaQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T18:00:00Z"
+        },
+        {
+          "id": "K1bf4o0k1KA",
+          "title": "STATIONS OF THE CROSS SERMON SERIES, PART II, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/K1bf4o0k1KA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T23:00:00Z"
         }
       ]
     }
