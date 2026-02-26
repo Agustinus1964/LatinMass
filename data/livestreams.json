@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T21:29:20.747Z",
+  "lastUpdated": "2026-02-26T21:57:23.213Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CN8eWVzvRB0",
+          "title": "Divine Office & 6PM Low Mass. Feria of Lent. III. Thursday, February 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/CN8eWVzvRB0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WQ3tD8aPY6Y",
           "title": "Exposição do Santíssimo Sacramento e Missa Rezada da Quaresma",
