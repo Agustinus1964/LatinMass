@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-02-25T23:51:21.007Z",
+  "lastUpdated": "2026-02-26T01:50:56.602Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_jinp-DMg74",
-          "title": "Rosary - 2/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/_jinp-DMg74/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T00:00:00Z"
-        },
         {
           "id": "dkDAXiRZ_A8",
           "title": "Compline - 2/25/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/dkDAXiRZ_A8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T01:45:00Z"
-        },
-        {
-          "id": "EJ1fqcl2gO4",
-          "title": "Low Mass - Feria of Lent - 2/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/EJ1fqcl2gO4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-26T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eVjEeFd8ViU",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eVjEeFd8ViU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-26T12:15:00Z"
+        },
+        {
+          "id": "jgY63YLUtp8",
+          "title": "Compline - 2/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jgY63YLUtp8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T01:45:00Z"
         }
       ]
     },
