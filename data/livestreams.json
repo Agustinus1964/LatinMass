@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-27T16:37:22.044Z",
+  "lastUpdated": "2026-02-27T17:32:41.228Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "2LDo38t514Q",
-          "title": "FSSPX Antwerpen - 27/02 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2LDo38t514Q/mqdefault_live.jpg",
+          "id": "IRT2xJ9Hg_Q",
+          "title": "Rosenkranz und hl. Messe - Quatemberfreitag - 27. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IRT2xJ9Hg_Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hDPMltMcH3Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T01:45:00Z"
-        },
-        {
-          "id": "DsyoKrZApQA",
-          "title": "FSSPX Antwerpen - 28/02 QUATERTEMPERZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DsyoKrZApQA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T09:00:00Z"
         },
         {
           "id": "6s5VTr0czEk",
@@ -82,13 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MhWbdItVhpM",
-          "title": "11AM Low Mass. Ember Friday of Lent. II. February 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/MhWbdItVhpM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "KeSPaJ1Sjj4",
+          "title": "Friday 27th February 2026: Ember Friday (Mass followed by Stations of the Cross)",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/KeSPaJ1Sjj4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T18:00:00Z"
         },
         {
           "id": "YRqBXHr-oYU",
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T10:00:00Z"
+        },
+        {
+          "id": "kwPqz_sNQpY",
+          "title": "Saturday 28th February 2026: Ember Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/kwPqz_sNQpY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T10:30:00Z"
         }
       ]
     }
