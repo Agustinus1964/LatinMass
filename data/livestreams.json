@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-27T21:26:33.822Z",
+  "lastUpdated": "2026-02-27T21:51:41.259Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tsv8KCKs-Ak",
-          "title": "Ember Saturday Mass - 28th Feb.2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/tsv8KCKs-Ak/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Uzr1oWMbPQs",
           "title": "Stations of the Cross - 2/27/26",
@@ -82,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "3Yau2ajJIa8",
+          "title": "Via Sacra e Missa Rezada da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/3Yau2ajJIa8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "K1bf4o0k1KA",
           "title": "STATIONS OF THE CROSS SERMON SERIES, PART II, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T10:00:00Z"
+        },
+        {
+          "id": "Bz4pdCT461Q",
+          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Le Trône et l'Autel (6/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Bz4pdCT461Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T10:15:00Z"
         }
       ]
     }
