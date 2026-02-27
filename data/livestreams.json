@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T22:49:24.661Z",
+  "lastUpdated": "2026-02-27T23:21:28.574Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -87,8 +87,8 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/K1bf4o0k1KA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0f-oa74l6f0",
