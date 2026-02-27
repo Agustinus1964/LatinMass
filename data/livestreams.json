@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-02-27T15:35:08.430Z",
+  "lastUpdated": "2026-02-27T16:37:22.044Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "FcP0zvGrZ-g",
-          "title": "FSSPX Antwerpen - 27/02 QUATERTEMPERVRIJDAG",
+          "id": "2LDo38t514Q",
+          "title": "FSSPX Antwerpen - 27/02 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/FcP0zvGrZ-g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T17:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/2LDo38t514Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Uzr1oWMbPQs",
