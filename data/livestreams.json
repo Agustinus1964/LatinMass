@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-27T17:32:41.228Z",
+  "lastUpdated": "2026-02-27T18:37:40.184Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IRT2xJ9Hg_Q",
-          "title": "Rosenkranz und hl. Messe - Quatemberfreitag - 27. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/IRT2xJ9Hg_Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Uzr1oWMbPQs",
           "title": "Stations of the Cross - 2/27/26",
@@ -73,31 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KeSPaJ1Sjj4",
-          "title": "Friday 27th February 2026: Ember Friday (Mass followed by Stations of the Cross)",
+          "id": "kwPqz_sNQpY",
+          "title": "Saturday 28th February 2026: Ember Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/KeSPaJ1Sjj4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T18:00:00Z"
-        },
-        {
-          "id": "YRqBXHr-oYU",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/YRqBXHr-oYU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T18:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/kwPqz_sNQpY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Jwws1bD3jaQ",
-          "title": "Sainte messe du Vendredi des Quatre-Temps de Carême - REMINISCERE",
+          "title": "Sainte messe du Vendredi des Quatre-Temps de Carême - DE NECESSITATIBUS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Jwws1bD3jaQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "K1bf4o0k1KA",
@@ -118,6 +100,15 @@
           "scheduledTime": "2026-02-27T23:30:00Z"
         },
         {
+          "id": "oKAxvDrAcRs",
+          "title": "Sainte messe du Samedi des Quatre-Temps de Carême - INTRET",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/oKAxvDrAcRs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T08:30:00Z"
+        },
+        {
           "id": "qu9dcmadND0",
           "title": "Saturday",
           "channel": "Oxford Oratory",
@@ -125,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T10:00:00Z"
-        },
-        {
-          "id": "kwPqz_sNQpY",
-          "title": "Saturday 28th February 2026: Ember Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/kwPqz_sNQpY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T10:30:00Z"
         }
       ]
     }
