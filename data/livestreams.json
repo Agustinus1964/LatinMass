@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-27T11:55:39.021Z",
+  "lastUpdated": "2026-02-27T12:55:41.054Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "75in1tEUr9A",
-          "title": "Spiritual Conference: Our Lady of Guadalupe Part 2",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/75in1tEUr9A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kwy6wrr3uZk",
-          "title": "Fri. Feb. 27, 2026    -   Ember Friday    -    Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/kwy6wrr3uZk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T12:15:00Z"
-        },
         {
           "id": "FcP0zvGrZ-g",
           "title": "FSSPX Antwerpen - 27/02 QUATERTEMPERVRIJDAG",
@@ -66,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/DsyoKrZApQA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T09:00:00Z"
+        },
+        {
+          "id": "6s5VTr0czEk",
+          "title": "Low Mass - Ember Saturday of Lent - 2/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6s5VTr0czEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9YdEQHv5KnA",
+          "title": "Friday 8 AM Catholic Mass for 02/27/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/9YdEQHv5KnA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "YRqBXHr-oYU",
           "title": "Friday",
