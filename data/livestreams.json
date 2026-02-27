@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-26T23:52:33.338Z",
+  "lastUpdated": "2026-02-27T01:49:24.551Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0FwF9sPXhgc",
-          "title": "Requiem Mass of Juliana Johnston - 27th Feb.2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/0FwF9sPXhgc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jgY63YLUtp8",
           "title": "Compline - 2/26/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/jgY63YLUtp8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cc7XRqX8J2A",
@@ -66,21 +57,39 @@
           "thumbnail": "https://i.ytimg.com/vi/FcP0zvGrZ-g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T17:30:00Z"
+        },
+        {
+          "id": "Uzr1oWMbPQs",
+          "title": "Stations of the Cross - 2/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Uzr1oWMbPQs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-27T23:55:00Z"
+        },
+        {
+          "id": "qCYxc6Sdbs8",
+          "title": "Fri. Feb. 27, 2026    -    Mission,   First Conference",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qCYxc6Sdbs8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T00:00:00Z"
+        },
+        {
+          "id": "hDPMltMcH3Y",
+          "title": "Compline - 2/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hDPMltMcH3Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CN8eWVzvRB0",
-          "title": "Divine Office & 6PM Low Mass. Feria of Lent. III. Thursday, February 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/CN8eWVzvRB0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zWdmn-Mjoio",
           "title": "Friday 27th February 2026: Ember Friday (Mass followed by Stations of the Cross)",
