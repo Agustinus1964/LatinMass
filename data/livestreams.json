@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T09:37:32.254Z",
+  "lastUpdated": "2026-02-27T10:34:07.870Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,24 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3xQlriHxwiM",
-          "title": "Prima e Missa Rezada da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/3xQlriHxwiM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zWdmn-Mjoio",
-          "title": "Friday 27th February 2026: Ember Friday (Mass followed by Stations of the Cross)",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/zWdmn-Mjoio/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T18:00:00Z"
-        },
-        {
           "id": "YRqBXHr-oYU",
           "title": "Friday",
           "channel": "Oxford Oratory",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0f-oa74l6f0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-27T23:30:00Z"
+        },
+        {
+          "id": "qu9dcmadND0",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T10:00:00Z"
         }
       ]
     }
