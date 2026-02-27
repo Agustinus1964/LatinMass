@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T13:59:21.576Z",
+  "lastUpdated": "2026-02-27T14:49:03.694Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,21 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/hUR6m2OJ7bE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T13:00:00Z"
+        },
+        {
+          "id": "Ic3jbRTL6zI",
+          "title": "Sat. Feb. 28, 2026    -    Mission    -    Second Conference",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Ic3jbRTL6zI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T14:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5591mO7-XSo",
-          "title": "Santo Sacrificio de la Misa, San Gabriel de La Dolorosa, 27 de Febrero, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/5591mO7-XSo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YRqBXHr-oYU",
           "title": "Friday",
