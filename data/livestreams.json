@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T23:21:28.574Z",
+  "lastUpdated": "2026-02-27T23:46:04.802Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "0f-oa74l6f0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/0f-oa74l6f0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "vu3YEoBaod4",
           "title": "Divine Office, 6PM Low Mass, Holy Hour. Ember Friday of Lent. II. February 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -89,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/K1bf4o0k1KA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "0f-oa74l6f0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/0f-oa74l6f0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T23:30:00Z"
         },
         {
           "id": "oKAxvDrAcRs",
