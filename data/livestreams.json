@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-02-27T06:49:32.795Z",
+  "lastUpdated": "2026-02-27T07:43:14.547Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cc7XRqX8J2A",
-          "title": "Hl. Messe - Quatemberfreitag - 27. Februar 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/cc7XRqX8J2A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "M-kITHMBUJo",
           "title": "Ember Friday of Lent",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/M-kITHMBUJo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "75in1tEUr9A",
