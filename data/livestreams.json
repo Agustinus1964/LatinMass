@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T14:49:03.694Z",
+  "lastUpdated": "2026-02-27T15:35:08.430Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -81,6 +81,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "MhWbdItVhpM",
+          "title": "11AM Low Mass. Ember Friday of Lent. II. February 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/MhWbdItVhpM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "YRqBXHr-oYU",
           "title": "Friday",
