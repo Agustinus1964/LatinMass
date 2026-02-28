@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T15:19:10.772Z",
+  "lastUpdated": "2026-02-28T15:43:11.718Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/6RAyuG8Jigk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ABNdE0nJ7Ro",
-          "title": "7:30AM Low Mass, Rosary, 9AM Low Mass. Ember Saturday of Lent. II. February 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ABNdE0nJ7Ro/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
