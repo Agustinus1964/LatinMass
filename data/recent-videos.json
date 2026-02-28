@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T01:24:42.768Z",
+  "lastUpdated": "2026-02-28T03:25:43.428Z",
   "videos": [
     {
       "id": "AUSgHWP0CkE",
@@ -10,6 +10,16 @@
       "thumbnail": "https://i.ytimg.com/vi/AUSgHWP0CkE/mqdefault.jpg",
       "publishedAt": "2026-02-28T01:00:06Z",
       "category": "Stephen Kokx"
+    },
+    {
+      "id": "GNK8Jcf7FJE",
+      "title": "Stations of the Cross & Benediction 2/27/26",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/GNK8Jcf7FJE/mqdefault_live.jpg",
+      "publishedAt": "2026-02-28T00:16:15Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "FrkGmX81R9o",
@@ -199,16 +209,6 @@
       "description": "Immaculate Conception Church, Norwood, Ohio",
       "thumbnail": "https://i.ytimg.com/vi/TIMsu90MOKY/mqdefault_live.jpg",
       "publishedAt": "2026-02-27T15:45:37Z",
-      "category": "What Catholics Believe"
-    },
-    {
-      "id": "_Fh4mqAwKZI",
-      "title": "Holy Hour of Reparation 2/26/26",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/_Fh4mqAwKZI/mqdefault.jpg",
-      "publishedAt": "2026-02-27T14:29:00Z",
       "category": "What Catholics Believe"
     },
     {
@@ -520,16 +520,6 @@
       "thumbnail": "https://i.ytimg.com/vi/4lkN5-YXUcQ/mqdefault.jpg",
       "publishedAt": "2026-02-21T03:29:21Z",
       "category": "Stephen Kokx"
-    },
-    {
-      "id": "vq4LNqO9HQ4",
-      "title": "SSPX: Exposing the Roots of the Crisis in the Church",
-      "channel": "The Catholic Esquire",
-      "channelId": "UCG4MYOfeLntaK7nU1TtByhw",
-      "description": "With the planned consecrations of bishops in July 2026, the SSPX is bringing to light the roots of the real crisis in the Church. And that is a great thing! \n\nSubscribe to my Substack: https://catholi",
-      "thumbnail": "https://i.ytimg.com/vi/vq4LNqO9HQ4/mqdefault.jpg",
-      "publishedAt": "2026-02-21T02:13:25Z",
-      "category": "Catholic Esquirer"
     },
     {
       "id": "o9ACVZ8hfZQ",
