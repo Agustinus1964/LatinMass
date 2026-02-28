@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T09:46:24.767Z",
+  "lastUpdated": "2026-02-28T10:19:45.722Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/dQJzKhucNr0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DsyoKrZApQA",
-          "title": "FSSPX Antwerpen - 28/02 QUATERTEMPERZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DsyoKrZApQA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "oKAxvDrAcRs",
-          "title": "Sainte messe du Samedi des Quatre-Temps de Carême - INTRET",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/oKAxvDrAcRs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0AN0U5dvZTY",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/0AN0U5dvZTY/mqdefault_live.jpg",
+          "id": "qu9dcmadND0",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Bz4pdCT461Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T10:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "yDTivlst8cQ",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8JNAUjxqr64/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T09:30:00Z"
+        },
+        {
+          "id": "vXqYcJVJvng",
+          "title": "Sainte messe du second dimanche de Carême - REMINISCERE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/vXqYcJVJvng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T10:00:00Z"
         }
       ]
     }
