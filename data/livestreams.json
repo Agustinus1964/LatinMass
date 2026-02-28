@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-28T12:38:46.304Z",
+  "lastUpdated": "2026-02-28T13:34:13.014Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "6s5VTr0czEk",
-          "title": "Low Mass - Ember Saturday of Lent - 2/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/6s5VTr0czEk/mqdefault_live.jpg",
+          "id": "hUR6m2OJ7bE",
+          "title": "Sat. Feb. 28, 2026    -    Ember Saturday of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/hUR6m2OJ7bE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -23,15 +23,6 @@
           "scheduledTime": null
         },
         {
-          "id": "hUR6m2OJ7bE",
-          "title": "Sat. Feb. 28, 2026    -    Ember Saturday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/hUR6m2OJ7bE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T13:00:00Z"
-        },
-        {
           "id": "Ic3jbRTL6zI",
           "title": "Sat. Feb. 28, 2026    -    Mission    -    Second Conference",
           "channel": "Transfiguration Church SSPX",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-02-28T14:00:00Z"
         },
         {
-          "id": "-iuE5KYcZZE",
-          "title": "Compline - 2/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-iuE5KYcZZE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T01:45:00Z"
-        },
-        {
           "id": "wwdKaT-33Sg",
           "title": "Low Mass - Second Sunday of Lent - 3/1/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wwdKaT-33Sg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T12:20:00Z"
+        },
+        {
+          "id": "3CbdIIHnWW0",
+          "title": "Kreuzweg - 2. Fastensonntag - 01. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3CbdIIHnWW0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T13:00:00Z"
         }
       ]
     },
@@ -69,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ABNdE0nJ7Ro/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xTWZnLwxck4",
-          "title": "Saturday 7 AM Traditional Catholic Mass 02/28/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/xTWZnLwxck4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
