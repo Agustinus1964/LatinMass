@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T10:46:23.058Z",
+  "lastUpdated": "2026-02-28T11:16:20.947Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Bz4pdCT461Q",
-          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Le Trône et l'Autel (6/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Bz4pdCT461Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "yDTivlst8cQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in Lent)",
           "channel": "Usus Antiquior",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vXqYcJVJvng/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T10:00:00Z"
+        },
+        {
+          "id": "VgVvgZEzhOw",
+          "title": "11am — 2nd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/VgVvgZEzhOw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T11:00:00Z"
         }
       ]
     }
