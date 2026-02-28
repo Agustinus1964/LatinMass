@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T18:28:34.778Z",
+  "lastUpdated": "2026-02-28T18:56:08.413Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uW04Rata-NE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T09:25:00Z"
+        },
+        {
+          "id": "pSpcyPjQRUc",
+          "title": "2nd Sunday of Lent",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/pSpcyPjQRUc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T11:00:00Z"
         },
         {
           "id": "wwdKaT-33Sg",
