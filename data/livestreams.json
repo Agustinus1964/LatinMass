@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T08:50:55.538Z",
+  "lastUpdated": "2026-02-28T09:22:39.702Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/dQJzKhucNr0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DsyoKrZApQA",
+          "title": "FSSPX Antwerpen - 28/02 QUATERTEMPERZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/DsyoKrZApQA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,13 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "qu9dcmadND0",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T10:00:00Z"
+          "id": "0AN0U5dvZTY",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/0AN0U5dvZTY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Bz4pdCT461Q",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yDTivlst8cQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T14:00:00Z"
+        },
+        {
+          "id": "-bztKzAJBEQ",
+          "title": "8am — 2nd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/-bztKzAJBEQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T08:00:00Z"
         }
       ]
     }
