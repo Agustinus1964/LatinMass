@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T21:42:00.684Z",
+  "lastUpdated": "2026-02-28T22:19:35.195Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Oqbb0IoECfQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T15:00:00Z"
+        },
+        {
+          "id": "sFBRHVOj1zs",
+          "title": "Simple II Vespers - Second Sunday of Lent - 3/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/sFBRHVOj1zs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T22:00:00Z"
         }
       ]
     },
