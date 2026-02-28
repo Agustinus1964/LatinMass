@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T16:22:27.317Z",
+  "lastUpdated": "2026-02-28T16:48:20.281Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/m5H_grgFqGQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T15:45:00Z"
+        },
+        {
+          "id": "iE6PdCBsdCg",
+          "title": "SECOND SUNDAY OF LENT, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/iE6PdCBsdCg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T16:30:00Z"
+        },
+        {
+          "id": "eY7edqAfpic",
+          "title": "Secondes vêpres du second dimanche de Carême - VISIONEM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/eY7edqAfpic/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T16:45:00Z"
         }
       ]
     }
