@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-02-27T23:46:04.802Z",
+  "lastUpdated": "2026-02-28T01:40:58.481Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Uzr1oWMbPQs",
-          "title": "Stations of the Cross - 2/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Uzr1oWMbPQs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-27T23:55:00Z"
-        },
-        {
-          "id": "qCYxc6Sdbs8",
-          "title": "Fri. Feb. 27, 2026    -    Mission,   First Conference",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qCYxc6Sdbs8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T00:00:00Z"
-        },
         {
           "id": "hDPMltMcH3Y",
           "title": "Compline - 2/27/26",
@@ -66,39 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Ic3jbRTL6zI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T14:00:00Z"
+        },
+        {
+          "id": "j-YjoXDISps",
+          "title": "Rosary - 2/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/j-YjoXDISps/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T00:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0f-oa74l6f0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/0f-oa74l6f0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vu3YEoBaod4",
-          "title": "Divine Office, 6PM Low Mass, Holy Hour. Ember Friday of Lent. II. February 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vu3YEoBaod4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K1bf4o0k1KA",
-          "title": "STATIONS OF THE CROSS SERMON SERIES, PART II, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/K1bf4o0k1KA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oKAxvDrAcRs",
           "title": "Sainte messe du Samedi des Quatre-Temps de Carême - INTRET",
@@ -125,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Bz4pdCT461Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-02-28T10:15:00Z"
+        },
+        {
+          "id": "yDTivlst8cQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/yDTivlst8cQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-02-28T14:00:00Z"
         }
       ]
     }
