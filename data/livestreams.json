@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T10:19:45.722Z",
+  "lastUpdated": "2026-02-28T10:46:23.058Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qu9dcmadND0",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/qu9dcmadND0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Bz4pdCT461Q",
           "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Le Trône et l'Autel (6/10)",
