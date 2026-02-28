@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-02-28T01:40:58.481Z",
+  "lastUpdated": "2026-02-28T03:51:38.826Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hDPMltMcH3Y",
-          "title": "Compline - 2/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/hDPMltMcH3Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T01:45:00Z"
-        },
         {
           "id": "dQJzKhucNr0",
           "title": "Ember Saturday of Lent",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/j-YjoXDISps/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T00:00:00Z"
+        },
+        {
+          "id": "-iuE5KYcZZE",
+          "title": "Compline - 2/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-iuE5KYcZZE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T01:45:00Z"
         }
       ]
     },
