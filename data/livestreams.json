@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T22:45:48.718Z",
+  "lastUpdated": "2026-02-28T23:18:14.107Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/dQJzKhucNr0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "T7r5WbHzfBg",
+          "title": "SECOND SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/T7r5WbHzfBg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
