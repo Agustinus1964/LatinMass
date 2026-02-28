@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-28T05:30:36.980Z",
+  "lastUpdated": "2026-02-28T06:33:47.268Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2Z88ZnoHtMw",
+          "title": "Hl. Messe - Quatembersamstag - 28. Februar 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2Z88ZnoHtMw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dQJzKhucNr0",
           "title": "Ember Saturday of Lent",
