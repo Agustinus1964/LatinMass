@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-28T11:40:10.051Z",
+  "lastUpdated": "2026-02-28T12:38:46.304Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "6s5VTr0czEk",
+          "title": "Low Mass - Ember Saturday of Lent - 2/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6s5VTr0czEk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dQJzKhucNr0",
           "title": "Ember Saturday of Lent",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dQJzKhucNr0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6s5VTr0czEk",
-          "title": "Low Mass - Ember Saturday of Lent - 2/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/6s5VTr0czEk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T12:15:00Z"
         },
         {
           "id": "hUR6m2OJ7bE",
@@ -41,15 +41,6 @@
           "scheduledTime": "2026-02-28T14:00:00Z"
         },
         {
-          "id": "j-YjoXDISps",
-          "title": "Rosary - 2/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/j-YjoXDISps/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T00:00:00Z"
-        },
-        {
           "id": "-iuE5KYcZZE",
           "title": "Compline - 2/28/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-iuE5KYcZZE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T01:45:00Z"
+        },
+        {
+          "id": "wwdKaT-33Sg",
+          "title": "Low Mass - Second Sunday of Lent - 3/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/wwdKaT-33Sg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T12:20:00Z"
         }
       ]
     },
@@ -64,11 +64,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "S5CD9qta6jo",
-          "title": "Missa Rezada de Sábado das Quatro Têmporas da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/S5CD9qta6jo/mqdefault_live.jpg",
+          "id": "ABNdE0nJ7Ro",
+          "title": "7:30AM Low Mass, Rosary, 9AM Low Mass. Ember Saturday of Lent. II. February 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ABNdE0nJ7Ro/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xTWZnLwxck4",
+          "title": "Saturday 7 AM Traditional Catholic Mass 02/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/xTWZnLwxck4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
