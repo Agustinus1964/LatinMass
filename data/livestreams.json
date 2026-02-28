@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-02-28T13:34:13.014Z",
+  "lastUpdated": "2026-02-28T14:19:08.995Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "hUR6m2OJ7bE",
-          "title": "Sat. Feb. 28, 2026    -    Ember Saturday of Lent",
+          "id": "Ic3jbRTL6zI",
+          "title": "Sat. Feb. 28, 2026    -    Mission    -    Second Conference",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/hUR6m2OJ7bE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Ic3jbRTL6zI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dQJzKhucNr0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Ic3jbRTL6zI",
-          "title": "Sat. Feb. 28, 2026    -    Mission    -    Second Conference",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Ic3jbRTL6zI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T14:00:00Z"
         },
         {
           "id": "wwdKaT-33Sg",
@@ -55,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "yDTivlst8cQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/yDTivlst8cQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ABNdE0nJ7Ro",
           "title": "7:30AM Low Mass, Rosary, 9AM Low Mass. Ember Saturday of Lent. II. February 28, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,13 +64,22 @@
           "scheduledTime": null
         },
         {
-          "id": "yDTivlst8cQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/yDTivlst8cQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-02-28T14:00:00Z"
+          "id": "Sw-_nBEtDxw",
+          "title": "Saturday 9 AM Catholic Mass for 02/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Sw-_nBEtDxw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "cH-fYSfB27o",
+          "title": "Santo Sacrificio de la Misa, sábado de tempuras de cuaresma  28 de Febrero, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/cH-fYSfB27o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-bztKzAJBEQ",
