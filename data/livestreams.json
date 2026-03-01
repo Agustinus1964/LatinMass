@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-01T10:49:34.748Z",
+  "lastUpdated": "2026-03-01T11:17:35.292Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PL3oi3AyaGc",
-          "title": "FSSPX Antwerpen - 01/03 2° ZONDAG van de Vasten",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/PL3oi3AyaGc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pSpcyPjQRUc",
           "title": "2nd Sunday of Lent",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/pSpcyPjQRUc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Oqbb0IoECfQ",
@@ -73,6 +64,15 @@
           "scheduledTime": null
         },
         {
+          "id": "VgVvgZEzhOw",
+          "title": "11am — 2nd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/VgVvgZEzhOw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "vXqYcJVJvng",
           "title": "Sainte messe du second dimanche de Carême - REMINISCERE",
           "channel": "Ite Missa Est",
@@ -89,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3WM-b0Tay9E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "VgVvgZEzhOw",
-          "title": "11am — 2nd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/VgVvgZEzhOw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T11:00:00Z"
         },
         {
           "id": "JItc_IohWCU",
