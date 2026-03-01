@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T15:44:28.555Z",
+  "lastUpdated": "2026-03-01T16:23:49.243Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,40 +14,13 @@
           "scheduledTime": null
         },
         {
-          "id": "xQ3De9mnRqs",
-          "title": "Second Sunday Of Lent",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/xQ3De9mnRqs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "B6sxGw4rnKk",
-          "title": "Second Sunday Of Lent",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/B6sxGw4rnKk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "X18YuH5Tp_Y",
-          "title": "Sun. Mar. 1, 2026    -    Second Sunday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/X18YuH5Tp_Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tSRH_Z1VWxg",
           "title": "Second Sunday of Lent, March 1, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/tSRH_Z1VWxg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T15:45:25Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BBkILAkwiCI",
@@ -109,11 +82,29 @@
           "scheduledTime": null
         },
         {
+          "id": "r8I26TtUgoM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/r8I26TtUgoM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "3rRZltyGSSY",
           "title": "10:30AM Sung Mass. Second Sunday of Lent. I. March 1, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/3rRZltyGSSY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "17gWjzkLSKo",
+          "title": "Sunday 11 AM Sung Mass 2026-03-01",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/17gWjzkLSKo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
