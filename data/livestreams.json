@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-01T12:41:14.397Z",
+  "lastUpdated": "2026-03-01T13:36:32.894Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "wwdKaT-33Sg",
-          "title": "Low Mass - Second Sunday of Lent - 3/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/wwdKaT-33Sg/mqdefault_live.jpg",
+          "id": "3CbdIIHnWW0",
+          "title": "Kreuzweg - 2. Fastensonntag - 01. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3CbdIIHnWW0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "JItc_IohWCU",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Second Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/JItc_IohWCU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "qu7xTNtOUq4",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Second Sunday of Lent. I. March 1, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -82,11 +91,11 @@
           "scheduledTime": null
         },
         {
-          "id": "n__SpEoIPdQ",
-          "title": "Sunday 7 AM Catholic Mass for 03/01/2026",
+          "id": "xhCsKEsspvM",
+          "title": "Sunday 8:30 AM Catholic Mass for 03/01/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/n__SpEoIPdQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/xhCsKEsspvM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,15 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8mbwp76BESw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "JItc_IohWCU",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Second Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/JItc_IohWCU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T13:00:00Z"
         },
         {
           "id": "HG_nA4eoLfI",
