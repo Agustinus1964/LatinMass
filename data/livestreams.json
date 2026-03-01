@@ -1,33 +1,15 @@
 {
-  "lastUpdated": "2026-03-01T02:01:26.378Z",
+  "lastUpdated": "2026-03-01T04:32:52.124Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-iuE5KYcZZE",
-          "title": "Compline - 2/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-iuE5KYcZZE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dQJzKhucNr0",
           "title": "Ember Saturday of Lent",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/dQJzKhucNr0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tkDqt4iYkCs",
-          "title": "Sung Mass - 2nd Sunday of Lent",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/tkDqt4iYkCs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Oqbb0IoECfQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T15:00:00Z"
+        },
+        {
+          "id": "BBkILAkwiCI",
+          "title": "II Sunday of Lent | March 1st",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/BBkILAkwiCI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T18:00:00Z"
         },
         {
           "id": "sFBRHVOj1zs",
@@ -188,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LuzYn4L7gCE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T17:00:00Z"
+        },
+        {
+          "id": "VRiHjVQ66no",
+          "title": "Beyond the Veil of This Mortal Life",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/VRiHjVQ66no/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T19:00:00Z"
         }
       ]
     }
