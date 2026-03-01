@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T20:23:08.226Z",
+  "lastUpdated": "2026-03-01T20:48:30.933Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NZQSSBNj_JU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-02T06:15:00Z"
+        },
+        {
+          "id": "ubgWsVzkxNE",
+          "title": "Monday in the 2ⁿᵈ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ubgWsVzkxNE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T07:15:00Z"
         },
         {
           "id": "RizOerCduXc",
