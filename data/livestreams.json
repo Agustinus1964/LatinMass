@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T14:21:08.852Z",
+  "lastUpdated": "2026-03-01T14:48:02.994Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/xQ3De9mnRqs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "B6sxGw4rnKk",
+          "title": "Second Sunday Of Lent",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/B6sxGw4rnKk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,38 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "qu7xTNtOUq4",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Second Sunday of Lent. I. March 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/qu7xTNtOUq4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xhCsKEsspvM",
-          "title": "Sunday 8:30 AM Catholic Mass for 03/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/xhCsKEsspvM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "fshi6CwXZgI",
           "title": "Santa Misa Dominical. 1 de Marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/fshi6CwXZgI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8mbwp76BESw",
-          "title": "Missa Cantada II Domingo da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8mbwp76BESw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
