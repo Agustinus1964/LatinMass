@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-01T14:48:02.994Z",
+  "lastUpdated": "2026-03-01T15:19:51.201Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Oqbb0IoECfQ",
+          "title": "Solemn High Mass - Second Sunday of Lent - 3/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Oqbb0IoECfQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "xQ3De9mnRqs",
           "title": "Second Sunday Of Lent",
@@ -23,22 +32,13 @@
           "scheduledTime": null
         },
         {
-          "id": "rOz1iZjHwjU",
-          "title": "FSSPX Antwerpen - 01/03 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/rOz1iZjHwjU/mqdefault_live.jpg",
+          "id": "X18YuH5Tp_Y",
+          "title": "Sun. Mar. 1, 2026    -    Second Sunday of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/X18YuH5Tp_Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Oqbb0IoECfQ",
-          "title": "Solemn High Mass - Second Sunday of Lent - 3/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Oqbb0IoECfQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T15:00:00Z"
         },
         {
           "id": "BBkILAkwiCI",
@@ -91,11 +91,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SlnwftQojY0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/SlnwftQojY0/mqdefault_live.jpg",
+          "id": "HG_nA4eoLfI",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Second Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/HG_nA4eoLfI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3rRZltyGSSY",
+          "title": "10:30AM Sung Mass. Second Sunday of Lent. I. March 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3rRZltyGSSY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/fshi6CwXZgI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "HG_nA4eoLfI",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Second Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/HG_nA4eoLfI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T15:00:00Z"
         },
         {
           "id": "U-_qoRLxdsw",
