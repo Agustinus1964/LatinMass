@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T17:45:41.658Z",
+  "lastUpdated": "2026-03-01T18:28:48.451Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/BBkILAkwiCI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sFBRHVOj1zs",
@@ -64,38 +64,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "r8I26TtUgoM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/r8I26TtUgoM/mqdefault_live.jpg",
+          "id": "e85dbL5yHBQ",
+          "title": "Sunday 1:30 PM Catholic Mass 03/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/e85dbL5yHBQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "iE6PdCBsdCg",
-          "title": "SECOND SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/iE6PdCBsdCg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fshi6CwXZgI",
+          "id": "oT68SCPV76k",
           "title": "Santa Misa Dominical. 1 de Marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/fshi6CwXZgI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LuzYn4L7gCE",
-          "title": "Vespers and Benediction — 2nd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/LuzYn4L7gCE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/oT68SCPV76k/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/7i_9kB-bzvA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-02T12:30:00Z"
+        },
+        {
+          "id": "tZma6UTSywQ",
+          "title": "Monday 2nd March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/tZma6UTSywQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T18:00:00Z"
+        },
+        {
+          "id": "09dUaoHJ9Xw",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/09dUaoHJ9Xw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T18:00:00Z"
+        },
+        {
+          "id": "rIMn1wElm24",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/rIMn1wElm24/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T18:00:00Z"
         }
       ]
     }
