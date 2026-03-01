@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-01T07:30:32.574Z",
+  "lastUpdated": "2026-03-01T08:27:05.355Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ArQRgnB0n0Y",
+          "title": "Amt - 2. Fastensonntag - 01. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ArQRgnB0n0Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "uW04Rata-NE",
           "title": "II Domenica di Quaresima - Santa Messa cantata - FSSPX Italia",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pSpcyPjQRUc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T11:00:00Z"
-        },
-        {
-          "id": "3CbdIIHnWW0",
-          "title": "Kreuzweg - 2. Fastensonntag - 01. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3CbdIIHnWW0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T13:00:00Z"
         },
         {
           "id": "Oqbb0IoECfQ",
@@ -78,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/-bztKzAJBEQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8JNAUjxqr64",
