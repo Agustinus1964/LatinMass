@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T15:19:51.201Z",
+  "lastUpdated": "2026-03-01T15:44:28.555Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/X18YuH5Tp_Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "tSRH_Z1VWxg",
+          "title": "Second Sunday of Lent, March 1, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/tSRH_Z1VWxg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T15:45:25Z"
         },
         {
           "id": "BBkILAkwiCI",
@@ -109,6 +118,15 @@
           "scheduledTime": null
         },
         {
+          "id": "U-_qoRLxdsw",
+          "title": "2nd Sunday of Lent / 2e dimanche de Carême",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/U-_qoRLxdsw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "fshi6CwXZgI",
           "title": "Santa Misa Dominical. 1 de Marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -118,22 +136,13 @@
           "scheduledTime": null
         },
         {
-          "id": "U-_qoRLxdsw",
-          "title": "2nd Sunday of Lent / 2e dimanche de Carême",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/U-_qoRLxdsw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T15:30:00Z"
-        },
-        {
           "id": "m5H_grgFqGQ",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/m5H_grgFqGQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iE6PdCBsdCg",
