@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-01T08:54:57.657Z",
+  "lastUpdated": "2026-03-01T09:26:23.399Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PL3oi3AyaGc",
+          "title": "FSSPX Antwerpen - 01/03 2° ZONDAG van de Vasten",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/PL3oi3AyaGc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ArQRgnB0n0Y",
           "title": "Amt - 2. Fastensonntag - 01. März 2026",
@@ -19,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/uW04Rata-NE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T09:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pSpcyPjQRUc",
