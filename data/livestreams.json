@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-01T13:36:32.894Z",
+  "lastUpdated": "2026-03-01T14:21:08.852Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "3CbdIIHnWW0",
-          "title": "Kreuzweg - 2. Fastensonntag - 01. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3CbdIIHnWW0/mqdefault_live.jpg",
+          "id": "xQ3De9mnRqs",
+          "title": "Second Sunday Of Lent",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/xQ3De9mnRqs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rOz1iZjHwjU",
+          "title": "FSSPX Antwerpen - 01/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/rOz1iZjHwjU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "JItc_IohWCU",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Second Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/JItc_IohWCU/mqdefault_live.jpg",
+          "id": "SlnwftQojY0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/SlnwftQojY0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,6 +109,15 @@
           "scheduledTime": null
         },
         {
+          "id": "fshi6CwXZgI",
+          "title": "Santa Misa Dominical. 1 de Marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/fshi6CwXZgI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "8mbwp76BESw",
           "title": "Missa Cantada II Domingo da Quaresma",
           "channel": "Missa Tridentina em Brasília",
@@ -116,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HG_nA4eoLfI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T15:00:00Z"
+        },
+        {
+          "id": "U-_qoRLxdsw",
+          "title": "2nd Sunday of Lent / 2e dimanche de Carême",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/U-_qoRLxdsw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-01T15:30:00Z"
         },
         {
           "id": "m5H_grgFqGQ",
