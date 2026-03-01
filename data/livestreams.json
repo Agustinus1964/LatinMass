@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T11:17:35.292Z",
+  "lastUpdated": "2026-03-01T11:41:29.087Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,20 +64,20 @@
           "scheduledTime": null
         },
         {
+          "id": "qu7xTNtOUq4",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Second Sunday of Lent. I. March 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/qu7xTNtOUq4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "VgVvgZEzhOw",
           "title": "11am — 2nd Sunday of Lent",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/VgVvgZEzhOw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vXqYcJVJvng",
-          "title": "Sainte messe du second dimanche de Carême - REMINISCERE",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/vXqYcJVJvng/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
