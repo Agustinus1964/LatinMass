@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T22:20:18.397Z",
+  "lastUpdated": "2026-03-01T22:48:31.989Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/SmnlfvOUtnM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-02T01:45:00Z"
-        },
-        {
-          "id": "NZQSSBNj_JU",
-          "title": "Hl. Messe - 02. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NZQSSBNj_JU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-02T06:15:00Z"
         },
         {
           "id": "ubgWsVzkxNE",
@@ -81,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "n_GsgoxjCQk",
-          "title": "Missa Rezada do 2 Domingo da Quaresma e Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/n_GsgoxjCQk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7i_9kB-bzvA",
           "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Second Week in Lent)",
