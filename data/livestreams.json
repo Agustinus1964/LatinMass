@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-02-28T23:43:23.902Z",
+  "lastUpdated": "2026-03-01T02:01:26.378Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-iuE5KYcZZE",
+          "title": "Compline - 2/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-iuE5KYcZZE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dQJzKhucNr0",
           "title": "Ember Saturday of Lent",
@@ -14,11 +23,11 @@
           "scheduledTime": null
         },
         {
-          "id": "T7r5WbHzfBg",
-          "title": "SECOND SUNDAY OF LENT - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/T7r5WbHzfBg/mqdefault_live.jpg",
+          "id": "tkDqt4iYkCs",
+          "title": "Sung Mass - 2nd Sunday of Lent",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/tkDqt4iYkCs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pSpcyPjQRUc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T11:00:00Z"
-        },
-        {
-          "id": "wwdKaT-33Sg",
-          "title": "Low Mass - Second Sunday of Lent - 3/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/wwdKaT-33Sg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T12:20:00Z"
         },
         {
           "id": "3CbdIIHnWW0",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sFBRHVOj1zs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-01T22:00:00Z"
+        },
+        {
+          "id": "SmnlfvOUtnM",
+          "title": "Compline - 3/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/SmnlfvOUtnM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T01:45:00Z"
         }
       ]
     },
