@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T09:51:45.770Z",
+  "lastUpdated": "2026-03-01T10:21:16.237Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/PL3oi3AyaGc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ArQRgnB0n0Y",
-          "title": "Amt - 2. Fastensonntag - 01. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ArQRgnB0n0Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8JNAUjxqr64",
-          "title": "9:30am —  2nd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/8JNAUjxqr64/mqdefault_live.jpg",
+          "id": "wR1N1jaRdNA",
+          "title": "Sunday 1st March 2026: Second Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/wR1N1jaRdNA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,17 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/vXqYcJVJvng/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T10:00:00Z"
-        },
-        {
-          "id": "wR1N1jaRdNA",
-          "title": "Sunday 1st March 2026: Second Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/wR1N1jaRdNA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VgVvgZEzhOw",
