@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T18:57:36.086Z",
+  "lastUpdated": "2026-03-01T19:25:14.939Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": "2026-03-02T01:45:00Z"
         },
         {
+          "id": "NZQSSBNj_JU",
+          "title": "Hl. Messe - 02. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/NZQSSBNj_JU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T06:15:00Z"
+        },
+        {
           "id": "RizOerCduXc",
           "title": "Low Mass - Feria of Lent - 3/2/26",
           "channel": "SSPX Seminary - USA",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DLleaU2htrQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-02T12:15:00Z"
+        },
+        {
+          "id": "w3H-BgXEJj8",
+          "title": "Rosenkranz und hl. Messe - 02. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/w3H-BgXEJj8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-02T17:00:00Z"
         },
         {
           "id": "-f1vB5zGytk",
@@ -80,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oT68SCPV76k/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "VRiHjVQ66no",
-          "title": "Beyond the Veil of This Mortal Life",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/VRiHjVQ66no/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-01T19:00:00Z"
         },
         {
           "id": "7i_9kB-bzvA",
