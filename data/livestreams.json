@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-02T04:11:58.813Z",
+  "lastUpdated": "2026-03-02T05:33:41.736Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "aw8lN0Yke7A",
+          "title": "No Livechat",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/aw8lN0Yke7A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ubgWsVzkxNE",
           "title": "Monday in the 2ⁿᵈ Week of Lent",
