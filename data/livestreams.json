@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T10:40:23.065Z",
+  "lastUpdated": "2026-03-02T11:29:54.542Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ugxhbYHlPnw",
+          "title": "Monday 6 AM Traditional Catholic Mass 03/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ugxhbYHlPnw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7i_9kB-bzvA",
           "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Second Week in Lent)",
