@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T12:56:46.489Z",
+  "lastUpdated": "2026-03-03T14:00:16.425Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "fsuwgNTAXM0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Second Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/fsuwgNTAXM0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sAvyAwUXYJU",
-          "title": "Tuesday 8 AM Catholic Mass for 03/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/sAvyAwUXYJU/mqdefault_live.jpg",
+          "id": "fBOZT5NGbtU",
+          "title": "Santo Sacrificio de La Misa,  Tercera semana del tiempo de Cuaresma 3 de marzo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/fBOZT5NGbtU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EDVEjBaZQEc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-03T18:00:00Z"
+        },
+        {
+          "id": "p58YpDxGyZc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday of the Second Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/p58YpDxGyZc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-04T12:30:00Z"
         }
       ]
     }
