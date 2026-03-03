@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T08:36:37.391Z",
+  "lastUpdated": "2026-03-03T09:38:34.387Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "e1LcVI7aoeQ",
+          "title": "Prima e Missa Rezada da Terça-Feira da Segunda Semana da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/e1LcVI7aoeQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fsuwgNTAXM0",
           "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Second Week in Lent)",
