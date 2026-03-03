@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-03T05:31:41.047Z",
+  "lastUpdated": "2026-03-03T06:46:07.740Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tlKvi08YTYk",
+          "title": "Hl. Messe - 03. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/tlKvi08YTYk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "5_C99jv3xbU",
           "title": "Tuesday in the 2ⁿᵈ Week of Lent",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DtW0oJLT7sM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-04T01:45:00Z"
+        },
+        {
+          "id": "w-gd6qVEcfc",
+          "title": "FSSPX Antwerpen - 04/03 WOENSDAG na de 2° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/w-gd6qVEcfc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-04T06:30:00Z"
         }
       ]
     },
