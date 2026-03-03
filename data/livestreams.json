@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-03T15:10:58.784Z",
+  "lastUpdated": "2026-03-03T16:05:59.565Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ghCyf_6q3SY",
-          "title": "FSSPX Antwerpen - 03/03 DINSDAG na de 2° ZONDAG",
+          "id": "es_Nm9E-Yso",
+          "title": "FSSPX Antwerpen - 03/03 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ghCyf_6q3SY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-03T17:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/es_Nm9E-Yso/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ce1HVeAXjW8",
@@ -30,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DtW0oJLT7sM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-04T01:45:00Z"
-        },
-        {
-          "id": "w-gd6qVEcfc",
-          "title": "FSSPX Antwerpen - 04/03 WOENSDAG na de 2° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/w-gd6qVEcfc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T06:30:00Z"
         },
         {
           "id": "Jl7xvlso2q0",
