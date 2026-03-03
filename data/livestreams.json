@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-03T17:10:49.834Z",
+  "lastUpdated": "2026-03-03T18:04:05.021Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "es_Nm9E-Yso",
-          "title": "FSSPX Antwerpen - 03/03 Aanbidding met Rozenhoedje",
+          "id": "0ZLkLWKUhAU",
+          "title": "FSSPX Antwerpen - 03/03 DINSDAG na de 2° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/es_Nm9E-Yso/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/0ZLkLWKUhAU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/4Fj1qQ2YFHc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "0ZLkLWKUhAU",
-          "title": "FSSPX Antwerpen - 03/03 DINSDAG na de 2° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0ZLkLWKUhAU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-03T17:25:00Z"
         },
         {
           "id": "ce1HVeAXjW8",
@@ -78,8 +69,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/aVozmCxmqEk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-03T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pQ0bGNP99rg",
@@ -87,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/pQ0bGNP99rg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-03T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EDVEjBaZQEc",
@@ -96,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/EDVEjBaZQEc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-03T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "p58YpDxGyZc",
@@ -107,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/p58YpDxGyZc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-04T12:30:00Z"
+        },
+        {
+          "id": "Ohj-F5MuKng",
+          "title": "Wednesday 4th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Ohj-F5MuKng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-04T18:00:00Z"
+        },
+        {
+          "id": "3FwBOPz2IpM",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/3FwBOPz2IpM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-04T18:00:00Z"
+        },
+        {
+          "id": "BNctXHRY558",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/BNctXHRY558/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-04T18:00:00Z"
         }
       ]
     }
