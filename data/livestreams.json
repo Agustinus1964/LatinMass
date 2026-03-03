@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-03T06:46:07.740Z",
+  "lastUpdated": "2026-03-03T07:39:54.172Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tlKvi08YTYk",
-          "title": "Hl. Messe - 03. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tlKvi08YTYk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5_C99jv3xbU",
           "title": "Tuesday in the 2ⁿᵈ Week of Lent",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/5_C99jv3xbU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-03T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KOmyNwnMQQw",
