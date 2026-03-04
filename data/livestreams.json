@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T07:56:48.795Z",
+  "lastUpdated": "2026-03-04T08:40:48.818Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BNctXHRY558/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-04T18:00:00Z"
+        },
+        {
+          "id": "QpvZS6U1Vl0",
+          "title": "Thursday 5th March 2026: First Thursday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/QpvZS6U1Vl0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T08:00:00Z"
         }
       ]
     }
