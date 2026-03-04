@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-04T11:52:41.868Z",
+  "lastUpdated": "2026-03-04T12:50:41.804Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/Jl7xvlso2q0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "To0me1fgePk",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/To0me1fgePk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-JYiHMcPnzI",
@@ -39,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/OsKeBPTTx_U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-05T01:45:00Z"
+        },
+        {
+          "id": "Xeic-QUAqP0",
+          "title": "Low Mass - Feria of Lent - 3/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Xeic-QUAqP0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T12:15:00Z"
+        },
+        {
+          "id": "wXGFCnph5hA",
+          "title": "Thu. Mar. 5, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/wXGFCnph5hA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T12:15:00Z"
         }
       ]
     },
@@ -46,31 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uAsdxJUkU-U",
-          "title": "7AM Mass & Divine Office. Feria of Lent. III. Wednesday, March 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/uAsdxJUkU-U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "a5jamyLymuA",
-          "title": "Wednesday 6 AM Traditional Catholic Mass03/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/a5jamyLymuA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "p58YpDxGyZc",
           "title": "Live Stream Holy Mass from Cleveland USA (Wednesday of the Second Week in Lent)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/p58YpDxGyZc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ohj-F5MuKng",
