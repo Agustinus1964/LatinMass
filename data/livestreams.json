@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-04T17:35:55.066Z",
+  "lastUpdated": "2026-03-04T18:43:15.676Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pWpLAB4fJPw",
-          "title": "Rosenkranz und hl. Messe - 04. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/pWpLAB4fJPw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-JYiHMcPnzI",
-          "title": "Rosary - 3/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-JYiHMcPnzI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-05T00:00:00Z"
-        },
         {
           "id": "OsKeBPTTx_U",
           "title": "Compline - 3/4/26",
@@ -32,13 +14,13 @@
           "scheduledTime": "2026-03-05T01:45:00Z"
         },
         {
-          "id": "Xeic-QUAqP0",
-          "title": "Low Mass - Feria of Lent - 3/5/26",
+          "id": "FYjINPazjl8",
+          "title": "Sung Mass - Fist Thursday - 3/5/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Xeic-QUAqP0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FYjINPazjl8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-05T12:15:00Z"
+          "scheduledTime": "2026-03-05T11:50:00Z"
         },
         {
           "id": "wXGFCnph5hA",
@@ -69,17 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Ohj-F5MuKng/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T18:00:00Z"
-        },
-        {
-          "id": "3FwBOPz2IpM",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/3FwBOPz2IpM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BNctXHRY558",
@@ -87,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/BNctXHRY558/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QpvZS6U1Vl0",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/bDJegaiSKQQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-05T12:30:00Z"
+        },
+        {
+          "id": "r16iARG-MNA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/r16iARG-MNA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T18:00:00Z"
+        },
+        {
+          "id": "QxVuAvueENg",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/QxVuAvueENg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T18:00:00Z"
         }
       ]
     }
