@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-04T16:39:05.165Z",
+  "lastUpdated": "2026-03-04T17:35:55.066Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pWpLAB4fJPw",
+          "title": "Rosenkranz und hl. Messe - 04. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/pWpLAB4fJPw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-JYiHMcPnzI",
           "title": "Rosary - 3/4/26",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wXGFCnph5hA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-05T12:15:00Z"
+        },
+        {
+          "id": "N-FNEaI4Ma8",
+          "title": "FSSPX Antwerpen - 05/03 DONDERDAG na de 2° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/N-FNEaI4Ma8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T17:30:00Z"
         }
       ]
     },
