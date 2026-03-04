@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-03T23:49:30.840Z",
+  "lastUpdated": "2026-03-04T01:48:57.915Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ce1HVeAXjW8",
-          "title": "Rosary - 3/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ce1HVeAXjW8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T00:00:00Z"
-        },
         {
           "id": "DtW0oJLT7sM",
           "title": "Compline - 3/3/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/DtW0oJLT7sM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-04T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SoNtYD0d3os",
@@ -48,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/To0me1fgePk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-04T12:15:00Z"
+        },
+        {
+          "id": "-JYiHMcPnzI",
+          "title": "Rosary - 3/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-JYiHMcPnzI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T00:00:00Z"
+        },
+        {
+          "id": "OsKeBPTTx_U",
+          "title": "Compline - 3/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/OsKeBPTTx_U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-05T01:45:00Z"
         }
       ]
     },
