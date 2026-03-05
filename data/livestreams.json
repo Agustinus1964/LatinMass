@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-05T19:41:16.586Z",
+  "lastUpdated": "2026-03-05T20:33:46.174Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kVRichQJWG8",
+          "title": "Friday after 2nd SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/kVRichQJWG8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "wXOhuQLJ3zY",
           "title": "Rosary - 3/5/26",
