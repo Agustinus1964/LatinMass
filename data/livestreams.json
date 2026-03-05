@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-05T13:59:39.209Z",
+  "lastUpdated": "2026-03-05T14:56:21.973Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "cw1Lj_owW7Y",
+          "title": "FSSPX Antwerpen - 05/03 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/cw1Lj_owW7Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "wXOhuQLJ3zY",
           "title": "Rosary - 3/5/26",
