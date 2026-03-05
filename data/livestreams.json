@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-05T20:33:46.174Z",
+  "lastUpdated": "2026-03-05T21:31:18.240Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kVRichQJWG8",
-          "title": "Friday after 2nd SUNDAY OF LENT - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/kVRichQJWG8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wXOhuQLJ3zY",
           "title": "Rosary - 3/5/26",
@@ -54,6 +45,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hSJSY9MW9qs",
+          "title": "Divine Office & 6PM Mass. Feria of Lent. III. Thursday, March 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/hSJSY9MW9qs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TJwS94_aY5M",
+          "title": "Terço, missa rezada da Quinta-feira da II Semana da Quaresma e Hora Santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/TJwS94_aY5M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "i61HWaJPt_w",
           "title": "Friday 6th March 2026: First Friday",
