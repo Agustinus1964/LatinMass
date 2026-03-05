@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T10:35:48.680Z",
+  "lastUpdated": "2026-03-05T11:31:17.582Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "flG_jNYq1j8",
+          "title": "7AM Mass & Divine Office. Feria of Lent. III. Thursday, March 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/flG_jNYq1j8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zNb_Ru2ccpU",
+          "title": "Thursday 6 AM Traditional Catholic Mass 03/05/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/zNb_Ru2ccpU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bDJegaiSKQQ",
           "title": "Live Stream Holy Mass from Cleveland (1st Thursday—Our Lord Jesus Christ, Supreme & Eternal Priest)",
