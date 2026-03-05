@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-05T07:24:45.206Z",
+  "lastUpdated": "2026-03-05T07:59:18.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "DkAH5g9B77w",
-          "title": "Thursday in the 2ⁿᵈ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/DkAH5g9B77w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FYjINPazjl8",
           "title": "Sung Mass - Fist Thursday - 3/5/26",
@@ -69,8 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/QpvZS6U1Vl0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-05T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bDJegaiSKQQ",
