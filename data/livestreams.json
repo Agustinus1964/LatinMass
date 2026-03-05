@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-05T22:27:33.793Z",
+  "lastUpdated": "2026-03-05T23:39:24.428Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "wXOhuQLJ3zY",
-          "title": "Rosary - 3/5/26",
+          "id": "seqVg7N_Rx8",
+          "title": "Benediction - 3/5/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/wXOhuQLJ3zY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-05T23:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/seqVg7N_Rx8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ytMLO1cwo5A",
@@ -55,15 +55,6 @@
           "scheduledTime": null
         },
         {
-          "id": "TJwS94_aY5M",
-          "title": "Terço, missa rezada da Quinta-feira da II Semana da Quaresma e Hora Santa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/TJwS94_aY5M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "i61HWaJPt_w",
           "title": "Friday 6th March 2026: First Friday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -89,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/RKwNjFF2lQ0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-06T18:00:00Z"
+        },
+        {
+          "id": "S4SAGtlSW-w",
+          "title": "STATIONS OF THE CROSS SERMON SERIES, PART III, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/S4SAGtlSW-w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-06T23:00:00Z"
+        },
+        {
+          "id": "lPnNlQI8jjM",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lPnNlQI8jjM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-06T23:30:00Z"
         }
       ]
     }
