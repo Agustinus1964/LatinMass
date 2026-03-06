@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T13:52:57.343Z",
+  "lastUpdated": "2026-03-06T14:35:08.196Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/P8ATKnDSoZk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-07T09:00:00Z"
+        },
+        {
+          "id": "19mOzo30ZOU",
+          "title": "Sat. Mar. 7, 2026    -    Ferial Day of Lent       (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/19mOzo30ZOU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T14:00:00Z"
         }
       ]
     },
@@ -46,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Pu4jegeRHrg",
-          "title": "First Friday 8 AM Mass and Devotions 03/06/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Pu4jegeRHrg/mqdefault_live.jpg",
+          "id": "Hcee9dwQ90E",
+          "title": "Santo Sacrificio de La Misa, feria de la segunda semana de Cuaresma,  6 de marzo, de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Hcee9dwQ90E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
