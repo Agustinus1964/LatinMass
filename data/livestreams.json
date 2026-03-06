@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T21:53:30.730Z",
+  "lastUpdated": "2026-03-06T22:24:47.089Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HBc0Z-DfHqg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-07T15:00:00Z"
+        },
+        {
+          "id": "BhOaoEhD8No",
+          "title": "Solemn II Vespers - St. Thomas Aquinas - 3/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BhOaoEhD8No/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T22:00:00Z"
         }
       ]
     },
