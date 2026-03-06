@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-06T23:24:36.817Z",
+  "lastUpdated": "2026-03-06T23:49:32.357Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "s0UdyHiEHcc",
-          "title": "Compline - 3/6/26",
+          "id": "QxgESnB70eE",
+          "title": "Solemn Vespers I - St. Thomas Aquinas - 3/6/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/s0UdyHiEHcc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T01:45:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/QxgESnB70eE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "19mOzo30ZOU",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "lPnNlQI8jjM",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lPnNlQI8jjM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "y31_1ffQUfM",
           "title": "Divine Office, 6PM Mass, Holy Hour. First Friday. Feria of Lent. III. Friday, March 6, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/S4SAGtlSW-w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "lPnNlQI8jjM",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/lPnNlQI8jjM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-06T23:30:00Z"
         },
         {
           "id": "3GRiaA7_ZSM",
