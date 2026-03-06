@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-06T05:29:59.421Z",
+  "lastUpdated": "2026-03-06T06:07:10.344Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "4PNBgs2DKxM",
+          "title": "Friday in the 2ⁿᵈ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/4PNBgs2DKxM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-06T07:15:00Z"
+        },
         {
           "id": "nzimhYOMzk8",
           "title": "Sung Mass - First Friday - 3/6/26",
