@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-05T23:39:24.428Z",
+  "lastUpdated": "2026-03-06T01:52:53.477Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "seqVg7N_Rx8",
-          "title": "Benediction - 3/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/seqVg7N_Rx8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ytMLO1cwo5A",
           "title": "Compline - 3/5/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/ytMLO1cwo5A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-06T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nzimhYOMzk8",
@@ -39,21 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/woRZBQju1eU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-06T12:15:00Z"
+        },
+        {
+          "id": "QxgESnB70eE",
+          "title": "Solemn Vespers I - St. Thomas Aquinas - 3/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/QxgESnB70eE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-06T23:45:00Z"
+        },
+        {
+          "id": "s0UdyHiEHcc",
+          "title": "Compline - 3/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/s0UdyHiEHcc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hSJSY9MW9qs",
-          "title": "Divine Office & 6PM Mass. Feria of Lent. III. Thursday, March 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/hSJSY9MW9qs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "i61HWaJPt_w",
           "title": "Friday 6th March 2026: First Friday",
