@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T07:12:22.776Z",
+  "lastUpdated": "2026-03-06T07:57:13.487Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4PNBgs2DKxM",
-          "title": "Friday in the 2ⁿᵈ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/4PNBgs2DKxM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nzimhYOMzk8",
           "title": "Sung Mass - First Friday - 3/6/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/s0UdyHiEHcc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-07T01:45:00Z"
+        },
+        {
+          "id": "yotJhi84GwU",
+          "title": "FSSPX Antwerpen - 07/03 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/yotJhi84GwU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T07:15:00Z"
         }
       ]
     },
