@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T18:39:16.730Z",
+  "lastUpdated": "2026-03-06T19:31:40.074Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xeAA-TKZJx8",
-          "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 06. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xeAA-TKZJx8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "s0UdyHiEHcc",
           "title": "Compline - 3/6/26",
@@ -51,15 +42,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/i61HWaJPt_w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RKwNjFF2lQ0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/RKwNjFF2lQ0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
