@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T08:41:10.223Z",
+  "lastUpdated": "2026-03-06T09:34:41.286Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/yotJhi84GwU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-07T07:15:00Z"
+        },
+        {
+          "id": "P8ATKnDSoZk",
+          "title": "FSSPX Antwerpen - 07/03 ZATERDAG na de 2° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/P8ATKnDSoZk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "h4CzwNe6-go",
+          "title": "Prima e Missa Rezada da Sexta-feira da II Semana da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/h4CzwNe6-go/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "i61HWaJPt_w",
           "title": "Friday 6th March 2026: First Friday",
