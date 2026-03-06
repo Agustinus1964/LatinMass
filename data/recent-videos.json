@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-06T04:05:38.935Z",
+  "lastUpdated": "2026-03-06T05:29:27.935Z",
   "videos": [
+    {
+      "id": "DExJrtH4nuY",
+      "title": "Holy Mass 3/5/26 - Thursday of the Second Week of Lent",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/DExJrtH4nuY/mqdefault.jpg",
+      "publishedAt": "2026-03-06T05:27:10Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "xfqEZZQRKOo",
       "title": "Pope Urban II at Clermont",
@@ -180,16 +190,6 @@
       "thumbnail": "https://i.ytimg.com/vi/EMkGqQYWfQA/mqdefault.jpg",
       "publishedAt": "2026-03-05T16:15:20Z",
       "category": "Pelican Plus"
-    },
-    {
-      "id": "DExJrtH4nuY",
-      "title": "Holy Mass 3/5/26 - Thursday of the Second Week of Lent",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/DExJrtH4nuY/mqdefault_live.jpg",
-      "publishedAt": "2026-03-05T15:40:56Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "5FeGSysY9cA",
