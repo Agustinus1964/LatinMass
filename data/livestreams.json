@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T12:49:22.178Z",
+  "lastUpdated": "2026-03-06T13:52:57.343Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nzimhYOMzk8",
-          "title": "Sung Mass - First Friday - 3/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/nzimhYOMzk8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "woRZBQju1eU",
-          "title": "Fri. Mar. 6, 2026    -    Ferial Day of Lent      (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/woRZBQju1eU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "noM48r5eeH4",
           "title": "Via Crucis - FSSPX Italia",
@@ -30,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/noM48r5eeH4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-06T16:55:00Z"
-        },
-        {
-          "id": "QxgESnB70eE",
-          "title": "Solemn Vespers I - St. Thomas Aquinas - 3/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/QxgESnB70eE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-06T23:45:00Z"
         },
         {
           "id": "s0UdyHiEHcc",
@@ -72,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Pu4jegeRHrg",
+          "title": "First Friday 8 AM Mass and Devotions 03/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Pu4jegeRHrg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "i61HWaJPt_w",
           "title": "Friday 6th March 2026: First Friday",
