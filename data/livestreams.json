@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T01:52:53.477Z",
+  "lastUpdated": "2026-03-06T04:07:08.512Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ytMLO1cwo5A",
-          "title": "Compline - 3/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ytMLO1cwo5A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nzimhYOMzk8",
           "title": "Sung Mass - First Friday - 3/6/26",
