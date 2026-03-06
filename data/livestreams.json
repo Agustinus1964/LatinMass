@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-06T21:29:24.439Z",
+  "lastUpdated": "2026-03-06T21:53:30.730Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9pFl3-8oqCw",
-          "title": "Saturday after the Second Sunday of Lent - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/9pFl3-8oqCw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "s0UdyHiEHcc",
           "title": "Compline - 3/6/26",
@@ -45,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "y31_1ffQUfM",
+          "title": "Divine Office, 6PM Mass, Holy Hour. First Friday. Feria of Lent. III. Friday, March 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/y31_1ffQUfM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Ci4wdmwMcLo",
           "title": "Via Sacra e Missa Rezada da Quinta-feira da II Semana da Quaresma",
