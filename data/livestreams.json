@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-06T10:31:38.451Z",
+  "lastUpdated": "2026-03-06T11:25:42.769Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CIBtWuy4AN0",
+          "title": "Sung Mass - First Friday (Sacred Heart)",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/CIBtWuy4AN0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nzimhYOMzk8",
           "title": "Sung Mass - First Friday - 3/6/26",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/woRZBQju1eU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-06T12:15:00Z"
+        },
+        {
+          "id": "noM48r5eeH4",
+          "title": "Via Crucis - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/noM48r5eeH4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-06T16:55:00Z"
         },
         {
           "id": "QxgESnB70eE",
