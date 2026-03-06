@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T14:35:08.196Z",
+  "lastUpdated": "2026-03-06T15:34:13.403Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,24 +23,6 @@
           "scheduledTime": "2026-03-07T01:45:00Z"
         },
         {
-          "id": "yotJhi84GwU",
-          "title": "FSSPX Antwerpen - 07/03 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yotJhi84GwU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T07:15:00Z"
-        },
-        {
-          "id": "P8ATKnDSoZk",
-          "title": "FSSPX Antwerpen - 07/03 ZATERDAG na de 2° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/P8ATKnDSoZk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T09:00:00Z"
-        },
-        {
           "id": "19mOzo30ZOU",
           "title": "Sat. Mar. 7, 2026    -    Ferial Day of Lent       (First Saturday)",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/19mOzo30ZOU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-07T14:00:00Z"
+        },
+        {
+          "id": "HBc0Z-DfHqg",
+          "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HBc0Z-DfHqg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T15:00:00Z"
         }
       ]
     },
@@ -55,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Hcee9dwQ90E",
-          "title": "Santo Sacrificio de La Misa, feria de la segunda semana de Cuaresma,  6 de marzo, de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Hcee9dwQ90E/mqdefault_live.jpg",
+          "id": "galG8Iy4v7w",
+          "title": "11AM Mass. First Friday. Feria of Lent. III. Friday, March 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/galG8Iy4v7w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
