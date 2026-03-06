@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T22:24:47.089Z",
+  "lastUpdated": "2026-03-06T22:54:32.489Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,15 +51,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/y31_1ffQUfM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ci4wdmwMcLo",
-          "title": "Via Sacra e Missa Rezada da Quinta-feira da II Semana da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Ci4wdmwMcLo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
