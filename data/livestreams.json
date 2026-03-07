@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-07T09:25:40.463Z",
+  "lastUpdated": "2026-03-07T09:50:36.443Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "P8ATKnDSoZk",
-          "title": "FSSPX Antwerpen - 07/03 ZATERDAG na de 2° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/P8ATKnDSoZk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HBc0Z-DfHqg",
           "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
@@ -55,15 +46,6 @@
           "scheduledTime": null
         },
         {
-          "id": "ci_Zy84g-EU",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ci_Zy84g-EU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T10:00:00Z"
-        },
-        {
           "id": "mNhbu5qwjpY",
           "title": "Saturday 7th March 2026: First Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -80,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/KdxFwcUB4A0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-07T14:00:00Z"
+        },
+        {
+          "id": "NLrabTHQro8",
+          "title": "8am — 3rd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NLrabTHQro8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T08:00:00Z"
+        },
+        {
+          "id": "bSBEo8_iO30",
+          "title": "9:30am —  3rd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/bSBEo8_iO30/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T09:30:00Z"
         }
       ]
     }
