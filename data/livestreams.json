@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-07T17:44:44.617Z",
+  "lastUpdated": "2026-03-07T18:28:55.914Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "G72N9HnOw6o",
+          "title": "Singmesse und Sakramentsandacht - Herz-Mariä Sühnesamstag - 07. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/G72N9HnOw6o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BhOaoEhD8No",
           "title": "Solemn II Vespers - St. Thomas Aquinas - 3/7/26",
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/W8H98B2LNVA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T11:20:00Z"
-        },
-        {
-          "id": "YVgjSONTvXg",
-          "title": "Kreuzweg - 3. Fastensonntag - 08. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YVgjSONTvXg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T13:00:00Z"
         },
         {
           "id": "iYt8pkugnuQ",
