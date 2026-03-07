@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T10:47:57.132Z",
+  "lastUpdated": "2026-03-07T11:17:13.929Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
           "scheduledTime": null
         },
         {
+          "id": "ci_Zy84g-EU",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ci_Zy84g-EU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "KdxFwcUB4A0",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Thomas Aquinas, Confessor and Doctor)",
           "channel": "Usus Antiquior",
@@ -71,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bSBEo8_iO30/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T09:30:00Z"
+        },
+        {
+          "id": "N6992HZ3FyQ",
+          "title": "11am — 3rd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/N6992HZ3FyQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T11:00:00Z"
         }
       ]
     }
