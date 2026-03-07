@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-07T08:54:40.653Z",
+  "lastUpdated": "2026-03-07T09:25:40.463Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "P8ATKnDSoZk",
+          "title": "FSSPX Antwerpen - 07/03 ZATERDAG na de 2° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/P8ATKnDSoZk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HBc0Z-DfHqg",
           "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
@@ -37,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3GRiaA7_ZSM",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/3GRiaA7_ZSM/mqdefault_live.jpg",
+          "id": "YxDFHkHCHgY",
+          "title": "Prima e Missa Rezada da II Semana da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/YxDFHkHCHgY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
