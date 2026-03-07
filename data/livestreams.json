@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T14:21:02.729Z",
+  "lastUpdated": "2026-03-07T14:48:11.382Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iYt8pkugnuQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T14:00:00Z"
+        },
+        {
+          "id": "rXbpmHtd0-c",
+          "title": "Third Sunday in Lent, March 8, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/rXbpmHtd0-c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T14:45:09Z"
         }
       ]
     },
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eS30izoSWD0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "B9p1btJ_Hm0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/B9p1btJ_Hm0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-07T14:58:00Z"
         },
         {
           "id": "NLrabTHQro8",
