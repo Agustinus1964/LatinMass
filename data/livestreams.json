@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T12:39:51.866Z",
+  "lastUpdated": "2026-03-07T13:36:04.613Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W8H98B2LNVA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T11:20:00Z"
+        },
+        {
+          "id": "YVgjSONTvXg",
+          "title": "Kreuzweg - 3. Fastensonntag - 08. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YVgjSONTvXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T13:00:00Z"
         }
       ]
     },
@@ -51,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/sybCfJ7OLnY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zEugvJwgZMc",
-          "title": "First Saturday 7 AM Mass03/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/zEugvJwgZMc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
