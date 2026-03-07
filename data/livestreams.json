@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T21:42:30.737Z",
+  "lastUpdated": "2026-03-07T22:20:06.004Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/BhOaoEhD8No/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "W9T1591DQyM",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pd2DzWj34lk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T10:00:00Z"
+        },
+        {
+          "id": "RDQJw3dw6M4",
+          "title": "Sunday 8th March 2026: Third Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/RDQJw3dw6M4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T10:30:00Z"
         },
         {
           "id": "N6992HZ3FyQ",
