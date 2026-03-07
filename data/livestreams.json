@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-07T13:36:04.613Z",
+  "lastUpdated": "2026-03-07T14:21:02.729Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "19mOzo30ZOU",
+          "title": "Sat. Mar. 7, 2026    -    Ferial Day of Lent       (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/19mOzo30ZOU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HBc0Z-DfHqg",
           "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
@@ -48,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/YVgjSONTvXg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T13:00:00Z"
+        },
+        {
+          "id": "iYt8pkugnuQ",
+          "title": "Solemn High Mass - Third Sunday of Lent - 3/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/iYt8pkugnuQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T14:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "KdxFwcUB4A0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Thomas Aquinas, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/KdxFwcUB4A0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "sybCfJ7OLnY",
           "title": "7:30AM Mass, Rosary, 9AM Sung Mass. First Saturday. Feria of Lent. III. St. Thomas Aquinas. 3-7-26.",
@@ -64,13 +91,22 @@
           "scheduledTime": null
         },
         {
-          "id": "KdxFwcUB4A0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Thomas Aquinas, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/KdxFwcUB4A0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T14:00:00Z"
+          "id": "BflU3wdtjsI",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 03/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/BflU3wdtjsI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "eS30izoSWD0",
+          "title": "Sacrificio de La Misa, Santo Tomás de Aquino,  6 de marzo, de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/eS30izoSWD0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NLrabTHQro8",
