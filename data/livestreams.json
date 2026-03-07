@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T20:21:09.294Z",
+  "lastUpdated": "2026-03-07T20:47:20.625Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rXbpmHtd0-c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T14:45:09Z"
+        },
+        {
+          "id": "pHmyd_AUQKI",
+          "title": "III Sunday of Lent | March 8th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/pHmyd_AUQKI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T17:00:00Z"
         }
       ]
     },
