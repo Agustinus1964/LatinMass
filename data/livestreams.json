@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T09:50:36.443Z",
+  "lastUpdated": "2026-03-07T10:19:56.540Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YxDFHkHCHgY",
-          "title": "Prima e Missa Rezada da II Semana da Quaresma",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YxDFHkHCHgY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "mNhbu5qwjpY",
           "title": "Saturday 7th March 2026: First Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/mNhbu5qwjpY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ci_Zy84g-EU",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ci_Zy84g-EU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KdxFwcUB4A0",
