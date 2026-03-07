@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-07T14:48:11.382Z",
+  "lastUpdated": "2026-03-07T15:19:45.697Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "HBc0Z-DfHqg",
+          "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HBc0Z-DfHqg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "19mOzo30ZOU",
           "title": "Sat. Mar. 7, 2026    -    Ferial Day of Lent       (First Saturday)",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/19mOzo30ZOU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "HBc0Z-DfHqg",
-          "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/HBc0Z-DfHqg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T15:00:00Z"
         },
         {
           "id": "BhOaoEhD8No",
@@ -82,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KdxFwcUB4A0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Thomas Aquinas, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/KdxFwcUB4A0/mqdefault_live.jpg",
+          "id": "B9p1btJ_Hm0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/B9p1btJ_Hm0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,24 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BflU3wdtjsI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "eS30izoSWD0",
-          "title": "Sacrificio de La Misa, Santo Tomás de Aquino,  6 de marzo, de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/eS30izoSWD0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "B9p1btJ_Hm0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/B9p1btJ_Hm0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T14:58:00Z"
         },
         {
           "id": "NLrabTHQro8",
