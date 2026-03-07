@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T18:28:55.914Z",
+  "lastUpdated": "2026-03-07T18:57:02.866Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/N6992HZ3FyQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T11:00:00Z"
+        },
+        {
+          "id": "FsIK6x0vutM",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/FsIK6x0vutM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T12:00:00Z"
+        },
+        {
+          "id": "COBK8IYCmIw",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/COBK8IYCmIw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T14:00:00Z"
         },
         {
           "id": "Xvjl2wkAbEk",
