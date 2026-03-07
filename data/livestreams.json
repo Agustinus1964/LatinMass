@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T15:19:45.697Z",
+  "lastUpdated": "2026-03-07T15:44:38.718Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,15 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "sybCfJ7OLnY",
-          "title": "7:30AM Mass, Rosary, 9AM Sung Mass. First Saturday. Feria of Lent. III. St. Thomas Aquinas. 3-7-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/sybCfJ7OLnY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "BflU3wdtjsI",
           "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 03/07/2026",
           "channel": "St. Benedict Parish",
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/N6992HZ3FyQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T11:00:00Z"
+        },
+        {
+          "id": "Xvjl2wkAbEk",
+          "title": "THIRD SUNDAY OF LENT, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Xvjl2wkAbEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T15:30:00Z"
         }
       ]
     }
