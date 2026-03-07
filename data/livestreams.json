@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-07T20:47:20.625Z",
+  "lastUpdated": "2026-03-07T21:18:06.633Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "G72N9HnOw6o",
-          "title": "Singmesse und Sakramentsandacht - Herz-Mariä Sühnesamstag - 07. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/G72N9HnOw6o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BhOaoEhD8No",
           "title": "Solemn II Vespers - St. Thomas Aquinas - 3/7/26",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pHmyd_AUQKI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T17:00:00Z"
+        },
+        {
+          "id": "KgRZ0ulmLxk",
+          "title": "Simple II Vespers - Third Sunday of Lent - 3/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/KgRZ0ulmLxk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T21:00:00Z"
         }
       ]
     },
