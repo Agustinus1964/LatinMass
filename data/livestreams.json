@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-07T15:44:38.718Z",
+  "lastUpdated": "2026-03-07T16:23:32.175Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HBc0Z-DfHqg",
-          "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/HBc0Z-DfHqg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "19mOzo30ZOU",
-          "title": "Sat. Mar. 7, 2026    -    Ferial Day of Lent       (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/19mOzo30ZOU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BhOaoEhD8No",
           "title": "Solemn II Vespers - St. Thomas Aquinas - 3/7/26",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W9T1591DQyM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T01:45:00Z"
+        },
+        {
+          "id": "PGSLPKxds-s",
+          "title": "3rd Sunday of Lent",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/PGSLPKxds-s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T11:00:00Z"
         },
         {
           "id": "W8H98B2LNVA",
@@ -82,24 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "B9p1btJ_Hm0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/B9p1btJ_Hm0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BflU3wdtjsI",
-          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 03/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/BflU3wdtjsI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "NLrabTHQro8",
           "title": "8am — 3rd Sunday of Lent",
           "channel": "Oxford Oratory",
@@ -134,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Xvjl2wkAbEk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T15:30:00Z"
+        },
+        {
+          "id": "3M6wm5-qmBg",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/3M6wm5-qmBg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T15:45:00Z"
         }
       ]
     }
