@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-07T08:26:55.249Z",
+  "lastUpdated": "2026-03-07T08:54:40.653Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yotJhi84GwU",
-          "title": "FSSPX Antwerpen - 07/03 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yotJhi84GwU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HBc0Z-DfHqg",
           "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
@@ -51,8 +42,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3GRiaA7_ZSM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-07T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ci_Zy84g-EU",
