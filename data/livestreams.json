@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-07T05:57:45.690Z",
+  "lastUpdated": "2026-03-07T06:48:38.266Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "8LFbtUbzKrY",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/8LFbtUbzKrY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HBc0Z-DfHqg",
           "title": "Dominican Rite Solemn High Mass - St. Thomas Aquinas - 3/7/26",
