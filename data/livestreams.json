@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T11:17:13.929Z",
+  "lastUpdated": "2026-03-07T11:41:44.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W9T1591DQyM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T01:45:00Z"
+        },
+        {
+          "id": "W8H98B2LNVA",
+          "title": "Low Mass - Third Sunday of Lent - 3/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/W8H98B2LNVA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T11:20:00Z"
         }
       ]
     },
@@ -46,11 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "ci_Zy84g-EU",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ci_Zy84g-EU/mqdefault_live.jpg",
+          "id": "H9E_ixIwK_A",
+          "title": "Missa Rezada do Sábado da II Semana da Quaresma",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/H9E_ixIwK_A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
