@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T16:49:36.417Z",
+  "lastUpdated": "2026-03-07T17:18:22.405Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3M6wm5-qmBg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T15:45:00Z"
+        },
+        {
+          "id": "doo5nSiSgVc",
+          "title": "Vespers and Benediction — 3rd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/doo5nSiSgVc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T17:00:00Z"
         }
       ]
     }
