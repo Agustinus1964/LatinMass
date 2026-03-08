@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T22:48:21.114Z",
+  "lastUpdated": "2026-03-08T23:20:28.271Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tSDivkt6abk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-09T17:00:00Z"
+        },
+        {
+          "id": "W1_MyjJs-W0",
+          "title": "Rosary - 3/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/W1_MyjJs-W0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-09T23:00:00Z"
         }
       ]
     },
