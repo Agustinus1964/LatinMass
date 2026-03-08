@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-08T15:20:21.614Z",
+  "lastUpdated": "2026-03-08T15:45:01.513Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iYt8pkugnuQ",
-          "title": "Solemn High Mass - Third Sunday of Lent - 3/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/iYt8pkugnuQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rXbpmHtd0-c",
           "title": "Third Sunday in Lent, March 8, 2026",
@@ -73,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "COBK8IYCmIw",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/COBK8IYCmIw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "um2MM8R9rQI",
           "title": "Mass",
           "channel": "ICKSP",
@@ -96,6 +78,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/DvlBgu0Pzn0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Xvjl2wkAbEk",
+          "title": "THIRD SUNDAY OF LENT, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Xvjl2wkAbEk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -127,22 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Xvjl2wkAbEk",
-          "title": "THIRD SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Xvjl2wkAbEk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T15:30:00Z"
-        },
-        {
           "id": "3M6wm5-qmBg",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3M6wm5-qmBg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "n4ZJuObIXdY",
@@ -170,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7bP-KAPTk98/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T18:00:00Z"
+        },
+        {
+          "id": "MT5zDBJxggk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Third Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/MT5zDBJxggk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-09T11:30:00Z"
         }
       ]
     }
