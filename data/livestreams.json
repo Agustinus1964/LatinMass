@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T09:27:13.915Z",
+  "lastUpdated": "2026-03-08T09:52:19.719Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -99,15 +99,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RDQJw3dw6M4",
-          "title": "Sunday 8th March 2026: Third Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/RDQJw3dw6M4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bSBEo8_iO30",
           "title": "9:30am —  3rd Sunday of Lent",
