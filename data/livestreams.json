@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-08T01:52:51.361Z",
+  "lastUpdated": "2026-03-08T04:09:02.123Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "eCLfV78GSyM",
-          "title": "Sung Mass - 3rd Sunday of Lent",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/eCLfV78GSyM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0FY0B6VV-nA",
           "title": "III Domenica di Quaresima - Santa Messa cantata - FSSPX Italia",
@@ -188,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/doo5nSiSgVc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T17:00:00Z"
+        },
+        {
+          "id": "7bP-KAPTk98",
+          "title": "Grace is Given to You. What is Your Answer? How Will You Respond?",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/7bP-KAPTk98/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T18:00:00Z"
         }
       ]
     }
