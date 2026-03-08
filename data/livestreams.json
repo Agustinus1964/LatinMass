@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T17:20:09.118Z",
+  "lastUpdated": "2026-03-08T17:46:59.958Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,24 +10,6 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/pHmyd_AUQKI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "O0hnXak2Iac",
-          "title": "FSSPX Antwerpen - 08/03 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/O0hnXak2Iac/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZLskYo9TjuM",
-          "title": "Vesper - 3. Fastensonntag - 08. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ZLskYo9TjuM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,6 +55,24 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "1Ed_yvXU0oA",
+          "title": "Monday 9th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/1Ed_yvXU0oA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "csZ2jtIDMsM",
+          "title": "Sunday 1:30 PM Catholic Mass 03/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/csZ2jtIDMsM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "hFGessx8mWk",
           "title": "Santa Misa Dominical. 8 de marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -87,15 +87,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/doo5nSiSgVc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "n4ZJuObIXdY",
-          "title": "Secondes vêpres du troisième dimanche de Carême - EXTOLLENS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/n4ZJuObIXdY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
