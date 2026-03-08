@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-03-08T16:23:51.928Z",
+  "lastUpdated": "2026-03-08T16:51:19.730Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rXbpmHtd0-c",
-          "title": "Third Sunday in Lent, March 8, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/rXbpmHtd0-c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "O0hnXak2Iac",
           "title": "FSSPX Antwerpen - 08/03 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/O0hnXak2Iac/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ZLskYo9TjuM",
+          "title": "Vesper - 3. Fastensonntag - 08. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ZLskYo9TjuM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,29 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "um2MM8R9rQI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/um2MM8R9rQI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Xvjl2wkAbEk",
           "title": "THIRD SUNDAY OF LENT, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/Xvjl2wkAbEk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "UFa1nBIZGN0",
-          "title": "Sunday 11 AM Sung Mass 2026-03-08",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UFa1nBIZGN0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,22 +91,13 @@
           "scheduledTime": null
         },
         {
-          "id": "3M6wm5-qmBg",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/3M6wm5-qmBg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "n4ZJuObIXdY",
           "title": "Secondes vêpres du troisième dimanche de Carême - EXTOLLENS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/n4ZJuObIXdY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T16:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "doo5nSiSgVc",
