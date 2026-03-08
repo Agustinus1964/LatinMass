@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-08T13:37:41.772Z",
+  "lastUpdated": "2026-03-08T14:22:00.132Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "iYt8pkugnuQ",
+          "title": "Solemn High Mass - Third Sunday of Lent - 3/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/iYt8pkugnuQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "CJYWcJQWa9g",
           "title": "Third Sunday of Lent - The Immaculata",
@@ -23,13 +32,13 @@
           "scheduledTime": null
         },
         {
-          "id": "iYt8pkugnuQ",
-          "title": "Solemn High Mass - Third Sunday of Lent - 3/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/iYt8pkugnuQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T14:00:00Z"
+          "id": "GlLTRPTnZrE",
+          "title": "Sun.  Mar, 8, 2026    -    Third Sunday of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/GlLTRPTnZrE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rXbpmHtd0-c",
@@ -91,20 +100,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "v-0_rUST5yE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/v-0_rUST5yE/mqdefault_live.jpg",
+          "id": "COBK8IYCmIw",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/COBK8IYCmIw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "wHnajLVhQO4",
-          "title": "Sunday 8:30 AM Catholic Mass for 03/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/wHnajLVhQO4/mqdefault_live.jpg",
+          "id": "DvlBgu0Pzn0",
+          "title": "10:30AM Sung Mass. Third Sunday of Lent. I. March 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/DvlBgu0Pzn0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "hFGessx8mWk",
+          "title": "Santa Misa Dominical. 8 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/hFGessx8mWk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,15 +134,6 @@
           "thumbnail": "https://i.ytimg.com/vi/FJS-lZJrYak/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "COBK8IYCmIw",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/COBK8IYCmIw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T14:00:00Z"
         },
         {
           "id": "Yj_QbEgCiFs",
