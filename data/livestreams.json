@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-08T11:18:11.923Z",
+  "lastUpdated": "2026-03-08T11:42:58.734Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "W8H98B2LNVA",
+          "title": "Low Mass - Third Sunday of Lent - 3/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/W8H98B2LNVA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "PGSLPKxds-s",
           "title": "3rd Sunday of Lent",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PGSLPKxds-s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "W8H98B2LNVA",
-          "title": "Low Mass - Third Sunday of Lent - 3/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/W8H98B2LNVA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T11:20:00Z"
         },
         {
           "id": "iYt8pkugnuQ",
@@ -123,15 +123,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/N6992HZ3FyQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pd2DzWj34lk",
-          "title": "Sainte messe du troisième dimanche de Carême - OCULI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/pd2DzWj34lk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
