@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-08T17:46:59.958Z",
+  "lastUpdated": "2026-03-08T18:29:38.526Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pHmyd_AUQKI",
-          "title": "III Sunday of Lent | March 8th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/pHmyd_AUQKI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KgRZ0ulmLxk",
           "title": "Simple II Vespers - Third Sunday of Lent - 3/8/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9YJddxOgKW4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-09T00:45:00Z"
+        },
+        {
+          "id": "bEqJk3bXlck",
+          "title": "Monday in the 3ʳᵈ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/bEqJk3bXlck/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-09T07:15:00Z"
         },
         {
           "id": "8vVukpBs9IA",
@@ -55,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1Ed_yvXU0oA",
-          "title": "Monday 9th March 2026: Lenten Feria",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/1Ed_yvXU0oA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "csZ2jtIDMsM",
           "title": "Sunday 1:30 PM Catholic Mass 03/08/2026",
           "channel": "St. Benedict Parish",
@@ -73,31 +64,13 @@
           "scheduledTime": null
         },
         {
-          "id": "hFGessx8mWk",
+          "id": "mKY65RHjKfI",
           "title": "Santa Misa Dominical. 8 de marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/hFGessx8mWk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/mKY65RHjKfI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "doo5nSiSgVc",
-          "title": "Vespers and Benediction — 3rd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/doo5nSiSgVc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7bP-KAPTk98",
-          "title": "Grace is Given to You. What is Your Answer? How Will You Respond?",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/7bP-KAPTk98/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T18:00:00Z"
         },
         {
           "id": "MT5zDBJxggk",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/MT5zDBJxggk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-09T11:30:00Z"
+        },
+        {
+          "id": "vLs3XkzkM9c",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/vLs3XkzkM9c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-09T18:00:00Z"
+        },
+        {
+          "id": "zJ-CEA0281Y",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/zJ-CEA0281Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-09T18:00:00Z"
         }
       ]
     }
