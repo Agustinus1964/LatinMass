@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-07T23:44:15.597Z",
+  "lastUpdated": "2026-03-08T01:52:51.361Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "W9T1591DQyM",
-          "title": "Compline - 3/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/W9T1591DQyM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T01:45:00Z"
+          "id": "eCLfV78GSyM",
+          "title": "Sung Mass - 3rd Sunday of Lent",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/eCLfV78GSyM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0FY0B6VV-nA",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KgRZ0ulmLxk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T21:00:00Z"
+        },
+        {
+          "id": "9YJddxOgKW4",
+          "title": "Compline - 3/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/9YJddxOgKW4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-09T00:45:00Z"
         }
       ]
     },
