@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T14:49:28.547Z",
+  "lastUpdated": "2026-03-08T15:20:21.614Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,38 +14,11 @@
           "scheduledTime": null
         },
         {
-          "id": "CJYWcJQWa9g",
-          "title": "Third Sunday of Lent - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/CJYWcJQWa9g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lvRWgaeumls",
-          "title": "III Sunday Of Lent",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/lvRWgaeumls/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "rXbpmHtd0-c",
           "title": "Third Sunday in Lent, March 8, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/rXbpmHtd0-c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GlLTRPTnZrE",
-          "title": "Sun.  Mar, 8, 2026    -    Third Sunday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/GlLTRPTnZrE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,11 +82,29 @@
           "scheduledTime": null
         },
         {
+          "id": "um2MM8R9rQI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/um2MM8R9rQI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "DvlBgu0Pzn0",
           "title": "10:30AM Sung Mass. Third Sunday of Lent. I. March 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/DvlBgu0Pzn0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UFa1nBIZGN0",
+          "title": "Sunday 11 AM Sung Mass 2026-03-08",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/UFa1nBIZGN0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hFGessx8mWk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "um2MM8R9rQI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/um2MM8R9rQI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T14:58:00Z"
         },
         {
           "id": "Xvjl2wkAbEk",
