@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-08T20:48:13.729Z",
+  "lastUpdated": "2026-03-08T21:20:11.387Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1e2uw_-VvU4",
-          "title": "THIRD SUNDAY OF LENT - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/1e2uw_-VvU4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KgRZ0ulmLxk",
           "title": "Simple II Vespers - Third Sunday of Lent - 3/8/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/KgRZ0ulmLxk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9YJddxOgKW4",
