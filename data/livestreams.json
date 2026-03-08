@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-08T21:44:29.398Z",
+  "lastUpdated": "2026-03-08T22:20:06.027Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KgRZ0ulmLxk",
-          "title": "Simple II Vespers - Third Sunday of Lent - 3/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/KgRZ0ulmLxk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9YJddxOgKW4",
           "title": "Compline - 3/8/26",
@@ -81,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZKcBFZf-vsE",
-          "title": "III Domingo da Quaresma, Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ZKcBFZf-vsE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MT5zDBJxggk",
           "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Third Week in Lent)",
