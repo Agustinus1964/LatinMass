@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-08T07:49:35.198Z",
+  "lastUpdated": "2026-03-08T08:27:32.250Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "0h245D2cV2M",
+          "title": "Amt - 3. Fastensonntag - 08. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0h245D2cV2M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0FY0B6VV-nA",
           "title": "III Domenica di Quaresima - Santa Messa cantata - FSSPX Italia",
@@ -87,8 +96,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/NLrabTHQro8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bSBEo8_iO30",
