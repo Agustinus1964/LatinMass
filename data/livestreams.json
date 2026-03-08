@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T11:42:58.734Z",
+  "lastUpdated": "2026-03-08T12:41:18.776Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "W8H98B2LNVA",
-          "title": "Low Mass - Third Sunday of Lent - 3/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/W8H98B2LNVA/mqdefault_live.jpg",
+          "id": "4mVZDepovAw",
+          "title": "Sun. Mar. 8, 2026    -     Third Sunday of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/4mVZDepovAw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,11 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "valmn7-8gLs",
-          "title": "Sunday 8th March 2026: Third Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/valmn7-8gLs/mqdefault_live.jpg",
+          "id": "FsIK6x0vutM",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/FsIK6x0vutM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,40 +109,22 @@
           "scheduledTime": null
         },
         {
-          "id": "apFQbXwYsAU",
-          "title": "Sunday 7 AM Catholic Mass for 03/08/2026",
+          "id": "wHnajLVhQO4",
+          "title": "Sunday 8:30 AM Catholic Mass for 03/08/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/apFQbXwYsAU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wHnajLVhQO4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "N6992HZ3FyQ",
-          "title": "11am — 3rd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/N6992HZ3FyQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JNZTXtUM26c",
-          "title": "III Domingo da Quaresma, Missa rezada",
+          "id": "FJS-lZJrYak",
+          "title": "III Domingo da Quaresma, Missa cantada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/JNZTXtUM26c/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FJS-lZJrYak/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "FsIK6x0vutM",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/FsIK6x0vutM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T12:00:00Z"
         },
         {
           "id": "COBK8IYCmIw",
