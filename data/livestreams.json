@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-03-08T12:41:18.776Z",
+  "lastUpdated": "2026-03-08T13:37:41.772Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "4mVZDepovAw",
-          "title": "Sun. Mar. 8, 2026    -     Third Sunday of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/4mVZDepovAw/mqdefault_live.jpg",
+          "id": "CJYWcJQWa9g",
+          "title": "Third Sunday of Lent - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/CJYWcJQWa9g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "PGSLPKxds-s",
-          "title": "3rd Sunday of Lent",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/PGSLPKxds-s/mqdefault_live.jpg",
+          "id": "lvRWgaeumls",
+          "title": "III Sunday Of Lent",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/lvRWgaeumls/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,20 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "FsIK6x0vutM",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/FsIK6x0vutM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "639kzInfdtw",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday of Lent. I. March 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/639kzInfdtw/mqdefault_live.jpg",
+          "id": "v-0_rUST5yE",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/v-0_rUST5yE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/COBK8IYCmIw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T14:00:00Z"
+        },
+        {
+          "id": "Yj_QbEgCiFs",
+          "title": "3rd Sunday of Lent / 3e dimanche de Carême",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/Yj_QbEgCiFs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-08T14:30:00Z"
         },
         {
           "id": "Xvjl2wkAbEk",
