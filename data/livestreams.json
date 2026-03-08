@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-08T08:55:32.207Z",
+  "lastUpdated": "2026-03-08T09:27:13.915Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Yt9cn5NMR78",
+          "title": "FSSPX Antwerpen - 08/03 3° ZONDAG van de Vasten",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Yt9cn5NMR78/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0h245D2cV2M",
           "title": "Amt - 3. Fastensonntag - 08. März 2026",
@@ -19,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/0FY0B6VV-nA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T09:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PGSLPKxds-s",
@@ -91,13 +100,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "RDQJw3dw6M4",
+          "title": "Sunday 8th March 2026: Third Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/RDQJw3dw6M4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "bSBEo8_iO30",
           "title": "9:30am —  3rd Sunday of Lent",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/bSBEo8_iO30/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pd2DzWj34lk",
@@ -107,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pd2DzWj34lk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-08T10:00:00Z"
-        },
-        {
-          "id": "RDQJw3dw6M4",
-          "title": "Sunday 8th March 2026: Third Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/RDQJw3dw6M4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T10:30:00Z"
         },
         {
           "id": "N6992HZ3FyQ",
