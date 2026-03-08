@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T15:45:01.513Z",
+  "lastUpdated": "2026-03-08T16:23:51.928Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/rXbpmHtd0-c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "O0hnXak2Iac",
+          "title": "FSSPX Antwerpen - 08/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/O0hnXak2Iac/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "DvlBgu0Pzn0",
-          "title": "10:30AM Sung Mass. Third Sunday of Lent. I. March 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DvlBgu0Pzn0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Xvjl2wkAbEk",
           "title": "THIRD SUNDAY OF LENT, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -96,15 +96,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/UFa1nBIZGN0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Yj_QbEgCiFs",
-          "title": "3rd Sunday of Lent / 3e dimanche de Carême",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/Yj_QbEgCiFs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
