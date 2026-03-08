@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-08T16:51:19.730Z",
+  "lastUpdated": "2026-03-08T17:20:09.118Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pHmyd_AUQKI",
+          "title": "III Sunday of Lent | March 8th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/pHmyd_AUQKI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "O0hnXak2Iac",
           "title": "FSSPX Antwerpen - 08/03 Aanbidding met Rozenhoedje",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZLskYo9TjuM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "pHmyd_AUQKI",
-          "title": "III Sunday of Lent | March 8th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/pHmyd_AUQKI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T17:00:00Z"
         },
         {
           "id": "KgRZ0ulmLxk",
@@ -73,20 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Xvjl2wkAbEk",
-          "title": "THIRD SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Xvjl2wkAbEk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "hFGessx8mWk",
           "title": "Santa Misa Dominical. 8 de marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/hFGessx8mWk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "doo5nSiSgVc",
+          "title": "Vespers and Benediction — 3rd Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/doo5nSiSgVc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/n4ZJuObIXdY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "doo5nSiSgVc",
-          "title": "Vespers and Benediction — 3rd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/doo5nSiSgVc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T17:00:00Z"
         },
         {
           "id": "7bP-KAPTk98",
