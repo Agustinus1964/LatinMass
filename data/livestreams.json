@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-08T10:21:48.066Z",
+  "lastUpdated": "2026-03-08T10:49:37.336Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Yt9cn5NMR78",
-          "title": "FSSPX Antwerpen - 08/03 3° ZONDAG van de Vasten",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Yt9cn5NMR78/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0FY0B6VV-nA",
           "title": "III Domenica di Quaresima - Santa Messa cantata - FSSPX Italia",
@@ -91,11 +82,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "bSBEo8_iO30",
-          "title": "9:30am —  3rd Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/bSBEo8_iO30/mqdefault_live.jpg",
+          "id": "valmn7-8gLs",
+          "title": "Sunday 8th March 2026: Third Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/valmn7-8gLs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "639kzInfdtw",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Third Sunday of Lent. I. March 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/639kzInfdtw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,13 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "valmn7-8gLs",
-          "title": "Sunday 8th March 2026: Third Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/valmn7-8gLs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-08T10:30:00Z"
+          "id": "JNZTXtUM26c",
+          "title": "III Domingo da Quaresma, Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/JNZTXtUM26c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "N6992HZ3FyQ",
