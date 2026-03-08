@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T09:52:19.719Z",
+  "lastUpdated": "2026-03-08T10:21:48.066Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/Yt9cn5NMR78/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0h245D2cV2M",
-          "title": "Amt - 3. Fastensonntag - 08. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/0h245D2cV2M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,8 +105,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/pd2DzWj34lk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "valmn7-8gLs",
+          "title": "Sunday 8th March 2026: Third Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/valmn7-8gLs/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-08T10:00:00Z"
+          "scheduledTime": "2026-03-08T10:30:00Z"
         },
         {
           "id": "N6992HZ3FyQ",
