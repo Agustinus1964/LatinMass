@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-09T15:29:50.400Z",
+  "lastUpdated": "2026-03-09T16:33:09.947Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "arhYK-r_SCE",
+          "title": "FSSPX Antwerpen - 09/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/arhYK-r_SCE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "W1_MyjJs-W0",
           "title": "Rosary - 3/9/26",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IPT1Q8Fa0t0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-10T11:15:00Z"
+        },
+        {
+          "id": "TzhVbbdw14E",
+          "title": "Sakramentsandacht und hl. Messe - 10. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/TzhVbbdw14E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-10T16:30:00Z"
         }
       ]
     },
