@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-09T19:38:16.709Z",
+  "lastUpdated": "2026-03-09T20:30:29.270Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "m95XsQXyHsY",
+          "title": "Tue after THIRD SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/m95XsQXyHsY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "W1_MyjJs-W0",
           "title": "Rosary - 3/9/26",
@@ -62,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/02oJLnPYSo0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-10T11:30:00Z"
+        },
+        {
+          "id": "nyJu405FBDc",
+          "title": "Tuesday 10th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/nyJu405FBDc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-10T18:00:00Z"
         },
         {
           "id": "HvfSxw6Jex4",
