@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-09T16:33:09.947Z",
+  "lastUpdated": "2026-03-09T17:44:13.884Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "arhYK-r_SCE",
-          "title": "FSSPX Antwerpen - 09/03 Aanbidding met Rozenhoedje",
+          "id": "1mvUIYZfq4w",
+          "title": "FSSPX Antwerpen - 09/03 MAANDAG na de 3° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/arhYK-r_SCE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/1mvUIYZfq4w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tSDivkt6abk",
+          "title": "Rosenkranz und hl. Messe - 09. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/tSDivkt6abk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -48,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/IPT1Q8Fa0t0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-10T11:15:00Z"
-        },
-        {
-          "id": "TzhVbbdw14E",
-          "title": "Sakramentsandacht und hl. Messe - 10. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/TzhVbbdw14E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "XJ_AYXSac8s",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/XJ_AYXSac8s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "vLs3XkzkM9c",
           "title": "Monday",
