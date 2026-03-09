@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-08T23:45:42.162Z",
+  "lastUpdated": "2026-03-09T01:53:52.347Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9YJddxOgKW4",
-          "title": "Compline - 3/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/9YJddxOgKW4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-09T00:45:00Z"
-        },
-        {
-          "id": "BIDteA6Ubrw",
-          "title": "Hl. Messe - 09. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/BIDteA6Ubrw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-09T06:15:00Z"
-        },
         {
           "id": "woO8G47CYLc",
           "title": "Monday in the 3ʳᵈ Week of Lent",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W1_MyjJs-W0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-09T23:00:00Z"
+        },
+        {
+          "id": "E2WZ58JZS0M",
+          "title": "Compline - 3/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/E2WZ58JZS0M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-10T00:45:00Z"
         }
       ]
     },
