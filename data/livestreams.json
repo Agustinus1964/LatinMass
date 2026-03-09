@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-09T20:30:29.270Z",
+  "lastUpdated": "2026-03-09T21:29:21.386Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "m95XsQXyHsY",
-          "title": "Tue after THIRD SUNDAY OF LENT - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/m95XsQXyHsY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "W1_MyjJs-W0",
           "title": "Rosary - 3/9/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/E2WZ58JZS0M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-10T00:45:00Z"
+        },
+        {
+          "id": "VMyiXzRzibM",
+          "title": "Tuesday in the 3ʳᵈ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/VMyiXzRzibM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-10T07:15:00Z"
         },
         {
           "id": "CI450gbK_NY",
@@ -55,11 +55,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "qQiMy1I5cxY",
+          "title": "Divine Office & 6PM Mass. Feria of Lent. III. Monday, March 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/qQiMy1I5cxY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "zJ-CEA0281Y",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/zJ-CEA0281Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kK18I2I1eeY",
+          "title": "Terço e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/kK18I2I1eeY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
