@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T21:36:33.080Z",
+  "lastUpdated": "2026-03-10T22:25:20.930Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "PAr9Dj9zlng",
+          "title": "6PM Mass. Feria of Lent. III. Tuesday, March 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PAr9Dj9zlng/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "8bPjM7GrRuQ",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/8bPjM7GrRuQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4232ztnSK80",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/4232ztnSK80/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
