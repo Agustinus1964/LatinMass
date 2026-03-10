@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-09T23:51:19.547Z",
+  "lastUpdated": "2026-03-10T01:46:48.429Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E2WZ58JZS0M",
-          "title": "Compline - 3/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/E2WZ58JZS0M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T00:45:00Z"
-        },
         {
           "id": "VMyiXzRzibM",
           "title": "Tuesday in the 3ʳᵈ Week of Lent",
@@ -39,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/IPT1Q8Fa0t0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-10T11:15:00Z"
+        },
+        {
+          "id": "drc-BspfofE",
+          "title": "Rosary - 3/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/drc-BspfofE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-10T23:00:00Z"
+        },
+        {
+          "id": "Zxf3Xy4WqQo",
+          "title": "Compline - 3/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Zxf3Xy4WqQo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-11T00:45:00Z"
         }
       ]
     },
