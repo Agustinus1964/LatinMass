@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-10T08:37:30.186Z",
+  "lastUpdated": "2026-03-10T09:39:58.881Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VMyiXzRzibM",
-          "title": "Tuesday in the 3ʳᵈ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/VMyiXzRzibM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CI450gbK_NY",
           "title": "Low Mass - Feria of Lent - 3/10/26",
@@ -54,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7NxhF8VOd5g",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/7NxhF8VOd5g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "02oJLnPYSo0",
           "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Third Week in Lent)",
