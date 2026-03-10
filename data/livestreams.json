@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T10:35:57.148Z",
+  "lastUpdated": "2026-03-10T11:30:03.216Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/CI450gbK_NY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IPT1Q8Fa0t0",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/IPT1Q8Fa0t0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "drc-BspfofE",
@@ -39,12 +39,30 @@
           "thumbnail": "https://i.ytimg.com/vi/Zxf3Xy4WqQo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-11T00:45:00Z"
+        },
+        {
+          "id": "pqQqLCDtKo0",
+          "title": "Wed. Mar. 11, 2026   -   Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/pqQqLCDtKo0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-11T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "02oJLnPYSo0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Third Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/02oJLnPYSo0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_XrwXNydvas",
           "title": "7AM Mass & Divine Office. Feria of Lent. III. Tuesday, March 10, 2026.",
@@ -53,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_XrwXNydvas/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Sh0L6_tkcCs",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 03/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Sh0L6_tkcCs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "02oJLnPYSo0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Third Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/02oJLnPYSo0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T11:30:00Z"
         },
         {
           "id": "nyJu405FBDc",
