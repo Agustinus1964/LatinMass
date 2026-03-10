@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-10T16:33:17.879Z",
+  "lastUpdated": "2026-03-10T17:43:24.082Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "6aVj57r_YmM",
-          "title": "FSSPX Antwerpen - 10/03 Aanbidding met Rozenhoedje",
+          "id": "yC_HmoMeUOY",
+          "title": "FSSPX Antwerpen - 10/03 DINSDAG na de 3° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/6aVj57r_YmM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/yC_HmoMeUOY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TzhVbbdw14E",
+          "title": "Sakramentsandacht und hl. Messe - 10. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/TzhVbbdw14E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "29m0jZ0hR7k",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/29m0jZ0hR7k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nyJu405FBDc",
           "title": "Tuesday 10th March 2026: Lenten Feria",
