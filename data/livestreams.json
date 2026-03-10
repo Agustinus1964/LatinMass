@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-10T11:56:41.314Z",
+  "lastUpdated": "2026-03-10T13:03:14.406Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IPT1Q8Fa0t0",
-          "title": "Tue. Mar. 10, 2026    -    Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/IPT1Q8Fa0t0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "drc-BspfofE",
           "title": "Rosary - 3/10/26",
@@ -55,24 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "02oJLnPYSo0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Third Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/02oJLnPYSo0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uR47K8MTezY",
-          "title": "Tuesday 8 AM Catholic Mass for 03/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/uR47K8MTezY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "nyJu405FBDc",
           "title": "Tuesday 10th March 2026: Lenten Feria",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -98,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8bPjM7GrRuQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-10T18:00:00Z"
+        },
+        {
+          "id": "QiZAU50DpDY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday of the Third Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/QiZAU50DpDY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-11T11:30:00Z"
         }
       ]
     }
