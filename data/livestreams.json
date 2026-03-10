@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-10T01:46:48.429Z",
+  "lastUpdated": "2026-03-10T04:06:31.257Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zJ-CEA0281Y",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zJ-CEA0281Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "02oJLnPYSo0",
           "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Third Week in Lent)",
