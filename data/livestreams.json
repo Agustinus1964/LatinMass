@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-10T17:43:24.082Z",
+  "lastUpdated": "2026-03-10T18:42:19.635Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yC_HmoMeUOY",
-          "title": "FSSPX Antwerpen - 10/03 DINSDAG na de 3° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yC_HmoMeUOY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TzhVbbdw14E",
-          "title": "Sakramentsandacht und hl. Messe - 10. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/TzhVbbdw14E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "drc-BspfofE",
           "title": "Rosary - 3/10/26",
@@ -64,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "29m0jZ0hR7k",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/29m0jZ0hR7k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "nyJu405FBDc",
           "title": "Tuesday 10th March 2026: Lenten Feria",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/nyJu405FBDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T18:00:00Z"
-        },
-        {
-          "id": "HvfSxw6Jex4",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/HvfSxw6Jex4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8bPjM7GrRuQ",
@@ -96,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/8bPjM7GrRuQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-10T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QiZAU50DpDY",
@@ -107,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/QiZAU50DpDY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-11T11:30:00Z"
+        },
+        {
+          "id": "d1GHIddeEZg",
+          "title": "Wednesday 11th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/d1GHIddeEZg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-11T18:00:00Z"
+        },
+        {
+          "id": "cZmG1TUrvkw",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/cZmG1TUrvkw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-11T18:00:00Z"
+        },
+        {
+          "id": "ll0jokf0EGw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ll0jokf0EGw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-11T18:00:00Z"
         }
       ]
     }
