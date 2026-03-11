@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T15:10:47.842Z",
+  "lastUpdated": "2026-03-11T16:09:22.213Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wc627gLi2Qo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-12T11:15:00Z"
+        },
+        {
+          "id": "h_4UPQ69fKQ",
+          "title": "Sakramentsandacht und hl. Messe - 12. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/h_4UPQ69fKQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-12T16:00:00Z"
         }
       ]
     },
