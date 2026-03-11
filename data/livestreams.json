@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-11T07:41:03.027Z",
+  "lastUpdated": "2026-03-11T08:37:10.299Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tn_lx4eyync",
-          "title": "Wednesday in the 3ʳᵈ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/tn_lx4eyync/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nmex1cqCV1g",
           "title": "Low Mass - Feria of Lent - 3/11/26",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ll0jokf0EGw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-11T18:00:00Z"
+        },
+        {
+          "id": "WjIlnOP8TNQ",
+          "title": "Thursday 12th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/WjIlnOP8TNQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-12T08:00:00Z"
         }
       ]
     }
