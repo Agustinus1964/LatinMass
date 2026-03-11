@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-11T19:56:10.893Z",
+  "lastUpdated": "2026-03-11T20:33:29.968Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/RoI3nY5ndSI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "27b4P4ReOFw",
+          "title": "Thursday after Third Sunday of Lent -2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/27b4P4ReOFw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
