@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-11T22:50:34.581Z",
+  "lastUpdated": "2026-03-11T23:21:55.681Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "GtC0DWkZRps",
+          "title": "Rosary - 3/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/GtC0DWkZRps/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "RoI3nY5ndSI",
           "title": "Rosenkranz und hl. Messe - 11. März 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/RoI3nY5ndSI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "GtC0DWkZRps",
-          "title": "Rosary - 3/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/GtC0DWkZRps/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-11T23:00:00Z"
         },
         {
           "id": "obpJwLP3xk0",
