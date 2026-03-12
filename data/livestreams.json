@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T12:53:39.134Z",
+  "lastUpdated": "2026-03-12T14:01:38.568Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kdvkv14J_v0",
+          "title": "Santo Sacrificio de La Misa, Feria de Cuaresma, San Gregorio I, 12 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/kdvkv14J_v0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Wt_fSbYnyIQ",
           "title": "Thursday",
