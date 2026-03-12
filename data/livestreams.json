@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-12T23:24:22.948Z",
+  "lastUpdated": "2026-03-12T23:49:12.117Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EywkCfjaY5A",
-          "title": "Benediction - 3/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/EywkCfjaY5A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "grpdBbTmE28",
           "title": "Compline - 3/12/26",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1mRzk0bTu0s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-13T11:45:00Z"
+        },
+        {
+          "id": "Mw_sa_Oq5zQ",
+          "title": "Stations of the Cross - 3/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Mw_sa_Oq5zQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-13T23:00:00Z"
         }
       ]
     },
