@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-12T11:51:49.156Z",
+  "lastUpdated": "2026-03-12T12:53:39.134Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZJLfvcHt5-Q",
-          "title": "Low Mass - Feria of Lent - 3/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZJLfvcHt5-Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wc627gLi2Qo",
-          "title": "Thu. Mar. 12, 2026    -    Ferial of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/wc627gLi2Qo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "EywkCfjaY5A",
           "title": "Benediction - 3/12/26",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/grpdBbTmE28/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-13T00:45:00Z"
+        },
+        {
+          "id": "IdIZeEPWZss",
+          "title": "Low Mass - Feria of Lent - 3/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IdIZeEPWZss/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-13T11:15:00Z"
         },
         {
           "id": "gO4vbyHd1VQ",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rWKA05EXYBk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Thursday of the Third Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/rWKA05EXYBk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Wt_fSbYnyIQ",
           "title": "Thursday",
