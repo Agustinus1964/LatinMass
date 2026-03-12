@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-12T07:43:28.855Z",
+  "lastUpdated": "2026-03-12T08:38:09.184Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "G-a8QqIuo3g",
-          "title": "Thursday in the 3ʳᵈ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/G-a8QqIuo3g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZJLfvcHt5-Q",
           "title": "Low Mass - Feria of Lent - 3/12/26",
@@ -60,8 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/WjIlnOP8TNQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-12T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rWKA05EXYBk",
