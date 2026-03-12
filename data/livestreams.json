@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-12T14:01:38.568Z",
+  "lastUpdated": "2026-03-12T15:14:07.691Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5UviLyD3rDM",
+          "title": "FSSPX Antwerpen - 12/03 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/5UviLyD3rDM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "EywkCfjaY5A",
           "title": "Benediction - 3/12/26",
@@ -54,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kdvkv14J_v0",
-          "title": "Santo Sacrificio de La Misa, Feria de Cuaresma, San Gregorio I, 12 de marzo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/kdvkv14J_v0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Wt_fSbYnyIQ",
           "title": "Thursday",
