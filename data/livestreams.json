@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T16:33:12.612Z",
+  "lastUpdated": "2026-03-12T17:46:35.471Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "5UviLyD3rDM",
-          "title": "FSSPX Antwerpen - 12/03 Priester-Uur-Gebed",
+          "id": "MeoYL09IREg",
+          "title": "FSSPX Antwerpen - 12/03 DONDERDAG na de 3° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/5UviLyD3rDM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/MeoYL09IREg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -72,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "HoS5Z_enQf8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/HoS5Z_enQf8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Wt_fSbYnyIQ",
           "title": "Thursday",
