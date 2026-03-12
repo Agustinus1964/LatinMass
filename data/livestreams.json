@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-12T17:46:35.471Z",
+  "lastUpdated": "2026-03-12T18:49:55.942Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MeoYL09IREg",
-          "title": "FSSPX Antwerpen - 12/03 DONDERDAG na de 3° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/MeoYL09IREg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "h_4UPQ69fKQ",
-          "title": "Sakramentsandacht und hl. Messe - 12. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/h_4UPQ69fKQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "EywkCfjaY5A",
           "title": "Benediction - 3/12/26",
@@ -73,31 +55,40 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HoS5Z_enQf8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/HoS5Z_enQf8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Wt_fSbYnyIQ",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Wt_fSbYnyIQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-12T18:00:00Z"
-        },
-        {
           "id": "j5TSkJaNGXo",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/j5TSkJaNGXo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "7UIR8G8fOA8",
+          "title": "Friday 13th March 2026: Lenten Feria (Mass followed by Stations of the Cross)",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/7UIR8G8fOA8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-12T18:00:00Z"
+          "scheduledTime": "2026-03-13T18:00:00Z"
+        },
+        {
+          "id": "Ro2xYVbpPrY",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Ro2xYVbpPrY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-13T18:00:00Z"
+        },
+        {
+          "id": "QXAqL_PFIoY",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/QXAqL_PFIoY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-13T18:00:00Z"
         }
       ]
     }
