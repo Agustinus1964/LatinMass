@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-12T19:40:03.118Z",
+  "lastUpdated": "2026-03-12T20:31:02.085Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pRW4AOIMpeQ",
+          "title": "Friday after Third Sunday of Lent -2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/pRW4AOIMpeQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "EywkCfjaY5A",
           "title": "Benediction - 3/12/26",
