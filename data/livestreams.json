@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T09:39:08.728Z",
+  "lastUpdated": "2026-03-12T10:35:32.868Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,11 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "t9Bw6-RxvYU",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/t9Bw6-RxvYU/mqdefault_live.jpg",
+          "id": "vf74Coc1x84",
+          "title": "7AM Mass & Divine Office. Feria of Lent. III. Thursday, March 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/vf74Coc1x84/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Hmfk9YwG0EQ",
+          "title": "Thursday 6 AM Traditional Catholic Mass 03/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Hmfk9YwG0EQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
