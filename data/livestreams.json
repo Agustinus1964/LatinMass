@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T11:29:16.542Z",
+  "lastUpdated": "2026-03-12T11:51:49.156Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gO4vbyHd1VQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-13T11:15:00Z"
+        },
+        {
+          "id": "1mRzk0bTu0s",
+          "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 1",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/1mRzk0bTu0s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-13T11:45:00Z"
         }
       ]
     },
@@ -60,15 +69,6 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/rWKA05EXYBk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vf74Coc1x84",
-          "title": "7AM Mass & Divine Office. Feria of Lent. III. Thursday, March 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vf74Coc1x84/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
