@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T21:57:13.743Z",
+  "lastUpdated": "2026-03-13T22:30:27.610Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "RM5WHhQXWDs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Thursday of the Third Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/RM5WHhQXWDs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "0i2yewjvq-E",
           "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 13, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -80,24 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QXAqL_PFIoY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Cx5D69kOsVs",
-          "title": "Via sacra e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Cx5D69kOsVs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RM5WHhQXWDs",
-          "title": "Live Stream Holy Mass from Cleveland USA (Thursday of the Third Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RM5WHhQXWDs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T22:30:00Z"
         },
         {
           "id": "Nrw7wydIAP0",
