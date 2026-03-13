@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T21:29:26.050Z",
+  "lastUpdated": "2026-03-13T21:57:13.743Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,6 +60,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/0i2yewjvq-E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "twMPrFyW4G0",
+          "title": "STATIONS OF THE CROSS SERMON SERIES, PART IV, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/twMPrFyW4G0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
