@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T10:33:05.925Z",
+  "lastUpdated": "2026-03-13T11:28:32.032Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/IdIZeEPWZss/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gO4vbyHd1VQ",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/gO4vbyHd1VQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1mRzk0bTu0s",
