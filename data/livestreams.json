@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T09:35:44.233Z",
+  "lastUpdated": "2026-03-13T10:33:05.925Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8oT4XCSZpfY",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8oT4XCSZpfY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "7UIR8G8fOA8",
           "title": "Friday 13th March 2026: Lenten Feria (Mass followed by Stations of the Cross)",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/eYr-ABrgxhw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T08:30:00Z"
+        },
+        {
+          "id": "5Vl1PJAotLA",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/5Vl1PJAotLA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T10:00:00Z"
+        },
+        {
+          "id": "_7pL_F5BKxs",
+          "title": "Saturday 14th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/_7pL_F5BKxs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T10:30:00Z"
         }
       ]
     }
