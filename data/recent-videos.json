@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T22:50:57.587Z",
+  "lastUpdated": "2026-03-13T23:23:08.281Z",
   "videos": [
     {
       "id": "PQHtel6kr2E",
@@ -10,6 +10,16 @@
       "thumbnail": "https://i.ytimg.com/vi/PQHtel6kr2E/mqdefault.jpg",
       "publishedAt": "2026-03-13T22:40:36Z",
       "category": "Matt Fradd"
+    },
+    {
+      "id": "SewfouMiURI",
+      "title": "Holy Mass 3/13/26 - Friday of the Third Week in Lent",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/SewfouMiURI/mqdefault_live.jpg",
+      "publishedAt": "2026-03-13T21:49:17Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "XxG9M21mmf4",
@@ -220,16 +230,6 @@
       "thumbnail": "https://i.ytimg.com/vi/D5t-i76Tqa0/mqdefault.jpg",
       "publishedAt": "2026-03-13T08:18:53Z",
       "category": "SSPX News"
-    },
-    {
-      "id": "OTCdZ-tGC3U",
-      "title": "Holy Mass 3/12/26 - Feast of Pope St. Gregory the Great",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/OTCdZ-tGC3U/mqdefault.jpg",
-      "publishedAt": "2026-03-13T04:40:17Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "acQRKZ2K0ns",
