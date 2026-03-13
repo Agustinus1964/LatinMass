@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-13T23:25:47.995Z",
+  "lastUpdated": "2026-03-13T23:51:42.707Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Mw_sa_Oq5zQ",
-          "title": "Stations of the Cross - 3/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Mw_sa_Oq5zQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3sKQKFceaG4",
           "title": "Compline - 3/13/26",
@@ -55,20 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "0ma62idOuOA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/0ma62idOuOA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "0i2yewjvq-E",
           "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 13, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/0i2yewjvq-E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "twMPrFyW4G0",
-          "title": "STATIONS OF THE CROSS SERMON SERIES, PART IV, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/twMPrFyW4G0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QXAqL_PFIoY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "0ma62idOuOA",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0ma62idOuOA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T23:28:00Z"
         },
         {
           "id": "4jdXPGrVLsc",
