@@ -1,33 +1,15 @@
 {
-  "lastUpdated": "2026-03-13T17:31:53.014Z",
+  "lastUpdated": "2026-03-13T18:37:01.311Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kfszlrhrgY4",
-          "title": "FSSPX Antwerpen - 13/03 VRIJDAG na de 3° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/kfszlrhrgY4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "y_pzIXqEqEw",
           "title": "Sakramentsandacht und hl. Messe - 13. März 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/y_pzIXqEqEw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_3SuPj-6Oz0",
-          "title": "Via Crucis - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/_3SuPj-6Oz0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,17 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/7UIR8G8fOA8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T18:00:00Z"
-        },
-        {
-          "id": "Ro2xYVbpPrY",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Ro2xYVbpPrY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QXAqL_PFIoY",
@@ -96,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/QXAqL_PFIoY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RM5WHhQXWDs",
