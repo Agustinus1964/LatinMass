@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-13T07:42:14.574Z",
+  "lastUpdated": "2026-03-13T08:35:53.260Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "O4WhW5Vv74U",
-          "title": "Friday in the 3ʳᵈ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/O4WhW5Vv74U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IdIZeEPWZss",
           "title": "Low Mass - Feria of Lent - 3/13/26",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RM5WHhQXWDs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-13T22:30:00Z"
+        },
+        {
+          "id": "eYr-ABrgxhw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/eYr-ABrgxhw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T08:30:00Z"
         }
       ]
     }
