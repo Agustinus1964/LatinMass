@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-03-13T11:54:58.393Z",
+  "lastUpdated": "2026-03-13T12:52:40.884Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IdIZeEPWZss",
-          "title": "Low Mass - Feria of Lent - 3/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IdIZeEPWZss/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gO4vbyHd1VQ",
-          "title": "Fri. Mar. 13, 2026    -   Ferial of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gO4vbyHd1VQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1mRzk0bTu0s",
-          "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 1",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/1mRzk0bTu0s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-13T11:45:00Z"
-        },
         {
           "id": "Mw_sa_Oq5zQ",
           "title": "Stations of the Cross - 3/13/26",
@@ -57,12 +30,39 @@
           "thumbnail": "https://i.ytimg.com/vi/DyWO69bf2L0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T09:00:00Z"
+        },
+        {
+          "id": "sw3YvnjWugY",
+          "title": "Low Mass - Feria of Lent - 3/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/sw3YvnjWugY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T11:15:00Z"
+        },
+        {
+          "id": "y02bJ-F6ezU",
+          "title": "Sat. Mar. 14, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/y02bJ-F6ezU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Vvj3TUFzokQ",
+          "title": "First Friday 8 AM Mass and Devotions 03/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Vvj3TUFzokQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7UIR8G8fOA8",
           "title": "Friday 13th March 2026: Lenten Feria (Mass followed by Stations of the Cross)",
@@ -100,6 +100,15 @@
           "scheduledTime": "2026-03-13T22:30:00Z"
         },
         {
+          "id": "Nrw7wydIAP0",
+          "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 03/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Nrw7wydIAP0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-13T22:55:00Z"
+        },
+        {
           "id": "eYr-ABrgxhw",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_7pL_F5BKxs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T10:30:00Z"
+        },
+        {
+          "id": "ZFEfbOFS-O8",
+          "title": "Saturday 7 AM Traditional Catholic Mass 03/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ZFEfbOFS-O8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T10:55:00Z"
         }
       ]
     }
