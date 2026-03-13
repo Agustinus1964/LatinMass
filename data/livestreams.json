@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T14:49:53.212Z",
+  "lastUpdated": "2026-03-13T15:39:00.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "G1wPqPWOoLo",
-          "title": "11AM Mass. Feria of Lent. III. Friday, March 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/G1wPqPWOoLo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7UIR8G8fOA8",
           "title": "Friday 13th March 2026: Lenten Feria (Mass followed by Stations of the Cross)",
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/21GY0beqcBg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T12:55:00Z"
+        },
+        {
+          "id": "KuMiveXFMfs",
+          "title": "ANNIVERSARY OF THE DEDICATION OF THE NATIONAL SHRINE OF SAINT ALPHONSUS, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/KuMiveXFMfs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T15:00:00Z"
         }
       ]
     }
