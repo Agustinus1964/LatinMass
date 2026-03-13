@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T20:33:16.712Z",
+  "lastUpdated": "2026-03-13T21:29:26.050Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3sKQKFceaG4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T00:45:00Z"
+        },
+        {
+          "id": "bwPK9Ws-pJg",
+          "title": "Saturday in the 3ʳᵈ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/bwPK9Ws-pJg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T07:30:00Z"
         },
         {
           "id": "sw3YvnjWugY",
@@ -46,11 +55,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "0i2yewjvq-E",
+          "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 13, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/0i2yewjvq-E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "QXAqL_PFIoY",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/QXAqL_PFIoY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Cx5D69kOsVs",
+          "title": "Via sacra e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Cx5D69kOsVs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
