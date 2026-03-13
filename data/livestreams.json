@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-03-13T16:36:40.590Z",
+  "lastUpdated": "2026-03-13T17:31:53.014Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "wNOFMNyj53E",
-          "title": "FSSPX Antwerpen - 13/03 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "kfszlrhrgY4",
+          "title": "FSSPX Antwerpen - 13/03 VRIJDAG na de 3° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/wNOFMNyj53E/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kfszlrhrgY4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "y_pzIXqEqEw",
+          "title": "Sakramentsandacht und hl. Messe - 13. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/y_pzIXqEqEw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_3SuPj-6Oz0",
+          "title": "Via Crucis - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/_3SuPj-6Oz0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -101,7 +119,7 @@
         },
         {
           "id": "4jdXPGrVLsc",
-          "title": "Sacramentos: Eucaristía segunda parte. P. Daniel Heenan",
+          "title": "Sacramentos: Eucaristía segunda parte. Obediencia de Cristo. P. Daniel Heenan",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/4jdXPGrVLsc/mqdefault.jpg",
