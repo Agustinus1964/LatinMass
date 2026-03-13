@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-13T12:52:40.884Z",
+  "lastUpdated": "2026-03-13T13:58:27.213Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Vvj3TUFzokQ",
-          "title": "First Friday 8 AM Mass and Devotions 03/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Vvj3TUFzokQ/mqdefault_live.jpg",
+          "id": "BTo0YS5Bxcg",
+          "title": "Santo Sacrificio de La Misa, Feria de Cuaresma, 13 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/BTo0YS5Bxcg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZFEfbOFS-O8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T10:55:00Z"
+        },
+        {
+          "id": "21GY0beqcBg",
+          "title": "Saturday 9 AM Catholic Mass for 03/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/21GY0beqcBg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T12:55:00Z"
         }
       ]
     }
