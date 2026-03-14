@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-13T23:51:42.707Z",
+  "lastUpdated": "2026-03-14T01:48:08.824Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3sKQKFceaG4",
-          "title": "Compline - 3/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/3sKQKFceaG4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-14T00:45:00Z"
-        },
         {
           "id": "bwPK9Ws-pJg",
           "title": "Saturday in the 3ʳᵈ Week of Lent",
@@ -23,15 +14,6 @@
           "scheduledTime": "2026-03-14T07:30:00Z"
         },
         {
-          "id": "sw3YvnjWugY",
-          "title": "Low Mass - Feria of Lent - 3/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/sw3YvnjWugY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-14T11:15:00Z"
-        },
-        {
           "id": "y02bJ-F6ezU",
           "title": "Sat. Mar. 14, 2026    -    Ferial Day of Lent",
           "channel": "Transfiguration Church SSPX",
@@ -39,39 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/y02bJ-F6ezU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T12:00:00Z"
+        },
+        {
+          "id": "ObRKeZZzHbg",
+          "title": "Rosary - 3/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ObRKeZZzHbg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-14T23:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0ma62idOuOA",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0ma62idOuOA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0i2yewjvq-E",
-          "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/0i2yewjvq-E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Nrw7wydIAP0",
-          "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 03/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Nrw7wydIAP0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QXAqL_PFIoY",
           "title": "Sainte messe en semaine",
