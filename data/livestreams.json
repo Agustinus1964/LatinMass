@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T16:56:56.491Z",
+  "lastUpdated": "2026-03-14T17:28:21.061Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZO0fQ-4Hj8o",
+          "title": "1:30PM Rosary & 2PM Mass. Feria of Lent. III. Men's Lenten Retreat. Saturday, March 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ZO0fQ-4Hj8o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "EV6sULsOI5w",
           "title": "8am — 4th Sunday of Lent",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YxhEzW4rHbs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T16:45:00Z"
+        },
+        {
+          "id": "9Q5mEi8c91k",
+          "title": "Vespers and Benediction — 4th Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/9Q5mEi8c91k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T17:00:00Z"
         }
       ]
     }
