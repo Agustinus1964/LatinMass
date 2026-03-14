@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T20:24:20.958Z",
+  "lastUpdated": "2026-03-14T20:51:17.457Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6iFJXcoxKnk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T16:50:00Z"
+        },
+        {
+          "id": "DBYsr2a6KhA",
+          "title": "IV Sunday of Lent (Laetare Sunday)",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T17:00:00Z"
         }
       ]
     },
