@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-14T22:51:27.099Z",
+  "lastUpdated": "2026-03-14T23:24:17.231Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hxfGhEVaCYY",
+          "title": "FOURTH SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/hxfGhEVaCYY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "J1B0M2a9Lbk",
           "title": "IV Domenica di Quaresima (Domenica Laetare) - Santa Messa cantata - FSSPX Italia",
