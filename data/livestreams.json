@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T10:29:39.755Z",
+  "lastUpdated": "2026-03-14T10:55:33.146Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,22 +37,13 @@
           "scheduledTime": null
         },
         {
-          "id": "5Vl1PJAotLA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5Vl1PJAotLA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ZFEfbOFS-O8",
           "title": "Saturday 7 AM Traditional Catholic Mass 03/14/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/ZFEfbOFS-O8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-14T10:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "21GY0beqcBg",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6rZwFAuiwME/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T10:00:00Z"
+        },
+        {
+          "id": "jiPpSpe8sVs",
+          "title": "Sunday 15th March 2026: Fourth Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/jiPpSpe8sVs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T10:30:00Z"
         }
       ]
     }
