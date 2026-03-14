@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T18:33:59.979Z",
+  "lastUpdated": "2026-03-14T19:23:54.436Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-03-15T11:00:00Z"
         },
         {
-          "id": "Hju4_tWcjEE",
-          "title": "Solemn High Mass - Fourth Sunday of Lent - 3/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Hju4_tWcjEE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T14:00:00Z"
-        },
-        {
           "id": "6iFJXcoxKnk",
           "title": "Vesper und Sakramentsandacht - 4. Fastensonntag - 15. März 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -45,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZO0fQ-4Hj8o",
-          "title": "1:30PM Rosary & 2PM Mass. Feria of Lent. III. Men's Lenten Retreat. Saturday, March 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ZO0fQ-4Hj8o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "EV6sULsOI5w",
           "title": "8am — 4th Sunday of Lent",
