@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-14T08:30:39.511Z",
+  "lastUpdated": "2026-03-14T09:29:15.983Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DyWO69bf2L0",
+          "title": "FSSPX Antwerpen - 14/03 ZATERDAG na de 3° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/DyWO69bf2L0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "y02bJ-F6ezU",
           "title": "Sat. Mar. 14, 2026    -    Ferial Day of Lent",
@@ -28,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "eYr-ABrgxhw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/eYr-ABrgxhw/mqdefault_live.jpg",
+          "id": "Ut-NGHp0ECw",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Ut-NGHp0ECw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "5Vl1PJAotLA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5Vl1PJAotLA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-14T10:00:00Z"
         },
         {
           "id": "_7pL_F5BKxs",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KuMiveXFMfs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-14T15:00:00Z"
+        },
+        {
+          "id": "EV6sULsOI5w",
+          "title": "8am — 4th Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/EV6sULsOI5w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T08:00:00Z"
         }
       ]
     }
