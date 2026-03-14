@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T16:27:44.368Z",
+  "lastUpdated": "2026-03-14T16:56:56.491Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,13 +32,13 @@
           "scheduledTime": "2026-03-15T14:00:00Z"
         },
         {
-          "id": "24eBJzWtwHs",
-          "title": "Sun. Mar. 15, 2026    Laetare Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/24eBJzWtwHs/mqdefault_live.jpg",
+          "id": "6iFJXcoxKnk",
+          "title": "Vesper und Sakramentsandacht - 4. Fastensonntag - 15. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6iFJXcoxKnk/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-15T14:00:00Z"
+          "scheduledTime": "2026-03-15T16:50:00Z"
         }
       ]
     },
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BbDKsQ1dM4s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T15:45:00Z"
+        },
+        {
+          "id": "YxhEzW4rHbs",
+          "title": "Secondes vêpres du troisième dimanche de Carême - EXTOLLENS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YxhEzW4rHbs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T16:45:00Z"
         }
       ]
     }
