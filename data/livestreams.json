@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T19:23:54.436Z",
+  "lastUpdated": "2026-03-14T19:47:03.433Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -134,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9Q5mEi8c91k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T17:00:00Z"
+        },
+        {
+          "id": "Q-JRurqfsmE",
+          "title": "CHORAL VESPERS ON LAETARE SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Q-JRurqfsmE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T19:30:00Z"
         }
       ]
     }
