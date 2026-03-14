@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T13:43:02.215Z",
+  "lastUpdated": "2026-03-14T14:25:41.235Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/vkcWNxXD4vk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T11:00:00Z"
+        },
+        {
+          "id": "Hju4_tWcjEE",
+          "title": "Solemn High Mass - Fourth Sunday of Lent - 3/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Hju4_tWcjEE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T14:00:00Z"
+        },
+        {
+          "id": "24eBJzWtwHs",
+          "title": "Sun. Mar. 15, 2026    Laetare Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/24eBJzWtwHs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T14:00:00Z"
         }
       ]
     },
@@ -28,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HrzGTAYt7sM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of the Third Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/HrzGTAYt7sM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "21GY0beqcBg",
-          "title": "Saturday 9 AM Catholic Mass for 03/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/21GY0beqcBg/mqdefault_live.jpg",
+          "id": "iyT9m9Kehy4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/iyT9m9Kehy4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,8 +60,17 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/KuMiveXFMfs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-14T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "e_W6YSBi-pI",
+          "title": "Santo Sacrificio de La Misa, Sábado de la tercera de Cuaresma, 14 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/e_W6YSBi-pI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EV6sULsOI5w",
@@ -98,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/J4zo6buCOFk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T11:00:00Z"
+        },
+        {
+          "id": "2Sa-X281314",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/2Sa-X281314/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T12:00:00Z"
+        },
+        {
+          "id": "9ztrDLCa-lA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9ztrDLCa-lA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T14:00:00Z"
         }
       ]
     }
