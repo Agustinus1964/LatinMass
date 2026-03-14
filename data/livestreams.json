@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T14:53:17.328Z",
+  "lastUpdated": "2026-03-14T15:24:46.104Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,33 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iyT9m9Kehy4",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/iyT9m9Kehy4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KuMiveXFMfs",
-          "title": "ANNIVERSARY OF THE DEDICATION OF THE NATIONAL SHRINE OF SAINT ALPHONSUS, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/KuMiveXFMfs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "e_W6YSBi-pI",
-          "title": "Santo Sacrificio de La Misa, Sábado de la tercera de Cuaresma, 14 de marzo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/e_W6YSBi-pI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "EV6sULsOI5w",
           "title": "8am — 4th Sunday of Lent",
