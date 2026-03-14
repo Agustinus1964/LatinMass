@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-14T10:55:33.146Z",
+  "lastUpdated": "2026-03-14T11:22:01.088Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "sw3YvnjWugY",
+          "title": "Low Mass - Feria of Lent - 3/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/sw3YvnjWugY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "y02bJ-F6ezU",
           "title": "Sat. Mar. 14, 2026    -    Ferial Day of Lent",
@@ -14,13 +23,13 @@
           "scheduledTime": "2026-03-14T12:00:00Z"
         },
         {
-          "id": "ObRKeZZzHbg",
-          "title": "Rosary - 3/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ObRKeZZzHbg/mqdefault_live.jpg",
+          "id": "vkcWNxXD4vk",
+          "title": "Laetare Sunday (Mothering Sunday)",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/vkcWNxXD4vk/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-14T23:00:00Z"
+          "scheduledTime": "2026-03-15T11:00:00Z"
         }
       ]
     },
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jiPpSpe8sVs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T10:30:00Z"
+        },
+        {
+          "id": "J4zo6buCOFk",
+          "title": "11am — 4th Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/J4zo6buCOFk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T11:00:00Z"
         }
       ]
     }
