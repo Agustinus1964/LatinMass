@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-14T09:29:15.983Z",
+  "lastUpdated": "2026-03-14T09:56:44.473Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "DyWO69bf2L0",
-          "title": "FSSPX Antwerpen - 14/03 ZATERDAG na de 3° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DyWO69bf2L0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "y02bJ-F6ezU",
           "title": "Sat. Mar. 14, 2026    -    Ferial Day of Lent",
@@ -36,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5Vl1PJAotLA",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/5Vl1PJAotLA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Ut-NGHp0ECw",
           "title": "Prima e Missa rezada",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EV6sULsOI5w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T08:00:00Z"
+        },
+        {
+          "id": "ZNNUZBxBHW8",
+          "title": "9:30am —  4th Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ZNNUZBxBHW8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T09:30:00Z"
         }
       ]
     }
