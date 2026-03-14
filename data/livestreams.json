@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-14T09:56:44.473Z",
+  "lastUpdated": "2026-03-14T10:29:39.755Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "_7pL_F5BKxs",
+          "title": "Saturday 14th March 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/_7pL_F5BKxs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "5Vl1PJAotLA",
           "title": "Saturday",
           "channel": "Oxford Oratory",
@@ -35,24 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5Vl1PJAotLA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Ut-NGHp0ECw",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Ut-NGHp0ECw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_7pL_F5BKxs",
-          "title": "Saturday 14th March 2026: Lenten Feria",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/_7pL_F5BKxs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-14T10:30:00Z"
         },
         {
           "id": "ZFEfbOFS-O8",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZNNUZBxBHW8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T09:30:00Z"
+        },
+        {
+          "id": "6rZwFAuiwME",
+          "title": "Sainte messe du quatrième dimanche de Carême - LÆTARE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6rZwFAuiwME/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T10:00:00Z"
         }
       ]
     }
