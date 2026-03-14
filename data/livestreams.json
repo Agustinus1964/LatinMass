@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-14T20:51:17.457Z",
+  "lastUpdated": "2026-03-14T21:23:08.719Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kIisdfI2Plg",
-          "title": "Fr Brooks Lenten Conference",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/kIisdfI2Plg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "vkcWNxXD4vk",
           "title": "Laetare Sunday (Mothering Sunday)",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T17:00:00Z"
+        },
+        {
+          "id": "IEqpb6_xlLM",
+          "title": "Simple II Vespers - Fourth Sunday of Lent - 3/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IEqpb6_xlLM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T21:00:00Z"
         }
       ]
     },
