@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T09:31:17.466Z",
+  "lastUpdated": "2026-03-15T10:26:15.580Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/ZO4doD9p33c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jKeCY1MSs_0",
-          "title": "Amt - 4. Fastensonntag - 15. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/jKeCY1MSs_0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "jiPpSpe8sVs",
+          "title": "Sunday 15th March 2026: Fourth Sunday in Lent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/jiPpSpe8sVs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ZNNUZBxBHW8",
           "title": "9:30am —  4th Sunday of Lent",
           "channel": "Oxford Oratory",
@@ -78,17 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/6rZwFAuiwME/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T10:00:00Z"
-        },
-        {
-          "id": "jiPpSpe8sVs",
-          "title": "Sunday 15th March 2026: Fourth Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/jiPpSpe8sVs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "J4zo6buCOFk",
