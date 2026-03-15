@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-15T11:49:10.890Z",
+  "lastUpdated": "2026-03-15T12:45:52.541Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LwdMBjWuXZU",
-          "title": "Low Mass - Fourth Sunday of Lent - 3/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/LwdMBjWuXZU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "vkcWNxXD4vk",
           "title": "Laetare Sunday (Mothering Sunday)",
@@ -30,12 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T17:00:00Z"
+        },
+        {
+          "id": "IEqpb6_xlLM",
+          "title": "Simple II Vespers - Fourth Sunday of Lent - 3/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IEqpb6_xlLM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T21:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2Sa-X281314",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/2Sa-X281314/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "DtZbYADwQx8",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Laetare Sunday. Fourth Sunday of Lent. I. March 15, 2026.",
@@ -46,40 +55,22 @@
           "scheduledTime": null
         },
         {
-          "id": "tNkVlAtmpLE",
-          "title": "Sunday 7 AM Catholic Mass for 03/15/2026",
+          "id": "EIcue-pan8M",
+          "title": "Sunday 8:30 AM Catholic Mass for 03/15/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/tNkVlAtmpLE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/EIcue-pan8M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "J4zo6buCOFk",
-          "title": "11am — 4th Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/J4zo6buCOFk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kwjnN94OlNA",
-          "title": "Missa Rezada - Domingo Laetare - IV da Quaresma",
+          "id": "kqnesT1PdD0",
+          "title": "Missa cantada - domingo laetare",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/kwjnN94OlNA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kqnesT1PdD0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "2Sa-X281314",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/2Sa-X281314/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T12:00:00Z"
         },
         {
           "id": "9ztrDLCa-lA",
