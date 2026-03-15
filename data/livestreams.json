@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-15T13:43:49.561Z",
+  "lastUpdated": "2026-03-15T14:27:17.076Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Hju4_tWcjEE",
+          "title": "Solemn High Mass - Fourth Sunday of Lent - 3/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Hju4_tWcjEE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "8YFdNNF5Wn8",
           "title": "Fourth Sunday of Lent - The Immaculata",
@@ -23,6 +32,15 @@
           "scheduledTime": null
         },
         {
+          "id": "24eBJzWtwHs",
+          "title": "Sun. Mar. 15, 2026    Laetare Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/24eBJzWtwHs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "DBYsr2a6KhA",
           "title": "IV Sunday of Lent (Laetare Sunday)",
           "channel": "Our Lady of the Angels",
@@ -30,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T17:00:00Z"
-        },
-        {
-          "id": "IEqpb6_xlLM",
-          "title": "Simple II Vespers - Fourth Sunday of Lent - 3/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IEqpb6_xlLM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T21:00:00Z"
         }
       ]
     },
@@ -46,31 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Wu2RfEhc_sM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Wu2RfEhc_sM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kqnesT1PdD0",
-          "title": "Missa cantada - domingo laetare",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/kqnesT1PdD0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9ztrDLCa-lA",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/9ztrDLCa-lA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6bC9f-SPEr0",
+          "title": "10:30AM Sung Mass. Laetare Sunday. Fourth Sunday of Lent. I. March 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/6bC9f-SPEr0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "klSK5c1ZYgs",
@@ -78,8 +78,17 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/klSK5c1ZYgs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "IX0usPd8vL4",
+          "title": "Santa Misa Dominical. 15 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/IX0usPd8vL4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3-uTQNbrR8Q",
