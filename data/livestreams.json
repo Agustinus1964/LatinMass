@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T14:56:16.667Z",
+  "lastUpdated": "2026-03-15T15:28:28.420Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,20 +14,20 @@
           "scheduledTime": null
         },
         {
-          "id": "8YFdNNF5Wn8",
-          "title": "Fourth Sunday of Lent - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/8YFdNNF5Wn8/mqdefault_live.jpg",
+          "id": "hWtwSB5Fuaw",
+          "title": "Fr. Brooks IV Sunday Lenten Conference",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/hWtwSB5Fuaw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "-syk_RRI31E",
-          "title": "IV Sunday of Lent",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/-syk_RRI31E/mqdefault_live.jpg",
+          "id": "fxPiOsXrpS0",
+          "title": "Laetare Sunday - March 15, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/fxPiOsXrpS0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +64,29 @@
           "scheduledTime": null
         },
         {
+          "id": "Qg4rrGvbUBg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Qg4rrGvbUBg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "6bC9f-SPEr0",
           "title": "10:30AM Sung Mass. Laetare Sunday. Fourth Sunday of Lent. I. March 15, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/6bC9f-SPEr0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3-uTQNbrR8Q",
+          "title": "FOURTH SUNDAY OF LENT, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/3-uTQNbrR8Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,24 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IX0usPd8vL4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Qg4rrGvbUBg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Qg4rrGvbUBg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T14:58:00Z"
-        },
-        {
-          "id": "3-uTQNbrR8Q",
-          "title": "FOURTH SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/3-uTQNbrR8Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T15:30:00Z"
         },
         {
           "id": "BbDKsQ1dM4s",
