@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-15T12:45:52.541Z",
+  "lastUpdated": "2026-03-15T13:43:49.561Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "vkcWNxXD4vk",
-          "title": "Laetare Sunday (Mothering Sunday)",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/vkcWNxXD4vk/mqdefault_live.jpg",
+          "id": "8YFdNNF5Wn8",
+          "title": "Fourth Sunday of Lent - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/8YFdNNF5Wn8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-syk_RRI31E",
+          "title": "IV Sunday of Lent",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/-syk_RRI31E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -37,29 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2Sa-X281314",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/2Sa-X281314/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DtZbYADwQx8",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Laetare Sunday. Fourth Sunday of Lent. I. March 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DtZbYADwQx8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EIcue-pan8M",
-          "title": "Sunday 8:30 AM Catholic Mass for 03/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/EIcue-pan8M/mqdefault_live.jpg",
+          "id": "Wu2RfEhc_sM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Wu2RfEhc_sM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9ztrDLCa-lA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T14:00:00Z"
+        },
+        {
+          "id": "klSK5c1ZYgs",
+          "title": "\"Laetare\" Sunday / Dimanche \"Laetare\"",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/klSK5c1ZYgs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T14:30:00Z"
         },
         {
           "id": "3-uTQNbrR8Q",
