@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T14:27:17.076Z",
+  "lastUpdated": "2026-03-15T14:56:16.667Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,6 +73,15 @@
           "scheduledTime": null
         },
         {
+          "id": "jVAC9dSqJT0",
+          "title": "Sunday 11 AM Sung Mass 2026-03-15",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/jVAC9dSqJT0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "klSK5c1ZYgs",
           "title": "\"Laetare\" Sunday / Dimanche \"Laetare\"",
           "channel": "St. Clement's Parish Paroisse St-Clement",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IX0usPd8vL4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "Qg4rrGvbUBg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Qg4rrGvbUBg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T14:58:00Z"
         },
         {
           "id": "3-uTQNbrR8Q",
