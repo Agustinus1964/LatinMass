@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T17:31:31.783Z",
+  "lastUpdated": "2026-03-15T18:34:33.269Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,40 +28,13 @@
           "scheduledTime": null
         },
         {
-          "id": "IX0usPd8vL4",
+          "id": "DYW8yRkIJ1s",
           "title": "Santa Misa Dominical. 15 de marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/IX0usPd8vL4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DYW8yRkIJ1s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "9Q5mEi8c91k",
-          "title": "Vespers and Benediction — 4th Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/9Q5mEi8c91k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YxhEzW4rHbs",
-          "title": "Secondes vêpres du troisième dimanche de Carême - EXTOLLENS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/YxhEzW4rHbs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DVMvhYGWIGg",
-          "title": "Rejoice in the Bread of Life. He That Cometh to Me Shall Not Hunger.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/DVMvhYGWIGg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T18:00:00Z"
         },
         {
           "id": "Q-JRurqfsmE",
@@ -80,6 +53,33 @@
           "thumbnail": "https://i.ytimg.com/vi/W_GWfZY92gc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-16T11:30:00Z"
+        },
+        {
+          "id": "utEbKY15Qzs",
+          "title": "Monday 16th March 2026:  Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/utEbKY15Qzs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T18:00:00Z"
+        },
+        {
+          "id": "wecOxCHu994",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wecOxCHu994/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T18:00:00Z"
+        },
+        {
+          "id": "nkjZOxIIg9Y",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/nkjZOxIIg9Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T18:00:00Z"
         }
       ]
     }
