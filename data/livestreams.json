@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-15T16:28:46.248Z",
+  "lastUpdated": "2026-03-15T16:57:41.572Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "6iFJXcoxKnk",
+          "title": "Vesper und Sakramentsandacht - 4. Fastensonntag - 15. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6iFJXcoxKnk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "DBYsr2a6KhA",
           "title": "IV Sunday of Lent (Laetare Sunday)",
@@ -19,29 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Qg4rrGvbUBg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Qg4rrGvbUBg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3-uTQNbrR8Q",
           "title": "FOURTH SUNDAY OF LENT, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/3-uTQNbrR8Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jVAC9dSqJT0",
-          "title": "Sunday 11 AM Sung Mass 2026-03-15",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/jVAC9dSqJT0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,11 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "BbDKsQ1dM4s",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/BbDKsQ1dM4s/mqdefault_live.jpg",
+          "id": "9Q5mEi8c91k",
+          "title": "Vespers and Benediction — 4th Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/9Q5mEi8c91k/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,17 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/YxhEzW4rHbs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T16:45:00Z"
-        },
-        {
-          "id": "9Q5mEi8c91k",
-          "title": "Vespers and Benediction — 4th Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/9Q5mEi8c91k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DVMvhYGWIGg",
