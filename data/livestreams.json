@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-15T15:28:28.420Z",
+  "lastUpdated": "2026-03-15T15:52:59.268Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Hju4_tWcjEE",
-          "title": "Solemn High Mass - Fourth Sunday of Lent - 3/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Hju4_tWcjEE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hWtwSB5Fuaw",
           "title": "Fr. Brooks IV Sunday Lenten Conference",
@@ -32,15 +23,6 @@
           "scheduledTime": null
         },
         {
-          "id": "24eBJzWtwHs",
-          "title": "Sun. Mar. 15, 2026    Laetare Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/24eBJzWtwHs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "DBYsr2a6KhA",
           "title": "IV Sunday of Lent (Laetare Sunday)",
           "channel": "Our Lady of the Angels",
@@ -55,29 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9ztrDLCa-lA",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fourth Sunday in Lent, “Lætáre”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9ztrDLCa-lA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Qg4rrGvbUBg",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/Qg4rrGvbUBg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6bC9f-SPEr0",
-          "title": "10:30AM Sung Mass. Laetare Sunday. Fourth Sunday of Lent. I. March 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/6bC9f-SPEr0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/BbDKsQ1dM4s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YxhEzW4rHbs",
@@ -161,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Q-JRurqfsmE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T19:30:00Z"
+        },
+        {
+          "id": "W_GWfZY92gc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Fourth Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/W_GWfZY92gc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T11:30:00Z"
         }
       ]
     }
