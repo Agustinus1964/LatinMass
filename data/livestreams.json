@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-15T19:48:31.817Z",
+  "lastUpdated": "2026-03-15T20:25:41.949Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ILq7a8fgHmc",
+          "title": "FOURTH SUNDAY OF LENT - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ILq7a8fgHmc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "XAD8XznB5zs",
           "title": "Hl. Messe - 16. März 2026",
@@ -28,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Q-JRurqfsmE",
-          "title": "CHORAL VESPERS ON LAETARE SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Q-JRurqfsmE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DYW8yRkIJ1s",
-          "title": "Santa Misa Dominical. 15 de marzo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/DYW8yRkIJ1s/mqdefault_live.jpg",
+          "id": "meo2mwGVoVA",
+          "title": "Missa rezada - domingo laetare. E ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/meo2mwGVoVA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
