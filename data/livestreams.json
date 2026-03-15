@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-15T16:57:41.572Z",
+  "lastUpdated": "2026-03-15T17:31:31.783Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6iFJXcoxKnk",
-          "title": "Vesper und Sakramentsandacht - 4. Fastensonntag - 15. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6iFJXcoxKnk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DBYsr2a6KhA",
           "title": "IV Sunday of Lent (Laetare Sunday)",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         }
       ]
     },
@@ -28,11 +19,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3-uTQNbrR8Q",
-          "title": "FOURTH SUNDAY OF LENT, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/3-uTQNbrR8Q/mqdefault_live.jpg",
+          "id": "w6UZeAv_ISg",
+          "title": "Sunday 1:30 PM Catholic Mass 03/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/w6UZeAv_ISg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
