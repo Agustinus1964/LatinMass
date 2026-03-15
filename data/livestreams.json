@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-15T15:52:59.268Z",
+  "lastUpdated": "2026-03-15T16:28:46.248Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hWtwSB5Fuaw",
-          "title": "Fr. Brooks IV Sunday Lenten Conference",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/hWtwSB5Fuaw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fxPiOsXrpS0",
-          "title": "Laetare Sunday - March 15, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/fxPiOsXrpS0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DBYsr2a6KhA",
           "title": "IV Sunday of Lent (Laetare Sunday)",
@@ -60,15 +42,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/jVAC9dSqJT0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "klSK5c1ZYgs",
-          "title": "\"Laetare\" Sunday / Dimanche \"Laetare\"",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/klSK5c1ZYgs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
