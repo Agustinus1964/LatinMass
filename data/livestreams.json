@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T11:26:44.206Z",
+  "lastUpdated": "2026-03-15T11:49:10.890Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,15 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jiPpSpe8sVs",
-          "title": "Sunday 15th March 2026: Fourth Sunday in Lent",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/jiPpSpe8sVs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "DtZbYADwQx8",
           "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Laetare Sunday. Fourth Sunday of Lent. I. March 15, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -69,15 +60,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/J4zo6buCOFk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6rZwFAuiwME",
-          "title": "Sainte messe du quatrième dimanche de Carême - LÆTARE",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/6rZwFAuiwME/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
