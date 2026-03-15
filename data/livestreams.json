@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-03-15T18:34:33.269Z",
+  "lastUpdated": "2026-03-15T19:25:23.102Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "DBYsr2a6KhA",
-          "title": "IV Sunday of Lent (Laetare Sunday)",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "XAD8XznB5zs",
+          "title": "Hl. Messe - 16. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/XAD8XznB5zs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T06:15:00Z"
+        },
+        {
+          "id": "sb1KGnC6Hc4",
+          "title": "Rosenkranz und hl. Messe - 16. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sb1KGnC6Hc4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T17:00:00Z"
         }
       ]
     },
@@ -19,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "w6UZeAv_ISg",
-          "title": "Sunday 1:30 PM Catholic Mass 03/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/w6UZeAv_ISg/mqdefault_live.jpg",
+          "id": "Q-JRurqfsmE",
+          "title": "CHORAL VESPERS ON LAETARE SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Q-JRurqfsmE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -35,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DYW8yRkIJ1s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Q-JRurqfsmE",
-          "title": "CHORAL VESPERS ON LAETARE SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Q-JRurqfsmE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T19:30:00Z"
         },
         {
           "id": "W_GWfZY92gc",
