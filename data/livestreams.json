@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-03-15T10:56:32.905Z",
+  "lastUpdated": "2026-03-15T11:26:44.206Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "LwdMBjWuXZU",
+          "title": "Low Mass - Fourth Sunday of Lent - 3/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/LwdMBjWuXZU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "vkcWNxXD4vk",
           "title": "Laetare Sunday (Mothering Sunday)",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/vkcWNxXD4vk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DBYsr2a6KhA",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DBYsr2a6KhA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T17:00:00Z"
-        },
-        {
-          "id": "IEqpb6_xlLM",
-          "title": "Simple II Vespers - Fourth Sunday of Lent - 3/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IEqpb6_xlLM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T21:00:00Z"
         }
       ]
     },
@@ -64,6 +64,15 @@
           "scheduledTime": null
         },
         {
+          "id": "J4zo6buCOFk",
+          "title": "11am — 4th Sunday of Lent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/J4zo6buCOFk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "6rZwFAuiwME",
           "title": "Sainte messe du quatrième dimanche de Carême - LÆTARE",
           "channel": "Ite Missa Est",
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kwjnN94OlNA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "J4zo6buCOFk",
-          "title": "11am — 4th Sunday of Lent",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/J4zo6buCOFk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T11:00:00Z"
         },
         {
           "id": "2Sa-X281314",
