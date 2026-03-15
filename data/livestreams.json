@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-15T21:50:41.022Z",
+  "lastUpdated": "2026-03-15T22:24:11.659Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IEqpb6_xlLM",
-          "title": "Simple II Vespers - Fourth Sunday of Lent - 3/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IEqpb6_xlLM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "XAD8XznB5zs",
           "title": "Hl. Messe - 16. März 2026",
@@ -36,15 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "meo2mwGVoVA",
-          "title": "Missa rezada - domingo laetare. E ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/meo2mwGVoVA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "W_GWfZY92gc",
           "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Fourth Week in Lent)",
