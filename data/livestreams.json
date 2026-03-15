@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-15T07:58:38.498Z",
+  "lastUpdated": "2026-03-15T08:45:57.746Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jKeCY1MSs_0",
+          "title": "Amt - 4. Fastensonntag - 15. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jKeCY1MSs_0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "J1B0M2a9Lbk",
           "title": "IV Domenica di Quaresima (Domenica Laetare) - Santa Messa cantata - FSSPX Italia",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vkcWNxXD4vk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T11:00:00Z"
-        },
-        {
-          "id": "6iFJXcoxKnk",
-          "title": "Vesper und Sakramentsandacht - 4. Fastensonntag - 15. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6iFJXcoxKnk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-15T16:50:00Z"
         },
         {
           "id": "DBYsr2a6KhA",
