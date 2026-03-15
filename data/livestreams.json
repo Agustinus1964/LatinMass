@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-15T02:04:42.084Z",
+  "lastUpdated": "2026-03-15T04:42:45.147Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "b2N1wB7pkqg",
-          "title": "Sung Mass - 4th Sunday of Lent",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/b2N1wB7pkqg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "J1B0M2a9Lbk",
           "title": "IV Domenica di Quaresima (Domenica Laetare) - Santa Messa cantata - FSSPX Italia",
@@ -161,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9Q5mEi8c91k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-15T17:00:00Z"
+        },
+        {
+          "id": "DVMvhYGWIGg",
+          "title": "Rejoice in the Bread of Life. He That Cometh to Me Shall Not Hunger.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/DVMvhYGWIGg/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-15T18:00:00Z"
         },
         {
           "id": "Q-JRurqfsmE",
