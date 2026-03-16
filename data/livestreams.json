@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-03-16T19:52:39.519Z",
+  "lastUpdated": "2026-03-16T20:35:22.352Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jaq4ZsZnjlw",
+          "title": "Tue St. Patrick 17 March - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/jaq4ZsZnjlw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Bko1DDY2vYI",
+          "title": "Tuesday in the 4ᵗʰ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/Bko1DDY2vYI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-17T07:15:00Z"
+        },
         {
           "id": "I0-5tH8b6S4",
           "title": "Tue. Mar. 17, 2026    -     Ferial Day of Lent",
