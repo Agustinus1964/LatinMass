@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-03-16T05:02:49.559Z",
+  "lastUpdated": "2026-03-16T06:51:11.070Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "sb1KGnC6Hc4",
-          "title": "Rosenkranz und hl. Messe - 16. März 2026",
+          "id": "XAD8XznB5zs",
+          "title": "Hl. Messe - 16. März 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sb1KGnC6Hc4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/XAD8XznB5zs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5iKaJdQpoYg",
+          "title": "Monday in the 4ᵗʰ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/5iKaJdQpoYg/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-16T17:00:00Z"
+          "scheduledTime": "2026-03-16T07:15:00Z"
         }
       ]
     },
