@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-16T11:43:20.092Z",
+  "lastUpdated": "2026-03-16T13:04:25.536Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KS_69i7qQCs",
-          "title": "Low Mass - Feria of Lent - 3/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/KS_69i7qQCs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8-RwHj-ZYhI",
-          "title": "Mon. Mar. 16, 2026    -    Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/8-RwHj-ZYhI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "I0-5tH8b6S4",
           "title": "Tue. Mar. 17, 2026    -     Ferial Day of Lent",
@@ -36,24 +18,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "W_GWfZY92gc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Monday of the Fourth Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/W_GWfZY92gc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fVc0lJVxC00",
-          "title": "7AM Mass & Divine Office. Feria of Lent. III. Monday, March 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/fVc0lJVxC00/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "utEbKY15Qzs",
           "title": "Monday 16th March 2026:  Lenten Feria",
@@ -89,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EVndQBgTdkc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-17T10:30:00Z"
+        },
+        {
+          "id": "PzAJlWQi1yM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday of the Fourth Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PzAJlWQi1yM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-17T11:30:00Z"
         }
       ]
     }
