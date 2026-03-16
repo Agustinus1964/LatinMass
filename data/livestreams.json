@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T21:36:32.638Z",
+  "lastUpdated": "2026-03-16T22:29:27.223Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
           "scheduledTime": null
         },
         {
+          "id": "Hu4hmhwecNc",
+          "title": "Mission (Fr. Luc Poirier, FSSP), part 1: The Four Last Things",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/Hu4hmhwecNc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "nkjZOxIIg9Y",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -62,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nkjZOxIIg9Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "FA6JGLNNeDE",
-          "title": "Terço e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/FA6JGLNNeDE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Hu4hmhwecNc",
-          "title": "Mission (Fr. Luc Poirier, FSSP), part 1: The Four Last Things",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/Hu4hmhwecNc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-16T22:30:00Z"
         },
         {
           "id": "EVndQBgTdkc",
