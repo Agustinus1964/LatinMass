@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-16T14:42:39.564Z",
+  "lastUpdated": "2026-03-16T16:02:11.607Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "1oWH4_fqrzA",
+          "title": "FSSPX Antwerpen - 16/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/1oWH4_fqrzA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "I0-5tH8b6S4",
           "title": "Tue. Mar. 17, 2026    -     Ferial Day of Lent",
@@ -27,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XzVVW0R2MJM",
-          "title": "Santo Sacrificio de la Misa. IV semana de Cuaresma 16 de marzo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/XzVVW0R2MJM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "utEbKY15Qzs",
           "title": "Monday 16th March 2026:  Lenten Feria",
