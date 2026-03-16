@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-03-16T20:35:22.352Z",
+  "lastUpdated": "2026-03-16T21:36:32.638Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "jaq4ZsZnjlw",
-          "title": "Tue St. Patrick 17 March - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/jaq4ZsZnjlw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "riurrCIdXyg",
+          "title": "Tuesday in the 4ᵗʰ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/riurrCIdXyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-17T07:15:00Z"
         },
         {
           "id": "Bko1DDY2vYI",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "w9HaHBcYj4Y",
+          "title": "Divine Office & 6PM Mass. Feria of Lent. III. Monday, March 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/w9HaHBcYj4Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "nkjZOxIIg9Y",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -53,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/nkjZOxIIg9Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "FA6JGLNNeDE",
+          "title": "Terço e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/FA6JGLNNeDE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Hu4hmhwecNc",
+          "title": "Mission (Fr. Luc Poirier, FSSP), part 1: The Four Last Things",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/Hu4hmhwecNc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-16T22:30:00Z"
         },
         {
           "id": "EVndQBgTdkc",
