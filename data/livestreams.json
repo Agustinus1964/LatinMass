@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T10:11:58.293Z",
+  "lastUpdated": "2026-03-17T11:12:17.669Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/I0-5tH8b6S4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-17T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "I-xgiQNX3cQ",
@@ -46,22 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mmTSSsIQuqM",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 03/17/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mmTSSsIQuqM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "EVndQBgTdkc",
           "title": "Tuesday 17th March 2026: Saint Patrick’s Day",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/EVndQBgTdkc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-17T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5EZ2S6LxMKo",
+          "title": "7AM Mass & Divine Office. Feria of Lent. III. St. Patrick, Bishop & Martyr. Tuesday, March 17, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/5EZ2S6LxMKo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PzAJlWQi1yM",
