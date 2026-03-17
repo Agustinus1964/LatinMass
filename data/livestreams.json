@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-17T16:02:35.287Z",
+  "lastUpdated": "2026-03-17T17:33:55.058Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "J-hrQtzA7gk",
-          "title": "FSSPX Antwerpen - 17/03 Aanbidding met Rozenhoedje",
+          "id": "MmB2Vbetdxk",
+          "title": "FSSPX Antwerpen - 17/03 DINSDAG na de 4° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/J-hrQtzA7gk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/MmB2Vbetdxk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oJf1OZ4tH-o",
+          "title": "Rosenkranz und hl. Messe - 17. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/oJf1OZ4tH-o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "NjYpV96sc8Y",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/NjYpV96sc8Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4VoR8pTbqGY",
           "title": "Tuesday",
