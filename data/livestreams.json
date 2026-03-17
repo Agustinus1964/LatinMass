@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T13:55:07.492Z",
+  "lastUpdated": "2026-03-17T14:53:04.880Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EcoAUQxLEyI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-18T11:15:00Z"
+        },
+        {
+          "id": "CSwjO20ssg4",
+          "title": "Low Mass - Feria of Lent - 3/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CSwjO20ssg4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-18T14:15:00Z"
         }
       ]
     },
