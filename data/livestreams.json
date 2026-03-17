@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-17T14:53:04.880Z",
+  "lastUpdated": "2026-03-17T16:02:35.287Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "J-hrQtzA7gk",
+          "title": "FSSPX Antwerpen - 17/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/J-hrQtzA7gk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "5UdFYF8a9rA",
           "title": "Rosary - 3/17/26",
