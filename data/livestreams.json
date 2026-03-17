@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T23:36:46.329Z",
+  "lastUpdated": "2026-03-17T01:53:11.518Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Hu4hmhwecNc",
-          "title": "Mission (Fr. Luc Poirier, FSSP), part 1: The Four Last Things",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/Hu4hmhwecNc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nkjZOxIIg9Y",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/nkjZOxIIg9Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "EVndQBgTdkc",
           "title": "Tuesday 17th March 2026: Saint Patrick’s Day",
