@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-17T21:34:18.006Z",
+  "lastUpdated": "2026-03-17T22:29:37.801Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -56,10 +56,19 @@
       "videos": [
         {
           "id": "d9CFnkZvP4I",
-          "title": "Divine Office & 6PM Mass. Feria of Lent. III. St. Patrick, Bishop & Martyr. Tuesday, March 17, 2026.",
+          "title": "Divine Office & 6PM Sung Mass. Feria of Lent. III. St. Patrick, Bishop & Martyr. March 17, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/d9CFnkZvP4I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "YdSmmHtMvdc",
+          "title": "Mission (Fr. Luc Poirier, FSSP), part 2: The Passion & Death of Our Lord Jesus Christ",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/YdSmmHtMvdc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,15 +78,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/geIgatIDuZ8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cAYZy1qOU70",
-          "title": "Terço e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/cAYZy1qOU70/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
