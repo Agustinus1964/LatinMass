@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-17T20:35:27.754Z",
+  "lastUpdated": "2026-03-17T21:34:18.006Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sLdstGkL9fQ",
-          "title": "Wed after 4th Sunday in Lent 18 March - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/sLdstGkL9fQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5UdFYF8a9rA",
           "title": "Rosary - 3/17/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8Vh7GN3IrW0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-18T03:45:00Z"
+        },
+        {
+          "id": "glemhDyJ36c",
+          "title": "Wednesday in the 4ᵗʰ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/glemhDyJ36c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-18T07:15:00Z"
         },
         {
           "id": "EcoAUQxLEyI",
@@ -69,6 +69,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/geIgatIDuZ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "cAYZy1qOU70",
+          "title": "Terço e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/cAYZy1qOU70/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
