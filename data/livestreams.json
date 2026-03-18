@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T22:57:56.495Z",
+  "lastUpdated": "2026-03-18T23:34:21.004Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YOMYw61NmFk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T18:00:00Z"
+        },
+        {
+          "id": "CPCZ59Ns0t8",
+          "title": "SAINT JOSEPH, SPOUSE OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/CPCZ59Ns0t8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T23:00:00Z"
         }
       ]
     }
