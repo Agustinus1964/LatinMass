@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-18T17:35:24.613Z",
+  "lastUpdated": "2026-03-18T18:55:04.748Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E2wXVxC1CNU",
-          "title": "Vesper und hl. Messe  - 18. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/E2wXVxC1CNU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "82Gk2FBaaUw",
           "title": "Simple I Vespers - Feast of St. Joseph - 3/18/26",
@@ -64,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mijdPH4MV60",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/mijdPH4MV60/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "BI14UvnxnpM",
           "title": "Wednesday 18th March 2026: Lenten Feria (Mass followed by Lenten Conference)",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/BI14UvnxnpM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-18T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "A5OOWn8HQr0",
@@ -87,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/A5OOWn8HQr0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-18T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "riJADOkh0u4",
@@ -96,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/riJADOkh0u4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-18T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mjatjt3FM-A",
@@ -107,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/mjatjt3FM-A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T14:00:00Z"
+        },
+        {
+          "id": "ryeyr45H9EM",
+          "title": "Tuesday 19th March 2026: Saint Joseph",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ryeyr45H9EM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T18:00:00Z"
+        },
+        {
+          "id": "CFHfWPlcOr4",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/CFHfWPlcOr4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T18:00:00Z"
         }
       ]
     }
