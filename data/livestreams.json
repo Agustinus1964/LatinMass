@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T20:32:15.268Z",
+  "lastUpdated": "2026-03-18T21:34:33.172Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/QwP005vXric/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "geg0NYjXmnY",
-          "title": "FEAST OF ST. JOSEPH - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/geg0NYjXmnY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NqQu6ZYWdsA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T03:45:00Z"
+        },
+        {
+          "id": "j9PtUlm3rHY",
+          "title": "Saint Joseph, spouse of the Blessed Virgin Mary, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/j9PtUlm3rHY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T07:15:00Z"
         },
         {
           "id": "rDEl7QNE-M4",
@@ -91,6 +91,24 @@
           "scheduledTime": null
         },
         {
+          "id": "Lhk9xMNhcVE",
+          "title": "Terço, missa rezada e exposição do Santíssimo",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Lhk9xMNhcVE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6o1TREb6JMQ",
+          "title": "Mission (Fr. Luc Poirier, FSSP), part 3: The Resurrection: the Hope of the Christian",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/6o1TREb6JMQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-18T22:30:00Z"
+        },
+        {
           "id": "mjatjt3FM-A",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (Saint Joseph, Spouse of the Blessed Virgin Mary)",
           "channel": "Usus Antiquior",
@@ -114,6 +132,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/CFHfWPlcOr4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T18:00:00Z"
+        },
+        {
+          "id": "YOMYw61NmFk",
+          "title": "Sainte messe de la fête de saint Joseph - JUSTUS UT PALMA",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YOMYw61NmFk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T18:00:00Z"
         }
