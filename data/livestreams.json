@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-18T06:58:03.563Z",
+  "lastUpdated": "2026-03-18T07:56:06.680Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RcO4mlYRATw",
-          "title": "FSSPX Antwerpen - 18/03 WOENSDAG na de 4° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/RcO4mlYRATw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "glemhDyJ36c",
           "title": "Wednesday in the 4ᵗʰ Week of Lent",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/glemhDyJ36c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-18T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EcoAUQxLEyI",
