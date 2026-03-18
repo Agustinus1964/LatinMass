@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-18T21:34:33.172Z",
+  "lastUpdated": "2026-03-18T22:28:51.392Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QwP005vXric",
-          "title": "Funeral for Mr. Leo Sowada, March 18, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/QwP005vXric/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "82Gk2FBaaUw",
           "title": "Simple I Vespers - Feast of St. Joseph - 3/18/26",
@@ -82,6 +73,15 @@
           "scheduledTime": null
         },
         {
+          "id": "6o1TREb6JMQ",
+          "title": "Mission (Fr. Luc Poirier, FSSP), part 3: The Resurrection: the Hope of the Christian",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/6o1TREb6JMQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "riJADOkh0u4",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -98,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Lhk9xMNhcVE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6o1TREb6JMQ",
-          "title": "Mission (Fr. Luc Poirier, FSSP), part 3: The Resurrection: the Hope of the Christian",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/6o1TREb6JMQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-18T22:30:00Z"
         },
         {
           "id": "mjatjt3FM-A",
