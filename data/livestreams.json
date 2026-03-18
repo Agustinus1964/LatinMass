@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-18T16:06:04.012Z",
+  "lastUpdated": "2026-03-18T17:35:24.613Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "E2wXVxC1CNU",
+          "title": "Vesper und hl. Messe  - 18. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/E2wXVxC1CNU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "82Gk2FBaaUw",
           "title": "Simple I Vespers - Feast of St. Joseph - 3/18/26",
@@ -39,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/_8ULfQIkbjE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T14:20:00Z"
+        },
+        {
+          "id": "rUjUUQr52Ig",
+          "title": "Solemn High Mass - Feast of St. Joseph - 3/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/rUjUUQr52Ig/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mijdPH4MV60",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/mijdPH4MV60/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BI14UvnxnpM",
           "title": "Wednesday 18th March 2026: Lenten Feria (Mass followed by Lenten Conference)",
