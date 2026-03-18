@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-18T13:04:12.073Z",
+  "lastUpdated": "2026-03-18T14:45:14.902Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,12 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/rDEl7QNE-M4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T11:15:00Z"
+        },
+        {
+          "id": "_8ULfQIkbjE",
+          "title": "Low Mass - Feast of St. Joseph - 3/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/_8ULfQIkbjE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T14:20:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "LLraHMk9YRQ",
+          "title": "Santo Sacrificio de la Misa, Feria, San Cirilo, 18 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/LLraHMk9YRQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BI14UvnxnpM",
           "title": "Wednesday 18th March 2026: Lenten Feria (Mass followed by Lenten Conference)",
@@ -62,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/riJADOkh0u4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-18T18:00:00Z"
+        },
+        {
+          "id": "mjatjt3FM-A",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Saint Joseph, Spouse of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/mjatjt3FM-A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T14:00:00Z"
         }
       ]
     }
