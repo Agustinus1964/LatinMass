@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T09:39:38.730Z",
+  "lastUpdated": "2026-03-19T10:36:49.270Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,11 +64,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gx_cH19YAKE",
-          "title": "Laudes e missa rezada - São José Esposo da B.M.V",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/gx_cH19YAKE/mqdefault_live.jpg",
+          "id": "s4ChbGj-BJA",
+          "title": "Thursday 19th March: Feast of St Joseph",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/s4ChbGj-BJA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ZGC15gpaNuo",
+          "title": "7AM Mass & Divine Office. St. Joseph, Spouse of the Blessed Virgin Mary, Confessor. I. 3-19-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ZGC15gpaNuo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "wwzkw93gXZo",
+          "title": "Thursday 6 AM Traditional Catholic Mass 03/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/wwzkw93gXZo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mjatjt3FM-A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T14:00:00Z"
-        },
-        {
-          "id": "s4ChbGj-BJA",
-          "title": "Thursday 19th March: Feast of St Joseph",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/s4ChbGj-BJA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-19T18:00:00Z"
         },
         {
           "id": "CFHfWPlcOr4",
