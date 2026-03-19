@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-19T20:33:28.222Z",
+  "lastUpdated": "2026-03-19T21:32:28.594Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fD68cv8JizU",
-          "title": "Friday after Fourth Sunday of Lent - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/fD68cv8JizU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZZjskQT_2tI",
           "title": "Solemn II Vespers - Feast of St. Joseph - 3/19/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/ZZjskQT_2tI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T00:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MYS1iggBnyo",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TntSRzxBwws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-20T03:45:00Z"
+        },
+        {
+          "id": "EXVO9IFOxuA",
+          "title": "Friday in the 4ᵗʰ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/EXVO9IFOxuA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-20T07:15:00Z"
         },
         {
           "id": "WB-MPr-OclI",
