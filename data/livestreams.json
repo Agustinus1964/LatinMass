@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-19T21:32:28.594Z",
+  "lastUpdated": "2026-03-19T22:24:54.523Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZZjskQT_2tI",
-          "title": "Solemn II Vespers - Feast of St. Joseph - 3/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZZjskQT_2tI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MYS1iggBnyo",
           "title": "Feast of St. Joseph  | March 19th",
@@ -21,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MYS1iggBnyo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-20T01:00:00Z"
-        },
-        {
-          "id": "TntSRzxBwws",
-          "title": "Compline - 3/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/TntSRzxBwws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T03:45:00Z"
         },
         {
           "id": "EXVO9IFOxuA",
@@ -78,6 +60,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/PvU2p2v7-iI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XZU3DKadvgs",
+          "title": "Missa cantada - São José, esposo da B.M.V.",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/XZU3DKadvgs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
