@@ -1,26 +1,35 @@
 {
-  "lastUpdated": "2026-03-19T10:36:49.270Z",
+  "lastUpdated": "2026-03-19T11:33:09.344Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rDEl7QNE-M4",
-          "title": "Thu. Mar. 19, 2026    -    St. Joseph    -    Spouse of the Blessed Virgin Mary",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/rDEl7QNE-M4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-19T11:15:00Z"
-        },
         {
           "id": "_8ULfQIkbjE",
           "title": "Low Mass - Feast of St. Joseph - 3/19/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/_8ULfQIkbjE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-19T14:20:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rDEl7QNE-M4",
+          "title": "Thu. Mar. 19, 2026    -    St. Joseph    -    Spouse of the Blessed Virgin Mary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/rDEl7QNE-M4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "nmd0-bUHxeA",
+          "title": "Sung Mass - Feast of Saint Joseph",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/nmd0-bUHxeA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rUjUUQr52Ig",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TntSRzxBwws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-20T03:45:00Z"
+        },
+        {
+          "id": "WB-MPr-OclI",
+          "title": "Fri. Mar. 20, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/WB-MPr-OclI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-20T11:15:00Z"
         }
       ]
     },
@@ -78,15 +96,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ZGC15gpaNuo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wwzkw93gXZo",
-          "title": "Thursday 6 AM Traditional Catholic Mass 03/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/wwzkw93gXZo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
