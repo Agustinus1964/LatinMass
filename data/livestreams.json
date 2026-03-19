@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-19T15:11:14.409Z",
+  "lastUpdated": "2026-03-19T16:28:20.650Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rUjUUQr52Ig",
-          "title": "Solemn High Mass - Feast of St. Joseph - 3/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/rUjUUQr52Ig/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1ofU_xsOGKU",
           "title": "FSSPX Antwerpen - 19/03 Priester-Uur-Gebed",
@@ -81,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mjatjt3FM-A",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Saint Joseph, Spouse of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/mjatjt3FM-A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CFHfWPlcOr4",
           "title": "Thursday",
