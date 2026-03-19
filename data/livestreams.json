@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T08:38:18.922Z",
+  "lastUpdated": "2026-03-19T09:39:38.730Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ryeyr45H9EM",
-          "title": "Tuesday 19th March 2026: Saint Joseph",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/ryeyr45H9EM/mqdefault_live.jpg",
+          "id": "gx_cH19YAKE",
+          "title": "Laudes e missa rezada - São José Esposo da B.M.V",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/gx_cH19YAKE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mjatjt3FM-A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-19T14:00:00Z"
+        },
+        {
+          "id": "s4ChbGj-BJA",
+          "title": "Thursday 19th March: Feast of St Joseph",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/s4ChbGj-BJA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-19T18:00:00Z"
         },
         {
           "id": "CFHfWPlcOr4",
