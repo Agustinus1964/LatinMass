@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-19T05:42:29.074Z",
+  "lastUpdated": "2026-03-19T06:54:26.288Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "1YDLSRqmFS0",
+          "title": "Hl. Messe - hl. Josef - 19. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/1YDLSRqmFS0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "j9PtUlm3rHY",
           "title": "Saint Joseph, spouse of the Blessed Virgin Mary, confessor",
