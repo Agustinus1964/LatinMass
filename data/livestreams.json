@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-19T19:44:07.094Z",
+  "lastUpdated": "2026-03-19T20:33:28.222Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "eRnKgIsEfh4",
-          "title": "Vesper, Sakramentsandacht und Amt - hl. Josef - 19. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/eRnKgIsEfh4/mqdefault_live.jpg",
+          "id": "fD68cv8JizU",
+          "title": "Friday after Fourth Sunday of Lent - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/fD68cv8JizU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -72,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PvU2p2v7-iI",
+          "title": "Divine Office & 6PM Sung Mass. St. Joseph, Spouse of the Blessed Virgin Mary, Confessor. I. 3-19-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PvU2p2v7-iI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "CPCZ59Ns0t8",
           "title": "SAINT JOSEPH, SPOUSE OF THE BLESSED VIRGIN MARY, 2026",
