@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-03-20T11:55:25.565Z",
+  "lastUpdated": "2026-03-20T12:54:55.800Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "AwQe3uL3lmY",
-          "title": "Low Mass - Feria of Lent - 3/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/AwQe3uL3lmY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WB-MPr-OclI",
-          "title": "Fri. Mar. 20, 2026    -    Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/WB-MPr-OclI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6yRELGA_lYg",
+          "id": "UWfmbwAabsw",
           "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 2",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/6yRELGA_lYg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T11:45:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/UWfmbwAabsw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8dqQOYs7nuA",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-_QIXBr4k9k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-21T11:15:00Z"
+        },
+        {
+          "id": "vjJU-n60GOU",
+          "title": "Sat. Mar. 21, 2026    -    Ferial Day of Lent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/vjJU-n60GOU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-21T12:00:00Z"
         }
       ]
     },
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4_cVz_sqVqM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-20T18:00:00Z"
+        },
+        {
+          "id": "j_fdZt1qwT0",
+          "title": "Messe de Requiem du 30ème jour pour Quentin Deranque - REQUIEM ÆTERNAM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/j_fdZt1qwT0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-20T19:30:00Z"
         },
         {
           "id": "x-g2xuTs400",
