@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T20:58:27.114Z",
+  "lastUpdated": "2026-03-20T21:36:10.841Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/G1yjBwZp9Ac/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "j_fdZt1qwT0",
-          "title": "Messe de Requiem du 30ème jour pour Quentin Deranque - REQUIEM ÆTERNAM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/j_fdZt1qwT0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
