@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-20T20:28:11.632Z",
+  "lastUpdated": "2026-03-20T20:58:27.114Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9LrE87Q87kI",
+          "title": "Saturday after Fourth Sunday of Lent - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/9LrE87Q87kI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "8dqQOYs7nuA",
           "title": "Stations of the Cross - 3/20/26",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UAgINT5sQZ4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-21T03:45:00Z"
+        },
+        {
+          "id": "ymgRRCm4mQ4",
+          "title": "Saturday in the 4ᵗʰ Week of Lent",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ymgRRCm4mQ4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-21T07:30:00Z"
         },
         {
           "id": "-_QIXBr4k9k",
@@ -46,11 +64,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "G1yjBwZp9Ac",
+          "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/G1yjBwZp9Ac/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "j_fdZt1qwT0",
           "title": "Messe de Requiem du 30ème jour pour Quentin Deranque - REQUIEM ÆTERNAM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/j_fdZt1qwT0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "PT1XMc30juY",
+          "title": "Via sacra e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/PT1XMc30juY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
