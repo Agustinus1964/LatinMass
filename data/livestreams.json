@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T23:25:53.764Z",
+  "lastUpdated": "2026-03-20T23:51:11.514Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "-aKQVcl4Rnc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/-aKQVcl4Rnc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "G1yjBwZp9Ac",
           "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 20, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/G1yjBwZp9Ac/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wNEi7lpDbek",
-          "title": "STATIONS OF THE CROSS SERMON SERIES, PART V, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/wNEi7lpDbek/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/cWCwUz_nAdw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "-aKQVcl4Rnc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/-aKQVcl4Rnc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T23:28:00Z"
         },
         {
           "id": "QKBIFGTFm0g",
