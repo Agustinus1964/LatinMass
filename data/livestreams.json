@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-03-20T10:34:42.757Z",
+  "lastUpdated": "2026-03-20T11:29:05.516Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "AwQe3uL3lmY",
+          "title": "Low Mass - Feria of Lent - 3/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/AwQe3uL3lmY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WB-MPr-OclI",
           "title": "Fri. Mar. 20, 2026    -    Ferial Day of Lent",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/WB-MPr-OclI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6yRELGA_lYg",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UAgINT5sQZ4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-21T03:45:00Z"
+        },
+        {
+          "id": "-_QIXBr4k9k",
+          "title": "Low Mass - Feria of Lent - 3/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-_QIXBr4k9k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-21T11:15:00Z"
         }
       ]
     },
