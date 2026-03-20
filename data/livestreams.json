@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T19:35:18.465Z",
+  "lastUpdated": "2026-03-20T20:28:11.632Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NEl-EygLCD8",
-          "title": "Friday 20th March 2026: Lenten Feria (Mass followed by Stations of the Cross)",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/NEl-EygLCD8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j_fdZt1qwT0",
           "title": "Messe de Requiem du 30ème jour pour Quentin Deranque - REQUIEM ÆTERNAM",
