@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-20T05:33:16.740Z",
+  "lastUpdated": "2026-03-20T06:50:48.399Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ATq2Pq5VzMc",
+          "title": "Hl. Messe - 20. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ATq2Pq5VzMc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "EXVO9IFOxuA",
           "title": "Friday in the 4ᵗʰ Week of Lent",
