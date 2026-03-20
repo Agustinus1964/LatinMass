@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-19T23:53:04.517Z",
+  "lastUpdated": "2026-03-20T01:52:27.136Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/MYS1iggBnyo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T01:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EXVO9IFOxuA",
@@ -39,39 +39,12 @@
           "thumbnail": "https://i.ytimg.com/vi/6yRELGA_lYg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-20T11:45:00Z"
-        },
-        {
-          "id": "AwQe3uL3lmY",
-          "title": "Low Mass - Feria of Lent - 3/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/AwQe3uL3lmY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T14:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CPCZ59Ns0t8",
-          "title": "SAINT JOSEPH, SPOUSE OF THE BLESSED VIRGIN MARY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/CPCZ59Ns0t8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0j7HqlzGfig",
-          "title": "Feast of St. Joseph / Fête de St Joseph",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/0j7HqlzGfig/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "NEl-EygLCD8",
           "title": "Friday 20th March 2026: Lenten Feria (Mass followed by Stations of the Cross)",
