@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T18:43:05.178Z",
+  "lastUpdated": "2026-03-20T19:35:18.465Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "4_cVz_sqVqM",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/4_cVz_sqVqM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "j_fdZt1qwT0",
           "title": "Messe de Requiem du 30ème jour pour Quentin Deranque - REQUIEM ÆTERNAM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/j_fdZt1qwT0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T19:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "x-g2xuTs400",
