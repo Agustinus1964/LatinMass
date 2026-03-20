@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-20T16:39:21.414Z",
+  "lastUpdated": "2026-03-20T17:33:21.571Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "wU9rekCQgwc",
-          "title": "FSSPX Antwerpen - 20/03 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "IpjiNWTsmA0",
+          "title": "FSSPX Antwerpen - 20/03 VRIJDAG na de 4° ZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/wU9rekCQgwc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/IpjiNWTsmA0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KUF6_ruravA",
+          "title": "Rosenkranz und hl. Messe - 20. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/KUF6_ruravA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/iT4moevlRfs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T16:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8dqQOYs7nuA",
