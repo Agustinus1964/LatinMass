@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T22:25:12.879Z",
+  "lastUpdated": "2026-03-20T22:55:03.221Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/8dqQOYs7nuA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T01:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UAgINT5sQZ4",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "x-g2xuTs400",
+          "title": "Live Stream Holy Mass from Cleveland USA (Friday of the Fourth Week in Lent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/x-g2xuTs400/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "G1yjBwZp9Ac",
           "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 20, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/wNEi7lpDbek/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "x-g2xuTs400",
-          "title": "Live Stream Holy Mass from Cleveland USA (Friday of the Fourth Week in Lent)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/x-g2xuTs400/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-20T22:30:00Z"
         },
         {
           "id": "QKBIFGTFm0g",
