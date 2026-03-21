@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T14:23:34.374Z",
+  "lastUpdated": "2026-03-21T14:51:47.407Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wPe2aE93xYs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T14:00:00Z"
+        },
+        {
+          "id": "_gIVeW9ddiE",
+          "title": "Passion Sunday, March 22, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/_gIVeW9ddiE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T14:45:29Z"
         }
       ]
     },
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ICJGza03kQU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "WkhhFYa1x6w",
+          "title": "Sainte messe du dimanche de la Passion - JUDICA ME",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WkhhFYa1x6w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T10:00:00Z"
         },
         {
           "id": "cmmVtwKitxs",
