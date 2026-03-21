@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-21T08:28:42.500Z",
+  "lastUpdated": "2026-03-21T08:58:41.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ymgRRCm4mQ4",
-          "title": "Saturday in the 4ᵗʰ Week of Lent",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ymgRRCm4mQ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T07:30:00Z"
-        },
         {
           "id": "-_QIXBr4k9k",
           "title": "Low Mass - Feria of Lent - 3/21/26",
@@ -60,6 +51,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/QKBIFGTFm0g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "PFlWTN6LEB0",
+          "title": "Prima e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/PFlWTN6LEB0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
