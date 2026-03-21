@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-21T12:41:14.889Z",
+  "lastUpdated": "2026-03-21T13:39:55.027Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vjJU-n60GOU",
-          "title": "Sat. Mar. 21, 2026    -    Ferial Day of Lent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/vjJU-n60GOU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Yrd3qVNL92g",
           "title": "Rosary - 3/21/26",
@@ -46,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "PgaUrY1E1NU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Benedict, Abbot)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PgaUrY1E1NU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "M4WjSplVPwY",
           "title": "9AM Funeral Mass for Sonia Pflieger. Saturday, March 21, 2026",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -53,15 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/M4WjSplVPwY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "PgaUrY1E1NU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Benedict, Abbot)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PgaUrY1E1NU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T13:00:00Z"
         },
         {
           "id": "cmmVtwKitxs",
