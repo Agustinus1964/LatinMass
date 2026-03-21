@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-21T09:38:48.754Z",
+  "lastUpdated": "2026-03-21T10:22:55.797Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "obC_ztqGZq8",
-          "title": "FSSPX Antwerpen - 21/03 ZATERDAG na de 4° ZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/obC_ztqGZq8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-_QIXBr4k9k",
           "title": "Low Mass - Feria of Lent - 3/21/26",
@@ -55,20 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sMObYOYLQGo",
-          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les Croisades (7/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/sMObYOYLQGo/mqdefault_live.jpg",
+          "id": "G7odT6CEB6I",
+          "title": "Saturday 21st March 2026: Saint Benedict",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/G7odT6CEB6I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "PFlWTN6LEB0",
-          "title": "Prima e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/PFlWTN6LEB0/mqdefault_live.jpg",
+          "id": "_XSeMmJ4jT0",
+          "title": "Saturday 6 AM Traditional Catholic Mass 03/21/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/_XSeMmJ4jT0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,17 +69,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/5Kh2sXcq6rA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "G7odT6CEB6I",
-          "title": "Saturday 21st March 2026: Saint Benedict",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/G7odT6CEB6I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T10:30:00Z"
+          "id": "sMObYOYLQGo",
+          "title": "Les Croisades — L'Histoire de l'Eglise — Catéchisme de persévérance (7/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/sMObYOYLQGo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PgaUrY1E1NU",
