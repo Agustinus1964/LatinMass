@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T22:49:33.174Z",
+  "lastUpdated": "2026-03-21T23:21:09.671Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/Yrd3qVNL92g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0SmjwUgB0f4",
+          "title": "PASSION SUNDAY - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/0SmjwUgB0f4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Rx1GgjLmAXw",
