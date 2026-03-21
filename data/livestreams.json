@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-21T23:21:09.671Z",
+  "lastUpdated": "2026-03-21T23:46:29.297Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Yrd3qVNL92g",
-          "title": "Rosary - 3/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Yrd3qVNL92g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0SmjwUgB0f4",
           "title": "PASSION SUNDAY - 2026",
@@ -21,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/0SmjwUgB0f4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Rx1GgjLmAXw",
-          "title": "Compline - 3/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Rx1GgjLmAXw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T00:45:00Z"
         },
         {
           "id": "cUPtbYTsmJQ",
@@ -93,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/r_3WUrteelQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T16:50:00Z"
+        },
+        {
+          "id": "VYkkcme-8AQ",
+          "title": "Simple II Vespers - Passion Sunday - 3/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/VYkkcme-8AQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T21:00:00Z"
         }
       ]
     },
