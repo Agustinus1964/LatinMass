@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T19:21:12.297Z",
+  "lastUpdated": "2026-03-21T19:44:25.888Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Rx1GgjLmAXw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T00:45:00Z"
+        },
+        {
+          "id": "pYChxJXT99Q",
+          "title": "Passion Sunday",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/pYChxJXT99Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T11:00:00Z"
         },
         {
           "id": "gVo7rPs6yR0",
