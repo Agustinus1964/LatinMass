@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T13:39:55.027Z",
+  "lastUpdated": "2026-03-21T14:23:34.374Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/gVo7rPs6yR0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T11:20:00Z"
+        },
+        {
+          "id": "4VlH_cmvbHI",
+          "title": "Solemn High Mass - Passion Sunday - 3/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/4VlH_cmvbHI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T14:00:00Z"
+        },
+        {
+          "id": "wPe2aE93xYs",
+          "title": "Sun. Mar. 22, 2026    -    Passion Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/wPe2aE93xYs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T14:00:00Z"
         }
       ]
     },
@@ -37,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PgaUrY1E1NU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Benedict, Abbot)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PgaUrY1E1NU/mqdefault_live.jpg",
+          "id": "yKg0faI11lg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/yKg0faI11lg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,6 +69,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/M4WjSplVPwY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ICJGza03kQU",
+          "title": "Santo Sacrificio de la Misa San. venito  21  de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/ICJGza03kQU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
