@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-20T23:51:11.514Z",
+  "lastUpdated": "2026-03-21T01:46:48.827Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UAgINT5sQZ4",
-          "title": "Compline - 3/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/UAgINT5sQZ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T03:45:00Z"
-        },
         {
           "id": "ymgRRCm4mQ4",
           "title": "Saturday in the 4ᵗʰ Week of Lent",
@@ -48,39 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Yrd3qVNL92g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-21T23:00:00Z"
+        },
+        {
+          "id": "Rx1GgjLmAXw",
+          "title": "Compline - 3/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Rx1GgjLmAXw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-aKQVcl4Rnc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/-aKQVcl4Rnc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "G1yjBwZp9Ac",
-          "title": "Divine Office, 6PM Mass, Holy Hour. Feria of Lent. III. Friday, March 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/G1yjBwZp9Ac/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cWCwUz_nAdw",
-          "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 03/20/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/cWCwUz_nAdw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QKBIFGTFm0g",
           "title": "Sainte messe en semaine",
