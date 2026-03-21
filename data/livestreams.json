@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T11:20:06.845Z",
+  "lastUpdated": "2026-03-21T11:44:35.661Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "G7odT6CEB6I",
-          "title": "Saturday 21st March 2026: Saint Benedict",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/G7odT6CEB6I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "IKQn52kv0m4",
           "title": "Saturday 7 AM Catholic Mass for 03/21/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/IKQn52kv0m4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "R16YjUmmZQE",
+          "title": "Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/R16YjUmmZQE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
