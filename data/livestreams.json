@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T07:50:47.671Z",
+  "lastUpdated": "2026-03-21T08:28:42.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/QKBIFGTFm0g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5Kh2sXcq6rA",
