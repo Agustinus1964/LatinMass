@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T15:22:20.599Z",
+  "lastUpdated": "2026-03-21T15:47:39.878Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/e_1bI7jLs4I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T14:00:00Z"
+        },
+        {
+          "id": "tlAXvhBJw1I",
+          "title": "PASSION SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/tlAXvhBJw1I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T15:30:00Z"
+        },
+        {
+          "id": "yaZGzldiNkU",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/yaZGzldiNkU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T15:45:00Z"
         }
       ]
     }
