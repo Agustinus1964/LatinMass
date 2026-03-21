@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T14:51:47.407Z",
+  "lastUpdated": "2026-03-21T15:22:20.599Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,33 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "yKg0faI11lg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/yKg0faI11lg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "M4WjSplVPwY",
-          "title": "9AM Funeral Mass for Sonia Pflieger. Saturday, March 21, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/M4WjSplVPwY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ICJGza03kQU",
-          "title": "Santo Sacrificio de la Misa San. venito  21  de marzo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/ICJGza03kQU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "WkhhFYa1x6w",
           "title": "Sainte messe du dimanche de la Passion - JUDICA ME",
           "channel": "Ite Missa Est",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/cmmVtwKitxs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T10:30:00Z"
+        },
+        {
+          "id": "cPO5ed-AgMM",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The First Sunday of Passiontide)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/cPO5ed-AgMM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T12:00:00Z"
+        },
+        {
+          "id": "e_1bI7jLs4I",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The First Sunday of Passiontide)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/e_1bI7jLs4I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T14:00:00Z"
         }
       ]
     }
