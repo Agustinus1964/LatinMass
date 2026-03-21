@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T16:25:39.483Z",
+  "lastUpdated": "2026-03-21T16:53:46.278Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_gIVeW9ddiE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T14:45:29Z"
+        },
+        {
+          "id": "r_3WUrteelQ",
+          "title": "Vesper - 1. Passionssonntag - 22. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/r_3WUrteelQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T16:50:00Z"
         }
       ]
     },
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yaZGzldiNkU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T15:45:00Z"
+        },
+        {
+          "id": "5GD6PHU1338",
+          "title": "Secondes vêpres du dimanche de la Passion - ABRAHAM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5GD6PHU1338/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T16:45:00Z"
         }
       ]
     }
