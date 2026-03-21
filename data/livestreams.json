@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T01:46:48.827Z",
+  "lastUpdated": "2026-03-21T04:02:51.332Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/G7odT6CEB6I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-21T10:30:00Z"
+        },
+        {
+          "id": "PgaUrY1E1NU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Benedict, Abbot)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PgaUrY1E1NU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-21T13:00:00Z"
         }
       ]
     }
