@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T10:22:55.797Z",
+  "lastUpdated": "2026-03-21T10:51:32.598Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "5Kh2sXcq6rA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5Kh2sXcq6rA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "sMObYOYLQGo",
           "title": "Les Croisades — L'Histoire de l'Eglise — Catéchisme de persévérance (7/10)",
           "channel": "Ite Missa Est",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PgaUrY1E1NU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-21T13:00:00Z"
+        },
+        {
+          "id": "cmmVtwKitxs",
+          "title": "Sunday 22nd March 2026: Passion Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/cmmVtwKitxs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T10:30:00Z"
         }
       ]
     }
