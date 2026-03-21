@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-21T08:58:41.326Z",
+  "lastUpdated": "2026-03-21T09:38:48.754Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "obC_ztqGZq8",
+          "title": "FSSPX Antwerpen - 21/03 ZATERDAG na de 4° ZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/obC_ztqGZq8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-_QIXBr4k9k",
           "title": "Low Mass - Feria of Lent - 3/21/26",
@@ -46,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "QKBIFGTFm0g",
-          "title": "Sainte messe en semaine",
+          "id": "sMObYOYLQGo",
+          "title": "Catéchisme de persévérance — L'Histoire de l'Eglise — Les Croisades (7/10)",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/QKBIFGTFm0g/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sMObYOYLQGo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
