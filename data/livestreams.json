@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-21T10:51:32.598Z",
+  "lastUpdated": "2026-03-21T11:20:06.845Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/-_QIXBr4k9k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-21T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vjJU-n60GOU",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Rx1GgjLmAXw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T00:45:00Z"
+        },
+        {
+          "id": "gVo7rPs6yR0",
+          "title": "Low Mass - Passion Sunday - 3/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/gVo7rPs6yR0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T11:20:00Z"
         }
       ]
     },
@@ -55,20 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "_XSeMmJ4jT0",
-          "title": "Saturday 6 AM Traditional Catholic Mass 03/21/2026",
+          "id": "IKQn52kv0m4",
+          "title": "Saturday 7 AM Catholic Mass for 03/21/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/_XSeMmJ4jT0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sMObYOYLQGo",
-          "title": "Les Croisades — L'Histoire de l'Eglise — Catéchisme de persévérance (7/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/sMObYOYLQGo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/IKQn52kv0m4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
