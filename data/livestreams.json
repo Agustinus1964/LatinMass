@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T14:24:42.365Z",
+  "lastUpdated": "2026-03-22T14:52:39.835Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": null
         },
         {
+          "id": "_gIVeW9ddiE",
+          "title": "Passion Sunday, March 22, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/_gIVeW9ddiE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "wPe2aE93xYs",
           "title": "Sun. Mar. 22, 2026    -    Passion Sunday",
           "channel": "Transfiguration Church SSPX",
@@ -48,15 +57,6 @@
           "thumbnail": "https://i.ytimg.com/vi/jHTImP7Xir8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_gIVeW9ddiE",
-          "title": "Passion Sunday, March 22, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/_gIVeW9ddiE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T14:45:29Z"
         },
         {
           "id": "5eofSiFqUUo",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/franaFCuivE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "1Ik9m_zlo0s",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/1Ik9m_zlo0s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T14:58:00Z"
         },
         {
           "id": "tlAXvhBJw1I",
