@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-22T15:22:42.896Z",
+  "lastUpdated": "2026-03-22T15:48:02.057Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4VlH_cmvbHI",
-          "title": "Solemn High Mass - Passion Sunday - 3/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4VlH_cmvbHI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_gIVeW9ddiE",
           "title": "Passion Sunday, March 22, 2026",
@@ -82,15 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "e_1bI7jLs4I",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The First Sunday of Passiontide)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/e_1bI7jLs4I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "1Ik9m_zlo0s",
           "title": "Mass",
           "channel": "ICKSP",
@@ -105,6 +87,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/WDo3A5lBIfE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tlAXvhBJw1I",
+          "title": "PASSION SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/tlAXvhBJw1I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -136,22 +127,13 @@
           "scheduledTime": null
         },
         {
-          "id": "tlAXvhBJw1I",
-          "title": "PASSION SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/tlAXvhBJw1I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T15:30:00Z"
-        },
-        {
           "id": "yaZGzldiNkU",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/yaZGzldiNkU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5GD6PHU1338",
