@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-22T16:26:45.978Z",
+  "lastUpdated": "2026-03-22T16:54:59.369Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "_gIVeW9ddiE",
-          "title": "Passion Sunday, March 22, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/_gIVeW9ddiE/mqdefault_live.jpg",
+          "id": "5eofSiFqUUo",
+          "title": "Passion Sunday | March 22nd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/5eofSiFqUUo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -23,13 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "5eofSiFqUUo",
-          "title": "Passion Sunday | March 22nd",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/5eofSiFqUUo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T16:45:00Z"
+          "id": "r_3WUrteelQ",
+          "title": "Vesper - 1. Passionssonntag - 22. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/r_3WUrteelQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VYkkcme-8AQ",
@@ -73,29 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1Ik9m_zlo0s",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/1Ik9m_zlo0s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tlAXvhBJw1I",
           "title": "PASSION SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/tlAXvhBJw1I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BxfPs0O1M-U",
-          "title": "Sunday 11 AM Sung Mass 2026-03-22",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/BxfPs0O1M-U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,11 +91,11 @@
           "scheduledTime": null
         },
         {
-          "id": "yaZGzldiNkU",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/yaZGzldiNkU/mqdefault_live.jpg",
+          "id": "C4T4aYLL0ZU",
+          "title": "Vespers and Benediction — Passion Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/C4T4aYLL0ZU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,17 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/5GD6PHU1338/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T16:45:00Z"
-        },
-        {
-          "id": "C4T4aYLL0ZU",
-          "title": "Vespers and Benediction — Passion Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/C4T4aYLL0ZU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Fc6Kcqz5Jgw",
