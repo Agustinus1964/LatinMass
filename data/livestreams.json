@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-03-22T12:43:22.647Z",
+  "lastUpdated": "2026-03-22T13:41:11.300Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "pYChxJXT99Q",
-          "title": "Passion Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/pYChxJXT99Q/mqdefault_live.jpg",
+          "id": "kHV_bzKPyLU",
+          "title": "Passion Sunday-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/kHV_bzKPyLU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xCpKE5Hutmw",
+          "title": "Passion Sunday in Lent",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/xCpKE5Hutmw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "u8uFqpCSu00",
+          "title": "Kreuzweg - 1. Passionssonntag - 22. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/u8uFqpCSu00/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,29 +100,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cPO5ed-AgMM",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The First Sunday of Passiontide)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/cPO5ed-AgMM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MbbbdT2DE2A",
-          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Passion Sunday. I. March 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/MbbbdT2DE2A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "H6FIlXa9ThI",
-          "title": "Sunday 8:30 AM Catholic Mass for 03/22/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/H6FIlXa9ThI/mqdefault_live.jpg",
+          "id": "78GwUJvcqI0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/78GwUJvcqI0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
