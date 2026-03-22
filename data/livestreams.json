@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-22T17:50:09.166Z",
+  "lastUpdated": "2026-03-22T18:32:37.503Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5eofSiFqUUo",
-          "title": "Passion Sunday | March 22nd",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/5eofSiFqUUo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VYkkcme-8AQ",
           "title": "Simple II Vespers - Passion Sunday - 3/22/26",
@@ -73,31 +64,31 @@
           "scheduledTime": null
         },
         {
-          "id": "franaFCuivE",
-          "title": "Santa Misa Dominical. 22  de marzo 2026.",
+          "id": "ODsFPxKMUsM",
+          "title": "Santa Misa Dominical. 22  de marzo 2026. 12:30",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/franaFCuivE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ODsFPxKMUsM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "5D9pG2MSABE",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5D9pG2MSABE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Fc6Kcqz5Jgw",
-          "title": "The Price of Sin Made Manifest",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Fc6Kcqz5Jgw/mqdefault.jpg",
+          "id": "cvGa_wRnGu8",
+          "title": "Monday 23rd March 2026: Passion Monday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/cvGa_wRnGu8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-22T18:00:00Z"
+          "scheduledTime": "2026-03-23T18:00:00Z"
+        },
+        {
+          "id": "8biTuhcb8oA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/8biTuhcb8oA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T18:00:00Z"
         }
       ]
     }
