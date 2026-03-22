@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T17:22:36.855Z",
+  "lastUpdated": "2026-03-22T17:50:09.166Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,24 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "lvZSysa7Exo",
+          "title": "Legion of Mary - Solemn Act of Consecration & Renewal of Commitment to Our Blessed Mother.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/lvZSysa7Exo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "nyroujsWW7Q",
+          "title": "Sunday 1:30 PM Catholic Mass 03/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/nyroujsWW7Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "franaFCuivE",
           "title": "Santa Misa Dominical. 22  de marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -73,29 +91,11 @@
           "scheduledTime": null
         },
         {
-          "id": "5GD6PHU1338",
-          "title": "Secondes vêpres du dimanche de la Passion - ABRAHAM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5GD6PHU1338/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Fc6Kcqz5Jgw",
           "title": "The Price of Sin Made Manifest",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/Fc6Kcqz5Jgw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T18:00:00Z"
-        },
-        {
-          "id": "lvZSysa7Exo",
-          "title": "Legion of Mary - Solemn Act of Consecration & Renewal of Commitment to Our Blessed Mother.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/lvZSysa7Exo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T18:00:00Z"
         }
