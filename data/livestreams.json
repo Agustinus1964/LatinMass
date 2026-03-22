@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T07:36:05.797Z",
+  "lastUpdated": "2026-03-22T08:30:32.207Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "AdYuJnDLrJQ",
+          "title": "Amt - 1. Passionssonntag - 22. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/AdYuJnDLrJQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "cUPtbYTsmJQ",
           "title": "I Domenica di Passione - Santa Messa cantata - FSSPX Italia",
@@ -59,15 +68,6 @@
           "scheduledTime": "2026-03-22T16:45:00Z"
         },
         {
-          "id": "r_3WUrteelQ",
-          "title": "Vesper - 1. Passionssonntag - 22. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/r_3WUrteelQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T16:50:00Z"
-        },
-        {
           "id": "VYkkcme-8AQ",
           "title": "Simple II Vespers - Passion Sunday - 3/22/26",
           "channel": "SSPX Seminary - USA",
@@ -96,8 +96,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Z0M1T3dyGXM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pLWtX0C0uW8",
