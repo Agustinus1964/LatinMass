@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T20:51:16.361Z",
+  "lastUpdated": "2026-03-22T21:22:37.412Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/VYkkcme-8AQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BtrBKICYnzs",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lCPNIJ18ieY",
-          "title": "Primeiro Domingo da Paixão - Missa Rezada e Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/lCPNIJ18ieY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cvGa_wRnGu8",
           "title": "Monday 23rd March 2026: Passion Monday",
