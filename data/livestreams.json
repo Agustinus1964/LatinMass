@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-21T23:46:29.297Z",
+  "lastUpdated": "2026-03-22T01:58:13.191Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "0SmjwUgB0f4",
-          "title": "PASSION SUNDAY - 2026",
+          "id": "q2WwqRHvx7k",
+          "title": "2026 Acies Ceremony - Corpus Christi, Tynong",
           "channel": "SSPX ANZ-District",
           "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/0SmjwUgB0f4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/q2WwqRHvx7k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_jwqj5Jr9bw",
+          "title": "Sung Mass - Passion Sunday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/_jwqj5Jr9bw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -84,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VYkkcme-8AQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T21:00:00Z"
+        },
+        {
+          "id": "BtrBKICYnzs",
+          "title": "Compline - 3/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BtrBKICYnzs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T00:45:00Z"
         }
       ]
     },
