@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T14:52:39.835Z",
+  "lastUpdated": "2026-03-22T15:22:42.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,38 +14,11 @@
           "scheduledTime": null
         },
         {
-          "id": "kHV_bzKPyLU",
-          "title": "Passion Sunday-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/kHV_bzKPyLU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xCpKE5Hutmw",
-          "title": "Passion Sunday in Lent",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/xCpKE5Hutmw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "_gIVeW9ddiE",
           "title": "Passion Sunday, March 22, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/_gIVeW9ddiE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wPe2aE93xYs",
-          "title": "Sun. Mar. 22, 2026    -    Passion Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/wPe2aE93xYs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,11 +91,29 @@
           "scheduledTime": null
         },
         {
+          "id": "1Ik9m_zlo0s",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/1Ik9m_zlo0s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "WDo3A5lBIfE",
           "title": "10:30AM Sung Mass. Passion Sunday. I. March 22, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/WDo3A5lBIfE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BxfPs0O1M-U",
+          "title": "Sunday 11 AM Sung Mass 2026-03-22",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/BxfPs0O1M-U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,15 +134,6 @@
           "thumbnail": "https://i.ytimg.com/vi/franaFCuivE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "1Ik9m_zlo0s",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/1Ik9m_zlo0s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T14:58:00Z"
         },
         {
           "id": "tlAXvhBJw1I",
