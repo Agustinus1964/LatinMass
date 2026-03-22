@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-22T11:45:09.780Z",
+  "lastUpdated": "2026-03-22T12:43:22.647Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gVo7rPs6yR0",
-          "title": "Low Mass - Passion Sunday - 3/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/gVo7rPs6yR0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pYChxJXT99Q",
           "title": "Passion Sunday",
@@ -91,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cmmVtwKitxs",
-          "title": "Sunday 22nd March 2026: Passion Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/cmmVtwKitxs/mqdefault_live.jpg",
+          "id": "cPO5ed-AgMM",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The First Sunday of Passiontide)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/cPO5ed-AgMM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,49 +100,22 @@
           "scheduledTime": null
         },
         {
-          "id": "5pD8XPWZeL4",
-          "title": "Sunday 7 AM Catholic Mass for 03/22/2026",
+          "id": "H6FIlXa9ThI",
+          "title": "Sunday 8:30 AM Catholic Mass for 03/22/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/5pD8XPWZeL4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/H6FIlXa9ThI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "tspKkdTHzFk",
-          "title": "11am — Passion Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tspKkdTHzFk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WkhhFYa1x6w",
-          "title": "Sainte messe du dimanche de la Passion - JUDICA ME",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WkhhFYa1x6w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RQBq-zbKbBI",
-          "title": "1 Domingo da Paixão - Missa Rezada",
+          "id": "tAmuqyU9CIc",
+          "title": "Primeiro Domingo da Paixão- Missa Cantada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/RQBq-zbKbBI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/tAmuqyU9CIc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "cPO5ed-AgMM",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The First Sunday of Passiontide)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/cPO5ed-AgMM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T12:00:00Z"
         },
         {
           "id": "e_1bI7jLs4I",
