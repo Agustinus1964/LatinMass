@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T16:54:59.369Z",
+  "lastUpdated": "2026-03-22T17:22:36.855Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,24 +10,6 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/5eofSiFqUUo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jHTImP7Xir8",
-          "title": "FSSPX Antwerpen - 22/03 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/jHTImP7Xir8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "r_3WUrteelQ",
-          "title": "Vesper - 1. Passionssonntag - 22. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/r_3WUrteelQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tlAXvhBJw1I",
-          "title": "PASSION SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/tlAXvhBJw1I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "franaFCuivE",
           "title": "Santa Misa Dominical. 22  de marzo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -91,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "C4T4aYLL0ZU",
-          "title": "Vespers and Benediction — Passion Sunday",
+          "id": "5D9pG2MSABE",
+          "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/C4T4aYLL0ZU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/5D9pG2MSABE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,6 +87,15 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/Fc6Kcqz5Jgw/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T18:00:00Z"
+        },
+        {
+          "id": "lvZSysa7Exo",
+          "title": "Legion of Mary - Solemn Act of Consecration & Renewal of Commitment to Our Blessed Mother.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/lvZSysa7Exo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T18:00:00Z"
         }
