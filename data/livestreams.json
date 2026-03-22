@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T11:20:47.309Z",
+  "lastUpdated": "2026-03-22T11:45:09.780Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gVo7rPs6yR0",
+          "title": "Low Mass - Passion Sunday - 3/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/gVo7rPs6yR0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pYChxJXT99Q",
           "title": "Passion Sunday",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pYChxJXT99Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "gVo7rPs6yR0",
-          "title": "Low Mass - Passion Sunday - 3/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/gVo7rPs6yR0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T11:20:00Z"
         },
         {
           "id": "4VlH_cmvbHI",
