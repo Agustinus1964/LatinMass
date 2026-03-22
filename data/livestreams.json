@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T10:26:46.783Z",
+  "lastUpdated": "2026-03-22T10:53:51.153Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -100,6 +100,24 @@
           "scheduledTime": null
         },
         {
+          "id": "MbbbdT2DE2A",
+          "title": "7AM Low Mass, Rosary, 8:30AM Low Mass. Passion Sunday. I. March 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/MbbbdT2DE2A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tspKkdTHzFk",
+          "title": "11am — Passion Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tspKkdTHzFk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "WkhhFYa1x6w",
           "title": "Sainte messe du dimanche de la Passion - JUDICA ME",
           "channel": "Ite Missa Est",
@@ -116,15 +134,6 @@
           "thumbnail": "https://i.ytimg.com/vi/RQBq-zbKbBI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "tspKkdTHzFk",
-          "title": "11am — Passion Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tspKkdTHzFk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T11:00:00Z"
         },
         {
           "id": "cPO5ed-AgMM",
