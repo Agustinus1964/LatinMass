@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T15:48:02.057Z",
+  "lastUpdated": "2026-03-22T16:26:45.978Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "WDo3A5lBIfE",
-          "title": "10:30AM Sung Mass. Passion Sunday. I. March 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/WDo3A5lBIfE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tlAXvhBJw1I",
           "title": "PASSION SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -105,15 +96,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/BxfPs0O1M-U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "djkt7uTyM-s",
-          "title": "Passion Sunday / Dimanche de la Passion",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/djkt7uTyM-s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
