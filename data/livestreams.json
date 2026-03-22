@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T13:41:11.300Z",
+  "lastUpdated": "2026-03-22T14:24:42.365Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "4VlH_cmvbHI",
+          "title": "Solemn High Mass - Passion Sunday - 3/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/4VlH_cmvbHI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "kHV_bzKPyLU",
           "title": "Passion Sunday-The Immaculata",
@@ -23,22 +32,22 @@
           "scheduledTime": null
         },
         {
-          "id": "u8uFqpCSu00",
-          "title": "Kreuzweg - 1. Passionssonntag - 22. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/u8uFqpCSu00/mqdefault_live.jpg",
+          "id": "wPe2aE93xYs",
+          "title": "Sun. Mar. 22, 2026    -    Passion Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/wPe2aE93xYs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "4VlH_cmvbHI",
-          "title": "Solemn High Mass - Passion Sunday - 3/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4VlH_cmvbHI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T14:00:00Z"
+          "id": "jHTImP7Xir8",
+          "title": "FSSPX Antwerpen - 22/03 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/jHTImP7Xir8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_gIVeW9ddiE",
@@ -100,31 +109,40 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "78GwUJvcqI0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/78GwUJvcqI0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tAmuqyU9CIc",
-          "title": "Primeiro Domingo da Paixão- Missa Cantada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/tAmuqyU9CIc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "e_1bI7jLs4I",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The First Sunday of Passiontide)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/e_1bI7jLs4I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "WDo3A5lBIfE",
+          "title": "10:30AM Sung Mass. Passion Sunday. I. March 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WDo3A5lBIfE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "djkt7uTyM-s",
+          "title": "Passion Sunday / Dimanche de la Passion",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/djkt7uTyM-s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "franaFCuivE",
+          "title": "Santa Misa Dominical. 22  de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/franaFCuivE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tlAXvhBJw1I",
