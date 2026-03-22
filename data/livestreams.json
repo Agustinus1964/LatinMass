@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-03-22T10:53:51.153Z",
+  "lastUpdated": "2026-03-22T11:20:47.309Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "g--vwJKaTU0",
-          "title": "FSSPX Antwerpen - 22/03 PASSIEZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/g--vwJKaTU0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cUPtbYTsmJQ",
-          "title": "I Domenica di Passione - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/cUPtbYTsmJQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pYChxJXT99Q",
           "title": "Passion Sunday",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/pYChxJXT99Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gVo7rPs6yR0",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/BtrBKICYnzs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-23T00:45:00Z"
+        },
+        {
+          "id": "pIfCuIGWsKA",
+          "title": "Low Mass - Feria of Lent - 3/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/pIfCuIGWsKA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T11:15:00Z"
+        },
+        {
+          "id": "dO8LpSpYOt4",
+          "title": "Mon. Mar. 23, 2026    -    Ferial Day in Passiontide",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/dO8LpSpYOt4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T11:15:00Z"
         }
       ]
     },
@@ -105,6 +105,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/MbbbdT2DE2A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5pD8XPWZeL4",
+          "title": "Sunday 7 AM Catholic Mass for 03/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/5pD8XPWZeL4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
