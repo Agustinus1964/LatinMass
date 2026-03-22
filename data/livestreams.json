@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T06:46:33.215Z",
+  "lastUpdated": "2026-03-22T07:36:05.797Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,6 +91,24 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Z0M1T3dyGXM",
+          "title": "8am — Passion Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Z0M1T3dyGXM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T08:00:00Z"
+        },
+        {
+          "id": "pLWtX0C0uW8",
+          "title": "9:30am —  Passion Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/pLWtX0C0uW8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T09:30:00Z"
+        },
+        {
           "id": "WkhhFYa1x6w",
           "title": "Sainte messe du dimanche de la Passion - JUDICA ME",
           "channel": "Ite Missa Est",
@@ -107,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cmmVtwKitxs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T10:30:00Z"
+        },
+        {
+          "id": "tspKkdTHzFk",
+          "title": "11am — Passion Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tspKkdTHzFk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T11:00:00Z"
         },
         {
           "id": "cPO5ed-AgMM",
@@ -152,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5GD6PHU1338/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T16:45:00Z"
+        },
+        {
+          "id": "C4T4aYLL0ZU",
+          "title": "Vespers and Benediction — Passion Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/C4T4aYLL0ZU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T17:00:00Z"
         },
         {
           "id": "Fc6Kcqz5Jgw",
