@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-22T01:58:13.191Z",
+  "lastUpdated": "2026-03-22T04:23:44.112Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "q2WwqRHvx7k",
-          "title": "2026 Acies Ceremony - Corpus Christi, Tynong",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/q2WwqRHvx7k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_jwqj5Jr9bw",
-          "title": "Sung Mass - Passion Sunday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/_jwqj5Jr9bw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cUPtbYTsmJQ",
           "title": "I Domenica di Passione - Santa Messa cantata - FSSPX Italia",
@@ -170,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5GD6PHU1338/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-22T16:45:00Z"
+        },
+        {
+          "id": "Fc6Kcqz5Jgw",
+          "title": "The Price of Sin Made Manifest",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Fc6Kcqz5Jgw/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-22T18:00:00Z"
         }
       ]
     }
