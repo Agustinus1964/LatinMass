@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-22T09:56:07.510Z",
+  "lastUpdated": "2026-03-22T10:26:46.783Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/g--vwJKaTU0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AdYuJnDLrJQ",
-          "title": "Amt - 1. Passionssonntag - 22. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/AdYuJnDLrJQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,11 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pLWtX0C0uW8",
-          "title": "9:30am —  Passion Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/pLWtX0C0uW8/mqdefault_live.jpg",
+          "id": "cmmVtwKitxs",
+          "title": "Sunday 22nd March 2026: Passion Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/cmmVtwKitxs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,17 +105,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/WkhhFYa1x6w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "cmmVtwKitxs",
-          "title": "Sunday 22nd March 2026: Passion Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/cmmVtwKitxs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T10:30:00Z"
+          "id": "RQBq-zbKbBI",
+          "title": "1 Domingo da Paixão - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/RQBq-zbKbBI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tspKkdTHzFk",
