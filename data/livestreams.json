@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-22T08:30:32.207Z",
+  "lastUpdated": "2026-03-22T09:28:48.368Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "g--vwJKaTU0",
+          "title": "FSSPX Antwerpen - 22/03 PASSIEZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/g--vwJKaTU0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "AdYuJnDLrJQ",
           "title": "Amt - 1. Passionssonntag - 22. März 2026",
@@ -91,22 +100,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Z0M1T3dyGXM",
-          "title": "8am — Passion Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Z0M1T3dyGXM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "pLWtX0C0uW8",
           "title": "9:30am —  Passion Sunday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/pLWtX0C0uW8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-22T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WkhhFYa1x6w",
