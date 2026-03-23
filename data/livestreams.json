@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-22T23:50:25.179Z",
+  "lastUpdated": "2026-03-23T01:59:17.292Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BtrBKICYnzs",
-          "title": "Compline - 3/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/BtrBKICYnzs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-23T00:45:00Z"
-        },
         {
           "id": "pIfCuIGWsKA",
           "title": "Low Mass - Feria of Lent - 3/23/26",
@@ -39,12 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/fxW-9ZuaM9o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-23T23:00:00Z"
+        },
+        {
+          "id": "7mf2rYNghQU",
+          "title": "Compline - 3/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7mf2rYNghQU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-24T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ouCcgGR-14o",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday in Passion Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ouCcgGR-14o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T11:30:00Z"
+        },
         {
           "id": "cvGa_wRnGu8",
           "title": "Monday 23rd March 2026: Passion Monday",
