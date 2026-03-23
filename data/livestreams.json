@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-23T12:00:38.608Z",
+  "lastUpdated": "2026-03-23T13:53:25.604Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dO8LpSpYOt4",
-          "title": "Mon. Mar. 23, 2026    -    Ferial Day in Passiontide",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/dO8LpSpYOt4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fxW-9ZuaM9o",
           "title": "Rosary - 3/23/26",
@@ -55,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ouCcgGR-14o",
-          "title": "Live Stream Holy Mass from Cleveland USA (Monday in Passion Week)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ouCcgGR-14o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XqvUeDsWcH0",
-          "title": "Monday 8 AM Traditional Latin Mass03/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/XqvUeDsWcH0/mqdefault_live.jpg",
+          "id": "y2aHQmb9sBo",
+          "title": "Santa Misa, Lunes de la Primera Semana de Pasión, 23 de marzo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/y2aHQmb9sBo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8biTuhcb8oA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-23T18:00:00Z"
+        },
+        {
+          "id": "xS4zE6yvSc4",
+          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday in Passion Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/xS4zE6yvSc4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-24T11:30:00Z"
         }
       ]
     }
