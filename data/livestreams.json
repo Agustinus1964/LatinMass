@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T19:45:48.294Z",
+  "lastUpdated": "2026-03-23T20:34:52.711Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cvGa_wRnGu8",
-          "title": "Monday 23rd March 2026: Passion Monday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/cvGa_wRnGu8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "xS4zE6yvSc4",
           "title": "Live Stream Holy Mass from Cleveland USA (Tuesday in Passion Week)",
           "channel": "Usus Antiquior",
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xS4zE6yvSc4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-24T11:30:00Z"
+        },
+        {
+          "id": "qt-faSUZ6JU",
+          "title": "Tuesday 24th March 2026: Passion Tuesday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qt-faSUZ6JU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-24T18:00:00Z"
         },
         {
           "id": "MfOy1rOSFf0",
