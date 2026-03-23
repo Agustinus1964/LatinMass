@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-23T07:43:23.134Z",
+  "lastUpdated": "2026-03-23T08:51:13.041Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Y0g0cgStCko",
-          "title": "Monday of Passion Week",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/Y0g0cgStCko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pIfCuIGWsKA",
           "title": "Low Mass - Feria of Lent - 3/23/26",
