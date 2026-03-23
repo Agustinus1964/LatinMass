@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-23T15:57:14.620Z",
+  "lastUpdated": "2026-03-23T16:57:22.132Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tZgL_rQ3BYc",
+          "title": "FSSPX Antwerpen - 23/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/tZgL_rQ3BYc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fxW-9ZuaM9o",
           "title": "Rosary - 3/23/26",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fxW-9ZuaM9o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-23T23:00:00Z"
+        },
+        {
+          "id": "WBx-wyXohcc",
+          "title": "Parish Mission-Day 1-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/WBx-wyXohcc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T23:30:00Z"
         },
         {
           "id": "7mf2rYNghQU",
@@ -45,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "H6pweWF9-V0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/H6pweWF9-V0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-23T16:58:00Z"
+        },
         {
           "id": "cvGa_wRnGu8",
           "title": "Monday 23rd March 2026: Passion Monday",
