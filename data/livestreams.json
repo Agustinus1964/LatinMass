@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-24T05:41:32.834Z",
+  "lastUpdated": "2026-03-24T07:00:11.387Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "sWn4f-x_6Pw",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sWn4f-x_6Pw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "x8OiKjPH27I",
           "title": "Tuesday of Passion Week",
