@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-24T20:37:54.963Z",
+  "lastUpdated": "2026-03-24T21:34:39.971Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ChRhL3Y_Ohg",
-          "title": "The Annunciation",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ChRhL3Y_Ohg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1vb90-8gKdY",
           "title": "Solemn I Vespers - Feast of the Annunciation - 3/24/26",
@@ -69,6 +60,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/XVYqt6nTDOc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oeNUpJ_4Dq8",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/oeNUpJ_4Dq8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
