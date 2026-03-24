@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-24T22:58:49.304Z",
+  "lastUpdated": "2026-03-24T23:38:44.783Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "fjFcverTNH0",
+          "title": "Parish Mission 2026 - Day 2 -  The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/fjFcverTNH0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "1vb90-8gKdY",
           "title": "Solemn I Vespers - Feast of the Annunciation - 3/24/26",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/1vb90-8gKdY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-24T22:50:00Z"
-        },
-        {
-          "id": "fjFcverTNH0",
-          "title": "Parish Mission 2026 - Day 2 -  The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/fjFcverTNH0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-24T23:30:00Z"
         },
         {
           "id": "KRKhVefGEEY",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aNWek3PYZws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-25T18:00:00Z"
+        },
+        {
+          "id": "HREzbHVaHoI",
+          "title": "ANNUNCIATION OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/HREzbHVaHoI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T23:00:00Z"
         }
       ]
     }
