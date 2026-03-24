@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-03-24T16:03:52.557Z",
+  "lastUpdated": "2026-03-24T17:29:32.990Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "NpWevgp-wJo",
-          "title": "FSSPX Antwerpen - 24/03 Aanbidding met Rozenhoedje",
+          "id": "umd6HqZHrEI",
+          "title": "FSSPX Antwerpen - 24/03 DINSDAG na PASSIEZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/NpWevgp-wJo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/umd6HqZHrEI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "gFecFejAjTM",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/gFecFejAjTM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -29,7 +38,7 @@
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/fjFcverTNH0/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-25T00:00:00Z"
+          "scheduledTime": "2026-03-24T23:30:00Z"
         },
         {
           "id": "KRKhVefGEEY",
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JDe36mbgSqE",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/JDe36mbgSqE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "qt-faSUZ6JU",
           "title": "Tuesday 24th March 2026: Passion Tuesday",
