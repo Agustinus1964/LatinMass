@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-24T11:23:36.157Z",
+  "lastUpdated": "2026-03-24T12:01:52.558Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Bzt6n1eQeFY",
-          "title": "Low Mass - Feria of Lent - 3/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Bzt6n1eQeFY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "A3ETD9I6E9k",
-          "title": "Tue. Mar. 24, 2026    -    Ferial Day in Passiontide",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/A3ETD9I6E9k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1vb90-8gKdY",
           "title": "Solemn I Vespers - Feast of the Annunciation - 3/24/26",
@@ -64,22 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1z4ui25Eayw",
-          "title": "7AM Mass & Divine Office. Feria of Passiontide. III. St. Gabriel the Archangel. Tuesday, 3-24-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/1z4ui25Eayw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "xS4zE6yvSc4",
           "title": "Live Stream Holy Mass from Cleveland USA (Tuesday in Passion Week)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/xS4zE6yvSc4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-24T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GBLMcXGoOfk",
+          "title": "Tuesday 8 AM Catholic Mass for 03/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/GBLMcXGoOfk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qt-faSUZ6JU",
