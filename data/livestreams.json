@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-24T17:29:32.990Z",
+  "lastUpdated": "2026-03-24T18:32:31.173Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "umd6HqZHrEI",
-          "title": "FSSPX Antwerpen - 24/03 DINSDAG na PASSIEZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/umd6HqZHrEI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gFecFejAjTM",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/gFecFejAjTM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1vb90-8gKdY",
           "title": "Solemn I Vespers - Feast of the Annunciation - 3/24/26",
@@ -50,6 +32,15 @@
           "scheduledTime": "2026-03-25T00:45:00Z"
         },
         {
+          "id": "kJWpPWib_IU",
+          "title": "Solemn High Mass - Annunciation of the Blessed Virgin Mary - 3/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kJWpPWib_IU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T10:45:00Z"
+        },
+        {
           "id": "k0fuiQkHCgI",
           "title": "Wed. Mar. 25, 2026    -    Annunciation of the Blessed Virgin Mary",
           "channel": "Transfiguration Church SSPX",
@@ -64,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "JDe36mbgSqE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/JDe36mbgSqE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "qt-faSUZ6JU",
           "title": "Tuesday 24th March 2026: Passion Tuesday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/qt-faSUZ6JU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-24T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KR-KvoQUM0Q",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/KR-KvoQUM0Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MfOy1rOSFf0",
@@ -87,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/MfOy1rOSFf0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-24T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5QlXESNPA3k",
@@ -98,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/5QlXESNPA3k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-25T14:00:00Z"
+        },
+        {
+          "id": "0Oc0UfAC0y8",
+          "title": "Wednesday 25th March 2026: Annunciation of Our Lady",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/0Oc0UfAC0y8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T18:00:00Z"
+        },
+        {
+          "id": "nFk5mEZnX2k",
+          "title": "Solemn Mass for the Annunciation of the Lord",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/nFk5mEZnX2k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T18:00:00Z"
+        },
+        {
+          "id": "aNWek3PYZws",
+          "title": "Sainte messe de la fête de l'Annonciation - VULTUM TUUM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/aNWek3PYZws/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T18:00:00Z"
         }
       ]
     }
