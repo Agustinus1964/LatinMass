@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-24T18:32:31.173Z",
+  "lastUpdated": "2026-03-24T19:51:29.125Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,33 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qt-faSUZ6JU",
-          "title": "Tuesday 24th March 2026: Passion Tuesday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/qt-faSUZ6JU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KR-KvoQUM0Q",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/KR-KvoQUM0Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MfOy1rOSFf0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/MfOy1rOSFf0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5QlXESNPA3k",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Annunciation of the Blessed Virgin Mary)",
