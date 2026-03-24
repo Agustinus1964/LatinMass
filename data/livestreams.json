@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-24T14:54:31.022Z",
+  "lastUpdated": "2026-03-24T16:03:52.557Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "NpWevgp-wJo",
+          "title": "FSSPX Antwerpen - 24/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/NpWevgp-wJo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "1vb90-8gKdY",
           "title": "Solemn I Vespers - Feast of the Annunciation - 3/24/26",
