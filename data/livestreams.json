@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-03-25T05:42:31.230Z",
+  "lastUpdated": "2026-03-25T06:58:24.793Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "IADadO0Dnns",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IADadO0Dnns/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "gXM_Brmdack",
+          "title": "The Annunciation of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/gXM_Brmdack/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T07:15:00Z"
+        },
         {
           "id": "kJWpPWib_IU",
           "title": "Solemn High Mass - Annunciation of the Blessed Virgin Mary - 3/25/26",
