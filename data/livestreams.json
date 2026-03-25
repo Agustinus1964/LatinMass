@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-03-24T23:38:44.783Z",
+  "lastUpdated": "2026-03-25T01:56:47.640Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fjFcverTNH0",
-          "title": "Parish Mission 2026 - Day 2 -  The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/fjFcverTNH0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1vb90-8gKdY",
-          "title": "Solemn I Vespers - Feast of the Annunciation - 3/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/1vb90-8gKdY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-24T22:50:00Z"
-        },
-        {
-          "id": "KRKhVefGEEY",
-          "title": "Compline - 3/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/KRKhVefGEEY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T00:45:00Z"
-        },
         {
           "id": "kJWpPWib_IU",
           "title": "Solemn High Mass - Annunciation of the Blessed Virgin Mary - 3/25/26",
@@ -48,6 +21,33 @@
           "thumbnail": "https://i.ytimg.com/vi/k0fuiQkHCgI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-25T11:15:00Z"
+        },
+        {
+          "id": "Yv5VW-Y318A",
+          "title": "Solemn II Vespers - Feast of the Annunciation - 3/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Yv5VW-Y318A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T22:30:00Z"
+        },
+        {
+          "id": "i0ciyxy-mEI",
+          "title": "Parish Mission 2026 - Day 3 -  The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/i0ciyxy-mEI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T00:00:00Z"
+        },
+        {
+          "id": "-UmmNF7NUro",
+          "title": "Compline - 3/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-UmmNF7NUro/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T00:45:00Z"
         }
       ]
     },
