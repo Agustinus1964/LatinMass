@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-25T07:56:43.086Z",
+  "lastUpdated": "2026-03-25T08:53:12.460Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gXM_Brmdack",
-          "title": "The Annunciation of the Blessed Virgin Mary",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/gXM_Brmdack/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "kJWpPWib_IU",
           "title": "Solemn High Mass - Annunciation of the Blessed Virgin Mary - 3/25/26",
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HREzbHVaHoI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-25T23:00:00Z"
+        },
+        {
+          "id": "WhN4fOt7i9s",
+          "title": "Thursday 26th March 2026: Passion Thursday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/WhN4fOt7i9s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T08:00:00Z"
         }
       ]
     }
