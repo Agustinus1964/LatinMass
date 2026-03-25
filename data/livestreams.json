@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T10:44:50.394Z",
+  "lastUpdated": "2026-03-25T11:39:12.052Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/kJWpPWib_IU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T10:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "k0fuiQkHCgI",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/k0fuiQkHCgI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7BW8lpcPQoM",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EC1nZiJ-bXI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-26T06:15:00Z"
+        },
+        {
+          "id": "VbFDK6VW7Qg",
+          "title": "Thu. Mar. 26, 2026    -    Ferial Day in Passiontide",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/VbFDK6VW7Qg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T11:15:00Z"
         }
       ]
     },
