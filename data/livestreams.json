@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T09:51:07.272Z",
+  "lastUpdated": "2026-03-25T10:44:50.394Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/k0fuiQkHCgI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-25T11:15:00Z"
+        },
+        {
+          "id": "7BW8lpcPQoM",
+          "title": "Vesper, Sakramentsandacht und Amt - Mariä Verkündigung - 25. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7BW8lpcPQoM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T17:00:00Z"
         },
         {
           "id": "Yv5VW-Y318A",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-UmmNF7NUro/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-26T00:45:00Z"
+        },
+        {
+          "id": "EC1nZiJ-bXI",
+          "title": "Hl. Messe - 26. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/EC1nZiJ-bXI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T06:15:00Z"
         }
       ]
     },
@@ -55,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ijmpEFNXPi8",
-          "title": "Anunciação da Bem Aventurada Virgem Maria - Laudes e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ijmpEFNXPi8/mqdefault_live.jpg",
+          "id": "r3uoVoMFYEA",
+          "title": "7AM Mass & Divine Office. Annunciation of the Blessed Virgin Mary. I. Wednesday, March 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/r3uoVoMFYEA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
