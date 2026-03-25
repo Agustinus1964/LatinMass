@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T13:02:46.573Z",
+  "lastUpdated": "2026-03-25T14:40:14.929Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VbFDK6VW7Qg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-26T11:15:00Z"
+        },
+        {
+          "id": "1mYuf5X9d7k",
+          "title": "FSSPX Antwerpen - 26/03 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/1mYuf5X9d7k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T14:30:00Z"
         }
       ]
     },
@@ -73,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "y_v88Dya3yg",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 03/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/y_v88Dya3yg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "5QlXESNPA3k",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Annunciation of the Blessed Virgin Mary)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/5QlXESNPA3k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0Oc0UfAC0y8",
