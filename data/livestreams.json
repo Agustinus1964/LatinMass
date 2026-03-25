@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T22:32:21.000Z",
+  "lastUpdated": "2026-03-25T23:31:21.262Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/i0ciyxy-mEI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T00:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-UmmNF7NUro",
@@ -118,11 +118,11 @@
           "scheduledTime": null
         },
         {
-          "id": "fH__EYnJwCA",
-          "title": "Anunciação da Bem Aventurada Virgem Maria - Missa Solene",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fH__EYnJwCA/mqdefault_live.jpg",
+          "id": "HREzbHVaHoI",
+          "title": "ANNUNCIATION OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/HREzbHVaHoI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -132,17 +132,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/RTydjfarOA8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T22:55:00Z"
-        },
-        {
-          "id": "HREzbHVaHoI",
-          "title": "ANNUNCIATION OF THE BLESSED VIRGIN MARY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/HREzbHVaHoI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cJWx-yfQb5o",
@@ -150,8 +141,17 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/cJWx-yfQb5o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T23:15:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fH__EYnJwCA",
+          "title": "Anunciação da Bem Aventurada Virgem Maria - Missa Solene",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fH__EYnJwCA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WhN4fOt7i9s",
