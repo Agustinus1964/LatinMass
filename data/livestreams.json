@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T21:35:44.088Z",
+  "lastUpdated": "2026-03-25T22:32:21.000Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/Yv5VW-Y318A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T22:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "i0ciyxy-mEI",
@@ -118,6 +118,15 @@
           "scheduledTime": null
         },
         {
+          "id": "fH__EYnJwCA",
+          "title": "Anunciação da Bem Aventurada Virgem Maria - Missa Solene",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fH__EYnJwCA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "RTydjfarOA8",
           "title": "Wednesday 7 PM Feast of the Annunciation Traditional Catholic Mass03/25/2026",
           "channel": "St. Benedict Parish",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HREzbHVaHoI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-25T23:00:00Z"
+        },
+        {
+          "id": "cJWx-yfQb5o",
+          "title": "Feast of the Annunciation / Fête de l'Annonciation",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/cJWx-yfQb5o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-25T23:15:00Z"
         },
         {
           "id": "WhN4fOt7i9s",
