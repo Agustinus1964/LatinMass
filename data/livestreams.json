@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-25T18:52:35.234Z",
+  "lastUpdated": "2026-03-25T19:44:04.179Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lCTYwxnJmTA",
-          "title": "FSSPX Antwerpen - 25/03 ONZE-LIEVE-VROUW BOODSCHAP",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/lCTYwxnJmTA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7BW8lpcPQoM",
           "title": "Vesper, Sakramentsandacht und Amt - Mariä Verkündigung - 25. März 2026",
@@ -123,24 +114,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/0Oc0UfAC0y8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nFk5mEZnX2k",
-          "title": "Solemn Mass for the Annunciation of the Lord",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/nFk5mEZnX2k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "aNWek3PYZws",
-          "title": "Sainte messe de la fête de l'Annonciation - VULTUM TUUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/aNWek3PYZws/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
