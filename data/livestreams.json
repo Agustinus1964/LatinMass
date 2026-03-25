@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T08:53:12.460Z",
+  "lastUpdated": "2026-03-25T09:51:07.272Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ijmpEFNXPi8",
+          "title": "Anunciação da Bem Aventurada Virgem Maria - Laudes e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ijmpEFNXPi8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "y_v88Dya3yg",
           "title": "Wednesday 8 AM Traditional Catholic Mass 03/25/2026",
