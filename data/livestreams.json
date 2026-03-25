@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-25T11:39:12.052Z",
+  "lastUpdated": "2026-03-25T13:02:46.573Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kJWpPWib_IU",
-          "title": "Solemn High Mass - Annunciation of the Blessed Virgin Mary - 3/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/kJWpPWib_IU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "k0fuiQkHCgI",
-          "title": "Wed. Mar. 25, 2026    -    Annunciation of the Blessed Virgin Mary",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/k0fuiQkHCgI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7BW8lpcPQoM",
           "title": "Vesper, Sakramentsandacht und Amt - Mariä Verkündigung - 25. März 2026",
@@ -68,6 +50,15 @@
           "scheduledTime": "2026-03-26T06:15:00Z"
         },
         {
+          "id": "7DS0EkdwpPo",
+          "title": "Low Mass - Feria of Lent - 3/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7DS0EkdwpPo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-26T11:15:00Z"
+        },
+        {
           "id": "VbFDK6VW7Qg",
           "title": "Thu. Mar. 26, 2026    -    Ferial Day in Passiontide",
           "channel": "Transfiguration Church SSPX",
@@ -82,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "r3uoVoMFYEA",
-          "title": "7AM Mass & Divine Office. Annunciation of the Blessed Virgin Mary. I. Wednesday, March 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/r3uoVoMFYEA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "y_v88Dya3yg",
           "title": "Wednesday 8 AM Traditional Catholic Mass 03/25/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/y_v88Dya3yg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-25T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5QlXESNPA3k",
