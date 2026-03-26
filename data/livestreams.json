@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T10:57:42.311Z",
+  "lastUpdated": "2026-03-26T11:53:06.430Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/7DS0EkdwpPo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VbFDK6VW7Qg",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/VbFDK6VW7Qg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1mYuf5X9d7k",
@@ -84,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tNw8YNuiMNU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T06:15:00Z"
+        },
+        {
+          "id": "lt_6o0ScjgU",
+          "title": "Fri. Mar. 27, 2026    -    Seven Sorrows of the Blessed Virgin Mary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/lt_6o0ScjgU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T11:15:00Z"
         }
       ]
     },
@@ -96,8 +105,8 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/pPy76UnuNSU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "irC8b__ys2Q",
