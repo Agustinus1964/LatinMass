@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-26T11:53:06.430Z",
+  "lastUpdated": "2026-03-26T13:07:20.261Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7DS0EkdwpPo",
-          "title": "Low Mass - Feria of Lent - 3/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7DS0EkdwpPo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VbFDK6VW7Qg",
-          "title": "Thu. Mar. 26, 2026    -    Ferial Day in Passiontide",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/VbFDK6VW7Qg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1mYuf5X9d7k",
           "title": "FSSPX Antwerpen - 26/03 Priester-Uur-Gebed",
@@ -99,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pPy76UnuNSU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Thursday in Passion Week)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pPy76UnuNSU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "irC8b__ys2Q",
           "title": "Thursday",
