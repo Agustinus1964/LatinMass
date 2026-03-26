@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-26T20:00:36.859Z",
+  "lastUpdated": "2026-03-26T20:57:20.156Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "nolEFqrjFNg",
+          "title": "Mass of Seven Sorrows of BVM",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/nolEFqrjFNg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "PRV4bbEA8rg",
           "title": "Solemn I Vespers - Feast of Our Lady of Sorrows - 3/26/26",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tNw8YNuiMNU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T06:15:00Z"
+        },
+        {
+          "id": "EkvZJXNn6-o",
+          "title": "Friday of Passion Week",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/EkvZJXNn6-o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T07:15:00Z"
         },
         {
           "id": "lt_6o0ScjgU",
@@ -91,13 +109,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9dOIgYpn9gg",
-          "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
+          "id": "_Wpdcpy2xnU",
+          "title": "Divine Office & 6PM Mass. Feria of Passiontide. III. Thursday, March 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/9dOIgYpn9gg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T15:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/_Wpdcpy2xnU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-sxOXIVokDU",
+          "title": "Adoração ao Santíssimo Sacramento e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-sxOXIVokDU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "f1IcJJ87TBg",
