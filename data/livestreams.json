@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-26T16:09:34.199Z",
+  "lastUpdated": "2026-03-26T17:33:56.123Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "1mYuf5X9d7k",
-          "title": "FSSPX Antwerpen - 26/03 Priester-Uur-Gebed",
+          "id": "jdjcMa0BXDA",
+          "title": "FSSPX Antwerpen - 26/03 DONDERDAG na PASSIEZONDAG",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/1mYuf5X9d7k/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/jdjcMa0BXDA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dTPbtKuprVs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "jdjcMa0BXDA",
-          "title": "FSSPX Antwerpen - 26/03 DONDERDAG na PASSIEZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/jdjcMa0BXDA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T17:30:00Z"
         },
         {
           "id": "PRV4bbEA8rg",
@@ -84,12 +75,48 @@
           "thumbnail": "https://i.ytimg.com/vi/hV8jdfplea4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T16:00:00Z"
+        },
+        {
+          "id": "9enFcNmliPs",
+          "title": "Vesper, Sakramentsandacht und hl. Messe - Unsere Liebe Frau von Mitleiden - 27. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9enFcNmliPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T16:30:00Z"
+        },
+        {
+          "id": "SAJ_6WD2OMM",
+          "title": "FSSPX Antwerpen - 27/03 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SAJ_6WD2OMM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T16:45:00Z"
+        },
+        {
+          "id": "XwK3t7PtRTw",
+          "title": "FSSPX Antwerpen - 27/03 ONZE-LIEVE-VROUW van 7 SMARTEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/XwK3t7PtRTw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T17:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "55K-RQ1p98E",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/55K-RQ1p98E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "irC8b__ys2Q",
           "title": "Thursday",
