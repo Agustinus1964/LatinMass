@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-26T22:59:01.542Z",
+  "lastUpdated": "2026-03-26T23:39:51.590Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PRV4bbEA8rg",
-          "title": "Solemn I Vespers - Feast of Our Lady of Sorrows - 3/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/PRV4bbEA8rg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "8gCx0tlWbCo",
           "title": "Parish Mission 2026 - Day 4 -  The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/8gCx0tlWbCo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T00:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sZnfJMe79FY",
@@ -93,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XwK3t7PtRTw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T17:30:00Z"
+        },
+        {
+          "id": "-kQkq9hma0I",
+          "title": "Solemn II Vespers - Feast of Our Lady of Sorrows - 3/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-kQkq9hma0I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T22:30:00Z"
         }
       ]
     },
