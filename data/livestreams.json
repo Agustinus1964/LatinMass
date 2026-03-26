@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-26T17:33:56.123Z",
+  "lastUpdated": "2026-03-26T19:00:59.253Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jdjcMa0BXDA",
-          "title": "FSSPX Antwerpen - 26/03 DONDERDAG na PASSIEZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/jdjcMa0BXDA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dTPbtKuprVs",
-          "title": "Vesper, Sakramentsandacht und hl. Messe - 26. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/dTPbtKuprVs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PRV4bbEA8rg",
           "title": "Solemn I Vespers - Feast of Our Lady of Sorrows - 3/26/26",
@@ -109,33 +91,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "55K-RQ1p98E",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/55K-RQ1p98E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "irC8b__ys2Q",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/irC8b__ys2Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T18:00:00Z"
-        },
-        {
-          "id": "T4qnXdMD_DU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/T4qnXdMD_DU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T18:00:00Z"
-        },
-        {
           "id": "9dOIgYpn9gg",
           "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -143,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/9dOIgYpn9gg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T15:00:00Z"
+        },
+        {
+          "id": "f1IcJJ87TBg",
+          "title": "Friday 27th March 2026: Passion Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/f1IcJJ87TBg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T18:00:00Z"
+        },
+        {
+          "id": "L-R7G0LVhwA",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/L-R7G0LVhwA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T18:00:00Z"
+        },
+        {
+          "id": "tXX0dH8cs5I",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/tXX0dH8cs5I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T18:00:00Z"
         }
       ]
     }
