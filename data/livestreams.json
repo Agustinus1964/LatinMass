@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-26T20:57:20.156Z",
+  "lastUpdated": "2026-03-26T21:34:18.180Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nolEFqrjFNg",
-          "title": "Mass of Seven Sorrows of BVM",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/nolEFqrjFNg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PRV4bbEA8rg",
           "title": "Solemn I Vespers - Feast of Our Lady of Sorrows - 3/26/26",
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tXX0dH8cs5I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T18:00:00Z"
+        },
+        {
+          "id": "Sbm4OZBMZAw",
+          "title": "Divine Office, Mass, Holy Hour. Feria of Passiontide. III. Seven Sorrows of Our Lady. 3-27-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Sbm4OZBMZAw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T21:00:00Z"
         }
       ]
     }
