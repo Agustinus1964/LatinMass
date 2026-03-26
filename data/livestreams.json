@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T14:47:04.720Z",
+  "lastUpdated": "2026-03-26T16:09:34.199Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/dTPbtKuprVs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jdjcMa0BXDA",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lt_6o0ScjgU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T11:15:00Z"
+        },
+        {
+          "id": "hV8jdfplea4",
+          "title": "FSSPX Antwerpen - 27/03 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/hV8jdfplea4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T16:00:00Z"
         }
       ]
     },
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/T4qnXdMD_DU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-26T18:00:00Z"
+        },
+        {
+          "id": "9dOIgYpn9gg",
+          "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/9dOIgYpn9gg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T15:00:00Z"
         }
       ]
     }
