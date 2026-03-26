@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-26T22:26:16.805Z",
+  "lastUpdated": "2026-03-26T22:59:01.542Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/PRV4bbEA8rg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-26T22:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8gCx0tlWbCo",
@@ -100,13 +100,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_Wpdcpy2xnU",
-          "title": "Divine Office & 6PM Mass. Feria of Passiontide. III. Thursday, March 26, 2026.",
+          "id": "9dOIgYpn9gg",
+          "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_Wpdcpy2xnU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/9dOIgYpn9gg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T15:00:00Z"
         },
         {
           "id": "f1IcJJ87TBg",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Sbm4OZBMZAw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T21:00:00Z"
+        },
+        {
+          "id": "qd9v2-Uj0oc",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Seven Sorrows of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/qd9v2-Uj0oc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-27T22:30:00Z"
         }
       ]
     }
