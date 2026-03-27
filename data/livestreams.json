@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-27T23:01:15.655Z",
+  "lastUpdated": "2026-03-27T23:51:48.489Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-kQkq9hma0I",
-          "title": "Solemn II Vespers - Feast of Our Lady of Sorrows - 3/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-kQkq9hma0I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ooJCXdTRNNk",
           "title": "Parish Mission 2026 - Day 5 -  The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/ooJCXdTRNNk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T2PUIjm4on8",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Dr8htWc9GPI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T12:00:00Z"
+        },
+        {
+          "id": "6rKYeIzauPI",
+          "title": "Rosary - 3/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6rKYeIzauPI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T23:00:00Z"
         }
       ]
     },
@@ -64,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "qd9v2-Uj0oc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Seven Sorrows of the Blessed Virgin Mary in Passiontide)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/qd9v2-Uj0oc/mqdefault_live.jpg",
+          "id": "hn8hwzsCj5k",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/hn8hwzsCj5k/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,29 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "ZuOKH80n5Co",
-          "title": "STATIONS OF THE CROSS SERMON SERIES, PART VI, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/ZuOKH80n5Co/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "EpVZMPZqiqA",
           "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 03/27/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/EpVZMPZqiqA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5-BNqxmgHF0",
-          "title": "Comemoração das sete dores da Santissima Virgem - Missa Cantada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/5-BNqxmgHF0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -152,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WTFZaC1xFCs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T12:55:00Z"
+        },
+        {
+          "id": "pYr1rOYTW-4",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday in Passion Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/pYr1rOYTW-4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T13:00:00Z"
         }
       ]
     }
