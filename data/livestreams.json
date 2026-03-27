@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T08:46:52.775Z",
+  "lastUpdated": "2026-03-27T09:51:39.118Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -75,12 +75,30 @@
           "thumbnail": "https://i.ytimg.com/vi/L3c7N8LJIl8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T06:15:00Z"
+        },
+        {
+          "id": "xi02cv0mzUY",
+          "title": "FSSPX Antwerpen - 28/03 ZATERDAG na PASSIEZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/xi02cv0mzUY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kH2S7iKQlYE",
+          "title": "Comemoração das sete dores da Santíssima Virgem Maria - Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/kH2S7iKQlYE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9dOIgYpn9gg",
           "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
