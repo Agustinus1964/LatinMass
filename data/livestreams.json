@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-27T06:10:48.602Z",
+  "lastUpdated": "2026-03-27T07:39:48.897Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tNw8YNuiMNU",
-          "title": "Hl. Messe - Unsere Liebe Frau von Mitleiden - 27. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tNw8YNuiMNU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T06:15:00Z"
-        },
         {
           "id": "EkvZJXNn6-o",
           "title": "Our Lady of Compassion",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/EkvZJXNn6-o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lt_6o0ScjgU",
@@ -84,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/T2PUIjm4on8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T00:45:00Z"
+        },
+        {
+          "id": "L3c7N8LJIl8",
+          "title": "Hl. Messe - 28. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/L3c7N8LJIl8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T06:15:00Z"
         }
       ]
     },
