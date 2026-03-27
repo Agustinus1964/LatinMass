@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T10:43:27.217Z",
+  "lastUpdated": "2026-03-27T11:39:03.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/lt_6o0ScjgU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "aidFDVN6rcU",
+          "title": "Sung Mass - Our Lady of Compassion",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/aidFDVN6rcU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hV8jdfplea4",
@@ -170,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/liNlP-j9QJg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T10:30:00Z"
+        },
+        {
+          "id": "ThgiNyof_QQ",
+          "title": "7:30AM Mass, Rosary, 9AM Mass. Feria of Passiontide. III. Saturday, March 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ThgiNyof_QQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T11:30:00Z"
         }
       ]
     }
