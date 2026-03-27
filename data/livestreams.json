@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T14:14:31.118Z",
+  "lastUpdated": "2026-03-27T15:24:38.051Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,15 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "hV8jdfplea4",
-          "title": "FSSPX Antwerpen - 27/03 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hV8jdfplea4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T16:00:00Z"
-        },
-        {
           "id": "9enFcNmliPs",
           "title": "Vesper, Sakramentsandacht und hl. Messe - Unsere Liebe Frau von Mitleiden - 27. März 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -32,22 +23,13 @@
           "scheduledTime": "2026-03-27T16:30:00Z"
         },
         {
-          "id": "SAJ_6WD2OMM",
-          "title": "FSSPX Antwerpen - 27/03 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SAJ_6WD2OMM/mqdefault_live.jpg",
+          "id": "ZbOLTpaQViw",
+          "title": "Via Crucis - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZbOLTpaQViw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-27T16:45:00Z"
-        },
-        {
-          "id": "XwK3t7PtRTw",
-          "title": "FSSPX Antwerpen - 27/03 ONZE-LIEVE-VROUW van 7 SMARTEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/XwK3t7PtRTw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T17:30:00Z"
+          "scheduledTime": "2026-03-27T16:55:00Z"
         },
         {
           "id": "-kQkq9hma0I",
@@ -77,15 +59,6 @@
           "scheduledTime": "2026-03-28T06:15:00Z"
         },
         {
-          "id": "xi02cv0mzUY",
-          "title": "FSSPX Antwerpen - 28/03 ZATERDAG na PASSIEZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/xi02cv0mzUY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T09:00:00Z"
-        },
-        {
           "id": "Dr8htWc9GPI",
           "title": "Sat. Mar. 28, 2026    -    Ferial Day in Passiontide",
           "channel": "Transfiguration Church SSPX",
@@ -100,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ALeTm5Rl3Ic",
-          "title": "Santo Sacrificio de La Misa, Los Siete Dolores de Ntra. Señora, San Juan Damasceno, 27 marzo, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/ALeTm5Rl3Ic/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9dOIgYpn9gg",
           "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/9dOIgYpn9gg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "f1IcJJ87TBg",
