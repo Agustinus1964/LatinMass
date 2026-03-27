@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-27T07:39:48.897Z",
+  "lastUpdated": "2026-03-27T08:46:52.775Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EkvZJXNn6-o",
-          "title": "Our Lady of Compassion",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/EkvZJXNn6-o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "lt_6o0ScjgU",
           "title": "Fri. Mar. 27, 2026    -    Seven Sorrows of the Blessed Virgin Mary",
@@ -143,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qd9v2-Uj0oc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-27T22:30:00Z"
+        },
+        {
+          "id": "cBSH79DrO_g",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/cBSH79DrO_g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T08:30:00Z"
         }
       ]
     }
