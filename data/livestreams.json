@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-03-27T11:39:03.091Z",
+  "lastUpdated": "2026-03-27T12:59:20.401Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "lt_6o0ScjgU",
-          "title": "Fri. Mar. 27, 2026    -    Seven Sorrows of the Blessed Virgin Mary",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/lt_6o0ScjgU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "aidFDVN6rcU",
-          "title": "Sung Mass - Our Lady of Compassion",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/aidFDVN6rcU/mqdefault_live.jpg",
+          "id": "VWgagWpn_WA",
+          "title": "Pontifical High Mass with Ordination to the Minor Orders - Our Lady of Compassion - 3/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/VWgagWpn_WA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -93,12 +84,30 @@
           "thumbnail": "https://i.ytimg.com/vi/xi02cv0mzUY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T09:00:00Z"
+        },
+        {
+          "id": "Dr8htWc9GPI",
+          "title": "Sat. Mar. 28, 2026    -    Ferial Day in Passiontide",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Dr8htWc9GPI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Ak5WxQTiywg",
+          "title": "Friday 8 AM Catholic Mass for 03/27/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ak5WxQTiywg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9dOIgYpn9gg",
           "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
@@ -188,6 +197,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ThgiNyof_QQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T11:30:00Z"
+        },
+        {
+          "id": "WTFZaC1xFCs",
+          "title": "Saturday 9 AM Traditional Catholic Mass 03/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/WTFZaC1xFCs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T12:55:00Z"
         }
       ]
     }
