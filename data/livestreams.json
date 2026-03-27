@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-27T20:41:47.743Z",
+  "lastUpdated": "2026-03-27T21:31:01.479Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wM-2uMV07Ao",
+          "title": "Saturday in Passion Week - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/wM-2uMV07Ao/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-kQkq9hma0I",
           "title": "Solemn II Vespers - Feast of Our Lady of Sorrows - 3/27/26",
@@ -60,6 +69,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Sbm4OZBMZAw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "QO9HZoF6NWU",
+          "title": "Via Sacra",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/QO9HZoF6NWU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
