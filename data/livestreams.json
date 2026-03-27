@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-03-27T16:12:04.355Z",
+  "lastUpdated": "2026-03-27T17:25:06.672Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "hV8jdfplea4",
-          "title": "FSSPX Antwerpen - 27/03 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "SAJ_6WD2OMM",
+          "title": "FSSPX Antwerpen - 27/03 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hV8jdfplea4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/SAJ_6WD2OMM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/9enFcNmliPs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZbOLTpaQViw",
-          "title": "Via Crucis - FSSPX Italia",
+          "title": "Via Crucis e Santa Messa (Sette Dolori della B.V.Maria) - FSSPX Italia",
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/ZbOLTpaQViw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T16:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-kQkq9hma0I",
