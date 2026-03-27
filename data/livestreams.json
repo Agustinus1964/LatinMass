@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T09:51:39.118Z",
+  "lastUpdated": "2026-03-27T10:43:27.217Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,15 +91,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "kH2S7iKQlYE",
-          "title": "Comemoração das sete dores da Santíssima Virgem Maria - Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/kH2S7iKQlYE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9dOIgYpn9gg",
           "title": "11AM Mass. Feria of Passiontide. III. Seven Sorrows of Our Lady. Friday, March 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -161,6 +152,24 @@
           "thumbnail": "https://i.ytimg.com/vi/cBSH79DrO_g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T08:30:00Z"
+        },
+        {
+          "id": "dGVuftpRz2I",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/dGVuftpRz2I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T10:00:00Z"
+        },
+        {
+          "id": "liNlP-j9QJg",
+          "title": "Saturday 28th March 2026: Passion Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/liNlP-j9QJg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T10:30:00Z"
         }
       ]
     }
