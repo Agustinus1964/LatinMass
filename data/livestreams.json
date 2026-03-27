@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-27T21:31:01.479Z",
+  "lastUpdated": "2026-03-27T22:28:08.889Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wM-2uMV07Ao",
-          "title": "Saturday in Passion Week - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/wM-2uMV07Ao/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-kQkq9hma0I",
           "title": "Solemn II Vespers - Feast of Our Lady of Sorrows - 3/27/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/-kQkq9hma0I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T22:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T2PUIjm4on8",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "qd9v2-Uj0oc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Seven Sorrows of the Blessed Virgin Mary in Passiontide)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/qd9v2-Uj0oc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Sbm4OZBMZAw",
           "title": "Divine Office, Mass, Holy Hour. Feria of Passiontide. III. Seven Sorrows of Our Lady. 3-27-26.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,22 +73,22 @@
           "scheduledTime": null
         },
         {
-          "id": "QO9HZoF6NWU",
-          "title": "Via Sacra",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/QO9HZoF6NWU/mqdefault_live.jpg",
+          "id": "ZuOKH80n5Co",
+          "title": "STATIONS OF THE CROSS SERMON SERIES, PART VI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/ZuOKH80n5Co/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "qd9v2-Uj0oc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Seven Sorrows of the Blessed Virgin Mary in Passiontide)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/qd9v2-Uj0oc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-27T22:30:00Z"
+          "id": "5-BNqxmgHF0",
+          "title": "Comemoração das sete dores da Santissima Virgem - Missa Cantada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/5-BNqxmgHF0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cBSH79DrO_g",
