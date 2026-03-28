@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T16:29:54.823Z",
+  "lastUpdated": "2026-03-28T17:01:11.537Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -84,21 +84,21 @@
           "thumbnail": "https://i.ytimg.com/vi/3jr5hi_gGzM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T15:50:00Z"
+        },
+        {
+          "id": "zFG7D_Q2ITk",
+          "title": "Palm Sunday | March 29th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/zFG7D_Q2ITk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RoMJjofeijk",
-          "title": "Legion of Mary - Spanish Acies",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/RoMJjofeijk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bl9LH0AGWMA",
           "title": "2PM Mass. Lenten Day of Recollection for Young Adults. Feria of Passiontide. III. Sat. 3-28-2026.",
