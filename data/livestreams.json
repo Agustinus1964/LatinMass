@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-27T23:51:48.489Z",
+  "lastUpdated": "2026-03-28T01:54:59.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ooJCXdTRNNk",
-          "title": "Parish Mission 2026 - Day 5 -  The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/ooJCXdTRNNk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "T2PUIjm4on8",
-          "title": "Compline - 3/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/T2PUIjm4on8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T00:45:00Z"
-        },
         {
           "id": "L3c7N8LJIl8",
           "title": "Hl. Messe - 28. März 2026",
@@ -57,39 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/6rKYeIzauPI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T23:00:00Z"
+        },
+        {
+          "id": "RSWxXg1fB_c",
+          "title": "Compline - 3/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/RSWxXg1fB_c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hn8hwzsCj5k",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/hn8hwzsCj5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Sbm4OZBMZAw",
-          "title": "Divine Office, Mass, Holy Hour. Feria of Passiontide. III. Seven Sorrows of Our Lady. 3-27-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Sbm4OZBMZAw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EpVZMPZqiqA",
-          "title": "Friday 7 pm Livestream of the Traditional Latin Low Mass 03/27/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/EpVZMPZqiqA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cBSH79DrO_g",
           "title": "Sainte messe en semaine",
@@ -118,15 +82,6 @@
           "scheduledTime": "2026-03-28T10:30:00Z"
         },
         {
-          "id": "ThgiNyof_QQ",
-          "title": "7:30AM Mass, Rosary, 9AM Mass. Feria of Passiontide. III. Saturday, March 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ThgiNyof_QQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T11:30:00Z"
-        },
-        {
           "id": "WTFZaC1xFCs",
           "title": "Saturday 9 AM Traditional Catholic Mass 03/28/2026",
           "channel": "St. Benedict Parish",
@@ -143,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/pYr1rOYTW-4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-28T13:00:00Z"
+        },
+        {
+          "id": "ThgiNyof_QQ",
+          "title": "9AM Mass. Feria of Passiontide. III. Saturday, March 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ThgiNyof_QQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T13:00:00Z"
+        },
+        {
+          "id": "bl9LH0AGWMA",
+          "title": "2PM Mass. Lenten Day of Recollection for Young Adults. Feria of Passiontide. III. Sat. 3-28-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bl9LH0AGWMA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-28T18:00:00Z"
         }
       ]
     }
