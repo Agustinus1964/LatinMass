@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-28T07:42:34.988Z",
+  "lastUpdated": "2026-03-28T08:34:55.217Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "p_4TrzekIXM",
-          "title": "Saturday of Passion Week",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/p_4TrzekIXM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Dr8htWc9GPI",
           "title": "Sat. Mar. 28, 2026    -    Ferial Day in Passiontide",
@@ -60,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/cBSH79DrO_g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dGVuftpRz2I",
