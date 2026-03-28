@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T10:59:52.011Z",
+  "lastUpdated": "2026-03-28T11:35:20.920Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,21 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/QT2eTpPmeyg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T07:55:00Z"
+        },
+        {
+          "id": "snJsOSrNKX4",
+          "title": "Low Mass - Palm Sunday - 3/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/snJsOSrNKX4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T11:15:00Z"
+        },
+        {
+          "id": "6Kxg3KH8qzQ",
+          "title": "Kreuzweg - Palmsonntag - 29. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6Kxg3KH8qzQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T11:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "liNlP-j9QJg",
-          "title": "Saturday 28th March 2026: Passion Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/liNlP-j9QJg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "b2Avdjw1l5w",
           "title": "Saturday 7 AM Catholic Mass for 03/28/2026",
@@ -125,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5lYQ_dgjwjw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T10:00:00Z"
+        },
+        {
+          "id": "3IvmqsCruuM",
+          "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3IvmqsCruuM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T11:30:00Z"
         }
       ]
     }
