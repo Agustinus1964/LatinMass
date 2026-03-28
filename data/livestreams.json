@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T15:38:46.845Z",
+  "lastUpdated": "2026-03-28T16:29:54.823Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PtYDYa5rNGA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T15:00:00Z"
+        },
+        {
+          "id": "3jr5hi_gGzM",
+          "title": "Vesper - Palmsonntag - 29. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3jr5hi_gGzM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T15:50:00Z"
         }
       ]
     },
@@ -170,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W5h8nocpQik/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T15:30:00Z"
+        },
+        {
+          "id": "QdWQL7EyCuw",
+          "title": "Vespers and Benediction — Palm Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/QdWQL7EyCuw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T16:00:00Z"
         }
       ]
     }
