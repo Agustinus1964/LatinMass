@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T14:29:19.795Z",
+  "lastUpdated": "2026-03-28T14:59:37.841Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -84,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TL5qKKSRPZg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T14:00:00Z"
+        },
+        {
+          "id": "hyR299AJkrY",
+          "title": "Palm Sunday - March 29th, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/hyR299AJkrY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T14:50:00Z"
         }
       ]
     },
@@ -105,8 +114,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/RoMJjofeijk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bl9LH0AGWMA",
@@ -170,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nHb90om1FDE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T14:25:00Z"
+        },
+        {
+          "id": "ELExZTeHa8c",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ELExZTeHa8c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T14:45:00Z"
         }
       ]
     }
