@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-28T09:33:31.373Z",
+  "lastUpdated": "2026-03-28T10:28:33.593Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xi02cv0mzUY",
-          "title": "FSSPX Antwerpen - 28/03 ZATERDAG na PASSIEZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/xi02cv0mzUY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Dr8htWc9GPI",
           "title": "Sat. Mar. 28, 2026    -    Ferial Day in Passiontide",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LxZ7z_quSiQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T07:00:00Z"
+        },
+        {
+          "id": "QT2eTpPmeyg",
+          "title": "Domenica delle Palme (II Dom.di Passione) - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/QT2eTpPmeyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T07:55:00Z"
         }
       ]
     },
@@ -55,31 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cBSH79DrO_g",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/cBSH79DrO_g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fgF64MyjOxU",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fgF64MyjOxU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "liNlP-j9QJg",
           "title": "Saturday 28th March 2026: Passion Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/liNlP-j9QJg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dGVuftpRz2I",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/dGVuftpRz2I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WTFZaC1xFCs",
@@ -118,15 +109,6 @@
           "scheduledTime": "2026-03-28T18:00:00Z"
         },
         {
-          "id": "6NL0qXXZlX0",
-          "title": "9:30am —  Palm Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6NL0qXXZlX0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T08:30:00Z"
-        },
-        {
           "id": "6N8hUGr74yg",
           "title": "Sunday 29th March 2026: Palm Sunday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -134,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6N8hUGr74yg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T09:00:00Z"
+        },
+        {
+          "id": "5lYQ_dgjwjw",
+          "title": "11am — Palm Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/5lYQ_dgjwjw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T10:00:00Z"
         }
       ]
     }
