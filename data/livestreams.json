@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T13:49:12.722Z",
+  "lastUpdated": "2026-03-28T14:29:19.795Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/ulZdQs_Wy7k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Dr8htWc9GPI",
-          "title": "Sat. Mar. 28, 2026    -    Ferial Day in Passiontide",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Dr8htWc9GPI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -84,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ACEZ9FJ29Yg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T13:30:00Z"
+        },
+        {
+          "id": "TL5qKKSRPZg",
+          "title": "Sun. Mar. 29, 2026    -     Palm Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/TL5qKKSRPZg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T14:00:00Z"
         }
       ]
     },
@@ -91,31 +91,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pYr1rOYTW-4",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday in Passion Week)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pYr1rOYTW-4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WTFZaC1xFCs",
-          "title": "Saturday 9 AM Traditional Catholic Mass 03/28/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/WTFZaC1xFCs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "lgyXukDd7Zo",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/lgyXukDd7Zo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "RoMJjofeijk",
+          "title": "Legion of Mary - Spanish Acies",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/RoMJjofeijk/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-28T13:58:00Z"
+          "scheduledTime": "2026-03-28T15:00:00Z"
         },
         {
           "id": "bl9LH0AGWMA",
@@ -152,6 +143,33 @@
           "thumbnail": "https://i.ytimg.com/vi/3IvmqsCruuM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T11:30:00Z"
+        },
+        {
+          "id": "7KgOuIWuERk",
+          "title": "Live Stream Holy Mass (Low) from Cleveland (Palm Sunday, pre-1955 Missale Romanum)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7KgOuIWuERk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T12:00:00Z"
+        },
+        {
+          "id": "I100wjXSoMs",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Palm Sunday, pre-1955 Missale Romanum)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/I100wjXSoMs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T13:30:00Z"
+        },
+        {
+          "id": "nHb90om1FDE",
+          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-03-29",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/nHb90om1FDE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T14:25:00Z"
         }
       ]
     }
