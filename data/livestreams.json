@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T17:01:11.537Z",
+  "lastUpdated": "2026-03-28T17:53:53.244Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -105,8 +105,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bl9LH0AGWMA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-28T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5048udBJANM",
+          "title": "Santo Sacrificio de La Misa, Los Siete Dolores de Ntra. Señora, San Juan Damasceno, 27 marzo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/5048udBJANM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6N8hUGr74yg",
