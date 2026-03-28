@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T18:35:56.852Z",
+  "lastUpdated": "2026-03-28T19:27:15.715Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -99,15 +99,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bl9LH0AGWMA",
-          "title": "2PM Mass. Lenten Day of Recollection for Young Adults. Feria of Passiontide. III. Sat. 3-28-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bl9LH0AGWMA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5048udBJANM",
           "title": "Santo Sacrificio de La Misa, Los Siete Dolores de Ntra. Señora, San Juan Damasceno, 27 marzo, 2026.",
