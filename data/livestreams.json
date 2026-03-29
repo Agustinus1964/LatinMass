@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T11:51:21.848Z",
+  "lastUpdated": "2026-03-29T12:49:41.880Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "snJsOSrNKX4",
-          "title": "Low Mass - Palm Sunday - 3/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/snJsOSrNKX4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6Kxg3KH8qzQ",
           "title": "Kreuzweg - Palmsonntag - 29. März 2026",
@@ -59,6 +50,15 @@
           "scheduledTime": "2026-03-29T17:00:00Z"
         },
         {
+          "id": "jfKZ2wxzxYc",
+          "title": "Simple II Vespers - Palm Sunday - 3/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jfKZ2wxzxYc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T21:00:00Z"
+        },
+        {
           "id": "Q0Ovl16PYuU",
           "title": "Compline - 3/29/26",
           "channel": "SSPX Seminary - USA",
@@ -82,6 +82,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "7KgOuIWuERk",
+          "title": "Live Stream Holy Mass (Low) from Cleveland (Palm Sunday, pre-1955 Missale Romanum)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7KgOuIWuERk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "3IvmqsCruuM",
           "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -91,31 +100,31 @@
           "scheduledTime": null
         },
         {
-          "id": "uh122rRQNLU",
-          "title": "Sunday 7 AM Catholic Mass for 03/29/2026",
+          "id": "Qha_qczdKfg",
+          "title": "Sunday 8:30 AM Catholic Mass for 03/29/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/uh122rRQNLU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Qha_qczdKfg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "-4hIqsBSviw",
-          "title": "Sainte messe du dimanche des Rameaux - HOSANNA FILIO DAVID",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/-4hIqsBSviw/mqdefault_live.jpg",
+          "id": "yxTaMYInJrE",
+          "title": "Domingo de Ramos, Missa Solene",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/yxTaMYInJrE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "7KgOuIWuERk",
-          "title": "Live Stream Holy Mass (Low) from Cleveland (Palm Sunday, pre-1955 Missale Romanum)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/7KgOuIWuERk/mqdefault_live.jpg",
+          "id": "lvi6_a8Qnks",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/lvi6_a8Qnks/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-29T12:00:00Z"
+          "scheduledTime": "2026-03-29T12:58:00Z"
         },
         {
           "id": "I100wjXSoMs",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nHb90om1FDE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T14:25:00Z"
+        },
+        {
+          "id": "K3oLXmhgjSY",
+          "title": "Palm Sunday / Dimanche des rameaux",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/K3oLXmhgjSY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T14:30:00Z"
         },
         {
           "id": "ELExZTeHa8c",
