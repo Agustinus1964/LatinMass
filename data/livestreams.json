@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T08:36:35.046Z",
+  "lastUpdated": "2026-03-29T09:33:50.428Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/gUZedZqwMLQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LxZ7z_quSiQ",
-          "title": "Amt - Palmsonntag - 29. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/LxZ7z_quSiQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,6 +91,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "6N8hUGr74yg",
+          "title": "Sunday 29th March 2026: Palm Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/6N8hUGr74yg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "6NL0qXXZlX0",
           "title": "9:30am —  Palm Sunday",
           "channel": "Oxford Oratory",
@@ -114,8 +114,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/-4hIqsBSviw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3IvmqsCruuM",
