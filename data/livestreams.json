@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-29T07:32:36.441Z",
+  "lastUpdated": "2026-03-29T08:36:35.046Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gUZedZqwMLQ",
+          "title": "FSSPX Antwerpen - 29/03 PALMZONDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/gUZedZqwMLQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "LxZ7z_quSiQ",
           "title": "Amt - Palmsonntag - 29. März 2026",
@@ -19,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/QT2eTpPmeyg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T07:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6Kxg3KH8qzQ",
@@ -91,11 +100,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MGmxBwNg3GQ",
-          "title": "8am — Palm Sunday",
+          "id": "6NL0qXXZlX0",
+          "title": "9:30am —  Palm Sunday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/MGmxBwNg3GQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/6NL0qXXZlX0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,15 +170,6 @@
           "thumbnail": "https://i.ytimg.com/vi/W5h8nocpQik/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T15:30:00Z"
-        },
-        {
-          "id": "QdWQL7EyCuw",
-          "title": "Vespers and Benediction — Palm Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/QdWQL7EyCuw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T16:00:00Z"
         },
         {
           "id": "P7DYYxas5SQ",
