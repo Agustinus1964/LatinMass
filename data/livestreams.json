@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-03-29T16:32:09.111Z",
+  "lastUpdated": "2026-03-29T17:27:08.431Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PtYDYa5rNGA",
-          "title": "Palm Sunday-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/PtYDYa5rNGA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hyR299AJkrY",
-          "title": "Palm Sunday - March 29th, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/hyR299AJkrY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3jr5hi_gGzM",
-          "title": "Vesper - Palmsonntag - 29. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3jr5hi_gGzM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T15:50:00Z"
-        },
         {
           "id": "zFG7D_Q2ITk",
           "title": "Palm Sunday | March 29th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/zFG7D_Q2ITk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Q0Ovl16PYuU",
@@ -64,15 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Tq2-iEdOltE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Tq2-iEdOltE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "W5h8nocpQik",
           "title": "PALM SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -82,20 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "pIE2Ru8SzNU",
-          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-03-29",
+          "id": "l9besVrr3xw",
+          "title": "Sunday 1:30 PM Catholic Mass 03/29/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pIE2Ru8SzNU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K3oLXmhgjSY",
-          "title": "Palm Sunday / Dimanche des rameaux",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/K3oLXmhgjSY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/l9besVrr3xw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,33 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/0T2FPI8B2Ug/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "QdWQL7EyCuw",
-          "title": "Vespers and Benediction — Palm Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/QdWQL7EyCuw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "P7DYYxas5SQ",
-          "title": "Secondes vêpres du dimanche des Rameaux - SCRIPTUM EST ENIM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/P7DYYxas5SQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "l9besVrr3xw",
-          "title": "Sunday 1:30 PM Catholic Mass 03/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/l9besVrr3xw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T17:24:00Z"
         },
         {
           "id": "e2agUVS2ZDg",
@@ -152,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/O2iYoHRAGpg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-30T11:30:00Z"
+        },
+        {
+          "id": "YE80y_JI4dE",
+          "title": "Monday 30th March: Holy Monday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/YE80y_JI4dE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-30T17:00:00Z"
+        },
+        {
+          "id": "byQAxhyB7HQ",
+          "title": "Sainte messe du Lundi Saint - JUDICA DOMINE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/byQAxhyB7HQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-30T17:00:00Z"
         }
       ]
     }
