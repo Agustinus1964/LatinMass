@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T09:33:50.428Z",
+  "lastUpdated": "2026-03-29T10:29:19.247Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/gUZedZqwMLQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QT2eTpPmeyg",
-          "title": "Domenica delle Palme (II Dom.di Passione) - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/QT2eTpPmeyg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,20 +82,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6N8hUGr74yg",
-          "title": "Sunday 29th March 2026: Palm Sunday",
+          "id": "FM3Kpl4lqVw",
+          "title": "Monday 30th March 2026: Holy Monday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/6N8hUGr74yg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FM3Kpl4lqVw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "6NL0qXXZlX0",
-          "title": "9:30am —  Palm Sunday",
+          "id": "5lYQ_dgjwjw",
+          "title": "11am — Palm Sunday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6NL0qXXZlX0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/5lYQ_dgjwjw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,6 +105,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/-4hIqsBSviw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GnbiJx2Lc0U",
+          "title": "Domingo de Ramos, Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/GnbiJx2Lc0U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
