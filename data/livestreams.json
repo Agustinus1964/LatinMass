@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T06:12:34.482Z",
+  "lastUpdated": "2026-03-29T07:32:36.441Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/LxZ7z_quSiQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QT2eTpPmeyg",
@@ -91,6 +91,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "MGmxBwNg3GQ",
+          "title": "8am — Palm Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/MGmxBwNg3GQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "-4hIqsBSviw",
           "title": "Sainte messe du dimanche des Rameaux - HOSANNA FILIO DAVID",
           "channel": "Ite Missa Est",
@@ -98,15 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/-4hIqsBSviw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T09:00:00Z"
-        },
-        {
-          "id": "5lYQ_dgjwjw",
-          "title": "11am — Palm Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5lYQ_dgjwjw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T10:00:00Z"
         },
         {
           "id": "3IvmqsCruuM",
