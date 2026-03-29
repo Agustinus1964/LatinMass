@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T10:29:19.247Z",
+  "lastUpdated": "2026-03-29T11:01:48.792Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gUZedZqwMLQ",
-          "title": "FSSPX Antwerpen - 29/03 PALMZONDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gUZedZqwMLQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6Kxg3KH8qzQ",
           "title": "Kreuzweg - Palmsonntag - 29. März 2026",
@@ -91,6 +82,24 @@
           "scheduledTime": null
         },
         {
+          "id": "3IvmqsCruuM",
+          "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3IvmqsCruuM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "uh122rRQNLU",
+          "title": "Sunday 7 AM Catholic Mass for 03/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/uh122rRQNLU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "5lYQ_dgjwjw",
           "title": "11am — Palm Sunday",
           "channel": "Oxford Oratory",
@@ -116,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GnbiJx2Lc0U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "3IvmqsCruuM",
-          "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3IvmqsCruuM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T11:30:00Z"
         },
         {
           "id": "7KgOuIWuERk",
@@ -179,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/P7DYYxas5SQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T17:45:00Z"
+        },
+        {
+          "id": "e2agUVS2ZDg",
+          "title": "7AM Mass & Divine Office. Monday of Holy Week. I. March 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/e2agUVS2ZDg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-30T11:00:00Z"
         }
       ]
     }
