@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T16:29:09.720Z",
+  "lastUpdated": "2026-03-29T17:01:53.135Z",
   "videos": [
     {
       "id": "U7ujyl12Qeo",
@@ -30,6 +30,16 @@
       "thumbnail": "https://i.ytimg.com/vi/NsDD7cafCNE/mqdefault.jpg",
       "publishedAt": "2026-03-29T12:01:12Z",
       "category": "Return To Tradition"
+    },
+    {
+      "id": "O1vbpicl_SY",
+      "title": "Holy Mass 3/29/26 - Palm Sunday",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/O1vbpicl_SY/mqdefault_live.jpg",
+      "publishedAt": "2026-03-29T10:57:53Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "lcrP4iAZ9-E",
@@ -220,16 +230,6 @@
       "thumbnail": "https://i.ytimg.com/vi/pTQ36knRyss/mqdefault.jpg",
       "publishedAt": "2026-03-28T11:35:46Z",
       "category": "Pelican Plus"
-    },
-    {
-      "id": "saxMCQNYKx0",
-      "title": "Holy Mass 3/27/26 - Feast of the Seven Sorrows of the Blessed Virgin Mary",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/saxMCQNYKx0/mqdefault.jpg",
-      "publishedAt": "2026-03-28T11:19:54Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "1YLfzmW9eGk",
