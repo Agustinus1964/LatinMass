@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T13:51:18.049Z",
+  "lastUpdated": "2026-03-29T14:31:01.768Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,6 +14,15 @@
           "scheduledTime": null
         },
         {
+          "id": "PtYDYa5rNGA",
+          "title": "Palm Sunday-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/PtYDYa5rNGA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "OK4WR6UiXmY",
           "title": "Palm Sunday 2026",
           "channel": "SSPX Florida",
@@ -23,11 +32,11 @@
           "scheduledTime": null
         },
         {
-          "id": "ACEZ9FJ29Yg",
-          "title": "Blessing of Palms",
+          "id": "TL5qKKSRPZg",
+          "title": "Sun. Mar. 29, 2026    -     Palm Sunday",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ACEZ9FJ29Yg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/TL5qKKSRPZg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hyR299AJkrY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T14:50:00Z"
-        },
-        {
-          "id": "PtYDYa5rNGA",
-          "title": "Palm Sunday-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/PtYDYa5rNGA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T15:00:00Z"
         },
         {
           "id": "3jr5hi_gGzM",
@@ -100,20 +100,20 @@
           "scheduledTime": null
         },
         {
-          "id": "lvi6_a8Qnks",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/lvi6_a8Qnks/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3IvmqsCruuM",
           "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/3IvmqsCruuM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "K3oLXmhgjSY",
+          "title": "Palm Sunday / Dimanche des rameaux",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/K3oLXmhgjSY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -136,24 +136,6 @@
           "scheduledTime": null
         },
         {
-          "id": "nHb90om1FDE",
-          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-03-29",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/nHb90om1FDE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T14:25:00Z"
-        },
-        {
-          "id": "K3oLXmhgjSY",
-          "title": "Palm Sunday / Dimanche des rameaux",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/K3oLXmhgjSY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T14:30:00Z"
-        },
-        {
           "id": "ELExZTeHa8c",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
@@ -163,6 +145,15 @@
           "scheduledTime": "2026-03-29T14:45:00Z"
         },
         {
+          "id": "pIE2Ru8SzNU",
+          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-03-29",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/pIE2Ru8SzNU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T14:55:00Z"
+        },
+        {
           "id": "W5h8nocpQik",
           "title": "PALM SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -170,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W5h8nocpQik/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-29T15:30:00Z"
+        },
+        {
+          "id": "l9besVrr3xw",
+          "title": "Sunday 1:30 PM Catholic Mass 03/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/l9besVrr3xw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-29T17:24:00Z"
         },
         {
           "id": "P7DYYxas5SQ",
