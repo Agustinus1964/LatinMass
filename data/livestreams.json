@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T15:55:22.986Z",
+  "lastUpdated": "2026-03-29T16:32:09.111Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MU3jKCwzou4",
-          "title": "Solemn High Mass & Procession - Palm Sunday - 3/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/MU3jKCwzou4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PtYDYa5rNGA",
           "title": "Palm Sunday-The Immaculata",
@@ -28,15 +19,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/hyR299AJkrY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TSOu8szXl-g",
-          "title": "FSSPX Antwerpen - 29/03 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/TSOu8szXl-g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -81,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "I100wjXSoMs",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Palm Sunday, pre-1955 Missale Romanum)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/I100wjXSoMs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Tq2-iEdOltE",
           "title": "Mass",
@@ -170,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/e2agUVS2ZDg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-30T11:00:00Z"
+        },
+        {
+          "id": "O2iYoHRAGpg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday in Holy Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/O2iYoHRAGpg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-30T11:30:00Z"
         }
       ]
     }
