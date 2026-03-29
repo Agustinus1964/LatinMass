@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-03-29T20:31:30.436Z",
+  "lastUpdated": "2026-03-29T21:28:19.576Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "CiZBmoc43DM",
-          "title": "Monday in Holy Week - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/CiZBmoc43DM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Q0Ovl16PYuU",
-          "title": "Compline - 3/29/26",
+          "id": "jfKZ2wxzxYc",
+          "title": "Simple II Vespers - Palm Sunday - 3/29/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Q0Ovl16PYuU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T00:45:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/jfKZ2wxzxYc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wIHxQ3dM_Es",
