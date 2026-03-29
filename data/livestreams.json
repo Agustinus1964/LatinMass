@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-29T21:56:25.725Z",
+  "lastUpdated": "2026-03-29T22:31:37.802Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jfKZ2wxzxYc",
-          "title": "Simple II Vespers - Palm Sunday - 3/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jfKZ2wxzxYc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wIHxQ3dM_Es",
           "title": "Parish Mission - 1st Conference",
@@ -41,6 +32,15 @@
           "scheduledTime": "2026-03-30T07:15:00Z"
         },
         {
+          "id": "_QpzqkZlv20",
+          "title": "Low Mass - Monday in Holy Week - 3/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/_QpzqkZlv20/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-30T11:15:00Z"
+        },
+        {
           "id": "LhDkrWUGfbY",
           "title": "Mon. Mar. 30, 2026    -    Monday in Holy Week",
           "channel": "Transfiguration Church SSPX",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LVy2ZjOSVKE",
-          "title": "Domingo de Ramos, Missa Rezada e ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/LVy2ZjOSVKE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "e2agUVS2ZDg",
           "title": "7AM Mass & Divine Office. Monday of Holy Week. I. March 30, 2026.",
