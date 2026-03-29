@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T14:31:01.768Z",
+  "lastUpdated": "2026-03-29T15:28:00.656Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": null
         },
         {
+          "id": "hyR299AJkrY",
+          "title": "Palm Sunday - March 29th, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/hyR299AJkrY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "TL5qKKSRPZg",
           "title": "Sun. Mar. 29, 2026    -     Palm Sunday",
           "channel": "Transfiguration Church SSPX",
@@ -41,13 +50,13 @@
           "scheduledTime": null
         },
         {
-          "id": "hyR299AJkrY",
-          "title": "Palm Sunday - March 29th, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/hyR299AJkrY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T14:50:00Z"
+          "id": "TSOu8szXl-g",
+          "title": "FSSPX Antwerpen - 29/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/TSOu8szXl-g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3jr5hi_gGzM",
@@ -89,107 +98,7 @@
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "I100wjXSoMs",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Palm Sunday, pre-1955 Missale Romanum)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/I100wjXSoMs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3IvmqsCruuM",
-          "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3IvmqsCruuM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K3oLXmhgjSY",
-          "title": "Palm Sunday / Dimanche des rameaux",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/K3oLXmhgjSY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0T2FPI8B2Ug",
-          "title": "Santa Misa Domingo de Ramos. 29 de Marzo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/0T2FPI8B2Ug/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yxTaMYInJrE",
-          "title": "Domingo de Ramos, Missa Solene",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/yxTaMYInJrE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ELExZTeHa8c",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/ELExZTeHa8c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T14:45:00Z"
-        },
-        {
-          "id": "pIE2Ru8SzNU",
-          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-03-29",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pIE2Ru8SzNU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T14:55:00Z"
-        },
-        {
-          "id": "W5h8nocpQik",
-          "title": "PALM SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/W5h8nocpQik/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T15:30:00Z"
-        },
-        {
-          "id": "l9besVrr3xw",
-          "title": "Sunday 1:30 PM Catholic Mass 03/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/l9besVrr3xw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T17:24:00Z"
-        },
-        {
-          "id": "P7DYYxas5SQ",
-          "title": "Secondes vêpres du dimanche des Rameaux - SCRIPTUM EST ENIM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/P7DYYxas5SQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T17:45:00Z"
-        },
-        {
-          "id": "e2agUVS2ZDg",
-          "title": "7AM Mass & Divine Office. Monday of Holy Week. I. March 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/e2agUVS2ZDg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T11:00:00Z"
-        }
-      ]
+      "videos": []
     }
   }
 }
