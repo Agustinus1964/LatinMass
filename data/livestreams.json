@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-03-29T11:01:48.792Z",
+  "lastUpdated": "2026-03-29T11:51:21.848Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "snJsOSrNKX4",
+          "title": "Low Mass - Palm Sunday - 3/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/snJsOSrNKX4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "6Kxg3KH8qzQ",
           "title": "Kreuzweg - Palmsonntag - 29. März 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/6Kxg3KH8qzQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hyR299AJkrY",
@@ -50,15 +59,6 @@
           "scheduledTime": "2026-03-29T17:00:00Z"
         },
         {
-          "id": "jfKZ2wxzxYc",
-          "title": "Simple II Vespers - Palm Sunday - 3/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jfKZ2wxzxYc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-29T21:00:00Z"
-        },
-        {
           "id": "Q0Ovl16PYuU",
           "title": "Compline - 3/29/26",
           "channel": "SSPX Seminary - USA",
@@ -66,21 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Q0Ovl16PYuU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-30T00:45:00Z"
+        },
+        {
+          "id": "LhDkrWUGfbY",
+          "title": "Mon. Mar. 30, 2026    -    Monday in Holy Week",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/LhDkrWUGfbY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-30T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FM3Kpl4lqVw",
-          "title": "Monday 30th March 2026: Holy Monday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/FM3Kpl4lqVw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3IvmqsCruuM",
           "title": "7:30AM Low Mass & 9:30AM Sung Mass. Palm Sunday. I. March 29, 2026.",
@@ -100,29 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "5lYQ_dgjwjw",
-          "title": "11am — Palm Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5lYQ_dgjwjw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "-4hIqsBSviw",
           "title": "Sainte messe du dimanche des Rameaux - HOSANNA FILIO DAVID",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/-4hIqsBSviw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GnbiJx2Lc0U",
-          "title": "Domingo de Ramos, Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/GnbiJx2Lc0U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
