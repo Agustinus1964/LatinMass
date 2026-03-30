@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-30T20:41:25.657Z",
+  "lastUpdated": "2026-03-30T21:38:56.192Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4FaYfnvWtHE",
-          "title": "Tuesday in Holy Week - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/4FaYfnvWtHE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nGjddmG6T84",
           "title": "Parish Mission - 2nd Conference",
@@ -64,6 +55,24 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "uoks7BfTHIc",
+          "title": "Terço e Missa Rezada da Segunda-feira Santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/uoks7BfTHIc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "u4Imv9HdI_M",
+          "title": "Tuesday 6 AM Traditional Catholic Mass 03/31/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/u4Imv9HdI_M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T09:55:00Z"
+        },
+        {
           "id": "g88c8OBH1_g",
           "title": "7AM Mass & Divine Office. Tuesday of Holy Week. I. March 31, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -82,6 +91,15 @@
           "scheduledTime": "2026-03-31T11:30:00Z"
         },
         {
+          "id": "p2kk4jAvom8",
+          "title": "Tuesday 8 AM Catholic Mass for 03/31/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/p2kk4jAvom8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T11:55:00Z"
+        },
+        {
           "id": "5YMIVWiAoI0",
           "title": "Tuesday 31st March 2026: Holy Tuesday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NJJKLvQ3Opk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T17:00:00Z"
+        },
+        {
+          "id": "Ps28_OuUZpg",
+          "title": "Divine Office & 6PM Mass. Tuesday of Holy Week. I. March 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Ps28_OuUZpg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T21:00:00Z"
         }
       ]
     }
