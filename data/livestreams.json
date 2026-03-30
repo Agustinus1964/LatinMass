@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-30T17:27:05.137Z",
+  "lastUpdated": "2026-03-30T18:12:15.215Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,42 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "h54WboBH60U",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/h54WboBH60U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YE80y_JI4dE",
-          "title": "Monday 30th March: Holy Monday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/YE80y_JI4dE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NqNytXIc-nY",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/NqNytXIc-nY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "byQAxhyB7HQ",
-          "title": "Sainte messe du Lundi Saint - JUDICA DOMINE",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/byQAxhyB7HQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "g88c8OBH1_g",
           "title": "7AM Mass & Divine Office. Tuesday of Holy Week. I. March 31, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -105,6 +69,15 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/5YMIVWiAoI0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T17:00:00Z"
+        },
+        {
+          "id": "NJJKLvQ3Opk",
+          "title": "Sainte messe du Mardi Saint - NOS AUTEM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/NJJKLvQ3Opk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T17:00:00Z"
         }
