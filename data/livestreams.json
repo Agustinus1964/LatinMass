@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-03-30T14:48:01.009Z",
+  "lastUpdated": "2026-03-30T16:03:26.986Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JU_PpY3lRms",
+          "title": "FSSPX Antwerpen - 30/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/JU_PpY3lRms/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "li4saBpG-4Y",
+          "title": "Rosenkranz und hl. Messe - Montag in der Karwoche - 30. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/li4saBpG-4Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nGjddmG6T84",
           "title": "Parish Mission - 2nd Conference",
@@ -12,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nGjddmG6T84/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T01:00:00Z"
-        },
-        {
-          "id": "NSnzdteqwhc",
-          "title": "Hl. Messe - Dienstag in der Karwoche - 31. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NSnzdteqwhc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-31T05:00:00Z"
         },
         {
           "id": "TqhTfU0ctOg",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5gC4rj_VcDc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T11:45:00Z"
+        },
+        {
+          "id": "O9nUytN9l7Q",
+          "title": "Rosenkranz und hl. Messe - Dienstag in der Karwoche - 31. März 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/O9nUytN9l7Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T16:00:00Z"
         }
       ]
     },
