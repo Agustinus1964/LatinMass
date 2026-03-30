@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-03-30T08:53:49.943Z",
+  "lastUpdated": "2026-03-30T10:13:51.780Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Ul55DnFJuyg",
-          "title": "HOLY WEEK MISSION -2026   Day 1 of 3 Father Pepping",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/Ul55DnFJuyg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_QpzqkZlv20",
           "title": "Low Mass - Monday in Holy Week - 3/30/26",
@@ -55,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "wZiuMfTBNjY",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/wZiuMfTBNjY/mqdefault_live.jpg",
+          "id": "I5jtd9-x_C8",
+          "title": "Monday 6 AM Traditional Catholic Mass 03/30/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/I5jtd9-x_C8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
