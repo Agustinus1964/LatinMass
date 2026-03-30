@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-30T10:13:51.780Z",
+  "lastUpdated": "2026-03-30T11:31:50.070Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "LhDkrWUGfbY",
+          "title": "Mon. Mar. 30, 2026    -    Monday in Holy Week",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/LhDkrWUGfbY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_QpzqkZlv20",
           "title": "Low Mass - Monday in Holy Week - 3/30/26",
@@ -14,13 +23,13 @@
           "scheduledTime": "2026-03-30T11:15:00Z"
         },
         {
-          "id": "LhDkrWUGfbY",
-          "title": "Mon. Mar. 30, 2026    -    Monday in Holy Week",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/LhDkrWUGfbY/mqdefault_live.jpg",
+          "id": "YDTu0zX6qko",
+          "title": "The Passion: According to Thomas Aquinas - Part 4",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/YDTu0zX6qko/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-03-30T11:15:00Z"
+          "scheduledTime": "2026-03-30T11:45:00Z"
         },
         {
           "id": "nGjddmG6T84",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NSnzdteqwhc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T05:00:00Z"
+        },
+        {
+          "id": "TqhTfU0ctOg",
+          "title": "Tue. Mar. 31, 2026    -    Tuesday in Holy Week",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/TqhTfU0ctOg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T11:15:00Z"
         }
       ]
     },
@@ -46,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "I5jtd9-x_C8",
-          "title": "Monday 6 AM Traditional Catholic Mass 03/30/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/I5jtd9-x_C8/mqdefault_live.jpg",
+          "id": "O2iYoHRAGpg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday in Holy Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/O2iYoHRAGpg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -60,17 +78,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/e2agUVS2ZDg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T11:00:00Z"
-        },
-        {
-          "id": "O2iYoHRAGpg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Monday in Holy Week)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/O2iYoHRAGpg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YE80y_JI4dE",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/byQAxhyB7HQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-30T17:00:00Z"
+        },
+        {
+          "id": "g88c8OBH1_g",
+          "title": "7AM Mass & Divine Office. Tuesday of Holy Week. I. March 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/g88c8OBH1_g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T11:00:00Z"
         }
       ]
     }
