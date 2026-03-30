@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-30T16:03:26.986Z",
+  "lastUpdated": "2026-03-30T17:27:05.137Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "JU_PpY3lRms",
-          "title": "FSSPX Antwerpen - 30/03 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/JU_PpY3lRms/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "li4saBpG-4Y",
-          "title": "Rosenkranz und hl. Messe - Montag in der Karwoche - 30. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/li4saBpG-4Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nGjddmG6T84",
           "title": "Parish Mission - 2nd Conference",
@@ -64,13 +46,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "h54WboBH60U",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/h54WboBH60U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "YE80y_JI4dE",
           "title": "Monday 30th March: Holy Monday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/YE80y_JI4dE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "NqNytXIc-nY",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NqNytXIc-nY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "byQAxhyB7HQ",
@@ -78,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/byQAxhyB7HQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "g88c8OBH1_g",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/X3Z9JobM69Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T11:30:00Z"
+        },
+        {
+          "id": "5YMIVWiAoI0",
+          "title": "Tuesday 31st March 2026: Holy Tuesday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/5YMIVWiAoI0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T17:00:00Z"
         }
       ]
     }
