@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-03-30T19:33:31.587Z",
+  "lastUpdated": "2026-03-30T20:41:25.657Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "4FaYfnvWtHE",
+          "title": "Tuesday in Holy Week - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/4FaYfnvWtHE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nGjddmG6T84",
           "title": "Parish Mission - 2nd Conference",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nGjddmG6T84/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T01:00:00Z"
+        },
+        {
+          "id": "DE8qeWAHsok",
+          "title": "Tuesday of Holy Week",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/DE8qeWAHsok/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-03-31T07:15:00Z"
         },
         {
           "id": "TqhTfU0ctOg",
@@ -74,7 +92,7 @@
         },
         {
           "id": "NJJKLvQ3Opk",
-          "title": "Sainte messe du Mardi Saint - NOS AUTEM",
+          "title": "Sainte messe du Mardi Saint - Passion selon saint Marc - NOS AUTEM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/NJJKLvQ3Opk/mqdefault_live.jpg",
