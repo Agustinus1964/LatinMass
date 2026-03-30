@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-03-30T05:21:19.075Z",
+  "lastUpdated": "2026-03-30T07:06:43.235Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "T07bPBH8Qp0",
-          "title": "Hl. Messe - Montag in der Karwoche - 30. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/T07bPBH8Qp0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4tknGMd5s3Y",
-          "title": "Monday of Holy Week",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/4tknGMd5s3Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-30T07:15:00Z"
-        },
         {
           "id": "_QpzqkZlv20",
           "title": "Low Mass - Monday in Holy Week - 3/30/26",
