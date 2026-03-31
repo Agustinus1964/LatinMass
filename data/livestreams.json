@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T14:06:59.024Z",
+  "lastUpdated": "2026-03-31T15:44:25.513Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/DE8qeWAHsok/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "g1izvdixqSA",
+          "title": "FSSPX Antwerpen - 31/03 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/g1izvdixqSA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -54,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E-wxRZ4hpJw",
-          "title": "Santa Misa Semana Santa, Martes Santo. 31 de Marzo 2026",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/E-wxRZ4hpJw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5YMIVWiAoI0",
           "title": "Tuesday 31st March 2026: Holy Tuesday",
