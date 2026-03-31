@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-31T16:52:47.810Z",
+  "lastUpdated": "2026-03-31T17:52:50.823Z",
   "videos": [
+    {
+      "id": "nB33jDoPU6E",
+      "title": "Over 20,000 Catholics celebrating Palm Sunday at Lourdes.",
+      "channel": "LSNTV",
+      "channelId": "UCw8JTSl7MOe0mgTb4Tfkozw",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/nB33jDoPU6E/mqdefault.jpg",
+      "publishedAt": "2026-03-31T17:34:36Z",
+      "category": "John Henry Westen Channel"
+    },
     {
       "id": "8JS29Qj9A9E",
       "title": "Tenebrae Explained by Dr. Taylor Marshall",
@@ -40,6 +50,16 @@
       "thumbnail": "https://i.ytimg.com/vi/ZBFfm5W-A58/mqdefault.jpg",
       "publishedAt": "2026-03-31T15:22:29Z",
       "category": "Pelican Plus"
+    },
+    {
+      "id": "otmj-FV-oBE",
+      "title": "Holy Mass 3/31/26 - Tuesday in Holy Week",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/otmj-FV-oBE/mqdefault_live.jpg",
+      "publishedAt": "2026-03-31T14:47:16Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "Ei-X5qg3J4E",
@@ -282,16 +302,6 @@
       "category": "SSPX News"
     },
     {
-      "id": "bY6maei3NXE",
-      "title": "Palm Sunday forces us to ask ourselves a hard question.",
-      "channel": "LSNTV",
-      "channelId": "UCw8JTSl7MOe0mgTb4Tfkozw",
-      "description": "Palm Sunday forces us to ask ourselves a hard question: Are we faithful to Christ, or do we follow Him only when it’s easy?",
-      "thumbnail": "https://i.ytimg.com/vi/bY6maei3NXE/mqdefault.jpg",
-      "publishedAt": "2026-03-30T01:36:12Z",
-      "category": "John Henry Westen Channel"
-    },
-    {
       "id": "mhnFT5nKnjs",
       "title": "The Pope & Pachamama, War in the Holy Land, and Bishop Schneider on the SSPX",
       "channel": "TheRemnantVideo",
@@ -360,16 +370,6 @@
       "thumbnail": "https://i.ytimg.com/vi/mggjE2S19zY/mqdefault.jpg",
       "publishedAt": "2026-03-29T02:00:38Z",
       "category": "Ascent of Mount Carmel"
-    },
-    {
-      "id": "UQv3gpPP-r0",
-      "title": "Holy Mass 3/28/26 - Feast of St. John Capistran",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/UQv3gpPP-r0/mqdefault.jpg",
-      "publishedAt": "2026-03-29T01:28:50Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "ciXsgGHXKiA",
