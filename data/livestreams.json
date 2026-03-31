@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T04:57:39.155Z",
+  "lastUpdated": "2026-03-31T06:16:44.672Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/DE8qeWAHsok/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-31T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TqhTfU0ctOg",
@@ -32,15 +32,6 @@
           "scheduledTime": "2026-03-31T11:45:00Z"
         },
         {
-          "id": "O9nUytN9l7Q",
-          "title": "Rosenkranz und hl. Messe - Dienstag in der Karwoche - 31. März 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/O9nUytN9l7Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-31T16:00:00Z"
-        },
-        {
           "id": "f39NpdjlRGA",
           "title": "Parish Mission - 3rd Conference",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/f39NpdjlRGA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T01:00:00Z"
+        },
+        {
+          "id": "WNrGzpexKCg",
+          "title": "Hl. Messe - Mittwoch in der Karwoche - 01. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WNrGzpexKCg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T05:00:00Z"
         }
       ]
     },
