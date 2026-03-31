@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T19:55:54.453Z",
+  "lastUpdated": "2026-03-31T20:40:41.671Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/DE8qeWAHsok/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "NaxMdR_mBeY",
+          "title": "Mass of Wednesday in Holy Week",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/NaxMdR_mBeY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,8 +78,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Ps28_OuUZpg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-31T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2Eux8DntxY4",
