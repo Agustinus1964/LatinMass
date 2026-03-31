@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T22:31:50.593Z",
+  "lastUpdated": "2026-03-31T23:30:40.158Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,24 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Ps28_OuUZpg",
-          "title": "Divine Office & 6PM Mass. Tuesday of Holy Week. I. March 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Ps28_OuUZpg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OvrihDmAQpw",
-          "title": "Missa Cantada da Terça-feira Santa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/OvrihDmAQpw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "2Eux8DntxY4",
           "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/01/2026",
           "channel": "St. Benedict Parish",
@@ -143,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iEXg3D00nj8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T21:00:00Z"
+        },
+        {
+          "id": "Qz_VDFTh0SE",
+          "title": "TENEBRAE FOR HOLY THURSDAY (ANTICIPATED), 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Qz_VDFTh0SE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T23:00:00Z"
         }
       ]
     }
