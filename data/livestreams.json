@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T12:05:53.811Z",
+  "lastUpdated": "2026-03-31T14:06:59.024Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/DE8qeWAHsok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5gC4rj_VcDc",
-          "title": "The Passion: According to Thomas Aquinas - Part 5",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/5gC4rj_VcDc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "X3Z9JobM69Y",
-          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday in Holy Week)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/X3Z9JobM69Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p2kk4jAvom8",
-          "title": "Tuesday 8 AM Catholic Mass for 03/31/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/p2kk4jAvom8/mqdefault_live.jpg",
+          "id": "E-wxRZ4hpJw",
+          "title": "Santa Misa Semana Santa, Martes Santo. 31 de Marzo 2026",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/E-wxRZ4hpJw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VSgMPMNBwc0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T11:00:00Z"
+        },
+        {
+          "id": "IBS6Gv3kXM8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday in Holy Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/IBS6Gv3kXM8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T11:30:00Z"
         }
       ]
     }
