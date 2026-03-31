@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T08:55:03.783Z",
+  "lastUpdated": "2026-03-31T10:03:25.668Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,8 +60,17 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/u4Imv9HdI_M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-03-31T09:55:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GHpWJdSN3d4",
+          "title": "Prima e Missa Rezada da Terça-feira Santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/GHpWJdSN3d4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "g88c8OBH1_g",
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ps28_OuUZpg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-03-31T21:00:00Z"
+        },
+        {
+          "id": "2Eux8DntxY4",
+          "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/2Eux8DntxY4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T09:55:00Z"
         }
       ]
     }
