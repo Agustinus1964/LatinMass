@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-31T18:58:14.417Z",
+  "lastUpdated": "2026-03-31T19:55:54.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/f39NpdjlRGA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T01:00:00Z"
+        },
+        {
+          "id": "wPpA7on2i_g",
+          "title": "Wednesday of Holy Week",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/wPpA7on2i_g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T07:30:00Z"
         },
         {
           "id": "qHrIBoc2ZAw",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mafsTqGECbI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T17:00:00Z"
+        },
+        {
+          "id": "3otHzZVaPYc",
+          "title": "Wednesday 1st April 2026 - 8:30 pm: Maundy Thursday Tenebræ",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/3otHzZVaPYc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T19:30:00Z"
         }
       ]
     }
