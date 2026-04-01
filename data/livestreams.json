@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-01T20:40:17.078Z",
+  "lastUpdated": "2026-04-01T21:38:28.656Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "B5-mk9eKfEs",
+          "title": "Tenebrae - Thursday in Holy Week - 4/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/B5-mk9eKfEs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "mMOqwrrv0BI",
           "title": "Holy Thursday Tenebrae",
@@ -51,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/iEXg3D00nj8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Z27jyBt5-VY",
-          "title": "Office des Ténèbres du Jeudi Saint - ZELUS DOMUS TUÆ",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Z27jyBt5-VY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
