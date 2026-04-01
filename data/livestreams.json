@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-01T22:34:10.713Z",
+  "lastUpdated": "2026-04-01T23:33:27.130Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "B5-mk9eKfEs",
-          "title": "Tenebrae - Thursday in Holy Week - 4/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/B5-mk9eKfEs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "mMOqwrrv0BI",
           "title": "Holy Thursday Tenebrae",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bEha32o9vCw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T12:45:55Z"
+        },
+        {
+          "id": "vTjvcG5lYfI",
+          "title": "Thu. Apr. 2,  2026    -    Holy Thursday    -    (Maundy Thursday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/vTjvcG5lYfI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T23:00:00Z"
         }
       ]
     },
@@ -46,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iEXg3D00nj8",
-          "title": "Divine Office & 6PM Mass. Wednesday of Holy Week. I. April 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iEXg3D00nj8/mqdefault_live.jpg",
+          "id": "Qz_VDFTh0SE",
+          "title": "TENEBRAE FOR HOLY THURSDAY (ANTICIPATED), 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Qz_VDFTh0SE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/a_KkX1mvD6U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Qz_VDFTh0SE",
-          "title": "TENEBRAE FOR HOLY THURSDAY (ANTICIPATED), 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Qz_VDFTh0SE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T23:00:00Z"
         },
         {
           "id": "Z35TgnCX8RI",
@@ -116,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/FdYAtgqwpwU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T22:30:00Z"
+        },
+        {
+          "id": "CmdLZoZNeq4",
+          "title": "Thursday 7 PM Maundy (Holy) Thursday Traditional Catholic Mass 04/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/CmdLZoZNeq4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T22:55:00Z"
+        },
+        {
+          "id": "KmAr7mN7c3E",
+          "title": "7PM Mass with Eucharistic Procession & Stripping of the Altars. Holy Thursday. I. April 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KmAr7mN7c3E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T23:00:00Z"
+        },
+        {
+          "id": "Fny9CCzH7xc",
+          "title": "HOLY THURSDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Fny9CCzH7xc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T23:00:00Z"
         }
       ]
     }
