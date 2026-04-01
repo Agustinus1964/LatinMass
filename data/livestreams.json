@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-01T14:47:49.747Z",
+  "lastUpdated": "2026-04-01T16:04:33.955Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_4KaZHpbBsI",
+          "title": "Rosenkranz und hl. Messe - Mittwoch in der Karwoche - 01. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/_4KaZHpbBsI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zG5ZBWqa9h4",
           "title": "Solemn High Mass - Maundy Thursday",
@@ -28,15 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jgGMSe5lsw4",
-          "title": "Santa Misa, Semana Santa, Miércoles Santo. 1 de Abril 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/jgGMSe5lsw4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "nNgjMm5IpVE",
           "title": "Wednesday 1st April 2026: Spy Wednesday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -53,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mafsTqGECbI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T17:00:00Z"
+        },
+        {
+          "id": "Z27jyBt5-VY",
+          "title": "Office des Ténèbres du Jeudi Saint - ZELUS DOMUS TUÆ",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Z27jyBt5-VY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-01T19:00:00Z"
         },
         {
           "id": "3otHzZVaPYc",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Z35TgnCX8RI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T11:30:00Z"
+        },
+        {
+          "id": "jC9xQjYORfo",
+          "title": "Thursday 2nd April - 5 pm: Maundy Thursday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/jC9xQjYORfo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T16:00:00Z"
         }
       ]
     }
