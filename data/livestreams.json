@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-01T19:36:11.120Z",
+  "lastUpdated": "2026-04-01T20:40:17.078Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mMOqwrrv0BI",
+          "title": "Holy Thursday Tenebrae",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/mMOqwrrv0BI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T07:30:00Z"
+        },
         {
           "id": "zG5ZBWqa9h4",
           "title": "Solemn High Mass - Maundy Thursday",
@@ -37,6 +46,15 @@
           "scheduledTime": null
         },
         {
+          "id": "iEXg3D00nj8",
+          "title": "Divine Office & 6PM Mass. Wednesday of Holy Week. I. April 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/iEXg3D00nj8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Z27jyBt5-VY",
           "title": "Office des Ténèbres du Jeudi Saint - ZELUS DOMUS TUÆ",
           "channel": "Ite Missa Est",
@@ -44,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Z27jyBt5-VY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "iEXg3D00nj8",
-          "title": "Divine Office & 6PM Mass. Wednesday of Holy Week. I. April 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iEXg3D00nj8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T21:00:00Z"
         },
         {
           "id": "Qz_VDFTh0SE",
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jC9xQjYORfo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T16:00:00Z"
+        },
+        {
+          "id": "26DdQhsWuQE",
+          "title": "Sainte messe du Jeudi Saint, in Cena Domini - NOS AUTEM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/26DdQhsWuQE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T18:30:00Z"
         },
         {
           "id": "O9OvhabyjG8",
