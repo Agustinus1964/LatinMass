@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-04-01T10:51:40.718Z",
+  "lastUpdated": "2026-04-01T11:50:40.031Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JlZnzULy5tE",
+          "title": "Low Mass - Wednesday in Holy Week - 4/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/JlZnzULy5tE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "qHrIBoc2ZAw",
           "title": "Wed. Apr. 1, 2026    -    Wednesday in Holy Week",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/qHrIBoc2ZAw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Cbt9P6HoMHs",
@@ -19,14 +28,32 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/Cbt9P6HoMHs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zG5ZBWqa9h4",
+          "title": "Solemn High Mass - Maundy Thursday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/zG5ZBWqa9h4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-01T11:45:00Z"
+          "scheduledTime": "2026-04-02T11:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "IBS6Gv3kXM8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday in Holy Week)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/IBS6Gv3kXM8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VSgMPMNBwc0",
           "title": "7AM Mass & Divine Office. Wednesday of Holy Week. I. March 31, 2026.",
@@ -35,24 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VSgMPMNBwc0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "2Eux8DntxY4",
-          "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/2Eux8DntxY4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IBS6Gv3kXM8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday in Holy Week)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/IBS6Gv3kXM8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T11:30:00Z"
         },
         {
           "id": "nNgjMm5IpVE",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qz_VDFTh0SE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-01T23:00:00Z"
+        },
+        {
+          "id": "Z35TgnCX8RI",
+          "title": "7:30AM Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Thursday. I. Thursday, April 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Z35TgnCX8RI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T11:30:00Z"
         }
       ]
     }
