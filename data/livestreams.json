@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T09:43:56.237Z",
+  "lastUpdated": "2026-04-01T10:51:40.718Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "m5A-ZkJk-Ek",
-          "title": "Prima e Missa Rezada da Quarta-feira Santa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/m5A-ZkJk-Ek/mqdefault_live.jpg",
+          "id": "VSgMPMNBwc0",
+          "title": "7AM Mass & Divine Office. Wednesday of Holy Week. I. March 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/VSgMPMNBwc0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -42,17 +42,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/2Eux8DntxY4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T09:55:00Z"
-        },
-        {
-          "id": "VSgMPMNBwc0",
-          "title": "7AM Mass & Divine Office. Wednesday of Holy Week. I. March 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/VSgMPMNBwc0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IBS6Gv3kXM8",
