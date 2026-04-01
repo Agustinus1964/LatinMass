@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-01T08:16:58.126Z",
+  "lastUpdated": "2026-04-01T09:43:56.237Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "DXkj_USKtPg",
-          "title": "Sermons - 3 of 3",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/DXkj_USKtPg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "qHrIBoc2ZAw",
           "title": "Wed. Apr. 1, 2026    -    Wednesday in Holy Week",
@@ -36,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "m5A-ZkJk-Ek",
+          "title": "Prima e Missa Rezada da Quarta-feira Santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/m5A-ZkJk-Ek/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "2Eux8DntxY4",
           "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/01/2026",
