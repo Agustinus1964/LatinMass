@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T18:08:58.243Z",
+  "lastUpdated": "2026-04-01T19:36:11.120Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mafsTqGECbI",
-          "title": "Sainte messe du Mercredi Saint - Passion selon saint Luc - IN NOMINE DOMINI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/mafsTqGECbI/mqdefault_live.jpg",
+          "id": "3otHzZVaPYc",
+          "title": "Wednesday 1st April 2026 - 8:30 pm: Maundy Thursday Tenebræ",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/3otHzZVaPYc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -42,17 +42,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Z27jyBt5-VY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T19:00:00Z"
-        },
-        {
-          "id": "3otHzZVaPYc",
-          "title": "Wednesday 1st April 2026 - 8:30 pm: Maundy Thursday Tenebræ",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/3otHzZVaPYc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T19:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iEXg3D00nj8",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jC9xQjYORfo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T16:00:00Z"
+        },
+        {
+          "id": "O9OvhabyjG8",
+          "title": "Thursday 2nd April 2026 - 8:30 pm: Good Friday Tenebræ",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/O9OvhabyjG8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T19:30:00Z"
         }
       ]
     }
