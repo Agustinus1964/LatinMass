@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-01T05:10:27.045Z",
+  "lastUpdated": "2026-04-01T06:57:44.136Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WNrGzpexKCg",
-          "title": "Hl. Messe - Mittwoch in der Karwoche - 01. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/WNrGzpexKCg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wPpA7on2i_g",
           "title": "Wednesday of Holy Week",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wPpA7on2i_g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-01T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qHrIBoc2ZAw",
