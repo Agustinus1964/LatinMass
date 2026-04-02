@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-02T23:00:58.139Z",
+  "lastUpdated": "2026-04-02T23:57:18.954Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "42OvtjBs20g",
-          "title": "Vesperal Mass & Compline - Maundy Thursday - 4/2/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/42OvtjBs20g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Y-gslh0HY-I",
           "title": "Vesperal Mass, Holy Thursday - The Immaculata",
@@ -154,15 +145,6 @@
           "scheduledTime": null
         },
         {
-          "id": "OKBAAKSaWmY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/OKBAAKSaWmY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "KmAr7mN7c3E",
           "title": "7PM Sung Mass. Holy Thursday. I. April 2, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -190,20 +172,11 @@
           "scheduledTime": null
         },
         {
-          "id": "b9-d2a76l9I",
-          "title": "Preparando el Monumento. Jueves Santo. 2 de Abril 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/b9-d2a76l9I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "joiDgpWLx-I",
-          "title": "Office des Ténèbres du Vendredi Saint - ASTITERUNT REGES TERRÆ",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/joiDgpWLx-I/mqdefault_live.jpg",
+          "id": "LQjoHc3q6Ew",
+          "title": "Holy Thursday / Jeudi Saint",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/LQjoHc3q6Ew/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -217,13 +190,13 @@
           "scheduledTime": null
         },
         {
-          "id": "LQjoHc3q6Ew",
-          "title": "Holy Thursday / Jeudi Saint",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/LQjoHc3q6Ew/mqdefault_live.jpg",
+          "id": "7R8ZARZsfok",
+          "title": "Tenebrae",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/7R8ZARZsfok/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-02T23:30:00Z"
+          "scheduledTime": "2026-04-02T23:58:00Z"
         },
         {
           "id": "qmll-PT7D4Y",
