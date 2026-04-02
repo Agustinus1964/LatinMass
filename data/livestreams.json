@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T06:10:41.822Z",
+  "lastUpdated": "2026-04-02T07:46:11.332Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -50,6 +50,15 @@
           "scheduledTime": "2026-04-03T01:00:00Z"
         },
         {
+          "id": "smSotl10Voc",
+          "title": "Holy Thursday | April 2nd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/smSotl10Voc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T02:00:00Z"
+        },
+        {
           "id": "mfMG29EpUMQ",
           "title": "Matutin - Karfreitag - 03. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mfMG29EpUMQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T05:30:00Z"
+        },
+        {
+          "id": "CwElWuW7020",
+          "title": "Sung Afternoon Liturgy - Good Friday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/CwElWuW7020/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T07:00:00Z"
         }
       ]
     },
