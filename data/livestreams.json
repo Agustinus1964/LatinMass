@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T08:52:42.187Z",
+  "lastUpdated": "2026-04-02T09:58:26.469Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -84,12 +84,30 @@
           "thumbnail": "https://i.ytimg.com/vi/CwElWuW7020/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T07:00:00Z"
+        },
+        {
+          "id": "IQdnVWbF0Dc",
+          "title": "Kreuzweg - Karfreitag - 03. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IQdnVWbF0Dc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "fZESiAO4W3E",
+          "title": "Ofício de Prima — Quinta-feira Santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fZESiAO4W3E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Z35TgnCX8RI",
           "title": "7:30AM Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Thursday. I. Thursday, April 2, 2026.",
