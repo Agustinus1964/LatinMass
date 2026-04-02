@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T11:48:28.673Z",
+  "lastUpdated": "2026-04-02T13:05:59.925Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,15 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "zG5ZBWqa9h4",
-          "title": "Solemn High Mass - Maundy Thursday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/zG5ZBWqa9h4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "bEha32o9vCw",
           "title": "Tenebrae for Holy Thursday, April 2nd, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bEha32o9vCw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T12:45:55Z"
+        },
+        {
+          "id": "gnkSG2Hum0s",
+          "title": "Tenebrae, Holy Thursday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/gnkSG2Hum0s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T13:00:00Z"
         },
         {
           "id": "vTjvcG5lYfI",
@@ -84,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IQdnVWbF0Dc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T09:00:00Z"
+        },
+        {
+          "id": "nY-ovJCLbqg",
+          "title": "Karfreitagsliturgie - 03. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/nY-ovJCLbqg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T13:00:00Z"
         }
       ]
     },
@@ -136,11 +145,11 @@
           "scheduledTime": "2026-04-02T22:30:00Z"
         },
         {
-          "id": "CmdLZoZNeq4",
+          "id": "Vgk9YQK0jLA",
           "title": "Thursday 7 PM Maundy (Holy) Thursday Traditional Catholic Mass 04/02/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/CmdLZoZNeq4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Vgk9YQK0jLA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T22:55:00Z"
         },
