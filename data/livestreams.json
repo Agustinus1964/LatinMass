@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T10:57:09.603Z",
+  "lastUpdated": "2026-04-02T11:48:28.673Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/zG5ZBWqa9h4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bEha32o9vCw",
@@ -96,8 +96,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Z35TgnCX8RI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jC9xQjYORfo",
@@ -170,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qmll-PT7D4Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T02:00:00Z"
+        },
+        {
+          "id": "aGJq2-5r-NY",
+          "title": "7:30AM Tenebrae - Sung Matins & Lauds (approx. 2 hours). Good Friday. I. April 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/aGJq2-5r-NY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T11:30:00Z"
         }
       ]
     }
