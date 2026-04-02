@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T23:33:27.130Z",
+  "lastUpdated": "2026-04-02T02:00:58.497Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vTjvcG5lYfI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T23:00:00Z"
+        },
+        {
+          "id": "bs7cyWC2WXQ",
+          "title": "Holy Thursday - April 2, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/bs7cyWC2WXQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T01:00:00Z"
         }
       ]
     },
@@ -46,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Qz_VDFTh0SE",
-          "title": "TENEBRAE FOR HOLY THURSDAY (ANTICIPATED), 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Qz_VDFTh0SE/mqdefault_live.jpg",
+          "id": "hXATHO6W-6A",
+          "title": "Tenebrae",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/hXATHO6W-6A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "a_KkX1mvD6U",
-          "title": "Missa cantada da quarta-feira santa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/a_KkX1mvD6U/mqdefault_live.jpg",
+          "id": "CGJi3ezq1nY",
+          "title": "Oficio de Tinieblas. Miércoles Santo. 1 de Abril 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/CGJi3ezq1nY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Fny9CCzH7xc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-02T23:00:00Z"
+        },
+        {
+          "id": "qmll-PT7D4Y",
+          "title": "TENEBRAE FOR GOOD FRIDAY (ANTICIPATED), 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/qmll-PT7D4Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T02:00:00Z"
         }
       ]
     }
