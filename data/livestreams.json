@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T04:39:37.784Z",
+  "lastUpdated": "2026-04-02T06:10:41.822Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bs7cyWC2WXQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T01:00:00Z"
+        },
+        {
+          "id": "mfMG29EpUMQ",
+          "title": "Matutin - Karfreitag - 03. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/mfMG29EpUMQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T05:30:00Z"
         }
       ]
     },
