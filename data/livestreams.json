@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T17:54:37.051Z",
+  "lastUpdated": "2026-04-02T18:52:59.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -102,6 +102,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nY-ovJCLbqg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T13:00:00Z"
+        },
+        {
+          "id": "6KuDu7q-O6U",
+          "title": "Stations of the Cross + Our Lady of Sorrows devotion, Good Friday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/6KuDu7q-O6U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T18:30:00Z"
         }
       ]
     },
@@ -109,11 +118,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jC9xQjYORfo",
-          "title": "Thursday 2nd April - 5 pm: Maundy Thursday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/jC9xQjYORfo/mqdefault_live.jpg",
+          "id": "b9-d2a76l9I",
+          "title": "Preparando el Monumento. Jueves Santo. 2 de Abril 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/b9-d2a76l9I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,8 +132,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/26DdQhsWuQE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T18:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "O9OvhabyjG8",
