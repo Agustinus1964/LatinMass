@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-02T20:32:06.938Z",
+  "lastUpdated": "2026-04-02T21:34:17.947Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "42OvtjBs20g",
+          "title": "Vesperal Mass & Compline - Maundy Thursday - 4/2/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/42OvtjBs20g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "2sZemFeg3UA",
           "title": "FSSPX Antwerpen - 02/04 WITTE DONDERDAG",
@@ -136,6 +145,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "OKBAAKSaWmY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/OKBAAKSaWmY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "O9OvhabyjG8",
           "title": "Thursday 2nd April 2026 - 8:30 pm: Good Friday Tenebræ",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -154,31 +172,13 @@
           "scheduledTime": null
         },
         {
-          "id": "4NWJZsnoqrs",
-          "title": "Solemn Mass of the Lord’s Supper",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4NWJZsnoqrs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "26DdQhsWuQE",
-          "title": "Sainte messe du Jeudi Saint, in Cena Domini - NOS AUTEM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/26DdQhsWuQE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "joiDgpWLx-I",
           "title": "Office des Ténèbres du Vendredi Saint - ASTITERUNT REGES TERRÆ",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/joiDgpWLx-I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FdYAtgqwpwU",
