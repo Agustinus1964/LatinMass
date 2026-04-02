@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T07:46:11.332Z",
+  "lastUpdated": "2026-04-02T08:52:42.187Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/mMOqwrrv0BI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UVD9Cn4qLWc",
+          "title": "Mass of Maundy Thursday",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/UVD9Cn4qLWc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zG5ZBWqa9h4",
