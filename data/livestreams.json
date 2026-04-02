@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-04-02T15:57:57.140Z",
+  "lastUpdated": "2026-04-02T16:59:53.396Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2sZemFeg3UA",
+          "title": "FSSPX Antwerpen - 02/04 WITTE DONDERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/2sZemFeg3UA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "T3oTAZXYTv4",
           "title": "Giovedì Santo - Santa Messa in Coena Domini - FSSPX Italia",
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/T3oTAZXYTv4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T16:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vTjvcG5lYfI",
@@ -127,6 +136,15 @@
           "scheduledTime": "2026-04-02T19:30:00Z"
         },
         {
+          "id": "joiDgpWLx-I",
+          "title": "Office des Ténèbres du Vendredi Saint - ASTITERUNT REGES TERRÆ",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/joiDgpWLx-I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-02T21:00:00Z"
+        },
+        {
           "id": "FdYAtgqwpwU",
           "title": "Live Stream Holy Mass from Cleveland USA (The Supper of the Lord, Holy Thursday, pre-1955 Missal)",
           "channel": "Usus Antiquior",
@@ -197,6 +215,33 @@
           "thumbnail": "https://i.ytimg.com/vi/rNwxC1hbQ1o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T14:00:00Z"
+        },
+        {
+          "id": "lpXzIQxveCU",
+          "title": "Live Stream Good Friday Office and Mass of the Presanctified from Cleveland USA (pre-1955 Missal)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lpXzIQxveCU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T16:00:00Z"
+        },
+        {
+          "id": "mvy2AHZPE2o",
+          "title": "STATIONS OF THE CROSS SERMON SERIES, PART VII, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/mvy2AHZPE2o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T16:00:00Z"
+        },
+        {
+          "id": "VGDkmHAvRVI",
+          "title": "Messe des Présanctifiés- Passion selon saint Jean - VENDREDI SAINT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/VGDkmHAvRVI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T17:00:00Z"
         }
       ]
     }
