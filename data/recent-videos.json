@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-02T11:41:32.428Z",
+  "lastUpdated": "2026-04-02T13:01:35.787Z",
   "videos": [
+    {
+      "id": "eur-lwcxM7k",
+      "title": "Tenebrae 4/1/26",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/eur-lwcxM7k/mqdefault.jpg",
+      "publishedAt": "2026-04-02T11:52:01Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "vEiCqQlOKjM",
       "title": "Basilica Desecrated For Gaia Worship In Lent",
@@ -130,16 +140,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GCZCQqTMv4E/mqdefault.jpg",
       "publishedAt": "2026-04-01T23:30:06Z",
       "category": "Timothy Gordon"
-    },
-    {
-      "id": "eur-lwcxM7k",
-      "title": "Tenebrae 4/1/26",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/eur-lwcxM7k/mqdefault_live.jpg",
-      "publishedAt": "2026-04-01T22:35:00Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "9lJZUzEJTCI",
