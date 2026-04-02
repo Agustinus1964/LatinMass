@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-02T22:28:13.699Z",
+  "lastUpdated": "2026-04-02T23:00:58.139Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,22 +14,31 @@
           "scheduledTime": null
         },
         {
-          "id": "vTjvcG5lYfI",
-          "title": "Thu. Apr. 2,  2026    -    Holy Thursday    -    (Maundy Thursday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/vTjvcG5lYfI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T23:00:00Z"
-        },
-        {
           "id": "Y-gslh0HY-I",
           "title": "Vesperal Mass, Holy Thursday - The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/Y-gslh0HY-I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "QhF2psK9Z_g",
+          "title": "Maundy Thursday 2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/QhF2psK9Z_g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "vTjvcG5lYfI",
+          "title": "Thu. Apr. 2,  2026    -    Holy Thursday    -    (Maundy Thursday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/vTjvcG5lYfI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bs7cyWC2WXQ",
@@ -154,6 +163,33 @@
           "scheduledTime": null
         },
         {
+          "id": "KmAr7mN7c3E",
+          "title": "7PM Sung Mass. Holy Thursday. I. April 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KmAr7mN7c3E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Fny9CCzH7xc",
+          "title": "HOLY THURSDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Fny9CCzH7xc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Vgk9YQK0jLA",
+          "title": "Thursday 7 PM Maundy (Holy) Thursday Traditional Catholic Mass 04/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Vgk9YQK0jLA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "b9-d2a76l9I",
           "title": "Preparando el Monumento. Jueves Santo. 2 de Abril 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -172,31 +208,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Vgk9YQK0jLA",
-          "title": "Thursday 7 PM Maundy (Holy) Thursday Traditional Catholic Mass 04/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Vgk9YQK0jLA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T22:55:00Z"
-        },
-        {
-          "id": "KmAr7mN7c3E",
-          "title": "7PM Mass, Eucharistic Procession, Stripping of the Altars. Holy Thursday. I. April 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KmAr7mN7c3E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T23:00:00Z"
-        },
-        {
-          "id": "Fny9CCzH7xc",
-          "title": "HOLY THURSDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/Fny9CCzH7xc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-02T23:00:00Z"
+          "id": "rxW63BbEYRw",
+          "title": "Missa Solene da Quinta-feira Santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/rxW63BbEYRw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LQjoHc3q6Ew",
@@ -296,6 +314,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aPRl1nkssyk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T19:30:00Z"
+        },
+        {
+          "id": "b3GNnpNR-do",
+          "title": "TENEBRAE FOR HOLY SATURDAY (ANTICIPATED), 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/b3GNnpNR-do/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T23:00:00Z"
         }
       ]
     }
