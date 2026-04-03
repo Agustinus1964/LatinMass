@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-03T10:08:14.321Z",
+  "lastUpdated": "2026-04-03T11:08:50.962Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "EpPiylqwS8o",
-          "title": "Good Friday Tenebrae",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/EpPiylqwS8o/mqdefault_live.jpg",
+          "id": "vXRNxAhqJbM",
+          "title": "Tenebrae - Good Friday - 4/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/vXRNxAhqJbM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,8 +96,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/aGJq2-5r-NY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3-Dz3iwwVlc",
