@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-04-03T17:31:30.928Z",
+  "lastUpdated": "2026-04-03T18:41:54.417Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dHiFVhloV0g",
+          "title": "Liturgy of Good Friday & Compline - 4/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/dHiFVhloV0g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6KuDu7q-O6U",
+          "title": "Stations of the Cross + Our Lady of Sorrows devotion, Good Friday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/6KuDu7q-O6U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "xgHJQg3edOA",
           "title": "FSSPX Antwerpen - 03/04 GOEDE VRIJDAG - Namiddagdienst",
@@ -21,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gRdE4_52jY8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6KuDu7q-O6U",
-          "title": "Stations of the Cross + Our Lady of Sorrows devotion, Good Friday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/6KuDu7q-O6U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T18:30:00Z"
         },
         {
           "id": "udot8xyGWXE",
@@ -100,29 +109,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "lpXzIQxveCU",
-          "title": "Live Stream Good Friday Office and Mass of the Presanctified from Cleveland USA (pre-1955 Missal)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/lpXzIQxveCU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mvy2AHZPE2o",
-          "title": "STATIONS OF THE CROSS SERMON SERIES, PART VII, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/mvy2AHZPE2o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EFD6veak1Oc",
-          "title": "Semana Santa: Viernes Santo, Vía-Crucis. 3 de Abril de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/EFD6veak1Oc/mqdefault_live.jpg",
+          "id": "R4VZ0MDsXSU",
+          "title": "Stations of the Cross & 3pm Good Friday Liturgy. Good Friday. I. April 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/R4VZ0MDsXSU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -136,13 +127,13 @@
           "scheduledTime": null
         },
         {
-          "id": "R4VZ0MDsXSU",
-          "title": "3pm Good Friday Liturgy. Good Friday. I. April 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/R4VZ0MDsXSU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T18:00:00Z"
+          "id": "GuAlkogm41s",
+          "title": "Missa dos Pré-santificados / Sexta-feira Santa 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/GuAlkogm41s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dbOWWdpTPLE",
