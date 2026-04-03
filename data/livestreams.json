@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-03T05:01:54.713Z",
+  "lastUpdated": "2026-04-03T06:44:16.259Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "m8PJOh55fUk",
-          "title": "Good Friday",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/m8PJOh55fUk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CwElWuW7020",
           "title": "Sung Afternoon Liturgy - Good Friday",
@@ -102,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/i7EW7GdWh4A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T20:00:00Z"
+        },
+        {
+          "id": "aS64_40kRpg",
+          "title": "Matutin - Karsamstag - 04. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/aS64_40kRpg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T05:30:00Z"
         }
       ]
     },
