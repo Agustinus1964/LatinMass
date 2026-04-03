@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T16:52:23.755Z",
+  "lastUpdated": "2026-04-03T17:31:30.928Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/gRdE4_52jY8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T16:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6KuDu7q-O6U",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/i7EW7GdWh4A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T20:00:00Z"
+        },
+        {
+          "id": "rRtMEz6TxiI",
+          "title": "Good Friday | April 3rd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/rRtMEz6TxiI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T21:15:00Z"
         },
         {
           "id": "aS64_40kRpg",
@@ -123,8 +132,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/VGDkmHAvRVI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "R4VZ0MDsXSU",
@@ -215,6 +224,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EHbHBYSgu9k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T16:00:00Z"
+        },
+        {
+          "id": "9ESa_WE2cAY",
+          "title": "Saturday 4th April 2026 - 6 pm: Easter Vigil",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/9ESa_WE2cAY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T17:00:00Z"
         }
       ]
     }
