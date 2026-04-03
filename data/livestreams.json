@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T22:29:26.876Z",
+  "lastUpdated": "2026-04-03T23:02:15.787Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,20 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ptf4IBtByh0",
-          "title": "Good Friday",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ptf4IBtByh0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "CnVHMoLWe2s",
-          "title": "GOOD FRIDAY, 2026",
+          "id": "b3GNnpNR-do",
+          "title": "TENEBRAE FOR HOLY SATURDAY (ANTICIPATED), 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/CnVHMoLWe2s/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/b3GNnpNR-do/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,24 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lYbLXcVn2-8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "vcmUW2dwe-c",
-          "title": "Sermão das 7 palavras",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/vcmUW2dwe-c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "b3GNnpNR-do",
-          "title": "TENEBRAE FOR HOLY SATURDAY (ANTICIPATED), 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/b3GNnpNR-do/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T23:00:00Z"
         },
         {
           "id": "PBGNP8qX25s",
@@ -152,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9ESa_WE2cAY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T17:00:00Z"
+        },
+        {
+          "id": "YDSyVNztn_M",
+          "title": "EASTER VIGIL, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/YDSyVNztn_M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T22:30:00Z"
         }
       ]
     }
