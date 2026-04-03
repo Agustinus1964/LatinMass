@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T11:08:50.962Z",
+  "lastUpdated": "2026-04-03T11:58:35.381Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -179,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/b3GNnpNR-do/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T23:00:00Z"
+        },
+        {
+          "id": "PBGNP8qX25s",
+          "title": "7:30AM Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Saturday. I.  April 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PBGNP8qX25s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T11:30:00Z"
         }
       ]
     }
