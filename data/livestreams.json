@@ -1,42 +1,15 @@
 {
-  "lastUpdated": "2026-04-03T21:30:36.642Z",
+  "lastUpdated": "2026-04-03T22:29:26.876Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "i7EW7GdWh4A",
-          "title": "Liturgy, Good Friday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/i7EW7GdWh4A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xZmz7oQ2EbY",
-          "title": "Good Friday 2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/xZmz7oQ2EbY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rRtMEz6TxiI",
           "title": "Good Friday | April 3rd",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/rRtMEz6TxiI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rqRrqAAV55I",
-          "title": "Good Friday Afternoon Liturgy, April 3, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/rqRrqAAV55I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,15 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "8UYbYtGEW0k",
-          "title": "Good Friday / Vendredi Saint",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/8UYbYtGEW0k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "lYbLXcVn2-8",
           "title": "Viernes Santo, Misa de Los Presantificados. 3 de Abril de 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -136,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "UShaW8V33eg",
-          "title": "Office des Ténèbres du Samedi Saint - IN PACE IN IDIPSUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/UShaW8V33eg/mqdefault_live.jpg",
+          "id": "vcmUW2dwe-c",
+          "title": "Sermão das 7 palavras",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/vcmUW2dwe-c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
