@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T09:27:35.372Z",
+  "lastUpdated": "2026-04-03T10:08:14.321Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/EpPiylqwS8o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IQdnVWbF0Dc",
-          "title": "Kreuzweg - Karfreitag - 03. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/IQdnVWbF0Dc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
