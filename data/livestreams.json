@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-04-03T06:44:16.259Z",
+  "lastUpdated": "2026-04-03T08:00:24.657Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CwElWuW7020",
-          "title": "Sung Afternoon Liturgy - Good Friday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/CwElWuW7020/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T07:00:00Z"
-        },
         {
           "id": "EpPiylqwS8o",
           "title": "Good Friday Tenebrae",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/EpPiylqwS8o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "CwElWuW7020",
+          "title": "Sung Afternoon Liturgy - Good Friday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/CwElWuW7020/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IQdnVWbF0Dc",
@@ -108,6 +108,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lkWmu9S8SWI",
+          "title": "Tenebrae of Good Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lkWmu9S8SWI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aGJq2-5r-NY",
           "title": "7:30AM Tenebrae - Sung Matins & Lauds (approx. 2 hours). Good Friday. I. April 3, 2026.",
