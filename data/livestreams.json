@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T19:35:49.005Z",
+  "lastUpdated": "2026-04-03T20:32:34.704Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,11 +14,29 @@
           "scheduledTime": null
         },
         {
+          "id": "i7EW7GdWh4A",
+          "title": "Liturgy, Good Friday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/i7EW7GdWh4A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "xZmz7oQ2EbY",
           "title": "Good Friday 2026",
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/xZmz7oQ2EbY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rqRrqAAV55I",
+          "title": "Good Friday Afternoon Liturgy, April 3, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/rqRrqAAV55I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -30,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/udot8xyGWXE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "i7EW7GdWh4A",
-          "title": "Liturgy, Good Friday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/i7EW7GdWh4A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T20:00:00Z"
         },
         {
           "id": "rRtMEz6TxiI",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aS64_40kRpg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T05:30:00Z"
+        },
+        {
+          "id": "IJmGXb5H9-8",
+          "title": "Holy Saturday Tenebrae",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/IJmGXb5H9-8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T07:30:00Z"
         },
         {
           "id": "-KYdTV2VG28",
@@ -99,6 +117,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ptf4IBtByh0",
+          "title": "Good Friday",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ptf4IBtByh0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aPRl1nkssyk",
           "title": "Friday 3rd April 2026 - 8:30 pm: Holy Saturday Tenebræ",
@@ -145,11 +172,20 @@
           "scheduledTime": null
         },
         {
-          "id": "VGDkmHAvRVI",
-          "title": "Messe des Présanctifiés- Passion selon saint Jean - VENDREDI SAINT",
+          "id": "NvZDzMP-iOY",
+          "title": "Viernes Santo, Las Siete Palabras de Nuestro Señor Jesucristo. 3 de Abril de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/NvZDzMP-iOY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UShaW8V33eg",
+          "title": "Office des Ténèbres du Samedi Saint - IN PACE IN IDIPSUM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/VGDkmHAvRVI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UShaW8V33eg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,15 +197,6 @@
           "thumbnail": "https://i.ytimg.com/vi/GuAlkogm41s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "UShaW8V33eg",
-          "title": "Office des Ténèbres du Samedi Saint - IN PACE IN IDIPSUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/UShaW8V33eg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T19:00:00Z"
         },
         {
           "id": "b3GNnpNR-do",
