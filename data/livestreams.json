@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T11:58:35.381Z",
+  "lastUpdated": "2026-04-03T13:17:38.772Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/E7rXBu13WUM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nY-ovJCLbqg",
@@ -28,8 +28,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/nY-ovJCLbqg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "c1vWKA2QOqw",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3pdJBTIGys8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T15:55:00Z"
+        },
+        {
+          "id": "xgHJQg3edOA",
+          "title": "FSSPX Antwerpen - 03/04 GOEDE VRIJDAG - Namiddagdienst",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/xgHJQg3edOA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T16:30:00Z"
         },
         {
           "id": "6KuDu7q-O6U",
@@ -84,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aS64_40kRpg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T05:30:00Z"
+        },
+        {
+          "id": "-KYdTV2VG28",
+          "title": "Tenebrae, Holy Saturday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/-KYdTV2VG28/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T13:00:00Z"
         }
       ]
     },
