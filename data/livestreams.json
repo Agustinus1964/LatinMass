@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T18:41:54.417Z",
+  "lastUpdated": "2026-04-03T19:35:49.005Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,29 +14,11 @@
           "scheduledTime": null
         },
         {
-          "id": "6KuDu7q-O6U",
-          "title": "Stations of the Cross + Our Lady of Sorrows devotion, Good Friday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/6KuDu7q-O6U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xgHJQg3edOA",
-          "title": "FSSPX Antwerpen - 03/04 GOEDE VRIJDAG - Namiddagdienst",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/xgHJQg3edOA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gRdE4_52jY8",
-          "title": "Venerdì Santo - Funzione liturgica pomeridiana - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/gRdE4_52jY8/mqdefault_live.jpg",
+          "id": "xZmz7oQ2EbY",
+          "title": "Good Friday 2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/xZmz7oQ2EbY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,8 +28,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/udot8xyGWXE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T19:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "i7EW7GdWh4A",
@@ -102,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZMooFNMtDlc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T14:30:00Z"
+        },
+        {
+          "id": "HkVGtSG6ZQs",
+          "title": "Amt - Osternacht - 04. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HkVGtSG6ZQs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T19:00:00Z"
         }
       ]
     },
@@ -109,11 +100,47 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "aPRl1nkssyk",
+          "title": "Friday 3rd April 2026 - 8:30 pm: Holy Saturday Tenebræ",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/aPRl1nkssyk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "R4VZ0MDsXSU",
           "title": "Stations of the Cross & 3pm Good Friday Liturgy. Good Friday. I. April 3, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/R4VZ0MDsXSU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "CnVHMoLWe2s",
+          "title": "GOOD FRIDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/CnVHMoLWe2s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dbOWWdpTPLE",
+          "title": "Good Friday 3 pm Livestream of the Liturgy of the Pre-Sanctified Traditional Latin Mass 04/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/dbOWWdpTPLE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8UYbYtGEW0k",
+          "title": "Good Friday / Vendredi Saint",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/8UYbYtGEW0k/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -136,33 +163,6 @@
           "scheduledTime": null
         },
         {
-          "id": "dbOWWdpTPLE",
-          "title": "Good Friday 3 pm Livestream of the Liturgy of the Pre-Sanctified Traditional Latin Mass 04/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/dbOWWdpTPLE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T18:55:00Z"
-        },
-        {
-          "id": "CnVHMoLWe2s",
-          "title": "GOOD FRIDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/CnVHMoLWe2s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T19:00:00Z"
-        },
-        {
-          "id": "8UYbYtGEW0k",
-          "title": "Good Friday / Vendredi Saint",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/8UYbYtGEW0k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T19:00:00Z"
-        },
-        {
           "id": "UShaW8V33eg",
           "title": "Office des Ténèbres du Samedi Saint - IN PACE IN IDIPSUM",
           "channel": "Ite Missa Est",
@@ -170,15 +170,6 @@
           "thumbnail": "https://i.ytimg.com/vi/UShaW8V33eg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T19:00:00Z"
-        },
-        {
-          "id": "aPRl1nkssyk",
-          "title": "Friday 3rd April 2026 - 8:30 pm: Holy Saturday Tenebræ",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/aPRl1nkssyk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T19:30:00Z"
         },
         {
           "id": "b3GNnpNR-do",
