@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-04-03T15:07:38.961Z",
+  "lastUpdated": "2026-04-03T15:59:10.625Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "E7rXBu13WUM",
-          "title": "Tenebrae, Good Friday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/E7rXBu13WUM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "c1vWKA2QOqw",
-          "title": "Tenebrae for Good Friday, April 3rd, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/c1vWKA2QOqw/mqdefault_live.jpg",
+          "id": "A__1BtfdYIc",
+          "title": "FSSPX Antwerpen - 03/04 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/A__1BtfdYIc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -28,8 +19,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/3pdJBTIGys8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T15:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "xgHJQg3edOA",
@@ -109,11 +100,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3-Dz3iwwVlc",
-          "title": "Friday 3rd April 2026 - 3 pm: Good Friday (Mass of the Presanctified)",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/3-Dz3iwwVlc/mqdefault_live.jpg",
+          "id": "lpXzIQxveCU",
+          "title": "Live Stream Good Friday Office and Mass of the Presanctified from Cleveland USA (pre-1955 Missal)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lpXzIQxveCU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mvy2AHZPE2o",
+          "title": "STATIONS OF THE CROSS SERMON SERIES, PART VII, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/mvy2AHZPE2o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,24 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/rNwxC1hbQ1o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "lpXzIQxveCU",
-          "title": "Live Stream Good Friday Office and Mass of the Presanctified from Cleveland USA (pre-1955 Missal)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/lpXzIQxveCU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T16:00:00Z"
-        },
-        {
-          "id": "mvy2AHZPE2o",
-          "title": "STATIONS OF THE CROSS SERMON SERIES, PART VII, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/mvy2AHZPE2o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-03T16:00:00Z"
         },
         {
           "id": "VGDkmHAvRVI",
@@ -164,7 +146,7 @@
         },
         {
           "id": "R4VZ0MDsXSU",
-          "title": "3PM Good Friday Liturgy. Good Friday. I. April 3, 2026.",
+          "title": "3pm Good Friday Liturgy. Good Friday. I. April 3, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/R4VZ0MDsXSU/mqdefault_live.jpg",
@@ -177,6 +159,15 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/CnVHMoLWe2s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-03T19:00:00Z"
+        },
+        {
+          "id": "8UYbYtGEW0k",
+          "title": "Good Friday / Vendredi Saint",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/8UYbYtGEW0k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-03T19:00:00Z"
         },
@@ -200,7 +191,7 @@
         },
         {
           "id": "PBGNP8qX25s",
-          "title": "7:30AM Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Saturday. I.  April 4, 2026.",
+          "title": "7:30am Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Saturday. I.  April 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/PBGNP8qX25s/mqdefault_live.jpg",
