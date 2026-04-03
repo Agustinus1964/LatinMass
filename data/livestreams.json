@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-03T14:10:55.450Z",
+  "lastUpdated": "2026-04-03T15:07:38.961Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,15 +19,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/c1vWKA2QOqw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nY-ovJCLbqg",
-          "title": "Karfreitagsliturgie - 03. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/nY-ovJCLbqg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -102,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XX2eTibOaNU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T13:30:00Z"
+        },
+        {
+          "id": "ZMooFNMtDlc",
+          "title": "Paschal Vigil/Sung Mass - Holy Saturday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/ZMooFNMtDlc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T14:30:00Z"
         }
       ]
     },
