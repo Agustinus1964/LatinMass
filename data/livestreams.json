@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T17:56:48.065Z",
+  "lastUpdated": "2026-04-04T18:44:19.120Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NgbE9YX1hyk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T04:00:00Z"
+        },
+        {
+          "id": "-WTBACstmWU",
+          "title": "Easter Vigil followed by Midnight Mass | April 4/5th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/-WTBACstmWU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T05:00:00Z"
         },
         {
           "id": "mNduhN4-rtM",
@@ -91,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "D3pcChceDEc",
-          "title": "Sainte messe de la Vigile pascale",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/D3pcChceDEc/mqdefault_live.jpg",
+          "id": "pNTIVbugUq8",
+          "title": "Solemne Vigilia Pascual. 4 de Abril  2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/pNTIVbugUq8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
