@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T13:50:52.158Z",
+  "lastUpdated": "2026-04-04T14:31:28.838Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,8 +37,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/ZMooFNMtDlc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HkVGtSG6ZQs",
@@ -102,6 +102,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mNduhN4-rtM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T07:30:00Z"
+        },
+        {
+          "id": "AVFnUjU9lt0",
+          "title": "Sun, Apr. 5, 2026   -   Easter Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/AVFnUjU9lt0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T14:00:00Z"
         }
       ]
     },
@@ -179,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/415xZG-FbDc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T11:00:00Z"
+        },
+        {
+          "id": "bU7x58K5M6A",
+          "title": "10:30am Sung Mass. Easter Sunday. I. April 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bU7x58K5M6A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T14:30:00Z"
         }
       ]
     }
