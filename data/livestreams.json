@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-04-04T21:35:28.078Z",
+  "lastUpdated": "2026-04-04T22:25:48.479Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tnB3H88uM3o",
+          "title": "Vespers in Nigris - Holy Saturday - 4/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/tnB3H88uM3o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aHHW7bvzdKk",
           "title": "FSSPX Antwerpen - 04/04 PAASWAKE",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/aHHW7bvzdKk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HkVGtSG6ZQs",
-          "title": "Amt - Osternacht - 04. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HkVGtSG6ZQs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
