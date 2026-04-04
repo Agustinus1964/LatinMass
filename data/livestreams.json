@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T19:28:12.802Z",
+  "lastUpdated": "2026-04-04T19:54:57.845Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/kf7vqD1aJlk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T19:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LKlJgF1KFhU",
@@ -118,11 +118,11 @@
           "scheduledTime": null
         },
         {
-          "id": "I8668z6QGts",
-          "title": "Vigília Pascal",
+          "id": "RxjBFnyO0VA",
+          "title": "Vigília Pascal 2026",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/I8668z6QGts/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/RxjBFnyO0VA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
