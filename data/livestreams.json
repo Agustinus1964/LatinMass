@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-04T11:01:10.944Z",
+  "lastUpdated": "2026-04-04T11:51:20.744Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "JQIF0Xc8TYQ",
+          "id": "vIZ2WZydn6I",
           "title": "Tenebrae - Holy Saturday - 4/4/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JQIF0Xc8TYQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/vIZ2WZydn6I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,8 +114,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/PBGNP8qX25s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "D3pcChceDEc",
