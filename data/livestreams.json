@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T18:44:19.120Z",
+  "lastUpdated": "2026-04-04T19:28:12.802Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/HkVGtSG6ZQs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kf7vqD1aJlk",
+          "title": "Sabato Santo - Vigilia Pasquale e Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/kf7vqD1aJlk/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-04T19:00:00Z"
+          "scheduledTime": "2026-04-04T19:55:00Z"
         },
         {
           "id": "LKlJgF1KFhU",
@@ -91,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "9ESa_WE2cAY",
-          "title": "Saturday 4th April 2026 - 6 pm: Easter Vigil",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/9ESa_WE2cAY/mqdefault_live.jpg",
+          "id": "9JfGQrQ6awc",
+          "title": "Easter Vigil",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/9JfGQrQ6awc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,6 +114,15 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/pNTIVbugUq8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "I8668z6QGts",
+          "title": "Vigília Pascal",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/I8668z6QGts/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
