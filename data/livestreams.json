@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-04T16:32:12.260Z",
+  "lastUpdated": "2026-04-04T17:26:53.781Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZMooFNMtDlc",
-          "title": "Paschal Vigil/Sung Mass - Holy Saturday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/ZMooFNMtDlc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HkVGtSG6ZQs",
           "title": "Amt - Osternacht - 04. April 2026",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-04-05T03:00:00Z"
         },
         {
-          "id": "_bDUdozFUOs",
-          "title": "Sat. Apr. 4, 2026    -    Holy Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/_bDUdozFUOs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T03:00:00Z"
-        },
-        {
           "id": "NgbE9YX1hyk",
           "title": "Paschal Vigil - April 4th, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
@@ -66,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/mNduhN4-rtM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T07:30:00Z"
-        },
-        {
-          "id": "AVFnUjU9lt0",
-          "title": "Sun, Apr. 5, 2026   -   Easter Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/AVFnUjU9lt0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T14:00:00Z"
         },
         {
           "id": "9Buy4Oyv4rQ",
@@ -109,6 +82,15 @@
           "scheduledTime": null
         },
         {
+          "id": "9ESa_WE2cAY",
+          "title": "Saturday 4th April 2026 - 6 pm: Easter Vigil",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/9ESa_WE2cAY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "D3pcChceDEc",
           "title": "Sainte messe de la Vigile pascale",
           "channel": "Ite Missa Est",
@@ -116,15 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/D3pcChceDEc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "9ESa_WE2cAY",
-          "title": "Saturday 4th April 2026 - 6 pm: Easter Vigil",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/9ESa_WE2cAY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T17:00:00Z"
         },
         {
           "id": "YDSyVNztn_M",
@@ -143,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dv9ki0yy7rU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T23:30:00Z"
+        },
+        {
+          "id": "_V8JpbPZVpE",
+          "title": "Sainte messe de la résurrection du dimanche de Pâques - RESURRREXI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_V8JpbPZVpE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T09:00:00Z"
         },
         {
           "id": "mvCfTx8eRpU",
