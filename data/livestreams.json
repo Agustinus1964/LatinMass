@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T08:36:56.423Z",
+  "lastUpdated": "2026-04-04T09:34:37.844Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -109,15 +109,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1ElX_sPCJ7o",
-          "title": "Tenebrae of Holy Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1ElX_sPCJ7o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "PBGNP8qX25s",
           "title": "7:30am Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Saturday. I.  April 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -179,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-ZZttK7vWgM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T01:55:00Z"
+        },
+        {
+          "id": "mvCfTx8eRpU",
+          "title": "Sunday 5th April 2026: Easter Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/mvCfTx8eRpU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T09:30:00Z"
         }
       ]
     }
