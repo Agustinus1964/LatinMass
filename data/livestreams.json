@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-04T19:54:57.845Z",
+  "lastUpdated": "2026-04-04T20:27:21.088Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "aHHW7bvzdKk",
+          "title": "FSSPX Antwerpen - 04/04 PAASWAKE",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/aHHW7bvzdKk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HkVGtSG6ZQs",
           "title": "Amt - Osternacht - 04. April 2026",
@@ -91,15 +100,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "EHbHBYSgu9k",
-          "title": "Live Stream Holy Mass from Cleveland USA (Holy Saturday, pre-1955 Missal)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/EHbHBYSgu9k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9JfGQrQ6awc",
           "title": "Easter Vigil",
           "channel": "ICKSP",
@@ -114,6 +114,15 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/pNTIVbugUq8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xqoPArfu5yg",
+          "title": "Solemn Vigil of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/xqoPArfu5yg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -188,15 +197,6 @@
           "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T15:30:00Z"
-        },
-        {
-          "id": "Q3SmOFnYO7I",
-          "title": "Choral Vespers and Benediction — Easter Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Q3SmOFnYO7I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T16:00:00Z"
         }
       ]
     }
