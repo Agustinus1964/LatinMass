@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T15:27:59.207Z",
+  "lastUpdated": "2026-04-04T15:55:25.720Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZMooFNMtDlc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Z4ESeUt0Mcg",
-          "title": "Mass of Easter Sunday",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/Z4ESeUt0Mcg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T14:45:58Z"
         },
         {
           "id": "HkVGtSG6ZQs",
@@ -102,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9Buy4Oyv4rQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T15:00:00Z"
+        },
+        {
+          "id": "u1pswCr2Y8o",
+          "title": "Vesper und Sakramentsandacht - Ostersonntag - 05. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/u1pswCr2Y8o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T15:30:00Z"
         }
       ]
     },
@@ -179,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bU7x58K5M6A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T14:30:00Z"
+        },
+        {
+          "id": "x0moCEaJo2M",
+          "title": "EASTER SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T15:30:00Z"
         }
       ]
     }
