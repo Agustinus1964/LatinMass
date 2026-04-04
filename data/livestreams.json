@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T01:58:31.662Z",
+  "lastUpdated": "2026-04-04T04:22:14.248Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,21 +57,57 @@
           "thumbnail": "https://i.ytimg.com/vi/HkVGtSG6ZQs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T19:00:00Z"
+        },
+        {
+          "id": "LKlJgF1KFhU",
+          "title": "Sung Mass - Easter Sunday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/LKlJgF1KFhU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T02:00:00Z"
+        },
+        {
+          "id": "D2rCcLAJefY",
+          "title": "Blessing of the New Fire and Candle.  at 10:30 PM",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/D2rCcLAJefY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T02:30:00Z"
+        },
+        {
+          "id": "7jxT4XB3xGQ",
+          "title": "Easter Vigil and Mass - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/7jxT4XB3xGQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T03:00:00Z"
+        },
+        {
+          "id": "_bDUdozFUOs",
+          "title": "Sat. Apr. 4, 2026    -    Holy Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/_bDUdozFUOs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T03:00:00Z"
+        },
+        {
+          "id": "NgbE9YX1hyk",
+          "title": "Paschal Vigil - April 4th, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/NgbE9YX1hyk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T04:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "e2kkHttd2LU",
-          "title": "Viernes Santo: Marcha del Silencio.  3 de Abril de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/e2kkHttd2LU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PBGNP8qX25s",
           "title": "7:30am Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Saturday. I.  April 4, 2026.",
