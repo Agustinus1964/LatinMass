@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-04T14:31:28.838Z",
+  "lastUpdated": "2026-04-04T15:27:59.207Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-KYdTV2VG28",
-          "title": "Tenebrae, Holy Saturday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/-KYdTV2VG28/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XX2eTibOaNU",
-          "title": "Tenebrae for Holy Saturday, April 4th, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/XX2eTibOaNU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bpVKk5RY8kE",
-          "title": "Mass of Easter Sunday",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/bpVKk5RY8kE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZMooFNMtDlc",
           "title": "Paschal Vigil/Sung Mass - Holy Saturday",
@@ -39,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZMooFNMtDlc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "Z4ESeUt0Mcg",
+          "title": "Mass of Easter Sunday",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/Z4ESeUt0Mcg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-04T14:45:58Z"
         },
         {
           "id": "HkVGtSG6ZQs",
@@ -111,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AVFnUjU9lt0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T14:00:00Z"
+        },
+        {
+          "id": "9Buy4Oyv4rQ",
+          "title": "Easter Sunday - April 5th, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/9Buy4Oyv4rQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T15:00:00Z"
         }
       ]
     },
@@ -161,15 +152,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dv9ki0yy7rU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-04T23:30:00Z"
-        },
-        {
-          "id": "-ZZttK7vWgM",
-          "title": "Saturday 10 PM Easter Vigil Traditional Catholic Mass 04/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/-ZZttK7vWgM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T01:55:00Z"
         },
         {
           "id": "mvCfTx8eRpU",
