@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-04T15:55:25.720Z",
+  "lastUpdated": "2026-04-04T16:32:12.260Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LKlJgF1KFhU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T02:00:00Z"
-        },
-        {
-          "id": "D2rCcLAJefY",
-          "title": "Blessing of the New Fire and Candle.  at 10:30 PM",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/D2rCcLAJefY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T02:30:00Z"
         },
         {
           "id": "7jxT4XB3xGQ",
@@ -109,6 +100,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "EHbHBYSgu9k",
+          "title": "Live Stream Holy Mass from Cleveland USA (Holy Saturday, pre-1955 Missal)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/EHbHBYSgu9k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "D3pcChceDEc",
           "title": "Sainte messe de la Vigile pascale",
           "channel": "Ite Missa Est",
@@ -116,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/D3pcChceDEc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "EHbHBYSgu9k",
-          "title": "Live Stream Holy Mass from Cleveland USA (Holy Saturday, pre-1955 Missal)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/EHbHBYSgu9k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T16:00:00Z"
         },
         {
           "id": "9ESa_WE2cAY",
@@ -188,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T15:30:00Z"
+        },
+        {
+          "id": "Q3SmOFnYO7I",
+          "title": "Choral Vespers and Benediction — Easter Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q3SmOFnYO7I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-05T16:00:00Z"
         }
       ]
     }
