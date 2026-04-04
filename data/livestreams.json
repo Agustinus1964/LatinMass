@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-04T09:34:37.844Z",
+  "lastUpdated": "2026-04-04T10:29:25.332Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IJmGXb5H9-8",
-          "title": "Holy Saturday Tenebrae",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/IJmGXb5H9-8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-KYdTV2VG28",
           "title": "Tenebrae, Holy Saturday - The Immaculata",
