@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-04T12:48:41.910Z",
+  "lastUpdated": "2026-04-04T13:50:52.158Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vIZ2WZydn6I",
-          "title": "Tenebrae - Holy Saturday - 4/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vIZ2WZydn6I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-KYdTV2VG28",
           "title": "Tenebrae, Holy Saturday - The Immaculata",
@@ -28,8 +19,17 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/XX2eTibOaNU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bpVKk5RY8kE",
+          "title": "Mass of Easter Sunday",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/bpVKk5RY8kE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZMooFNMtDlc",
@@ -109,31 +109,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PBGNP8qX25s",
-          "title": "7:30am Tenebrae - Sung Matins & Lauds (approx. 2 hours). Holy Saturday. I.  April 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/PBGNP8qX25s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "w5PD9GxiuLI",
-          "title": "Sermão de Nossa Senha da Soledade",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/w5PD9GxiuLI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "D3pcChceDEc",
           "title": "Sainte messe de la Vigile pascale",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/D3pcChceDEc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-04T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EHbHBYSgu9k",
