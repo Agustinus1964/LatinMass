@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T14:32:53.209Z",
+  "lastUpdated": "2026-04-05T15:28:55.541Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,22 +14,22 @@
           "scheduledTime": null
         },
         {
-          "id": "AVFnUjU9lt0",
-          "title": "Sun, Apr. 5, 2026   -   Easter Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/AVFnUjU9lt0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9Buy4Oyv4rQ",
           "title": "Easter Sunday - April 5th, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/9Buy4Oyv4rQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bVDs2vQ1t0s",
+          "title": "FSSPX Antwerpen - 05/04 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bVDs2vQ1t0s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "u1pswCr2Y8o",
@@ -73,11 +73,38 @@
           "scheduledTime": null
         },
         {
+          "id": "ohvY--vwI5k",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ohvY--vwI5k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "bU7x58K5M6A",
           "title": "10:30am Sung Mass. Easter Sunday. I. April 5, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bU7x58K5M6A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "x0moCEaJo2M",
+          "title": "EASTER SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1iFGorxJZdc",
+          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-04-05",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/1iFGorxJZdc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,31 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "fdFSjpK66_g",
-          "title": "Santa Misa Dominical 5 de Abril  2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/fdFSjpK66_g/mqdefault_live.jpg",
+          "id": "NP-5ufjeaQQ",
+          "title": "Vêpres stationnales du jour de Pâques au propre de Paris - JESUM QUEM QUÆRITIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/NP-5ufjeaQQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "PRblDX_jVlo",
-          "title": "Missa Solene do Domingo de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/PRblDX_jVlo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "x0moCEaJo2M",
-          "title": "EASTER SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T15:30:00Z"
         },
         {
           "id": "abVKZ-q70qc",
