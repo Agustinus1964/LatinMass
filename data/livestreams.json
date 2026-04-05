@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-05T02:08:32.321Z",
+  "lastUpdated": "2026-04-05T04:59:04.275Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "qJbUkmJgGJI",
-          "title": "Solemn High Mass - Paschal Vigil - 4/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/qJbUkmJgGJI/mqdefault_live.jpg",
+          "id": "7jxT4XB3xGQ",
+          "title": "Easter Vigil and Mass - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/7jxT4XB3xGQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -23,31 +23,22 @@
           "scheduledTime": null
         },
         {
-          "id": "LKlJgF1KFhU",
-          "title": "Sung Mass - Easter Sunday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/LKlJgF1KFhU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7jxT4XB3xGQ",
-          "title": "Easter Vigil and Mass - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/7jxT4XB3xGQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T03:00:00Z"
-        },
-        {
           "id": "NgbE9YX1hyk",
           "title": "Paschal Vigil - April 4th, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/NgbE9YX1hyk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T04:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_bDUdozFUOs",
+          "title": "Sat. Apr. 4, 2026    -    Holy Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/_bDUdozFUOs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-WTBACstmWU",
@@ -100,38 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dv9ki0yy7rU",
-          "title": "7:30pm Sung Mass. Easter Vigil. I. Saturday, April 4, 2025.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/dv9ki0yy7rU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YDSyVNztn_M",
-          "title": "EASTER VIGIL, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/YDSyVNztn_M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "-ZZttK7vWgM",
           "title": "Saturday 10 PM Easter Vigil Traditional Catholic Mass 04/04/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/-ZZttK7vWgM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zU6Nvnotn6Y",
-          "title": "Easter Vigil / Vigile paschale",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/zU6Nvnotn6Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
