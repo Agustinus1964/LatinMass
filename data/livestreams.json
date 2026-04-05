@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T17:27:36.244Z",
+  "lastUpdated": "2026-04-05T17:57:29.697Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,15 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "x0moCEaJo2M",
-          "title": "EASTER SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "AxisSoUMD6k",
           "title": "Easter Sunday / Dimanche de Pâques",
