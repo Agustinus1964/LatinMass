@@ -1,17 +1,35 @@
 {
-  "lastUpdated": "2026-04-04T23:31:36.926Z",
+  "lastUpdated": "2026-04-05T02:08:32.321Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "qJbUkmJgGJI",
+          "title": "Solemn High Mass - Paschal Vigil - 4/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qJbUkmJgGJI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "scdPyih3IzA",
+          "title": "Easter Vigil Midnight Mass 2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/scdPyih3IzA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "LKlJgF1KFhU",
           "title": "Sung Mass - Easter Sunday",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/LKlJgF1KFhU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T02:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7jxT4XB3xGQ",
@@ -100,11 +118,11 @@
           "scheduledTime": null
         },
         {
-          "id": "RxjBFnyO0VA",
-          "title": "Vigília Pascal 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/RxjBFnyO0VA/mqdefault_live.jpg",
+          "id": "-ZZttK7vWgM",
+          "title": "Saturday 10 PM Easter Vigil Traditional Catholic Mass 04/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/-ZZttK7vWgM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,8 +132,8 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/zU6Nvnotn6Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T01:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_V8JpbPZVpE",
