@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-05T12:51:31.372Z",
+  "lastUpdated": "2026-04-05T13:52:55.459Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bDP6VBvi8tc",
+          "title": "Pontifical High Mass - Easter Sunday - 4/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/bDP6VBvi8tc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9Buy4Oyv4rQ",
           "title": "Easter Sunday - April 5th, 2026",
@@ -46,29 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "yfo9cWd0G8I",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Easter Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/yfo9cWd0G8I/mqdefault_live.jpg",
+          "id": "loBkYAoxBIY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/loBkYAoxBIY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "415xZG-FbDc",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Easter Sunday. I. April 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/415xZG-FbDc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "M4efdmj-3bk",
-          "title": "Sunday 8:30 AM Catholic Mass for 04/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/M4efdmj-3bk/mqdefault_live.jpg",
+          "id": "fdFSjpK66_g",
+          "title": "Santa Misa Dominical 5 de Abril  2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/fdFSjpK66_g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,13 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "loBkYAoxBIY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/loBkYAoxBIY/mqdefault_live.jpg",
+          "id": "BPjCqlSy3fA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Easter Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/BPjCqlSy3fA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-05T12:58:00Z"
+          "scheduledTime": "2026-04-05T14:00:00Z"
         },
         {
           "id": "bU7x58K5M6A",
