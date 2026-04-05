@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T22:27:22.737Z",
+  "lastUpdated": "2026-04-05T22:59:46.884Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_sTtErJxCkA",
-          "title": "Missa Rezada do Domingo de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/_sTtErJxCkA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "PpJb837hSyg",
           "title": "Monday",
           "channel": "Oxford Oratory",
@@ -80,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/gAuXMHAhV5U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-06T11:00:00Z"
+        },
+        {
+          "id": "30wbpEUknEk",
+          "title": "Monday 6th April 2026: Easter Monday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/30wbpEUknEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-06T17:00:00Z"
+        },
+        {
+          "id": "60IRhKISlJg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday in the Octave of Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/60IRhKISlJg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-06T22:30:00Z"
         }
       ]
     }
