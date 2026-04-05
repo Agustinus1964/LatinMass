@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-05T11:26:43.962Z",
+  "lastUpdated": "2026-04-05T11:52:32.267Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E5YGPUapLIA",
-          "title": "Easter Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/E5YGPUapLIA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9Buy4Oyv4rQ",
           "title": "Easter Sunday - April 5th, 2026",
@@ -60,24 +51,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/fkxnanuDzkA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HN7N4YmQacM",
-          "title": "11am — Easter Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/HN7N4YmQacM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-nlC_9BbQFM",
-          "title": "Missa Rezada. Domingo de Páscoa 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-nlC_9BbQFM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
