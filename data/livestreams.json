@@ -1,33 +1,15 @@
 {
-  "lastUpdated": "2026-04-05T08:38:41.267Z",
+  "lastUpdated": "2026-04-05T09:36:04.347Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-WTBACstmWU",
-          "title": "Easter Vigil followed by Midnight Mass | April 4/5th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/-WTBACstmWU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2edq0uc42_4",
           "title": "FSSPX Antwerpen - 05/04 HOOGFEEST van PASEN",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/2edq0uc42_4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mNduhN4-rtM",
-          "title": "Amt - Ostersonntag - 05. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/mNduhN4-rtM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "mvCfTx8eRpU",
+          "title": "Sunday 5th April 2026: Easter Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/mvCfTx8eRpU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "pWUj5NUeyNo",
           "title": "9:30am —  Easter Sunday",
           "channel": "Oxford Oratory",
@@ -87,17 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/_V8JpbPZVpE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T09:00:00Z"
-        },
-        {
-          "id": "mvCfTx8eRpU",
-          "title": "Sunday 5th April 2026: Easter Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/mvCfTx8eRpU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "415xZG-FbDc",
@@ -134,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T15:30:00Z"
+        },
+        {
+          "id": "PpJb837hSyg",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/PpJb837hSyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-06T09:00:00Z"
         }
       ]
     }
