@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T13:52:55.459Z",
+  "lastUpdated": "2026-04-05T14:32:53.209Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/bDP6VBvi8tc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AVFnUjU9lt0",
+          "title": "Sun, Apr. 5, 2026   -   Easter Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/AVFnUjU9lt0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,11 +64,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "loBkYAoxBIY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/loBkYAoxBIY/mqdefault_live.jpg",
+          "id": "BPjCqlSy3fA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Easter Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/BPjCqlSy3fA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bU7x58K5M6A",
+          "title": "10:30am Sung Mass. Easter Sunday. I. April 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bU7x58K5M6A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AxisSoUMD6k",
+          "title": "Easter Sunday / Dimanche de Pâques",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/AxisSoUMD6k/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,24 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PRblDX_jVlo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "BPjCqlSy3fA",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Easter Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/BPjCqlSy3fA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T14:00:00Z"
-        },
-        {
-          "id": "bU7x58K5M6A",
-          "title": "10:30am Sung Mass. Easter Sunday. I. April 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bU7x58K5M6A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T14:30:00Z"
         },
         {
           "id": "x0moCEaJo2M",
