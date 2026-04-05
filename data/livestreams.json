@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T15:57:33.741Z",
+  "lastUpdated": "2026-04-05T16:40:31.979Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,24 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/9Buy4Oyv4rQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bVDs2vQ1t0s",
-          "title": "FSSPX Antwerpen - 05/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bVDs2vQ1t0s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "u1pswCr2Y8o",
-          "title": "Vesper und Sakramentsandacht - Ostersonntag - 05. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/u1pswCr2Y8o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
