@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-05T15:28:55.541Z",
+  "lastUpdated": "2026-04-05T15:57:33.741Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bDP6VBvi8tc",
-          "title": "Pontifical High Mass - Easter Sunday - 4/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/bDP6VBvi8tc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9Buy4Oyv4rQ",
           "title": "Easter Sunday - April 5th, 2026",
@@ -37,8 +28,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/u1pswCr2Y8o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "j-35Ng4YKLg",
@@ -64,29 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BPjCqlSy3fA",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Easter Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/BPjCqlSy3fA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ohvY--vwI5k",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/ohvY--vwI5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bU7x58K5M6A",
-          "title": "10:30am Sung Mass. Easter Sunday. I. April 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bU7x58K5M6A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,6 +87,24 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/AxisSoUMD6k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "i9bzOXyitPA",
+          "title": "Santa Misa Dominical 5 de Abril  2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/i9bzOXyitPA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Q3SmOFnYO7I",
+          "title": "Choral Vespers and Benediction — Easter Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q3SmOFnYO7I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
