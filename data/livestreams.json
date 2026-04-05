@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-05T16:40:31.979Z",
+  "lastUpdated": "2026-04-05T17:27:36.244Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9Buy4Oyv4rQ",
-          "title": "Easter Sunday - April 5th, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/9Buy4Oyv4rQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j-35Ng4YKLg",
           "title": "FSSPX Antwerpen - 06/04 MAANDAG in de PAASWEEK",
@@ -37,29 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ohvY--vwI5k",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ohvY--vwI5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "x0moCEaJo2M",
           "title": "EASTER SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/x0moCEaJo2M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1iFGorxJZdc",
-          "title": "Sunday 11 AM Solemn Mass of Palm Sunday 2026-04-05",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/1iFGorxJZdc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,24 +51,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/i9bzOXyitPA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Q3SmOFnYO7I",
-          "title": "Choral Vespers and Benediction — Easter Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Q3SmOFnYO7I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NP-5ufjeaQQ",
-          "title": "Vêpres stationnales du jour de Pâques au propre de Paris - JESUM QUEM QUÆRITIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/NP-5ufjeaQQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
