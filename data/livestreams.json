@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-04-05T04:59:04.275Z",
+  "lastUpdated": "2026-04-05T06:16:02.413Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "7jxT4XB3xGQ",
-          "title": "Easter Vigil and Mass - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/7jxT4XB3xGQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "scdPyih3IzA",
-          "title": "Easter Vigil Midnight Mass 2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/scdPyih3IzA/mqdefault_live.jpg",
+          "id": "-WTBACstmWU",
+          "title": "Easter Vigil followed by Midnight Mass | April 4/5th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/-WTBACstmWU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -30,24 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/NgbE9YX1hyk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_bDUdozFUOs",
-          "title": "Sat. Apr. 4, 2026    -    Holy Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/_bDUdozFUOs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-WTBACstmWU",
-          "title": "Easter Vigil followed by Midnight Mass | April 4/5th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/-WTBACstmWU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T05:00:00Z"
         },
         {
           "id": "mNduhN4-rtM",
@@ -90,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-ZZttK7vWgM",
-          "title": "Saturday 10 PM Easter Vigil Traditional Catholic Mass 04/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/-ZZttK7vWgM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_V8JpbPZVpE",
           "title": "Sainte messe de la résurrection du dimanche de Pâques - RESURRREXI",
