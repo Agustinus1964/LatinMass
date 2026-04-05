@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-04-05T09:36:04.347Z",
+  "lastUpdated": "2026-04-05T10:30:24.493Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2edq0uc42_4",
-          "title": "FSSPX Antwerpen - 05/04 HOOGFEEST van PASEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2edq0uc42_4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3zfsTe1m7Ps",
-          "title": "Pasqua di Resurrezione, Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/3zfsTe1m7Ps/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "E5YGPUapLIA",
           "title": "Easter Sunday",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/E5YGPUapLIA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9Buy4Oyv4rQ",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/u1pswCr2Y8o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-05T15:30:00Z"
+        },
+        {
+          "id": "j-35Ng4YKLg",
+          "title": "FSSPX Antwerpen - 06/04 MAANDAG in de PAASWEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/j-35Ng4YKLg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-06T08:00:00Z"
         }
       ]
     },
@@ -64,11 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "pWUj5NUeyNo",
-          "title": "9:30am —  Easter Sunday",
+          "id": "HN7N4YmQacM",
+          "title": "11am — Easter Sunday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/pWUj5NUeyNo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/HN7N4YmQacM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,6 +69,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/_V8JpbPZVpE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-nlC_9BbQFM",
+          "title": "Missa Rezada. Domingo de Páscoa 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-nlC_9BbQFM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
