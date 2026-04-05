@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T06:16:02.413Z",
+  "lastUpdated": "2026-04-05T07:36:31.885Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,8 +28,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/mNduhN4-rtM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-05T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3zfsTe1m7Ps",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DswWEd1FVMY",
+          "title": "8am — Easter Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/DswWEd1FVMY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_V8JpbPZVpE",
           "title": "Sainte messe de la résurrection du dimanche de Pâques - RESURRREXI",
