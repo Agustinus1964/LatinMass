@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-06T07:07:38.817Z",
+  "lastUpdated": "2026-04-06T08:51:40.367Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "dUZb3_rH-0Q",
-          "title": "Monday in the Octave of Easter",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/dUZb3_rH-0Q/mqdefault_live.jpg",
+          "id": "j-35Ng4YKLg",
+          "title": "FSSPX Antwerpen - 06/04 MAANDAG in de PAASWEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/j-35Ng4YKLg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/q6gc60Kc9B4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T07:30:00Z"
-        },
-        {
-          "id": "j-35Ng4YKLg",
-          "title": "FSSPX Antwerpen - 06/04 MAANDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/j-35Ng4YKLg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rSHR76bhUYw",
