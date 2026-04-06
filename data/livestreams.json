@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T15:42:37.879Z",
+  "lastUpdated": "2026-04-06T16:42:10.093Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ziy8tJEVczY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-07T15:00:00Z"
+        },
+        {
+          "id": "qLb_CLIyNec",
+          "title": "Rosenkranz und hl. Messe - Osterdienstag - 07. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/qLb_CLIyNec/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-07T16:00:00Z"
+        },
+        {
+          "id": "A9UkAME1ugg",
+          "title": "FSSPX Antwerpen - 07/04 DINSDAG in de PAASWEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/A9UkAME1ugg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-07T16:30:00Z"
         }
       ]
     },
