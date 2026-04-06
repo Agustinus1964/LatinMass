@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-06T11:26:06.669Z",
+  "lastUpdated": "2026-04-06T12:04:06.659Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "u4X_RHh--Mo",
-          "title": "Solemn High Mass - Easter Monday - 4/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/u4X_RHh--Mo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rSHR76bhUYw",
           "title": "Mon. Apr. 6, 2026    -    Easter Monday",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/rSHR76bhUYw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T12:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nQY_p3by4to",
@@ -46,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gAuXMHAhV5U",
-          "title": "7am Mass & Divine Office. Easter Monday. I. April 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/gAuXMHAhV5U/mqdefault_live.jpg",
+          "id": "gF9ky4Zkrvk",
+          "title": "Monday 8 AM Traditional Latin Mass04/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/gF9ky4Zkrvk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
