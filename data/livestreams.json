@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T13:50:29.863Z",
+  "lastUpdated": "2026-04-06T14:42:50.961Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "cKtPJCcmV64",
+          "title": "Santo Sacrificio de la Misa, Lunes de Pascua, 6 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/cKtPJCcmV64/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "30wbpEUknEk",
           "title": "Monday 6th April 2026: Easter Monday",
