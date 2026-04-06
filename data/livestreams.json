@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-06T08:51:40.367Z",
+  "lastUpdated": "2026-04-06T10:05:57.132Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "j-35Ng4YKLg",
-          "title": "FSSPX Antwerpen - 06/04 MAANDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/j-35Ng4YKLg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "q6gc60Kc9B4",
-          "title": "Amt - Ostermontag - 06. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/q6gc60Kc9B4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rSHR76bhUYw",
           "title": "Mon. Apr. 6, 2026    -    Easter Monday",
@@ -46,13 +28,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PpJb837hSyg",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/PpJb837hSyg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T09:00:00Z"
+          "id": "1EstKhW0Dk4",
+          "title": "Monday 6 AM Traditional Catholic Mass 04/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/1EstKhW0Dk4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GeJpQ_e40vQ",
@@ -60,8 +42,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/GeJpQ_e40vQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-NuXLBt1TyY",
+          "title": "Laudes e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-NuXLBt1TyY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gAuXMHAhV5U",
