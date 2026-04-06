@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-06T21:34:51.636Z",
+  "lastUpdated": "2026-04-06T22:32:52.031Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QWpxkiR-aHI",
-          "title": "7 April  Tuesday in Easter week",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/QWpxkiR-aHI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nQY_p3by4to",
           "title": "Hl. Messe - Osterdienstag - 07. April 2026",
@@ -73,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "OQ6PcaIkQVs",
-          "title": "Terço e Missa Rezada — Segunda-feira na oitava da Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/OQ6PcaIkQVs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "60IRhKISlJg",
           "title": "Live Stream Holy Mass from Cleveland USA (Monday in the Octave of Easter)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/60IRhKISlJg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T22:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Zav6X1O19gk",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/b3izKWDzzko/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-07T17:00:00Z"
+        },
+        {
+          "id": "35vEG4sMnzM",
+          "title": "Divine Office & 6pm Mass. Easter Tuesday. I. April 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/35vEG4sMnzM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-07T22:00:00Z"
         }
       ]
     }
