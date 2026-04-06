@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-06T05:09:09.269Z",
+  "lastUpdated": "2026-04-06T07:07:38.817Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/dUZb3_rH-0Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-06T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "q6gc60Kc9B4",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rSHR76bhUYw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-06T12:00:00Z"
+        },
+        {
+          "id": "nQY_p3by4to",
+          "title": "Hl. Messe - Osterdienstag - 07. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/nQY_p3by4to/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-07T05:15:00Z"
         }
       ]
     },
