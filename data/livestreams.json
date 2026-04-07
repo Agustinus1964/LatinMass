@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T12:08:33.275Z",
+  "lastUpdated": "2026-04-07T14:06:52.244Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "p5xQq-1vc5M",
-          "title": "Live Stream Holy Mass from Cleveland USA (Tuesday in the Octave of Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/p5xQq-1vc5M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "je70hP0oz_s",
-          "title": "Tuesday 8 AM Catholic Mass for 04/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/je70hP0oz_s/mqdefault_live.jpg",
+          "id": "8Bhqd2m8SnA",
+          "title": "Santo Sacrificio de la Misa, Martes de Pascua, 6 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/8Bhqd2m8SnA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Xn2Jal_cv1g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-08T11:00:00Z"
+        },
+        {
+          "id": "wAh9zcE9mco",
+          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday in the Octave of Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/wAh9zcE9mco/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-08T11:30:00Z"
         }
       ]
     }
