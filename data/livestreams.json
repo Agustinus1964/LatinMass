@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T20:04:44.010Z",
+  "lastUpdated": "2026-04-07T21:09:24.466Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,8 +51,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/35vEG4sMnzM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-07T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1ivnYCciSGY",
+          "title": "Terço e Missa rezada na oitava da Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/1ivnYCciSGY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Xn2Jal_cv1g",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BYDLnTk_-LE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-08T17:00:00Z"
+        },
+        {
+          "id": "BrjS0eRcshY",
+          "title": "Divine Office & 6pm Mass. Wednesday in the Octave of Easter. I. April 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/BrjS0eRcshY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-08T21:00:00Z"
         }
       ]
     }
