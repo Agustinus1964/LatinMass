@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T14:06:52.244Z",
+  "lastUpdated": "2026-04-07T15:53:31.373Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/ziy8tJEVczY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-07T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qLb_CLIyNec",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8Bhqd2m8SnA",
-          "title": "Santo Sacrificio de la Misa, Martes de Pascua, 6 de abril, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/8Bhqd2m8SnA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GJOSPDtq2I8",
           "title": "Tuesday 7th April 2026: Easter Tuesday",
