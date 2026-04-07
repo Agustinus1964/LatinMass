@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-07T15:53:31.373Z",
+  "lastUpdated": "2026-04-07T16:54:11.771Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ziy8tJEVczY",
-          "title": "FSSPX Antwerpen - 07/04 Aanbidding met Rozenhoedje",
+          "id": "A9UkAME1ugg",
+          "title": "FSSPX Antwerpen - 07/04 DINSDAG in de PAASWEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ziy8tJEVczY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/A9UkAME1ugg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/qLb_CLIyNec/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-07T16:00:00Z"
-        },
-        {
-          "id": "A9UkAME1ugg",
-          "title": "FSSPX Antwerpen - 07/04 DINSDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/A9UkAME1ugg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-07T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NR3-e_SPKNA",
@@ -69,8 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/GJOSPDtq2I8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-07T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ETuOxsRZkdM",
@@ -78,8 +69,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/ETuOxsRZkdM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "r0IV7qO69GY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/r0IV7qO69GY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-07T17:00:00Z"
+          "scheduledTime": "2026-04-07T16:58:00Z"
         },
         {
           "id": "b3izKWDzzko",
