@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-07T17:56:22.406Z",
+  "lastUpdated": "2026-04-07T19:03:17.885Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "r0IV7qO69GY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/r0IV7qO69GY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "b3izKWDzzko",
-          "title": "Sainte messe du Mardi de Pâques, in Albis - AQUA SAPIENTIÆ",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/b3izKWDzzko/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "35vEG4sMnzM",
           "title": "Divine Office & 6pm Mass. Easter Tuesday. I. April 7, 2026.",
