@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-08T21:38:23.438Z",
+  "lastUpdated": "2026-04-08T22:35:35.766Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mPoacB-GC5E",
-          "title": "Mass of Thursday in Easter week - 9.4.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/mPoacB-GC5E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tjymZ-2IFMk",
           "title": "Hl. Messe - Osterdonnerstag - 09. April 2026",
@@ -78,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/BrjS0eRcshY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "z6sfqPiHyCo",
-          "title": "Terço e Santa Missa rezada na oitava de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/z6sfqPiHyCo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
