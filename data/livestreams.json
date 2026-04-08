@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-08T20:38:57.383Z",
+  "lastUpdated": "2026-04-08T21:38:23.438Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mPoacB-GC5E",
+          "title": "Mass of Thursday in Easter week - 9.4.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/mPoacB-GC5E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "tjymZ-2IFMk",
           "title": "Hl. Messe - Osterdonnerstag - 09. April 2026",
@@ -73,6 +82,15 @@
           "scheduledTime": null
         },
         {
+          "id": "z6sfqPiHyCo",
+          "title": "Terço e Santa Missa rezada na oitava de Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/z6sfqPiHyCo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "EPlK1vLgQX0",
           "title": "Thursday 9th April 2026: Easter Thursday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -116,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7nKHnX6v-cI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-09T17:00:00Z"
+        },
+        {
+          "id": "ThZUOSBlFp8",
+          "title": "Divine Office & 6pm Mass. Thursday in the Octave of Easter. I. April 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ThZUOSBlFp8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T21:00:00Z"
         }
       ]
     }
