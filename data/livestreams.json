@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T15:53:59.230Z",
+  "lastUpdated": "2026-04-08T16:57:32.897Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5GpK7ez8fsE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-09T15:00:00Z"
+        },
+        {
+          "id": "qp5ji0zDmjg",
+          "title": "FSSPX Antwerpen - 09/04 DONDERDAG in de PAASWEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/qp5ji0zDmjg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T16:30:00Z"
         }
       ]
     },
@@ -51,17 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Jl3kL5tnJRQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T17:00:00Z"
-        },
-        {
-          "id": "bJUZeat8nnM",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/bJUZeat8nnM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BYDLnTk_-LE",
@@ -69,6 +69,24 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/BYDLnTk_-LE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XqlKZnIAF6s",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/XqlKZnIAF6s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-08T16:58:00Z"
+        },
+        {
+          "id": "bJUZeat8nnM",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/bJUZeat8nnM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-08T17:00:00Z"
         },
