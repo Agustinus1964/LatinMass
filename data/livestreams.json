@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T08:40:25.158Z",
+  "lastUpdated": "2026-04-08T10:04:42.978Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,6 +27,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "x7xEChVWorA",
+          "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/x7xEChVWorA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6Tikg_Wmdaw",
+          "title": "Laudes e Santa Missa na oitava de Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/6Tikg_Wmdaw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Xn2Jal_cv1g",
           "title": "7am Mass & Divine Office. Wednesday in the Octave of Easter. I. April 8, 2026.",
