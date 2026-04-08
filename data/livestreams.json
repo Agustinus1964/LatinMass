@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T10:04:42.978Z",
+  "lastUpdated": "2026-04-08T11:29:04.183Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/wL4LvsoQ3eM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tjymZ-2IFMk",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tjymZ-2IFMk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-09T05:15:00Z"
+        },
+        {
+          "id": "qwGzl3FIYDI",
+          "title": "Thu. Apr. 9, 2026    -    Thursday in Easter Week",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qwGzl3FIYDI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T11:15:00Z"
         }
       ]
     },
@@ -28,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "x7xEChVWorA",
-          "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/x7xEChVWorA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6Tikg_Wmdaw",
-          "title": "Laudes e Santa Missa na oitava de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/6Tikg_Wmdaw/mqdefault_live.jpg",
+          "id": "wAh9zcE9mco",
+          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday in the Octave of Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/wAh9zcE9mco/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,17 +51,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Xn2Jal_cv1g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T11:00:00Z"
-        },
-        {
-          "id": "wAh9zcE9mco",
-          "title": "Live Stream Holy Mass from Cleveland USA (Wednesday in the Octave of Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/wAh9zcE9mco/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Jl3kL5tnJRQ",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EPlK1vLgQX0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-09T07:00:00Z"
+        },
+        {
+          "id": "3cPxDplD6TU",
+          "title": "7am Mass & Divine Office. Thursday in the Octave of Easter. I. April 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3cPxDplD6TU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T11:00:00Z"
         }
       ]
     }
