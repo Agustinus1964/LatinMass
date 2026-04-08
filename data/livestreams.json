@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-04-08T03:38:00.944Z",
+  "lastUpdated": "2026-04-08T05:44:49.669Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NR3-e_SPKNA",
-          "title": "Hl. Messe - Ostermittwoch - 08. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NR3-e_SPKNA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T05:15:00Z"
-        },
         {
           "id": "t-e-rn6ky48",
           "title": "FSSPX Antwerpen - 08/04 WOENSDAG in de PAASWEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/t-e-rn6ky48/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T05:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "NR3-e_SPKNA",
+          "title": "Hl. Messe - Ostermittwoch - 08. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/NR3-e_SPKNA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YE08WlaMmg0",
@@ -29,7 +29,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/YE08WlaMmg0/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-08T07:30:00Z"
+          "scheduledTime": "2026-04-08T06:30:00Z"
         },
         {
           "id": "wL4LvsoQ3eM",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wL4LvsoQ3eM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-08T11:15:00Z"
+        },
+        {
+          "id": "tjymZ-2IFMk",
+          "title": "Hl. Messe - Osterdonnerstag - 09. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/tjymZ-2IFMk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T05:15:00Z"
         }
       ]
     },
