@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-08T05:44:49.669Z",
+  "lastUpdated": "2026-04-08T07:13:35.748Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "t-e-rn6ky48",
-          "title": "FSSPX Antwerpen - 08/04 WOENSDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/t-e-rn6ky48/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NR3-e_SPKNA",
-          "title": "Hl. Messe - Ostermittwoch - 08. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NR3-e_SPKNA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YE08WlaMmg0",
-          "title": "Wednesday in the Octave of Easter",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/YE08WlaMmg0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T06:30:00Z"
-        },
         {
           "id": "wL4LvsoQ3eM",
           "title": "Wed. Apr, 8, 2026    -    Wednesday in Easter Week",
@@ -107,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BrjS0eRcshY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-08T21:00:00Z"
+        },
+        {
+          "id": "EPlK1vLgQX0",
+          "title": "Thursday 9th April 2026: Easter Thursday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/EPlK1vLgQX0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T07:00:00Z"
         }
       ]
     }
