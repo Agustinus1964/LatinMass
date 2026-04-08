@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T16:57:32.897Z",
+  "lastUpdated": "2026-04-08T18:07:44.400Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Jl3kL5tnJRQ",
-          "title": "Wednesday 8th April 2026: Easter Wednesday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Jl3kL5tnJRQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "BYDLnTk_-LE",
           "title": "Sainte messe du Mercredi de Pâques, in Albis - VENITE BENEDICTI",
           "channel": "Ite Missa Est",
@@ -71,24 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BYDLnTk_-LE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "XqlKZnIAF6s",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/XqlKZnIAF6s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T16:58:00Z"
-        },
-        {
-          "id": "bJUZeat8nnM",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/bJUZeat8nnM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-08T17:00:00Z"
         },
         {
           "id": "BrjS0eRcshY",
@@ -125,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/k7k4WfLVQrw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-09T11:30:00Z"
+        },
+        {
+          "id": "iRoMTxA5wVA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/iRoMTxA5wVA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T17:00:00Z"
+        },
+        {
+          "id": "7nKHnX6v-cI",
+          "title": "Sainte messe du Jeudi de Pâques, in Albis - VICTRICEM MANUM TUAM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/7nKHnX6v-cI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-09T17:00:00Z"
         }
       ]
     }
