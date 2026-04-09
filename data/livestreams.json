@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T20:11:09.096Z",
+  "lastUpdated": "2026-04-09T21:07:08.390Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,8 +51,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ThZUOSBlFp8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fSJPVquoc8g",
+          "title": "Adoração ao Santíssimo e Santa Missa rezada na oitava da Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fSJPVquoc8g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OeraA6zcXBs",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1E1nK9VByEk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-10T17:00:00Z"
+        },
+        {
+          "id": "4iEwbJQ4OBM",
+          "title": "Divine Office, Mass, Holy Hour. Friday in the Octave of Easter. I. April 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/4iEwbJQ4OBM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T21:00:00Z"
         }
       ]
     }
