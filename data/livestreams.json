@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-09T16:46:31.645Z",
+  "lastUpdated": "2026-04-09T17:56:13.281Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qp5ji0zDmjg",
-          "title": "FSSPX Antwerpen - 09/04 DONDERDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/qp5ji0zDmjg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5GpK7ez8fsE",
-          "title": "Sakramentsandacht und hl. Messe - Osterdonnerstag - 09. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/5GpK7ez8fsE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nrukdtvuPxs",
           "title": "Hl. Messe - Osterfreitag - 10. April 2026",
@@ -64,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iRoMTxA5wVA",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/iRoMTxA5wVA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T17:00:00Z"
+          "id": "15kvTt_qZZw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/15kvTt_qZZw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7nKHnX6v-cI",
@@ -78,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/7nKHnX6v-cI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ThZUOSBlFp8",
@@ -98,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/OeraA6zcXBs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-10T15:00:00Z"
+        },
+        {
+          "id": "RtcatnvZxvw",
+          "title": "Friday 10th April 2026: Easter Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/RtcatnvZxvw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T17:00:00Z"
+        },
+        {
+          "id": "OxeJjyPCwgY",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/OxeJjyPCwgY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T17:00:00Z"
+        },
+        {
+          "id": "1E1nK9VByEk",
+          "title": "Sainte messe du Vendredi de Pâques, in Albis - EDUXIT EOS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/1E1nK9VByEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T17:00:00Z"
         }
       ]
     }
