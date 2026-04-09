@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T09:47:05.341Z",
+  "lastUpdated": "2026-04-09T10:55:31.113Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SLa_CA4i2_E",
-          "title": "Laudes e Santa Missa rezada na oitava de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/SLa_CA4i2_E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3cPxDplD6TU",
           "title": "7am Mass & Divine Office. Thursday in the Octave of Easter. I. April 9, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/3cPxDplD6TU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "k7k4WfLVQrw",
