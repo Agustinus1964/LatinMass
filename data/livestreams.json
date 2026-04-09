@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-09T10:55:31.113Z",
+  "lastUpdated": "2026-04-09T11:53:40.908Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/qwGzl3FIYDI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "htcVJggBqzo",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nrukdtvuPxs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-10T05:15:00Z"
+        },
+        {
+          "id": "SY7qZqdFVUc",
+          "title": "Fri. Apr. 10, 2026    -    Friday in Easter Week",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/SY7qZqdFVUc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T11:15:00Z"
         }
       ]
     },
@@ -55,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3cPxDplD6TU",
-          "title": "7am Mass & Divine Office. Thursday in the Octave of Easter. I. April 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3cPxDplD6TU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "k7k4WfLVQrw",
           "title": "Live Stream Holy Mass from Cleveland USA (Thursday in the Octave of Easter)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/k7k4WfLVQrw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iRoMTxA5wVA",
