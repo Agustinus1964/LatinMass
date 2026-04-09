@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-09T22:03:32.022Z",
+  "lastUpdated": "2026-04-09T23:06:55.073Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wwyrAej2RW4",
+          "title": "Easter Friday Holy Mass",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/wwyrAej2RW4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nrukdtvuPxs",
           "title": "Hl. Messe - Osterfreitag - 10. April 2026",
@@ -45,24 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ThZUOSBlFp8",
-          "title": "Divine Office & 6pm Mass. Thursday in the Octave of Easter. I. April 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ThZUOSBlFp8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fSJPVquoc8g",
-          "title": "Adoração ao Santíssimo e Santa Missa rezada na oitava da Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fSJPVquoc8g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OeraA6zcXBs",
           "title": "11am Mass & Divine Office. Friday in the Octave of Easter. I. April 10, 2026.",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4iEwbJQ4OBM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-10T21:00:00Z"
+        },
+        {
+          "id": "bLjvS2SOhb8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Friday in the Octave of Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bLjvS2SOhb8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T22:30:00Z"
         }
       ]
     }
