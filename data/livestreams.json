@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-09T11:53:40.908Z",
+  "lastUpdated": "2026-04-09T13:20:28.847Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qwGzl3FIYDI",
-          "title": "Thu. Apr. 9, 2026    -    Thursday in Easter Week",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qwGzl3FIYDI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "htcVJggBqzo",
           "title": "FSSPX Antwerpen - 09/04 Priester-Uur-Gebed",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "k7k4WfLVQrw",
-          "title": "Live Stream Holy Mass from Cleveland USA (Thursday in the Octave of Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/k7k4WfLVQrw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "iRoMTxA5wVA",
           "title": "Thursday",
