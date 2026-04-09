@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-09T15:05:14.389Z",
+  "lastUpdated": "2026-04-09T16:46:31.645Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "htcVJggBqzo",
-          "title": "FSSPX Antwerpen - 09/04 Priester-Uur-Gebed",
+          "id": "qp5ji0zDmjg",
+          "title": "FSSPX Antwerpen - 09/04 DONDERDAG in de PAASWEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/htcVJggBqzo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qp5ji0zDmjg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5GpK7ez8fsE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "qp5ji0zDmjg",
-          "title": "FSSPX Antwerpen - 09/04 DONDERDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/qp5ji0zDmjg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-09T16:30:00Z"
         },
         {
           "id": "nrukdtvuPxs",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ns51wrem0vE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-10T15:00:00Z"
+        },
+        {
+          "id": "BFCpz13JjxE",
+          "title": "FSSPX Antwerpen - 10/04 VRIJDAG in de PAASWEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/BFCpz13JjxE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-10T16:30:00Z"
         }
       ]
     },
