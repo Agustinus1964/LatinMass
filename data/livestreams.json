@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T18:47:00.611Z",
+  "lastUpdated": "2026-04-10T19:40:54.650Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4Gj-zSr6XSg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-11T05:15:00Z"
+        },
+        {
+          "id": "u-z7Ko2m1cU",
+          "title": "Saturday in the Octave of Easter",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/u-z7Ko2m1cU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-11T07:30:00Z"
         },
         {
           "id": "X797cSMkQm4",
