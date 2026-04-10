@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T20:31:51.748Z",
+  "lastUpdated": "2026-04-10T21:33:53.710Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,6 +51,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/4iEwbJQ4OBM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "s_xh7MZu3Oc",
+          "title": "Santo Terço e Santa Missa rezada na oitava da Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/s_xh7MZu3Oc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
