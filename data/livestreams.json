@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-10T21:33:53.710Z",
+  "lastUpdated": "2026-04-10T22:33:53.557Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "NbW4y-6MqOw",
+          "title": "SATURDAY  IN  EASTER. WEEK. - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/NbW4y-6MqOw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4Gj-zSr6XSg",
           "title": "Hl. Messe - Ostersamstag - 11. April 2026",
@@ -46,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "bLjvS2SOhb8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Friday in the Octave of Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bLjvS2SOhb8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "4iEwbJQ4OBM",
           "title": "Divine Office, Mass, Holy Hour. Friday in the Octave of Easter. I. April 10, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/s_xh7MZu3Oc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "bLjvS2SOhb8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Friday in the Octave of Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/bLjvS2SOhb8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-10T22:30:00Z"
         },
         {
           "id": "21YaSAMe2PI",
