@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-10T05:55:29.823Z",
+  "lastUpdated": "2026-04-10T07:24:16.702Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nrukdtvuPxs",
-          "title": "Hl. Messe - Osterfreitag - 10. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/nrukdtvuPxs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YG5bwesFKpg",
-          "title": "Friday in the Octave of Easter",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/YG5bwesFKpg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-10T06:30:00Z"
-        },
         {
           "id": "SY7qZqdFVUc",
           "title": "Fri. Apr. 10, 2026    -    Friday in Easter Week",
