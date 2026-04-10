@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T08:52:08.917Z",
+  "lastUpdated": "2026-04-10T10:05:33.441Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9zk1ICrz4NY",
+          "title": "Laudes e Santa Missa rezada na oitava de Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9zk1ICrz4NY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "OeraA6zcXBs",
           "title": "11am Mass & Divine Office. Friday in the Octave of Easter. I. April 10, 2026.",
@@ -116,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/21YaSAMe2PI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-11T07:30:00Z"
+        },
+        {
+          "id": "akBvQcmLPl8",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/akBvQcmLPl8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-11T09:00:00Z"
+        },
+        {
+          "id": "-73sz3XIYrg",
+          "title": "Saturday 11th April 2026: Easter Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/-73sz3XIYrg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-11T09:30:00Z"
         }
       ]
     }
