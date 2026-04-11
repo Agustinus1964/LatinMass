@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T16:32:52.223Z",
+  "lastUpdated": "2026-04-11T17:28:01.175Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/H7ZotOqgC1U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T16:45:31Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hrU5R0m9AiY",
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-04-12T07:30:00Z"
         },
         {
-          "id": "njjVCg7bSd4",
-          "title": "Sun. Apr. 12, 2026    -    Low Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/njjVCg7bSd4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T14:00:00Z"
-        },
-        {
           "id": "IOZmWErGOnc",
           "title": "Vesper und Sakramentsandacht - Weisser Sonntag - 12. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IOZmWErGOnc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T15:00:00Z"
+        },
+        {
+          "id": "Lux41kSiQ6c",
+          "title": "Low Sunday | April 12th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/Lux41kSiQ6c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T17:00:00Z"
         }
       ]
     },
@@ -51,8 +51,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/jUIMQZqBk1w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wIhn2alNotI",
