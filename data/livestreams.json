@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T22:29:41.912Z",
+  "lastUpdated": "2026-04-11T23:02:20.941Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/awwKkHDrm5A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T15:30:00Z"
+        },
+        {
+          "id": "Nl-Am27g7AI",
+          "title": "Secondes vêpres du dimanche in Albis - POST DIES OCTO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Nl-Am27g7AI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T15:45:00Z"
         },
         {
           "id": "7BYeLJWdaC8",
