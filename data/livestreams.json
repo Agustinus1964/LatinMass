@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T14:33:46.861Z",
+  "lastUpdated": "2026-04-11T15:30:10.067Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,24 +14,6 @@
           "scheduledTime": "2026-04-12T07:30:00Z"
         },
         {
-          "id": "SSi-KPGTU6k",
-          "title": "FSSPX Antwerpen - 12/04 ZONDAG van BELOKEN PASEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SSi-KPGTU6k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T08:00:00Z"
-        },
-        {
-          "id": "EoMlK0oqygE",
-          "title": "FSSPX Antwerpen - 12/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EoMlK0oqygE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T13:00:00Z"
-        },
-        {
           "id": "njjVCg7bSd4",
           "title": "Sun. Apr. 12, 2026    -    Low Sunday",
           "channel": "Transfiguration Church SSPX",
@@ -39,30 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/njjVCg7bSd4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T14:00:00Z"
+        },
+        {
+          "id": "IOZmWErGOnc",
+          "title": "Vesper und Sakramentsandacht - Weisser Sonntag - 12. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IOZmWErGOnc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pLbRx3nT0L0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/pLbRx3nT0L0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KH__Q0kiYGQ",
-          "title": "Santo Sacrificio de la Misa, Sábado de Pascua, 11 de abril, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/KH__Q0kiYGQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jUIMQZqBk1w",
           "title": "8am — Low Sunday",
@@ -125,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/sZtTQZHO8R8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T14:00:00Z"
+        },
+        {
+          "id": "WckDcc8PIzc",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WckDcc8PIzc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T14:45:00Z"
+        },
+        {
+          "id": "awwKkHDrm5A",
+          "title": "LOW SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/awwKkHDrm5A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T15:30:00Z"
         }
       ]
     }
