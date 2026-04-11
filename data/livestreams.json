@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T13:53:38.617Z",
+  "lastUpdated": "2026-04-11T14:33:46.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EoMlK0oqygE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T13:00:00Z"
+        },
+        {
+          "id": "njjVCg7bSd4",
+          "title": "Sun. Apr. 12, 2026    -    Low Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/njjVCg7bSd4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T14:00:00Z"
         }
       ]
     },
@@ -37,31 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "yyWKYeV5egQ",
-          "title": "7:30am Mass, Rosary, 9am Sung Mass. Sabbato in Albis. I. St. Stephen's Acolyte Guild. 4-11-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/yyWKYeV5egQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "R1RsUy0HKcw",
-          "title": "Saturday 9 AM Traditional Catholic Mass 04/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/R1RsUy0HKcw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "pLbRx3nT0L0",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/pLbRx3nT0L0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T13:58:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KH__Q0kiYGQ",
+          "title": "Santo Sacrificio de la Misa, Sábado de Pascua, 11 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/KH__Q0kiYGQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jUIMQZqBk1w",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hRrMx9bguss/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T12:00:00Z"
+        },
+        {
+          "id": "sZtTQZHO8R8",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/sZtTQZHO8R8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T14:00:00Z"
         }
       ]
     }
