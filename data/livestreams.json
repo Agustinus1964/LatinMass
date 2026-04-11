@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T09:36:28.152Z",
+  "lastUpdated": "2026-04-11T10:30:12.332Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,24 @@
           "scheduledTime": "2026-04-11T13:00:00Z"
         },
         {
+          "id": "jUIMQZqBk1w",
+          "title": "8am — Low Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/jUIMQZqBk1w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T07:00:00Z"
+        },
+        {
+          "id": "wIhn2alNotI",
+          "title": "9:30am —  Low Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wIhn2alNotI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T08:30:00Z"
+        },
+        {
           "id": "M516xJanXCk",
           "title": "Sainte messe du dimanche in Albis - QUASIMODO",
           "channel": "Ite Missa Est",
@@ -80,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T09:30:00Z"
+        },
+        {
+          "id": "ZlAvJQ47eYY",
+          "title": "11am — Low Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ZlAvJQ47eYY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T10:00:00Z"
         }
       ]
     }
