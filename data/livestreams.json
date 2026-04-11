@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-11T11:54:09.151Z",
+  "lastUpdated": "2026-04-11T12:51:38.657Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "onM799MCcfk",
-          "title": "Sat. Apr. 11, 2026    -    Easter Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/onM799MCcfk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T12:00:00Z"
-        },
         {
           "id": "hrU5R0m9AiY",
           "title": "Amt - Weisser Sonntag - 12. April 2026",
@@ -42,15 +33,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/yyWKYeV5egQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "03qh0HrWQfo",
-          "title": "Saturday 7 AM Catholic Mass for 04/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/03qh0HrWQfo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
