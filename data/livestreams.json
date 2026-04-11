@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T21:00:33.103Z",
+  "lastUpdated": "2026-04-11T21:55:30.056Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hrU5R0m9AiY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T07:30:00Z"
+        },
+        {
+          "id": "tyGM8LmJXFg",
+          "title": "Domenica in Albis - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/tyGM8LmJXFg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T08:25:00Z"
         },
         {
           "id": "IOZmWErGOnc",
