@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-11T06:57:30.755Z",
+  "lastUpdated": "2026-04-11T07:51:34.246Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "u-z7Ko2m1cU",
-          "title": "Saturday in the Octave of Easter",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/u-z7Ko2m1cU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "X797cSMkQm4",
           "title": "FSSPX Antwerpen - 11/04 ZATERDAG in de PAASWEEK",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/onM799MCcfk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-11T12:00:00Z"
+        },
+        {
+          "id": "hrU5R0m9AiY",
+          "title": "Amt - Weisser Sonntag - 12. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/hrU5R0m9AiY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T07:30:00Z"
         }
       ]
     },
@@ -42,8 +42,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/21YaSAMe2PI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "akBvQcmLPl8",
