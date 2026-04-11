@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-11T17:58:35.935Z",
+  "lastUpdated": "2026-04-11T18:55:17.387Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "H7ZotOqgC1U",
-          "title": "Eddy-Rutledge Weddiing, Saturday, April 11, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/H7ZotOqgC1U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hrU5R0m9AiY",
           "title": "Amt - Weisser Sonntag - 12. April 2026",
@@ -45,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jUIMQZqBk1w",
-          "title": "8am — Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/jUIMQZqBk1w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wIhn2alNotI",
           "title": "9:30am —  Low Sunday",
