@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T07:51:34.246Z",
+  "lastUpdated": "2026-04-11T08:38:51.285Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/X797cSMkQm4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "onM799MCcfk",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hrU5R0m9AiY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T07:30:00Z"
+        },
+        {
+          "id": "SSi-KPGTU6k",
+          "title": "FSSPX Antwerpen - 12/04 ZONDAG van BELOKEN PASEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SSi-KPGTU6k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T08:00:00Z"
         }
       ]
     },
