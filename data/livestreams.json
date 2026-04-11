@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T10:30:12.332Z",
+  "lastUpdated": "2026-04-11T11:27:30.456Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-73sz3XIYrg",
-          "title": "Saturday 11th April 2026: Easter Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/-73sz3XIYrg/mqdefault_live.jpg",
+          "id": "yyWKYeV5egQ",
+          "title": "7:30am Mass, Rosary, 9am Sung Mass. Sabbato in Albis. I. St. Stephen's Acolyte Guild. 4-11-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/yyWKYeV5egQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,8 +51,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/03qh0HrWQfo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T10:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nkj_8q8suGI",
