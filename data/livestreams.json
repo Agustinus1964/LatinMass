@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-11T08:38:51.285Z",
+  "lastUpdated": "2026-04-11T09:36:28.152Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "X797cSMkQm4",
-          "title": "FSSPX Antwerpen - 11/04 ZATERDAG in de PAASWEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/X797cSMkQm4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "onM799MCcfk",
           "title": "Sat. Apr. 11, 2026    -    Easter Saturday",
@@ -46,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "21YaSAMe2PI",
-          "title": "Sainte messe du Samedi de Pâques, in Albis - EDUXIT DOMINUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/21YaSAMe2PI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "akBvQcmLPl8",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/akBvQcmLPl8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T09:00:00Z"
-        },
-        {
           "id": "-73sz3XIYrg",
           "title": "Saturday 11th April 2026: Easter Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/-73sz3XIYrg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "03qh0HrWQfo",
@@ -89,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Nkj_8q8suGI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-11T13:00:00Z"
+        },
+        {
+          "id": "M516xJanXCk",
+          "title": "Sainte messe du dimanche in Albis - QUASIMODO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/M516xJanXCk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T09:00:00Z"
+        },
+        {
+          "id": "z4Hk76uZPUQ",
+          "title": "Sunday 12th April 2026: Low Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T09:30:00Z"
         }
       ]
     }
