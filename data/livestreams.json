@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-11T05:44:03.275Z",
+  "lastUpdated": "2026-04-11T06:57:30.755Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4Gj-zSr6XSg",
-          "title": "Hl. Messe - Ostersamstag - 11. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4Gj-zSr6XSg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "u-z7Ko2m1cU",
           "title": "Saturday in the Octave of Easter",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/u-z7Ko2m1cU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-11T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "X797cSMkQm4",
