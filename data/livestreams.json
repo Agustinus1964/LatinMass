@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-04-12T09:10:40.067Z",
+  "lastUpdated": "2026-04-12T10:05:22.764Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SSi-KPGTU6k",
-          "title": "FSSPX Antwerpen - 12/04 ZONDAG van BELOKEN PASEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SSi-KPGTU6k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hrU5R0m9AiY",
-          "title": "Amt - Weisser Sonntag - 12. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/hrU5R0m9AiY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tyGM8LmJXFg",
-          "title": "Domenica in Albis - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/tyGM8LmJXFg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TfBnONu2qNc",
           "title": "Low Sunday",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/TfBnONu2qNc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IOZmWErGOnc",
@@ -73,11 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7BYeLJWdaC8",
-          "title": "9:30am — Low Sunday",
+          "id": "z4Hk76uZPUQ",
+          "title": "Sunday 12th April 2026: Low Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GOdRh8aX2Sk",
+          "title": "11am — Low Sunday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/7BYeLJWdaC8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/GOdRh8aX2Sk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/M516xJanXCk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "z4Hk76uZPUQ",
-          "title": "Sunday 12th April 2026: Low Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T09:30:00Z"
-        },
-        {
-          "id": "GOdRh8aX2Sk",
-          "title": "11am — Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GOdRh8aX2Sk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T10:00:00Z"
         },
         {
           "id": "hRrMx9bguss",
