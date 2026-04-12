@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-04-12T14:47:28.808Z",
+  "lastUpdated": "2026-04-12T15:33:18.123Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5c74USPkY3g",
-          "title": "Low Sunday-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/5c74USPkY3g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "njjVCg7bSd4",
-          "title": "Sun. Apr. 12, 2026    -    Low Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/njjVCg7bSd4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3DyI6YLxie4",
           "title": "Low Sunday, April 12th, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/3DyI6YLxie4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T14:46:10Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IOZmWErGOnc",
@@ -37,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/IOZmWErGOnc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Lux41kSiQ6c",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HOUMQxiSVmA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T11:15:00Z"
+        },
+        {
+          "id": "7WHGNeRGGm0",
+          "title": "FSSPX Antwerpen - 13/04 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/7WHGNeRGGm0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T15:00:00Z"
         }
       ]
     },
@@ -73,11 +64,38 @@
           "scheduledTime": null
         },
         {
+          "id": "2QeF6peSeeA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/2QeF6peSeeA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "1BAqo_mE88E",
           "title": "10:30am Sung Mass. Low Sunday. I. 11:45am Divine Mercy Devotion. April 12, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/1BAqo_mE88E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "awwKkHDrm5A",
+          "title": "LOW SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/awwKkHDrm5A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sMNHWlTrkf4",
+          "title": "Sunday 11 AM Sung Mass 2026-04-12",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/sMNHWlTrkf4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/WckDcc8PIzc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "awwKkHDrm5A",
-          "title": "LOW SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/awwKkHDrm5A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T15:30:00Z"
         },
         {
           "id": "Nl-Am27g7AI",
