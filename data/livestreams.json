@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T08:01:15.969Z",
+  "lastUpdated": "2026-04-12T09:10:40.067Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/tyGM8LmJXFg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T08:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TfBnONu2qNc",
@@ -73,13 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "7BYeLJWdaC8",
+          "title": "9:30am — Low Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/7BYeLJWdaC8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "M516xJanXCk",
           "title": "Sainte messe du dimanche in Albis - QUASIMODO",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/M516xJanXCk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "z4Hk76uZPUQ",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T09:30:00Z"
+        },
+        {
+          "id": "GOdRh8aX2Sk",
+          "title": "11am — Low Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/GOdRh8aX2Sk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T10:00:00Z"
         },
         {
           "id": "hRrMx9bguss",
@@ -136,11 +154,11 @@
           "scheduledTime": "2026-04-12T15:45:00Z"
         },
         {
-          "id": "7BYeLJWdaC8",
+          "id": "wIvUm2U-b6M",
           "title": "Vespers and Benediction — Low Sunday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/7BYeLJWdaC8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wIvUm2U-b6M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T16:00:00Z"
         },
