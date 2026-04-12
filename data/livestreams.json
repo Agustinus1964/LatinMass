@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T23:57:33.664Z",
+  "lastUpdated": "2026-04-12T02:54:21.818Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Lux41kSiQ6c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T17:00:00Z"
+        },
+        {
+          "id": "R8-P7BigJU0",
+          "title": "Low Mass - Low Sunday - 4/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/R8-P7BigJU0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T01:00:00Z"
         }
       ]
     },
