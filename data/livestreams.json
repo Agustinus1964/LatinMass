@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T10:05:22.764Z",
+  "lastUpdated": "2026-04-12T11:05:05.052Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,24 @@
           "scheduledTime": null
         },
         {
+          "id": "c1hgd7r1MTM",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Low Sunday. I. April 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/c1hgd7r1MTM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Q8JiLqff8Lg",
+          "title": "Sunday 7 AM Catholic Mass for 04/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Q8JiLqff8Lg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "GOdRh8aX2Sk",
           "title": "11am — Low Sunday",
           "channel": "Oxford Oratory",
@@ -64,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "M516xJanXCk",
-          "title": "Sainte messe du dimanche in Albis - QUASIMODO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/M516xJanXCk/mqdefault_live.jpg",
+          "id": "LDpo3EZkp-Y",
+          "title": "Domingo in Albis 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/LDpo3EZkp-Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
