@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T22:30:00.683Z",
+  "lastUpdated": "2026-04-12T23:04:45.198Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Jlu-8BLoeMA",
-          "title": "Santa Missa rezada do Domingo in albis e Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Jlu-8BLoeMA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GsfAz8ocUXw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hermenegild, Martyr)",
