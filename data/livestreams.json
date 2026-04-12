@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T02:54:21.818Z",
+  "lastUpdated": "2026-04-12T05:21:00.579Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7BYeLJWdaC8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T16:00:00Z"
+        },
+        {
+          "id": "wUZOnNfLgw0",
+          "title": "The Royal Priesthood",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/wUZOnNfLgw0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T18:00:00Z"
         }
       ]
     }
