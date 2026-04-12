@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-04-12T12:55:35.742Z",
+  "lastUpdated": "2026-04-12T13:58:40.789Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "R8-P7BigJU0",
+          "title": "Low Mass - Low Sunday - 4/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/R8-P7BigJU0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5c74USPkY3g",
+          "title": "Low Sunday-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/5c74USPkY3g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "EoMlK0oqygE",
+          "title": "FSSPX Antwerpen - 12/04 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/EoMlK0oqygE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "IOZmWErGOnc",
           "title": "Vesper und Sakramentsandacht - Weisser Sonntag - 12. April 2026",
@@ -23,15 +50,6 @@
           "scheduledTime": "2026-04-12T17:00:00Z"
         },
         {
-          "id": "R8-P7BigJU0",
-          "title": "Low Mass - Low Sunday - 4/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/R8-P7BigJU0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T01:00:00Z"
-        },
-        {
           "id": "HOUMQxiSVmA",
           "title": "Mon. Apr. 13, 2026    -    St. Hermenegild    -    Martyr",
           "channel": "Transfiguration Church SSPX",
@@ -46,29 +64,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "hRrMx9bguss",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
+          "id": "sZtTQZHO8R8",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/hRrMx9bguss/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sZtTQZHO8R8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "c1hgd7r1MTM",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Low Sunday. I. April 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/c1hgd7r1MTM/mqdefault_live.jpg",
+          "id": "req7zNQYSZ4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/req7zNQYSZ4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "kJz36bu-dCU",
-          "title": "Sunday 8:30 AM Catholic Mass for 04/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/kJz36bu-dCU/mqdefault_live.jpg",
+          "id": "aLUVzBPiHBo",
+          "title": "Santa Misa Dominical. 12 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/aLUVzBPiHBo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "WckDcc8PIzc",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WckDcc8PIzc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,31 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "req7zNQYSZ4",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/req7zNQYSZ4/mqdefault_live.jpg",
+          "id": "slMTOKLqvQA",
+          "title": "Low Sunday (Divine Mercy) / Dimanche in albis (et de la Miséricorde)",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/slMTOKLqvQA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-12T12:58:00Z"
-        },
-        {
-          "id": "sZtTQZHO8R8",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/sZtTQZHO8R8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T14:00:00Z"
-        },
-        {
-          "id": "WckDcc8PIzc",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WckDcc8PIzc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T14:45:00Z"
+          "scheduledTime": "2026-04-12T14:30:00Z"
         },
         {
           "id": "awwKkHDrm5A",
