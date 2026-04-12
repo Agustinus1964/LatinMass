@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-12T15:33:18.123Z",
+  "lastUpdated": "2026-04-12T16:34:48.533Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3DyI6YLxie4",
-          "title": "Low Sunday, April 12th, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/3DyI6YLxie4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IOZmWErGOnc",
-          "title": "Vesper und Sakramentsandacht - Weisser Sonntag - 12. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/IOZmWErGOnc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Lux41kSiQ6c",
           "title": "Low Sunday | April 12th",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7WHGNeRGGm0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T15:00:00Z"
+        },
+        {
+          "id": "uNoB4jzvL-Y",
+          "title": "FSSPX Antwerpen - 13/04 H. HERMENEGILDUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/uNoB4jzvL-Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T16:30:00Z"
         }
       ]
     },
@@ -55,29 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sZtTQZHO8R8",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/sZtTQZHO8R8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "2QeF6peSeeA",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/2QeF6peSeeA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1BAqo_mE88E",
-          "title": "10:30am Sung Mass. Low Sunday. I. 11:45am Divine Mercy Devotion. April 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/1BAqo_mE88E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "slMTOKLqvQA",
-          "title": "Low Sunday (Divine Mercy) / Dimanche in albis (et de la Miséricorde)",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/slMTOKLqvQA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "aLUVzBPiHBo",
           "title": "Santa Misa Dominical. 12 de abril, 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -118,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "WckDcc8PIzc",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WckDcc8PIzc/mqdefault_live.jpg",
+          "id": "wIvUm2U-b6M",
+          "title": "Vespers and Benediction — Low Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wIvUm2U-b6M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -132,17 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Nl-Am27g7AI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T15:45:00Z"
-        },
-        {
-          "id": "wIvUm2U-b6M",
-          "title": "Vespers and Benediction — Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wIvUm2U-b6M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wUZOnNfLgw0",
@@ -152,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wUZOnNfLgw0/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T18:00:00Z"
+        },
+        {
+          "id": "GsfAz8ocUXw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hermenegild, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/GsfAz8ocUXw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T11:30:00Z"
         }
       ]
     }
