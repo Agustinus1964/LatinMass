@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T16:34:48.533Z",
+  "lastUpdated": "2026-04-12T17:31:39.871Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/Lux41kSiQ6c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HOUMQxiSVmA",
@@ -46,29 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2QeF6peSeeA",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/2QeF6peSeeA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "awwKkHDrm5A",
-          "title": "LOW SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/awwKkHDrm5A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sMNHWlTrkf4",
-          "title": "Sunday 11 AM Sung Mass 2026-04-12",
+          "id": "LUckl7IF914",
+          "title": "Sunday 1:30 PM Catholic Mass 04/12/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/sMNHWlTrkf4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/LUckl7IF914/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,24 +60,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/aLUVzBPiHBo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wIvUm2U-b6M",
-          "title": "Vespers and Benediction — Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wIvUm2U-b6M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Nl-Am27g7AI",
-          "title": "Secondes vêpres du dimanche in Albis - POST DIES OCTO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Nl-Am27g7AI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/GsfAz8ocUXw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T11:30:00Z"
+        },
+        {
+          "id": "Vp1XA6nh0gk",
+          "title": "Monday 13th April 2026: Saint Hermenegild",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Vp1XA6nh0gk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T17:00:00Z"
+        },
+        {
+          "id": "_CPIhC2o29o",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_CPIhC2o29o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T17:00:00Z"
+        },
+        {
+          "id": "z-wG9-4mun8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/z-wG9-4mun8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T17:00:00Z"
         }
       ]
     }
