@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-04-12T06:52:11.301Z",
+  "lastUpdated": "2026-04-12T08:01:15.969Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "SSi-KPGTU6k",
+          "title": "FSSPX Antwerpen - 12/04 ZONDAG van BELOKEN PASEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SSi-KPGTU6k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hrU5R0m9AiY",
           "title": "Amt - Weisser Sonntag - 12. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/hrU5R0m9AiY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tyGM8LmJXFg",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tyGM8LmJXFg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T08:25:00Z"
+        },
+        {
+          "id": "TfBnONu2qNc",
+          "title": "Low Sunday",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/TfBnONu2qNc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T10:00:00Z"
         },
         {
           "id": "IOZmWErGOnc",
@@ -55,15 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "wIhn2alNotI",
-          "title": "9:30am —  Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wIhn2alNotI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T08:30:00Z"
-        },
-        {
           "id": "M516xJanXCk",
           "title": "Sainte messe du dimanche in Albis - QUASIMODO",
           "channel": "Ite Missa Est",
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-12T09:30:00Z"
-        },
-        {
-          "id": "ZlAvJQ47eYY",
-          "title": "11am — Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ZlAvJQ47eYY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T10:00:00Z"
         },
         {
           "id": "hRrMx9bguss",
