@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-12T19:36:55.726Z",
+  "lastUpdated": "2026-04-12T20:32:05.139Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "HTg1JX-IqVE",
+          "title": "The Mass of the Dedication of a Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/HTg1JX-IqVE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T07:30:00Z"
+        },
         {
           "id": "HOUMQxiSVmA",
           "title": "Mon. Apr. 13, 2026    -    St. Hermenegild    -    Martyr",
@@ -37,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "awGONlXJHnY",
-          "title": "Santa Misa Dominical. 12 de abril, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/awGONlXJHnY/mqdefault_live.jpg",
+          "id": "Jlu-8BLoeMA",
+          "title": "Santa Missa rezada do Domingo in albis e Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Jlu-8BLoeMA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
