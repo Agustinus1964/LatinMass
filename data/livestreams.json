@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T18:42:12.849Z",
+  "lastUpdated": "2026-04-12T19:36:55.726Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LUckl7IF914",
-          "title": "Sunday 1:30 PM Catholic Mass 04/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/LUckl7IF914/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "awGONlXJHnY",
           "title": "Santa Misa Dominical. 12 de abril, 2026.",
