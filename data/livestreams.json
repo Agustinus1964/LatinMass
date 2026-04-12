@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-12T11:05:05.052Z",
+  "lastUpdated": "2026-04-12T11:55:12.745Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TfBnONu2qNc",
-          "title": "Low Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/TfBnONu2qNc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IOZmWErGOnc",
           "title": "Vesper und Sakramentsandacht - Weisser Sonntag - 12. April 2026",
@@ -39,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/R8-P7BigJU0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T01:00:00Z"
+        },
+        {
+          "id": "HOUMQxiSVmA",
+          "title": "Mon. Apr. 13, 2026    -    St. Hermenegild    -    Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/HOUMQxiSVmA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z4Hk76uZPUQ",
-          "title": "Sunday 12th April 2026: Low Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/z4Hk76uZPUQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "c1hgd7r1MTM",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Low Sunday. I. April 12, 2026.",
@@ -69,15 +60,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/Q8JiLqff8Lg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GOdRh8aX2Sk",
-          "title": "11am — Low Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GOdRh8aX2Sk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
