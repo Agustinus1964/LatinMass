@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-12T21:31:16.070Z",
+  "lastUpdated": "2026-04-12T22:30:00.683Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "R5T4qJZItvs",
-          "title": "St Hermenegild",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/R5T4qJZItvs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HTg1JX-IqVE",
           "title": "The Mass of the Dedication of a Church",
