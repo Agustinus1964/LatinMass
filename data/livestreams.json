@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-12T17:31:39.871Z",
+  "lastUpdated": "2026-04-12T18:42:12.849Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Lux41kSiQ6c",
-          "title": "Low Sunday | April 12th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/Lux41kSiQ6c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HOUMQxiSVmA",
           "title": "Mon. Apr. 13, 2026    -    St. Hermenegild    -    Martyr",
@@ -55,22 +46,13 @@
           "scheduledTime": null
         },
         {
-          "id": "aLUVzBPiHBo",
+          "id": "awGONlXJHnY",
           "title": "Santa Misa Dominical. 12 de abril, 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/aLUVzBPiHBo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/awGONlXJHnY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wUZOnNfLgw0",
-          "title": "The Royal Priesthood",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/wUZOnNfLgw0/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T18:00:00Z"
         },
         {
           "id": "GsfAz8ocUXw",
