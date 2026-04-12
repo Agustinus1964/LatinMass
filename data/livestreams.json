@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T11:55:12.745Z",
+  "lastUpdated": "2026-04-12T12:55:35.742Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "hRrMx9bguss",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/hRrMx9bguss/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "c1hgd7r1MTM",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Low Sunday. I. April 12, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,31 +64,31 @@
           "scheduledTime": null
         },
         {
-          "id": "Q8JiLqff8Lg",
-          "title": "Sunday 7 AM Catholic Mass for 04/12/2026",
+          "id": "kJz36bu-dCU",
+          "title": "Sunday 8:30 AM Catholic Mass for 04/12/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Q8JiLqff8Lg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kJz36bu-dCU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "LDpo3EZkp-Y",
-          "title": "Domingo in Albis 2026",
+          "id": "2SunlmBcmCs",
+          "title": "Missa Cantada - Domingo in Albis, Oitava de Páscoa",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/LDpo3EZkp-Y/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/2SunlmBcmCs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "hRrMx9bguss",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Domínica In Albis, “Low Sunday”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/hRrMx9bguss/mqdefault_live.jpg",
+          "id": "req7zNQYSZ4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/req7zNQYSZ4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-12T12:00:00Z"
+          "scheduledTime": "2026-04-12T12:58:00Z"
         },
         {
           "id": "sZtTQZHO8R8",
