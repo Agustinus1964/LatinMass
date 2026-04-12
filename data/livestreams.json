@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-12T13:58:40.789Z",
+  "lastUpdated": "2026-04-12T14:47:28.808Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "R8-P7BigJU0",
-          "title": "Low Mass - Low Sunday - 4/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/R8-P7BigJU0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5c74USPkY3g",
           "title": "Low Sunday-The Immaculata",
@@ -23,13 +14,22 @@
           "scheduledTime": null
         },
         {
-          "id": "EoMlK0oqygE",
-          "title": "FSSPX Antwerpen - 12/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EoMlK0oqygE/mqdefault_live.jpg",
+          "id": "njjVCg7bSd4",
+          "title": "Sun. Apr. 12, 2026    -    Low Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/njjVCg7bSd4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "3DyI6YLxie4",
+          "title": "Low Sunday, April 12th, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/3DyI6YLxie4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-12T14:46:10Z"
         },
         {
           "id": "IOZmWErGOnc",
@@ -73,11 +73,20 @@
           "scheduledTime": null
         },
         {
-          "id": "req7zNQYSZ4",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/req7zNQYSZ4/mqdefault_live.jpg",
+          "id": "1BAqo_mE88E",
+          "title": "10:30am Sung Mass. Low Sunday. I. 11:45am Divine Mercy Devotion. April 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/1BAqo_mE88E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "slMTOKLqvQA",
+          "title": "Low Sunday (Divine Mercy) / Dimanche in albis (et de la Miséricorde)",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/slMTOKLqvQA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,24 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/WckDcc8PIzc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "2SunlmBcmCs",
-          "title": "Missa Cantada - Domingo in Albis, Oitava de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/2SunlmBcmCs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "slMTOKLqvQA",
-          "title": "Low Sunday (Divine Mercy) / Dimanche in albis (et de la Miséricorde)",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/slMTOKLqvQA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-12T14:30:00Z"
         },
         {
           "id": "awwKkHDrm5A",
