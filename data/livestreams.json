@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-12T23:04:45.198Z",
+  "lastUpdated": "2026-04-12T23:59:32.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "m-QnoSMlsYo",
+          "title": "Santa Misa Dominical. 12 de abril, 2026.6 PM",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/m-QnoSMlsYo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "GsfAz8ocUXw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hermenegild, Martyr)",
