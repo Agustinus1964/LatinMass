@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T14:59:22.476Z",
+  "lastUpdated": "2026-04-13T16:19:35.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/7WHGNeRGGm0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZPWBUfaHhmk",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/ZPWBUfaHhmk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "uNoB4jzvL-Y",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uNoB4jzvL-Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T16:30:00Z"
+        },
+        {
+          "id": "p95DFFXH_pQ",
+          "title": "FSSPX Antwerpen - 14/04 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/p95DFFXH_pQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-14T15:00:00Z"
         }
       ]
     },
