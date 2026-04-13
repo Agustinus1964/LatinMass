@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T10:14:05.215Z",
+  "lastUpdated": "2026-04-13T11:49:06.363Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/HOUMQxiSVmA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7WHGNeRGGm0",
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7e60T1j7cDw",
-          "title": "Monday 6 AM Traditional Catholic Mass 04/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7e60T1j7cDw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "GsfAz8ocUXw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hermenegild, Martyr)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/GsfAz8ocUXw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "p-IsLEiiwu0",
+          "title": "7am Mass & Divine Office. St. Hermenegild, Martyr. III. Monday, April 13, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/p-IsLEiiwu0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Vp1XA6nh0gk",
