@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-13T16:19:35.861Z",
+  "lastUpdated": "2026-04-13T17:37:54.181Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7WHGNeRGGm0",
-          "title": "FSSPX Antwerpen - 13/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7WHGNeRGGm0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZPWBUfaHhmk",
           "title": "Sakramentsandacht und hl. Messe - hl. Hermenegild - 13. April 2026",
@@ -23,15 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "uNoB4jzvL-Y",
-          "title": "FSSPX Antwerpen - 13/04 H. HERMENEGILDUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/uNoB4jzvL-Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T16:30:00Z"
-        },
-        {
           "id": "p95DFFXH_pQ",
           "title": "FSSPX Antwerpen - 14/04 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/p95DFFXH_pQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-14T15:00:00Z"
+        },
+        {
+          "id": "9Ef21OJdQ6g",
+          "title": "FSSPX Antwerpen - 14/04 H. JUSTINUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9Ef21OJdQ6g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-14T16:30:00Z"
         }
       ]
     },
@@ -46,13 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "ALuFvCu0-Ag",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ALuFvCu0-Ag/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Vp1XA6nh0gk",
           "title": "Monday 13th April 2026: Saint Hermenegild",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Vp1XA6nh0gk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_CPIhC2o29o",
@@ -60,8 +60,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/_CPIhC2o29o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "z-wG9-4mun8",
@@ -69,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/z-wG9-4mun8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-13T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HGHK8nj9YMY",
@@ -80,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/HGHK8nj9YMY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-14T11:30:00Z"
+        },
+        {
+          "id": "LlEVCk5Nh5g",
+          "title": "Tuesday 14th April 2026: Requiem Mass for John Bowler",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/LlEVCk5Nh5g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-14T17:00:00Z"
+        },
+        {
+          "id": "5KcKBxrwG7k",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/5KcKBxrwG7k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-14T17:00:00Z"
+        },
+        {
+          "id": "1KuNAh1vr84",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/1KuNAh1vr84/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-14T17:00:00Z"
         }
       ]
     }
