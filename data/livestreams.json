@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-13T20:30:18.746Z",
+  "lastUpdated": "2026-04-13T21:43:59.151Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WbTdoq_hAJ8",
+          "title": "Mass of St. Justin",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/WbTdoq_hAJ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-GDBIsGBuPY",
           "title": "Hl. Messe - hl. Justin - 14. April 2026",
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ew-P9RJDC8E",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ew-P9RJDC8E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Vx6nSaLjHM0",
           "title": "Cristología: Cristo y la Cruz. P. Daniel Heenan.",
