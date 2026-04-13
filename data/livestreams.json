@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-13T11:49:06.363Z",
+  "lastUpdated": "2026-04-13T13:19:49.334Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HOUMQxiSVmA",
-          "title": "Mon. Apr. 13, 2026    -    St. Hermenegild    -    Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/HOUMQxiSVmA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7WHGNeRGGm0",
           "title": "FSSPX Antwerpen - 13/04 Aanbidding met Rozenhoedje",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7WHGNeRGGm0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T15:00:00Z"
+        },
+        {
+          "id": "ZPWBUfaHhmk",
+          "title": "Sakramentsandacht und hl. Messe - hl. Hermenegild - 13. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ZPWBUfaHhmk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-13T16:00:00Z"
         },
         {
           "id": "uNoB4jzvL-Y",
@@ -36,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GsfAz8ocUXw",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hermenegild, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/GsfAz8ocUXw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p-IsLEiiwu0",
-          "title": "7am Mass & Divine Office. St. Hermenegild, Martyr. III. Monday, April 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/p-IsLEiiwu0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Vp1XA6nh0gk",
           "title": "Monday 13th April 2026: Saint Hermenegild",
@@ -80,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z-wG9-4mun8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-13T17:00:00Z"
+        },
+        {
+          "id": "HGHK8nj9YMY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Justin, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/HGHK8nj9YMY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-14T11:30:00Z"
         }
       ]
     }
