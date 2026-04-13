@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-13T08:27:14.881Z",
+  "lastUpdated": "2026-04-13T10:14:05.215Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7e60T1j7cDw",
+          "title": "Monday 6 AM Traditional Catholic Mass 04/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/7e60T1j7cDw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "GsfAz8ocUXw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hermenegild, Martyr)",
