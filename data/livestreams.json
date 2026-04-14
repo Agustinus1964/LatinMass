@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T10:22:34.502Z",
+  "lastUpdated": "2026-04-14T11:36:06.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Yp0kSI-Ge_A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-15T05:30:00Z"
+        },
+        {
+          "id": "LPjMehz3Jrk",
+          "title": "Wed. Apr. 15, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/LPjMehz3Jrk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T11:15:00Z"
         }
       ]
     },
@@ -69,8 +78,17 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/HGHK8nj9YMY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5kgrITKU3dA",
+          "title": "7am Mass & Divine Office. St. Justyn, Martyr. III. Tuesday, April 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/5kgrITKU3dA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LlEVCk5Nh5g",
