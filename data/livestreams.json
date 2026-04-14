@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T11:36:06.628Z",
+  "lastUpdated": "2026-04-14T13:19:04.388Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,24 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HGHK8nj9YMY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Justin, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/HGHK8nj9YMY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5kgrITKU3dA",
-          "title": "7am Mass & Divine Office. St. Justyn, Martyr. III. Tuesday, April 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/5kgrITKU3dA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "LlEVCk5Nh5g",
           "title": "Tuesday 14th April 2026: Requiem Mass for John Bowler",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -116,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1KuNAh1vr84/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-14T17:00:00Z"
+        },
+        {
+          "id": "GAbEsGq7qg0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of Saint Joseph)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/GAbEsGq7qg0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T11:30:00Z"
         }
       ]
     }
