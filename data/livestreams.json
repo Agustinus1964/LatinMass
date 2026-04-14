@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-14T16:16:37.115Z",
+  "lastUpdated": "2026-04-14T17:41:29.648Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "p95DFFXH_pQ",
-          "title": "FSSPX Antwerpen - 14/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/p95DFFXH_pQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wuf1QiJCV_M",
-          "title": "Rosenkranz und hl. Messe - hl. Justin - 14. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/wuf1QiJCV_M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9Ef21OJdQ6g",
-          "title": "FSSPX Antwerpen - 14/04 H. JUSTINUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9Ef21OJdQ6g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T16:30:00Z"
-        },
         {
           "id": "xUiB36QX4KE",
           "title": "Tue. Apr. 14, 2026    -    St. Justin    -   Martyr",
@@ -82,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "7vPXc9N1lvI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/7vPXc9N1lvI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "LlEVCk5Nh5g",
           "title": "Tuesday 14th April 2026: Requiem Mass for John Bowler",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/LlEVCk5Nh5g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T17:00:00Z"
-        },
-        {
-          "id": "5KcKBxrwG7k",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5KcKBxrwG7k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1KuNAh1vr84",
@@ -105,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/1KuNAh1vr84/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GAbEsGq7qg0",
@@ -116,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/GAbEsGq7qg0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-15T11:30:00Z"
+        },
+        {
+          "id": "8EMJUBZ7I5E",
+          "title": "Wednesday 15th April 2026: Votive Mass of Saint Joseph",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/8EMJUBZ7I5E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T17:00:00Z"
+        },
+        {
+          "id": "w5DeETH4kmk",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/w5DeETH4kmk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T17:00:00Z"
+        },
+        {
+          "id": "hk_VmkGwZJU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/hk_VmkGwZJU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T17:00:00Z"
         }
       ]
     }
