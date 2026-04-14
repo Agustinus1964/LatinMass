@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-04-14T21:26:55.646Z",
+  "lastUpdated": "2026-04-14T22:10:37.991Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QtG5cKhBBF4",
-          "title": "Ferial - 15.4.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/QtG5cKhBBF4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "b6F-2MA1byY",
-          "title": "15/4/26 Holy Mass",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/b6F-2MA1byY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "xUiB36QX4KE",
           "title": "Tue. Apr. 14, 2026    -    St. Justin    -   Martyr",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/xUiB36QX4KE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tnQnB91Cx4c",
