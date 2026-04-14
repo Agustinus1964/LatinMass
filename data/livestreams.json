@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T08:59:57.657Z",
+  "lastUpdated": "2026-04-14T10:22:34.502Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "udLs0EulvfM",
-          "title": "Ofício de Prima e Missa Rezada de São Justino",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/udLs0EulvfM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HGHK8nj9YMY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Justin, Martyr)",
