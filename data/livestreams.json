@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T14:59:12.051Z",
+  "lastUpdated": "2026-04-14T16:16:37.115Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/p95DFFXH_pQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wuf1QiJCV_M",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/wuf1QiJCV_M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-14T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9Ef21OJdQ6g",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LPjMehz3Jrk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-15T11:15:00Z"
+        },
+        {
+          "id": "Qgw7iEkyQ24",
+          "title": "Rosenkranz und hl. Messe - 15. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Qgw7iEkyQ24/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T16:00:00Z"
         }
       ]
     },
