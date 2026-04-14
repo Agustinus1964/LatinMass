@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T22:10:37.991Z",
+  "lastUpdated": "2026-04-14T23:09:59.888Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,24 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bLxrNjvVemE",
-          "title": "Divine Office & 6pm Mass. St. Justyn, Martyr. III. Tuesday, April 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bLxrNjvVemE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "t36bCZU6JzE",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/t36bCZU6JzE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GAbEsGq7qg0",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of Saint Joseph)",
