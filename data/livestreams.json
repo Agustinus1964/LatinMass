@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-14T19:09:25.720Z",
+  "lastUpdated": "2026-04-14T20:29:57.416Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Yp0kSI-Ge_A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-15T05:30:00Z"
+        },
+        {
+          "id": "xNMGDD6YR40",
+          "title": "The Votive Mass of St. Joseph",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/xNMGDD6YR40/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-15T07:30:00Z"
         },
         {
           "id": "LPjMehz3Jrk",
