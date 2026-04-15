@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T19:12:24.366Z",
+  "lastUpdated": "2026-04-15T20:13:01.742Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0x2XlXFqRqQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-16T05:15:00Z"
+        },
+        {
+          "id": "k4Rp7lKDf44",
+          "title": "The Votive Mass of Christ the High Priest",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/k4Rp7lKDf44/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-16T07:30:00Z"
         },
         {
           "id": "G8uobu2uV9Q",
