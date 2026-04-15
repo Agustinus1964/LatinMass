@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T05:58:11.349Z",
+  "lastUpdated": "2026-04-15T07:56:23.800Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,33 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/xUiB36QX4KE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Yp0kSI-Ge_A",
-          "title": "FSSPX Antwerpen - 15/04 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Yp0kSI-Ge_A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tnQnB91Cx4c",
-          "title": "Hl. Messe - 15. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tnQnB91Cx4c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xNMGDD6YR40",
-          "title": "The Votive Mass of St. Joseph",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/xNMGDD6YR40/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-15T06:30:00Z"
         },
         {
           "id": "LPjMehz3Jrk",
@@ -107,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hk_VmkGwZJU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-15T17:00:00Z"
+        },
+        {
+          "id": "e7I1n-9xLZU",
+          "title": "Thursday 16th April 2026: Votive Mass of the Blessed Sacrament",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/e7I1n-9xLZU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-16T07:00:00Z"
         }
       ]
     }
