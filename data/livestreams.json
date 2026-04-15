@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T13:18:17.218Z",
+  "lastUpdated": "2026-04-15T14:52:37.719Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/G8uobu2uV9Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-16T11:15:00Z"
+        },
+        {
+          "id": "eAGyosHvdkg",
+          "title": "FSSPX Antwerpen - 16/04 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/eAGyosHvdkg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-16T13:30:00Z"
         }
       ]
     },
