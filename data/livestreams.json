@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T07:56:23.800Z",
+  "lastUpdated": "2026-04-15T09:20:09.660Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_w3jxQSRY5k",
+          "title": "Ofício de Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/_w3jxQSRY5k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "GAbEsGq7qg0",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of Saint Joseph)",
