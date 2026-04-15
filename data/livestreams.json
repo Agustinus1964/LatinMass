@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T03:46:39.270Z",
+  "lastUpdated": "2026-04-15T05:58:11.349Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,22 +14,22 @@
           "scheduledTime": null
         },
         {
-          "id": "tnQnB91Cx4c",
-          "title": "Hl. Messe - 15. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tnQnB91Cx4c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-15T05:15:00Z"
-        },
-        {
           "id": "Yp0kSI-Ge_A",
           "title": "FSSPX Antwerpen - 15/04 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/Yp0kSI-Ge_A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-15T05:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tnQnB91Cx4c",
+          "title": "Hl. Messe - 15. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/tnQnB91Cx4c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "xNMGDD6YR40",
@@ -38,7 +38,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/xNMGDD6YR40/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-15T07:30:00Z"
+          "scheduledTime": "2026-04-15T06:30:00Z"
         },
         {
           "id": "LPjMehz3Jrk",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qgw7iEkyQ24/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-15T16:00:00Z"
+        },
+        {
+          "id": "0x2XlXFqRqQ",
+          "title": "Hl. Messe - 16. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0x2XlXFqRqQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-16T05:15:00Z"
         }
       ]
     },
