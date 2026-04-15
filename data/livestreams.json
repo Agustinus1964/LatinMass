@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-15T10:41:38.069Z",
+  "lastUpdated": "2026-04-15T11:53:54.467Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xUiB36QX4KE",
-          "title": "Tue. Apr. 14, 2026    -    St. Justin    -   Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/xUiB36QX4KE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LPjMehz3Jrk",
           "title": "Wed. Apr. 15, 2026    -    Ferial Day",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/LPjMehz3Jrk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-15T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Qgw7iEkyQ24",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0x2XlXFqRqQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-16T05:15:00Z"
+        },
+        {
+          "id": "G8uobu2uV9Q",
+          "title": "Thu. Apr. 16, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/G8uobu2uV9Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-16T11:15:00Z"
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "wEEhez5vfTI",
-          "title": "7am Mass & Divine Office. Feria of Paschaltide. IV. Wednesday, April 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/wEEhez5vfTI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "GAbEsGq7qg0",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of Saint Joseph)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/GAbEsGq7qg0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-15T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8EMJUBZ7I5E",
