@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T14:52:37.719Z",
+  "lastUpdated": "2026-04-15T16:02:08.555Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eAGyosHvdkg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-16T13:30:00Z"
+        },
+        {
+          "id": "eEuc7Z4bgcU",
+          "title": "Sakramentsandacht und hl. Messe - 16. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/eEuc7Z4bgcU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-16T15:00:00Z"
         }
       ]
     },
