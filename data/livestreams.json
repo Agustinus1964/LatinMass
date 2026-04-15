@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-15T20:13:01.742Z",
+  "lastUpdated": "2026-04-15T21:12:43.465Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ySmw-9Ez3tI",
+          "title": "Divine Office & 6pm Mass. Feria of Paschaltide. IV. Wednesday, April 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ySmw-9Ez3tI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "917x0w-siAo",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/917x0w-siAo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "e7I1n-9xLZU",
           "title": "Thursday 16th April 2026: Votive Mass of the Blessed Sacrament",
