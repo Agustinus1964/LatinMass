@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T18:06:06.633Z",
+  "lastUpdated": "2026-04-16T19:44:00.208Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TdJxHhw-1pc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-17T05:15:00Z"
+        },
+        {
+          "id": "G4DsqMVgh0k",
+          "title": "The Votive Mass of the Sacred Heart",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/G4DsqMVgh0k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-17T07:30:00Z"
         },
         {
           "id": "0XjTT8HbD9E",
