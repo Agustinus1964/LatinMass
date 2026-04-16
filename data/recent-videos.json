@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T15:11:00.013Z",
+  "lastUpdated": "2026-04-16T16:53:20.668Z",
   "videos": [
     {
       "id": "cHPKimbSnKQ",
@@ -20,6 +20,16 @@
       "thumbnail": "https://i.ytimg.com/vi/1TslqgkA5AQ/mqdefault.jpg",
       "publishedAt": "2026-04-16T14:31:49Z",
       "category": "The Remnants Video"
+    },
+    {
+      "id": "rctB00rewqE",
+      "title": "Holy Mass 4/16/26 - Ferial Day",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/rctB00rewqE/mqdefault_live.jpg",
+      "publishedAt": "2026-04-16T13:57:48Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "CPDgVkEo7_8",
@@ -320,16 +330,6 @@
       "thumbnail": "https://i.ytimg.com/vi/rKfjV51-WFQ/mqdefault.jpg",
       "publishedAt": "2026-04-14T19:43:00Z",
       "category": "Faith And Tradition"
-    },
-    {
-      "id": "yoBaHSEHi3A",
-      "title": "Holy Mass 4/13/26 - Feast of St. Hermenegild",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/yoBaHSEHi3A/mqdefault.jpg",
-      "publishedAt": "2026-04-14T04:10:50Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "fjfJMlC_v7s",
