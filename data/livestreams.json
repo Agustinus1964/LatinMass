@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T10:43:46.279Z",
+  "lastUpdated": "2026-04-16T11:56:53.618Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/G8uobu2uV9Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-16T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eAGyosHvdkg",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TdJxHhw-1pc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-17T05:15:00Z"
+        },
+        {
+          "id": "0XjTT8HbD9E",
+          "title": "Fri. Apr. 17, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/0XjTT8HbD9E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-17T11:15:00Z"
         }
       ]
     },
@@ -55,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gIBwAgwiSkA",
-          "title": "7am Mass & Divine Office. Feria of Paschaltide. IV. Thursday, April 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/gIBwAgwiSkA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "vdmE9tPTdeE",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Most Holy Sacrament of the Eucharist)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/vdmE9tPTdeE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-16T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pbGtuOCBJwQ",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 04/16/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/pbGtuOCBJwQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XLAeIy8v3kA",
