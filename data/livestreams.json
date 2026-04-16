@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-16T20:43:46.771Z",
+  "lastUpdated": "2026-04-16T21:39:25.875Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "T9O7pRDJ_LE",
+          "title": "Ferial - 17.4.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/T9O7pRDJ_LE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "TdJxHhw-1pc",
           "title": "Hl. Messe - 17. April 2026",
@@ -78,6 +87,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/7eSlkmuXsoI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9g48RUl24N4",
+          "title": "Adoração ao Santíssimo Sacramento e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9g48RUl24N4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
