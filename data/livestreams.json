@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-16T05:59:01.583Z",
+  "lastUpdated": "2026-04-16T07:58:32.480Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0x2XlXFqRqQ",
-          "title": "Hl. Messe - 16. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/0x2XlXFqRqQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "k4Rp7lKDf44",
-          "title": "The Votive Mass of Christ the High Priest",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/k4Rp7lKDf44/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-16T06:30:00Z"
-        },
         {
           "id": "G8uobu2uV9Q",
           "title": "Thu. Apr. 16, 2026    -    Ferial Day",
@@ -72,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "e7I1n-9xLZU",
-          "title": "Thursday 16th April 2026: Votive Mass of the Blessed Sacrament",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/e7I1n-9xLZU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-16T07:00:00Z"
-        },
         {
           "id": "vdmE9tPTdeE",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Most Holy Sacrament of the Eucharist)",
