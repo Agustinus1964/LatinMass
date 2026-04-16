@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-16T11:56:53.618Z",
+  "lastUpdated": "2026-04-16T13:48:30.605Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "G8uobu2uV9Q",
-          "title": "Thu. Apr. 16, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/G8uobu2uV9Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "eAGyosHvdkg",
           "title": "FSSPX Antwerpen - 16/04 Priester-Uur-Gebed",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/eAGyosHvdkg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-16T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eEuc7Z4bgcU",
@@ -64,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vdmE9tPTdeE",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Most Holy Sacrament of the Eucharist)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/vdmE9tPTdeE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pbGtuOCBJwQ",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 04/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pbGtuOCBJwQ/mqdefault_live.jpg",
+          "id": "28w-1NfQMjI",
+          "title": "Santo Sacrificio de la Misa, Feria de Pascua, 16 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/28w-1NfQMjI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
