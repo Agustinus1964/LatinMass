@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-16T21:39:25.875Z",
+  "lastUpdated": "2026-04-16T22:36:18.847Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "T9O7pRDJ_LE",
-          "title": "Ferial - 17.4.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/T9O7pRDJ_LE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TdJxHhw-1pc",
           "title": "Hl. Messe - 17. April 2026",
@@ -91,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "9g48RUl24N4",
-          "title": "Adoração ao Santíssimo Sacramento e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9g48RUl24N4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "bRdy6hDCI2A",
           "title": "Friday 17th April 2026: Votive Mass of the Sacred Heart",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/v4t9hXYgl3k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-17T17:00:00Z"
+        },
+        {
+          "id": "mwauV5qQrgI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anicetus, Pope and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/mwauV5qQrgI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-17T22:30:00Z"
         }
       ]
     }
