@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T20:50:43.928Z",
+  "lastUpdated": "2026-04-17T21:38:33.429Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Bwbd5hThozU",
+          "title": "Divine Office, Mass, Holy Hour. Feria of Paschaltide. IV. Friday, April 17, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Bwbd5hThozU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6G2YWMXS-ds",
+          "title": "Terço e Santa Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/6G2YWMXS-ds/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "mwauV5qQrgI",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Anicetus, Pope and Martyr)",
