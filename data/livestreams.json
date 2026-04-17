@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-17T22:35:13.679Z",
+  "lastUpdated": "2026-04-17T23:36:05.386Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CQrnb9RQthA",
-          "title": "Mass of Our Lady on Saturdays - 18th April 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/CQrnb9RQthA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6FKlK949HjM",
           "title": "Hl. Messe - 18. April 2026",
@@ -46,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mwauV5qQrgI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anicetus, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/mwauV5qQrgI/mqdefault_live.jpg",
+          "id": "_RXSJ9PR4mA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/_RXSJ9PR4mA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/L5F6tWyTWdo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T09:30:00Z"
+        },
+        {
+          "id": "ammiHjmgsIU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ammiHjmgsIU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T13:00:00Z"
         }
       ]
     }
