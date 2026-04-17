@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T18:55:50.511Z",
+  "lastUpdated": "2026-04-17T19:57:29.512Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bRdy6hDCI2A",
-          "title": "Friday 17th April 2026: Votive Mass of the Sacred Heart",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/bRdy6hDCI2A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "mwauV5qQrgI",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Anicetus, Pope and Martyr)",
