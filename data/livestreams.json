@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-17T05:14:26.970Z",
+  "lastUpdated": "2026-04-17T07:09:25.895Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TdJxHhw-1pc",
-          "title": "Hl. Messe - 17. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/TdJxHhw-1pc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "G4DsqMVgh0k",
-          "title": "The Votive Mass of the Sacred Heart",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/G4DsqMVgh0k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T06:30:00Z"
-        },
         {
           "id": "0XjTT8HbD9E",
           "title": "Fri. Apr. 17, 2026    -    Ferial Day",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/prsZYa5skVo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-17T16:30:00Z"
+        },
+        {
+          "id": "6FKlK949HjM",
+          "title": "Hl. Messe - 18. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6FKlK949HjM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T05:15:00Z"
         }
       ]
     },
