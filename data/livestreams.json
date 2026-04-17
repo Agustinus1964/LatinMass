@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-17T11:28:48.353Z",
+  "lastUpdated": "2026-04-17T12:10:17.988Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0XjTT8HbD9E",
-          "title": "Fri. Apr. 17, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/0XjTT8HbD9E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "raVG5lWY11M",
           "title": "FSSPX Antwerpen - 17/04 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -66,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/tHBI7gYoOiY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T08:00:00Z"
+        },
+        {
+          "id": "5ySeTiPzNjA",
+          "title": "Sat. Apr. 18, 2026    -   Blessed Virgin Mary on Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/5ySeTiPzNjA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "OiBQPtjOWwE",
+          "title": "Friday 8 AM Catholic Mass for 04/17/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/OiBQPtjOWwE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bRdy6hDCI2A",
           "title": "Friday 17th April 2026: Votive Mass of the Sacred Heart",
