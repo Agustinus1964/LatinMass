@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-17T15:35:43.364Z",
+  "lastUpdated": "2026-04-17T16:52:07.541Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "raVG5lWY11M",
-          "title": "FSSPX Antwerpen - 17/04 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "prsZYa5skVo",
+          "title": "FSSPX Antwerpen - 17/04 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/raVG5lWY11M/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/prsZYa5skVo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6h-awUsnq-Y",
-          "title": "FSSPX Antwerpen - 17/04 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/6h-awUsnq-Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T15:45:00Z"
         },
         {
           "id": "J4F-JWWQGLw",
@@ -28,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/J4F-JWWQGLw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T16:00:00Z"
-        },
-        {
-          "id": "prsZYa5skVo",
-          "title": "FSSPX Antwerpen - 17/04 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/prsZYa5skVo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6FKlK949HjM",
@@ -73,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "xg8aogJ-1dw",
-          "title": "11am Mass & Divine Office. Feria of Paschaltide. IV. Friday, April 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xg8aogJ-1dw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "bRdy6hDCI2A",
           "title": "Friday 17th April 2026: Votive Mass of the Sacred Heart",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/bRdy6hDCI2A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iV-TOKhGyj8",
