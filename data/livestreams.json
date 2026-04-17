@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T07:09:25.895Z",
+  "lastUpdated": "2026-04-17T09:00:06.669Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/6FKlK949HjM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T05:15:00Z"
+        },
+        {
+          "id": "tHBI7gYoOiY",
+          "title": "FSSPX Antwerpen - 18/04 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/tHBI7gYoOiY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T08:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pwUo98LXNl0",
+          "title": "Ofício de Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/pwUo98LXNl0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bRdy6hDCI2A",
           "title": "Friday 17th April 2026: Votive Mass of the Sacred Heart",
@@ -98,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/mwauV5qQrgI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-17T22:30:00Z"
+        },
+        {
+          "id": "nXVylETKwP0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/nXVylETKwP0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T07:30:00Z"
+        },
+        {
+          "id": "IQ2ykxK7CfU",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/IQ2ykxK7CfU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T09:00:00Z"
         }
       ]
     }
