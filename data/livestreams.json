@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T09:00:06.669Z",
+  "lastUpdated": "2026-04-17T10:20:13.692Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,15 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pwUo98LXNl0",
-          "title": "Ofício de Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/pwUo98LXNl0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "bRdy6hDCI2A",
           "title": "Friday 17th April 2026: Votive Mass of the Sacred Heart",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IQ2ykxK7CfU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T09:00:00Z"
+        },
+        {
+          "id": "L5F6tWyTWdo",
+          "title": "Saturday 18th April 2026: Saturday Mass of Our Lady",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/L5F6tWyTWdo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T09:30:00Z"
         }
       ]
     }
