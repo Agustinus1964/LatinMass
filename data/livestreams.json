@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-17T16:52:07.541Z",
+  "lastUpdated": "2026-04-17T17:46:43.641Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "prsZYa5skVo",
-          "title": "FSSPX Antwerpen - 17/04 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/prsZYa5skVo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "J4F-JWWQGLw",
-          "title": "Rosenkranz und hl. Messe - 17. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/J4F-JWWQGLw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6FKlK949HjM",
           "title": "Hl. Messe - 18. April 2026",
@@ -64,22 +46,13 @@
           "scheduledTime": null
         },
         {
-          "id": "iV-TOKhGyj8",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/iV-TOKhGyj8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T17:00:00Z"
-        },
-        {
           "id": "v4t9hXYgl3k",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/v4t9hXYgl3k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-17T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mwauV5qQrgI",
