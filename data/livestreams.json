@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T07:40:05.122Z",
+  "lastUpdated": "2026-04-18T08:43:15.301Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/tHBI7gYoOiY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-18T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5ySeTiPzNjA",
@@ -37,15 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nXVylETKwP0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/nXVylETKwP0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "DmJwRaFT81E",
           "title": "L'Eglise missionnaire — L'Histoire de l'Eglise — Catéchisme de persévérance (8/10)",
           "channel": "Ite Missa Est",
@@ -53,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DmJwRaFT81E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T08:45:00Z"
-        },
-        {
-          "id": "IQ2ykxK7CfU",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/IQ2ykxK7CfU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-18T09:00:00Z"
         },
         {
           "id": "L5F6tWyTWdo",
@@ -80,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ammiHjmgsIU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T13:00:00Z"
+        },
+        {
+          "id": "nJaC4YVv5mA",
+          "title": "8am — 2nd Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/nJaC4YVv5mA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T07:00:00Z"
+        },
+        {
+          "id": "_K6fQKNcrSM",
+          "title": "9:30am — 3rd Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_K6fQKNcrSM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T08:30:00Z"
         }
       ]
     }
