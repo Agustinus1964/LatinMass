@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-18T12:56:02.225Z",
+  "lastUpdated": "2026-04-18T14:00:23.633Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RoiFEc_bBt0",
-          "title": "Saturday Solemn High Mass (Fr. Haynos)",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/RoiFEc_bBt0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LvHSH8F4lmM",
           "title": "Amt - Gut-Hirt-Sonntag - 19. April 2026",
@@ -21,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/LvHSH8F4lmM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T07:30:00Z"
+        },
+        {
+          "id": "9Or1XTHKps4",
+          "title": "Second Sunday After Easter",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/9Or1XTHKps4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T13:30:00Z"
+        },
+        {
+          "id": "6Tgu1x8Audg",
+          "title": "Sun. Apr. 19, 2026    -    Good Shepard Sunday   -   (Second Sunday after Easter)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/6Tgu1x8Audg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T14:00:00Z"
         }
       ]
     },
@@ -28,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "M6_2nNP24Cs",
-          "title": "7:30am Mass, Rosary, 9am Mass. Our Lady on Saturday. IV. April 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/M6_2nNP24Cs/mqdefault_live.jpg",
+          "id": "TF1JwLigptI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/TF1JwLigptI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,13 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "ammiHjmgsIU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ammiHjmgsIU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-18T13:00:00Z"
+          "id": "7oUp8IpNBrQ",
+          "title": "Santo Sacrificio de la Misa, de , 18 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/7oUp8IpNBrQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nJaC4YVv5mA",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tTFQ1DxFIhE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T10:00:00Z"
+        },
+        {
+          "id": "VWPBgjN7eB4",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Second Sunday after Easter, Good Shepherd Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/VWPBgjN7eB4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T12:00:00Z"
         }
       ]
     }
