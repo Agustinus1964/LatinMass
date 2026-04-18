@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T17:33:50.285Z",
+  "lastUpdated": "2026-04-18T18:42:56.698Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LvHSH8F4lmM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T07:30:00Z"
+        },
+        {
+          "id": "3ASaOzZDdOA",
+          "title": "Good Shepherd Sunday",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/3ASaOzZDdOA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T10:00:00Z"
         },
         {
           "id": "9Or1XTHKps4",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6_yugzE0f2A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T15:30:00Z"
+        },
+        {
+          "id": "UoEjNI3HdGU",
+          "title": "II Sunday after Easter | April 19th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/UoEjNI3HdGU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T17:00:00Z"
         }
       ]
     },
