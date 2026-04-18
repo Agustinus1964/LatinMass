@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T23:36:05.386Z",
+  "lastUpdated": "2026-04-18T02:04:05.494Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,24 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_RXSJ9PR4mA",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/_RXSJ9PR4mA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Bwbd5hThozU",
-          "title": "Divine Office, Mass, Holy Hour. Feria of Paschaltide. IV. Friday, April 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Bwbd5hThozU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "nXVylETKwP0",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -62,6 +44,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nXVylETKwP0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-18T07:30:00Z"
+        },
+        {
+          "id": "DmJwRaFT81E",
+          "title": "L'Eglise missionnaire — L'Histoire de l'Eglise — Catéchisme de persévérance (8/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/DmJwRaFT81E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-18T08:45:00Z"
         },
         {
           "id": "IQ2ykxK7CfU",
