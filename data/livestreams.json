@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T15:04:00.235Z",
+  "lastUpdated": "2026-04-18T15:59:09.943Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6Tgu1x8Audg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T14:00:00Z"
+        },
+        {
+          "id": "6_yugzE0f2A",
+          "title": "Vesper - Gut-Hirt-Sonntag - 19. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6_yugzE0f2A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T15:30:00Z"
         }
       ]
     },
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/A7uwvO7Ln4U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T14:45:00Z"
+        },
+        {
+          "id": "D3gGBCcZZis",
+          "title": "SECOND SUNDAY AFTER EASTER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/D3gGBCcZZis/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T15:30:00Z"
         }
       ]
     }
