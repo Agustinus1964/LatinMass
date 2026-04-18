@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-18T08:43:15.301Z",
+  "lastUpdated": "2026-04-18T09:43:41.299Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tHBI7gYoOiY",
-          "title": "FSSPX Antwerpen - 18/04 ONZE-LIEVE-VROUW op ZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/tHBI7gYoOiY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5ySeTiPzNjA",
           "title": "Sat. Apr. 18, 2026    -   Blessed Virgin Mary on Saturday",
@@ -37,22 +28,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DmJwRaFT81E",
-          "title": "L'Eglise missionnaire — L'Histoire de l'Eglise — Catéchisme de persévérance (8/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/DmJwRaFT81E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-18T08:45:00Z"
-        },
-        {
           "id": "L5F6tWyTWdo",
           "title": "Saturday 18th April 2026: Saturday Mass of Our Lady",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/L5F6tWyTWdo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-18T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DmJwRaFT81E",
+          "title": "L'Eglise missionnaire — L'Histoire de l'Eglise — Catéchisme de persévérance (8/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/DmJwRaFT81E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "IVwK8Ttg1KU",
+          "title": "Prima e Santa Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/IVwK8Ttg1KU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ammiHjmgsIU",
@@ -80,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_K6fQKNcrSM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T08:30:00Z"
+        },
+        {
+          "id": "PI9iCJE2PJ0",
+          "title": "Sainte messe du IInd dimanche après Pâques, dimanche du Bon Pasteur - MISERICORDIA",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/PI9iCJE2PJ0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T09:00:00Z"
+        },
+        {
+          "id": "_KiyKLwOX6E",
+          "title": "Sunday 19th April 2026: Second Sunday after Easter",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/_KiyKLwOX6E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T09:30:00Z"
         }
       ]
     }
