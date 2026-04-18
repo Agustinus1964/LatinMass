@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T09:43:41.299Z",
+  "lastUpdated": "2026-04-18T10:36:49.294Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,33 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "L5F6tWyTWdo",
-          "title": "Saturday 18th April 2026: Saturday Mass of Our Lady",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/L5F6tWyTWdo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DmJwRaFT81E",
-          "title": "L'Eglise missionnaire — L'Histoire de l'Eglise — Catéchisme de persévérance (8/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/DmJwRaFT81E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IVwK8Ttg1KU",
-          "title": "Prima e Santa Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/IVwK8Ttg1KU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ammiHjmgsIU",
           "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
@@ -98,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_KiyKLwOX6E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T09:30:00Z"
+        },
+        {
+          "id": "tTFQ1DxFIhE",
+          "title": "11am — 3rd Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tTFQ1DxFIhE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T10:00:00Z"
         }
       ]
     }
