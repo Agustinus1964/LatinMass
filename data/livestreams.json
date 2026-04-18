@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-04-18T11:31:49.566Z",
+  "lastUpdated": "2026-04-18T12:56:02.225Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "5ySeTiPzNjA",
-          "title": "Sat. Apr. 18, 2026    -   Blessed Virgin Mary on Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5ySeTiPzNjA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-18T12:00:00Z"
+          "id": "RoiFEc_bBt0",
+          "title": "Saturday Solemn High Mass (Fr. Haynos)",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/RoiFEc_bBt0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LvHSH8F4lmM",
@@ -37,11 +37,11 @@
           "scheduledTime": null
         },
         {
-          "id": "idQst4dUC3k",
-          "title": "Saturday 7 AM Catholic Mass for 04/18/2026",
+          "id": "dLFm5lnEAYo",
+          "title": "Saturday 9 AM Traditional Catholic Mass 04/18/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/idQst4dUC3k/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/dLFm5lnEAYo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
