@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-18T15:59:09.943Z",
+  "lastUpdated": "2026-04-18T16:52:23.206Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/D3gGBCcZZis/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T15:30:00Z"
+        },
+        {
+          "id": "eIDaKOt2-_I",
+          "title": "Vespers and Benediction — 2nd Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/eIDaKOt2-_I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T16:00:00Z"
         }
       ]
     }
