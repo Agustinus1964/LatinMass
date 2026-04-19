@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-19T15:59:55.319Z",
+  "lastUpdated": "2026-04-19T16:52:55.121Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9Or1XTHKps4",
-          "title": "Second Sunday After Easter",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/9Or1XTHKps4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AH8JKGP5CP4",
-          "title": "Second Sunday after Easter",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/AH8JKGP5CP4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6_yugzE0f2A",
-          "title": "Vesper - Gut-Hirt-Sonntag - 19. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6_yugzE0f2A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UoEjNI3HdGU",
           "title": "II Sunday after Easter | April 19th",
@@ -48,21 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Unp4cwyBTl4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-20T11:15:00Z"
+        },
+        {
+          "id": "lV6M2TOTZic",
+          "title": "FSSPX Antwerpen - 20/04 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/lV6M2TOTZic/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-20T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3DFoQT4GXjo",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/3DFoQT4GXjo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "D3gGBCcZZis",
           "title": "SECOND SUNDAY AFTER EASTER, 2026",
@@ -82,38 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "u0buQu4w8yw",
-          "title": "2nd Sunday after Easter / 2e dimanche après Pâques",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/u0buQu4w8yw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "l4QiC49-wRg",
           "title": "Santa Misa Dominical. 19 de Abril 2026",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/l4QiC49-wRg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "eIDaKOt2-_I",
-          "title": "Vespers and Benediction — 2nd Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/eIDaKOt2-_I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "k_xLI0otKc4",
-          "title": "Secondes vêpres du IInd dimanche après Pâques, dimanche du Bon Pasteur - EGO SUM PASTOR BONUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/k_xLI0otKc4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
