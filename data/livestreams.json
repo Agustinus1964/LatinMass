@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-19T15:04:37.815Z",
+  "lastUpdated": "2026-04-19T15:59:55.319Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "N3aWB_W_-5w",
-          "title": "2nd Sunday After Easter - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/N3aWB_W_-5w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9Or1XTHKps4",
           "title": "Second Sunday After Easter",
@@ -32,22 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "6Tgu1x8Audg",
-          "title": "Sun. Apr. 19, 2026    -    Good Shepard Sunday   -   (Second Sunday after Easter)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/6Tgu1x8Audg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "6_yugzE0f2A",
           "title": "Vesper - Gut-Hirt-Sonntag - 19. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/6_yugzE0f2A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UoEjNI3HdGU",
@@ -82,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "u3XG164InVU",
-          "title": "10:30am Sung Mass. Second Sunday after Easter. II. April 19, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/u3XG164InVU/mqdefault_live.jpg",
+          "id": "D3gGBCcZZis",
+          "title": "SECOND SUNDAY AFTER EASTER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/D3gGBCcZZis/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,22 +100,13 @@
           "scheduledTime": null
         },
         {
-          "id": "A7uwvO7Ln4U",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/A7uwvO7Ln4U/mqdefault_live.jpg",
+          "id": "eIDaKOt2-_I",
+          "title": "Vespers and Benediction — 2nd Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/eIDaKOt2-_I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "D3gGBCcZZis",
-          "title": "SECOND SUNDAY AFTER EASTER, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/D3gGBCcZZis/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T15:30:00Z"
         },
         {
           "id": "k_xLI0otKc4",
@@ -141,17 +114,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/k_xLI0otKc4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T15:45:00Z"
-        },
-        {
-          "id": "eIDaKOt2-_I",
-          "title": "Vespers and Benediction — 2nd Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/eIDaKOt2-_I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7YGrCN0tKc0",
