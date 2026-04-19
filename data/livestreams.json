@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-18T23:31:15.184Z",
+  "lastUpdated": "2026-04-19T02:25:02.048Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "YBc3G8fPjTI",
-          "title": "Confirmations-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/YBc3G8fPjTI/mqdefault_live.jpg",
+          "id": "JcpNATny38E",
+          "title": "Sung Mass - 2nd Sunday after Easter (Good Shepherd Sunday)",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/JcpNATny38E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3ASaOzZDdOA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T10:00:00Z"
+        },
+        {
+          "id": "7w5Z1Z4R_oI",
+          "title": "Sung Mass - Second Sunday after Easter - 4/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7w5Z1Z4R_oI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T13:00:00Z"
         },
         {
           "id": "9Or1XTHKps4",
