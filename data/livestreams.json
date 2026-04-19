@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-19T14:08:02.401Z",
+  "lastUpdated": "2026-04-19T15:04:37.815Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7w5Z1Z4R_oI",
-          "title": "Sung Mass - Second Sunday after Easter - 4/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7w5Z1Z4R_oI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "N3aWB_W_-5w",
           "title": "2nd Sunday After Easter - The Immaculata",
@@ -28,6 +19,15 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/9Or1XTHKps4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AH8JKGP5CP4",
+          "title": "Second Sunday after Easter",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/AH8JKGP5CP4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,11 +73,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "3DFoQT4GXjo",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/3DFoQT4GXjo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "u3XG164InVU",
           "title": "10:30am Sung Mass. Second Sunday after Easter. II. April 19, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/u3XG164InVU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "OSrs7NXBr0Y",
+          "title": "Sunday 11 AM Sung Mass 2026-04-19",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/OSrs7NXBr0Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "u0buQu4w8yw",
+          "title": "2nd Sunday after Easter / 2e dimanche après Pâques",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/u0buQu4w8yw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,22 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "VcGHnIM0rCU",
-          "title": "Missa Solene do Domingo do Bom Pastor",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/VcGHnIM0rCU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "A7uwvO7Ln4U",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/A7uwvO7Ln4U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "D3gGBCcZZis",
