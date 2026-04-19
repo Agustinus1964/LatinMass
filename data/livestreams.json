@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T10:06:08.335Z",
+  "lastUpdated": "2026-04-19T11:05:54.845Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,11 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_KiyKLwOX6E",
-          "title": "Sunday 19th April 2026: Second Sunday after Easter",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/_KiyKLwOX6E/mqdefault_live.jpg",
+          "id": "3alN8nCV6_A",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Second Sunday after Easter. II. April 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3alN8nCV6_A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pUfRHFhfj4c",
+          "title": "Sunday 7 AM Catholic Mass for 04/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/pUfRHFhfj4c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "PI9iCJE2PJ0",
-          "title": "Sainte messe du IInd dimanche après Pâques, dimanche du Bon Pasteur - MISERICORDIA",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/PI9iCJE2PJ0/mqdefault_live.jpg",
+          "id": "8GnztdGea9E",
+          "title": "Missa Rezada - Domingo do Bom Pastor 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/8GnztdGea9E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
