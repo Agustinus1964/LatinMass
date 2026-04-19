@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-19T18:43:09.566Z",
+  "lastUpdated": "2026-04-19T19:38:52.745Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "KNoyp_Xh59w",
+          "title": "Mass of the 2nd Sunday after Easter",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/KNoyp_Xh59w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-20T07:15:00Z"
+        },
         {
           "id": "Unp4cwyBTl4",
           "title": "Mon. Apr. 20, 2026   -   Ferial Day",
@@ -27,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lM5nG8MMabk",
-          "title": "Sunday 1:30 PM Catholic Mass 04/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/lM5nG8MMabk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "a-WoNLz8heQ",
           "title": "Santa Misa Dominical. 19 de Abril 202612:30",
