@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-19T02:25:02.048Z",
+  "lastUpdated": "2026-04-19T05:14:36.683Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "JcpNATny38E",
-          "title": "Sung Mass - 2nd Sunday after Easter (Good Shepherd Sunday)",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/JcpNATny38E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LvHSH8F4lmM",
           "title": "Amt - Gut-Hirt-Sonntag - 19. April 2026",
@@ -154,6 +145,15 @@
           "scheduledTime": "2026-04-19T15:30:00Z"
         },
         {
+          "id": "k_xLI0otKc4",
+          "title": "Secondes vêpres du IInd dimanche après Pâques, dimanche du Bon Pasteur - EGO SUM PASTOR BONUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/k_xLI0otKc4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T15:45:00Z"
+        },
+        {
           "id": "eIDaKOt2-_I",
           "title": "Vespers and Benediction — 2nd Sunday after Easter",
           "channel": "Oxford Oratory",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eIDaKOt2-_I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T16:00:00Z"
+        },
+        {
+          "id": "7YGrCN0tKc0",
+          "title": "The Hour That Will Never Return. The Last Hour is Certain, The Hour is Unknown.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/7YGrCN0tKc0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-19T18:00:00Z"
         }
       ]
     }
