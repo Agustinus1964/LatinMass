@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-04-19T09:12:09.956Z",
+  "lastUpdated": "2026-04-19T10:06:08.335Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3lZzjVPCBEw",
-          "title": "FSSPX Antwerpen - 19/04 2° ZONDAG na PASEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/3lZzjVPCBEw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LvHSH8F4lmM",
-          "title": "Amt - Gut-Hirt-Sonntag - 19. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/LvHSH8F4lmM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "J4lupzcnoqU",
-          "title": "II Domenica dopo Pasqua - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/J4lupzcnoqU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3ASaOzZDdOA",
           "title": "Good Shepherd Sunday",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/3ASaOzZDdOA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7w5Z1Z4R_oI",
@@ -82,11 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_K6fQKNcrSM",
-          "title": "9:30am — 3rd Sunday of Easter",
+          "id": "_KiyKLwOX6E",
+          "title": "Sunday 19th April 2026: Second Sunday after Easter",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/_KiyKLwOX6E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tTFQ1DxFIhE",
+          "title": "11am — 3rd Sunday of Easter",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/_K6fQKNcrSM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/tTFQ1DxFIhE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,24 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PI9iCJE2PJ0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_KiyKLwOX6E",
-          "title": "Sunday 19th April 2026: Second Sunday after Easter",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/_KiyKLwOX6E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T09:30:00Z"
-        },
-        {
-          "id": "tTFQ1DxFIhE",
-          "title": "11am — 3rd Sunday of Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tTFQ1DxFIhE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T10:00:00Z"
         },
         {
           "id": "VWPBgjN7eB4",
