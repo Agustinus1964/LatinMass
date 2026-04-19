@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-19T20:33:54.317Z",
+  "lastUpdated": "2026-04-19T21:32:11.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "t-rbzR5wYXM",
+          "title": "Mon 20 April Ferial",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/t-rbzR5wYXM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KNoyp_Xh59w",
           "title": "Mass of the 2nd Sunday after Easter",
@@ -37,17 +46,8 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "CEjwN1arNCI",
-          "title": "Missa Rezada do Domingo do Bom Pastor",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/CEjwN1arNCI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "-hh_ZjC4tQY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass “Pro Pace”)",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass for Peace, “Pro Pace”)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/-hh_ZjC4tQY/mqdefault_live.jpg",
