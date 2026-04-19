@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-19T11:05:54.845Z",
+  "lastUpdated": "2026-04-19T11:56:54.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3ASaOzZDdOA",
-          "title": "Good Shepherd Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/3ASaOzZDdOA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7w5Z1Z4R_oI",
           "title": "Sung Mass - Second Sunday after Easter - 4/19/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UoEjNI3HdGU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T17:00:00Z"
+        },
+        {
+          "id": "Unp4cwyBTl4",
+          "title": "Mon. Apr. 20, 2026   -   Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Unp4cwyBTl4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-20T11:15:00Z"
         }
       ]
     },
@@ -69,24 +69,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/pUfRHFhfj4c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tTFQ1DxFIhE",
-          "title": "11am — 3rd Sunday of Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tTFQ1DxFIhE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8GnztdGea9E",
-          "title": "Missa Rezada - Domingo do Bom Pastor 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8GnztdGea9E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
