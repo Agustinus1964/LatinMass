@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T11:56:54.007Z",
+  "lastUpdated": "2026-04-19T13:05:07.570Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/7w5Z1Z4R_oI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "N3aWB_W_-5w",
+          "title": "2nd Sunday After Easter - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/N3aWB_W_-5w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9Or1XTHKps4",
@@ -55,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "BFhp5aXqEqI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/BFhp5aXqEqI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "3alN8nCV6_A",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Second Sunday after Easter. II. April 19, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,22 +82,22 @@
           "scheduledTime": null
         },
         {
-          "id": "pUfRHFhfj4c",
-          "title": "Sunday 7 AM Catholic Mass for 04/19/2026",
+          "id": "zsvTkdLfG2A",
+          "title": "Sunday 8:30 AM Catholic Mass for 04/19/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pUfRHFhfj4c/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/zsvTkdLfG2A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "VWPBgjN7eB4",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Second Sunday after Easter, Good Shepherd Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/VWPBgjN7eB4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-19T12:00:00Z"
+          "id": "VcGHnIM0rCU",
+          "title": "Missa Solene do Domingo do Bom Pastor",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/VcGHnIM0rCU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "A7uwvO7Ln4U",
@@ -125,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7YGrCN0tKc0/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-19T18:00:00Z"
+        },
+        {
+          "id": "-hh_ZjC4tQY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass “Pro Papa”)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/-hh_ZjC4tQY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-20T11:30:00Z"
         }
       ]
     }
