@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-20T16:05:39.182Z",
+  "lastUpdated": "2026-04-20T17:34:19.209Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kzjcH7ly4Ps",
-          "title": "FSSPX Antwerpen - 20/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/kzjcH7ly4Ps/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "i3kzCXYMGwE",
           "title": "Tue. Apr. 21, 2026   -   St. Anselm    -    Bishop, Confessor, Doctor of the Church",
@@ -32,13 +23,13 @@
           "scheduledTime": "2026-04-21T11:45:00Z"
         },
         {
-          "id": "xamqgm2ADYQ",
-          "title": "FSSPX Antwerpen - 21/04 Aanbidding met Rozenhoedje",
+          "id": "f-FcSFijy_M",
+          "title": "FSSPX Antwerpen - 21/04 H. ANSELMUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/xamqgm2ADYQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/f-FcSFijy_M/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-21T15:00:00Z"
+          "scheduledTime": "2026-04-21T16:30:00Z"
         }
       ]
     },
@@ -46,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "pUTUZhDrFAM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/pUTUZhDrFAM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "3t-Uu__NAX0",
           "title": "Monday 20th April 2026: Votive Mass of the Blessed Trinity",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/3t-Uu__NAX0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-20T17:00:00Z"
-        },
-        {
-          "id": "r3TszXvL8i8",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/r3TszXvL8i8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mR48mOyKaFo",
@@ -69,6 +60,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/mR48mOyKaFo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "r3TszXvL8i8",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/r3TszXvL8i8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-20T17:00:00Z"
         },
@@ -89,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/lQpYMgK47b8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-21T11:30:00Z"
+        },
+        {
+          "id": "zGTxlryiy9A",
+          "title": "Tuesday 21st April 2026: Saint Anselm",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/zGTxlryiy9A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T17:00:00Z"
+        },
+        {
+          "id": "zsE4ZqCwt3M",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/zsE4ZqCwt3M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T17:00:00Z"
+        },
+        {
+          "id": "6_pciCTuVJ8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6_pciCTuVJ8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T17:00:00Z"
         }
       ]
     }
