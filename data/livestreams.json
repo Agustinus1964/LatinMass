@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-20T05:25:08.318Z",
+  "lastUpdated": "2026-04-20T07:26:44.405Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "959KG1wZMks",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/959KG1wZMks/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KNoyp_Xh59w",
-          "title": "Mass of the 2nd Sunday after Easter",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/KNoyp_Xh59w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-20T07:15:00Z"
-        },
         {
           "id": "Unp4cwyBTl4",
           "title": "Mon. Apr. 20, 2026   -   Ferial Day",
