@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-20T11:02:41.929Z",
+  "lastUpdated": "2026-04-20T12:45:17.549Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Unp4cwyBTl4",
-          "title": "Mon. Apr. 20, 2026   -   Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Unp4cwyBTl4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-20T11:15:00Z"
-        },
         {
           "id": "lV6M2TOTZic",
           "title": "FSSPX Antwerpen - 20/04 DOOR DE WEEK",
@@ -21,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/lV6M2TOTZic/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-20T16:30:00Z"
+        },
+        {
+          "id": "i3kzCXYMGwE",
+          "title": "Tue. Apr. 21, 2026   -   St. Anselm    -    Bishop, Confessor, Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/i3kzCXYMGwE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T11:15:00Z"
+        },
+        {
+          "id": "iU3J3mwn1PI",
+          "title": "Understanding The Crisis in the Church - Chapter 1",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/iU3J3mwn1PI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T11:45:00Z"
         }
       ]
     },
@@ -28,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6zdiMxJPWD4",
-          "title": "7am Mass & Divine Office. Feria of Paschaltide. IV. Monday, April 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/6zdiMxJPWD4/mqdefault_live.jpg",
+          "id": "TArs4EbrUAY",
+          "title": "Monday 8 AM Traditional Latin Mass04/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/TArs4EbrUAY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "-hh_ZjC4tQY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass for Peace, “Pro Pace”)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/-hh_ZjC4tQY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-20T11:30:00Z"
         },
         {
           "id": "3t-Uu__NAX0",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qe51X_pCkTE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-21T09:55:00Z"
+        },
+        {
+          "id": "lQpYMgK47b8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anselm, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lQpYMgK47b8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T11:30:00Z"
         }
       ]
     }
