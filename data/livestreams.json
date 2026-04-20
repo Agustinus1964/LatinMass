@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-20T19:00:22.101Z",
+  "lastUpdated": "2026-04-20T20:08:34.053Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "yfJWUS3lh2w",
+          "title": "Saint Anselm, bishop, confessor and doctor of the Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/yfJWUS3lh2w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T07:15:00Z"
+        },
         {
           "id": "AcZeLC9REQ4",
           "title": "Low Mass - St. Anselm, Bishop & Confessor - 4/21/26",
