@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T07:26:44.405Z",
+  "lastUpdated": "2026-04-20T09:25:03.373Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "O4HZAZEB3Qs",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/O4HZAZEB3Qs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-hh_ZjC4tQY",
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass for Peace, “Pro Pace”)",
