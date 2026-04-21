@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T03:49:48.035Z",
+  "lastUpdated": "2026-04-21T06:00:13.652Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -11,7 +11,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/yfJWUS3lh2w/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-21T07:15:00Z"
+          "scheduledTime": "2026-04-21T06:15:00Z"
         },
         {
           "id": "AcZeLC9REQ4",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qvuu52rthIw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-22T00:45:00Z"
+        },
+        {
+          "id": "IdqNMsgt9a4",
+          "title": "FSSPX Antwerpen - 22/04 HH. SOTER en CAJUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/IdqNMsgt9a4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-22T05:30:00Z"
         }
       ]
     },
