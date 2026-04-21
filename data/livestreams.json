@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T19:22:52.100Z",
+  "lastUpdated": "2026-04-21T20:26:16.836Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qvuu52rthIw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-22T00:45:00Z"
+        },
+        {
+          "id": "wZe5arsrUUs",
+          "title": "Saints Soter and Cajus, popes and martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-22T07:15:00Z"
         },
         {
           "id": "FaNDcrHqY4s",
