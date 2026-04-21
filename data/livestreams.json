@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-21T12:12:18.488Z",
+  "lastUpdated": "2026-04-21T14:13:53.874Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iU3J3mwn1PI",
-          "title": "Understanding The Crisis in the Church - Chapter 1",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/iU3J3mwn1PI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "f-FcSFijy_M",
           "title": "FSSPX Antwerpen - 21/04 H. ANSELMUS",
@@ -73,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "aWHuhcBQ0sM",
-          "title": "Tuesday 8 AM Catholic Mass for 04/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/aWHuhcBQ0sM/mqdefault_live.jpg",
+          "id": "3v820O9KnA4",
+          "title": "Santo Sacrificio de la Misa, San Anselmo Obispo, Confesor y Doctor de la Iglesia, 21 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/3v820O9KnA4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-vXhAeraqyc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-22T09:55:00Z"
+        },
+        {
+          "id": "19PTJCLeHys",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Soter and Caius, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/19PTJCLeHys/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-22T11:30:00Z"
         }
       ]
     }
