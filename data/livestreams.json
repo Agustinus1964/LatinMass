@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-21T22:06:28.974Z",
+  "lastUpdated": "2026-04-21T23:05:40.035Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pgPA1NFrvSk",
-          "title": "Divine Office & 6pm Mass. St. Anselm, Bishop, Confessor & Doctor of the Church. III. April 21, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/pgPA1NFrvSk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "-vXhAeraqyc",
           "title": "Wednesday 6 AM Daily Traditional Catholic Mass 04/22/2026",
           "channel": "St. Benedict Parish",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SZptYN40oOM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-22T17:00:00Z"
+        },
+        {
+          "id": "oKzh5B00W9U",
+          "title": "Divine Office & 6pm Mass. Ss. Soter & Caius, Popes & Martyrs. III. Wednesday, April 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/oKzh5B00W9U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-22T21:00:00Z"
         }
       ]
     }
