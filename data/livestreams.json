@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-04-21T14:13:53.874Z",
+  "lastUpdated": "2026-04-21T15:50:26.970Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "f-FcSFijy_M",
-          "title": "FSSPX Antwerpen - 21/04 H. ANSELMUS",
+          "id": "xamqgm2ADYQ",
+          "title": "FSSPX Antwerpen - 21/04 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/f-FcSFijy_M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-21T16:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/xamqgm2ADYQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EOgICJX4zK4",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3v820O9KnA4",
-          "title": "Santo Sacrificio de la Misa, San Anselmo Obispo, Confesor y Doctor de la Iglesia, 21 de abril, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/3v820O9KnA4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zGTxlryiy9A",
           "title": "Tuesday 21st April 2026: Saint Anselm",
