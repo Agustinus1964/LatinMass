@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-04-21T15:50:26.970Z",
+  "lastUpdated": "2026-04-21T16:56:58.547Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "xamqgm2ADYQ",
-          "title": "FSSPX Antwerpen - 21/04 Aanbidding met Rozenhoedje",
+          "id": "f-FcSFijy_M",
+          "title": "FSSPX Antwerpen - 21/04 H. ANSELMUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/xamqgm2ADYQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/f-FcSFijy_M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dOb1JnGpnp0",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/dOb1JnGpnp0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -30,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Qvuu52rthIw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-22T00:45:00Z"
-        },
-        {
-          "id": "IdqNMsgt9a4",
-          "title": "FSSPX Antwerpen - 22/04 HH. SOTER en CAJUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IdqNMsgt9a4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T05:30:00Z"
         },
         {
           "id": "FaNDcrHqY4s",
@@ -69,17 +69,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/zGTxlryiy9A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-21T17:00:00Z"
-        },
-        {
-          "id": "zsE4ZqCwt3M",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/zsE4ZqCwt3M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-21T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6_pciCTuVJ8",
@@ -87,6 +78,24 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/6_pciCTuVJ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "FpQHZ4NuOnY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/FpQHZ4NuOnY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-21T16:58:00Z"
+        },
+        {
+          "id": "zsE4ZqCwt3M",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/zsE4ZqCwt3M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-21T17:00:00Z"
         },
