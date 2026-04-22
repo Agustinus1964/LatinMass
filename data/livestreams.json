@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-04-22T05:58:08.303Z",
+  "lastUpdated": "2026-04-22T07:57:13.055Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IdqNMsgt9a4",
-          "title": "FSSPX Antwerpen - 22/04 HH. SOTER en CAJUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IdqNMsgt9a4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "o5VGKyZlefg",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/o5VGKyZlefg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wZe5arsrUUs",
           "title": "Saints Soter and Cajus, popes and martyrs",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nX7jAgjAsP4",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qbLh3cz0ldE/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T02:30:00Z"
+        },
+        {
+          "id": "2630pruSiIA",
+          "title": "Thursday 23rd April 2026: Saint Georgius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/2630pruSiIA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T07:00:00Z"
         }
       ]
     }
