@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T15:09:53.392Z",
+  "lastUpdated": "2026-04-22T16:36:38.981Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "2FEdZg24lcs",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2FEdZg24lcs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5wescjg6mkM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T11:15:00Z"
+        },
+        {
+          "id": "nQ0-bZsGnH0",
+          "title": "FSSPX Antwerpen - 23/04 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/nQ0-bZsGnH0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T16:30:00Z"
         }
       ]
     },
