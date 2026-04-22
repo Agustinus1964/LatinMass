@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-22T16:07:46.129Z",
+  "lastUpdated": "2026-04-22T17:31:58.958Z",
   "videos": [
+    {
+      "id": "hW1Q0uLHVt0",
+      "title": "The First Resistance to the New Mass",
+      "channel": "Pelican Plus",
+      "channelId": "UCKVY7Xr9d8QAafpyHt1DV0A",
+      "description": "Dr. Ed Schaefer explains what it was actually like in the early days after the Second Vatican Council when some Catholics quietly held on to the traditional Mass, and how that moment led to the first ",
+      "thumbnail": "https://i.ytimg.com/vi/hW1Q0uLHVt0/mqdefault.jpg",
+      "publishedAt": "2026-04-22T16:47:48Z",
+      "category": "Pelican Plus"
+    },
+    {
+      "id": "hGhTmzvzUnE",
+      "title": "Holy Mass 4/22/26 - The Solemnity of St. Joseph",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/hGhTmzvzUnE/mqdefault_live.jpg",
+      "publishedAt": "2026-04-22T14:40:35Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "tt6D4xlpULk",
       "title": "Our Greatest Ally Would Prefer YOU Didn't WATCH THIS...",
@@ -252,16 +272,6 @@
       "category": "The Remnants Video"
     },
     {
-      "id": "cz5Gf71z7pA",
-      "title": "Sunday Sermon • 2nd Sunday after Easter • 2026",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/cz5Gf71z7pA/mqdefault.jpg",
-      "publishedAt": "2026-04-21T03:05:53Z",
-      "category": "What Catholics Believe"
-    },
-    {
       "id": "s_AjaF5vl_g",
       "title": "St. Anselm and St. John of the Cross",
       "channel": "Ascent of Mount Carmel",
@@ -450,16 +460,6 @@
       "thumbnail": "https://i.ytimg.com/vi/xekK_Aiors0/mqdefault.jpg",
       "publishedAt": "2026-04-15T21:14:48Z",
       "category": "Fatima Center"
-    },
-    {
-      "id": "S3i-fpU9ags",
-      "title": "What “Development of Dogma” Really Means (And What It Doesn’t)",
-      "channel": "Pelican Plus",
-      "channelId": "UCKVY7Xr9d8QAafpyHt1DV0A",
-      "description": "Kennedy Hall breaks down the true meaning of development of dogma and why it never means changing the Faith. Using transubstantiation as a clear example, he shows how the Church deepens her understand",
-      "thumbnail": "https://i.ytimg.com/vi/S3i-fpU9ags/mqdefault.jpg",
-      "publishedAt": "2026-04-15T20:30:10Z",
-      "category": "Pelican Plus"
     }
   ]
 }
