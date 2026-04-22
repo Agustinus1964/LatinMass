@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T09:23:14.241Z",
+  "lastUpdated": "2026-04-22T10:46:28.149Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FaNDcrHqY4s",
-          "title": "FSSPX Antwerpen - 22/04 BEGRAFENISMIS VAN DE HEER JAN DANIELS ZALIGER",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/FaNDcrHqY4s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -37,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jPmRa-v7eps",
-          "title": "Ofício de prima e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/jPmRa-v7eps/mqdefault_live.jpg",
+          "id": "Y6UGq9HxUvI",
+          "title": "7am Mass & Divine Office. Ss. Soter & Caius, Popes & Martyrs. III. Wednesday, April 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Y6UGq9HxUvI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,8 +42,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/-vXhAeraqyc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T09:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "19PTJCLeHys",
@@ -91,15 +82,6 @@
           "scheduledTime": "2026-04-22T17:00:00Z"
         },
         {
-          "id": "oKzh5B00W9U",
-          "title": "Divine Office & 6pm Mass. Ss. Soter & Caius, Popes & Martyrs. III. Wednesday, April 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/oKzh5B00W9U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T21:00:00Z"
-        },
-        {
           "id": "qbLh3cz0ldE",
           "title": "La cruz, muerte, descenso a los infiernos y resurreción de Cristo.  P Daniel Heenan.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -116,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2630pruSiIA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T07:00:00Z"
+        },
+        {
+          "id": "-lhsxogyULA",
+          "title": "Thursday 6 AM Traditional Catholic Mass 04/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/-lhsxogyULA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T09:55:00Z"
         }
       ]
     }
