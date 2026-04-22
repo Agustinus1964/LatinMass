@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T17:58:26.142Z",
+  "lastUpdated": "2026-04-22T19:22:20.277Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2FEdZg24lcs",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/2FEdZg24lcs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -72,24 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "P77ByaNSdDw",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/P77ByaNSdDw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GtWF_OSCZak",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GtWF_OSCZak/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T17:00:00Z"
-        },
         {
           "id": "oKzh5B00W9U",
           "title": "Divine Office & 6pm Mass. Ss. Soter & Caius, Popes & Martyrs. III. Wednesday, April 22, 2026.",
