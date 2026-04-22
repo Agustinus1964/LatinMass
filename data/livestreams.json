@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T20:29:22.159Z",
+  "lastUpdated": "2026-04-22T21:28:15.976Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ATdvwwtJ8kA",
+          "title": "Ferial - 23.4.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ATdvwwtJ8kA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -78,8 +87,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/oKzh5B00W9U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BVgpsELMaIk",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/BVgpsELMaIk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qbLh3cz0ldE",
@@ -134,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nCs_zE1yJ0w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T17:00:00Z"
+        },
+        {
+          "id": "ouJ9SOLTHMc",
+          "title": "Divine Office & 6pm Mass. Feria of Paschaltide. IV. Thursday, April 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ouJ9SOLTHMc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T21:00:00Z"
         }
       ]
     }
