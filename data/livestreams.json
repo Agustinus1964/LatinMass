@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T21:28:15.976Z",
+  "lastUpdated": "2026-04-22T22:11:29.687Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ATdvwwtJ8kA",
-          "title": "Ferial - 23.4.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ATdvwwtJ8kA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "BVgpsELMaIk",
-          "title": "Terço e Missa Rezada",
+          "id": "l9SKZi5mhAE",
+          "title": "Missa de Réquiem",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/BVgpsELMaIk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/l9SKZi5mhAE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
