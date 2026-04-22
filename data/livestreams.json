@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-21T23:59:52.144Z",
+  "lastUpdated": "2026-04-22T03:34:35.613Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EOgICJX4zK4",
-          "title": "Rosary - 4/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/EOgICJX4zK4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-21T23:00:00Z"
-        },
-        {
-          "id": "Qvuu52rthIw",
-          "title": "Compline - 4/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Qvuu52rthIw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-22T00:45:00Z"
-        },
         {
           "id": "wZe5arsrUUs",
           "title": "Saints Soter and Cajus, popes and martyrs",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oKzh5B00W9U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-22T21:00:00Z"
+        },
+        {
+          "id": "qbLh3cz0ldE",
+          "title": "La cruz, muerte, descenso a los infiernos y resurreción de Cristo.  P Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/qbLh3cz0ldE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T02:30:00Z"
         }
       ]
     }
