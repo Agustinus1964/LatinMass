@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-22T19:22:20.277Z",
+  "lastUpdated": "2026-04-22T20:29:22.159Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aSfh2m7yN0M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T00:45:00Z"
+        },
+        {
+          "id": "xQpB2x1f_ds",
+          "title": "Saint George, martyr, Patron of England",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/xQpB2x1f_ds/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T07:15:00Z"
         },
         {
           "id": "6l_PamnTuEw",
