@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T16:58:20.909Z",
+  "lastUpdated": "2026-04-23T18:08:30.927Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/nQ0-bZsGnH0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sDz44J2_12Q",
-          "title": "Sakramentsandacht und hl. Messe - 23. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sDz44J2_12Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,33 +109,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nLZX8ov2c-M",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/nLZX8ov2c-M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nCs_zE1yJ0w",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/nCs_zE1yJ0w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "o2_wIfMTBh0",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/o2_wIfMTBh0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T17:00:00Z"
-        },
-        {
           "id": "ouJ9SOLTHMc",
           "title": "Divine Office & 6pm Mass. Feria of Paschaltide. IV. Thursday, April 23, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -161,6 +125,33 @@
           "thumbnail": "https://i.ytimg.com/vi/Sj1LKhtG3lg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T15:00:00Z"
+        },
+        {
+          "id": "MUyTMZ6Mads",
+          "title": "Friday 24th April 2026: Saint Fidelis of Sigmaringen",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/MUyTMZ6Mads/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T17:00:00Z"
+        },
+        {
+          "id": "vE7auUamc7Y",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/vE7auUamc7Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T17:00:00Z"
+        },
+        {
+          "id": "LcnggfwzGxc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/LcnggfwzGxc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T17:00:00Z"
         }
       ]
     }
