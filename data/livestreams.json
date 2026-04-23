@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T08:17:13.904Z",
+  "lastUpdated": "2026-04-23T10:03:46.296Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5wescjg6mkM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T11:15:00Z"
+        },
+        {
+          "id": "sDz44J2_12Q",
+          "title": "Sakramentsandacht und hl. Messe - 23. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sDz44J2_12Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-23T15:00:00Z"
         },
         {
           "id": "nQ0-bZsGnH0",
@@ -48,12 +57,39 @@
           "thumbnail": "https://i.ytimg.com/vi/0EsEMleoUEQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T00:45:00Z"
+        },
+        {
+          "id": "8WjfwSEOOUw",
+          "title": "Hl. Messe - hl. Fidelis von Sigmaringen - 24. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/8WjfwSEOOUw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-lhsxogyULA",
+          "title": "Thursday 6 AM Traditional Catholic Mass 04/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/-lhsxogyULA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "s2IyCmIlSP4",
+          "title": "Ofício de prima e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/s2IyCmIlSP4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "iFF_ZWi4x1E",
           "title": "7am Mass & Divine Office. Feria of Paschaltide. IV. Thursday, April 23, 2026.",
