@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-04-23T13:21:20.621Z",
+  "lastUpdated": "2026-04-23T15:25:11.609Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7ShHWq1RWgI",
+          "title": "FSSPX Antwerpen - 23/04 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/7ShHWq1RWgI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "sDz44J2_12Q",
           "title": "Sakramentsandacht und hl. Messe - 23. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/sDz44J2_12Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T15:00:00Z"
-        },
-        {
-          "id": "nQ0-bZsGnH0",
-          "title": "FSSPX Antwerpen - 23/04 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/nQ0-bZsGnH0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ROH3IHZcOx0",
@@ -75,6 +75,24 @@
           "thumbnail": "https://i.ytimg.com/vi/zI-yjYdKknI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T11:45:00Z"
+        },
+        {
+          "id": "KLO3wvtyKYc",
+          "title": "Fri. Apr. 24, 2026     -    Alan Zulianello  Funeral Mass",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/KLO3wvtyKYc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T15:00:00Z"
+        },
+        {
+          "id": "iVtP0AA8olU",
+          "title": "FSSPX Antwerpen - 24/04 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/iVtP0AA8olU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T15:00:00Z"
         }
       ]
     },
@@ -107,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ouJ9SOLTHMc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T21:00:00Z"
+        },
+        {
+          "id": "Sj1LKhtG3lg",
+          "title": "11am Mass & Divine Office. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Sj1LKhtG3lg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T15:00:00Z"
         }
       ]
     }
