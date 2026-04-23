@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-23T21:42:07.807Z",
+  "lastUpdated": "2026-04-23T22:40:10.299Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-7p63fheljE",
-          "title": "Mass of St Fidelis - 24.4.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/-7p63fheljE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ROH3IHZcOx0",
           "title": "Benediction - 4/23/26",
@@ -118,24 +109,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ouJ9SOLTHMc",
-          "title": "Divine Office & 6pm Mass. Feria of Paschaltide. IV. Thursday, April 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ouJ9SOLTHMc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZS2P7z0FMJQ",
-          "title": "Exposição e Santa Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ZS2P7z0FMJQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Sj1LKhtG3lg",
           "title": "11am Mass & Divine Office. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -179,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mI2in3HVR3c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T21:00:00Z"
+        },
+        {
+          "id": "zDqTAB8YXtQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Fidelis of Sigmaringen, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zDqTAB8YXtQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T22:30:00Z"
         }
       ]
     }
