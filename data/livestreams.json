@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-23T20:48:42.341Z",
+  "lastUpdated": "2026-04-23T21:42:07.807Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-7p63fheljE",
+          "title": "Mass of St Fidelis - 24.4.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/-7p63fheljE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ROH3IHZcOx0",
           "title": "Benediction - 4/23/26",
@@ -118,6 +127,15 @@
           "scheduledTime": null
         },
         {
+          "id": "ZS2P7z0FMJQ",
+          "title": "Exposição e Santa Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ZS2P7z0FMJQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Sj1LKhtG3lg",
           "title": "11am Mass & Divine Office. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -152,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LcnggfwzGxc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T17:00:00Z"
+        },
+        {
+          "id": "mI2in3HVR3c",
+          "title": "Divine Office, Mass. Holy Hour. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/mI2in3HVR3c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T21:00:00Z"
         }
       ]
     }
