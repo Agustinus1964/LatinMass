@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-23T06:03:42.332Z",
+  "lastUpdated": "2026-04-23T08:17:13.904Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xQpB2x1f_ds",
-          "title": "Saint George, martyr, Patron of England",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/xQpB2x1f_ds/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T06:15:00Z"
-        },
         {
           "id": "6l_PamnTuEw",
           "title": "Low Mass - Feria of Paschaltide - 4/23/26",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2630pruSiIA",
-          "title": "Thursday 23rd April 2026: Saint Georgius",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/2630pruSiIA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T07:00:00Z"
-        },
         {
           "id": "iFF_ZWi4x1E",
           "title": "7am Mass & Divine Office. Feria of Paschaltide. IV. Thursday, April 23, 2026.",
