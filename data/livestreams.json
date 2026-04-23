@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-23T03:52:40.846Z",
+  "lastUpdated": "2026-04-23T06:03:42.332Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wZe5arsrUUs",
-          "title": "Saints Soter and Cajus, popes and martyrs",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/wZe5arsrUUs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "xQpB2x1f_ds",
           "title": "Saint George, martyr, Patron of England",
@@ -20,7 +11,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/xQpB2x1f_ds/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-23T07:15:00Z"
+          "scheduledTime": "2026-04-23T06:15:00Z"
         },
         {
           "id": "6l_PamnTuEw",
