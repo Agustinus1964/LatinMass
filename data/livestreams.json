@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-23T10:03:46.296Z",
+  "lastUpdated": "2026-04-23T11:37:41.295Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/6l_PamnTuEw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5wescjg6mkM",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/5wescjg6mkM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sDz44J2_12Q",
@@ -66,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/8WjfwSEOOUw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T05:15:00Z"
+        },
+        {
+          "id": "hRpIg_ZfLko",
+          "title": "Low Mass - St. Fidelis of Sigmaringen - 4/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hRpIg_ZfLko/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T11:15:00Z"
+        },
+        {
+          "id": "mQTSx0zzW7k",
+          "title": "Fri. Apr. 24, 2026    -    St. Fidelis of Sigmaringen     -     Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/mQTSx0zzW7k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T11:15:00Z"
         }
       ]
     },
@@ -73,20 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-lhsxogyULA",
-          "title": "Thursday 6 AM Traditional Catholic Mass 04/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/-lhsxogyULA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "s2IyCmIlSP4",
-          "title": "Ofício de prima e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/s2IyCmIlSP4/mqdefault_live.jpg",
+          "id": "qMePMRMRNnw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint George, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/qMePMRMRNnw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,17 +105,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/iFF_ZWi4x1E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T11:00:00Z"
-        },
-        {
-          "id": "qMePMRMRNnw",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint George, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/qMePMRMRNnw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "o2_wIfMTBh0",
