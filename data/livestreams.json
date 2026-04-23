@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-04-23T15:25:11.609Z",
+  "lastUpdated": "2026-04-23T16:58:20.909Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "7ShHWq1RWgI",
-          "title": "FSSPX Antwerpen - 23/04 Priester-Uur-Gebed",
+          "id": "nQ0-bZsGnH0",
+          "title": "FSSPX Antwerpen - 23/04 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7ShHWq1RWgI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/nQ0-bZsGnH0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -86,13 +86,31 @@
           "scheduledTime": "2026-04-24T15:00:00Z"
         },
         {
-          "id": "iVtP0AA8olU",
-          "title": "FSSPX Antwerpen - 24/04 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "sWUlqmkDXJM",
+          "title": "FSSPX Antwerpen - 24/04 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/iVtP0AA8olU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/sWUlqmkDXJM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-24T15:00:00Z"
+          "scheduledTime": "2026-04-24T15:45:00Z"
+        },
+        {
+          "id": "bGJwL4nuop0",
+          "title": "Rosenkranz und hl. Messe - hl. Fidelis von Sigmaringen - 24. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/bGJwL4nuop0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T16:00:00Z"
+        },
+        {
+          "id": "FPz-HIY0Gjk",
+          "title": "FSSPX Antwerpen - 24/04 H. FIDELIS van SIGMARINGEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/FPz-HIY0Gjk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-24T16:30:00Z"
         }
       ]
     },
@@ -100,13 +118,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "o2_wIfMTBh0",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/o2_wIfMTBh0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-23T17:00:00Z"
+          "id": "nLZX8ov2c-M",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/nLZX8ov2c-M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nCs_zE1yJ0w",
@@ -114,6 +132,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/nCs_zE1yJ0w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "o2_wIfMTBh0",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/o2_wIfMTBh0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-23T17:00:00Z"
         },
