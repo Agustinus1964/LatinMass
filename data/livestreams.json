@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-24T16:01:52.131Z",
+  "lastUpdated": "2026-04-24T17:28:33.927Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KLO3wvtyKYc",
-          "title": "Fri. Apr. 24, 2026     -    Alan Zulianello  Funeral Mass",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/KLO3wvtyKYc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sWUlqmkDXJM",
-          "title": "FSSPX Antwerpen - 24/04 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/sWUlqmkDXJM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bGJwL4nuop0",
-          "title": "Rosenkranz und hl. Messe - hl. Fidelis von Sigmaringen - 24. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/bGJwL4nuop0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T16:00:00Z"
-        },
         {
           "id": "JU4obfIQW7s",
           "title": "Stations of the Cross - 4/24/26",
@@ -59,15 +32,6 @@
           "scheduledTime": "2026-04-25T04:50:00Z"
         },
         {
-          "id": "BZlZ0fTKIyY",
-          "title": "FSSPX Antwerpen - 25/04 H. MARCUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/BZlZ0fTKIyY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-25T07:30:00Z"
-        },
-        {
           "id": "q3E4SH1N0vE",
           "title": "Sung Mass - St. Mark, Evangelist - 4/25/26",
           "channel": "SSPX Seminary - USA",
@@ -91,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Sj1LKhtG3lg",
-          "title": "11am Mass & Divine Office. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Sj1LKhtG3lg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "MUyTMZ6Mads",
           "title": "Friday 24th April 2026: Saint Fidelis of Sigmaringen",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/MUyTMZ6Mads/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vE7auUamc7Y",
@@ -114,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/vE7auUamc7Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LcnggfwzGxc",
@@ -123,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/LcnggfwzGxc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mI2in3HVR3c",
