@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T14:52:14.361Z",
+  "lastUpdated": "2026-04-24T16:01:52.131Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/KLO3wvtyKYc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sWUlqmkDXJM",
@@ -19,8 +19,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/sWUlqmkDXJM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bGJwL4nuop0",
@@ -30,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/bGJwL4nuop0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T16:00:00Z"
-        },
-        {
-          "id": "FPz-HIY0Gjk",
-          "title": "FSSPX Antwerpen - 24/04 H. FIDELIS van SIGMARINGEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/FPz-HIY0Gjk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T16:30:00Z"
         },
         {
           "id": "JU4obfIQW7s",
