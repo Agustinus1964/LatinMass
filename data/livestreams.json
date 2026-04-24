@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T17:28:33.927Z",
+  "lastUpdated": "2026-04-24T18:06:42.478Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,24 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "vE7auUamc7Y",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/vE7auUamc7Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LcnggfwzGxc",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/LcnggfwzGxc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "mI2in3HVR3c",
           "title": "Divine Office, Mass. Holy Hour. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -128,7 +110,7 @@
         },
         {
           "id": "ycI6YAcSJfw",
-          "title": "7:30am Mass, Rosary, 9am Sung Mass. St. Mark, Evangelist. II. Saturday, April 25, 2026.",
+          "title": "7:30am Mass. St. Mark, Evangelist. II. Rosary. 9am Rogation Mass. Saturday, April 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ycI6YAcSJfw/mqdefault_live.jpg",
