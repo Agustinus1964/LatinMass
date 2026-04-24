@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-24T02:23:58.407Z",
+  "lastUpdated": "2026-04-24T05:20:02.866Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/8WjfwSEOOUw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8KJBViaDFDI",
@@ -20,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/8KJBViaDFDI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-24T07:15:00Z"
+          "scheduledTime": "2026-04-24T06:15:00Z"
         },
         {
           "id": "hRpIg_ZfLko",
@@ -102,6 +102,15 @@
           "thumbnail": "https://i.ytimg.com/vi/utL_EjN5LEw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-25T00:45:00Z"
+        },
+        {
+          "id": "z_Wlxrn1nqs",
+          "title": "Hl. Messe - hl. Markus (Bittag) - 25. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/z_Wlxrn1nqs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-25T04:50:00Z"
         }
       ]
     },
