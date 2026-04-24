@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-23T23:41:32.435Z",
+  "lastUpdated": "2026-04-24T02:23:58.407Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0EsEMleoUEQ",
-          "title": "Compline - 4/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/0EsEMleoUEQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T00:45:00Z"
-        },
         {
           "id": "8WjfwSEOOUw",
           "title": "Hl. Messe - hl. Fidelis von Sigmaringen - 24. April 2026",
@@ -102,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JU4obfIQW7s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-24T22:55:00Z"
+        },
+        {
+          "id": "utL_EjN5LEw",
+          "title": "Compline - 4/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/utL_EjN5LEw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-25T00:45:00Z"
         }
       ]
     },
