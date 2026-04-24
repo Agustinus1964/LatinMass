@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-24T05:20:02.866Z",
+  "lastUpdated": "2026-04-24T07:16:15.454Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8WjfwSEOOUw",
-          "title": "Hl. Messe - hl. Fidelis von Sigmaringen - 24. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/8WjfwSEOOUw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8KJBViaDFDI",
-          "title": "Saint Fidelis of Sigmaringen, martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/8KJBViaDFDI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-24T06:15:00Z"
-        },
         {
           "id": "hRpIg_ZfLko",
           "title": "Low Mass - St. Fidelis of Sigmaringen - 4/24/26",
