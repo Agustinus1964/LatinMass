@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-24T21:11:35.668Z",
+  "lastUpdated": "2026-04-24T22:07:09.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "MeBNLp6lf68",
+          "title": "Mass of St Mark the Evangelist - 25th April 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/MeBNLp6lf68/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "JU4obfIQW7s",
           "title": "Stations of the Cross - 4/24/26",
@@ -63,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mI2in3HVR3c",
+          "title": "Divine Office, Mass, Holy Hour. St. Fidelis of Sigmaringen, Martyr. III. Friday, April 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/mI2in3HVR3c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HhhMVvfaOeQ",
           "title": "Ofício do Rosário e missa rezada",
