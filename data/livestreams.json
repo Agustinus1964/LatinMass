@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-24T11:54:34.725Z",
+  "lastUpdated": "2026-04-24T13:16:44.151Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zI-yjYdKknI",
-          "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 4",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/zI-yjYdKknI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KLO3wvtyKYc",
           "title": "Fri. Apr. 24, 2026     -    Alan Zulianello  Funeral Mass",
@@ -93,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/q3E4SH1N0vE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-25T10:30:00Z"
+        },
+        {
+          "id": "GjVQHosBMkw",
+          "title": "Sat. Apr. 25, 2026    -    St. Mark the Evangelist",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/GjVQHosBMkw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-25T12:00:00Z"
         }
       ]
     },
