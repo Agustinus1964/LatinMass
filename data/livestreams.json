@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-25T15:07:00.617Z",
+  "lastUpdated": "2026-04-25T16:03:00.554Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ykLULPU5VHY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T13:15:00Z"
+        },
+        {
+          "id": "SfH-YqB8LCc",
+          "title": "Vesper - 3. Sonntag nach Ostern - 26. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/SfH-YqB8LCc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T15:30:00Z"
         }
       ]
     },
@@ -98,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/GmaCB-f-3Ng/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T10:00:00Z"
+        },
+        {
+          "id": "P01r9zax4os",
+          "title": "THIRD SUNDAY AFTER EASTER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/P01r9zax4os/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T15:30:00Z"
+        },
+        {
+          "id": "MUgE4iBagLw",
+          "title": "Secondes vêpres du IIIème dimanche après Pâques - AMEN, AMEN DICO VOBIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/MUgE4iBagLw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T15:45:00Z"
+        },
+        {
+          "id": "XBACsrELusE",
+          "title": "Vespers and Benediction — 3rd Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/XBACsrELusE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T16:00:00Z"
         }
       ]
     }
