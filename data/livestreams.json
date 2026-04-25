@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-04-25T09:30:37.250Z",
+  "lastUpdated": "2026-04-25T10:39:53.640Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
           "id": "q3E4SH1N0vE",
-          "title": "Sung Mass - St. Mark, Evangelist - 4/25/26",
+          "title": "Sung Mass - St. Mark, Rogation Day and Procession - 4/25/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/q3E4SH1N0vE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-25T10:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GjVQHosBMkw",
@@ -64,24 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vs6pUeb7LQU",
-          "title": "Saturday 25th April 2026: Saint Mark, Evangelist",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/vs6pUeb7LQU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MCXSB1WpWdg",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/MCXSB1WpWdg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "YTpUpZsoCG4",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Mark, Evangelist)",
           "channel": "Usus Antiquior",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eOXXXPdP594/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T09:30:00Z"
+        },
+        {
+          "id": "GmaCB-f-3Ng",
+          "title": "11am — 4th Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/GmaCB-f-3Ng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T10:00:00Z"
         }
       ]
     }
