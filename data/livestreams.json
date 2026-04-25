@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-25T11:35:37.690Z",
+  "lastUpdated": "2026-04-25T12:57:25.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "q3E4SH1N0vE",
-          "title": "Sung Mass - St. Mark, Rogation Day and Procession - 4/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/q3E4SH1N0vE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GjVQHosBMkw",
-          "title": "Sat. Apr. 25, 2026    -    St. Mark the Evangelist",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/GjVQHosBMkw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-25T12:00:00Z"
-        },
         {
           "id": "WSh_Br2u5Us",
           "title": "Confirmations - 4/25/26",
@@ -64,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "YTpUpZsoCG4",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Mark, Evangelist)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/YTpUpZsoCG4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ycI6YAcSJfw",
           "title": "7:30am Mass. St. Mark, Evangelist. II. Rosary. 9am Rogation Mass. Saturday, April 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,22 +64,13 @@
           "scheduledTime": null
         },
         {
-          "id": "h2K-Zt9yTSc",
-          "title": "Saturday 7 AM Catholic Mass for 04/25/2026",
+          "id": "gjsQGvDDJO8",
+          "title": "Saturday 9 AM Traditional Catholic Mass 04/25/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/h2K-Zt9yTSc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/gjsQGvDDJO8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "YTpUpZsoCG4",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Mark, Evangelist)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/YTpUpZsoCG4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-25T13:00:00Z"
         },
         {
           "id": "1-65VNm0Nxc",
