@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-24T23:05:36.880Z",
+  "lastUpdated": "2026-04-25T00:02:35.541Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "JU4obfIQW7s",
-          "title": "Stations of the Cross - 4/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JU4obfIQW7s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "utL_EjN5LEw",
           "title": "Compline - 4/24/26",
@@ -82,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "zDqTAB8YXtQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Fidelis of Sigmaringen, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/zDqTAB8YXtQ/mqdefault_live.jpg",
+          "id": "aNIPa7hHwBU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/aNIPa7hHwBU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
