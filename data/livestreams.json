@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-25T08:29:53.856Z",
+  "lastUpdated": "2026-04-25T09:30:37.250Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BZlZ0fTKIyY",
-          "title": "FSSPX Antwerpen - 25/04 H. MARCUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/BZlZ0fTKIyY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "q3E4SH1N0vE",
           "title": "Sung Mass - St. Mark, Evangelist - 4/25/26",
@@ -78,8 +69,17 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/vs6pUeb7LQU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-25T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MCXSB1WpWdg",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/MCXSB1WpWdg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YTpUpZsoCG4",
@@ -107,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/HO8P9gxkCyc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T08:30:00Z"
+        },
+        {
+          "id": "BQg5pcyVOpk",
+          "title": "Sainte messe du IIIème dimanche après Pâques - JUBILATE DEO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/BQg5pcyVOpk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T09:00:00Z"
+        },
+        {
+          "id": "eOXXXPdP594",
+          "title": "Sunday 26th April 2026: Third Sunday after Easter",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/eOXXXPdP594/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T09:30:00Z"
         }
       ]
     }
