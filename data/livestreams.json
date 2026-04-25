@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-04-25T05:46:11.464Z",
+  "lastUpdated": "2026-04-25T07:10:21.188Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z_Wlxrn1nqs",
-          "title": "Hl. Messe - hl. Markus (Bittag) - 25. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/z_Wlxrn1nqs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ptbDHbWFgwY",
           "title": "Saint Mark, evangelist",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/ptbDHbWFgwY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-25T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "q3E4SH1N0vE",
