@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-26T11:36:37.346Z",
+  "lastUpdated": "2026-04-26T12:59:39.143Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vX4KWosjkG4",
-          "title": "Low Mass - Third Sunday after Easter - 4/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vX4KWosjkG4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MLx6nwnD0qo",
-          "title": "3rd Sunday after Easter",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/MLx6nwnD0qo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LCaDAYkj6lk",
           "title": "Solemn High Mass - Third Sunday after Easter - 3/26/26",
@@ -91,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "BLWlG5VxwVM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/BLWlG5VxwVM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "dmDzM4WwvMA",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Third Sunday after Easter. II. April 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -100,11 +91,11 @@
           "scheduledTime": null
         },
         {
-          "id": "s5KmDFmbwIw",
-          "title": "Sunday 7 AM Catholic Mass for 04/26/2026",
+          "id": "GsgzcB9q0nY",
+          "title": "Sunday 8:30 AM Catholic Mass for 04/26/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/s5KmDFmbwIw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/GsgzcB9q0nY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,22 +109,22 @@
           "scheduledTime": null
         },
         {
-          "id": "1DsiOsh8nR8",
-          "title": "Missa Rezada - III Domingo depois da Páscoa 2026",
+          "id": "51W18M9Paw8",
+          "title": "Missa cantada do III Domingo depois da Páscoa",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/1DsiOsh8nR8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/51W18M9Paw8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "ziDOcsO7BrE",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Third Sunday after Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ziDOcsO7BrE/mqdefault_live.jpg",
+          "id": "s_Dq43-p8bA",
+          "title": "Missa Cantada III Domingo de Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/s_Dq43-p8bA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-26T12:00:00Z"
+          "scheduledTime": "2026-04-26T12:35:02Z"
         },
         {
           "id": "6yCsSW8M1fM",
