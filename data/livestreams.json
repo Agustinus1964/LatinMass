@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T17:08:22.023Z",
+  "lastUpdated": "2026-04-26T18:04:20.633Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,29 +82,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "P01r9zax4os",
-          "title": "THIRD SUNDAY AFTER EASTER, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/P01r9zax4os/mqdefault_live.jpg",
+          "id": "InB7D9FzBjk",
+          "title": "Perpetual Adoration of The Heart",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/InB7D9FzBjk/mqdefault.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "1FuXRyRpG8U",
-          "title": "Sunday 11 AM Sung Mass 2026-04-26",
+          "id": "dDjHUQ5py-E",
+          "title": "Sunday 1:30 PM Catholic Mass 04/26/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/1FuXRyRpG8U/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/dDjHUQ5py-E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "e3-BookKqRo",
-          "title": "Santa Misa dominical. 26 de abril 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/e3-BookKqRo/mqdefault_live.jpg",
+          "id": "3YeCrglXemg",
+          "title": "3rd Sunday after Easter / 3e dimanche après Pâques",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/3YeCrglXemg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MUgE4iBagLw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "InB7D9FzBjk",
-          "title": "Perpetual Adoration of The Heart",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/InB7D9FzBjk/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T18:00:00Z"
         },
         {
           "id": "jjBAkMqZwWs",
