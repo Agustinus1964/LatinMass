@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-26T17:07:57.508Z",
+  "lastUpdated": "2026-04-26T18:03:41.565Z",
   "videos": [
+    {
+      "id": "qrmOkwQ2ZZY",
+      "title": "Holy Mass 4/26/26 - Third Sunday after Easter",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/qrmOkwQ2ZZY/mqdefault.jpg",
+      "publishedAt": "2026-04-26T17:10:17Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "QDs1K197ywE",
       "title": "Diocese Celebrates Using AI For Evangelizing And Fundraising",
@@ -30,16 +40,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7KXLex-Rh_E/mqdefault.jpg",
       "publishedAt": "2026-04-26T12:00:10Z",
       "category": "Return To Tradition"
-    },
-    {
-      "id": "qrmOkwQ2ZZY",
-      "title": "Holy Mass 4/26/26 - Third Sunday after Easter",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/qrmOkwQ2ZZY/mqdefault_live.jpg",
-      "publishedAt": "2026-04-26T10:52:53Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "CCBmsFe7rqo",
