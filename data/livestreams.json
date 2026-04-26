@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T20:02:15.990Z",
+  "lastUpdated": "2026-04-26T21:02:50.278Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/YO_0-9fMs74/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T20:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cxCfKxX_Hzg",
@@ -87,6 +87,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/MUgE4iBagLw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "yXVlTD6cTAs",
+          "title": "Missa Tridentina em Brasília está ao vivo!",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/yXVlTD6cTAs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
