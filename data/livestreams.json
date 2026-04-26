@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T05:24:41.281Z",
+  "lastUpdated": "2026-04-26T07:09:31.629Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6BsTOHr0v3o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T08:25:00Z"
+        },
+        {
+          "id": "MLx6nwnD0qo",
+          "title": "3rd Sunday after Easter",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/MLx6nwnD0qo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T10:00:00Z"
         },
         {
           "id": "vX4KWosjkG4",
@@ -87,8 +96,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/1-65VNm0Nxc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HO8P9gxkCyc",
