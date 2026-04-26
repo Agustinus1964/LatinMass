@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-26T02:28:27.966Z",
+  "lastUpdated": "2026-04-26T05:24:41.281Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5LlhgWaFD4A",
-          "title": "Sung Mass - 3rd Sunday after Easter",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/5LlhgWaFD4A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_KaQcRfb7Uc",
           "title": "Amt - 3. Sonntag nach Ostern - 26. April 2026",
@@ -179,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XBACsrELusE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T16:00:00Z"
+        },
+        {
+          "id": "InB7D9FzBjk",
+          "title": "Perpetual Adoration of The Heart",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/InB7D9FzBjk/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T18:00:00Z"
         }
       ]
     }
