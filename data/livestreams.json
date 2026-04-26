@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T12:59:39.143Z",
+  "lastUpdated": "2026-04-26T14:06:20.985Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,44 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/LCaDAYkj6lk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9sdEb-5laaw",
+          "title": "3rd Sunday After Easter - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/9sdEb-5laaw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "RewAi9byGPY",
+          "title": "Third Sunday After Easter",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/RewAi9byGPY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ykLULPU5VHY",
+          "title": "FSSPX Antwerpen - 26/04 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ykLULPU5VHY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "aRpvBTDWv3o",
+          "title": "Third Sunday After Easter",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/aRpvBTDWv3o/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-26T13:50:00Z"
+          "scheduledTime": "2026-04-26T13:30:00Z"
         },
         {
           "id": "SfH-YqB8LCc",
@@ -73,29 +109,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BLWlG5VxwVM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/BLWlG5VxwVM/mqdefault_live.jpg",
+          "id": "6yCsSW8M1fM",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday after Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/6yCsSW8M1fM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "dmDzM4WwvMA",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Third Sunday after Easter. II. April 26, 2026.",
+          "id": "vy69_EPrlP4",
+          "title": "10:30am Sung Mass. Third Sunday after Easter. II. April 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/dmDzM4WwvMA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/vy69_EPrlP4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "GsgzcB9q0nY",
-          "title": "Sunday 8:30 AM Catholic Mass for 04/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/GsgzcB9q0nY/mqdefault_live.jpg",
+          "id": "e3-BookKqRo",
+          "title": "Santa Misa dominical. 26 de abril 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/e3-BookKqRo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,22 +154,13 @@
           "scheduledTime": null
         },
         {
-          "id": "s_Dq43-p8bA",
-          "title": "Missa Cantada III Domingo de Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/s_Dq43-p8bA/mqdefault_live.jpg",
+          "id": "3YeCrglXemg",
+          "title": "3rd Sunday after Easter / 3e dimanche après Pâques",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/3YeCrglXemg/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-26T12:35:02Z"
-        },
-        {
-          "id": "6yCsSW8M1fM",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday after Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/6yCsSW8M1fM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T14:00:00Z"
+          "scheduledTime": "2026-04-26T14:15:00Z"
         },
         {
           "id": "P01r9zax4os",
