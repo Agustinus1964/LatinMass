@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-04-26T07:09:31.629Z",
+  "lastUpdated": "2026-04-26T08:41:48.759Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gMoTp8BtM-w",
+          "title": "FSSPX Antwerpen - 26/04 3° ZONDAG na PASEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/gMoTp8BtM-w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_KaQcRfb7Uc",
           "title": "Amt - 3. Sonntag nach Ostern - 26. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/_KaQcRfb7Uc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6BsTOHr0v3o",
@@ -19,8 +28,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/6BsTOHr0v3o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T08:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MLx6nwnD0qo",
@@ -41,15 +50,6 @@
           "scheduledTime": "2026-04-26T11:20:00Z"
         },
         {
-          "id": "ykLULPU5VHY",
-          "title": "FSSPX Antwerpen - 26/04 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ykLULPU5VHY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T13:15:00Z"
-        },
-        {
           "id": "LCaDAYkj6lk",
           "title": "Solemn High Mass - Third Sunday after Easter - 3/26/26",
           "channel": "SSPX Seminary - USA",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SfH-YqB8LCc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T15:30:00Z"
+        },
+        {
+          "id": "aVr1PxnITRI",
+          "title": "III Sunday after Easter | April 26th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/aVr1PxnITRI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-26T17:00:00Z"
         },
         {
           "id": "YO_0-9fMs74",
@@ -91,22 +100,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1-65VNm0Nxc",
-          "title": "8am — 3rd Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1-65VNm0Nxc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "HO8P9gxkCyc",
           "title": "9:30am — 4th Sunday of Easter",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/HO8P9gxkCyc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BQg5pcyVOpk",
