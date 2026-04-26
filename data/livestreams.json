@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-26T19:26:23.807Z",
+  "lastUpdated": "2026-04-26T20:02:15.990Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SfH-YqB8LCc",
-          "title": "Vesper - 3. Sonntag nach Ostern - 26. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/SfH-YqB8LCc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YO_0-9fMs74",
           "title": "Simple II Vespers -Third Sunday after Easter - 4/26/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cxCfKxX_Hzg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-27T00:45:00Z"
+        },
+        {
+          "id": "SF4Iq6352gE",
+          "title": "Hl. Messe - hl. Petrus Canisius - 27. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/SF4Iq6352gE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T05:15:00Z"
         },
         {
           "id": "CUxCT1vISLs",
@@ -59,6 +59,15 @@
           "scheduledTime": "2026-04-27T15:00:00Z"
         },
         {
+          "id": "5CtPkS7Pvhg",
+          "title": "Rosenkranz und hl. Messe - hl. Petrus Canisius - 27. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/5CtPkS7Pvhg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T16:00:00Z"
+        },
+        {
           "id": "Nt-ffLHpd4c",
           "title": "FSSPX Antwerpen - 27/04 H. PETRUS CANISIUS",
           "channel": "FSSPX Antwerpen",
@@ -72,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9yl2GRXCdhs",
-          "title": "Santa Misa dominical. 26 de abril 2026. 12:30",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/9yl2GRXCdhs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MUgE4iBagLw",
           "title": "Secondes vêpres du IIIème dimanche après Pâques - AMEN, AMEN DICO VOBIS",
