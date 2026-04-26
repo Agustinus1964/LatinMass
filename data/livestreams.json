@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T08:41:48.759Z",
+  "lastUpdated": "2026-04-26T09:51:39.926Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/gMoTp8BtM-w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_KaQcRfb7Uc",
-          "title": "Amt - 3. Sonntag nach Ostern - 26. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/_KaQcRfb7Uc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,11 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HO8P9gxkCyc",
-          "title": "9:30am — 4th Sunday of Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/HO8P9gxkCyc/mqdefault_live.jpg",
+          "id": "eOXXXPdP594",
+          "title": "Sunday 26th April 2026: Third Sunday after Easter",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/eOXXXPdP594/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,17 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/BQg5pcyVOpk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T09:00:00Z"
-        },
-        {
-          "id": "eOXXXPdP594",
-          "title": "Sunday 26th April 2026: Third Sunday after Easter",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/eOXXXPdP594/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GmaCB-f-3Ng",
@@ -188,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/InB7D9FzBjk/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T18:00:00Z"
+        },
+        {
+          "id": "UNHG1zrttaY",
+          "title": "Monday 27th April 2026: Saint Peter Canisius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/UNHG1zrttaY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T09:30:00Z"
         }
       ]
     }
