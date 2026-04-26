@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-26T10:42:14.392Z",
+  "lastUpdated": "2026-04-26T11:36:37.346Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "vX4KWosjkG4",
+          "title": "Low Mass - Third Sunday after Easter - 4/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/vX4KWosjkG4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "MLx6nwnD0qo",
           "title": "3rd Sunday after Easter",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/MLx6nwnD0qo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "vX4KWosjkG4",
-          "title": "Low Mass - Third Sunday after Easter - 4/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vX4KWosjkG4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T11:20:00Z"
         },
         {
           "id": "LCaDAYkj6lk",
@@ -66,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/cxCfKxX_Hzg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-27T00:45:00Z"
+        },
+        {
+          "id": "CUxCT1vISLs",
+          "title": "Low Mass - St. Peter Canisius - 4/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CUxCT1vISLs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T11:15:00Z"
+        },
+        {
+          "id": "OqZB-c2SIDM",
+          "title": "Mon. Apr. 27, 2026    -    St,. Peter Canisius,    Confessor, Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/OqZB-c2SIDM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T11:15:00Z"
         }
       ]
     },
@@ -82,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "GmaCB-f-3Ng",
-          "title": "11am — 4th Sunday of Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GmaCB-f-3Ng/mqdefault_live.jpg",
+          "id": "s5KmDFmbwIw",
+          "title": "Sunday 7 AM Catholic Mass for 04/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/s5KmDFmbwIw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,15 +179,6 @@
           "thumbnail": "https://i.ytimg.com/vi/InB7D9FzBjk/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T18:00:00Z"
-        },
-        {
-          "id": "UNHG1zrttaY",
-          "title": "Monday 27th April 2026: Saint Peter Canisius",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/UNHG1zrttaY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T09:30:00Z"
         }
       ]
     }
