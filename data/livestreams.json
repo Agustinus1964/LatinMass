@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-26T14:06:20.985Z",
+  "lastUpdated": "2026-04-26T15:07:08.906Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,11 +23,20 @@
           "scheduledTime": null
         },
         {
-          "id": "RewAi9byGPY",
-          "title": "Third Sunday After Easter",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/RewAi9byGPY/mqdefault_live.jpg",
+          "id": "_KG7kACOfIQ",
+          "title": "Third Sunday after Easter",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/_KG7kACOfIQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dWXSLfAkXn4",
+          "title": "Sun. Apr. 26, 2026    -    Third Sunday after Easter",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/dWXSLfAkXn4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ykLULPU5VHY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "aRpvBTDWv3o",
-          "title": "Third Sunday After Easter",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/aRpvBTDWv3o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T13:30:00Z"
         },
         {
           "id": "SfH-YqB8LCc",
@@ -102,6 +102,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OqZB-c2SIDM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-27T11:15:00Z"
+        },
+        {
+          "id": "jwRkGenW6ew",
+          "title": "FSSPX Antwerpen - 27/04 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/jwRkGenW6ew/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T15:00:00Z"
         }
       ]
     },
@@ -118,11 +127,38 @@
           "scheduledTime": null
         },
         {
+          "id": "hI3QzhKUyqU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/hI3QzhKUyqU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "vy69_EPrlP4",
           "title": "10:30am Sung Mass. Third Sunday after Easter. II. April 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/vy69_EPrlP4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1FuXRyRpG8U",
+          "title": "Sunday 11 AM Sung Mass 2026-04-26",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/1FuXRyRpG8U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3YeCrglXemg",
+          "title": "3rd Sunday after Easter / 3e dimanche après Pâques",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/3YeCrglXemg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -136,6 +172,15 @@
           "scheduledTime": null
         },
         {
+          "id": "pTFdBDLzdWE",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/pTFdBDLzdWE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "BQg5pcyVOpk",
           "title": "Sainte messe du IIIème dimanche après Pâques - JUBILATE DEO",
           "channel": "Ite Missa Est",
@@ -143,24 +188,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BQg5pcyVOpk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "51W18M9Paw8",
-          "title": "Missa cantada do III Domingo depois da Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/51W18M9Paw8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3YeCrglXemg",
-          "title": "3rd Sunday after Easter / 3e dimanche après Pâques",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/3YeCrglXemg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T14:15:00Z"
         },
         {
           "id": "P01r9zax4os",
