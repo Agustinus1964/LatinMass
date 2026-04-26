@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-26T15:07:08.906Z",
+  "lastUpdated": "2026-04-26T16:04:16.973Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LCaDAYkj6lk",
-          "title": "Solemn High Mass - Third Sunday after Easter - 3/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/LCaDAYkj6lk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9sdEb-5laaw",
-          "title": "3rd Sunday After Easter - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/9sdEb-5laaw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_KG7kACOfIQ",
           "title": "Third Sunday after Easter",
@@ -32,31 +14,13 @@
           "scheduledTime": null
         },
         {
-          "id": "dWXSLfAkXn4",
-          "title": "Sun. Apr. 26, 2026    -    Third Sunday after Easter",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/dWXSLfAkXn4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ykLULPU5VHY",
-          "title": "FSSPX Antwerpen - 26/04 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ykLULPU5VHY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "SfH-YqB8LCc",
           "title": "Vesper - 3. Sonntag nach Ostern - 26. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/SfH-YqB8LCc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aVr1PxnITRI",
@@ -118,15 +82,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6yCsSW8M1fM",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Third Sunday after Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/6yCsSW8M1fM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "hI3QzhKUyqU",
           "title": "Mass",
           "channel": "ICKSP",
@@ -136,11 +91,11 @@
           "scheduledTime": null
         },
         {
-          "id": "vy69_EPrlP4",
-          "title": "10:30am Sung Mass. Third Sunday after Easter. II. April 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vy69_EPrlP4/mqdefault_live.jpg",
+          "id": "P01r9zax4os",
+          "title": "THIRD SUNDAY AFTER EASTER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/P01r9zax4os/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -172,6 +127,24 @@
           "scheduledTime": null
         },
         {
+          "id": "XBACsrELusE",
+          "title": "Vespers and Benediction — 3rd Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/XBACsrELusE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MUgE4iBagLw",
+          "title": "Secondes vêpres du IIIème dimanche après Pâques - AMEN, AMEN DICO VOBIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/MUgE4iBagLw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "pTFdBDLzdWE",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
@@ -181,42 +154,6 @@
           "scheduledTime": null
         },
         {
-          "id": "BQg5pcyVOpk",
-          "title": "Sainte messe du IIIème dimanche après Pâques - JUBILATE DEO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/BQg5pcyVOpk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "P01r9zax4os",
-          "title": "THIRD SUNDAY AFTER EASTER, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/P01r9zax4os/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T15:30:00Z"
-        },
-        {
-          "id": "MUgE4iBagLw",
-          "title": "Secondes vêpres du IIIème dimanche après Pâques - AMEN, AMEN DICO VOBIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/MUgE4iBagLw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T15:45:00Z"
-        },
-        {
-          "id": "XBACsrELusE",
-          "title": "Vespers and Benediction — 3rd Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/XBACsrELusE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-26T16:00:00Z"
-        },
-        {
           "id": "InB7D9FzBjk",
           "title": "Perpetual Adoration of The Heart",
           "channel": "ICKSP",
@@ -224,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/InB7D9FzBjk/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-26T18:00:00Z"
+        },
+        {
+          "id": "jjBAkMqZwWs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter Canisius, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/jjBAkMqZwWs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T11:30:00Z"
         }
       ]
     }
