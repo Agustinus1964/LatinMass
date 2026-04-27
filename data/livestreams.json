@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T22:48:21.706Z",
+  "lastUpdated": "2026-04-27T23:51:00.973Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/7CFaubE-gSM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "19pYaikGCic",
