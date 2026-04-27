@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-27T11:41:42.978Z",
+  "lastUpdated": "2026-04-27T13:45:23.753Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CUxCT1vISLs",
-          "title": "Low Mass - St. Peter Canisius - 4/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/CUxCT1vISLs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OqZB-c2SIDM",
-          "title": "Mon. Apr. 27, 2026    -    St,. Peter Canisius,    Confessor, Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/OqZB-c2SIDM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jwRkGenW6ew",
           "title": "FSSPX Antwerpen - 27/04 Aanbidding met Rozenhoedje",
@@ -68,6 +50,15 @@
           "scheduledTime": "2026-04-28T05:15:00Z"
         },
         {
+          "id": "fV4uf7gkw9Q",
+          "title": "Low Mass - St. Paul of the Cross - 4/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/fV4uf7gkw9Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T11:15:00Z"
+        },
+        {
           "id": "-NU36x_w15k",
           "title": "Tue. Apr. 28, 2026    -    St. Paul of the Cross,   Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -75,21 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/-NU36x_w15k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T11:15:00Z"
+        },
+        {
+          "id": "flbe9a9HCV4",
+          "title": "Understanding The Crisis in the Church - Chapter 2 - Faith",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/flbe9a9HCV4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T11:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jjBAkMqZwWs",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter Canisius, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/jjBAkMqZwWs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "iYy9f87Zcws",
           "title": "Monday",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/s30vw5mkKqw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-27T17:00:00Z"
+        },
+        {
+          "id": "I3u0hzjGQMA",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Paul of the Cross, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/I3u0hzjGQMA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T11:30:00Z"
         }
       ]
     }
