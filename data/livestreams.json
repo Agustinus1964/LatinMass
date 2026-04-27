@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-27T04:05:52.107Z",
+  "lastUpdated": "2026-04-27T07:12:46.460Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SF4Iq6352gE",
-          "title": "Hl. Messe - hl. Petrus Canisius - 27. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/SF4Iq6352gE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T05:15:00Z"
-        },
         {
           "id": "CUxCT1vISLs",
           "title": "Low Mass - St. Peter Canisius - 4/27/26",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-04-27T15:00:00Z"
         },
         {
-          "id": "5CtPkS7Pvhg",
-          "title": "Rosenkranz und hl. Messe - hl. Petrus Canisius - 27. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/5CtPkS7Pvhg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T16:00:00Z"
-        },
-        {
           "id": "Nt-ffLHpd4c",
           "title": "FSSPX Antwerpen - 27/04 H. PETRUS CANISIUS",
           "channel": "FSSPX Antwerpen",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/19pYaikGCic/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T00:45:00Z"
+        },
+        {
+          "id": "71Ahuikc7s0",
+          "title": "Hl. Messe - hl. Paul vom Kreuz - 28. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/71Ahuikc7s0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T05:15:00Z"
         }
       ]
     },
