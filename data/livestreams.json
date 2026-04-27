@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-04-27T20:06:04.736Z",
+  "lastUpdated": "2026-04-27T21:33:02.459Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "yI3XHIlSZAU",
+          "title": "St Peter Mary Chanel  Tue 28 April 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/yI3XHIlSZAU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7CFaubE-gSM",
           "title": "Rosary - 4/27/26",
@@ -91,6 +100,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "NqISA79YyEI",
+          "title": "Divine Office & 6pm Mass. St. Peter Canisius, Doctor. III. Monday, April 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NqISA79YyEI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "s30vw5mkKqw",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -100,13 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "NqISA79YyEI",
-          "title": "Divine Office & 6pm Mass. St. Peter Canisius, Doctor. III. Monday, April 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/NqISA79YyEI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T21:00:00Z"
+          "id": "6T4oPHq73RA",
+          "title": "Terço e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/6T4oPHq73RA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "I3u0hzjGQMA",
