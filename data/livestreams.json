@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-27T15:44:11.088Z",
+  "lastUpdated": "2026-04-27T17:18:45.040Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jwRkGenW6ew",
-          "title": "FSSPX Antwerpen - 27/04 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/jwRkGenW6ew/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Nt-ffLHpd4c",
-          "title": "FSSPX Antwerpen - 27/04 H. PETRUS CANISIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Nt-ffLHpd4c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T16:30:00Z"
-        },
         {
           "id": "7CFaubE-gSM",
           "title": "Rosary - 4/27/26",
@@ -39,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/19pYaikGCic/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T00:45:00Z"
-        },
-        {
-          "id": "71Ahuikc7s0",
-          "title": "Hl. Messe - hl. Paul vom Kreuz - 28. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/71Ahuikc7s0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T05:15:00Z"
         },
         {
           "id": "fV4uf7gkw9Q",
@@ -84,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jnXY3Am3wTI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T15:00:00Z"
+        },
+        {
+          "id": "RmbRvEBVXRE",
+          "title": "Rosenkranz und hl. Messe - hl. Paul vom Kreuz - 28. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/RmbRvEBVXRE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T16:00:00Z"
+        },
+        {
+          "id": "lY8yEHdkMJM",
+          "title": "FSSPX Antwerpen - 28/04 H. PAULUS-van-het-KRUIS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/lY8yEHdkMJM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T16:30:00Z"
         }
       ]
     },
@@ -91,13 +82,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "ZftgEq0ydYg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ZftgEq0ydYg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Tm7LnF8Kvas",
+          "title": "Monday 23rd February 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Tm7LnF8Kvas/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "iYy9f87Zcws",
           "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/iYy9f87Zcws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "s30vw5mkKqw",
@@ -105,8 +114,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/s30vw5mkKqw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NqISA79YyEI",
@@ -125,6 +134,24 @@
           "thumbnail": "https://i.ytimg.com/vi/I3u0hzjGQMA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T11:30:00Z"
+        },
+        {
+          "id": "mrRPyJqf6PM",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/mrRPyJqf6PM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T17:00:00Z"
+        },
+        {
+          "id": "-IEX6z5Mqu0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/-IEX6z5Mqu0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T17:00:00Z"
         }
       ]
     }
