@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T07:12:46.460Z",
+  "lastUpdated": "2026-04-27T09:36:11.666Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DLrluCuLbnM",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/DLrluCuLbnM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "jjBAkMqZwWs",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter Canisius, Confessor and Doctor)",
