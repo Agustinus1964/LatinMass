@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-27T00:03:04.937Z",
+  "lastUpdated": "2026-04-27T04:05:52.107Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cxCfKxX_Hzg",
-          "title": "Compline - 4/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/cxCfKxX_Hzg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T00:45:00Z"
-        },
         {
           "id": "SF4Iq6352gE",
           "title": "Hl. Messe - hl. Petrus Canisius - 27. April 2026",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7CFaubE-gSM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-27T23:00:00Z"
+        },
+        {
+          "id": "19pYaikGCic",
+          "title": "Compline - 4/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/19pYaikGCic/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T00:45:00Z"
         }
       ]
     },
