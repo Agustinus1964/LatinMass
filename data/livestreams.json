@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T13:45:23.753Z",
+  "lastUpdated": "2026-04-27T15:44:11.088Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/jwRkGenW6ew/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-27T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nt-ffLHpd4c",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/flbe9a9HCV4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T11:45:00Z"
+        },
+        {
+          "id": "jnXY3Am3wTI",
+          "title": "FSSPX Antwerpen - 28/04 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/jnXY3Am3wTI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T15:00:00Z"
         }
       ]
     },
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/s30vw5mkKqw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-27T17:00:00Z"
+        },
+        {
+          "id": "NqISA79YyEI",
+          "title": "Divine Office & 6pm Mass. St. Peter Canisius, Doctor. III. Monday, April 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NqISA79YyEI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-27T21:00:00Z"
         },
         {
           "id": "I3u0hzjGQMA",
