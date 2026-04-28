@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-27T23:51:00.973Z",
+  "lastUpdated": "2026-04-28T02:38:14.240Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7CFaubE-gSM",
-          "title": "Rosary - 4/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7CFaubE-gSM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "19pYaikGCic",
-          "title": "Compline - 4/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/19pYaikGCic/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T00:45:00Z"
-        },
         {
           "id": "pTI7vPgqXSo",
           "title": "Saint Paul of the Cross, confessor",
@@ -84,21 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/lY8yEHdkMJM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T16:30:00Z"
+        },
+        {
+          "id": "wVBtfXhjtrU",
+          "title": "Rosary - 4/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/wVBtfXhjtrU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-28T23:00:00Z"
+        },
+        {
+          "id": "-soZPfz6BfQ",
+          "title": "Compline - 4/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-soZPfz6BfQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-29T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "s30vw5mkKqw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/s30vw5mkKqw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "I3u0hzjGQMA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Paul of the Cross, Confessor)",
