@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-28T17:10:18.362Z",
+  "lastUpdated": "2026-04-28T19:04:54.934Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lY8yEHdkMJM",
-          "title": "FSSPX Antwerpen - 28/04 H. PAULUS-van-het-KRUIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/lY8yEHdkMJM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RmbRvEBVXRE",
-          "title": "Rosenkranz und hl. Messe - hl. Paul vom Kreuz - 28. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/RmbRvEBVXRE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wVBtfXhjtrU",
           "title": "Rosary - 4/28/26",
@@ -81,33 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QxSNwlrVdB8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/QxSNwlrVdB8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fNF6r17aPvY",
-          "title": "Tuesday 28th April 2026: Saint Paul of the Cross",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/fNF6r17aPvY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mrRPyJqf6PM",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/mrRPyJqf6PM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-IEX6z5Mqu0",
           "title": "Sainte messe en semaine",
