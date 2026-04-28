@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-28T12:22:11.267Z",
+  "lastUpdated": "2026-04-28T15:09:18.436Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "flbe9a9HCV4",
-          "title": "Understanding The Crisis in the Church - Chapter 2 - Faith",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/flbe9a9HCV4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jnXY3Am3wTI",
           "title": "FSSPX Antwerpen - 28/04 Aanbidding met Rozenhoedje",
@@ -69,7 +60,7 @@
         },
         {
           "id": "6Xya9ky9tK8",
-          "title": "Low Mass - St. Peter - 4/29/26",
+          "title": "Low Mass - St. Peter of Verona - 4/29/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/6Xya9ky9tK8/mqdefault_live.jpg",
@@ -90,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "c6XAvGCw4eA",
-          "title": "Tuesday 8 AM Catholic Mass for 04/28/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/c6XAvGCw4eA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "mrRPyJqf6PM",
           "title": "Tuesday",
