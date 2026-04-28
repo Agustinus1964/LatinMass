@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-28T05:56:22.867Z",
+  "lastUpdated": "2026-04-28T08:25:01.330Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "71Ahuikc7s0",
-          "title": "Hl. Messe - hl. Paul vom Kreuz - 28. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/71Ahuikc7s0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pTI7vPgqXSo",
-          "title": "Saint Paul of the Cross, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/pTI7vPgqXSo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T06:15:00Z"
-        },
         {
           "id": "fV4uf7gkw9Q",
           "title": "Low Mass - St. Paul of the Cross - 4/28/26",
