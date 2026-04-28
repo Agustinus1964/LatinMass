@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-04-28T10:30:44.264Z",
+  "lastUpdated": "2026-04-28T12:22:11.267Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fV4uf7gkw9Q",
-          "title": "Low Mass - St. Paul of the Cross - 4/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/fV4uf7gkw9Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T11:15:00Z"
-        },
-        {
-          "id": "-NU36x_w15k",
-          "title": "Tue. Apr. 28, 2026    -    St. Paul of the Cross,   Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/-NU36x_w15k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T11:15:00Z"
-        },
         {
           "id": "flbe9a9HCV4",
           "title": "Understanding The Crisis in the Church - Chapter 2 - Faith",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/flbe9a9HCV4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T11:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jnXY3Am3wTI",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/5Y9r02imk0I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-29T05:30:00Z"
+        },
+        {
+          "id": "6Xya9ky9tK8",
+          "title": "Low Mass - St. Peter - 4/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6Xya9ky9tK8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-29T11:15:00Z"
+        },
+        {
+          "id": "yQneGDev25I",
+          "title": "Wed. Apr. 29, 2026    -    St. Peter Martyr,     Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/yQneGDev25I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-29T11:15:00Z"
         }
       ]
     },
@@ -91,31 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "et9dUPwi-w8",
-          "title": "7am Mass & Divine Office. St. Paul of the Cross, Confessor.  III. Tuesday, April 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/et9dUPwi-w8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XmR_uZEM5_A",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 04/28/2026",
+          "id": "c6XAvGCw4eA",
+          "title": "Tuesday 8 AM Catholic Mass for 04/28/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/XmR_uZEM5_A/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/c6XAvGCw4eA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "I3u0hzjGQMA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Paul of the Cross, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/I3u0hzjGQMA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-28T11:30:00Z"
         },
         {
           "id": "mrRPyJqf6PM",
@@ -134,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-IEX6z5Mqu0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-28T17:00:00Z"
+        },
+        {
+          "id": "7bGZ1Zv5g4A",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter of Verona, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7bGZ1Zv5g4A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-29T11:30:00Z"
         }
       ]
     }
