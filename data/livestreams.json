@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-28T08:25:01.330Z",
+  "lastUpdated": "2026-04-28T10:30:44.264Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -90,6 +90,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "et9dUPwi-w8",
+          "title": "7am Mass & Divine Office. St. Paul of the Cross, Confessor.  III. Tuesday, April 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/et9dUPwi-w8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XmR_uZEM5_A",
+          "title": "Tuesday 6 AM Traditional Catholic Mass 04/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/XmR_uZEM5_A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "I3u0hzjGQMA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Paul of the Cross, Confessor)",
