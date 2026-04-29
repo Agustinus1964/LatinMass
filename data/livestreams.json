@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T11:58:34.237Z",
+  "lastUpdated": "2026-04-29T14:13:06.302Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": "2026-04-30T05:15:00Z"
         },
         {
+          "id": "Obei0_ANGxk",
+          "title": "Sung Mass - Requiem - 4/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Obei0_ANGxk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T11:00:00Z"
+        },
+        {
           "id": "G5-3urSMSGU",
           "title": "Thu. Apr. 30, 2026    -    St. Catherine of Siena,   Virgin",
           "channel": "Transfiguration Church SSPX",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/G5-3urSMSGU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T11:15:00Z"
+        },
+        {
+          "id": "USUngIW0AqU",
+          "title": "FSSPX Antwerpen - 30/04 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/USUngIW0AqU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T13:30:00Z"
         }
       ]
     },
@@ -46,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7bGZ1Zv5g4A",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter of Verona, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/7bGZ1Zv5g4A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JwcrV8Wf3BU",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 04/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/JwcrV8Wf3BU/mqdefault_live.jpg",
+          "id": "nOkanx7bwwQ",
+          "title": "Santo Sacrificio de la Misa, San Pedro, Mártir, 29 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/nOkanx7bwwQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/T7op6EyeBns/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T07:00:00Z"
+        },
+        {
+          "id": "wZxpUvYxFA4",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Siena)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/wZxpUvYxFA4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T11:30:00Z"
         }
       ]
     }
