@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T14:13:06.302Z",
+  "lastUpdated": "2026-04-29T16:11:18.943Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/USUngIW0AqU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T13:30:00Z"
+        },
+        {
+          "id": "ePyLf8PiI8Q",
+          "title": "Vesper, Sakramentsandacht und hl. Messe - hl. Katharina von Siena - 30. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ePyLf8PiI8Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nOkanx7bwwQ",
-          "title": "Santo Sacrificio de la Misa, San Pedro, Mártir, 29 de abril, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/nOkanx7bwwQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "qqWSvxuGzNw",
           "title": "Wednesday 29th April 2026: Saint Peter in Verona",
