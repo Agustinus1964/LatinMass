@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T20:38:54.567Z",
+  "lastUpdated": "2026-04-29T21:56:22.608Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,6 +91,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "sS1jxLmgP4o",
+          "title": "6pm Mass. St. Peter, Martyr. III. Wednesday, April 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/sS1jxLmgP4o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "zTSZDfz3E-k",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -100,13 +109,31 @@
           "scheduledTime": null
         },
         {
+          "id": "gbHzs2DWwBU",
+          "title": "Terço e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/gbHzs2DWwBU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "F2rVkNU1kOM",
-          "title": "La Hermosura de la Misa Tradicional. P. Daniel Heenan.",
+          "title": "La hermosura de la Misa Tradicional. P. Daniel Heenan.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/F2rVkNU1kOM/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T02:30:00Z"
+        },
+        {
+          "id": "DmNb-vpSu2M",
+          "title": "Cristología: La Resurrección de Jesús. Apologética contra algunos errores. P Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/DmNb-vpSu2M/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T03:00:00Z"
         },
         {
           "id": "T7op6EyeBns",
