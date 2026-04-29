@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-29T22:56:44.912Z",
+  "lastUpdated": "2026-04-29T23:55:05.798Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cE38Mj9vaj0",
-          "title": "Rosary - 4/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/cE38Mj9vaj0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "711053A5Cmc",
           "title": "Compline - 4/29/26",
@@ -84,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/C49nGv553Qo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T16:30:00Z"
+        },
+        {
+          "id": "4UgZHZWCwfc",
+          "title": "Solemn I Vespers - St. Joseph the Worker - 4/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/4UgZHZWCwfc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T21:15:00Z"
         }
       ]
     },
