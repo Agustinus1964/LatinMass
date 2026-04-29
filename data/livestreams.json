@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T19:21:14.193Z",
+  "lastUpdated": "2026-04-29T20:38:54.567Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mnOW0tYQe8c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T05:15:00Z"
+        },
+        {
+          "id": "uBHuSijL900",
+          "title": "Saint Catherine of Siena, virgin",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/uBHuSijL900/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T07:15:00Z"
         },
         {
           "id": "Obei0_ANGxk",
