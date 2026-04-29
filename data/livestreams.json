@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-28T23:52:49.568Z",
+  "lastUpdated": "2026-04-29T02:38:20.422Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-soZPfz6BfQ",
-          "title": "Compline - 4/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-soZPfz6BfQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-29T00:45:00Z"
-        },
         {
           "id": "5Y9r02imk0I",
           "title": "FSSPX Antwerpen - 29/04 H. PETRUS van VERONA",
@@ -66,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/cE38Mj9vaj0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-29T23:00:00Z"
+        },
+        {
+          "id": "711053A5Cmc",
+          "title": "Compline - 4/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/711053A5Cmc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-IEX6z5Mqu0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/-IEX6z5Mqu0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7bGZ1Zv5g4A",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter of Verona, Martyr)",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zTSZDfz3E-k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-29T17:00:00Z"
+        },
+        {
+          "id": "F2rVkNU1kOM",
+          "title": "La Hermosura de la Misa Tradicional. P. Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/F2rVkNU1kOM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T02:30:00Z"
         }
       ]
     }
