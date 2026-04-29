@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-04-29T05:51:37.319Z",
+  "lastUpdated": "2026-04-29T08:10:56.748Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5Y9r02imk0I",
-          "title": "FSSPX Antwerpen - 29/04 H. PETRUS van VERONA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/5Y9r02imk0I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DSYhcrRblog",
-          "title": "Hl. Messe - hl. Petrus von Verona - 29. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/DSYhcrRblog/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IbqZL1MVuZk",
-          "title": "Saint Peter, martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/IbqZL1MVuZk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-29T06:15:00Z"
-        },
         {
           "id": "6Xya9ky9tK8",
           "title": "Low Mass - St. Peter of Verona - 4/29/26",
@@ -125,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/F2rVkNU1kOM/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T02:30:00Z"
+        },
+        {
+          "id": "T7op6EyeBns",
+          "title": "Thursday 30th April 2026: Saint Catherine of Sienna",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/T7op6EyeBns/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-04-30T07:00:00Z"
         }
       ]
     }
