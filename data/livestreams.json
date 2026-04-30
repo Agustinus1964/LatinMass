@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T22:51:07.541Z",
+  "lastUpdated": "2026-04-30T23:50:20.257Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "ViNADW3AoXw",
-          "title": "Terço, Missa e adoração",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ViNADW3AoXw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Om62EaEwlWI",
           "title": "Friday 1st May 2026: First Friday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tYWvtNg4xLw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T22:30:00Z"
+        },
+        {
+          "id": "2ZY2L64Ffro",
+          "title": "SAINT JOSEPH THE WORKMAN, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/2ZY2L64Ffro/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T23:00:00Z"
         }
       ]
     }
