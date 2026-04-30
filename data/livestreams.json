@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-04-29T23:55:05.798Z",
+  "lastUpdated": "2026-04-30T02:39:21.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "711053A5Cmc",
-          "title": "Compline - 4/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/711053A5Cmc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T00:45:00Z"
-        },
         {
           "id": "mnOW0tYQe8c",
           "title": "Hl. Messe - hl. Katharina von Siena - 30. April 2026",
@@ -84,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4UgZHZWCwfc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T21:15:00Z"
+        },
+        {
+          "id": "FQYlVQaOjv4",
+          "title": "Compline - 4/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/FQYlVQaOjv4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T00:45:00Z"
         }
       ]
     },
@@ -91,22 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "zTSZDfz3E-k",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zTSZDfz3E-k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "F2rVkNU1kOM",
           "title": "La hermosura de la Misa Tradicional. P. Daniel Heenan.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/F2rVkNU1kOM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T02:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DmNb-vpSu2M",
