@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-04-30T02:39:21.628Z",
+  "lastUpdated": "2026-04-30T05:55:35.469Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "mnOW0tYQe8c",
-          "title": "Hl. Messe - hl. Katharina von Siena - 30. April 2026",
+          "id": "UjVagW-MbFg",
+          "title": "Rosenkranz und hl. Messe - hl. Petrus von Verona - 29. April 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/mnOW0tYQe8c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T05:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/UjVagW-MbFg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "uBHuSijL900",
@@ -20,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/uBHuSijL900/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-30T07:15:00Z"
+          "scheduledTime": "2026-04-30T06:15:00Z"
         },
         {
           "id": "Obei0_ANGxk",
@@ -84,30 +84,21 @@
           "thumbnail": "https://i.ytimg.com/vi/FQYlVQaOjv4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T00:45:00Z"
+        },
+        {
+          "id": "hlakyUq4LIg",
+          "title": "Hl. Messe - hl. Joseph der Arbeiter - 01. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/hlakyUq4LIg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "F2rVkNU1kOM",
-          "title": "La hermosura de la Misa Tradicional. P. Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/F2rVkNU1kOM/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DmNb-vpSu2M",
-          "title": "Cristología: La Resurrección de Jesús. Apologética contra algunos errores. P Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/DmNb-vpSu2M/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T03:00:00Z"
-        },
         {
           "id": "T7op6EyeBns",
           "title": "Thursday 30th April 2026: Saint Catherine of Sienna",
