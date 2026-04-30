@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T11:57:43.748Z",
+  "lastUpdated": "2026-04-30T14:05:25.271Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/USUngIW0AqU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "C49nGv553Qo",
@@ -91,20 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "wZxpUvYxFA4",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Siena)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/wZxpUvYxFA4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oLJUVJQAJLQ",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 04/30/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/oLJUVJQAJLQ/mqdefault_live.jpg",
+          "id": "0Hw177SL7WQ",
+          "title": "Santo Sacrificio de la Misa, Santa Catalina de Siena, Virgen, 30 de abril, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/0Hw177SL7WQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
