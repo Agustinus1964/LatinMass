@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T14:05:25.271Z",
+  "lastUpdated": "2026-04-30T15:58:49.957Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/USUngIW0AqU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ePyLf8PiI8Q",
+          "title": "Vesper, Sakramentsandacht und hl. Messe - hl. Katharina von Siena - 30. April 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ePyLf8PiI8Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/FQYlVQaOjv4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T00:45:00Z"
-        },
-        {
-          "id": "hlakyUq4LIg",
-          "title": "Hl. Messe - hl. Joseph der Arbeiter - 01. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/hlakyUq4LIg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-01T05:15:00Z"
         },
         {
           "id": "jg04R1trQ8I",
@@ -90,15 +90,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0Hw177SL7WQ",
-          "title": "Santo Sacrificio de la Misa, Santa Catalina de Siena, Virgen, 30 de abril, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/0Hw177SL7WQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YuJ4HiODSzE",
           "title": "Thursday",
