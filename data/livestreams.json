@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-30T10:23:37.867Z",
+  "lastUpdated": "2026-04-30T11:57:43.748Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Obei0_ANGxk",
-          "title": "Sung Mass - Requiem - 4/30/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Obei0_ANGxk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T11:00:00Z"
-        },
-        {
-          "id": "G5-3urSMSGU",
-          "title": "Thu. Apr. 30, 2026    -    St. Catherine of Siena,   Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/G5-3urSMSGU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T11:15:00Z"
-        },
         {
           "id": "USUngIW0AqU",
           "title": "FSSPX Antwerpen - 30/04 Priester-Uur-Gebed",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ePzK13iXu8M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T07:00:00Z"
+        },
+        {
+          "id": "pzxWZDQqIOI",
+          "title": "Solemn High Mass - St. Joseph the Worker - 5/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/pzxWZDQqIOI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T10:45:00Z"
+        },
+        {
+          "id": "CUTsRajdlFU",
+          "title": "Fri. May 1, 2026    -    St. Joseph the Worker,     (First Friday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/CUTsRajdlFU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T11:15:00Z"
         }
       ]
     },
@@ -91,22 +91,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "hLFdUy20mlc",
-          "title": "Thursday 6 AM Traditional Catholic Mass 04/30/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/hLFdUy20mlc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "wZxpUvYxFA4",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Siena)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/wZxpUvYxFA4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oLJUVJQAJLQ",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 04/30/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/oLJUVJQAJLQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YuJ4HiODSzE",
