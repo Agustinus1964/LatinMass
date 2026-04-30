@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T15:58:49.957Z",
+  "lastUpdated": "2026-04-30T17:26:37.121Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,24 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/USUngIW0AqU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ePyLf8PiI8Q",
-          "title": "Vesper, Sakramentsandacht und hl. Messe - hl. Katharina von Siena - 30. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ePyLf8PiI8Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "C49nGv553Qo",
-          "title": "FSSPX Antwerpen - 30/04  H. CATHARINA van SIËNA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/C49nGv553Qo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T16:30:00Z"
         },
         {
           "id": "4UgZHZWCwfc",
@@ -84,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CUTsRajdlFU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T11:15:00Z"
+        },
+        {
+          "id": "9Y6KA1TfalA",
+          "title": "Vesper, Sakramentsandacht und hl. Messe - hl. Joseph der Arbeiter - 01. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9Y6KA1TfalA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T16:00:00Z"
         }
       ]
     },
@@ -91,13 +82,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Ee5o3Qijaf0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Ee5o3Qijaf0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "YuJ4HiODSzE",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/YuJ4HiODSzE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gDxHKLw8pps",
@@ -105,8 +105,35 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/gDxHKLw8pps/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Om62EaEwlWI",
+          "title": "Friday 1st May 2026: First Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Om62EaEwlWI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-04-30T17:00:00Z"
+          "scheduledTime": "2026-05-01T17:00:00Z"
+        },
+        {
+          "id": "EbfG3FiBYyM",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/EbfG3FiBYyM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T17:00:00Z"
+        },
+        {
+          "id": "rwZxNRD5Zq8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/rwZxNRD5Zq8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T17:00:00Z"
         }
       ]
     }
