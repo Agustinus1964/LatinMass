@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-04-30T05:55:35.469Z",
+  "lastUpdated": "2026-04-30T08:19:15.443Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UjVagW-MbFg",
-          "title": "Rosenkranz und hl. Messe - hl. Petrus von Verona - 29. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UjVagW-MbFg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uBHuSijL900",
-          "title": "Saint Catherine of Siena, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/uBHuSijL900/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T06:15:00Z"
-        },
         {
           "id": "Obei0_ANGxk",
           "title": "Sung Mass - Requiem - 4/30/26",
@@ -48,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/USUngIW0AqU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-04-30T13:30:00Z"
-        },
-        {
-          "id": "ePyLf8PiI8Q",
-          "title": "Vesper, Sakramentsandacht und hl. Messe - hl. Katharina von Siena - 30. April 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ePyLf8PiI8Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T15:00:00Z"
         },
         {
           "id": "C49nGv553Qo",
@@ -93,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/hlakyUq4LIg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T05:15:00Z"
+        },
+        {
+          "id": "jg04R1trQ8I",
+          "title": "FSSPX Antwerpen - 01/05 H. Uur met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/jg04R1trQ8I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T06:00:00Z"
+        },
+        {
+          "id": "ePzK13iXu8M",
+          "title": "FSSPX Antwerpen - 01/05 FEEST v/d H. JOZEF",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ePzK13iXu8M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T07:00:00Z"
         }
       ]
     },
@@ -105,8 +96,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/T7op6EyeBns/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-04-30T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wZxpUvYxFA4",
