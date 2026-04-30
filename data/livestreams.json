@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-30T18:52:02.486Z",
+  "lastUpdated": "2026-04-30T20:07:17.338Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ePzK13iXu8M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T07:00:00Z"
+        },
+        {
+          "id": "o6kUFbF8u6U",
+          "title": "Saint Joseph the Worker, spouse of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/o6kUFbF8u6U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-01T07:30:00Z"
         },
         {
           "id": "pzxWZDQqIOI",
