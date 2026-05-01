@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-01T11:37:12.327Z",
+  "lastUpdated": "2026-05-01T13:13:09.825Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pzxWZDQqIOI",
-          "title": "Solemn High Mass - St. Joseph the Worker - 5/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/pzxWZDQqIOI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "CUTsRajdlFU",
-          "title": "Fri. May 1, 2026    -    St. Joseph the Worker,     (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/CUTsRajdlFU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FKsPNmQWIQg",
           "title": "Solemn II Vespers - St. Joseph the Worker - 5/1/26",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZQZZ5utwaQk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-02T08:00:00Z"
+        },
+        {
+          "id": "WWTp4yGuhBI",
+          "title": "Sat. May 2, 2026    -   St. Athanasius,  Bishop, Confessor, Doctor of the Church,   (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/WWTp4yGuhBI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-02T13:00:00Z"
         }
       ]
     },
