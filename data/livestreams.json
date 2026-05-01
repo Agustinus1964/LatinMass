@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-01T08:28:20.313Z",
+  "lastUpdated": "2026-05-01T10:06:21.835Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jg04R1trQ8I",
-          "title": "FSSPX Antwerpen - 01/05 H. Uur met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/jg04R1trQ8I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CUTsRajdlFU",
           "title": "Fri. May 1, 2026    -    St. Joseph the Worker,     (First Friday)",
@@ -73,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "AcjWdYoEM_s",
+          "title": "Missa rezada, São José artesão",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/AcjWdYoEM_s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Om62EaEwlWI",
           "title": "Friday 1st May 2026: First Friday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/5YL0iq2_NDI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-02T07:30:00Z"
+        },
+        {
+          "id": "1Fm4w61hzfw",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1Fm4w61hzfw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-02T09:00:00Z"
+        },
+        {
+          "id": "wSNqUKjylYc",
+          "title": "Saturday 2nd May 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/wSNqUKjylYc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-02T09:30:00Z"
         }
       ]
     }
