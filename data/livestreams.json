@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-01T20:26:44.304Z",
+  "lastUpdated": "2026-05-01T21:25:02.573Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9esE0EjGuXo",
+          "title": "Rosary and Benediction - Saturday 2nd May 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/9esE0EjGuXo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "FKsPNmQWIQg",
           "title": "Solemn II Vespers - St. Joseph the Worker - 5/1/26",
@@ -64,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rwZxNRD5Zq8",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/rwZxNRD5Zq8/mqdefault_live.jpg",
+          "id": "mx9G3a63XWo",
+          "title": "Divine Office, First Friday (sung) Mass, Holy Hour. St. Joseph the Worker. I. Friday, May 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/mx9G3a63XWo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
