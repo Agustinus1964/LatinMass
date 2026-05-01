@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-05-01T10:06:21.835Z",
+  "lastUpdated": "2026-05-01T11:37:12.327Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pzxWZDQqIOI",
+          "title": "Solemn High Mass - St. Joseph the Worker - 5/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/pzxWZDQqIOI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "CUTsRajdlFU",
           "title": "Fri. May 1, 2026    -    St. Joseph the Worker,     (First Friday)",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/CUTsRajdlFU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-01T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FKsPNmQWIQg",
@@ -63,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AcjWdYoEM_s",
-          "title": "Missa rezada, São José artesão",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/AcjWdYoEM_s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Om62EaEwlWI",
           "title": "Friday 1st May 2026: First Friday",
