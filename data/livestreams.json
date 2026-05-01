@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-01T19:15:02.174Z",
+  "lastUpdated": "2026-05-01T20:26:44.304Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9F9z1ja4jhY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-02T06:15:00Z"
+        },
+        {
+          "id": "_pIpXs9dGCg",
+          "title": "Saint Athanasius, bishop, confessor and doctor of the Ch",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/_pIpXs9dGCg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-02T07:30:00Z"
         },
         {
           "id": "ZQZZ5utwaQk",
