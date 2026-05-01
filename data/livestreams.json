@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-01T02:45:36.964Z",
+  "lastUpdated": "2026-05-01T06:13:29.611Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "6hz5V6Dtuzs",
-          "title": "Sung Mass - Feast of St Joseph, The Worker",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/6hz5V6Dtuzs/mqdefault_live.jpg",
+          "id": "o6kUFbF8u6U",
+          "title": "Saint Joseph the Worker, spouse of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/o6kUFbF8u6U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -32,15 +32,6 @@
           "scheduledTime": "2026-05-01T07:00:00Z"
         },
         {
-          "id": "o6kUFbF8u6U",
-          "title": "Saint Joseph the Worker, spouse of the Blessed Virgin Mary",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/o6kUFbF8u6U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-01T07:30:00Z"
-        },
-        {
           "id": "CUTsRajdlFU",
           "title": "Fri. May 1, 2026    -    St. Joseph the Worker,     (First Friday)",
           "channel": "Transfiguration Church SSPX",
@@ -48,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/CUTsRajdlFU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-01T11:15:00Z"
-        },
-        {
-          "id": "9Y6KA1TfalA",
-          "title": "Vesper, Sakramentsandacht und hl. Messe - hl. Joseph der Arbeiter - 01. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9Y6KA1TfalA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-01T16:00:00Z"
         },
         {
           "id": "FKsPNmQWIQg",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0_o2vRsaIJs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-02T00:45:00Z"
+        },
+        {
+          "id": "eMA9nShjXBE",
+          "title": "Hl. Messe - hl. Wiborada - 02. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/eMA9nShjXBE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-02T05:15:00Z"
         }
       ]
     },
