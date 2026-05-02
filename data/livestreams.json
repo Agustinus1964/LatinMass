@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-01T23:24:54.787Z",
+  "lastUpdated": "2026-05-02T00:11:35.853Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FKsPNmQWIQg",
-          "title": "Solemn II Vespers - St. Joseph the Worker - 5/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/FKsPNmQWIQg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0_o2vRsaIJs",
           "title": "Compline - 5/1/26",
@@ -64,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mx9G3a63XWo",
-          "title": "Divine Office, First Friday (sung) Mass, Holy Hour. St. Joseph the Worker. I. Friday, May 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/mx9G3a63XWo/mqdefault_live.jpg",
+          "id": "Qkn3puSzPio",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Qkn3puSzPio/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -91,22 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Qkn3puSzPio",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Qkn3puSzPio/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-01T23:28:00Z"
-        },
-        {
           "id": "fmlkDYIgG6I",
           "title": "Feast of St. Joseph the Worker / Fête de saint Joseph, Artisan",
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/fmlkDYIgG6I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-01T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5YL0iq2_NDI",
