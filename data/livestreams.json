@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-02T06:10:34.596Z",
+  "lastUpdated": "2026-05-02T08:05:47.302Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9F9z1ja4jhY",
-          "title": "FSSPX Antwerpen - 02/05 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9F9z1ja4jhY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-02T06:15:00Z"
-        },
         {
           "id": "_pIpXs9dGCg",
           "title": "Saint Athanasius, bishop, confessor and doctor of the Ch",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/_pIpXs9dGCg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-02T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZQZZ5utwaQk",
@@ -28,8 +19,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/ZQZZ5utwaQk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-02T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "shM7tBLoPtw",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/shM7tBLoPtw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-02T17:00:00Z"
+        },
+        {
+          "id": "gUEJ1FsOCk0",
+          "title": "FSSPX Antwerpen - 03/05 4° ZONDAG na PASEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/gUEJ1FsOCk0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T08:00:00Z"
         }
       ]
     },
@@ -51,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/5YL0iq2_NDI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-02T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1Fm4w61hzfw",
