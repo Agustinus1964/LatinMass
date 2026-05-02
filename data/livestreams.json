@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-02T00:11:35.853Z",
+  "lastUpdated": "2026-05-02T03:58:05.021Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0_o2vRsaIJs",
-          "title": "Compline - 5/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/0_o2vRsaIJs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-02T00:45:00Z"
-        },
         {
           "id": "9F9z1ja4jhY",
           "title": "FSSPX Antwerpen - 02/05 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
@@ -54,42 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Qkn3puSzPio",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Qkn3puSzPio/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2ZY2L64Ffro",
-          "title": "SAINT JOSEPH THE WORKMAN, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/2ZY2L64Ffro/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7LksxivZu3Y",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 05/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7LksxivZu3Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fmlkDYIgG6I",
-          "title": "Feast of St. Joseph the Worker / Fête de saint Joseph, Artisan",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/fmlkDYIgG6I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5YL0iq2_NDI",
           "title": "Sainte messe en semaine",
