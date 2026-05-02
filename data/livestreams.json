@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-05-02T10:47:35.052Z",
+  "lastUpdated": "2026-05-02T11:41:46.759Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "VEZsrHya_Eo",
+          "title": "Sung Mass - First Saturday - 5/2/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/VEZsrHya_Eo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_pIpXs9dGCg",
           "title": "Saint Athanasius, bishop, confessor and doctor of the Ch",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/_pIpXs9dGCg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9F9z1ja4jhY",
+          "title": "FSSPX Antwerpen - 02/05 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9F9z1ja4jhY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -36,6 +54,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZBmCd6w2X5s",
+          "title": "7:30am Mass, Rosary, 9am Mass. First Saturday. St. Athanasius. III. Immaculate Heart of Mary. 5-2-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ZBmCd6w2X5s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rHGGWnLAGSU",
+          "title": "Saturday 7 AM Catholic Mass for 05/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/rHGGWnLAGSU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pdHhQ7FnyJw",
           "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
