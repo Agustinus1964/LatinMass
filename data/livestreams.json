@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T16:08:07.075Z",
+  "lastUpdated": "2026-05-02T17:12:42.698Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/shM7tBLoPtw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-02T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gUEJ1FsOCk0",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7Y-PE4kcK3U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T15:00:00Z"
+        },
+        {
+          "id": "uKPnmIfHWy4",
+          "title": "IV Sunday after Easter | May 3rd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/uKPnmIfHWy4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T17:00:00Z"
         }
       ]
     },
