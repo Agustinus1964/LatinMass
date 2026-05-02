@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T09:39:31.685Z",
+  "lastUpdated": "2026-05-02T10:47:35.052Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/_pIpXs9dGCg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZQZZ5utwaQk",
-          "title": "FSSPX Antwerpen - 02/05 H. ATHANASIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZQZZ5utwaQk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -45,33 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wSNqUKjylYc",
-          "title": "Saturday 2nd May 2026: First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/wSNqUKjylYc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5YL0iq2_NDI",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5YL0iq2_NDI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fimeFtcfxoo",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fimeFtcfxoo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pdHhQ7FnyJw",
           "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
@@ -107,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YEDsMQTPmm4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T09:30:00Z"
+        },
+        {
+          "id": "8eHfSpzPU4o",
+          "title": "11am — 5th Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/8eHfSpzPU4o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T10:00:00Z"
         }
       ]
     }
