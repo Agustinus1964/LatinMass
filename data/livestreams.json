@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T15:11:57.170Z",
+  "lastUpdated": "2026-05-02T16:08:07.075Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bIpYP6Kx1No",
-          "title": "Confirmations 2026",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/bIpYP6Kx1No/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BhsKgrb-3U4",
           "title": "8am — 4th Sunday after Easter",
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/rWuf1i4n0jw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T14:45:00Z"
+        },
+        {
+          "id": "OE-bGThjc94",
+          "title": "FOURTH SUNDAY AFTER EASTER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/OE-bGThjc94/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T15:30:00Z"
+        },
+        {
+          "id": "wSmuhEYfKAc",
+          "title": "Vespers and Benediction — 4th Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wSmuhEYfKAc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T16:00:00Z"
         }
       ]
     }
