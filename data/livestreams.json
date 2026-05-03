@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-03T16:06:38.761Z",
+  "lastUpdated": "2026-05-03T17:13:39.745Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dtLczDPXF7k",
-          "title": "Fourth Sunday after Easter",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/dtLczDPXF7k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7Y-PE4kcK3U",
-          "title": "Vesper und Maiandacht - 4. Sonntag nach Ostern - 03. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7Y-PE4kcK3U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uKPnmIfHWy4",
           "title": "IV Sunday after Easter | May 3rd",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/uKPnmIfHWy4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZcaK4L1O1_A",
@@ -48,30 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/L9Op9Hw0iUw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-04T15:00:00Z"
+        },
+        {
+          "id": "3mReqXbhJP0",
+          "title": "FSSPX Antwerpen - 04/05 H. MONICA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/3mReqXbhJP0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uKkcX80Qpc8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/uKkcX80Qpc8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OE-bGThjc94",
-          "title": "FOURTH SUNDAY AFTER EASTER, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/OE-bGThjc94/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6GNwlWr5sws",
           "title": "Sunday 11 AM Sung Mass 2026-05-03",
@@ -87,24 +60,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/R2_O-b2gsjg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yKkdplrvg8k",
-          "title": "Vespers and Benediction — 4th Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/yKkdplrvg8k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nOSURiCsb_E",
-          "title": "Secondes vêpres de la fête de l'Invention de la Croix - AMEN, AMEN DICO VOBIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/nOSURiCsb_E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/IINLWopNcck/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-04T11:30:00Z"
+        },
+        {
+          "id": "NBEB3wDN-B0",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NBEB3wDN-B0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T17:00:00Z"
+        },
+        {
+          "id": "oUN9MMbRJTE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/oUN9MMbRJTE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T17:00:00Z"
         }
       ]
     }
