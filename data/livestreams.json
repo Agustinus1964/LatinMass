@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-03T09:25:55.085Z",
+  "lastUpdated": "2026-05-03T10:30:50.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gUEJ1FsOCk0",
-          "title": "FSSPX Antwerpen - 03/05 4° ZONDAG na PASEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gUEJ1FsOCk0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2A4cYHvYWec",
-          "title": "IV Domenica dopo Pasqua - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/2A4cYHvYWec/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uJwcIa9cTIE",
           "title": "4th Sunday after Easter",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/uJwcIa9cTIE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-03T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wdyUd9dgya0",
@@ -64,11 +46,20 @@
           "scheduledTime": null
         },
         {
-          "id": "mxIOy0M2SH0",
-          "title": "9:30am — 5th Sunday of Easter",
+          "id": "Q9kc9RfQLP0",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fourth Sunday after Easter. II. May 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Q9kc9RfQLP0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "wSmuhEYfKAc",
+          "title": "Vespers and Benediction — 4th Sunday after Easter",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/mxIOy0M2SH0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wSmuhEYfKAc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,13 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "8eHfSpzPU4o",
-          "title": "11am — 5th Sunday of Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/8eHfSpzPU4o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-03T10:00:00Z"
+          "id": "_eOHFvCUQ-I",
+          "title": "Missa Rezada - quarto domingo após a Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/_eOHFvCUQ-I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_bCRJvpQcq8",
@@ -134,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nOSURiCsb_E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T15:45:00Z"
-        },
-        {
-          "id": "wSmuhEYfKAc",
-          "title": "Vespers and Benediction — 4th Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wSmuhEYfKAc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-03T16:00:00Z"
         },
         {
           "id": "ZeUeFwn9pSI",
