@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T19:31:55.974Z",
+  "lastUpdated": "2026-05-03T20:38:57.264Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MRqapiRNnac/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-04T05:15:00Z"
+        },
+        {
+          "id": "Uj6-zQvyaKQ",
+          "title": "The Holy Martyrs of England and Wales",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/Uj6-zQvyaKQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T07:30:00Z"
         },
         {
           "id": "ZcaK4L1O1_A",
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "aj24TqLtu94",
-          "title": "Santo Sacrificio de la Misa, IV Domingo después de Pascua, 3 de mayo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/aj24TqLtu94/mqdefault_live.jpg",
+          "id": "3xV5DSkDVXc",
+          "title": "Missa rezada e ofício do Rosário- quarto domingo depois da Páscoa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/3xV5DSkDVXc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
