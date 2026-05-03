@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-03T21:38:33.303Z",
+  "lastUpdated": "2026-05-03T22:37:09.638Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EsL22B--Zn8",
-          "title": "Simple II Vespers -Fourth Sunday after Easter - 5/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/EsL22B--Zn8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JV_6B4jBVT0",
-          "title": "Mon 4 May St  Monica. 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/JV_6B4jBVT0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MRqapiRNnac",
           "title": "Hl. Messe - hl. Monika - 04. Mai 2026",
@@ -87,15 +69,6 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/tgM8E6mw6ZY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3xV5DSkDVXc",
-          "title": "Missa rezada e ofício do Rosário- quarto domingo depois da Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/3xV5DSkDVXc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
