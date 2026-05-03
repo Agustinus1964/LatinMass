@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T17:13:39.745Z",
+  "lastUpdated": "2026-05-03T18:09:20.025Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uKPnmIfHWy4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "MRqapiRNnac",
+          "title": "Hl. Messe - hl. Monika - 04. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/MRqapiRNnac/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T05:15:00Z"
         },
         {
           "id": "ZcaK4L1O1_A",
@@ -32,6 +41,15 @@
           "scheduledTime": "2026-05-04T15:00:00Z"
         },
         {
+          "id": "wCUcfcrWbG0",
+          "title": "Rosenkranz und hl. Messe - hl. Monika - 04. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/wCUcfcrWbG0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T16:00:00Z"
+        },
+        {
           "id": "3mReqXbhJP0",
           "title": "FSSPX Antwerpen - 04/05 H. MONICA",
           "channel": "FSSPX Antwerpen",
@@ -46,31 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6GNwlWr5sws",
-          "title": "Sunday 11 AM Sung Mass 2026-05-03",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/6GNwlWr5sws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "R2_O-b2gsjg",
-          "title": "Santa Misa Dominical. 3 de mayo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/R2_O-b2gsjg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ZeUeFwn9pSI",
           "title": "On Confidence in Prayer",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/ZeUeFwn9pSI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-03T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MGav7lCz7QQ",
+          "title": "Sunday 1:30 PM Catholic Mass 05/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/MGav7lCz7QQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IINLWopNcck",
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IINLWopNcck/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-04T11:30:00Z"
+        },
+        {
+          "id": "0kGr_klDonU",
+          "title": "Monday 4th May 2026: Saint Monica",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/0kGr_klDonU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T17:00:00Z"
         },
         {
           "id": "NBEB3wDN-B0",
