@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-03T11:39:19.823Z",
+  "lastUpdated": "2026-05-03T13:02:50.981Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9TteSwuG5uI",
-          "title": "Low Mass - Fourth Sunday after Easter - 5/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/9TteSwuG5uI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uJwcIa9cTIE",
-          "title": "4th Sunday after Easter",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/uJwcIa9cTIE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wdyUd9dgya0",
           "title": "Fourth Sunday After Easter",
@@ -55,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "0vOeQ9QnWbg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/0vOeQ9QnWbg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Q9kc9RfQLP0",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fourth Sunday after Easter. II. May 3, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,31 +55,22 @@
           "scheduledTime": null
         },
         {
-          "id": "SXnzbTLo5pY",
-          "title": "Sunday 7 AM Catholic Mass for 05/03/2026",
+          "id": "RVicjT0TR00",
+          "title": "Sunday 8:30 AM Catholic Mass for 05/03/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/SXnzbTLo5pY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/RVicjT0TR00/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "_eOHFvCUQ-I",
-          "title": "Missa Rezada - quarto domingo após a Páscoa",
+          "id": "qGp6bCu6Gi0",
+          "title": "Missa cantada - quarto domingo após a Páscoa",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/_eOHFvCUQ-I/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qGp6bCu6Gi0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_bCRJvpQcq8",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday after Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/_bCRJvpQcq8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-03T12:00:00Z"
         },
         {
           "id": "xBnemD0j_NA",
