@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-03T10:30:50.002Z",
+  "lastUpdated": "2026-05-03T11:39:19.823Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9TteSwuG5uI",
+          "title": "Low Mass - Fourth Sunday after Easter - 5/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/9TteSwuG5uI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "uJwcIa9cTIE",
           "title": "4th Sunday after Easter",
@@ -30,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/uKPnmIfHWy4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T17:00:00Z"
+        },
+        {
+          "id": "ZcaK4L1O1_A",
+          "title": "Mon. May 4, 2026    -    St. Monica,     Widow",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ZcaK4L1O1_A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-04T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YEDsMQTPmm4",
-          "title": "Sunday 3rd May 2026: Fourth Sunday after Easter",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/YEDsMQTPmm4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Q9kc9RfQLP0",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fourth Sunday after Easter. II. May 3, 2026.",
@@ -55,20 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "wSmuhEYfKAc",
-          "title": "Vespers and Benediction — 4th Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wSmuhEYfKAc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "43E77-T380s",
-          "title": "Sainte messe de la fête de l'Invention de la Sainte Croix - NOS AUTEM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/43E77-T380s/mqdefault_live.jpg",
+          "id": "SXnzbTLo5pY",
+          "title": "Sunday 7 AM Catholic Mass for 05/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/SXnzbTLo5pY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
