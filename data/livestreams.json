@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-02T23:39:05.175Z",
+  "lastUpdated": "2026-05-03T02:36:56.142Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ESJzn6PGiy4",
+          "title": "Sung Mass - 4th Sunday after Easter",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/ESJzn6PGiy4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "gUEJ1FsOCk0",
           "title": "FSSPX Antwerpen - 03/05 4° ZONDAG na PASEN",
@@ -73,6 +82,15 @@
           "scheduledTime": "2026-05-03T08:30:00Z"
         },
         {
+          "id": "43E77-T380s",
+          "title": "Sainte messe de la fête de l'Invention de la Sainte Croix - NOS AUTEM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/43E77-T380s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T09:00:00Z"
+        },
+        {
           "id": "YEDsMQTPmm4",
           "title": "Sunday 3rd May 2026: Fourth Sunday after Easter",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -127,6 +145,15 @@
           "scheduledTime": "2026-05-03T15:30:00Z"
         },
         {
+          "id": "nOSURiCsb_E",
+          "title": "Secondes vêpres de la fête de l'Invention de la Croix - AMEN, AMEN DICO VOBIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/nOSURiCsb_E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T15:45:00Z"
+        },
+        {
           "id": "wSmuhEYfKAc",
           "title": "Vespers and Benediction — 4th Sunday after Easter",
           "channel": "Oxford Oratory",
@@ -134,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wSmuhEYfKAc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T16:00:00Z"
+        },
+        {
+          "id": "ZeUeFwn9pSI",
+          "title": "On Confidence in Prayer",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ZeUeFwn9pSI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T18:00:00Z"
         }
       ]
     }
