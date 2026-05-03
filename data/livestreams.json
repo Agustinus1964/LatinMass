@@ -1,9 +1,45 @@
 {
-  "lastUpdated": "2026-05-03T13:02:50.981Z",
+  "lastUpdated": "2026-05-03T14:27:08.319Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kXX_F3ykMvk",
+          "title": "Solemn High Mass - Fourth Sunday after Easter - 5/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kXX_F3ykMvk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SJrTsaZIc3o",
+          "title": "4th Sunday After Easter - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/SJrTsaZIc3o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "aRpvBTDWv3o",
+          "title": "Third Sunday After Easter",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/aRpvBTDWv3o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DuPbwdEDbfI",
+          "title": "Sun. May 3, 2026    -    Fourth Sunday of Easter",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/DuPbwdEDbfI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "wdyUd9dgya0",
           "title": "Fourth Sunday After Easter",
@@ -37,29 +73,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "0vOeQ9QnWbg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0vOeQ9QnWbg/mqdefault_live.jpg",
+          "id": "xBnemD0j_NA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fourth Sunday after Easter)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/xBnemD0j_NA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "Q9kc9RfQLP0",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fourth Sunday after Easter. II. May 3, 2026.",
+          "id": "OnGFdMa4-BE",
+          "title": "10:30am Sung Mass. Fourth Sunday after Easter. II. May 3, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Q9kc9RfQLP0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/OnGFdMa4-BE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "RVicjT0TR00",
-          "title": "Sunday 8:30 AM Catholic Mass for 05/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/RVicjT0TR00/mqdefault_live.jpg",
+          "id": "R2_O-b2gsjg",
+          "title": "Santa Misa Dominical. 3 de mayo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/R2_O-b2gsjg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,13 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "xBnemD0j_NA",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fourth Sunday after Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/xBnemD0j_NA/mqdefault_live.jpg",
+          "id": "tgM8E6mw6ZY",
+          "title": "Confirmations 2026",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/tgM8E6mw6ZY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-03T14:00:00Z"
+          "scheduledTime": "2026-05-03T14:27:12Z"
         },
         {
           "id": "rWuf1i4n0jw",
@@ -107,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nOSURiCsb_E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-03T15:45:00Z"
+        },
+        {
+          "id": "yKkdplrvg8k",
+          "title": "Vespers and Benediction — 4th Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/yKkdplrvg8k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-03T16:00:00Z"
         },
         {
           "id": "ZeUeFwn9pSI",
