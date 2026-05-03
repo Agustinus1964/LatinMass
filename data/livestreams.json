@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T22:37:09.638Z",
+  "lastUpdated": "2026-05-03T23:40:40.024Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tgM8E6mw6ZY",
-          "title": "4th Sunday after Easter / 4e dimanche après Pâques",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/tgM8E6mw6ZY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IINLWopNcck",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Monica, Widow)",
