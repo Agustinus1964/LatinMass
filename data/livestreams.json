@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-03T18:09:20.025Z",
+  "lastUpdated": "2026-05-03T19:31:55.974Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uKPnmIfHWy4",
-          "title": "IV Sunday after Easter | May 3rd",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/uKPnmIfHWy4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MRqapiRNnac",
           "title": "Hl. Messe - hl. Monika - 04. Mai 2026",
@@ -64,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZeUeFwn9pSI",
-          "title": "On Confidence in Prayer",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ZeUeFwn9pSI/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MGav7lCz7QQ",
-          "title": "Sunday 1:30 PM Catholic Mass 05/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/MGav7lCz7QQ/mqdefault_live.jpg",
+          "id": "aj24TqLtu94",
+          "title": "Santo Sacrificio de la Misa, IV Domingo después de Pascua, 3 de mayo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/aj24TqLtu94/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
