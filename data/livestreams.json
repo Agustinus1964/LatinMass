@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T22:57:29.187Z",
+  "lastUpdated": "2026-05-04T23:56:09.857Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hSSLaBMwb08/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T16:30:00Z"
-        },
-        {
-          "id": "Ff1HX5u171I",
-          "title": "Sung Rosary - 5/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Ff1HX5u171I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T22:50:00Z"
         }
       ]
     },
