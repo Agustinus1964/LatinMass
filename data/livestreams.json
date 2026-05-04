@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-04T02:35:24.638Z",
+  "lastUpdated": "2026-05-04T06:09:07.115Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MRqapiRNnac",
-          "title": "Hl. Messe - hl. Monika - 04. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/MRqapiRNnac/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T05:15:00Z"
-        },
         {
           "id": "Uj6-zQvyaKQ",
           "title": "The Holy Martyrs of England and Wales",
@@ -20,7 +11,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/Uj6-zQvyaKQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-04T07:30:00Z"
+          "scheduledTime": "2026-05-04T06:30:00Z"
         },
         {
           "id": "ZcaK4L1O1_A",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-05-04T15:00:00Z"
         },
         {
-          "id": "wCUcfcrWbG0",
-          "title": "Rosenkranz und hl. Messe - hl. Monika - 04. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/wCUcfcrWbG0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T16:00:00Z"
-        },
-        {
           "id": "3mReqXbhJP0",
           "title": "FSSPX Antwerpen - 04/05 H. MONICA",
           "channel": "FSSPX Antwerpen",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3mReqXbhJP0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-04T16:30:00Z"
+        },
+        {
+          "id": "uImrYV0W0DA",
+          "title": "Hl. Messe - hl. Pius V. - 05. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/uImrYV0W0DA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T05:15:00Z"
         }
       ]
     },
