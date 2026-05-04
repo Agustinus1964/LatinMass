@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T13:05:34.503Z",
+  "lastUpdated": "2026-05-04T15:28:38.428Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/L9Op9Hw0iUw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3mReqXbhJP0",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bM-xH-I68Jc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T11:45:00Z"
+        },
+        {
+          "id": "nZhjbvg7NcU",
+          "title": "FSSPX Antwerpen - 05/05 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/nZhjbvg7NcU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T15:00:00Z"
         }
       ]
     },
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "OWHA75qDBGM",
-          "title": "Monday 8 AM Traditional Latin Mass05/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/OWHA75qDBGM/mqdefault_live.jpg",
+          "id": "y6RSvAYIutU",
+          "title": "Santo Sacrificio de la Misa, IV semana después de Pascua, Santa Mónica, viuda. 4 de mayo 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/y6RSvAYIutU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
