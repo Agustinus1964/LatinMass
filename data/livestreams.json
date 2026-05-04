@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-04T06:09:07.115Z",
+  "lastUpdated": "2026-05-04T09:01:40.756Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Uj6-zQvyaKQ",
-          "title": "The Holy Martyrs of England and Wales",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/Uj6-zQvyaKQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T06:30:00Z"
-        },
         {
           "id": "ZcaK4L1O1_A",
           "title": "Mon. May 4, 2026    -    St. Monica,     Widow",
@@ -54,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jx4HeNxmUtI",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/jx4HeNxmUtI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "IINLWopNcck",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Monica, Widow)",
