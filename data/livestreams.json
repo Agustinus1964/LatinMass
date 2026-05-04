@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-04T15:28:38.428Z",
+  "lastUpdated": "2026-05-04T17:11:48.930Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "L9Op9Hw0iUw",
-          "title": "FSSPX Antwerpen - 04/05 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/L9Op9Hw0iUw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3mReqXbhJP0",
-          "title": "FSSPX Antwerpen - 04/05 H. MONICA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/3mReqXbhJP0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T16:30:00Z"
-        },
-        {
-          "id": "uImrYV0W0DA",
-          "title": "Hl. Messe - hl. Pius V. - 05. Mai 2026",
+          "id": "wCUcfcrWbG0",
+          "title": "Rosenkranz und hl. Messe - hl. Monika - 04. Mai 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uImrYV0W0DA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T05:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/wCUcfcrWbG0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IwkyvUdLAho",
@@ -57,12 +39,48 @@
           "thumbnail": "https://i.ytimg.com/vi/nZhjbvg7NcU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T15:00:00Z"
+        },
+        {
+          "id": "7jzdFWpMWr8",
+          "title": "Maiandacht und hl. Messe - hl. Pius V. - 05. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7jzdFWpMWr8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T15:40:00Z"
+        },
+        {
+          "id": "hSSLaBMwb08",
+          "title": "FSSPX Antwerpen - 05/05 H. PIUS V",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/hSSLaBMwb08/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "yFxS_W5GyNc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/yFxS_W5GyNc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0kGr_klDonU",
+          "title": "Monday 4th May 2026: Saint Monica",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/0kGr_klDonU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "y6RSvAYIutU",
           "title": "Santo Sacrificio de la Misa, IV semana después de Pascua, Santa Mónica, viuda. 4 de mayo 2026.",
@@ -73,22 +91,13 @@
           "scheduledTime": null
         },
         {
-          "id": "0kGr_klDonU",
-          "title": "Monday 4th May 2026: Saint Monica",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/0kGr_klDonU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T17:00:00Z"
-        },
-        {
           "id": "NBEB3wDN-B0",
           "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/NBEB3wDN-B0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oUN9MMbRJTE",
@@ -96,8 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/oUN9MMbRJTE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9yTWUoiAFTY",
@@ -107,6 +116,33 @@
           "thumbnail": "https://i.ytimg.com/vi/9yTWUoiAFTY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T11:30:00Z"
+        },
+        {
+          "id": "ZPkHwlroivs",
+          "title": "Tuesday 5th May 2026: Saint Pius V",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ZPkHwlroivs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T17:00:00Z"
+        },
+        {
+          "id": "pUUu8KAuuaE",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/pUUu8KAuuaE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T17:00:00Z"
+        },
+        {
+          "id": "aKKVir_-lng",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/aKKVir_-lng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T17:00:00Z"
         }
       ]
     }
