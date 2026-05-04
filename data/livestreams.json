@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-04T17:11:48.930Z",
+  "lastUpdated": "2026-05-04T19:02:15.716Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wCUcfcrWbG0",
-          "title": "Rosenkranz und hl. Messe - hl. Monika - 04. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/wCUcfcrWbG0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IwkyvUdLAho",
           "title": "Tue. May 5, 2026    -   Pope St. Pius V    -    Pope and Confessor",
@@ -63,42 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yFxS_W5GyNc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/yFxS_W5GyNc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0kGr_klDonU",
-          "title": "Monday 4th May 2026: Saint Monica",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/0kGr_klDonU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "y6RSvAYIutU",
-          "title": "Santo Sacrificio de la Misa, IV semana después de Pascua, Santa Mónica, viuda. 4 de mayo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/y6RSvAYIutU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NBEB3wDN-B0",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/NBEB3wDN-B0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oUN9MMbRJTE",
           "title": "Sainte messe en semaine",
