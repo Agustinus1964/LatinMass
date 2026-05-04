@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-04T11:20:44.088Z",
+  "lastUpdated": "2026-05-04T13:05:34.503Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZcaK4L1O1_A",
-          "title": "Mon. May 4, 2026    -    St. Monica,     Widow",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ZcaK4L1O1_A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "L9Op9Hw0iUw",
           "title": "FSSPX Antwerpen - 04/05 Aanbidding met Rozenhoedje",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-05-05T05:15:00Z"
         },
         {
-          "id": "p3qwxKutd9Q",
-          "title": "Low Mass - St. Pius V, Pope & Confessor- 5/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/p3qwxKutd9Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T11:10:00Z"
-        },
-        {
           "id": "IwkyvUdLAho",
           "title": "Tue. May 5, 2026    -   Pope St. Pius V    -    Pope and Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IwkyvUdLAho/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T11:15:00Z"
+        },
+        {
+          "id": "bM-xH-I68Jc",
+          "title": "Understanding The Crisis in the Church - Chapter 3",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/bM-xH-I68Jc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T11:45:00Z"
         }
       ]
     },
@@ -64,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "WR1_no99g-M",
-          "title": "7am Mass. St. Monica, Widow. III. Monday, May 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/WR1_no99g-M/mqdefault_live.jpg",
+          "id": "OWHA75qDBGM",
+          "title": "Monday 8 AM Traditional Latin Mass05/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/OWHA75qDBGM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "IINLWopNcck",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Monica, Widow)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/IINLWopNcck/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-04T11:30:00Z"
         },
         {
           "id": "0kGr_klDonU",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oUN9MMbRJTE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-04T17:00:00Z"
+        },
+        {
+          "id": "9yTWUoiAFTY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Pius V, Pope and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9yTWUoiAFTY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-05T11:30:00Z"
         }
       ]
     }
