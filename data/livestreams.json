@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-05T21:34:06.021Z",
+  "lastUpdated": "2026-05-05T22:52:15.706Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sycMftGXm4A",
-          "title": "Wed 6 May 2026 Ferial",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/sycMftGXm4A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "AMiKYtGcp5Y",
           "title": "Compline - 5/5/26",
@@ -78,15 +69,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/aKKVir_-lng/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-kEyAdoP8ns",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-kEyAdoP8ns/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
