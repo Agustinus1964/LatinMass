@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-05T05:26:37.059Z",
+  "lastUpdated": "2026-05-05T07:30:12.000Z",
   "videos": [
+    {
+      "id": "b8O5eXnl39E",
+      "title": "Holy Mass 5/4/26 - Feast of St. Monica",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/b8O5eXnl39E/mqdefault.jpg",
+      "publishedAt": "2026-05-05T04:14:03Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "ZZmyME9PaXI",
       "title": "The Life of Pope St. Pius V",
@@ -150,16 +160,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GW2KAjAaJQA/mqdefault.jpg",
       "publishedAt": "2026-05-04T14:45:03Z",
       "category": "Crisis Magazine"
-    },
-    {
-      "id": "b8O5eXnl39E",
-      "title": "Holy Mass 5/4/26 - Feast of St. Monica",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/b8O5eXnl39E/mqdefault_live.jpg",
-      "publishedAt": "2026-05-04T14:32:46Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "AyjBLrYxuG4",
