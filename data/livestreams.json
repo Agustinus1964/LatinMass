@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-05T10:16:35.157Z",
+  "lastUpdated": "2026-05-05T11:46:44.276Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "uImrYV0W0DA",
-          "title": "Hl. Messe - hl. Pius V. - 05. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uImrYV0W0DA/mqdefault_live.jpg",
+          "id": "p3qwxKutd9Q",
+          "title": "Low Mass - St. Pius V, Pope & Confessor- 5/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/p3qwxKutd9Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/IwkyvUdLAho/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bM-xH-I68Jc",
@@ -28,8 +28,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/bM-xH-I68Jc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T11:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nZhjbvg7NcU",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xyAmV_w0Yvc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-06T05:30:00Z"
+        },
+        {
+          "id": "6-WAcRakIiY",
+          "title": "Wed. May 6, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/6-WAcRakIiY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T11:15:00Z"
         }
       ]
     },
@@ -82,22 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3pMjAsNj8s4",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 05/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/3pMjAsNj8s4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9yTWUoiAFTY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Pius V, Pope and Confessor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/9yTWUoiAFTY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZPkHwlroivs",
