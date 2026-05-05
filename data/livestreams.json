@@ -1,44 +1,26 @@
 {
-  "lastUpdated": "2026-05-05T11:46:44.276Z",
+  "lastUpdated": "2026-05-05T15:52:47.283Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "p3qwxKutd9Q",
-          "title": "Low Mass - St. Pius V, Pope & Confessor- 5/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/p3qwxKutd9Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IwkyvUdLAho",
-          "title": "Tue. May 5, 2026    -   Pope St. Pius V    -    Pope and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/IwkyvUdLAho/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bM-xH-I68Jc",
-          "title": "Understanding The Crisis in the Church - Chapter 3 - Modernist Notion of Faith",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/bM-xH-I68Jc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nZhjbvg7NcU",
           "title": "FSSPX Antwerpen - 05/05 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/nZhjbvg7NcU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "7jzdFWpMWr8",
+          "title": "Maiandacht und hl. Messe - hl. Pius V. - 05. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7jzdFWpMWr8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hSSLaBMwb08",
@@ -57,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/AMiKYtGcp5Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-06T00:45:00Z"
-        },
-        {
-          "id": "85LSSpmoVRg",
-          "title": "Hl. Messe - hl. Dominik Savio - 06. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/85LSSpmoVRg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T05:15:00Z"
         },
         {
           "id": "xyAmV_w0Yvc",
@@ -90,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9yTWUoiAFTY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Pius V, Pope and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9yTWUoiAFTY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZPkHwlroivs",
           "title": "Tuesday 5th May 2026: Saint Pius V",
@@ -125,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aKKVir_-lng/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T17:00:00Z"
+        },
+        {
+          "id": "ePwbRuslWXw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Before the Latin Gate)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ePwbRuslWXw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T11:30:00Z"
         }
       ]
     }
