@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-05T15:52:47.283Z",
+  "lastUpdated": "2026-05-05T17:20:24.464Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,24 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nZhjbvg7NcU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "7jzdFWpMWr8",
-          "title": "Maiandacht und hl. Messe - hl. Pius V. - 05. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7jzdFWpMWr8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hSSLaBMwb08",
-          "title": "FSSPX Antwerpen - 05/05 H. PIUS V",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hSSLaBMwb08/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T16:30:00Z"
         },
         {
           "id": "AMiKYtGcp5Y",
@@ -50,6 +32,15 @@
           "scheduledTime": "2026-05-06T05:30:00Z"
         },
         {
+          "id": "QuHUjo3RjVQ",
+          "title": "Requiem Mass",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/QuHUjo3RjVQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T07:15:00Z"
+        },
+        {
           "id": "6-WAcRakIiY",
           "title": "Wed. May 6, 2026    -    Ferial Day",
           "channel": "Transfiguration Church SSPX",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6-WAcRakIiY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-06T11:15:00Z"
+        },
+        {
+          "id": "OEl_q_ao8zw",
+          "title": "Rosenkranz und hl. Messe - hl. Dominik Savio - 06. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/OEl_q_ao8zw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T16:00:00Z"
         }
       ]
     },
@@ -64,13 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "z5Soe3XkQvM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/z5Soe3XkQvM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ZPkHwlroivs",
           "title": "Tuesday 5th May 2026: Saint Pius V",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/ZPkHwlroivs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pUUu8KAuuaE",
@@ -78,8 +87,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/pUUu8KAuuaE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aKKVir_-lng",
@@ -87,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/aKKVir_-lng/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-05T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ePwbRuslWXw",
@@ -98,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/ePwbRuslWXw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-06T11:30:00Z"
+        },
+        {
+          "id": "31j-IFCJsG8",
+          "title": "Wednesday 6th May 2026: Saint John before the Latin Gate",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/31j-IFCJsG8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T17:00:00Z"
+        },
+        {
+          "id": "wnmcL3rcfl4",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wnmcL3rcfl4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T17:00:00Z"
+        },
+        {
+          "id": "gWrzOowPJkw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/gWrzOowPJkw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T17:00:00Z"
         }
       ]
     }
