@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T23:56:09.857Z",
+  "lastUpdated": "2026-05-05T02:41:33.877Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/hSSLaBMwb08/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-05T16:30:00Z"
+        },
+        {
+          "id": "AMiKYtGcp5Y",
+          "title": "Compline - 5/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/AMiKYtGcp5Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-06T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oUN9MMbRJTE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/oUN9MMbRJTE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9yTWUoiAFTY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Pius V, Pope and Confessor)",
