@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T18:25:20.080Z",
+  "lastUpdated": "2026-05-06T20:08:43.718Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dGteFXCk7Hs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-07T00:45:00Z"
+        },
+        {
+          "id": "uBmWzB5938A",
+          "title": "Saint Stanislaus, bishop and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/uBmWzB5938A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-07T07:15:00Z"
         },
         {
           "id": "zHRjabW03tM",
@@ -54,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gWrzOowPJkw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/gWrzOowPJkw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HwfbwUsMQNg",
           "title": "Thursday 7th May 2026: First Thursday",
