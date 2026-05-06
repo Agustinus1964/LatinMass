@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-06T05:54:13.292Z",
+  "lastUpdated": "2026-05-06T10:31:59.075Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xyAmV_w0Yvc",
-          "title": "FSSPX Antwerpen - 06/05 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/xyAmV_w0Yvc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "85LSSpmoVRg",
-          "title": "Hl. Messe - hl. Dominik Savio - 06. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/85LSSpmoVRg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QuHUjo3RjVQ",
-          "title": "Requiem Mass",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/QuHUjo3RjVQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T06:15:00Z"
-        },
         {
           "id": "6-WAcRakIiY",
           "title": "Wed. May 6, 2026    -    Ferial Day",
@@ -64,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "jfhAz5BjyX4",
+          "title": "Wednesday 6 AM Daily Traditional Catholic Mass 05/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/jfhAz5BjyX4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "ePwbRuslWXw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Before the Latin Gate)",
           "channel": "Usus Antiquior",
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gWrzOowPJkw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-06T17:00:00Z"
+        },
+        {
+          "id": "HwfbwUsMQNg",
+          "title": "Thursday 7th May 2026: First Thursday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/HwfbwUsMQNg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-07T07:00:00Z"
         }
       ]
     }
