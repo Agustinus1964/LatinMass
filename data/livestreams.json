@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-05T23:43:50.209Z",
+  "lastUpdated": "2026-05-06T02:33:45.223Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AMiKYtGcp5Y",
-          "title": "Compline - 5/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/AMiKYtGcp5Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T00:45:00Z"
-        },
         {
           "id": "xyAmV_w0Yvc",
           "title": "FSSPX Antwerpen - 06/05 DOOR DE WEEK",
@@ -57,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/OEl_q_ao8zw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-06T16:00:00Z"
+        },
+        {
+          "id": "dGteFXCk7Hs",
+          "title": "Compline - 5/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/dGteFXCk7Hs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-07T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aKKVir_-lng",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/aKKVir_-lng/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ePwbRuslWXw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Before the Latin Gate)",
