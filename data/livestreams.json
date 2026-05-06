@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T02:33:45.223Z",
+  "lastUpdated": "2026-05-06T05:54:13.292Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,17 +10,17 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/xyAmV_w0Yvc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T05:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "e-SQvMl0IAk",
-          "title": "Requiem Mass",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/e-SQvMl0IAk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T07:15:00Z"
+          "id": "85LSSpmoVRg",
+          "title": "Hl. Messe - hl. Dominik Savio - 06. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/85LSSpmoVRg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QuHUjo3RjVQ",
@@ -29,7 +29,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/QuHUjo3RjVQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-06T07:15:00Z"
+          "scheduledTime": "2026-05-06T06:15:00Z"
         },
         {
           "id": "6-WAcRakIiY",
@@ -41,15 +41,6 @@
           "scheduledTime": "2026-05-06T11:15:00Z"
         },
         {
-          "id": "OEl_q_ao8zw",
-          "title": "Rosenkranz und hl. Messe - hl. Dominik Savio - 06. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/OEl_q_ao8zw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T16:00:00Z"
-        },
-        {
           "id": "dGteFXCk7Hs",
           "title": "Compline - 5/6/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dGteFXCk7Hs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-07T00:45:00Z"
+        },
+        {
+          "id": "M4aM_hDjr1M",
+          "title": "Hl. Messe - hl. Notker - 07. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/M4aM_hDjr1M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-07T05:15:00Z"
         }
       ]
     },
