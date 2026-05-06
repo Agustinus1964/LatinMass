@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-06T21:39:08.711Z",
+  "lastUpdated": "2026-05-06T22:49:39.639Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UKT_x3eDuH4",
-          "title": "Mass of St Stanislaus of Kracow - 7.5.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/UKT_x3eDuH4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dGteFXCk7Hs",
           "title": "Compline - 5/6/26",
@@ -72,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vY6iVc9XBKY",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/vY6iVc9XBKY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HwfbwUsMQNg",
           "title": "Thursday 7th May 2026: First Thursday",
