@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-06T15:10:08.387Z",
+  "lastUpdated": "2026-05-06T16:59:51.105Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "OEl_q_ao8zw",
+          "title": "Rosenkranz und hl. Messe - hl. Dominik Savio - 06. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/OEl_q_ao8zw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dGteFXCk7Hs",
           "title": "Compline - 5/6/26",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/dGteFXCk7Hs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-07T00:45:00Z"
-        },
-        {
-          "id": "M4aM_hDjr1M",
-          "title": "Hl. Messe - hl. Notker - 07. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/M4aM_hDjr1M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T05:15:00Z"
         },
         {
           "id": "zHRjabW03tM",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ibs2E6_z_ZQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-07T15:00:00Z"
+        },
+        {
+          "id": "TRSnQRXQOoA",
+          "title": "FSSPX Antwerpen - 07/05 H. STANISLAUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/TRSnQRXQOoA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-07T16:30:00Z"
         }
       ]
     },
@@ -55,13 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "IbmMb1MYVW8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/IbmMb1MYVW8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "31j-IFCJsG8",
           "title": "Wednesday 6th May 2026: Saint John before the Latin Gate",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/31j-IFCJsG8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "F3o63prJE8I",
@@ -69,8 +87,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/F3o63prJE8I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gWrzOowPJkw",
@@ -78,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/gWrzOowPJkw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-06T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HwfbwUsMQNg",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nlhEafJ9HpU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-07T11:30:00Z"
+        },
+        {
+          "id": "qlu-ysKqzg8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/qlu-ysKqzg8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-07T17:00:00Z"
         }
       ]
     }
