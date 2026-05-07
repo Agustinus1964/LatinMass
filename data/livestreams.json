@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T19:39:37.153Z",
+  "lastUpdated": "2026-05-07T21:01:36.013Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -81,6 +81,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "EVPwi4nB_AY",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/EVPwi4nB_AY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zyerb3s_vF8",
           "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
