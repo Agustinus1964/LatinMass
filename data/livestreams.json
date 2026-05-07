@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-07T15:41:12.588Z",
+  "lastUpdated": "2026-05-07T17:45:07.580Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PpG25dsj3gE",
-          "title": "FSSPX Antwerpen - 07/05 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/PpG25dsj3gE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ibs2E6_z_ZQ",
-          "title": "Maiandacht und hl. Messe - hl. Notker - 07. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Ibs2E6_z_ZQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TRSnQRXQOoA",
-          "title": "FSSPX Antwerpen - 07/05 H. STANISLAUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/TRSnQRXQOoA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T16:30:00Z"
-        },
         {
           "id": "lmukc4KesgA",
           "title": "Compline - 5/7/26",
@@ -66,6 +39,33 @@
           "thumbnail": "https://i.ytimg.com/vi/h9viSoKfo9M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-08T15:00:00Z"
+        },
+        {
+          "id": "VPeOtGRSlIY",
+          "title": "FSSPX Antwerpen - 08/05 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/VPeOtGRSlIY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T15:45:00Z"
+        },
+        {
+          "id": "ERVuaZ3yQSQ",
+          "title": "Rosenkranz und hl. Messe - 08. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ERVuaZ3yQSQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T16:00:00Z"
+        },
+        {
+          "id": "vpttOY5oO8Y",
+          "title": "FSSPX Antwerpen - 08/05 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/vpttOY5oO8Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T16:30:00Z"
         }
       ]
     },
@@ -73,13 +73,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "L-tzDmWco80",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/L-tzDmWco80/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "qlu-ysKqzg8",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/qlu-ysKqzg8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zyerb3s_vF8",
+          "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/zyerb3s_vF8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-07T17:00:00Z"
+          "scheduledTime": "2026-05-08T17:00:00Z"
+        },
+        {
+          "id": "3xUBEad83ag",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/3xUBEad83ag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T17:00:00Z"
+        },
+        {
+          "id": "Pt1W8ZVeKyg",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Pt1W8ZVeKyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T17:00:00Z"
         }
       ]
     }
