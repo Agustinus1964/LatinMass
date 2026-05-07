@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-07T11:07:17.357Z",
+  "lastUpdated": "2026-05-07T13:14:19.375Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EEUPTtutwQ0",
-          "title": "Sung Mass - Sung Mass of Our Lord Jesus Christ Eternal High Priest - 5/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/EEUPTtutwQ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zHRjabW03tM",
-          "title": "Thu. May 7, 2026    -     St. Stanislaus    -    Bishop and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/zHRjabW03tM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T11:15:00Z"
-        },
         {
           "id": "PpG25dsj3gE",
           "title": "FSSPX Antwerpen - 07/05 Priester-Uur-Gebed",
@@ -57,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/2MPFTmIJdRY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-08T05:15:00Z"
+        },
+        {
+          "id": "gXkNv4K_Xcw",
+          "title": "Fri. May 8, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/gXkNv4K_Xcw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T11:15:00Z"
+        },
+        {
+          "id": "5Gtt4h4ruyA",
+          "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 5",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/5Gtt4h4ruyA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T11:45:00Z"
         }
       ]
     },
@@ -64,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "LN-J5pXfQzQ",
-          "title": "7am Mass. St. Stanislaus, Bishop & Martyr. III. Thursday, May 7, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/LN-J5pXfQzQ/mqdefault_live.jpg",
+          "id": "UlsPZXBaxYk",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 05/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/UlsPZXBaxYk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "nlhEafJ9HpU",
-          "title": "Live Stream Holy Mass from Cleveland (1st Thursday, Our Lord Jesus Christ, Supreme & Eternal Priest)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/nlhEafJ9HpU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T11:30:00Z"
         },
         {
           "id": "qlu-ysKqzg8",
