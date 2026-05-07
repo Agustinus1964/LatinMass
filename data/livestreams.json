@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-06T23:46:25.193Z",
+  "lastUpdated": "2026-05-07T02:35:24.657Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dGteFXCk7Hs",
-          "title": "Compline - 5/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dGteFXCk7Hs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T00:45:00Z"
-        },
         {
           "id": "uBmWzB5938A",
           "title": "Saint Stanislaus, bishop and martyr",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TRSnQRXQOoA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-07T16:30:00Z"
+        },
+        {
+          "id": "lmukc4KesgA",
+          "title": "Compline - 5/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/lmukc4KesgA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T00:45:00Z"
         }
       ]
     },
