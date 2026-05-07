@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-07T05:58:48.162Z",
+  "lastUpdated": "2026-05-07T08:43:06.193Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uBmWzB5938A",
-          "title": "Saint Stanislaus, bishop and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/uBmWzB5938A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T06:15:00Z"
-        },
         {
           "id": "zHRjabW03tM",
           "title": "Thu. May 7, 2026    -     St. Stanislaus    -    Bishop and Martyr",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HwfbwUsMQNg",
-          "title": "Thursday 7th May 2026: First Thursday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/HwfbwUsMQNg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-07T07:00:00Z"
-        },
         {
           "id": "nlhEafJ9HpU",
           "title": "Live Stream Holy Mass from Cleveland (1st Thursday, Our Lord Jesus Christ, Supreme & Eternal Priest)",
