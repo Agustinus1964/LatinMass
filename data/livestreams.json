@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-07T21:01:36.013Z",
+  "lastUpdated": "2026-05-07T22:33:33.082Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,15 +82,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "EVPwi4nB_AY",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/EVPwi4nB_AY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "zyerb3s_vF8",
           "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Pt1W8ZVeKyg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-08T17:00:00Z"
+        },
+        {
+          "id": "9qJW8cRz3js",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of Saint Michael the Archangel)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9qJW8cRz3js/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-08T22:30:00Z"
         }
       ]
     }
