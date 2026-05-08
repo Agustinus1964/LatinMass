@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-08T21:58:27.706Z",
+  "lastUpdated": "2026-05-08T22:59:55.574Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "iRrELKHJme4",
-          "title": "Mass of St Gregory of Nazianzen - Sat. 9th May 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/iRrELKHJme4/mqdefault_live.jpg",
+          "id": "lsh5W5_COeU",
+          "title": "Sung Rosary - 5/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/lsh5W5_COeU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "9qJW8cRz3js",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of Saint Michael the Archangel)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9qJW8cRz3js/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "wwLSZBxrJIM",
           "title": "6pm Holy Hour & 7pm Mass. Feria of Paschaltide. IV. Friday, May 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -64,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "QlglY4JN_44",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/QlglY4JN_44/mqdefault_live.jpg",
+          "id": "80WvgiYOlaM",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 05/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/80WvgiYOlaM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "9qJW8cRz3js",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of Saint Michael the Archangel)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9qJW8cRz3js/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T22:30:00Z"
         },
         {
           "id": "Gv1mlk1cc_E",
