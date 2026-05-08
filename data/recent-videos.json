@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-08T02:35:37.115Z",
+  "lastUpdated": "2026-05-08T05:26:30.297Z",
   "videos": [
+    {
+      "id": "0YHzik7vNTs",
+      "title": "Holy Mass 5/7/26 - Feast of St. Stanislaus",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/0YHzik7vNTs/mqdefault.jpg",
+      "publishedAt": "2026-05-08T05:20:07Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "hcnP1ETiALY",
       "title": "Our Lady, Mediatrix of All Graces",
@@ -140,16 +150,6 @@
       "thumbnail": "https://i.ytimg.com/vi/GqQlMlNwv8Q/mqdefault.jpg",
       "publishedAt": "2026-05-07T15:07:23Z",
       "category": "Timothy Gordon"
-    },
-    {
-      "id": "0YHzik7vNTs",
-      "title": "Holy Mass 5/7/26 - Feast of St. Stanislaus",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/0YHzik7vNTs/mqdefault_live.jpg",
-      "publishedAt": "2026-05-07T14:35:13Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "dPh0jlosKv4",
