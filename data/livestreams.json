@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-08T18:06:55.564Z",
+  "lastUpdated": "2026-05-08T19:52:25.401Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vpttOY5oO8Y",
-          "title": "FSSPX Antwerpen - 08/05 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/vpttOY5oO8Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3qAOAp-9R9c",
           "title": "Hl. Messe - hl. Gregor von Nazianz - 09. Mai 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3qAOAp-9R9c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T05:15:00Z"
+        },
+        {
+          "id": "YY54eNz7dAQ",
+          "title": "Saint Gregory Nazianzen, bishop, confessor and Doctor of",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/YY54eNz7dAQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T07:30:00Z"
         },
         {
           "id": "bxuwMcB5J9I",
@@ -36,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zyerb3s_vF8",
-          "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/zyerb3s_vF8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9qJW8cRz3js",
           "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of Saint Michael the Archangel)",
