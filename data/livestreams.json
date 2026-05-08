@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T08:54:11.225Z",
+  "lastUpdated": "2026-05-08T10:21:40.059Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,15 +91,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4voeVPGDesg",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/4voeVPGDesg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "zyerb3s_vF8",
           "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -143,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Gv1mlk1cc_E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T07:30:00Z"
+        },
+        {
+          "id": "Adv1z2DqCxM",
+          "title": "Saturday 9th May 2026: Saint Gregory of Nazianzus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Adv1z2DqCxM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T09:30:00Z"
         }
       ]
     }
