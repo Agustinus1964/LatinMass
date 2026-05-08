@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-08T02:41:20.441Z",
+  "lastUpdated": "2026-05-08T05:27:59.443Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2MPFTmIJdRY",
+          "title": "Hl. Messe - 08. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2MPFTmIJdRY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "522e-vLywrE",
           "title": "Our Lady, Mediatrix of All Graces",
@@ -11,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/522e-vLywrE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-08T07:15:00Z"
+          "scheduledTime": "2026-05-08T06:15:00Z"
         },
         {
           "id": "gXkNv4K_Xcw",
@@ -50,15 +59,6 @@
           "scheduledTime": "2026-05-08T15:45:00Z"
         },
         {
-          "id": "ERVuaZ3yQSQ",
-          "title": "Rosenkranz und hl. Messe - 08. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ERVuaZ3yQSQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T16:00:00Z"
-        },
-        {
           "id": "vpttOY5oO8Y",
           "title": "FSSPX Antwerpen - 08/05 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LtGRNWBQPUM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T00:45:00Z"
+        },
+        {
+          "id": "3qAOAp-9R9c",
+          "title": "Hl. Messe - hl. Gregor von Nazianz - 09. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3qAOAp-9R9c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T05:15:00Z"
         }
       ]
     },
