@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T19:52:25.401Z",
+  "lastUpdated": "2026-05-08T20:56:21.710Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,6 +23,15 @@
           "scheduledTime": "2026-05-09T07:30:00Z"
         },
         {
+          "id": "D5-ykDw3De0",
+          "title": "FSSPX Antwerpen - 09/05 HERDENKING v/d KERKWIJDING v/d KERK v/h ALLERHEILIGSTE SACRAMENT",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/D5-ykDw3De0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T08:00:00Z"
+        },
+        {
           "id": "bxuwMcB5J9I",
           "title": "Sat. May 9,  2026    -    St Gregory of Nazianzen   -   Bishop, Confessor and Doctor of the Church",
           "channel": "Transfiguration Church SSPX",
@@ -36,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "QlglY4JN_44",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/QlglY4JN_44/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9qJW8cRz3js",
           "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of Saint Michael the Archangel)",
