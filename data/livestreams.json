@@ -1,35 +1,26 @@
 {
-  "lastUpdated": "2026-05-08T15:07:06.162Z",
+  "lastUpdated": "2026-05-08T16:49:35.035Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "h9viSoKfo9M",
-          "title": "FSSPX Antwerpen - 08/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/h9viSoKfo9M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VPeOtGRSlIY",
-          "title": "FSSPX Antwerpen - 08/05 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/VPeOtGRSlIY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T15:45:00Z"
-        },
         {
           "id": "vpttOY5oO8Y",
           "title": "FSSPX Antwerpen - 08/05 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/vpttOY5oO8Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ERVuaZ3yQSQ",
+          "title": "Rosenkranz und hl. Messe - 08. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ERVuaZ3yQSQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3qAOAp-9R9c",
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3qAOAp-9R9c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T05:15:00Z"
-        },
-        {
-          "id": "CM_xR16dKFU",
-          "title": "Amt - hl. Gregor von Nazianz - 09. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/CM_xR16dKFU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T07:30:00Z"
         },
         {
           "id": "CD2kVmqo-r4",
@@ -72,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mn6NqSG0K4U",
-          "title": "11am Mass. Feria of Paschaltide. IV. Friday, May 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/mn6NqSG0K4U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zyerb3s_vF8",
           "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
