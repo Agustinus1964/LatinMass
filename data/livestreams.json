@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-08T07:06:09.881Z",
+  "lastUpdated": "2026-05-08T08:54:11.225Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,12 +66,39 @@
           "thumbnail": "https://i.ytimg.com/vi/3qAOAp-9R9c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T05:15:00Z"
+        },
+        {
+          "id": "CM_xR16dKFU",
+          "title": "Amt - hl. Gregor von Nazianz - 09. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/CM_xR16dKFU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T07:30:00Z"
+        },
+        {
+          "id": "CD2kVmqo-r4",
+          "title": "FSSPX Antwerpen - 09/05 HERDENKING v/d KERKWIJDING v/d KERK v/h ALLERHEILIGSTE SACRAMENT",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/CD2kVmqo-r4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T08:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "4voeVPGDesg",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/4voeVPGDesg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zyerb3s_vF8",
           "title": "Friday 8th May 2026: Apparition of St Michael the Archangel in Monte Gargano",
@@ -107,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9qJW8cRz3js/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-08T22:30:00Z"
+        },
+        {
+          "id": "Gv1mlk1cc_E",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Gv1mlk1cc_E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T07:30:00Z"
         }
       ]
     }
