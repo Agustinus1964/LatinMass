@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-08T11:52:23.879Z",
+  "lastUpdated": "2026-05-08T13:25:46.343Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VB6BXoX2kqc",
-          "title": "Low Mass - Our Lady Mediatrix of all graces  - 5/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/VB6BXoX2kqc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gXkNv4K_Xcw",
-          "title": "Fri. May 8, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gXkNv4K_Xcw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5Gtt4h4ruyA",
-          "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 5",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/5Gtt4h4ruyA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "h9viSoKfo9M",
           "title": "FSSPX Antwerpen - 08/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -84,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CD2kVmqo-r4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T08:00:00Z"
+        },
+        {
+          "id": "bxuwMcB5J9I",
+          "title": "Sat. May 9,  2026    -    St Gregory of Nazianzen   -   Bishop, Confessor and Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/bxuwMcB5J9I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T12:00:00Z"
         }
       ]
     },
