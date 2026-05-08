@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-07T23:50:25.200Z",
+  "lastUpdated": "2026-05-08T02:41:20.441Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lmukc4KesgA",
-          "title": "Compline - 5/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/lmukc4KesgA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T00:45:00Z"
-        },
         {
           "id": "522e-vLywrE",
           "title": "Our Lady, Mediatrix of All Graces",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vpttOY5oO8Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-08T16:30:00Z"
+        },
+        {
+          "id": "LtGRNWBQPUM",
+          "title": "Compline - 5/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/LtGRNWBQPUM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T00:45:00Z"
         }
       ]
     },
