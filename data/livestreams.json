@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-05-08T10:21:40.059Z",
+  "lastUpdated": "2026-05-08T11:52:23.879Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "VB6BXoX2kqc",
+          "title": "Low Mass - Our Lady Mediatrix of all graces  - 5/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/VB6BXoX2kqc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "gXkNv4K_Xcw",
           "title": "Fri. May 8, 2026    -    Ferial Day",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/gXkNv4K_Xcw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5Gtt4h4ruyA",
@@ -19,8 +28,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/5Gtt4h4ruyA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-08T11:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "h9viSoKfo9M",
@@ -48,15 +57,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vpttOY5oO8Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-08T16:30:00Z"
-        },
-        {
-          "id": "LtGRNWBQPUM",
-          "title": "Compline - 5/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/LtGRNWBQPUM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T00:45:00Z"
         },
         {
           "id": "3qAOAp-9R9c",
