@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-09T19:56:16.285Z",
+  "lastUpdated": "2026-05-09T20:42:14.332Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wuuojsxaGOU",
-          "title": "Nuptial Mass | Mark Carillo and Tatiana Costales",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/wuuojsxaGOU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2IouGXePK5Q",
           "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/duvskc_giVQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-10T15:00:00Z"
+        },
+        {
+          "id": "fpql45J9-Ss",
+          "title": "V Sunday after Easter | May 10th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/fpql45J9-Ss/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T17:00:00Z"
         }
       ]
     },
