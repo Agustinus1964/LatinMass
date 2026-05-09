@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-09T10:54:38.923Z",
+  "lastUpdated": "2026-05-09T11:48:11.452Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Kc1bPR2AqXI",
+          "title": "Low Mass - St. Gregory of Nazianzus, Bishop, Confessor & Doctor of - 5/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Kc1bPR2AqXI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "2IouGXePK5Q",
           "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
@@ -27,6 +36,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "MgdKgypW4Cc",
+          "title": "Saturday 7 AM Catholic Mass for 05/09/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/MgdKgypW4Cc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "2dhHHP7hPNs",
+          "title": "Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/2dhHHP7hPNs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zawPXu-Nhwg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Nazianzen, Bishop, Confessor and Doctor)",
