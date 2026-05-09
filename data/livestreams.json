@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-09T09:51:13.988Z",
+  "lastUpdated": "2026-05-09T10:54:38.923Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YY54eNz7dAQ",
-          "title": "Saint Gregory Nazianzen, bishop, confessor and Doctor of",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/YY54eNz7dAQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2IouGXePK5Q",
           "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
@@ -36,24 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Adv1z2DqCxM",
-          "title": "Saturday 9th May 2026: Saint Gregory of Nazianzus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Adv1z2DqCxM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xlFIrXkuDoY",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/xlFIrXkuDoY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zawPXu-Nhwg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Nazianzen, Bishop, Confessor and Doctor)",
@@ -98,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Un8Fl8qEyAg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-10T09:30:00Z"
+        },
+        {
+          "id": "esI8hJaiqkk",
+          "title": "11am — 6th Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/esI8hJaiqkk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T10:00:00Z"
         }
       ]
     }
