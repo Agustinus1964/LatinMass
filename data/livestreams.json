@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T08:24:50.109Z",
+  "lastUpdated": "2026-05-09T09:51:13.988Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/YY54eNz7dAQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "D5-ykDw3De0",
-          "title": "FSSPX Antwerpen - 09/05 HERDENKING v/d KERKWIJDING v/d KERK v/h ALLERHEILIGSTE SACRAMENT",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/D5-ykDw3De0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Gv1mlk1cc_E",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Gv1mlk1cc_E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Adv1z2DqCxM",
           "title": "Saturday 9th May 2026: Saint Gregory of Nazianzus",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Adv1z2DqCxM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xlFIrXkuDoY",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/xlFIrXkuDoY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zawPXu-Nhwg",
@@ -80,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/d_Acu_DuMy0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-10T07:00:00Z"
+        },
+        {
+          "id": "R0klJ6B4KmY",
+          "title": "9:30am — 6th Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/R0klJ6B4KmY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T08:30:00Z"
+        },
+        {
+          "id": "SPNNjv0ekWA",
+          "title": "Sainte messe de la solennité de sainte Jeanne d'Arc - CANTEMVS DOMINO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/SPNNjv0ekWA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T09:00:00Z"
+        },
+        {
+          "id": "Un8Fl8qEyAg",
+          "title": "Sunday 10th May 2026: Fifth Sunday after Easter - Mass celebrated by Monsignor Wach, Prior General",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Un8Fl8qEyAg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T09:30:00Z"
         }
       ]
     }
