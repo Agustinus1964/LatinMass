@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-08T22:59:55.574Z",
+  "lastUpdated": "2026-05-09T00:03:48.134Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lsh5W5_COeU",
-          "title": "Sung Rosary - 5/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/lsh5W5_COeU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3qAOAp-9R9c",
           "title": "Hl. Messe - hl. Gregor von Nazianz - 09. Mai 2026",
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/D5-ykDw3De0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T08:00:00Z"
-        },
-        {
-          "id": "bxuwMcB5J9I",
-          "title": "Sat. May 9,  2026    -    St Gregory of Nazianzen   -   Bishop, Confessor and Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/bxuwMcB5J9I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T12:00:00Z"
         }
       ]
     },
@@ -64,11 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "wwLSZBxrJIM",
-          "title": "6pm Holy Hour & 7pm Mass. Feria of Paschaltide. IV. Friday, May 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/wwLSZBxrJIM/mqdefault_live.jpg",
+          "id": "dSkN9z_Gsao",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/dSkN9z_Gsao/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Adv1z2DqCxM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T09:30:00Z"
+        },
+        {
+          "id": "zawPXu-Nhwg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Nazianzen, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zawPXu-Nhwg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-09T13:00:00Z"
         }
       ]
     }
