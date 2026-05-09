@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-09T11:48:11.452Z",
+  "lastUpdated": "2026-05-09T13:09:53.475Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Kc1bPR2AqXI",
-          "title": "Low Mass - St. Gregory of Nazianzus, Bishop, Confessor & Doctor of - 5/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Kc1bPR2AqXI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2IouGXePK5Q",
           "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3YvLM6Pw8Ok/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-10T08:00:00Z"
+        },
+        {
+          "id": "OIioMkkOgW4",
+          "title": "FSSPX Antwerpen - 10/05 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/OIioMkkOgW4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T13:00:00Z"
         }
       ]
     },
@@ -37,31 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MgdKgypW4Cc",
-          "title": "Saturday 7 AM Catholic Mass for 05/09/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/MgdKgypW4Cc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2dhHHP7hPNs",
-          "title": "Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/2dhHHP7hPNs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "zawPXu-Nhwg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Nazianzen, Bishop, Confessor and Doctor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/zawPXu-Nhwg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tSVuSXG7HJ8",
+          "title": "Saturday 9 AM Traditional Catholic Mass 05/09/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/tSVuSXG7HJ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "d_Acu_DuMy0",
