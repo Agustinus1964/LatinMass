@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T00:03:48.134Z",
+  "lastUpdated": "2026-05-09T04:01:57.884Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,33 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9qJW8cRz3js",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Apparition of Saint Michael the Archangel)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9qJW8cRz3js/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dSkN9z_Gsao",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/dSkN9z_Gsao/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "80WvgiYOlaM",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 05/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/80WvgiYOlaM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Gv1mlk1cc_E",
           "title": "Sainte messe en semaine",
