@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-09T06:31:25.823Z",
+  "lastUpdated": "2026-05-09T08:24:50.109Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,26 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/D5-ykDw3De0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "2IouGXePK5Q",
+          "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2IouGXePK5Q/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-09T08:00:00Z"
+          "scheduledTime": "2026-05-10T07:30:00Z"
+        },
+        {
+          "id": "3YvLM6Pw8Ok",
+          "title": "FSSPX Antwerpen - 10/05 5° ZONDAG na PASEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/3YvLM6Pw8Ok/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T08:00:00Z"
         }
       ]
     },
@@ -33,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Gv1mlk1cc_E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Adv1z2DqCxM",
@@ -53,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zawPXu-Nhwg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-09T13:00:00Z"
+        },
+        {
+          "id": "d_Acu_DuMy0",
+          "title": "8am — 5th Sunday after Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/d_Acu_DuMy0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T07:00:00Z"
         }
       ]
     }
