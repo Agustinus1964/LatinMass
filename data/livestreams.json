@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-09T04:01:57.884Z",
+  "lastUpdated": "2026-05-09T06:31:25.823Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3qAOAp-9R9c",
-          "title": "Hl. Messe - hl. Gregor von Nazianz - 09. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3qAOAp-9R9c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T05:15:00Z"
-        },
         {
           "id": "YY54eNz7dAQ",
           "title": "Saint Gregory Nazianzen, bishop, confessor and Doctor of",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/YY54eNz7dAQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-09T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "D5-ykDw3De0",
