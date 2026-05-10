@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-05-10T08:25:16.571Z",
+  "lastUpdated": "2026-05-10T09:52:07.887Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "3YvLM6Pw8Ok",
-          "title": "FSSPX Antwerpen - 10/05 5° ZONDAG na PASEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/3YvLM6Pw8Ok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2IouGXePK5Q",
-          "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/2IouGXePK5Q/mqdefault_live.jpg",
+          "id": "-6C2MNEXsE4",
+          "title": "5th Sunday after Easter",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/-6C2MNEXsE4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -30,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KGlW0FKf7gw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "-6C2MNEXsE4",
-          "title": "5th Sunday after Easter",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/-6C2MNEXsE4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T10:00:00Z"
         },
         {
           "id": "duvskc_giVQ",
@@ -64,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "R0klJ6B4KmY",
-          "title": "9:30am — 6th Sunday of Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/R0klJ6B4KmY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T08:30:00Z"
+          "id": "Un8Fl8qEyAg",
+          "title": "Sunday 10th May 2026: Fifth Sunday after Easter - Mass celebrated by Monsignor Wach, Prior General",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Un8Fl8qEyAg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SPNNjv0ekWA",
@@ -78,17 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/SPNNjv0ekWA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T09:00:00Z"
-        },
-        {
-          "id": "Un8Fl8qEyAg",
-          "title": "Sunday 10th May 2026: Fifth Sunday after Easter - Mass celebrated by Monsignor Wach, Prior General",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Un8Fl8qEyAg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "esI8hJaiqkk",
