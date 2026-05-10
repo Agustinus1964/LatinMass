@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T18:57:34.761Z",
+  "lastUpdated": "2026-05-10T19:58:58.400Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "AMAo2bQuCUU",
-          "title": "Sunday 1:30 PM Catholic Mass 05/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/AMAo2bQuCUU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "rxPoYAqL7dU",
           "title": "Santo Sacrificio de la Misa. Quinto domingo de Pascua. 10 de mayo 2026. 12:30",
           "channel": "FSSP en MEXICO - Oficial",
@@ -71,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rxPoYAqL7dU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "LB-SqAVSwSk",
+          "title": "V Domingo depois da Páscoa - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/LB-SqAVSwSk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T19:49:37Z"
         },
         {
           "id": "Dy25JFgrQIU",
