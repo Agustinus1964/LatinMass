@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-10T17:49:41.975Z",
+  "lastUpdated": "2026-05-10T18:57:34.761Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fpql45J9-Ss",
-          "title": "V Sunday after Easter | May 10th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/fpql45J9-Ss/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cFuOHcDdRqU",
           "title": "Hl. Messe - Bitttag - 11. Mai 2026",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DCJg46qWfqQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-11T16:30:00Z"
+        },
+        {
+          "id": "kccBSjMS0Ws",
+          "title": "Bittamt - 11. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/kccBSjMS0Ws/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-11T17:00:00Z"
         }
       ]
     },
@@ -64,22 +64,13 @@
           "scheduledTime": null
         },
         {
-          "id": "XfM8sRmZLp0",
-          "title": "Santa Misa Dominical. 10 de mayo 2026.",
+          "id": "rxPoYAqL7dU",
+          "title": "Santo Sacrificio de la Misa. Quinto domingo de Pascua. 10 de mayo 2026. 12:30",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/XfM8sRmZLp0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/rxPoYAqL7dU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "g5ulFzG6kFg",
-          "title": "Prayer in the Name of Jesus",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/g5ulFzG6kFg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T18:00:00Z"
         },
         {
           "id": "Dy25JFgrQIU",
