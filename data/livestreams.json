@@ -1,42 +1,15 @@
 {
-  "lastUpdated": "2026-05-10T14:34:48.201Z",
+  "lastUpdated": "2026-05-10T15:50:27.325Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "KASF3KzkGns",
-          "title": "Solemn High Mass - Fifth Sunday after Easter - 5/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/KASF3KzkGns/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AwWcQUnf-nE",
-          "title": "5th Sunday After Easter",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/AwWcQUnf-nE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "i8lDpOMnK44",
-          "title": "Fifth Sunday After Easter",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/i8lDpOMnK44/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "stLt6OK1f6s",
-          "title": "Sun. May 10, 2026    -    Fifth Sunday after Easter",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/stLt6OK1f6s/mqdefault_live.jpg",
+          "id": "Jpq7tK9ceeM",
+          "title": "Fifth Sunday after Easter, May 10, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/Jpq7tK9ceeM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -50,22 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Jpq7tK9ceeM",
-          "title": "Fifth Sunday after Easter, May 10, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/Jpq7tK9ceeM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T14:45:12Z"
-        },
-        {
           "id": "duvskc_giVQ",
           "title": "Vesper und Maiandacht - 5. Sonntag nach Ostern - 10. Mai 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/duvskc_giVQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fpql45J9-Ss",
@@ -84,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jlJNho5AsW4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-11T11:15:00Z"
+        },
+        {
+          "id": "ugnxGPV5mKU",
+          "title": "FSSPX Antwerpen - 11/05 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ugnxGPV5mKU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-11T15:00:00Z"
         }
       ]
     },
@@ -91,20 +64,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SmCgZl6zvks",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fifth Sunday after Easter)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/SmCgZl6zvks/mqdefault_live.jpg",
+          "id": "w2zXVUkjK8A",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/w2zXVUkjK8A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "frZ4nexCfXE",
-          "title": "10:30am Sung Mass. Fifth Sunday after Easter. II. May Crowning. May 10, 2026.",
+          "id": "PtFyuIL_EEM",
+          "title": "10:30am Sung Mass. May Crowning. Fifth Sunday after Easter. II. May 10, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/frZ4nexCfXE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/PtFyuIL_EEM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pu4dTwf35a4",
+          "title": "FIFTH SUNDAY AFTER EASTER, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/pu4dTwf35a4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "J2l0nmkSGO4",
+          "title": "Sunday 11 AM Sung Mass 2026-05-10",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/J2l0nmkSGO4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -127,31 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Grj87TOb-LY",
-          "title": "Missa Cantada do V Domingo depois da Páscoa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Grj87TOb-LY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pu4dTwf35a4",
-          "title": "FIFTH SUNDAY AFTER EASTER, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/pu4dTwf35a4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T15:30:00Z"
-        },
-        {
           "id": "ivZrSmRuXms",
           "title": "Secondes vêpres de la solennité de sainte Jeanne d'Arc - JOHANNA SPONSA CHRISTI",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/ivZrSmRuXms/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2pU9xXfcPJ0",
@@ -170,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/g5ulFzG6kFg/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-10T18:00:00Z"
+        },
+        {
+          "id": "Dy25JFgrQIU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Philip and James, Apostles)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Dy25JFgrQIU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-11T11:30:00Z"
         }
       ]
     }
