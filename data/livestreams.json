@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-10T19:58:58.400Z",
+  "lastUpdated": "2026-05-10T20:56:52.469Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2GD3DyhluNw",
+          "title": "Simple II Vespers - Fifth Sunday after Easter - 5/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/2GD3DyhluNw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "cFuOHcDdRqU",
           "title": "Hl. Messe - Bitttag - 11. Mai 2026",
@@ -55,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rxPoYAqL7dU",
-          "title": "Santo Sacrificio de la Misa. Quinto domingo de Pascua. 10 de mayo 2026. 12:30",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/rxPoYAqL7dU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "LB-SqAVSwSk",
           "title": "V Domingo depois da Páscoa - Missa Rezada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
           "thumbnail": "https://i.ytimg.com/vi/LB-SqAVSwSk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-10T19:49:37Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Dy25JFgrQIU",
