@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-10T02:39:36.723Z",
+  "lastUpdated": "2026-05-10T06:08:04.113Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kf__bhIUwgQ",
-          "title": "Sung Mass - 5th Sunday after Easter",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/kf__bhIUwgQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2IouGXePK5Q",
           "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2pU9xXfcPJ0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-10T16:00:00Z"
+        },
+        {
+          "id": "g5ulFzG6kFg",
+          "title": "Prayer in the Name of Jesus",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/g5ulFzG6kFg/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-10T18:00:00Z"
         }
       ]
     }
