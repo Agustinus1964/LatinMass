@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T16:51:39.752Z",
+  "lastUpdated": "2026-05-10T17:49:41.975Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/fpql45J9-Ss/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "cFuOHcDdRqU",
+          "title": "Hl. Messe - Bitttag - 11. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/cFuOHcDdRqU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-10T17:00:00Z"
+          "scheduledTime": "2026-05-11T05:15:00Z"
         },
         {
           "id": "jlJNho5AsW4",
@@ -46,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pu4dTwf35a4",
-          "title": "FIFTH SUNDAY AFTER EASTER, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/pu4dTwf35a4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "J2l0nmkSGO4",
-          "title": "Sunday 11 AM Sung Mass 2026-05-10",
+          "id": "AMAo2bQuCUU",
+          "title": "Sunday 1:30 PM Catholic Mass 05/10/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/J2l0nmkSGO4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/AMAo2bQuCUU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,24 +69,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/XfM8sRmZLp0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2pU9xXfcPJ0",
-          "title": "Vespers and Benediction — 5th Sunday after Easter",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/2pU9xXfcPJ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ivZrSmRuXms",
-          "title": "Secondes vêpres de la solennité de sainte Jeanne d'Arc - JOHANNA SPONSA CHRISTI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/ivZrSmRuXms/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Dy25JFgrQIU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-11T11:30:00Z"
+        },
+        {
+          "id": "1S9V_UEy5Tc",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1S9V_UEy5Tc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-11T17:00:00Z"
         }
       ]
     }
