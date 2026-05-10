@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-10T20:56:52.469Z",
+  "lastUpdated": "2026-05-10T21:50:05.699Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/2GD3DyhluNw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "lCi-USudgug",
+          "title": "Ss Phillip&James 11/May/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/lCi-USudgug/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "LB-SqAVSwSk",
-          "title": "V Domingo depois da Páscoa - Missa Rezada",
+          "id": "myIA2KiG-BE",
+          "title": "Ofício do Rosário",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/LB-SqAVSwSk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/myIA2KiG-BE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
