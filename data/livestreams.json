@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-09T23:43:09.583Z",
+  "lastUpdated": "2026-05-10T02:39:36.723Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kf__bhIUwgQ",
+          "title": "Sung Mass - 5th Sunday after Easter",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/kf__bhIUwgQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "2IouGXePK5Q",
           "title": "Amt - 5. Sonntag nach Ostern - 10. Mai 2026",
