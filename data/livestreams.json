@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-10T21:50:05.699Z",
+  "lastUpdated": "2026-05-10T22:42:23.086Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2GD3DyhluNw",
-          "title": "Simple II Vespers - Fifth Sunday after Easter - 5/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/2GD3DyhluNw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lCi-USudgug",
-          "title": "Ss Phillip&James 11/May/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/lCi-USudgug/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cFuOHcDdRqU",
           "title": "Hl. Messe - Bitttag - 11. Mai 2026",
@@ -72,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "myIA2KiG-BE",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/myIA2KiG-BE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Dy25JFgrQIU",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Philip and James, Apostles)",
