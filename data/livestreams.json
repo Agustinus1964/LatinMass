@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-11T18:18:53.306Z",
+  "lastUpdated": "2026-05-11T20:16:27.502Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "a2V30oItSFo",
-          "title": "Saints Philip & James - May 11, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/a2V30oItSFo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DCJg46qWfqQ",
-          "title": "FSSPX Antwerpen - 11/05 HH. PHILIPPUS en JACOBUS de JONGERE",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DCJg46qWfqQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kccBSjMS0Ws",
-          "title": "Bittamt - 11. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/kccBSjMS0Ws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-3T8eDQDGMc",
           "title": "Hl. Messe - Bitttag - 12. Mai 2026",
@@ -39,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-3T8eDQDGMc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T05:15:00Z"
+        },
+        {
+          "id": "gmqRvZOU27M",
+          "title": "Saints Nereus, Achilleus, Domitilla, virgin, and Pan",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/gmqRvZOU27M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T07:15:00Z"
         },
         {
           "id": "a2-8E9FS7AU",
