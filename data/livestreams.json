@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-11T02:49:42.232Z",
+  "lastUpdated": "2026-05-11T06:36:37.045Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "cFuOHcDdRqU",
-          "title": "Hl. Messe - Bitttag - 11. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/cFuOHcDdRqU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T05:15:00Z"
+          "id": "bhmlvR7bKDM",
+          "title": "Saints Philip and James, apostles",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/bhmlvR7bKDM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jlJNho5AsW4",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/kccBSjMS0Ws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-11T17:00:00Z"
+        },
+        {
+          "id": "-3T8eDQDGMc",
+          "title": "Hl. Messe - Bitttag - 12. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-3T8eDQDGMc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T05:15:00Z"
         }
       ]
     },
