@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-11T20:16:27.502Z",
+  "lastUpdated": "2026-05-11T21:48:28.291Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gwKlQEdKqnI",
+          "title": "Ss Nereus, Achileus, Domitilla & Pancras 12/May/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/gwKlQEdKqnI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-3T8eDQDGMc",
           "title": "Hl. Messe - Bitttag - 12. Mai 2026",
@@ -81,6 +90,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gMTTWgjgl5I",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/gMTTWgjgl5I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "mxMtNep0tAo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Nereus, Achilleus, Domitilla and Pancras, Martyrs)",
