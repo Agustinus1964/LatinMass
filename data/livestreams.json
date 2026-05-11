@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-11T10:35:31.367Z",
+  "lastUpdated": "2026-05-11T13:45:25.968Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ElvY9isFu7w",
-          "title": "Sung Mass - Rogation Mass - 5/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ElvY9isFu7w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jlJNho5AsW4",
-          "title": "Mon. May 11, 2026    -    Sts. Philip and James    -    Apostles    -    Rogations",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/jlJNho5AsW4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T11:15:00Z"
-        },
         {
           "id": "ugnxGPV5mKU",
           "title": "FSSPX Antwerpen - 11/05 Aanbidding met Rozenhoedje",
@@ -50,6 +32,15 @@
           "scheduledTime": "2026-05-11T17:00:00Z"
         },
         {
+          "id": "a2V30oItSFo",
+          "title": "Saints Philip & James - May 11, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/a2V30oItSFo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-11T17:15:00Z"
+        },
+        {
           "id": "-3T8eDQDGMc",
           "title": "Hl. Messe - Bitttag - 12. Mai 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -66,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/a2-8E9FS7AU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T10:30:00Z"
+        },
+        {
+          "id": "hHPqHtHXvFU",
+          "title": "Tue. May 12, 2026    -    Sts. Nereus, Archilleus, Domitilla, and Pancratius    -    Martys",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/hHPqHtHXvFU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T11:15:00Z"
+        },
+        {
+          "id": "jI8_AsezPWs",
+          "title": "Understanding The Crisis in the Church - Chapter 4 - Veracity and Necessity of the Catholic Faith",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/jI8_AsezPWs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T11:45:00Z"
         }
       ]
     },
@@ -73,31 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "q5Rof3G9pjM",
-          "title": "7am Mass. Ss. Philip & James, Apostles. II. Rogation II. Monday, May 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/q5Rof3G9pjM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gDj2-jCCIFs",
-          "title": "Monday 6 AM Traditional Catholic Mass 05/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/gDj2-jCCIFs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Dy25JFgrQIU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Philip and James, Apostles)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Dy25JFgrQIU/mqdefault_live.jpg",
+          "id": "3fLhjWaHpic",
+          "title": "Monday 11th May 2026: Saints Philip and James",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/3fLhjWaHpic/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-11T11:30:00Z"
+          "scheduledTime": "2026-05-11T17:00:00Z"
         },
         {
           "id": "1S9V_UEy5Tc",
