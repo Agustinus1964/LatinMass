@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-05-11T16:29:59.109Z",
+  "lastUpdated": "2026-05-11T18:18:53.306Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ugnxGPV5mKU",
-          "title": "FSSPX Antwerpen - 11/05 Aanbidding met Rozenhoedje",
+          "id": "a2V30oItSFo",
+          "title": "Saints Philip & James - May 11, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/a2V30oItSFo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DCJg46qWfqQ",
+          "title": "FSSPX Antwerpen - 11/05 HH. PHILIPPUS en JACOBUS de JONGERE",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ugnxGPV5mKU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DCJg46qWfqQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,24 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/kccBSjMS0Ws/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "DCJg46qWfqQ",
-          "title": "FSSPX Antwerpen - 11/05 HH. PHILIPPUS en JACOBUS de JONGERE",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/DCJg46qWfqQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T16:30:00Z"
-        },
-        {
-          "id": "a2V30oItSFo",
-          "title": "Saints Philip & James - May 11, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/a2V30oItSFo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T17:15:00Z"
         },
         {
           "id": "-3T8eDQDGMc",
@@ -109,33 +100,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3fLhjWaHpic",
-          "title": "Monday 11th May 2026: Saints Philip and James",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/3fLhjWaHpic/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T17:00:00Z"
-        },
-        {
-          "id": "1S9V_UEy5Tc",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1S9V_UEy5Tc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T17:00:00Z"
-        },
-        {
-          "id": "C_wsuzQ06Z4",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/C_wsuzQ06Z4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T17:00:00Z"
-        },
-        {
           "id": "mxMtNep0tAo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Nereus, Achilleus, Domitilla and Pancras, Martyrs)",
           "channel": "Usus Antiquior",
@@ -143,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/mxMtNep0tAo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T11:30:00Z"
+        },
+        {
+          "id": "OdQxyTSoCXg",
+          "title": "Tuesday 12th May 2026: Ss. Nereus, Achilleus and Domitilla, Virgins, and Pancratius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/OdQxyTSoCXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T17:00:00Z"
+        },
+        {
+          "id": "JpqkQx8mg14",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/JpqkQx8mg14/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T17:00:00Z"
         }
       ]
     }
