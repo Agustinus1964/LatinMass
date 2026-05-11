@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-11T21:48:28.291Z",
+  "lastUpdated": "2026-05-11T22:50:57.972Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gwKlQEdKqnI",
-          "title": "Ss Nereus, Achileus, Domitilla & Pancras 12/May/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/gwKlQEdKqnI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-3T8eDQDGMc",
           "title": "Hl. Messe - Bitttag - 12. Mai 2026",
@@ -84,21 +75,21 @@
           "thumbnail": "https://i.ytimg.com/vi/EXD4WoblHIY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T16:30:00Z"
+        },
+        {
+          "id": "x447xjSiUxc",
+          "title": "Sung Rosary - 5/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/x447xjSiUxc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T22:50:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gMTTWgjgl5I",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/gMTTWgjgl5I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "mxMtNep0tAo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Nereus, Achilleus, Domitilla and Pancras, Martyrs)",
