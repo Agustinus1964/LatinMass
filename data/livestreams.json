@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-11T13:45:25.968Z",
+  "lastUpdated": "2026-05-11T16:29:59.109Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/ugnxGPV5mKU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kccBSjMS0Ws",
+          "title": "Bittamt - 11. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/kccBSjMS0Ws/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DCJg46qWfqQ",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DCJg46qWfqQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-11T16:30:00Z"
-        },
-        {
-          "id": "kccBSjMS0Ws",
-          "title": "Bittamt - 11. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/kccBSjMS0Ws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-11T17:00:00Z"
         },
         {
           "id": "a2V30oItSFo",
@@ -75,6 +75,33 @@
           "thumbnail": "https://i.ytimg.com/vi/jI8_AsezPWs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T11:45:00Z"
+        },
+        {
+          "id": "UKDhGaFPQ1U",
+          "title": "FSSPX Antwerpen - 12/05 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/UKDhGaFPQ1U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T15:00:00Z"
+        },
+        {
+          "id": "V01r7MDKlYM",
+          "title": "Maiandacht und hl. Messe - Bitttag - 12. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/V01r7MDKlYM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T15:40:00Z"
+        },
+        {
+          "id": "EXD4WoblHIY",
+          "title": "FSSPX Antwerpen - 12/05 HH. NEREUS, ACHILLEUS, DOMITILLA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/EXD4WoblHIY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T16:30:00Z"
         }
       ]
     },
@@ -98,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/1S9V_UEy5Tc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-11T17:00:00Z"
+        },
+        {
+          "id": "C_wsuzQ06Z4",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/C_wsuzQ06Z4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-11T17:00:00Z"
+        },
+        {
+          "id": "mxMtNep0tAo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Nereus, Achilleus, Domitilla and Pancras, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/mxMtNep0tAo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T11:30:00Z"
         }
       ]
     }
