@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-12T18:07:24.419Z",
+  "lastUpdated": "2026-05-12T20:13:40.025Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "maXIfFtzmDs",
-          "title": "Procession et sainte messe du Mardi des Rogations - EXAUDIVIT",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/maXIfFtzmDs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j6T4uiGBdvY",
           "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension)",
