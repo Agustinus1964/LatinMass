@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-12T06:12:05.339Z",
+  "lastUpdated": "2026-05-12T09:17:28.031Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gmqRvZOU27M",
-          "title": "Saints Nereus, Achilleus, Domitilla, virgin, and Pan",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/gmqRvZOU27M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "a2-8E9FS7AU",
           "title": "Sung Mass - Rogation Mass - 5/12/26",
@@ -108,6 +99,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "TG4W3weEcJc",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/TG4W3weEcJc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "mxMtNep0tAo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Nereus, Achilleus, Domitilla and Pancras, Martyrs)",
