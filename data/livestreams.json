@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-12T21:47:57.652Z",
+  "lastUpdated": "2026-05-12T22:57:20.460Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "dJ8boBkyfKs",
-          "title": "Vigil of the Ascension 13/May/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/dJ8boBkyfKs/mqdefault_live.jpg",
+          "id": "x447xjSiUxc",
+          "title": "Sung Rosary - 5/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/x447xjSiUxc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -72,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "n62MBqy02ps",
-          "title": "Ofício do Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/n62MBqy02ps/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j6T4uiGBdvY",
           "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension)",
