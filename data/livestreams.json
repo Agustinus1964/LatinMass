@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-12T15:59:34.562Z",
+  "lastUpdated": "2026-05-12T18:07:24.419Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UKDhGaFPQ1U",
-          "title": "FSSPX Antwerpen - 12/05 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/UKDhGaFPQ1U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "V01r7MDKlYM",
-          "title": "Maiandacht und hl. Messe - Bitttag - 12. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/V01r7MDKlYM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VsrBmbl6_x0",
           "title": "Hl. Messe - Vigil von Himmelfahrt - 13. Mai 2026",
@@ -30,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VsrBmbl6_x0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T05:15:00Z"
-        },
-        {
-          "id": "qXS8fM8GUyg",
-          "title": "FSSPX Antwerpen - 13/05 H. ROBERTUS BELLARMINUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/qXS8fM8GUyg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T05:30:00Z"
         },
         {
           "id": "y1Ye2Nn6Juc",
@@ -57,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/d0BHSZTgeMU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T11:15:00Z"
+        },
+        {
+          "id": "WlSN4s6gtwI",
+          "title": "Maiandacht und hl. Messe - Vigil von Himmelfahrt - 13. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WlSN4s6gtwI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T16:00:00Z"
+        },
+        {
+          "id": "MdkCqdVoxCQ",
+          "title": "FSSPX Antwerpen - 13/05 H. ROBERTUS BELLARMINUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/MdkCqdVoxCQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T16:30:00Z"
         }
       ]
     },
@@ -64,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "OdQxyTSoCXg",
-          "title": "Tuesday 12th May 2026: Ss. Nereus, Achilleus and Domitilla, Virgins, and Pancratius",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/OdQxyTSoCXg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T17:00:00Z"
-        },
-        {
-          "id": "JpqkQx8mg14",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/JpqkQx8mg14/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T17:00:00Z"
-        },
-        {
           "id": "maXIfFtzmDs",
           "title": "Procession et sainte messe du Mardi des Rogations - EXAUDIVIT",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/maXIfFtzmDs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "j6T4uiGBdvY",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/TPnvRB14XwI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T15:00:00Z"
+        },
+        {
+          "id": "ZmBdBTFNUC0",
+          "title": "Wednesday 13th May 2026: Vigil of Ascension",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ZmBdBTFNUC0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T17:00:00Z"
+        },
+        {
+          "id": "2Zws-E8CdX0",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/2Zws-E8CdX0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T17:00:00Z"
         }
       ]
     }
