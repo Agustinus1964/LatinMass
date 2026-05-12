@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-12T11:30:12.478Z",
+  "lastUpdated": "2026-05-12T13:22:02.854Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "a2-8E9FS7AU",
-          "title": "Sung Mass - Rogation Mass - 5/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/a2-8E9FS7AU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hHPqHtHXvFU",
-          "title": "Tue. May 12, 2026    -    Sts. Nereus, Archilleus, Domitilla, and Pancratius    -    Martys",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/hHPqHtHXvFU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jI8_AsezPWs",
-          "title": "Understanding The Crisis in the Church - Chapter 4 - Veracity and Necessity of the Catholic Faith",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/jI8_AsezPWs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T11:45:00Z"
-        },
         {
           "id": "V01r7MDKlYM",
           "title": "Maiandacht und hl. Messe - Bitttag - 12. Mai 2026",
@@ -48,24 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/EXD4WoblHIY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T16:30:00Z"
-        },
-        {
-          "id": "x447xjSiUxc",
-          "title": "Sung Rosary - 5/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/x447xjSiUxc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T22:50:00Z"
-        },
-        {
-          "id": "sclYnzyAwNs",
-          "title": "Compline - 5/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/sclYnzyAwNs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T00:45:00Z"
         },
         {
           "id": "VsrBmbl6_x0",
@@ -109,24 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mxMtNep0tAo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Nereus, Achilleus, Domitilla and Pancras, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/mxMtNep0tAo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "d-mnj4meTA8",
-          "title": "7am Mass. Ss. Nereus, Achilleus & Domitilla, Virgins, & Pancratius, Martyrs. III. Tuesday, 5-12-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/d-mnj4meTA8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "OdQxyTSoCXg",
           "title": "Tuesday 12th May 2026: Ss. Nereus, Achilleus and Domitilla, Virgins, and Pancratius",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -143,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JpqkQx8mg14/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-12T17:00:00Z"
+        },
+        {
+          "id": "j6T4uiGBdvY",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/j6T4uiGBdvY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T11:30:00Z"
         }
       ]
     }
