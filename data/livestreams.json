@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-12T13:22:02.854Z",
+  "lastUpdated": "2026-05-12T15:59:34.562Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "UKDhGaFPQ1U",
+          "title": "FSSPX Antwerpen - 12/05 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/UKDhGaFPQ1U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "V01r7MDKlYM",
           "title": "Maiandacht und hl. Messe - Bitttag - 12. Mai 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/V01r7MDKlYM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T15:40:00Z"
-        },
-        {
-          "id": "EXD4WoblHIY",
-          "title": "FSSPX Antwerpen - 12/05 HH. NEREUS, ACHILLEUS, DOMITILLA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EXD4WoblHIY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-12T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VsrBmbl6_x0",
@@ -82,6 +82,15 @@
           "scheduledTime": "2026-05-12T17:00:00Z"
         },
         {
+          "id": "maXIfFtzmDs",
+          "title": "Procession et sainte messe du Mardi des Rogations - EXAUDIVIT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/maXIfFtzmDs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-12T17:00:00Z"
+        },
+        {
           "id": "j6T4uiGBdvY",
           "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension)",
           "channel": "Usus Antiquior",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/j6T4uiGBdvY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T11:30:00Z"
+        },
+        {
+          "id": "TPnvRB14XwI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/TPnvRB14XwI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T15:00:00Z"
         }
       ]
     }
