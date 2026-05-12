@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-12T20:13:40.025Z",
+  "lastUpdated": "2026-05-12T21:47:57.652Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dJ8boBkyfKs",
+          "title": "Vigil of the Ascension 13/May/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/dJ8boBkyfKs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VsrBmbl6_x0",
           "title": "Hl. Messe - Vigil von Himmelfahrt - 13. Mai 2026",
@@ -48,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/MdkCqdVoxCQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T16:30:00Z"
+        },
+        {
+          "id": "QoiLKphhQhU",
+          "title": "Solemn I Vespers - The Vigil of the Ascension - 5/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/QoiLKphhQhU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T21:20:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "n62MBqy02ps",
+          "title": "Ofício do Rosário e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/n62MBqy02ps/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "j6T4uiGBdvY",
           "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension)",
