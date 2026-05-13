@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-12T22:57:20.460Z",
+  "lastUpdated": "2026-05-13T00:01:07.693Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "x447xjSiUxc",
-          "title": "Sung Rosary - 5/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/x447xjSiUxc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VsrBmbl6_x0",
           "title": "Hl. Messe - Vigil von Himmelfahrt - 13. Mai 2026",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QoiLKphhQhU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T21:20:00Z"
+        },
+        {
+          "id": "otveJ8e0eV0",
+          "title": "Sung Mass - Rogation Mass - 5/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/otveJ8e0eV0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T23:00:00Z"
         }
       ]
     },
