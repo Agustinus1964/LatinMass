@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T00:01:07.693Z",
+  "lastUpdated": "2026-05-13T04:27:51.276Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/otveJ8e0eV0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T23:00:00Z"
+        },
+        {
+          "id": "Gq3P6Mdwkro",
+          "title": "Compline - 5/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Gq3P6Mdwkro/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T00:45:00Z"
         }
       ]
     },
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2Zws-E8CdX0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T17:00:00Z"
+        },
+        {
+          "id": "d-LLztOv2UQ",
+          "title": "Educar en la libertad de los hijos de Dios: Un llamado a superar la sobreprotección y el miedo.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/d-LLztOv2UQ/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T02:30:00Z"
         }
       ]
     }
