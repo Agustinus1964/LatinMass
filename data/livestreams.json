@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-13T10:22:32.784Z",
+  "lastUpdated": "2026-05-13T12:26:39.435Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "y1Ye2Nn6Juc",
-          "title": "Sung Mass - The Vigil of the Ascension - 5/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/y1Ye2Nn6Juc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T10:50:00Z"
-        },
-        {
-          "id": "d0BHSZTgeMU",
-          "title": "Wed. May 13, 2026    -    Vigil of the Acension    -    Rogations",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/d0BHSZTgeMU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T11:15:00Z"
-        },
         {
           "id": "WlSN4s6gtwI",
           "title": "Maiandacht und hl. Messe - Vigil von Himmelfahrt - 13. Mai 2026",
@@ -41,31 +23,13 @@
           "scheduledTime": "2026-05-13T16:30:00Z"
         },
         {
-          "id": "QoiLKphhQhU",
-          "title": "Solemn I Vespers - The Vigil of the Ascension - 5/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/QoiLKphhQhU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T21:20:00Z"
-        },
-        {
-          "id": "otveJ8e0eV0",
-          "title": "Sung Mass - Rogation Mass - 5/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/otveJ8e0eV0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T23:00:00Z"
-        },
-        {
           "id": "Gq3P6Mdwkro",
           "title": "Compline - 5/13/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/Gq3P6Mdwkro/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-14T00:45:00Z"
+          "scheduledTime": "2026-05-14T00:30:00Z"
         },
         {
           "id": "aEKH3ndv0YE",
@@ -84,6 +48,33 @@
           "thumbnail": "https://i.ytimg.com/vi/c-d9tbz1d2E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T08:00:00Z"
+        },
+        {
+          "id": "f-MsKW0ildM",
+          "title": "Sung Mass - Feast of the Ascension",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/f-MsKW0ildM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T11:00:00Z"
+        },
+        {
+          "id": "75sVVDzux_4",
+          "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/75sVVDzux_4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T11:15:00Z"
+        },
+        {
+          "id": "nfSRMtIsrHU",
+          "title": "Low Mass - The Ascension of Our Lord Jesus Christ - 5/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/nfSRMtIsrHU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T11:20:00Z"
         }
       ]
     },
@@ -91,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cahGiJZUECU",
-          "title": "Wednesday 6 AM Daily Traditional Catholic Mass 05/13/2026",
+          "id": "ttClIwqpuFQ",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 05/13/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/cahGiJZUECU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ttClIwqpuFQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "j6T4uiGBdvY",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/j6T4uiGBdvY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T11:30:00Z"
         },
         {
           "id": "TPnvRB14XwI",
@@ -134,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2Zws-E8CdX0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-13T17:00:00Z"
+        },
+        {
+          "id": "d40hRa1g7oc",
+          "title": "Wednesday 7 PM Rogation Traditional Catholic Mass 05/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/d40hRa1g7oc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-13T22:58:00Z"
         },
         {
           "id": "d-LLztOv2UQ",
