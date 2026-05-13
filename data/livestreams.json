@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-13T04:27:51.276Z",
+  "lastUpdated": "2026-05-13T07:36:32.831Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VsrBmbl6_x0",
-          "title": "Hl. Messe - Vigil von Himmelfahrt - 13. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VsrBmbl6_x0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T05:15:00Z"
-        },
         {
           "id": "y1Ye2Nn6Juc",
           "title": "Sung Mass - The Vigil of the Ascension - 5/13/26",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Gq3P6Mdwkro/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T00:45:00Z"
+        },
+        {
+          "id": "aEKH3ndv0YE",
+          "title": "Amt - Christi Himmelfahrt - 14. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/aEKH3ndv0YE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T07:30:00Z"
         }
       ]
     },
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/d-LLztOv2UQ/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T02:30:00Z"
+        },
+        {
+          "id": "9jjESKw-fDA",
+          "title": "Thursday 14th May 2026: Ascension of the Lord",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/9jjESKw-fDA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T07:00:00Z"
         }
       ]
     }
