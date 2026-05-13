@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-13T22:43:49.579Z",
+  "lastUpdated": "2026-05-13T23:53:49.473Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "otveJ8e0eV0",
+          "title": "Sung Mass - Rogation Mass - 5/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/otveJ8e0eV0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aEKH3ndv0YE",
           "title": "Amt - Christi Himmelfahrt - 14. Mai 2026",
@@ -105,8 +114,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/d40hRa1g7oc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-13T22:58:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "d-LLztOv2UQ",
@@ -170,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/M8xoR8270w0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T17:00:00Z"
+        },
+        {
+          "id": "L9l2OX6la3U",
+          "title": "ASCENSION OF OUR LORD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/L9l2OX6la3U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T23:00:00Z"
         }
       ]
     }
