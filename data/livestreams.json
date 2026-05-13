@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-05-13T19:50:23.909Z",
+  "lastUpdated": "2026-05-13T21:23:31.748Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Gq3P6Mdwkro",
-          "title": "Compline - 5/13/26",
+          "id": "QoiLKphhQhU",
+          "title": "Solemn I Vespers - The Vigil of the Ascension - 5/13/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Gq3P6Mdwkro/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T00:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/QoiLKphhQhU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bUi1yWBqdBE",
+          "title": "Mass of the Ascension of Our Lord - 14/May/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/bUi1yWBqdBE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aEKH3ndv0YE",
@@ -84,12 +93,39 @@
           "thumbnail": "https://i.ytimg.com/vi/IBwAkfwRtdg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T15:00:00Z"
+        },
+        {
+          "id": "XNE2QTnoytc",
+          "title": "Solemn II Vespers - The Ascension of Our Lord Jesus Christ - 5/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/XNE2QTnoytc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T21:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "I0PQ4wAnjIc",
+          "title": "6pm Mass. The Vigil of Ascension. II. Commemoration: St. Robert Bellarmine. Wednesday, May 13, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/I0PQ4wAnjIc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TMrMyzV3lFQ",
+          "title": "Vigília da Ascensão - Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/TMrMyzV3lFQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "d40hRa1g7oc",
           "title": "Wednesday 7 PM Rogation Traditional Catholic Mass 05/13/2026",
@@ -116,6 +152,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9jjESKw-fDA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T07:00:00Z"
+        },
+        {
+          "id": "c5x0JaC2Occ",
+          "title": "Sainte messe de la fête de l'Ascension - VIRI GALILÆI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/c5x0JaC2Occ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T09:00:00Z"
+        },
+        {
+          "id": "r6EWun0i2SU",
+          "title": "Secondes vêpres de la fête de l'Ascension - O REX GLORIÆ",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/r6EWun0i2SU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T15:45:00Z"
         },
         {
           "id": "uH88t3RhfFY",
