@@ -1,15 +1,42 @@
 {
-  "lastUpdated": "2026-05-14T09:13:33.062Z",
+  "lastUpdated": "2026-05-14T11:24:37.646Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "c-d9tbz1d2E",
-          "title": "FSSPX Antwerpen - 14/05 ONZE-HEER-HEMELVAART",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/c-d9tbz1d2E/mqdefault_live.jpg",
+          "id": "nfSRMtIsrHU",
+          "title": "Low Mass - The Ascension of Our Lord Jesus Christ - 5/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/nfSRMtIsrHU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "p4AAzeAL7lI",
+          "title": "The Ascension of Our Lord Jesus Christ - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/p4AAzeAL7lI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "IrloqHJwgBU",
+          "title": "Ascension Thursday",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/IrloqHJwgBU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "75sVVDzux_4",
+          "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/75sVVDzux_4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,26 +46,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/f-MsKW0ildM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T11:00:00Z"
-        },
-        {
-          "id": "75sVVDzux_4",
-          "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/75sVVDzux_4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T11:15:00Z"
-        },
-        {
-          "id": "nfSRMtIsrHU",
-          "title": "Low Mass - The Ascension of Our Lord Jesus Christ - 5/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/nfSRMtIsrHU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T11:20:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SQJGuQBjCog",
@@ -111,6 +120,24 @@
           "thumbnail": "https://i.ytimg.com/vi/rfvVdgRztd8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-15T05:15:00Z"
+        },
+        {
+          "id": "NRkjL92T7Jg",
+          "title": "Low Mass - St. John Baptist de la Salle - 5/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/NRkjL92T7Jg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T11:15:00Z"
+        },
+        {
+          "id": "1dChwjpia1w",
+          "title": "Fri. May 15, 2026    -   St. John Baptist de la Salle",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/1dChwjpia1w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T11:15:00Z"
         }
       ]
     },
@@ -118,20 +145,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "c5x0JaC2Occ",
-          "title": "Sainte messe de la fête de l'Ascension - VIRI GALILÆI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/c5x0JaC2Occ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fhLDfbmw1wE",
-          "title": "Ascensão do Senhor - Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fhLDfbmw1wE/mqdefault_live.jpg",
+          "id": "XQ-FHtY4m94",
+          "title": "7am Mass. Ascension of the Lord. I. Thursday, May 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/XQ-FHtY4m94/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
