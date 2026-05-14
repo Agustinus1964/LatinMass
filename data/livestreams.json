@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-14T19:41:31.352Z",
+  "lastUpdated": "2026-05-14T21:06:37.427Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "XNE2QTnoytc",
+          "title": "Solemn II Vespers - The Ascension of Our Lord Jesus Christ - 5/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/XNE2QTnoytc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "uE7NoNZIUcM",
           "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
@@ -108,6 +117,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tpS7mTVO5O8",
+          "title": "Ascensão do Senhor - Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/tpS7mTVO5O8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "L9l2OX6la3U",
           "title": "ASCENSION OF OUR LORD, 2026",
