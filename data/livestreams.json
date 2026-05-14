@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-13T23:53:49.473Z",
+  "lastUpdated": "2026-05-14T02:49:04.120Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "otveJ8e0eV0",
-          "title": "Sung Mass - Rogation Mass - 5/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/otveJ8e0eV0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "aEKH3ndv0YE",
           "title": "Amt - Christi Himmelfahrt - 14. Mai 2026",
@@ -102,6 +93,24 @@
           "thumbnail": "https://i.ytimg.com/vi/uE7NoNZIUcM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T22:00:00Z"
+        },
+        {
+          "id": "Z59KV_Hbygg",
+          "title": "Compline - 5/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Z59KV_Hbygg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T00:45:00Z"
+        },
+        {
+          "id": "2HnESJu-854",
+          "title": "Ascension Thursday, May 14, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/2HnESJu-854/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T00:45:42Z"
         }
       ]
     },
@@ -109,22 +118,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "d40hRa1g7oc",
-          "title": "Wednesday 7 PM Rogation Traditional Catholic Mass 05/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/d40hRa1g7oc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "d-LLztOv2UQ",
           "title": "Educar en la libertad de los hijos de Dios: Un llamado a superar la sobreprotección y el miedo.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/d-LLztOv2UQ/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T02:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9jjESKw-fDA",
@@ -188,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/L9l2OX6la3U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T23:00:00Z"
+        },
+        {
+          "id": "lqNyjPsqhbU",
+          "title": "La Ascensión de Nuestro Señor Jesucristo. P. Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/lqNyjPsqhbU/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T02:30:00Z"
         }
       ]
     }
