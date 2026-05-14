@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-14T21:06:37.427Z",
+  "lastUpdated": "2026-05-14T22:35:20.746Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XNE2QTnoytc",
-          "title": "Solemn II Vespers - The Ascension of Our Lord Jesus Christ - 5/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/XNE2QTnoytc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uE7NoNZIUcM",
           "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/uE7NoNZIUcM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2HnESJu-854",
@@ -118,11 +109,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tpS7mTVO5O8",
-          "title": "Ascensão do Senhor - Ofício do Rosário",
+          "id": "A-inuv4h2Tw",
+          "title": "7pm Solemn High Mass. Ascension of the Lord. I. Thursday, May 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/A-inuv4h2Tw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "CCi7VOPHKxs",
+          "title": "Ascensão do Senhor - Missa Cantada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/tpS7mTVO5O8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/CCi7VOPHKxs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OZOuIhQhOXo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-15T17:00:00Z"
+        },
+        {
+          "id": "p_I5aUT8WAA",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jean Baptiste de la Salle, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/p_I5aUT8WAA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T22:30:00Z"
         }
       ]
     }
