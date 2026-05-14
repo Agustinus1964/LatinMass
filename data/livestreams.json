@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-14T13:12:57.527Z",
+  "lastUpdated": "2026-05-14T15:39:41.873Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tv67bssgZWo",
-          "title": "Feast of the Ascension-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/tv67bssgZWo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T13:10:00Z"
-        },
-        {
-          "id": "SQJGuQBjCog",
-          "title": "Solemn High Mass - The Ascension of Our Lord Jesus Christ - 5/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/SQJGuQBjCog/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T14:00:00Z"
-        },
         {
           "id": "k_QlsteAQXI",
           "title": "Ascension of Our Lord | May 14th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/k_QlsteAQXI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IBwAkfwRtdg",
@@ -37,17 +19,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/IBwAkfwRtdg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "XNE2QTnoytc",
-          "title": "Solemn II Vespers - The Ascension of Our Lord Jesus Christ - 5/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/XNE2QTnoytc/mqdefault_live.jpg",
+          "id": "cL2HM7gPa2g",
+          "title": "Ascensione di Nostro Signore - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/cL2HM7gPa2g/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-14T21:00:00Z"
+          "scheduledTime": "2026-05-14T16:25:00Z"
         },
         {
           "id": "uE7NoNZIUcM",
@@ -57,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uE7NoNZIUcM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-14T22:00:00Z"
-        },
-        {
-          "id": "Z59KV_Hbygg",
-          "title": "Compline - 5/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Z59KV_Hbygg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T00:45:00Z"
         },
         {
           "id": "2HnESJu-854",
@@ -102,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1dChwjpia1w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-15T11:15:00Z"
+        },
+        {
+          "id": "9d8dj60M4tg",
+          "title": "FSSPX Antwerpen - 15/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9d8dj60M4tg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T15:00:00Z"
         }
       ]
     },
@@ -109,13 +91,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "YPAWyG6Oiqs",
+          "title": "11am Low Mass. Ascension of the Lord. I. Thursday, May 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/YPAWyG6Oiqs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "joqVqaCuvVo",
           "title": "Ascension Thursday / Jeudi de l'Ascension",
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/joqVqaCuvVo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r6EWun0i2SU",
@@ -170,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lqNyjPsqhbU/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-15T02:30:00Z"
+        },
+        {
+          "id": "QZIrSLm7_Us",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/QZIrSLm7_Us/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T15:00:00Z"
         }
       ]
     }
