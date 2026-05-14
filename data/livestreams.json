@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T02:49:04.120Z",
+  "lastUpdated": "2026-05-14T06:22:19.921Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -111,21 +111,21 @@
           "thumbnail": "https://i.ytimg.com/vi/2HnESJu-854/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-15T00:45:42Z"
+        },
+        {
+          "id": "rfvVdgRztd8",
+          "title": "Hl. Messe - hl. Johannes Baptistt de la Salle - 15. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/rfvVdgRztd8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "d-LLztOv2UQ",
-          "title": "Educar en la libertad de los hijos de Dios: Un llamado a superar la sobreprotección y el miedo.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/d-LLztOv2UQ/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9jjESKw-fDA",
           "title": "Thursday 14th May 2026: Ascension of the Lord",
