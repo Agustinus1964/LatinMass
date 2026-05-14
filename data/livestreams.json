@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-14T06:22:19.921Z",
+  "lastUpdated": "2026-05-14T09:13:33.062Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aEKH3ndv0YE",
-          "title": "Amt - Christi Himmelfahrt - 14. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/aEKH3ndv0YE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T07:30:00Z"
-        },
         {
           "id": "c-d9tbz1d2E",
           "title": "FSSPX Antwerpen - 14/05 ONZE-HEER-HEMELVAART",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/c-d9tbz1d2E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "f-MsKW0ildM",
@@ -127,22 +118,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9jjESKw-fDA",
-          "title": "Thursday 14th May 2026: Ascension of the Lord",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/9jjESKw-fDA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T07:00:00Z"
-        },
-        {
           "id": "c5x0JaC2Occ",
           "title": "Sainte messe de la fête de l'Ascension - VIRI GALILÆI",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/c5x0JaC2Occ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fhLDfbmw1wE",
+          "title": "Ascensão do Senhor - Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fhLDfbmw1wE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r6EWun0i2SU",
