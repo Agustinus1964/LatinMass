@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-05-14T11:24:37.646Z",
+  "lastUpdated": "2026-05-14T13:12:57.527Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "nfSRMtIsrHU",
-          "title": "Low Mass - The Ascension of Our Lord Jesus Christ - 5/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/nfSRMtIsrHU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p4AAzeAL7lI",
-          "title": "The Ascension of Our Lord Jesus Christ - The Immaculata",
+          "id": "tv67bssgZWo",
+          "title": "Feast of the Ascension-The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/p4AAzeAL7lI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IrloqHJwgBU",
-          "title": "Ascension Thursday",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/IrloqHJwgBU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "75sVVDzux_4",
-          "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/75sVVDzux_4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "f-MsKW0ildM",
-          "title": "Sung Mass - Feast of the Ascension",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/f-MsKW0ildM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/tv67bssgZWo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T13:10:00Z"
         },
         {
           "id": "SQJGuQBjCog",
@@ -145,13 +109,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "XQ-FHtY4m94",
-          "title": "7am Mass. Ascension of the Lord. I. Thursday, May 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/XQ-FHtY4m94/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "joqVqaCuvVo",
+          "title": "Ascension Thursday / Jeudi de l'Ascension",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/joqVqaCuvVo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-14T14:00:00Z"
         },
         {
           "id": "r6EWun0i2SU",
