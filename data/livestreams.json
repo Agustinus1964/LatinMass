@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-14T22:35:20.746Z",
+  "lastUpdated": "2026-05-14T23:54:27.271Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uE7NoNZIUcM",
-          "title": "Thu. May 14, 2026    -    Ascension of Our Lord",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/uE7NoNZIUcM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2HnESJu-854",
           "title": "Ascension Thursday, May 14, 2026",
@@ -102,6 +93,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Iga3R2ZJJ4k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-15T16:30:00Z"
+        },
+        {
+          "id": "TRhH6fh_850",
+          "title": "Sung Rosary - 5/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/TRhH6fh_850/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-15T22:55:00Z"
         }
       ]
     },
@@ -118,22 +118,22 @@
           "scheduledTime": null
         },
         {
-          "id": "CCi7VOPHKxs",
-          "title": "Ascensão do Senhor - Missa Cantada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/CCi7VOPHKxs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "L9l2OX6la3U",
           "title": "ASCENSION OF OUR LORD, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/L9l2OX6la3U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-14T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8X19gHFyZdw",
+          "title": "7 PM Ascension Thursday Traditional Latin Sung Mass 05/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/8X19gHFyZdw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lqNyjPsqhbU",
