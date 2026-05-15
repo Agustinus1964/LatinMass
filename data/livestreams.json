@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T17:59:52.874Z",
+  "lastUpdated": "2026-05-15T19:48:49.779Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xwtYaAwmayE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-16T05:15:00Z"
+        },
+        {
+          "id": "XlLEp5RScJ8",
+          "title": "Saint Ubald, bishop and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/XlLEp5RScJ8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-16T07:30:00Z"
         },
         {
           "id": "CzvKtsw6iJM",
@@ -45,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vwku_Fpbsok",
-          "title": "Friday 15th May 2026: St. John Baptist de la Salle",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/vwku_Fpbsok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "p_I5aUT8WAA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Jean Baptiste de la Salle, Confessor)",
