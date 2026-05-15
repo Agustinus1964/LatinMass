@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-15T22:01:03.144Z",
+  "lastUpdated": "2026-05-15T23:27:09.535Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "WLjfgpsceaY",
-          "title": "Mass of St. Ubald - Saturday 16th May 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/WLjfgpsceaY/mqdefault_live.jpg",
+          "id": "TRhH6fh_850",
+          "title": "Sung Rosary - 5/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/TRhH6fh_850/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "fl5NyxzjN7Y",
-          "title": "Mass of St Ubald - 16.5.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/fl5NyxzjN7Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T21:05:48Z"
         },
         {
           "id": "xwtYaAwmayE",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TXIks03c6Ts/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-16T12:00:00Z"
+        },
+        {
+          "id": "8BYwsUDSFFc",
+          "title": "Sung Rosary - 5/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8BYwsUDSFFc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-16T22:55:00Z"
         }
       ]
     },
@@ -82,13 +82,22 @@
           "scheduledTime": null
         },
         {
-          "id": "p_I5aUT8WAA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jean Baptiste de la Salle, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/p_I5aUT8WAA/mqdefault_live.jpg",
+          "id": "qHb-1w5xT2o",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 05/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/qHb-1w5xT2o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "w6HMkIxWTEY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/w6HMkIxWTEY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-15T22:30:00Z"
+          "scheduledTime": "2026-05-15T23:28:00Z"
         },
         {
           "id": "iJdSyishc6k",
