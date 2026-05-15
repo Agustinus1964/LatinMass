@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-15T11:52:54.885Z",
+  "lastUpdated": "2026-05-15T13:59:08.307Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NRkjL92T7Jg",
-          "title": "Low Mass - St. John Baptist de la Salle - 5/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/NRkjL92T7Jg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3MMZ4NY3Yd8",
-          "title": "Spiritual Conference: Biography of Archbishop Lefebvre Part 6",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/3MMZ4NY3Yd8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T11:45:00Z"
-        },
         {
           "id": "9d8dj60M4tg",
           "title": "FSSPX Antwerpen - 15/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -59,24 +41,6 @@
           "scheduledTime": "2026-05-15T16:30:00Z"
         },
         {
-          "id": "TRhH6fh_850",
-          "title": "Sung Rosary - 5/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/TRhH6fh_850/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T22:55:00Z"
-        },
-        {
-          "id": "d2iMy3M_reM",
-          "title": "Compline - 5/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/d2iMy3M_reM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-16T00:45:00Z"
-        },
-        {
           "id": "xwtYaAwmayE",
           "title": "Hl. Messe - hl. Ubald - 16. Mai 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -102,12 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/MVGeZTkGcyQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-16T11:15:00Z"
+        },
+        {
+          "id": "TXIks03c6Ts",
+          "title": "Sat. May 16, 2026    -    St. Ubald    -    Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/TXIks03c6Ts/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-16T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "xZgqB72XySM",
+          "title": "Santo Sacrificio de la Misa, San Juan Bautista de la Salle y San Isidro, Labrador, 15 de mayo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/xZgqB72XySM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4_TFv8t5eqA",
           "title": "Sainte messe en semaine",
