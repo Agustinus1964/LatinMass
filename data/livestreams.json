@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-15T13:59:08.307Z",
+  "lastUpdated": "2026-05-15T16:06:17.855Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9d8dj60M4tg",
-          "title": "FSSPX Antwerpen - 15/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9d8dj60M4tg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T15:00:00Z"
-        },
         {
           "id": "dL0hr8UGiYw",
           "title": "FSSPX Antwerpen - 15/05 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/dL0hr8UGiYw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_INPCgztaS4",
@@ -28,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/_INPCgztaS4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Iga3R2ZJJ4k",
@@ -81,24 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xZgqB72XySM",
-          "title": "Santo Sacrificio de la Misa, San Juan Bautista de la Salle y San Isidro, Labrador, 15 de mayo, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/xZgqB72XySM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4_TFv8t5eqA",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/4_TFv8t5eqA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T15:00:00Z"
-        },
         {
           "id": "vwku_Fpbsok",
           "title": "Friday 15th May 2026: St. John Baptist de la Salle",
