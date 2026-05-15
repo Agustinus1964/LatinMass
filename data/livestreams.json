@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-15T16:06:17.855Z",
+  "lastUpdated": "2026-05-15T17:59:52.874Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dL0hr8UGiYw",
-          "title": "FSSPX Antwerpen - 15/05 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dL0hr8UGiYw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_INPCgztaS4",
-          "title": "Rosenkranz und hl. Messe - hl. Johannes Baptistt de la Salle - 15. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/_INPCgztaS4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Iga3R2ZJJ4k",
-          "title": "FSSPX Antwerpen - 15/05 H. JOHANNES BAPTISTA de la SALLE",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Iga3R2ZJJ4k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T16:30:00Z"
-        },
         {
           "id": "xwtYaAwmayE",
           "title": "Hl. Messe - hl. Ubald - 16. Mai 2026",
@@ -78,17 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/vwku_Fpbsok/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T17:00:00Z"
-        },
-        {
-          "id": "OZOuIhQhOXo",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/OZOuIhQhOXo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-15T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "p_I5aUT8WAA",
