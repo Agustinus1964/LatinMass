@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-16T07:11:45.722Z",
+  "lastUpdated": "2026-05-16T09:09:25.311Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CzvKtsw6iJM",
-          "title": "FSSPX Antwerpen - 16/05 HERDENKING v/d WIJDING v/d KATHEDRAAL",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/CzvKtsw6iJM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-16T08:00:00Z"
-        },
         {
           "id": "MVGeZTkGcyQ",
           "title": "Low Mass - St. Ubald - 5/16/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/giQ1jVdBba8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T00:45:00Z"
+        },
+        {
+          "id": "wosDOaKAZVw",
+          "title": "Amt - Sonntag nach Christi Himmelfahrt - 17. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/wosDOaKAZVw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T07:30:00Z"
         }
       ]
     },
@@ -60,8 +60,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/6ZeMUah0BkY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-16T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "poN8w8CnQBo",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/poN8w8CnQBo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nH_k7IM9vS4",
@@ -80,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/T1a39o6Iak0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-16T12:50:00Z"
+        },
+        {
+          "id": "DqowkLRewlA",
+          "title": "8am — Sunday after Ascension",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/DqowkLRewlA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T07:00:00Z"
+        },
+        {
+          "id": "BFyQ59k3c4w",
+          "title": "9:30am — 7th Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/BFyQ59k3c4w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T08:30:00Z"
+        },
+        {
+          "id": "UhIdgh3Pp3I",
+          "title": "Sainte messe du dimanche dans l'octave de l'Ascension - EXAVDI DOMINE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/UhIdgh3Pp3I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T09:00:00Z"
         }
       ]
     }
