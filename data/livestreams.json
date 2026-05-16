@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T14:38:52.541Z",
+  "lastUpdated": "2026-05-16T15:55:19.000Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/SJDqspdG70A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T14:00:00Z"
+        },
+        {
+          "id": "u9i_gNsbZAM",
+          "title": "Vesper und Maiandacht - Sonntag nach Christi Himmelfahrt - 17. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/u9i_gNsbZAM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "T-p_MKBryLU",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/T-p_MKBryLU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DqowkLRewlA",
           "title": "8am — Sunday after Ascension",
@@ -125,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/KuDmrCdYRVg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T14:00:00Z"
+        },
+        {
+          "id": "mz254iR3u8o",
+          "title": "SUNDAY AFTER THE ASCENSION, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/mz254iR3u8o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T15:30:00Z"
+        },
+        {
+          "id": "-25C4WiliH4",
+          "title": "Secondes vêpres du dimanche dans l'octave de l'Ascension - HÆC LOCUTUS SUM VOBIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/-25C4WiliH4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T15:45:00Z"
         }
       ]
     }
