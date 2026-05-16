@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T13:15:00.145Z",
+  "lastUpdated": "2026-05-16T14:38:52.541Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/-gAuDR_XBRE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T11:20:00Z"
+        },
+        {
+          "id": "3_AGjke8bNk",
+          "title": "Solemn High Mass - Sunday after the Ascension - 5/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/3_AGjke8bNk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T14:00:00Z"
+        },
+        {
+          "id": "SJDqspdG70A",
+          "title": "Sun. May 17, 2026    -    Sunday after  Ascension",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/SJDqspdG70A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T14:00:00Z"
         }
       ]
     },
@@ -28,38 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "T1a39o6Iak0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Ubald, Bishop and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/T1a39o6Iak0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0tHDW--2fII",
-          "title": "7:30am Mass, Rosary, 9am Mass. St. Ubald, Bishop & Confessor. III. Saturday, May 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/0tHDW--2fII/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Vw5f3itduQc",
-          "title": "Saturday 9 AM Traditional Catholic Mass 05/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Vw5f3itduQc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RINxwEzwnF4",
-          "title": "Saturday 7 AM Catholic Mass for 05/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/RINxwEzwnF4/mqdefault_live.jpg",
+          "id": "T-p_MKBryLU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/T-p_MKBryLU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,6 +100,15 @@
           "scheduledTime": "2026-05-17T10:00:00Z"
         },
         {
+          "id": "UjjMEHzC980",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Sunday after the Ascension)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/UjjMEHzC980/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T12:00:00Z"
+        },
+        {
           "id": "B55e_DCUhsg",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/B55e_DCUhsg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T12:45:00Z"
+        },
+        {
+          "id": "KuDmrCdYRVg",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Sunday after the Ascension)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/KuDmrCdYRVg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T14:00:00Z"
         }
       ]
     }
