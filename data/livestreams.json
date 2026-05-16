@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T19:00:06.652Z",
+  "lastUpdated": "2026-05-16T20:04:58.540Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wosDOaKAZVw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T07:30:00Z"
+        },
+        {
+          "id": "kWIcQ5kc3tQ",
+          "title": "Sunday after Ascension",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/kWIcQ5kc3tQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T10:00:00Z"
         },
         {
           "id": "-gAuDR_XBRE",
