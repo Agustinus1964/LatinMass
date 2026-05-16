@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T10:44:14.425Z",
+  "lastUpdated": "2026-05-16T11:47:13.784Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/MVGeZTkGcyQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-16T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TXIks03c6Ts",
@@ -48,12 +48,39 @@
           "thumbnail": "https://i.ytimg.com/vi/wosDOaKAZVw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T07:30:00Z"
+        },
+        {
+          "id": "-gAuDR_XBRE",
+          "title": "Low Mass - Sunday after the Ascension - 5/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-gAuDR_XBRE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T11:20:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "0tHDW--2fII",
+          "title": "7:30am Mass, Rosary, 9am Mass. St. Ubald, Bishop & Confessor. III. Saturday, May 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/0tHDW--2fII/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "RINxwEzwnF4",
+          "title": "Saturday 7 AM Catholic Mass for 05/16/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/RINxwEzwnF4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "T1a39o6Iak0",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Ubald, Bishop and Confessor)",
