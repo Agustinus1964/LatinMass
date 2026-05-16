@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T09:09:25.311Z",
+  "lastUpdated": "2026-05-16T10:44:14.425Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,33 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6ZeMUah0BkY",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6ZeMUah0BkY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "poN8w8CnQBo",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/poN8w8CnQBo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nH_k7IM9vS4",
-          "title": "Saturday 16th May 2026: Saint Ubald",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/nH_k7IM9vS4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-16T09:30:00Z"
-        },
-        {
           "id": "T1a39o6Iak0",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Ubald, Bishop and Confessor)",
           "channel": "Usus Antiquior",
@@ -116,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/UhIdgh3Pp3I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T09:00:00Z"
+        },
+        {
+          "id": "lQSM27CgrT8",
+          "title": "Sunday 17th May 2026: Sunday after the Ascension",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/lQSM27CgrT8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T09:30:00Z"
+        },
+        {
+          "id": "27lUGkBGOgE",
+          "title": "11am — 7th Sunday of Easter",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/27lUGkBGOgE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T10:00:00Z"
         }
       ]
     }
