@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-16T15:55:19.000Z",
+  "lastUpdated": "2026-05-16T16:55:42.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-25C4WiliH4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T15:45:00Z"
+        },
+        {
+          "id": "DP2fMxfcJR8",
+          "title": "Vespers and Benediction — Sunday after Ascension",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/DP2fMxfcJR8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T16:00:00Z"
         }
       ]
     }
