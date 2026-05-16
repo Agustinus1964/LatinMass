@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-16T21:10:10.527Z",
+  "lastUpdated": "2026-05-16T22:09:20.403Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CZ1_U7gfItY",
+          "title": "SUNDAY AFTER THE ASCENSION - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/CZ1_U7gfItY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "wosDOaKAZVw",
           "title": "Amt - Sonntag nach Christi Himmelfahrt - 17. Mai 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wosDOaKAZVw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T07:30:00Z"
+        },
+        {
+          "id": "5Ebs9tIAUq4",
+          "title": "Domenica dopo l'Ascensione - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/5Ebs9tIAUq4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T08:25:00Z"
         },
         {
           "id": "kWIcQ5kc3tQ",
