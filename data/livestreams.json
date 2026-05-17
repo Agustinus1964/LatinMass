@@ -1,26 +1,44 @@
 {
-  "lastUpdated": "2026-05-17T12:10:22.887Z",
+  "lastUpdated": "2026-05-17T14:02:22.343Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-gAuDR_XBRE",
-          "title": "Low Mass - Sunday after the Ascension - 5/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-gAuDR_XBRE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3_AGjke8bNk",
           "title": "Solemn High Mass - Sunday after the Ascension - 5/17/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/3_AGjke8bNk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "w30KWQItElU",
+          "title": "Sunday After The Ascension - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/w30KWQItElU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UaudRJQu8Hw",
+          "title": "Sunday After The Ascension",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/UaudRJQu8Hw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SJDqspdG70A",
+          "title": "Sun. May 17, 2026    -    Sunday after  Ascension",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/SJDqspdG70A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "u9i_gNsbZAM",
@@ -82,49 +100,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "UjjMEHzC980",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Sunday after the Ascension)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/UjjMEHzC980/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zGKzmlru_aA",
-          "title": "7am Mass, Rosary, 8:30am Mass. Sunday after the Ascension. II. May 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/zGKzmlru_aA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rUtxbZTa_6U",
-          "title": "Sunday 7 AM Catholic Mass for 05/17/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/rUtxbZTa_6U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "B55e_DCUhsg",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/B55e_DCUhsg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T12:45:00Z"
-        },
-        {
           "id": "KuDmrCdYRVg",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (Sunday after the Ascension)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/KuDmrCdYRVg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3eVc5wsx7Ok",
+          "title": "Santa Misa Dominical. 17 de mayo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/3eVc5wsx7Ok/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SPFWToxe5J8",
+          "title": "Missa cantada do I Domingo da Ascensão",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/SPFWToxe5J8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mz254iR3u8o",
