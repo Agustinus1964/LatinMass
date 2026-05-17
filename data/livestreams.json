@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T19:05:28.171Z",
+  "lastUpdated": "2026-05-17T20:11:39.193Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tn2GVESX4q4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-18T00:45:00Z"
+        },
+        {
+          "id": "8zd5iD3qzyI",
+          "title": "Saint Venantius, martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/8zd5iD3qzyI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-18T07:15:00Z"
         },
         {
           "id": "c3cO0IqNmBs",
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "bA1RORiWhHk",
-          "title": "Santa Misa Domingo después de la Ascensión. 17 de mayo, 2026.12:30",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/bA1RORiWhHk/mqdefault_live.jpg",
+          "id": "1NhOlWAtFm0",
+          "title": "Santa Missa Rezada — I Domingo após Ascensão",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/1NhOlWAtFm0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
