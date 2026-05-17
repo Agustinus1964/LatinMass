@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-17T15:35:49.724Z",
+  "lastUpdated": "2026-05-17T16:54:05.513Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "O9vR6q2Ctak",
-          "title": "Sunday after the Ascension, May 17, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/O9vR6q2Ctak/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "u9i_gNsbZAM",
-          "title": "Vesper und Maiandacht - Sonntag nach Christi Himmelfahrt - 17. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/u9i_gNsbZAM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "V2M378qnqBw",
           "title": "Sunday after the Ascension | May 17th",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iCPqwVwPXCY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-18T12:00:00Z"
+        },
+        {
+          "id": "hbj3naNBtTo",
+          "title": "FSSPX Antwerpen - 18/05 H. VENANTIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/hbj3naNBtTo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-18T16:30:00Z"
         }
       ]
     },
@@ -73,29 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KuDmrCdYRVg",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Sunday after the Ascension)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/KuDmrCdYRVg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JXtNKGslP_4",
+          "id": "ryNXYH09jIE",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/JXtNKGslP_4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Wjf-5aKI72E",
-          "title": "10:30am Sung Mass. Sunday after the Ascension. II. May 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Wjf-5aKI72E/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ryNXYH09jIE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,15 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "EIFRHimthqU",
-          "title": "Sunday After Ascension / Jeudi après l'Ascension",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/EIFRHimthqU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3eVc5wsx7Ok",
           "title": "Santa Misa Dominical. 17 de mayo, 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -136,31 +100,13 @@
           "scheduledTime": null
         },
         {
-          "id": "B55e_DCUhsg",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/B55e_DCUhsg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-25C4WiliH4",
-          "title": "Secondes vêpres du dimanche dans l'octave de l'Ascension - HÆC LOCUTUS SUM VOBIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/-25C4WiliH4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T15:45:00Z"
-        },
-        {
           "id": "DP2fMxfcJR8",
           "title": "Vespers and Benediction — Sunday after Ascension",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/DP2fMxfcJR8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aar5mknmZ48",
@@ -170,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aar5mknmZ48/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T18:00:00Z"
+        },
+        {
+          "id": "1llsHoJkah4",
+          "title": "Live Stream Holy Mass from Cleveland (Votive Mass—The Anniversary of the Enthronement of the Pope)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/1llsHoJkah4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-18T11:30:00Z"
         },
         {
           "id": "PvlNGQwsIEg",
