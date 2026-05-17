@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T00:13:09.803Z",
+  "lastUpdated": "2026-05-17T04:37:45.128Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sGo1HhBl53w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T21:00:00Z"
+        },
+        {
+          "id": "tn2GVESX4q4",
+          "title": "Compline - 5/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/tn2GVESX4q4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-18T00:45:00Z"
         }
       ]
     },
@@ -179,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DP2fMxfcJR8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-17T16:00:00Z"
+        },
+        {
+          "id": "aar5mknmZ48",
+          "title": "The Dangers of Human Respect",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/aar5mknmZ48/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-17T18:00:00Z"
         }
       ]
     }
