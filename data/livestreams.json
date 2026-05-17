@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-17T17:55:41.053Z",
+  "lastUpdated": "2026-05-17T19:05:28.171Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "V2M378qnqBw",
-          "title": "Sunday after the Ascension | May 17th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/V2M378qnqBw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sGo1HhBl53w",
           "title": "Simple II Vespers - Sunday after the Ascension - 5/17/26",
@@ -64,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "AjTCJFOZq8w",
-          "title": "Sunday 1:30 PM Catholic Mass 05/17/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/AjTCJFOZq8w/mqdefault_live.jpg",
+          "id": "bA1RORiWhHk",
+          "title": "Santa Misa Domingo después de la Ascensión. 17 de mayo, 2026.12:30",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/bA1RORiWhHk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "aar5mknmZ48",
-          "title": "The Dangers of Human Respect",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/aar5mknmZ48/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T18:00:00Z"
         },
         {
           "id": "1llsHoJkah4",
