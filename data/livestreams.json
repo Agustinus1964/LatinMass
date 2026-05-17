@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T16:54:05.513Z",
+  "lastUpdated": "2026-05-17T17:55:41.053Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/V2M378qnqBw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sGo1HhBl53w",
@@ -64,47 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ryNXYH09jIE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ryNXYH09jIE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mz254iR3u8o",
-          "title": "SUNDAY AFTER THE ASCENSION, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/mz254iR3u8o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7xOyohfRaCQ",
-          "title": "Sunday 11 AM Sung Mass 2026-05-17",
+          "id": "AjTCJFOZq8w",
+          "title": "Sunday 1:30 PM Catholic Mass 05/17/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7xOyohfRaCQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3eVc5wsx7Ok",
-          "title": "Santa Misa Dominical. 17 de mayo, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/3eVc5wsx7Ok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DP2fMxfcJR8",
-          "title": "Vespers and Benediction — Sunday after Ascension",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/DP2fMxfcJR8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/AjTCJFOZq8w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/PvlNGQwsIEg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-18T15:00:00Z"
+        },
+        {
+          "id": "4UEj1qOWQgY",
+          "title": "Monday 18th May 2026: Saint Venantius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/4UEj1qOWQgY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-18T17:00:00Z"
+        },
+        {
+          "id": "TF7yKeSzw48",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/TF7yKeSzw48/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-18T17:00:00Z"
         }
       ]
     }
