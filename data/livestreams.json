@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-17T07:31:09.858Z",
+  "lastUpdated": "2026-05-17T09:43:54.600Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wosDOaKAZVw",
-          "title": "Amt - Sonntag nach Christi Himmelfahrt - 17. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/wosDOaKAZVw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5Ebs9tIAUq4",
           "title": "Domenica dopo l'Ascensione - Santa Messa cantata - FSSPX Italia",
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/5Ebs9tIAUq4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T08:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "kWIcQ5kc3tQ",
@@ -91,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DqowkLRewlA",
-          "title": "8am — Sunday after Ascension",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/DqowkLRewlA/mqdefault_live.jpg",
+          "id": "lQSM27CgrT8",
+          "title": "Sunday 17th May 2026: Sunday after the Ascension",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/lQSM27CgrT8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,8 +96,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/BFyQ59k3c4w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UhIdgh3Pp3I",
@@ -114,17 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/UhIdgh3Pp3I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T09:00:00Z"
-        },
-        {
-          "id": "lQSM27CgrT8",
-          "title": "Sunday 17th May 2026: Sunday after the Ascension",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/lQSM27CgrT8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-17T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "27lUGkBGOgE",
