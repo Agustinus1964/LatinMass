@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-17T23:28:50.622Z",
+  "lastUpdated": "2026-05-18T01:28:26.544Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tn2GVESX4q4",
-          "title": "Compline - 5/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/tn2GVESX4q4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T00:45:00Z"
-        },
         {
           "id": "8zd5iD3qzyI",
           "title": "Saint Venantius, martyr",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/wyAjl7-RPTY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-18T22:55:00Z"
+        },
+        {
+          "id": "DHm9DZowyx0",
+          "title": "Compline - 5/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/DHm9DZowyx0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-19T00:45:00Z"
         }
       ]
     },
