@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-18T18:28:40.344Z",
+  "lastUpdated": "2026-05-18T20:14:51.083Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9M9q5KnQim8",
+          "title": "Saint Peter Celestine, pope and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/9M9q5KnQim8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-19T07:15:00Z"
+        },
         {
           "id": "-3qs6dWYero",
           "title": "Tue. May 19, 2026    -    St. Peter Celestine,      Pope and Confessor",
