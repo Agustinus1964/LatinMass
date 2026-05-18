@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-18T09:55:19.224Z",
+  "lastUpdated": "2026-05-18T13:42:22.015Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "c3cO0IqNmBs",
-          "title": "Low Mass - St. Venantius - 5/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/c3cO0IqNmBs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T11:15:00Z"
-        },
-        {
-          "id": "iCPqwVwPXCY",
-          "title": "Mon. May 18, 2026    -    St. Venantius,     Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/iCPqwVwPXCY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T12:00:00Z"
-        },
         {
           "id": "hbj3naNBtTo",
           "title": "FSSPX Antwerpen - 18/05 H. VENANTIUS",
@@ -32,55 +14,19 @@
           "scheduledTime": "2026-05-18T16:30:00Z"
         },
         {
-          "id": "wyAjl7-RPTY",
-          "title": "Sung Rosary - 5/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/wyAjl7-RPTY/mqdefault_live.jpg",
+          "id": "-3qs6dWYero",
+          "title": "Tue. May 19, 2026    -    St. Peter Celestine,      Pope and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/-3qs6dWYero/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-18T22:55:00Z"
-        },
-        {
-          "id": "DHm9DZowyx0",
-          "title": "Compline - 5/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/DHm9DZowyx0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T00:45:00Z"
+          "scheduledTime": "2026-05-19T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UHfpJQG3XXc",
-          "title": "Monday 6 AM Traditional Catholic Mass 05/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UHfpJQG3XXc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-VQQIPQN8PM",
-          "title": "Prima e Santa Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-VQQIPQN8PM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1llsHoJkah4",
-          "title": "Live Stream Holy Mass from Cleveland (Votive Mass—The Anniversary of the Enthronement of the Pope)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/1llsHoJkah4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T11:30:00Z"
-        },
         {
           "id": "PvlNGQwsIEg",
           "title": "Sainte messe en semaine",
@@ -107,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TF7yKeSzw48/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-18T17:00:00Z"
+        },
+        {
+          "id": "H_3ztW_ENzQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter Celestine, Pope and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/H_3ztW_ENzQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-19T11:30:00Z"
         }
       ]
     }
