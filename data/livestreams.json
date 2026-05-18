@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-18T21:44:52.124Z",
+  "lastUpdated": "2026-05-18T22:57:52.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LkkVWv302SY",
-          "title": "Mass of St Peter Celestine - 19.5.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/LkkVWv302SY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9M9q5KnQim8",
           "title": "Saint Peter Celestine, pope and confessor",
@@ -45,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yJNLd7bpQtw",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/yJNLd7bpQtw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "H_3ztW_ENzQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter Celestine, Pope and Confessor)",
