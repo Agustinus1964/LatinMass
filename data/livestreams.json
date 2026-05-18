@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-18T01:28:26.544Z",
+  "lastUpdated": "2026-05-18T05:46:58.888Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mpJ2Url92sA",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/mpJ2Url92sA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "8zd5iD3qzyI",
           "title": "Saint Venantius, martyr",
@@ -11,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/8zd5iD3qzyI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-18T07:15:00Z"
+          "scheduledTime": "2026-05-18T06:15:00Z"
         },
         {
           "id": "c3cO0IqNmBs",
