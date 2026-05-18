@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-18T16:45:02.833Z",
+  "lastUpdated": "2026-05-18T18:28:40.344Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hbj3naNBtTo",
-          "title": "FSSPX Antwerpen - 18/05 H. VENANTIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hbj3naNBtTo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uuvFPv6WJ5I",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uuvFPv6WJ5I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-3qs6dWYero",
           "title": "Tue. May 19, 2026    -    St. Peter Celestine,      Pope and Confessor",
@@ -46,33 +28,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4UEj1qOWQgY",
-          "title": "Monday 18th May 2026: Saint Venantius",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/4UEj1qOWQgY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T17:00:00Z"
-        },
-        {
-          "id": "TF7yKeSzw48",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/TF7yKeSzw48/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T17:00:00Z"
-        },
-        {
-          "id": "PvlNGQwsIEg",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/PvlNGQwsIEg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-18T17:00:00Z"
-        },
-        {
           "id": "H_3ztW_ENzQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter Celestine, Pope and Confessor)",
           "channel": "Usus Antiquior",
@@ -80,6 +35,33 @@
           "thumbnail": "https://i.ytimg.com/vi/H_3ztW_ENzQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-19T11:30:00Z"
+        },
+        {
+          "id": "81K7lt9dMRk",
+          "title": "Tuesday 19th May 2026: Saint Peter Celestine",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/81K7lt9dMRk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-19T17:00:00Z"
+        },
+        {
+          "id": "kvnL_yEWjMg",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/kvnL_yEWjMg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-19T17:00:00Z"
+        },
+        {
+          "id": "2aFgkkvld7U",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/2aFgkkvld7U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-19T17:00:00Z"
         }
       ]
     }
