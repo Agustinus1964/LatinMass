@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-19T14:53:35.310Z",
+  "lastUpdated": "2026-05-19T17:36:17.992Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "_bLrGb6XtCQ",
-          "title": "FSSPX Antwerpen - 19/05 H. PETRUS CELESTINUS",
+          "id": "5IHEV-0TDkY",
+          "title": "FSSPX Antwerpen - 19/05 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/_bLrGb6XtCQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T16:30:00Z"
-        },
-        {
-          "id": "z6iiz7sObyo",
-          "title": "FSSPX Antwerpen - 20/05 H. BERNARDINUS van SIËNA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/z6iiz7sObyo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-20T05:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/5IHEV-0TDkY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "p0LpTDgLlbs",
@@ -37,13 +28,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "RGK6mYgpf4A",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/RGK6mYgpf4A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "81K7lt9dMRk",
           "title": "Tuesday 19th May 2026: Saint Peter Celestine",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/81K7lt9dMRk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "kvnL_yEWjMg",
@@ -51,8 +51,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/kvnL_yEWjMg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2aFgkkvld7U",
@@ -60,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/2aFgkkvld7U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QBmGPabXRok",
@@ -71,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/QBmGPabXRok/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-20T11:30:00Z"
+        },
+        {
+          "id": "lblY_gwWTTo",
+          "title": "Wednesday 20th May 2026: Saint Bernardine of Siena",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/lblY_gwWTTo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-20T17:00:00Z"
+        },
+        {
+          "id": "v8WeCp5gJ-4",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/v8WeCp5gJ-4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-20T17:00:00Z"
+        },
+        {
+          "id": "YbBv4hQCE0I",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YbBv4hQCE0I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-20T17:00:00Z"
         }
       ]
     }
