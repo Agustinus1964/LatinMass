@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-19T19:48:18.314Z",
+  "lastUpdated": "2026-05-19T21:16:20.521Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "o1FFMVyxPpU",
+          "title": "Mass of St Bernadine of Siena - 20.5.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/o1FFMVyxPpU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Ymbt4zX7dK0",
           "title": "Saint Bernardine of Siena, confessor",
@@ -27,6 +36,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DWpRxxUgamg",
+          "title": "Divine Office & 6pm Mass. St. Peter Celestine, Pope & Confessor. III. Tuesday, May 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/DWpRxxUgamg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9w1YyEP90us",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9w1YyEP90us/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "QBmGPabXRok",
           "title": "Live Stream Holy Mass from Cleveland (Saint Bernardine of Siena, Confessor)",
