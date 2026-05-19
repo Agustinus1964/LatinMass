@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-05-19T08:24:09.167Z",
+  "lastUpdated": "2026-05-19T11:37:49.498Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ecJEPIBBx_Y",
+          "title": "Low Mass - St. Peter Celestine - 5/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ecJEPIBBx_Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-3qs6dWYero",
           "title": "Tue. May 19, 2026    -    St. Peter Celestine,      Pope and Confessor",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/-3qs6dWYero/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_bLrGb6XtCQ",
@@ -30,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z6iiz7sObyo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-20T05:30:00Z"
+        },
+        {
+          "id": "p0LpTDgLlbs",
+          "title": "Wed. May 20, 2026    -    St. Bernardine of Siena,    Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/p0LpTDgLlbs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-20T11:15:00Z"
         }
       ]
     },
@@ -42,8 +60,17 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/H_3ztW_ENzQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "WR0gtH67GDI",
+          "title": "7am Mass. St. Peter Celestine, Pope & Confessor. III. Tuesday, May 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WR0gtH67GDI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "81K7lt9dMRk",
