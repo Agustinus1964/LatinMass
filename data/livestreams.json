@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-19T04:40:22.558Z",
+  "lastUpdated": "2026-05-19T08:24:09.167Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9M9q5KnQim8",
-          "title": "Saint Peter Celestine, pope and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/9M9q5KnQim8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-19T07:15:00Z"
-        },
         {
           "id": "-3qs6dWYero",
           "title": "Tue. May 19, 2026    -    St. Peter Celestine,      Pope and Confessor",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_bLrGb6XtCQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-19T16:30:00Z"
+        },
+        {
+          "id": "z6iiz7sObyo",
+          "title": "FSSPX Antwerpen - 20/05 H. BERNARDINUS van SIËNA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/z6iiz7sObyo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-20T05:30:00Z"
         }
       ]
     },
