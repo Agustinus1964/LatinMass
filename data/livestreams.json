@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-19T21:16:20.521Z",
+  "lastUpdated": "2026-05-19T22:43:24.710Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,15 +42,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/DWpRxxUgamg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9w1YyEP90us",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9w1YyEP90us/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
