@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-05-20T08:23:02.736Z",
+  "lastUpdated": "2026-05-20T11:25:19.022Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9otfulXO58U",
+          "title": "Low Mass - St. Bernardine of Siena - 5/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/9otfulXO58U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "p0LpTDgLlbs",
           "title": "Wed. May 20, 2026    -    St. Bernardine of Siena,    Confessor",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/p0LpTDgLlbs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-20T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zOefc49Z4Ag",
@@ -21,12 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/zOefc49Z4Ag/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-21T08:00:00Z"
+        },
+        {
+          "id": "YZhsOdTjR-M",
+          "title": "Thu. May 21, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/YZhsOdTjR-M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-21T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "OTJ8Lbb8Aas",
+          "title": "7am Mass. St. Bernardine of Sienna, Confessor. III. Wednesday, May 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/OTJ8Lbb8Aas/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "QBmGPabXRok",
           "title": "Live Stream Holy Mass from Cleveland (Saint Bernardine of Siena, Confessor)",
