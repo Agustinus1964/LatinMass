@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T14:02:54.422Z",
+  "lastUpdated": "2026-05-20T17:38:24.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YZhsOdTjR-M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-21T11:15:00Z"
+        },
+        {
+          "id": "vq3AMMftNng",
+          "title": "FSSPX Antwerpen - 21/05 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/vq3AMMftNng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-21T16:30:00Z"
         }
       ]
     },
@@ -28,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "b6zjydTerpc",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 05/20/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/b6zjydTerpc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fkB9Ec3rXwo",
-          "title": "Santo Sacrificio de la Misa, 20 de mayo, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/fkB9Ec3rXwo/mqdefault_live.jpg",
+          "id": "fc4Tu4hza6Y",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/fc4Tu4hza6Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,8 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/lblY_gwWTTo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "v8WeCp5gJ-4",
@@ -60,8 +60,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/v8WeCp5gJ-4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YbBv4hQCE0I",
@@ -69,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/YbBv4hQCE0I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VdoOTL8Bg2A",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/p3GwLma7tPA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-21T11:30:00Z"
+        },
+        {
+          "id": "_YWS5vKu01E",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_YWS5vKu01E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-21T17:00:00Z"
         }
       ]
     }
