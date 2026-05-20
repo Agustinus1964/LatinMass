@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T22:09:16.328Z",
+  "lastUpdated": "2026-05-20T23:46:51.547Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vH7ehR37q94",
-          "title": "6pm Mass. St. Bernardine of Sienna, Confessor. III. Wednesday, May 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vH7ehR37q94/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "VdoOTL8Bg2A",
           "title": "La hermosura de la Misa Tradicional, parte 2. P. Daniel Heenan.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_YWS5vKu01E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-21T17:00:00Z"
+        },
+        {
+          "id": "1Nbw8IRShE8",
+          "title": "MASS OF ROSES IN THANKSGIVING TO SAINT THERESE OF LISIEUX, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/1Nbw8IRShE8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-21T23:00:00Z"
         }
       ]
     }
