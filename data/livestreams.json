@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-20T20:10:04.756Z",
+  "lastUpdated": "2026-05-20T22:09:16.328Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "vH7ehR37q94",
+          "title": "6pm Mass. St. Bernardine of Sienna, Confessor. III. Wednesday, May 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/vH7ehR37q94/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "VdoOTL8Bg2A",
           "title": "La hermosura de la Misa Tradicional, parte 2. P. Daniel Heenan.",
