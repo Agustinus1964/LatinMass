@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-21T10:37:58.522Z",
+  "lastUpdated": "2026-05-21T14:12:35.681Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YZhsOdTjR-M",
-          "title": "Thu. May 21, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/YZhsOdTjR-M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-21T11:15:00Z"
-        },
         {
           "id": "4lpXF5NmYlM",
           "title": "FSSPX Antwerpen - 21/05 Priester-Uur-Gebed",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/4lpXF5NmYlM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-21T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vq3AMMftNng",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vq3AMMftNng/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-21T16:30:00Z"
+        },
+        {
+          "id": "HpWIU_xo4hY",
+          "title": "Fri. May 22, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/HpWIU_xo4hY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-22T11:15:00Z"
         }
       ]
     },
@@ -37,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "k4bIHCWO7jA",
-          "title": "7am Mass. Feria of Paschaltide. IV. Thursday, May 21, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/k4bIHCWO7jA/mqdefault_live.jpg",
+          "id": "cQ9E3JjwZQE",
+          "title": "Santo Sacrificio de la Misa, semana después de la Ascensión. 21 de mayo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/cQ9E3JjwZQE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "tHVrQeRzW6A",
-          "title": "Thursday 6 AM Traditional Catholic Mass 05/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/tHVrQeRzW6A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p3GwLma7tPA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/p3GwLma7tPA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-21T11:30:00Z"
         },
         {
           "id": "_YWS5vKu01E",
