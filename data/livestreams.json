@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T22:48:00.753Z",
+  "lastUpdated": "2026-05-21T23:59:12.708Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,8 +51,17 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/1Nbw8IRShE8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-21T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1UwTXuw8_4E",
+          "title": "7 PM Ascension Thursday Traditional Latin Sung Mass 05/21/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/1UwTXuw8_4E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PnEiXsablKo",
