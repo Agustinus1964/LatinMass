@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-21T19:24:22.023Z",
+  "lastUpdated": "2026-05-21T21:10:10.296Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ErmmQUFkTxw",
+          "title": "Mass - Ferial - 22.5.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ErmmQUFkTxw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HpWIU_xo4hY",
           "title": "Fri. May 22, 2026    -    Ferial Day",
@@ -45,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PjD-DwYqveI",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/PjD-DwYqveI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "1Nbw8IRShE8",
           "title": "MASS OF ROSES IN THANKSGIVING TO SAINT THERESE OF LISIEUX, 2026",
