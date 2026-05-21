@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-21T02:57:28.108Z",
+  "lastUpdated": "2026-05-21T06:55:02.963Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4vsg4sd32vg",
-          "title": "Feria: Sunday after the Ascension",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/4vsg4sd32vg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-21T07:15:00Z"
-        },
         {
           "id": "zOefc49Z4Ag",
           "title": "FSSPX Antwerpen - 21/05 H. Begrafenismis van Mevrouw Michelet",
@@ -51,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/aHiiJi3QfWM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-21T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "p3GwLma7tPA",
