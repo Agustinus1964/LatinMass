@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-05-22T13:28:21.945Z",
+  "lastUpdated": "2026-05-22T16:01:35.291Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "d1GTrimGPog",
-          "title": "FSSPX Antwerpen - 22/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/d1GTrimGPog/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-22T15:00:00Z"
-        },
         {
           "id": "4n6BoUhCO84",
           "title": "FSSPX Antwerpen - 22/05 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/4n6BoUhCO84/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-22T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "HJ4HXDyHpak",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HJ4HXDyHpak/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OCWl2PdVg0k",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "HhhXX7PlRgc",
+          "title": "11am Mass. Feria of Paschaltide. IV. Friday, May 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/HhhXX7PlRgc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "PnEiXsablKo",
           "title": "Friday 22nd May 2026: Ascensiontide Feria",
@@ -109,13 +118,40 @@
           "scheduledTime": "2026-05-23T09:30:00Z"
         },
         {
-          "id": "ACa_xqaidOc",
-          "title": "9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
+          "id": "IlhZ0CmkyPM",
+          "title": "Sainte messe de la Vigile de la Pentecôte - EMITTE SPIRITUM TUUM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/IlhZ0CmkyPM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:00:00Z"
+          "scheduledTime": "2026-05-23T13:30:00Z"
+        },
+        {
+          "id": "3FyGFysusGc",
+          "title": "Confirmation and Mass at 10 a.m.",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/3FyGFysusGc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T13:58:00Z"
+        },
+        {
+          "id": "QCNjcHKNMeM",
+          "title": "Confirmation and Mass in Traditional Form for 05/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QCNjcHKNMeM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T13:59:00Z"
+        },
+        {
+          "id": "jUfzSnjLtM0",
+          "title": "VIGIL OF PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/jUfzSnjLtM0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T14:00:00Z"
         }
       ]
     }
