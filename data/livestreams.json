@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-22T10:53:12.627Z",
+  "lastUpdated": "2026-05-22T13:28:21.945Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HpWIU_xo4hY",
-          "title": "Fri. May 22, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/HpWIU_xo4hY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-22T11:15:00Z"
-        },
-        {
-          "id": "kUR7AJ4RGM4",
-          "title": "Spiritual Conference: Life of Bishop Athanasius Schneider, Part 1",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/kUR7AJ4RGM4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-22T11:45:00Z"
-        },
         {
           "id": "d1GTrimGPog",
           "title": "FSSPX Antwerpen - 22/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0jd1x7kqkLA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T08:00:00Z"
+        },
+        {
+          "id": "AITT_uEblKY",
+          "title": "Sat. May 23, 2026    -    Vigil of Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/AITT_uEblKY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T12:00:00Z"
         }
       ]
     },
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Sq6904d5lB4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T09:30:00Z"
+        },
+        {
+          "id": "ACa_xqaidOc",
+          "title": "9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T13:00:00Z"
         }
       ]
     }
