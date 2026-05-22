@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-22T18:13:37.826Z",
+  "lastUpdated": "2026-05-22T20:17:55.336Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HJ4HXDyHpak",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HJ4HXDyHpak/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0jd1x7kqkLA",
           "title": "FSSPX Antwerpen - 23/05 VIGILIE van PINKSTEREN",
@@ -36,15 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PnEiXsablKo",
-          "title": "Friday 22nd May 2026: Ascensiontide Feria",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/PnEiXsablKo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "xcSxclG3j0I",
           "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
