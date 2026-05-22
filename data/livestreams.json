@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T04:20:01.521Z",
+  "lastUpdated": "2026-05-22T07:57:24.624Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -71,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gaM9Te3xoVY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-22T17:00:00Z"
+        },
+        {
+          "id": "xcSxclG3j0I",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/xcSxclG3j0I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-22T22:30:00Z"
         }
       ]
     }
