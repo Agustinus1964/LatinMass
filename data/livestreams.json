@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-22T20:17:55.336Z",
+  "lastUpdated": "2026-05-22T21:41:07.741Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wZwc8UOlND8",
+          "title": "Rosary and Benediction - Saturday 23rd May 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/wZwc8UOlND8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0jd1x7kqkLA",
           "title": "FSSPX Antwerpen - 23/05 VIGILIE van PINKSTEREN",
@@ -27,6 +36,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bckp8v1M3CE",
+          "title": "Divine Office, 6pm Mass, Holy Hour. Feria of Paschaltide. IV. Friday, May 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bckp8v1M3CE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "qUJPqNFO5w8",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/qUJPqNFO5w8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "xcSxclG3j0I",
           "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
@@ -53,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Sq6904d5lB4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T09:30:00Z"
-        },
-        {
-          "id": "ACa_xqaidOc",
-          "title": "9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:00:00Z"
         },
         {
           "id": "IlhZ0CmkyPM",
