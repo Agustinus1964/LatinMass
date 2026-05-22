@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-22T21:41:07.741Z",
+  "lastUpdated": "2026-05-22T22:55:08.878Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "wZwc8UOlND8",
-          "title": "Rosary and Benediction - Saturday 23rd May 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/wZwc8UOlND8/mqdefault_live.jpg",
+          "id": "JPUxC6lNnwo",
+          "title": "Sung Rosary - 5/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/JPUxC6lNnwo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "xcSxclG3j0I",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/xcSxclG3j0I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "bckp8v1M3CE",
           "title": "Divine Office, 6pm Mass, Holy Hour. Feria of Paschaltide. IV. Friday, May 22, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -46,22 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "qUJPqNFO5w8",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/qUJPqNFO5w8/mqdefault_live.jpg",
+          "id": "uFsc-o4_mEM",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 05/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/uFsc-o4_mEM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "xcSxclG3j0I",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/xcSxclG3j0I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-22T22:30:00Z"
         },
         {
           "id": "Sb7DuDLAhJo",
