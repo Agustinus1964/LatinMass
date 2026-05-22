@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T07:57:24.624Z",
+  "lastUpdated": "2026-05-22T10:53:12.627Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HpWIU_xo4hY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-22T11:15:00Z"
+        },
+        {
+          "id": "kUR7AJ4RGM4",
+          "title": "Spiritual Conference: Life of Bishop Athanasius Schneider, Part 1",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/kUR7AJ4RGM4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-22T11:45:00Z"
         },
         {
           "id": "d1GTrimGPog",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OCWl2PdVg0k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-22T16:30:00Z"
+        },
+        {
+          "id": "0jd1x7kqkLA",
+          "title": "FSSPX Antwerpen - 23/05 VIGILIE van PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/0jd1x7kqkLA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T08:00:00Z"
         }
       ]
     },
@@ -80,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/xcSxclG3j0I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-22T22:30:00Z"
+        },
+        {
+          "id": "Sb7DuDLAhJo",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Sb7DuDLAhJo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T09:00:00Z"
+        },
+        {
+          "id": "Sq6904d5lB4",
+          "title": "Saturday 23rd May 2026: Vigil of Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Sq6904d5lB4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T09:30:00Z"
         }
       ]
     }
