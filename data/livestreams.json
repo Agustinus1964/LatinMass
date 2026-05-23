@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-23T21:24:24.983Z",
+  "lastUpdated": "2026-05-23T22:24:27.540Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jdrmOgrbC5E",
+          "title": "Compline - 5/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jdrmOgrbC5E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T00:45:00Z"
+        },
         {
           "id": "WIraHG5hjxU",
           "title": "Domenica di Pentecoste - Santa Messa cantata - FSSPX Italia",
@@ -37,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tPyw4n02Uok",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/tPyw4n02Uok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "22QIUbEH_v4",
           "title": "8am — Pentecost",
           "channel": "Oxford Oratory",
@@ -62,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/polE9GHvDck/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T08:30:00Z"
+        },
+        {
+          "id": "GDxCMirlNZU",
+          "title": "Sainte messe de la Pentecôte - SPIRITUM DOMINI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/GDxCMirlNZU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T09:00:00Z"
         },
         {
           "id": "sMotdZEKXzY",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/U5oJ_IA_Bn8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T15:30:00Z"
+        },
+        {
+          "id": "RbK2JYoSTo4",
+          "title": "Secondes vêpres de la Pentecôte - HODIE COMPLETI SUNT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/RbK2JYoSTo4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T15:45:00Z"
         },
         {
           "id": "0bVWQ1pv5kU",
