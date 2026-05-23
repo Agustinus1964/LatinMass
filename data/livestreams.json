@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T14:57:44.250Z",
+  "lastUpdated": "2026-05-23T16:03:39.636Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,17 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/yzbXLniWOHI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T16:00:00Z"
-        },
-        {
-          "id": "T_CxNxDrTIo",
-          "title": "Sun. May 24, 2026    -    Pentecost Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/T_CxNxDrTIo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         }
       ]
     },
@@ -28,29 +19,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RZumAwpONMs",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/RZumAwpONMs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "jUfzSnjLtM0",
           "title": "VIGIL OF PENTECOST, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/jUfzSnjLtM0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QCNjcHKNMeM",
-          "title": "Confirmation and Mass in Traditional Form for 05/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QCNjcHKNMeM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IlhZ0CmkyPM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "3FyGFysusGc",
-          "title": "Confirmation and Mass at 10 a.m.",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/3FyGFysusGc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:58:00Z"
         },
         {
           "id": "22QIUbEH_v4",
@@ -161,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/6vaUJIY9zc0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T14:45:00Z"
+        },
+        {
+          "id": "U5oJ_IA_Bn8",
+          "title": "PENTECOST SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/U5oJ_IA_Bn8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T15:30:00Z"
+        },
+        {
+          "id": "0bVWQ1pv5kU",
+          "title": "Vespers and Benediction — Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/0bVWQ1pv5kU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T16:00:00Z"
         }
       ]
     }
