@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T09:19:12.261Z",
+  "lastUpdated": "2026-05-23T11:57:28.571Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,22 +19,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Sb7DuDLAhJo",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Sb7DuDLAhJo/mqdefault_live.jpg",
+          "id": "ACa_xqaidOc",
+          "title": "7:30am Mass, 8:30am Rosary, 9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "Sq6904d5lB4",
-          "title": "Saturday 23rd May 2026: Vigil of Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Sq6904d5lB4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T09:30:00Z"
+          "id": "yp9jJnV87pg",
+          "title": "Saturday 7 AM Catholic Mass for 05/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/yp9jJnV87pg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pP07vfIfK3Q",
@@ -42,15 +42,6 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/pP07vfIfK3Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:00:00Z"
-        },
-        {
-          "id": "ACa_xqaidOc",
-          "title": "9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T13:00:00Z"
         },
@@ -107,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/polE9GHvDck/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T08:30:00Z"
+        },
+        {
+          "id": "sMotdZEKXzY",
+          "title": "Sunday 24th May 2026: Whitsunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/sMotdZEKXzY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T09:30:00Z"
+        },
+        {
+          "id": "nSOoidYSBtY",
+          "title": "11am — Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/nSOoidYSBtY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T10:00:00Z"
+        },
+        {
+          "id": "tj65yJdwKLc",
+          "title": "7am Mass, Rosary, 8:30am Mass. Pentecost Sunday. I. May 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/tj65yJdwKLc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T11:00:00Z"
         }
       ]
     }
