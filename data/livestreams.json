@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T16:03:39.636Z",
+  "lastUpdated": "2026-05-23T17:32:39.538Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -18,33 +18,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jUfzSnjLtM0",
-          "title": "VIGIL OF PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/jUfzSnjLtM0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RPHXMKyGJBo",
-          "title": "Santo Sacrificio de la Misa. Vigilia de Pentecostés. 23 de mayo, 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/RPHXMKyGJBo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IlhZ0CmkyPM",
-          "title": "Sainte messe de la Vigile de la Pentecôte - EMITTE SPIRITUM TUUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/IlhZ0CmkyPM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "22QIUbEH_v4",
           "title": "8am — Pentecost",
