@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-23T20:13:09.584Z",
+  "lastUpdated": "2026-05-23T21:24:24.983Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WIraHG5hjxU",
+          "title": "Domenica di Pentecoste - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/WIraHG5hjxU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T08:25:00Z"
+        },
         {
           "id": "rXBxEgMb_Ks",
           "title": "Whitsunday",
@@ -27,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tPyw4n02Uok",
+          "title": "Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/tPyw4n02Uok/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "22QIUbEH_v4",
           "title": "8am — Pentecost",
