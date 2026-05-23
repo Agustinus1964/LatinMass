@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T00:03:35.977Z",
+  "lastUpdated": "2026-05-23T04:23:02.850Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,46 +14,19 @@
           "scheduledTime": "2026-05-23T08:00:00Z"
         },
         {
-          "id": "AITT_uEblKY",
-          "title": "Sat. May 23, 2026    -    Vigil of Pentecost",
+          "id": "yzbXLniWOHI",
+          "title": "Sat. May 23, 2026     -     Wedding of Isabel De Leon and Noel Vida",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/AITT_uEblKY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/yzbXLniWOHI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-23T12:00:00Z"
+          "scheduledTime": "2026-05-23T16:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oMeXMU77XV8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/oMeXMU77XV8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bckp8v1M3CE",
-          "title": "Divine Office, 6pm Mass, Holy Hour. Feria of Paschaltide. IV. Friday, May 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bckp8v1M3CE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uFsc-o4_mEM",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 05/22/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/uFsc-o4_mEM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Sb7DuDLAhJo",
           "title": "Saturday",
@@ -78,6 +51,15 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/pP07vfIfK3Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T13:00:00Z"
+        },
+        {
+          "id": "ACa_xqaidOc",
+          "title": "9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T13:00:00Z"
         },
