@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-22T22:55:08.878Z",
+  "lastUpdated": "2026-05-23T00:03:35.977Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "JPUxC6lNnwo",
-          "title": "Sung Rosary - 5/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JPUxC6lNnwo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0jd1x7kqkLA",
           "title": "FSSPX Antwerpen - 23/05 VIGILIE van PINKSTEREN",
@@ -37,11 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "xcSxclG3j0I",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Ascension)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/xcSxclG3j0I/mqdefault_live.jpg",
+          "id": "oMeXMU77XV8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/oMeXMU77XV8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Sq6904d5lB4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T09:30:00Z"
+        },
+        {
+          "id": "pP07vfIfK3Q",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension, 1962 Missale Romanum)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/pP07vfIfK3Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-23T13:00:00Z"
         },
         {
           "id": "IlhZ0CmkyPM",
