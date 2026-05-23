@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T11:57:28.571Z",
+  "lastUpdated": "2026-05-23T13:41:53.461Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,31 +19,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ACa_xqaidOc",
-          "title": "7:30am Mass, 8:30am Rosary, 9am Mass. Vigil of Pentecost. I. Saturday, May 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ACa_xqaidOc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yp9jJnV87pg",
-          "title": "Saturday 7 AM Catholic Mass for 05/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/yp9jJnV87pg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "pP07vfIfK3Q",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Ascension, 1962 Missale Romanum)",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of Pentecost, 1962 Missale Romanum)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/pP07vfIfK3Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mXftjt_xsyY",
+          "title": "Saturday 9 AM Traditional Catholic Mass 05/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/mXftjt_xsyY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IlhZ0CmkyPM",
@@ -51,8 +42,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/IlhZ0CmkyPM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9TbRB3q5evE",
+          "title": "Missa da Vigília de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9TbRB3q5evE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3FyGFysusGc",
