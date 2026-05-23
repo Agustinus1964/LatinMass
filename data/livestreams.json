@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T13:41:53.461Z",
+  "lastUpdated": "2026-05-23T14:57:44.250Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yzbXLniWOHI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T16:00:00Z"
+        },
+        {
+          "id": "T_CxNxDrTIo",
+          "title": "Sun. May 24, 2026    -    Pentecost Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/T_CxNxDrTIo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T14:00:00Z"
         }
       ]
     },
@@ -19,20 +28,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pP07vfIfK3Q",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of Pentecost, 1962 Missale Romanum)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pP07vfIfK3Q/mqdefault_live.jpg",
+          "id": "RZumAwpONMs",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/RZumAwpONMs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "mXftjt_xsyY",
-          "title": "Saturday 9 AM Traditional Catholic Mass 05/23/2026",
+          "id": "jUfzSnjLtM0",
+          "title": "VIGIL OF PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/jUfzSnjLtM0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "QCNjcHKNMeM",
+          "title": "Confirmation and Mass in Traditional Form for 05/23/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mXftjt_xsyY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/QCNjcHKNMeM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "RPHXMKyGJBo",
+          "title": "Santo Sacrificio de la Misa. Vigilia de Pentecostés. 23 de mayo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/RPHXMKyGJBo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "9TbRB3q5evE",
-          "title": "Missa da Vigília de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9TbRB3q5evE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "3FyGFysusGc",
           "title": "Confirmation and Mass at 10 a.m.",
           "channel": "St. Benedict Parish",
@@ -62,24 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/3FyGFysusGc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T13:58:00Z"
-        },
-        {
-          "id": "QCNjcHKNMeM",
-          "title": "Confirmation and Mass in Traditional Form for 05/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QCNjcHKNMeM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T13:59:00Z"
-        },
-        {
-          "id": "jUfzSnjLtM0",
-          "title": "VIGIL OF PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/jUfzSnjLtM0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T14:00:00Z"
         },
         {
           "id": "22QIUbEH_v4",
@@ -125,6 +125,42 @@
           "thumbnail": "https://i.ytimg.com/vi/tj65yJdwKLc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T11:00:00Z"
+        },
+        {
+          "id": "88e_hN6Ce8w",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Pentecost Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/88e_hN6Ce8w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T12:00:00Z"
+        },
+        {
+          "id": "55YSAUxdNNs",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Pentecost Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/55YSAUxdNNs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T14:00:00Z"
+        },
+        {
+          "id": "DPhAhK_5gXg",
+          "title": "10:30am Sung Mass, Rosary, 8:30am Mass. Pentecost Sunday. I. May 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/DPhAhK_5gXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T14:30:00Z"
+        },
+        {
+          "id": "6vaUJIY9zc0",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6vaUJIY9zc0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T14:45:00Z"
         }
       ]
     }
