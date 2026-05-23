@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-23T07:13:46.436Z",
+  "lastUpdated": "2026-05-23T09:19:12.261Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0jd1x7kqkLA",
-          "title": "FSSPX Antwerpen - 23/05 VIGILIE van PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0jd1x7kqkLA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T08:00:00Z"
-        },
         {
           "id": "yzbXLniWOHI",
           "title": "Sat. May 23, 2026     -     Wedding of Isabel De Leon and Noel Vida",
@@ -33,8 +24,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Sb7DuDLAhJo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-23T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Sq6904d5lB4",
@@ -98,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jUfzSnjLtM0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-23T14:00:00Z"
+        },
+        {
+          "id": "22QIUbEH_v4",
+          "title": "8am — Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/22QIUbEH_v4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T07:00:00Z"
+        },
+        {
+          "id": "polE9GHvDck",
+          "title": "9:30am — Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/polE9GHvDck/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T08:30:00Z"
         }
       ]
     }
