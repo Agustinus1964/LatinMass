@@ -1,51 +1,15 @@
 {
-  "lastUpdated": "2026-05-24T14:48:03.601Z",
+  "lastUpdated": "2026-05-24T15:58:50.620Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ARAg8nVZt30",
-          "title": "Solemn High Mass - Pentecost - 5/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ARAg8nVZt30/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lOLBDdHIXmo",
-          "title": "Pentecost Sunday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/lOLBDdHIXmo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m7OES5CL_3Y",
-          "title": "Pentecost 2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/m7OES5CL_3Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7gPiTtTbzrI",
           "title": "Pentecost Sunday, May 24, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/7gPiTtTbzrI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "T_CxNxDrTIo",
-          "title": "Sun. May 24, 2026    -    Pentecost Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/T_CxNxDrTIo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -59,6 +23,15 @@
           "scheduledTime": null
         },
         {
+          "id": "bq8V0iJBrjI",
+          "title": "Hl. Messe",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/bq8V0iJBrjI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "_9eK2Cnr_xo",
           "title": "Pentecost | May 24th",
           "channel": "Our Lady of the Angels",
@@ -68,15 +41,6 @@
           "scheduledTime": "2026-05-24T17:00:00Z"
         },
         {
-          "id": "hPRyzCw4RpI",
-          "title": "Compline - 5/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/hPRyzCw4RpI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T00:45:00Z"
-        },
-        {
           "id": "6t1v4TfZJHY",
           "title": "FSSPX Antwerpen - 25/05 MAANDAG na PINKSTEREN",
           "channel": "FSSPX Antwerpen",
@@ -84,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6t1v4TfZJHY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T08:00:00Z"
-        },
-        {
-          "id": "HM5fdnjNoRU",
-          "title": "Solemn High Mass - Monday in the Octave of Pentecost - 5/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/HM5fdnjNoRU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T10:50:00Z"
         },
         {
           "id": "hryJQJo0rcI",
@@ -109,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "55YSAUxdNNs",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Pentecost Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/55YSAUxdNNs/mqdefault_live.jpg",
+          "id": "AZMh8ACaSg8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/AZMh8ACaSg8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,6 +78,24 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/DPhAhK_5gXg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "U5oJ_IA_Bn8",
+          "title": "PENTECOST SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/U5oJ_IA_Bn8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bLXGmY5XmOw",
+          "title": "Sunday 11 AM Sung Mass 2026-05-24",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/bLXGmY5XmOw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -145,31 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "6vaUJIY9zc0",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/6vaUJIY9zc0/mqdefault_live.jpg",
+          "id": "0bVWQ1pv5kU",
+          "title": "Vespers and Benediction — Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/0bVWQ1pv5kU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "lAi6hb4Y8_o",
-          "title": "Missa Cantada Domingo de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/lAi6hb4Y8_o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "U5oJ_IA_Bn8",
-          "title": "PENTECOST SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/U5oJ_IA_Bn8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T15:30:00Z"
         },
         {
           "id": "RbK2JYoSTo4",
@@ -177,17 +132,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/RbK2JYoSTo4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T15:45:00Z"
-        },
-        {
-          "id": "0bVWQ1pv5kU",
-          "title": "Vespers and Benediction — Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/0bVWQ1pv5kU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "E6w269KfZCI",
@@ -215,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zc91CtaDl7A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T11:00:00Z"
+        },
+        {
+          "id": "sZtga4OTwsM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Monday in the Octave of Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/sZtga4OTwsM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T11:30:00Z"
         }
       ]
     }
