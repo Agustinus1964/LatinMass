@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-05-24T15:58:50.620Z",
+  "lastUpdated": "2026-05-24T17:10:31.247Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "7gPiTtTbzrI",
-          "title": "Pentecost Sunday, May 24, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/7gPiTtTbzrI/mqdefault_live.jpg",
+          "id": "_9eK2Cnr_xo",
+          "title": "Pentecost | May 24th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/_9eK2Cnr_xo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zqJqiS6DSQU",
+          "title": "ORGAN RECITAL, PENTECOST SUNDAY 2026 - PROFESSOR CHRISTOPHER DAWES",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/zqJqiS6DSQU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -23,22 +32,13 @@
           "scheduledTime": null
         },
         {
-          "id": "bq8V0iJBrjI",
-          "title": "Hl. Messe",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/bq8V0iJBrjI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_9eK2Cnr_xo",
-          "title": "Pentecost | May 24th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/_9eK2Cnr_xo/mqdefault_live.jpg",
+          "id": "901z97oMZ60",
+          "title": "II Vespers for Pentecost Sunday, May 24, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/901z97oMZ60/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-24T17:00:00Z"
+          "scheduledTime": "2026-05-24T22:45:02Z"
         },
         {
           "id": "6t1v4TfZJHY",
@@ -64,24 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "AZMh8ACaSg8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/AZMh8ACaSg8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DPhAhK_5gXg",
-          "title": "10:30am Sung Mass. Pentecost Sunday. I. May 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DPhAhK_5gXg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "U5oJ_IA_Bn8",
           "title": "PENTECOST SUNDAY, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -91,47 +73,11 @@
           "scheduledTime": null
         },
         {
-          "id": "bLXGmY5XmOw",
-          "title": "Sunday 11 AM Sung Mass 2026-05-24",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/bLXGmY5XmOw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "i2NqyGWLRB0",
-          "title": "Pentecost Sunday / Dimanche de la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/i2NqyGWLRB0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "pHOHYSi8jB0",
           "title": "Santa Misa Dominical. 24 de mayo, 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/pHOHYSi8jB0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0bVWQ1pv5kU",
-          "title": "Vespers and Benediction — Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/0bVWQ1pv5kU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RbK2JYoSTo4",
-          "title": "Secondes vêpres de la Pentecôte - HODIE COMPLETI SUNT",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/RbK2JYoSTo4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -170,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sZtga4OTwsM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T11:30:00Z"
+        },
+        {
+          "id": "QSzoSb4DuAA",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/QSzoSb4DuAA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T17:00:00Z"
         }
       ]
     }
