@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-24T18:35:19.978Z",
+  "lastUpdated": "2026-05-24T20:01:56.064Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_9eK2Cnr_xo",
-          "title": "Pentecost | May 24th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/_9eK2Cnr_xo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zqJqiS6DSQU",
-          "title": "ORGAN RECITAL, PENTECOST SUNDAY 2026 - PROFESSOR CHRISTOPHER DAWES",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/zqJqiS6DSQU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "901z97oMZ60",
           "title": "II Vespers for Pentecost Sunday, May 24, 2026",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/901z97oMZ60/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T22:45:02Z"
+        },
+        {
+          "id": "Eo4qdSyqyxU",
+          "title": "Amt - Pfingstmontag - 25. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Eo4qdSyqyxU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T07:30:00Z"
         },
         {
           "id": "6t1v4TfZJHY",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pgxsZFn2GJ0",
-          "title": "Sunday 1:30 PM Catholic Mass 05/24/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pgxsZFn2GJ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "LjDOgvVZ0G0",
           "title": "Santo Sacrificio de la Misa, Domingo de Pentecostés, 24 de mayo de 2026.",
