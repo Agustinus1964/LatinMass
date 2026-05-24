@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T22:30:01.693Z",
+  "lastUpdated": "2026-05-24T23:35:31.764Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/901z97oMZ60/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T22:45:02Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Eo4qdSyqyxU",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lMobrCkvo_s",
-          "title": "Missa rezada - Festa de Pentecostes 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/lMobrCkvo_s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Mg9xYpAwD_I",
           "title": "Sainte messe du Lundi de Pentecôte - CIBAVIT EOS",
