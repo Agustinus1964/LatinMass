@@ -1,24 +1,24 @@
 {
-  "lastUpdated": "2026-05-24T11:48:11.136Z",
+  "lastUpdated": "2026-05-24T13:19:01.527Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "vmFCCxNWZGI",
-          "title": "Low Mass - Pentecost - 5/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vmFCCxNWZGI/mqdefault_live.jpg",
+          "id": "lOLBDdHIXmo",
+          "title": "Pentecost Sunday - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/lOLBDdHIXmo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "oteBWstirnA",
-          "title": "FSSPX Antwerpen - 24/05 HOOGFEEST van PINKSTEREN",
+          "id": "ZypUAjAkISg",
+          "title": "FSSPX Antwerpen - 24/05 Gebed voor het Vaderland",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/oteBWstirnA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ZypUAjAkISg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,6 +73,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Y0daexoiXMg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Y0daexoiXMg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "tj65yJdwKLc",
           "title": "7am Mass, Rosary, 8:30am Mass. Pentecost Sunday. I. May 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -82,31 +91,22 @@
           "scheduledTime": null
         },
         {
-          "id": "mV6BWIYxo28",
-          "title": "Sunday 7 AM Catholic Mass for 05/24/2026",
+          "id": "iVA_TxEZn3I",
+          "title": "Sunday 8:30 AM Catholic Mass for 05/24/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mV6BWIYxo28/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/iVA_TxEZn3I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "YvDweYQ_zrw",
-          "title": "Missa Rezada - Festa de Pentecostes 2026",
+          "id": "lAi6hb4Y8_o",
+          "title": "Missa Cantada Domingo de Pentecostes",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YvDweYQ_zrw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/lAi6hb4Y8_o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "88e_hN6Ce8w",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Pentecost Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/88e_hN6Ce8w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T12:00:00Z"
         },
         {
           "id": "55YSAUxdNNs",
@@ -123,6 +123,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/DPhAhK_5gXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-24T14:30:00Z"
+        },
+        {
+          "id": "i2NqyGWLRB0",
+          "title": "Pentecost Sunday / Dimanche de la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/i2NqyGWLRB0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T14:30:00Z"
         },
