@@ -1,15 +1,51 @@
 {
-  "lastUpdated": "2026-05-24T13:19:01.527Z",
+  "lastUpdated": "2026-05-24T14:48:03.601Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ARAg8nVZt30",
+          "title": "Solemn High Mass - Pentecost - 5/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ARAg8nVZt30/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "lOLBDdHIXmo",
           "title": "Pentecost Sunday - The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/lOLBDdHIXmo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "m7OES5CL_3Y",
+          "title": "Pentecost 2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/m7OES5CL_3Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "7gPiTtTbzrI",
+          "title": "Pentecost Sunday, May 24, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/7gPiTtTbzrI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "T_CxNxDrTIo",
+          "title": "Sun. May 24, 2026    -    Pentecost Sunday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/T_CxNxDrTIo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,29 +109,47 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Y0daexoiXMg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Y0daexoiXMg/mqdefault_live.jpg",
+          "id": "55YSAUxdNNs",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Pentecost Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/55YSAUxdNNs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "tj65yJdwKLc",
-          "title": "7am Mass, Rosary, 8:30am Mass. Pentecost Sunday. I. May 24, 2026.",
+          "id": "DPhAhK_5gXg",
+          "title": "10:30am Sung Mass. Pentecost Sunday. I. May 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/tj65yJdwKLc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DPhAhK_5gXg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "iVA_TxEZn3I",
-          "title": "Sunday 8:30 AM Catholic Mass for 05/24/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/iVA_TxEZn3I/mqdefault_live.jpg",
+          "id": "i2NqyGWLRB0",
+          "title": "Pentecost Sunday / Dimanche de la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/i2NqyGWLRB0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pHOHYSi8jB0",
+          "title": "Santa Misa Dominical. 24 de mayo, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/pHOHYSi8jB0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6vaUJIY9zc0",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6vaUJIY9zc0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,42 +161,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lAi6hb4Y8_o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "55YSAUxdNNs",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Pentecost Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/55YSAUxdNNs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T14:00:00Z"
-        },
-        {
-          "id": "DPhAhK_5gXg",
-          "title": "10:30am Sung Mass, Rosary, 8:30am Mass. Pentecost Sunday. I. May 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DPhAhK_5gXg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T14:30:00Z"
-        },
-        {
-          "id": "i2NqyGWLRB0",
-          "title": "Pentecost Sunday / Dimanche de la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/i2NqyGWLRB0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T14:30:00Z"
-        },
-        {
-          "id": "6vaUJIY9zc0",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/6vaUJIY9zc0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T14:45:00Z"
         },
         {
           "id": "U5oJ_IA_Bn8",
