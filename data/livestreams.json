@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-23T23:28:46.170Z",
+  "lastUpdated": "2026-05-24T01:29:59.836Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "jdrmOgrbC5E",
-          "title": "Compline - 5/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jdrmOgrbC5E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T00:45:00Z"
+          "id": "t_wREshdH-I",
+          "title": "Sung Mass - Pentecost Sunday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/t_wREshdH-I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WIraHG5hjxU",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_9eK2Cnr_xo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-24T17:00:00Z"
+        },
+        {
+          "id": "hPRyzCw4RpI",
+          "title": "Compline - 5/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hPRyzCw4RpI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T00:45:00Z"
         }
       ]
     },
