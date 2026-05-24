@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T15:57:27.777Z",
+  "lastUpdated": "2026-05-24T17:02:51.488Z",
   "videos": [
     {
       "id": "mvnZ-WctVZE",
@@ -20,6 +20,16 @@
       "thumbnail": "https://i.ytimg.com/vi/nC-LBBXuKjc/mqdefault.jpg",
       "publishedAt": "2026-05-24T12:00:53Z",
       "category": "Return To Tradition"
+    },
+    {
+      "id": "2XswqenRD2M",
+      "title": "Holy Mass 5/24/26 - Pentecost Sunday",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/2XswqenRD2M/mqdefault_live.jpg",
+      "publishedAt": "2026-05-24T10:55:15Z",
+      "category": "What Catholics Believe"
     },
     {
       "id": "Ebbm2gJGk5s",
@@ -160,16 +170,6 @@
       "thumbnail": "https://i.ytimg.com/vi/7f5aR7X-Poo/mqdefault.jpg",
       "publishedAt": "2026-05-23T08:10:39Z",
       "category": "SSPX News"
-    },
-    {
-      "id": "yCJoDf1e-PA",
-      "title": "Holy Mass 5/22/26 - Ferial Day",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/yCJoDf1e-PA/mqdefault.jpg",
-      "publishedAt": "2026-05-23T05:14:58Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "WM34R0qBae8",
