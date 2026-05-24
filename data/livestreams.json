@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-24T10:17:48.420Z",
+  "lastUpdated": "2026-05-24T11:48:11.136Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "rXBxEgMb_Ks",
-          "title": "Whitsunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/rXBxEgMb_Ks/mqdefault_live.jpg",
+          "id": "vmFCCxNWZGI",
+          "title": "Low Mass - Pentecost - 5/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/vmFCCxNWZGI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -48,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/6t1v4TfZJHY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T08:00:00Z"
+        },
+        {
+          "id": "HM5fdnjNoRU",
+          "title": "Solemn High Mass - Monday in the Octave of Pentecost - 5/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HM5fdnjNoRU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T10:50:00Z"
+        },
+        {
+          "id": "hryJQJo0rcI",
+          "title": "Mon. May 25, 2026    -    Pentecost Monday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/hryJQJo0rcI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T11:15:00Z"
         }
       ]
     },
@@ -55,40 +73,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sMotdZEKXzY",
-          "title": "Sunday 24th May 2026: Whitsunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/sMotdZEKXzY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nSOoidYSBtY",
-          "title": "11am — Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/nSOoidYSBtY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GDxCMirlNZU",
-          "title": "Sainte messe de la Pentecôte - SPIRITUM DOMINI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/GDxCMirlNZU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tj65yJdwKLc",
           "title": "7am Mass, Rosary, 8:30am Mass. Pentecost Sunday. I. May 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/tj65yJdwKLc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mV6BWIYxo28",
+          "title": "Sunday 7 AM Catholic Mass for 05/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/mV6BWIYxo28/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "YvDweYQ_zrw",
+          "title": "Missa Rezada - Festa de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/YvDweYQ_zrw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "88e_hN6Ce8w",
@@ -170,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Mg9xYpAwD_I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T09:00:00Z"
+        },
+        {
+          "id": "zc91CtaDl7A",
+          "title": "7am Mass. Pentecost Monday. I. May 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/zc91CtaDl7A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T11:00:00Z"
         }
       ]
     }
