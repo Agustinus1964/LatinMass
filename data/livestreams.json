@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-24T17:10:31.247Z",
+  "lastUpdated": "2026-05-24T18:35:19.978Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,15 +19,6 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/zqJqiS6DSQU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZypUAjAkISg",
-          "title": "FSSPX Antwerpen - 24/05 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZypUAjAkISg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,31 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "U5oJ_IA_Bn8",
-          "title": "PENTECOST SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/U5oJ_IA_Bn8/mqdefault_live.jpg",
+          "id": "pgxsZFn2GJ0",
+          "title": "Sunday 1:30 PM Catholic Mass 05/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/pgxsZFn2GJ0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "pHOHYSi8jB0",
-          "title": "Santa Misa Dominical. 24 de mayo, 2026.",
+          "id": "LjDOgvVZ0G0",
+          "title": "Santo Sacrificio de la Misa, Domingo de Pentecostés, 24 de mayo de 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/pHOHYSi8jB0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/LjDOgvVZ0G0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "E6w269KfZCI",
-          "title": "Do I Truly Reverence  the Holy Name of God?",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/E6w269KfZCI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-24T18:00:00Z"
         },
         {
           "id": "Mg9xYpAwD_I",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QSzoSb4DuAA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T17:00:00Z"
+        },
+        {
+          "id": "hgLWVENxIM4",
+          "title": "Our Holy Father St Philip – Choral First Vespers and Benediction",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/hgLWVENxIM4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-25T17:45:00Z"
         }
       ]
     }
