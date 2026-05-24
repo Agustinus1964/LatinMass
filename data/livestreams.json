@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-05-24T20:01:56.064Z",
+  "lastUpdated": "2026-05-24T21:27:31.692Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "igtCuqbjjII",
+          "title": "Solemn II Vespers - Pentecost - 5/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/igtCuqbjjII/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DDINm_QyP4k",
+          "title": "Mass of Pentecost Monday - 25.5.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/DDINm_QyP4k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "901z97oMZ60",
           "title": "II Vespers for Pentecost Sunday, May 24, 2026",
@@ -46,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "LjDOgvVZ0G0",
-          "title": "Santo Sacrificio de la Misa, Domingo de Pentecostés, 24 de mayo de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/LjDOgvVZ0G0/mqdefault_live.jpg",
+          "id": "lMobrCkvo_s",
+          "title": "Missa rezada - Festa de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/lMobrCkvo_s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
