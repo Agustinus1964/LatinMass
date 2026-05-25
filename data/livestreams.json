@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T19:24:27.764Z",
+  "lastUpdated": "2026-05-25T20:48:03.020Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HDyQ2LD4fd0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-26T05:15:00Z"
+        },
+        {
+          "id": "iKiVktA-Hjc",
+          "title": "Pentecost Tuesday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/iKiVktA-Hjc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T07:30:00Z"
         },
         {
           "id": "uP7ExhbrjCk",
