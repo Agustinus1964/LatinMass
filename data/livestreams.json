@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-25T08:17:53.418Z",
+  "lastUpdated": "2026-05-25T12:02:58.285Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "6t1v4TfZJHY",
-          "title": "FSSPX Antwerpen - 25/05 MAANDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/6t1v4TfZJHY/mqdefault_live.jpg",
+          "id": "HM5fdnjNoRU",
+          "title": "Solemn High Mass - Monday in the Octave of Pentecost - 5/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HM5fdnjNoRU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Eo4qdSyqyxU",
-          "title": "Amt - Pfingstmontag - 25. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Eo4qdSyqyxU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hryJQJo0rcI",
-          "title": "Mon. May 25, 2026    -    Pentecost Monday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/hryJQJo0rcI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T11:15:00Z"
         },
         {
           "id": "HDyQ2LD4fd0",
@@ -39,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/HDyQ2LD4fd0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-26T05:15:00Z"
+        },
+        {
+          "id": "uP7ExhbrjCk",
+          "title": "Tue. May 26, 2026    -    Pentecost Tuesday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/uP7ExhbrjCk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T11:15:00Z"
+        },
+        {
+          "id": "YGrlaOUjZiw",
+          "title": "Understanding The Crisis in the Church - Chapter 5 - Magisterium and infallibility",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/YGrlaOUjZiw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T11:45:00Z"
         }
       ]
     },
@@ -46,31 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Mg9xYpAwD_I",
-          "title": "Sainte messe du Lundi de Pentecôte - CIBAVIT EOS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Mg9xYpAwD_I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T09:00:00Z"
-        },
-        {
-          "id": "zc91CtaDl7A",
-          "title": "7am Mass. Pentecost Monday. I. May 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/zc91CtaDl7A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T11:00:00Z"
-        },
-        {
           "id": "sZtga4OTwsM",
           "title": "Live Stream Holy Mass from Cleveland USA (Monday in the Octave of Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/sZtga4OTwsM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "m2aQekPsCNo",
+          "title": "Monday 8 AM Traditional Latin Mass05/25/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/m2aQekPsCNo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QSzoSb4DuAA",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hgLWVENxIM4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-25T17:45:00Z"
+        },
+        {
+          "id": "w6dS-hMO1SA",
+          "title": "7am Mass. Pentecost Tuesday. I. May 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/w6dS-hMO1SA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T11:00:00Z"
         }
       ]
     }
