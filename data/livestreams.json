@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-25T15:35:58.808Z",
+  "lastUpdated": "2026-05-25T17:40:21.342Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/kea1KNBBks8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-26T15:00:00Z"
+        },
+        {
+          "id": "z1_-DxJ8FQg",
+          "title": "Maiandacht und hl. Messe - Dienstag in der Pfingstwoche - 26. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/z1_-DxJ8FQg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T15:40:00Z"
+        },
+        {
+          "id": "IR3YBW_hcA4",
+          "title": "FSSPX Antwerpen - 26/05 DINSDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/IR3YBW_hcA4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T16:30:00Z"
         }
       ]
     },
@@ -46,13 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "QSzoSb4DuAA",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/QSzoSb4DuAA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T17:00:00Z"
+          "id": "KSUpxhCNwnw",
+          "title": "Monday 23rd February 2026: Lenten Feria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/KSUpxhCNwnw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hgLWVENxIM4",
@@ -60,8 +78,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/hgLWVENxIM4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-25T17:45:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "RyzSXnDR-Po",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/RyzSXnDR-Po/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "w6dS-hMO1SA",
@@ -80,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/H35KiuPLVcw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-26T11:30:00Z"
+        },
+        {
+          "id": "kKaxDVKfM94",
+          "title": "Our Holy Father Saint Philip – Solemn Mass",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/kKaxDVKfM94/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T17:00:00Z"
+        },
+        {
+          "id": "HHmCI1DX4E0",
+          "title": "Sainte messe du Mardi de Pentecôte - ACCIPITE JUCUNDITATEM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/HHmCI1DX4E0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-26T17:00:00Z"
         }
       ]
     }
