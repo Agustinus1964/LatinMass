@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-26T17:23:35.617Z",
+  "lastUpdated": "2026-05-26T19:32:25.304Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,33 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XzaB2N5G9us",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/XzaB2N5G9us/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kKaxDVKfM94",
-          "title": "Our Holy Father Saint Philip – Solemn Mass",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/kKaxDVKfM94/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HHmCI1DX4E0",
-          "title": "Sainte messe du Mardi de Pentecôte - ACCIPITE JUCUNDITATEM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/HHmCI1DX4E0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5BU4B33uL1o",
           "title": "La Hermosura de la Misa Tradicional. Parte 3 Martes de Pentecostés 2026. P. Daniel Heenan",
