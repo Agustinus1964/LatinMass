@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-26T19:32:25.304Z",
+  "lastUpdated": "2026-05-26T21:40:50.681Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "i3D08exX1Gc",
+          "title": "Mass of Ember Wednesday after Pentecost - 27.5.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/i3D08exX1Gc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9XqtihZKYqo",
           "title": "Sung Rosary - 5/26/26",
@@ -55,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5BU4B33uL1o",
-          "title": "La Hermosura de la Misa Tradicional. Parte 3 Martes de Pentecostés 2026. P. Daniel Heenan",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/5BU4B33uL1o/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T21:00:00Z"
-        },
-        {
           "id": "JbI1THqVkj0",
-          "title": "6pm Mass. Pentecost Tuesday. I. May 25, 2026.",
+          "title": "Divine Office & 6pm Mass. Pentecost Tuesday. I. May 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/JbI1THqVkj0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6WJ_QTbFryc",
+          "title": "Ofício do Rosário e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/6WJ_QTbFryc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oaT5FpmcgBQ",
