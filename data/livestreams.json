@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-05-26T13:50:57.425Z",
+  "lastUpdated": "2026-05-26T17:23:35.617Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kea1KNBBks8",
-          "title": "FSSPX Antwerpen - 26/05 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/kea1KNBBks8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T15:00:00Z"
-        },
-        {
-          "id": "z1_-DxJ8FQg",
-          "title": "Maiandacht und hl. Messe - Dienstag in der Pfingstwoche - 26. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/z1_-DxJ8FQg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T15:40:00Z"
-        },
-        {
-          "id": "IR3YBW_hcA4",
-          "title": "FSSPX Antwerpen - 26/05 DINSDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IR3YBW_hcA4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T16:30:00Z"
-        },
         {
           "id": "9XqtihZKYqo",
           "title": "Sung Rosary - 5/26/26",
@@ -66,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qlJsaBCWTM0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-27T11:15:00Z"
+        },
+        {
+          "id": "58QtsutB6oo",
+          "title": "Rosenkranz und hl. Messe - Quatembermittwoch - 27. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/58QtsutB6oo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-27T16:00:00Z"
         }
       ]
     },
@@ -73,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "XzaB2N5G9us",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/XzaB2N5G9us/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "kKaxDVKfM94",
           "title": "Our Holy Father Saint Philip – Solemn Mass",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/kKaxDVKfM94/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HHmCI1DX4E0",
@@ -87,8 +78,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/HHmCI1DX4E0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5BU4B33uL1o",
+          "title": "La Hermosura de la Misa Tradicional. Parte 3 Martes de Pentecostés 2026. P. Daniel Heenan",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/5BU4B33uL1o/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-26T17:00:00Z"
+          "scheduledTime": "2026-05-26T21:00:00Z"
         },
         {
           "id": "JbI1THqVkj0",
@@ -116,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/J5f0DsvRIAc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-27T11:30:00Z"
+        },
+        {
+          "id": "YD3KieDr_Jw",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/YD3KieDr_Jw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-27T17:00:00Z"
+        },
+        {
+          "id": "XAx8ar4hnlU",
+          "title": "Sainte messe du Mercredi des Quatre-Temps de Pentecôte - DEUS, DUM EGREDERERIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/XAx8ar4hnlU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-27T17:00:00Z"
         }
       ]
     }
