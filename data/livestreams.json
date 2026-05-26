@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-26T02:50:24.535Z",
+  "lastUpdated": "2026-05-26T06:42:53.962Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HDyQ2LD4fd0",
-          "title": "Hl. Messe - Dienstag in der Pfingstwoche - 26. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HDyQ2LD4fd0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T05:15:00Z"
-        },
         {
           "id": "iKiVktA-Hjc",
           "title": "Pentecost Tuesday",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/iKiVktA-Hjc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-26T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "uP7ExhbrjCk",
@@ -75,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9XqtihZKYqo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-26T22:55:00Z"
+        },
+        {
+          "id": "71I6QdRJ4F4",
+          "title": "Hl. Messe - Quatembermittwoch - 27. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/71I6QdRJ4F4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-27T05:15:00Z"
+        },
+        {
+          "id": "yZyRVz97D0c",
+          "title": "FSSPX Antwerpen - 27/05 QUATERTEMPERWOENSDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/yZyRVz97D0c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-27T05:30:00Z"
         }
       ]
     },
