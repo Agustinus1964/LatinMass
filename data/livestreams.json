@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-05-27T01:32:39.547Z",
+  "lastUpdated": "2026-05-27T06:17:13.890Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "71I6QdRJ4F4",
-          "title": "Hl. Messe - Quatembermittwoch - 27. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/71I6QdRJ4F4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-27T05:15:00Z"
-        },
         {
           "id": "yZyRVz97D0c",
           "title": "FSSPX Antwerpen - 27/05 QUATERTEMPERWOENSDAG na PINKSTEREN",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/yZyRVz97D0c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-27T05:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qlJsaBCWTM0",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5cS6XFI1okE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-27T22:55:00Z"
+        },
+        {
+          "id": "9RVSfNVjvws",
+          "title": "Hl. Messe - Donnerstag in der Pfingstwoche - 28. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9RVSfNVjvws/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-28T05:15:00Z"
         }
       ]
     },
