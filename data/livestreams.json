@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-27T10:35:51.902Z",
+  "lastUpdated": "2026-05-27T14:23:57.372Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qlJsaBCWTM0",
-          "title": "Wed. May 27, 2026    -    Ember Wednesday of Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qlJsaBCWTM0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-27T11:15:00Z"
-        },
         {
           "id": "58QtsutB6oo",
           "title": "Rosenkranz und hl. Messe - Quatembermittwoch - 27. Mai 2026",
@@ -39,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9RVSfNVjvws/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-28T05:15:00Z"
+        },
+        {
+          "id": "qNuJ5zY5zu0",
+          "title": "Thu. May 28, 2026    -    Pentecost Thursday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qNuJ5zY5zu0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-28T11:15:00Z"
+        },
+        {
+          "id": "5NujsJr95uU",
+          "title": "FSSPX Antwerpen - 28/05 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/5NujsJr95uU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-28T13:30:00Z"
         }
       ]
     },
@@ -46,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "oaT5FpmcgBQ",
-          "title": "7am Mass. Ember Wednesday in the Octave of Pentecost. I. May 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/oaT5FpmcgBQ/mqdefault_live.jpg",
+          "id": "y5Vu_AXH6Bk",
+          "title": "Santo Sacrificio de la Misa, Miércoles de Pentecostés, 27 de mayo de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/y5Vu_AXH6Bk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "J5f0DsvRIAc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Wednesday in the Octave of Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/J5f0DsvRIAc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-27T11:30:00Z"
         },
         {
           "id": "YD3KieDr_Jw",
@@ -80,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/XAx8ar4hnlU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-27T17:00:00Z"
+        },
+        {
+          "id": "NuaG83SYJGY",
+          "title": "7am Mass. Thursday in the Octave of Pentecost. I. May 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NuaG83SYJGY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-28T11:00:00Z"
+        },
+        {
+          "id": "3qlbAyFDOWY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Thursday in the Octave of Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/3qlbAyFDOWY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-28T11:30:00Z"
         }
       ]
     }
