@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-27T06:17:13.890Z",
+  "lastUpdated": "2026-05-27T10:35:51.902Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yZyRVz97D0c",
-          "title": "FSSPX Antwerpen - 27/05 QUATERTEMPERWOENSDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yZyRVz97D0c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "qlJsaBCWTM0",
           "title": "Wed. May 27, 2026    -    Ember Wednesday of Pentecost",
@@ -60,8 +51,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/oaT5FpmcgBQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-27T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "J5f0DsvRIAc",
