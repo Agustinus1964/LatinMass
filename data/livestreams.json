@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-27T20:10:32.843Z",
+  "lastUpdated": "2026-05-27T22:15:57.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "LA8CrPqh3i0",
+          "title": "Terço, Missa rezada e Adoração",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/LA8CrPqh3i0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "NuaG83SYJGY",
           "title": "7am Mass. Thursday in the Octave of Pentecost. I. May 28, 2026.",
