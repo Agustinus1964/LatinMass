@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T20:41:43.598Z",
+  "lastUpdated": "2026-05-28T22:39:25.687Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "0Y3P8KDu7HY",
-          "title": "11am Mass. Ember Friday in the Octave of Pentecost. I. May 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/0Y3P8KDu7HY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T15:00:00Z"
-        },
-        {
           "id": "Av7ZkEJoVFc",
           "title": "Friday",
           "channel": "Oxford Oratory",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sUFie-PgeYw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-29T17:00:00Z"
+        },
+        {
+          "id": "XO-FiDUCzmI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in the Octave of Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/XO-FiDUCzmI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T22:30:00Z"
         }
       ]
     }
