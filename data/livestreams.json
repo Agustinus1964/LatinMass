@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-28T02:48:58.785Z",
+  "lastUpdated": "2026-05-28T06:51:50.140Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9RVSfNVjvws",
-          "title": "Hl. Messe - Donnerstag in der Pfingstwoche - 28. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9RVSfNVjvws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-28T05:15:00Z"
-        },
         {
           "id": "qNuJ5zY5zu0",
           "title": "Thu. May 28, 2026    -    Pentecost Thursday",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LLlaKlhaPTU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-28T16:30:00Z"
+        },
+        {
+          "id": "ljHkhu-NjTE",
+          "title": "Hl. Messe - Quatemberfreitag - 29. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ljHkhu-NjTE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T05:15:00Z"
         }
       ]
     },
