@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T14:34:40.448Z",
+  "lastUpdated": "2026-05-28T18:07:35.379Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,24 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5NujsJr95uU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "MvaN86NpYqA",
-          "title": "Maiandacht und hl. Messe - Donnerstag in der Pfingstwoche - 28. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/MvaN86NpYqA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-28T15:00:00Z"
-        },
-        {
-          "id": "LLlaKlhaPTU",
-          "title": "FSSPX Antwerpen - 28/05 DONDERDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/LLlaKlhaPTU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-28T16:30:00Z"
         },
         {
           "id": "ljHkhu-NjTE",
@@ -48,6 +30,42 @@
           "thumbnail": "https://i.ytimg.com/vi/89uW-d4KPGg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-29T11:15:00Z"
+        },
+        {
+          "id": "K_7TcVH_qhs",
+          "title": "FSSPX Antwerpen - 29/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/K_7TcVH_qhs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T15:00:00Z"
+        },
+        {
+          "id": "MSDeqBehONc",
+          "title": "FSSPX Antwerpen - 29/05 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/MSDeqBehONc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T15:45:00Z"
+        },
+        {
+          "id": "OIWUPhLii1g",
+          "title": "Rosenkranz und hl. Messe - Quatemberfreitag - 29. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/OIWUPhLii1g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T16:00:00Z"
+        },
+        {
+          "id": "ugMx7qa2sSo",
+          "title": "FSSPX Antwerpen - 29/05 QUATERTEMPERVRIJDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ugMx7qa2sSo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T16:30:00Z"
         }
       ]
     },
@@ -55,31 +73,40 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YPPrAY-Ktf0",
-          "title": "Santo Sacrificio de la Misa, Jueves de Pentecostés, 28 de mayo de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/YPPrAY-Ktf0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jVR8ot-d9mY",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/jVR8ot-d9mY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-28T17:00:00Z"
-        },
-        {
           "id": "B6RZJCO4HSk",
           "title": "Sainte messe du Jeudi de Pentecôte - SPIRITUS DOMINI",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/B6RZJCO4HSk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0Y3P8KDu7HY",
+          "title": "11am Mass. Ember Friday in the Octave of Pentecost. I. May 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/0Y3P8KDu7HY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-28T17:00:00Z"
+          "scheduledTime": "2026-05-29T15:00:00Z"
+        },
+        {
+          "id": "Av7ZkEJoVFc",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Av7ZkEJoVFc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T17:00:00Z"
+        },
+        {
+          "id": "sUFie-PgeYw",
+          "title": "Sainte messe du Vendredi de Pentecôte, en rit dominicain - REPLEATUR",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/sUFie-PgeYw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T17:00:00Z"
         }
       ]
     }
