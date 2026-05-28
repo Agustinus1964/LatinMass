@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-28T18:07:35.379Z",
+  "lastUpdated": "2026-05-28T20:41:43.598Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5NujsJr95uU",
-          "title": "FSSPX Antwerpen - 28/05 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/5NujsJr95uU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ljHkhu-NjTE",
           "title": "Hl. Messe - Quatemberfreitag - 29. Mai 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ljHkhu-NjTE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-29T05:15:00Z"
+        },
+        {
+          "id": "KjWT8qJqDh0",
+          "title": "Ember Friday of Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/KjWT8qJqDh0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-29T07:30:00Z"
         },
         {
           "id": "89uW-d4KPGg",
