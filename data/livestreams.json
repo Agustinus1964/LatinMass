@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-28T06:51:50.140Z",
+  "lastUpdated": "2026-05-28T10:52:15.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,8 +60,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/NuaG83SYJGY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-28T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3qlbAyFDOWY",
