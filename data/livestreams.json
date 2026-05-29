@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-29T12:12:30.355Z",
+  "lastUpdated": "2026-05-29T16:13:00.130Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GkNvs66jZ84",
-          "title": "Spiritual Conference: Archbishop Lefebvre: Protocol May 5th",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/GkNvs66jZ84/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K_7TcVH_qhs",
-          "title": "FSSPX Antwerpen - 29/05 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/K_7TcVH_qhs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T15:00:00Z"
-        },
         {
           "id": "MSDeqBehONc",
           "title": "FSSPX Antwerpen - 29/05 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/MSDeqBehONc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OIWUPhLii1g",
@@ -37,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/OIWUPhLii1g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ugMx7qa2sSo",
@@ -81,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fyNO6Ib9K1Y",
-          "title": "Friday 8 AM Catholic Mass for 05/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/fyNO6Ib9K1Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Av7ZkEJoVFc",
           "title": "Friday",
