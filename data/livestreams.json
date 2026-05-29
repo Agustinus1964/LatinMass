@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T21:20:34.457Z",
+  "lastUpdated": "2026-05-29T22:48:28.267Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "XO-FiDUCzmI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in the Octave of Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/XO-FiDUCzmI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "i8riqbL7oTM",
           "title": "Divine Office, 6pm Mass, Holy Hour. Ember Friday in the Octave of Pentecost. I. May 29, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sUFie-PgeYw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Wenlqnaow_c",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Wenlqnaow_c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XO-FiDUCzmI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in the Octave of Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/XO-FiDUCzmI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T22:30:00Z"
         },
         {
           "id": "e-njDhHpS6w",
