@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-05-29T08:39:57.921Z",
+  "lastUpdated": "2026-05-29T12:12:30.355Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "89uW-d4KPGg",
-          "title": "Fri. May 29, 2026    -    Ember Friday of Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/89uW-d4KPGg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T11:15:00Z"
+          "id": "GkNvs66jZ84",
+          "title": "Spiritual Conference: Archbishop Lefebvre: Protocol May 5th",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/GkNvs66jZ84/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "K_7TcVH_qhs",
@@ -66,12 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/2hOYTIC2Wz4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-30T08:00:00Z"
+        },
+        {
+          "id": "LhTkfhPrccM",
+          "title": "Sat. May 30, 2026    -    Ember Saturday of Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/LhTkfhPrccM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "fyNO6Ib9K1Y",
+          "title": "Friday 8 AM Catholic Mass for 05/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/fyNO6Ib9K1Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Av7ZkEJoVFc",
           "title": "Friday",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XO-FiDUCzmI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-29T22:30:00Z"
+        },
+        {
+          "id": "e-njDhHpS6w",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/e-njDhHpS6w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T09:00:00Z"
         }
       ]
     }
