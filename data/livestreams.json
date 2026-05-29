@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-29T04:51:25.418Z",
+  "lastUpdated": "2026-05-29T08:39:57.921Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ljHkhu-NjTE",
-          "title": "Hl. Messe - Quatemberfreitag - 29. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ljHkhu-NjTE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T05:15:00Z"
-        },
-        {
-          "id": "KjWT8qJqDh0",
-          "title": "Ember Friday of Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/KjWT8qJqDh0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-29T07:30:00Z"
-        },
         {
           "id": "89uW-d4KPGg",
           "title": "Fri. May 29, 2026    -    Ember Friday of Pentecost",
@@ -66,21 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/ugMx7qa2sSo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-29T16:30:00Z"
+        },
+        {
+          "id": "v9JJl76xxdU",
+          "title": "Hl. Messe - Quatembersamstag - 30. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/v9JJl76xxdU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T05:15:00Z"
+        },
+        {
+          "id": "2hOYTIC2Wz4",
+          "title": "FSSPX Antwerpen - 30/05 QUATERTEMPERZATERDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/2hOYTIC2Wz4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T08:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "B6RZJCO4HSk",
-          "title": "Sainte messe du Jeudi de Pentecôte - SPIRITUS DOMINI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/B6RZJCO4HSk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Av7ZkEJoVFc",
           "title": "Friday",
