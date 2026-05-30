@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-05-30T04:32:36.286Z",
+  "lastUpdated": "2026-05-30T07:38:35.056Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "v9JJl76xxdU",
-          "title": "Hl. Messe - Quatembersamstag - 30. Mai 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/v9JJl76xxdU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T05:15:00Z"
-        },
-        {
-          "id": "uvZkIFUEfAY",
-          "title": "Ember Saturday of Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/uvZkIFUEfAY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T07:30:00Z"
-        },
         {
           "id": "2hOYTIC2Wz4",
           "title": "FSSPX Antwerpen - 30/05 QUATERTEMPERZATERDAG na PINKSTEREN",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/60hnXuWhmXQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-30T22:50:00Z"
+        },
+        {
+          "id": "U4k8RQTBcyc",
+          "title": "Amt - Dreifaltigkeitsfest - 31. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/U4k8RQTBcyc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T07:30:00Z"
         }
       ]
     },
@@ -51,8 +42,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/TYY9Y6JgMas/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "e-njDhHpS6w",
