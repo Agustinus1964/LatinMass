@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T12:45:17.038Z",
+  "lastUpdated": "2026-05-30T14:26:25.808Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nS4Gd1q1LJw",
-          "title": "7:30am Mass, Rosary, 9am Sung Mass. Ember Saturday in the Octave of Pentecost. I. May 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/nS4Gd1q1LJw/mqdefault_live.jpg",
+          "id": "93t28drLhSk",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/93t28drLhSk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "ucdtNF19ZYQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in the Octave of Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ucdtNF19ZYQ/mqdefault_live.jpg",
+          "id": "bY8s5xSfKog",
+          "title": "Organ Recital with World Renowned Organist Dr. Michal Szostak. Saturday, May 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bY8s5xSfKog/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-30T13:00:00Z"
+          "scheduledTime": "2026-05-30T19:00:00Z"
         },
         {
           "id": "_wU7JAqkZ_g",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KNnEH_jy0JY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T11:00:00Z"
+        },
+        {
+          "id": "toAfbU-2bEI",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Trinity Sunday)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/toAfbU-2bEI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T12:00:00Z"
         }
       ]
     }
