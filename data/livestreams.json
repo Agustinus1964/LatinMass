@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-30T07:38:35.056Z",
+  "lastUpdated": "2026-05-30T09:56:47.998Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2hOYTIC2Wz4",
-          "title": "FSSPX Antwerpen - 30/05 QUATERTEMPERZATERDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2hOYTIC2Wz4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T08:00:00Z"
-        },
         {
           "id": "60hnXuWhmXQ",
           "title": "Solemn I Vespers - Trinity Sunday - 5/31/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/U4k8RQTBcyc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T07:30:00Z"
+        },
+        {
+          "id": "cT7-jJNGqU8",
+          "title": "FSSPX Antwerpen - 31/05 FEEST v/d A. H. DRIEVULDIGHEID",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/cT7-jJNGqU8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T08:00:00Z"
         }
       ]
     },
@@ -37,31 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TYY9Y6JgMas",
-          "title": "Sainte messe du Samedi des Quatre-Temps de Pentecôte - DEUS, DUM EGREDERERIS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/TYY9Y6JgMas/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "e-njDhHpS6w",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/e-njDhHpS6w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T09:00:00Z"
-        },
-        {
           "id": "MYWuexR1IC8",
           "title": "Saturday 30th May 2026: Ember Saturday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/MYWuexR1IC8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "CIPmo5gkXvk",
+          "title": "[E] La succession apostolique — L'Histoire de l'Eglise — Catéchisme de persévérance (9/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/CIPmo5gkXvk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ucdtNF19ZYQ",
@@ -80,6 +71,42 @@
           "thumbnail": "https://i.ytimg.com/vi/bY8s5xSfKog/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-30T19:00:00Z"
+        },
+        {
+          "id": "_wU7JAqkZ_g",
+          "title": "8am — Trinity Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_wU7JAqkZ_g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T07:00:00Z"
+        },
+        {
+          "id": "X9hir6hF4IA",
+          "title": "9:30am — Trinity Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/X9hir6hF4IA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T08:30:00Z"
+        },
+        {
+          "id": "TFlluA9-hF8",
+          "title": "Sainte messe de la fête de la Très-Sainte Trinité - BENEDICTA SIT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/TFlluA9-hF8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T09:00:00Z"
+        },
+        {
+          "id": "E5nZuUWSm1Y",
+          "title": "Sunday 31st May 2026: Trinity Sunday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/E5nZuUWSm1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T09:30:00Z"
         }
       ]
     }
