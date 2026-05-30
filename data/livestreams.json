@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-30T15:45:41.114Z",
+  "lastUpdated": "2026-05-30T16:59:13.250Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Qi9QREBDtQY",
-          "title": "Graduation mass, May 30, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/Qi9QREBDtQY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "60hnXuWhmXQ",
           "title": "Solemn I Vespers - Trinity Sunday - 5/31/26",
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/M9YIw2739ZY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T15:30:00Z"
+        },
+        {
+          "id": "DCKlLsDM6v0",
+          "title": "Vespers and Benediction — Trinity Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/DCKlLsDM6v0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T16:00:00Z"
         }
       ]
     }
