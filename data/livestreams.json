@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-30T09:56:47.998Z",
+  "lastUpdated": "2026-05-30T11:20:39.163Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "1DvLfKpSK2Q",
+          "title": "Low Mass - Ember Saturday in the Octave of Pentecost - 5/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/1DvLfKpSK2Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "60hnXuWhmXQ",
           "title": "Solemn I Vespers - Trinity Sunday - 5/31/26",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/U4k8RQTBcyc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T07:30:00Z"
-        },
-        {
-          "id": "cT7-jJNGqU8",
-          "title": "FSSPX Antwerpen - 31/05 FEEST v/d A. H. DRIEVULDIGHEID",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/cT7-jJNGqU8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T08:00:00Z"
         }
       ]
     },
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MYWuexR1IC8",
-          "title": "Saturday 30th May 2026: Ember Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/MYWuexR1IC8/mqdefault_live.jpg",
+          "id": "nS4Gd1q1LJw",
+          "title": "7:30am Mass, Rosary, 9am Sung Mass. Ember Saturday in the Octave of Pentecost. I. May 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/nS4Gd1q1LJw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ucdtNF19ZYQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-30T13:00:00Z"
-        },
-        {
-          "id": "bY8s5xSfKog",
-          "title": "Organ Concert with World Renowned Organist Dr. Michal Szostak. Saturday, May 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bY8s5xSfKog/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T19:00:00Z"
         },
         {
           "id": "_wU7JAqkZ_g",
@@ -107,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/E5nZuUWSm1Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T09:30:00Z"
+        },
+        {
+          "id": "uqkD-Sg8zm4",
+          "title": "11am — Trinity Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/uqkD-Sg8zm4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T10:00:00Z"
+        },
+        {
+          "id": "KNnEH_jy0JY",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Holy Trinity Sunday. I. May 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KNnEH_jy0JY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T11:00:00Z"
         }
       ]
     }
