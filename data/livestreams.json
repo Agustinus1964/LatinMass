@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-29T22:48:28.267Z",
+  "lastUpdated": "2026-05-30T00:06:50.781Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LhTkfhPrccM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-30T12:00:00Z"
+        },
+        {
+          "id": "60hnXuWhmXQ",
+          "title": "Solemn I Vespers - Trinity Sunday - 5/31/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/60hnXuWhmXQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T22:50:00Z"
         }
       ]
     },
@@ -46,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "XO-FiDUCzmI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in the Octave of Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/XO-FiDUCzmI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "i8riqbL7oTM",
-          "title": "Divine Office, 6pm Mass, Holy Hour. Ember Friday in the Octave of Pentecost. I. May 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/i8riqbL7oTM/mqdefault_live.jpg",
+          "id": "cCNpOdecfjM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/cCNpOdecfjM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sUFie-PgeYw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "TYY9Y6JgMas",
+          "title": "Sainte messe du Samedi des Quatre-Temps de Pentecôte - DEUS, DUM EGREDERERIS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/TYY9Y6JgMas/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T07:30:00Z"
         },
         {
           "id": "e-njDhHpS6w",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MYWuexR1IC8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-30T09:30:00Z"
+        },
+        {
+          "id": "bY8s5xSfKog",
+          "title": "Organ Concert with World Renowned Organist Dr. Michal Szostak. Saturday, May 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bY8s5xSfKog/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-30T19:00:00Z"
         }
       ]
     }
