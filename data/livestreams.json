@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T18:06:38.456Z",
+  "lastUpdated": "2026-05-30T19:47:47.967Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,6 +23,15 @@
           "scheduledTime": "2026-05-31T07:30:00Z"
         },
         {
+          "id": "rM7y4Wam954",
+          "title": "Trinity Sunday",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/rM7y4Wam954/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T10:00:00Z"
+        },
+        {
           "id": "FDjbL1uNVGo",
           "title": "Vesper und Maiandacht - Dreifaltigkeitsfest - 31. Mai 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -42,8 +51,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bY8s5xSfKog/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-30T19:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_wU7JAqkZ_g",
