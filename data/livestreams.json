@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-30T14:26:25.808Z",
+  "lastUpdated": "2026-05-30T15:45:41.114Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "LhTkfhPrccM",
-          "title": "Sat. May 30, 2026    -    Ember Saturday of Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/LhTkfhPrccM/mqdefault_live.jpg",
+          "id": "Qi9QREBDtQY",
+          "title": "Graduation mass, May 30, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/Qi9QREBDtQY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -30,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/U4k8RQTBcyc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T07:30:00Z"
+        },
+        {
+          "id": "FDjbL1uNVGo",
+          "title": "Vesper und Maiandacht - Dreifaltigkeitsfest - 31. Mai 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/FDjbL1uNVGo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "93t28drLhSk",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/93t28drLhSk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bY8s5xSfKog",
           "title": "Organ Recital with World Renowned Organist Dr. Michal Szostak. Saturday, May 30, 2026.",
@@ -116,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/toAfbU-2bEI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T12:00:00Z"
+        },
+        {
+          "id": "UcUqZpBNLgI",
+          "title": "10:30am Sung Mass. Holy Trinity Sunday. I. May 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/UcUqZpBNLgI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T14:30:00Z"
+        },
+        {
+          "id": "M9YIw2739ZY",
+          "title": "TRINITY SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/M9YIw2739ZY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T15:30:00Z"
         }
       ]
     }
