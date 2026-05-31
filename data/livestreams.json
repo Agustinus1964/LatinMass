@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-31T17:36:23.054Z",
+  "lastUpdated": "2026-05-31T19:11:40.798Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aU6mzV3jlKA",
-          "title": "Trinity Sunday | May 31st",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/aU6mzV3jlKA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "d1mdwmBNccY",
           "title": "Low Mass - St. Angela Merici, Virgin - 6/1/26",
@@ -55,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_lRvNs9r2q4",
+          "id": "paB7mQfnUf8",
           "title": "Santa Misa Dominical. 31 de mayo 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/_lRvNs9r2q4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/paB7mQfnUf8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "RYYcuXZisyM",
-          "title": "The Immeasurable Love of God",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/RYYcuXZisyM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T18:00:00Z"
         },
         {
           "id": "OVDHXEFU-so",
