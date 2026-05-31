@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-31T01:33:47.004Z",
+  "lastUpdated": "2026-05-31T06:15:05.198Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z1jxQ9eZIIs",
-          "title": "Sung Mass - Holy Trinity Sunday",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/z1jxQ9eZIIs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "U4k8RQTBcyc",
           "title": "Amt - Dreifaltigkeitsfest - 31. Mai 2026",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FDjbL1uNVGo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T15:00:00Z"
+        },
+        {
+          "id": "aU6mzV3jlKA",
+          "title": "Trinity Sunday | May 31st",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/aU6mzV3jlKA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T17:00:00Z"
         },
         {
           "id": "655Q3jOHYIY",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DCKlLsDM6v0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T16:00:00Z"
+        },
+        {
+          "id": "RYYcuXZisyM",
+          "title": "The Immeasurable Love of God",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/RYYcuXZisyM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T18:00:00Z"
         }
       ]
     }
