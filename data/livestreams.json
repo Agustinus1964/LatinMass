@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-05-31T11:15:51.979Z",
+  "lastUpdated": "2026-05-31T12:55:35.330Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rM7y4Wam954",
-          "title": "Trinity Sunday",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/rM7y4Wam954/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FDjbL1uNVGo",
           "title": "Vesper und Maiandacht - Dreifaltigkeitsfest - 31. Mai 2026",
@@ -73,20 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "BI-e2Qo2B1I",
-          "title": "Sunday 7 AM Catholic Mass for 05/31/2026",
+          "id": "OLpU3KfQUmA",
+          "title": "Sunday 8:30 AM Catholic Mass for 05/31/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/BI-e2Qo2B1I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uqkD-Sg8zm4",
-          "title": "11am — Trinity Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/uqkD-Sg8zm4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/OLpU3KfQUmA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,22 +82,22 @@
           "scheduledTime": null
         },
         {
-          "id": "osDKDtymiXs",
-          "title": "Mossa Rezada - Festa da Santíssima Trindade. 2026",
+          "id": "wT5gsgHpUvE",
+          "title": "Missa Tridentina cantada - Festa da Santíssima Trindade 2026",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/osDKDtymiXs/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/wT5gsgHpUvE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "toAfbU-2bEI",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (Trinity Sunday)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/toAfbU-2bEI/mqdefault_live.jpg",
+          "id": "XxECgpaInO4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/XxECgpaInO4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-05-31T12:00:00Z"
+          "scheduledTime": "2026-05-31T12:58:00Z"
         },
         {
           "id": "UcUqZpBNLgI",
