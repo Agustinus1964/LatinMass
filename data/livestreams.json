@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-05-31T09:27:32.814Z",
+  "lastUpdated": "2026-05-31T11:15:51.979Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cT7-jJNGqU8",
-          "title": "FSSPX Antwerpen - 31/05 FEEST v/d A. H. DRIEVULDIGHEID",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/cT7-jJNGqU8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cKO-B9iTao4",
-          "title": "Festa della Santissima Trinità - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/cKO-B9iTao4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rM7y4Wam954",
           "title": "Trinity Sunday",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/rM7y4Wam954/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FDjbL1uNVGo",
@@ -57,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/655Q3jOHYIY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T21:00:00Z"
+        },
+        {
+          "id": "d1mdwmBNccY",
+          "title": "Low Mass - St. Angela Merici, Virgin - 6/1/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/d1mdwmBNccY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T11:15:00Z"
+        },
+        {
+          "id": "lqbv-VJNfss",
+          "title": "Mon. Jun. 1, 2026    -    St. Angela Merici,     Virgin",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/lqbv-VJNfss/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T11:15:00Z"
         }
       ]
     },
@@ -64,11 +64,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "E5nZuUWSm1Y",
-          "title": "Sunday 31st May 2026: Trinity Sunday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/E5nZuUWSm1Y/mqdefault_live.jpg",
+          "id": "KNnEH_jy0JY",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Holy Trinity Sunday. I. May 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KNnEH_jy0JY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BI-e2Qo2B1I",
+          "title": "Sunday 7 AM Catholic Mass for 05/31/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/BI-e2Qo2B1I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "uqkD-Sg8zm4",
+          "title": "11am — Trinity Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/uqkD-Sg8zm4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,22 +100,13 @@
           "scheduledTime": null
         },
         {
-          "id": "uqkD-Sg8zm4",
-          "title": "11am — Trinity Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/uqkD-Sg8zm4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T10:00:00Z"
-        },
-        {
-          "id": "KNnEH_jy0JY",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Holy Trinity Sunday. I. May 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KNnEH_jy0JY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T11:00:00Z"
+          "id": "osDKDtymiXs",
+          "title": "Mossa Rezada - Festa da Santíssima Trindade. 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/osDKDtymiXs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "toAfbU-2bEI",
@@ -152,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RYYcuXZisyM/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T18:00:00Z"
+        },
+        {
+          "id": "OVDHXEFU-so",
+          "title": "7am Mass. St. Angela Merici, Virgin. III. Monday, June 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/OVDHXEFU-so/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T11:00:00Z"
         }
       ]
     }
