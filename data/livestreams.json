@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-31T20:36:32.963Z",
+  "lastUpdated": "2026-05-31T21:57:00.001Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "655Q3jOHYIY",
+          "title": "Solemn II Vespers - Trinity Sunday - 5/31/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/655Q3jOHYIY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "srzMfkSkorU",
           "title": "Saint Angela Merici, virgin",
