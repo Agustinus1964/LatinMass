@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-05-31T19:11:40.798Z",
+  "lastUpdated": "2026-05-31T20:36:32.963Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "srzMfkSkorU",
+          "title": "Saint Angela Merici, virgin",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/srzMfkSkorU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T07:15:00Z"
+        },
         {
           "id": "d1mdwmBNccY",
           "title": "Low Mass - St. Angela Merici, Virgin - 6/1/26",
@@ -46,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "paB7mQfnUf8",
-          "title": "Santa Misa Dominical. 31 de mayo 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/paB7mQfnUf8/mqdefault_live.jpg",
+          "id": "it8ZJ888mQI",
+          "title": "Missa Rezada e Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/it8ZJ888mQI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
