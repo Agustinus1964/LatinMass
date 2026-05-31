@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-05-30T23:03:14.436Z",
+  "lastUpdated": "2026-05-31T01:33:47.004Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "60hnXuWhmXQ",
-          "title": "Solemn I Vespers - Trinity Sunday - 5/31/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/60hnXuWhmXQ/mqdefault_live.jpg",
+          "id": "z1jxQ9eZIIs",
+          "title": "Sung Mass - Holy Trinity Sunday",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/z1jxQ9eZIIs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/M9YIw2739ZY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-05-31T15:30:00Z"
+        },
+        {
+          "id": "8b9cj3TlbLU",
+          "title": "Secondes vêpres de la fête de la Très-Sainte Trinité - TE DEUM PATREM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/8b9cj3TlbLU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-05-31T15:45:00Z"
         },
         {
           "id": "DCKlLsDM6v0",
