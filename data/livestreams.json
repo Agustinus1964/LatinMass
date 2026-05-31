@@ -1,42 +1,15 @@
 {
-  "lastUpdated": "2026-05-31T14:42:08.608Z",
+  "lastUpdated": "2026-05-31T16:03:52.473Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "WQ5Fn4wAv_I",
-          "title": "Solemn High Mass - Trinity Sunday- 5/31/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WQ5Fn4wAv_I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OYdhBSnYcpI",
-          "title": "Trinity Sunday - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/OYdhBSnYcpI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "47f77y1elAs",
-          "title": "Trinity Sunday 2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/47f77y1elAs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2BgV8NEkR5A",
-          "title": "Sun. May 31, 2026    -    Trinity Sunday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/2BgV8NEkR5A/mqdefault_live.jpg",
+          "id": "t9zikAG5QIA",
+          "title": "Trinity Sunday, May 31, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/t9zikAG5QIA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/FDjbL1uNVGo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aU6mzV3jlKA",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lqbv-VJNfss/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-01T11:15:00Z"
+        },
+        {
+          "id": "qOYINdQwuMU",
+          "title": "FSSPX Antwerpen - 01/06 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/qOYINdQwuMU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T15:00:00Z"
         }
       ]
     },
@@ -82,11 +64,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "UcUqZpBNLgI",
-          "title": "10:30am Sung Mass. Holy Trinity Sunday. I. May 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/UcUqZpBNLgI/mqdefault_live.jpg",
+          "id": "s5Jbme4V22o",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/s5Jbme4V22o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "M9YIw2739ZY",
+          "title": "TRINITY SUNDAY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/M9YIw2739ZY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "QrgokNcCG1s",
+          "title": "Sunday 11 AM Sung Mass 2026-05-31",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QrgokNcCG1s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,31 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "tXbCImuVeqU",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/tXbCImuVeqU/mqdefault_live.jpg",
+          "id": "DCKlLsDM6v0",
+          "title": "Vespers and Benediction — Trinity Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/DCKlLsDM6v0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Rf8BAiOJaTM",
-          "title": "Holy Trinity Sunday / Dimanche de la Sainte Trinité",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/Rf8BAiOJaTM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T14:24:05Z"
-        },
-        {
-          "id": "M9YIw2739ZY",
-          "title": "TRINITY SUNDAY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/M9YIw2739ZY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T15:30:00Z"
         },
         {
           "id": "8b9cj3TlbLU",
@@ -141,17 +123,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/8b9cj3TlbLU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T15:45:00Z"
-        },
-        {
-          "id": "DCKlLsDM6v0",
-          "title": "Vespers and Benediction — Trinity Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/DCKlLsDM6v0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-05-31T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RYYcuXZisyM",
@@ -170,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OVDHXEFU-so/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-01T11:00:00Z"
+        },
+        {
+          "id": "wRzYa1j-uWA",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wRzYa1j-uWA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T16:00:00Z"
         }
       ]
     }
