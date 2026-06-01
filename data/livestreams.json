@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-01T12:32:59.007Z",
+  "lastUpdated": "2026-06-01T18:34:52.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qOYINdQwuMU",
-          "title": "FSSPX Antwerpen - 01/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/qOYINdQwuMU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T15:00:00Z"
-        },
-        {
-          "id": "dcEum4ZAnHk",
-          "title": "FSSPX Antwerpen - 01/06 H. ANGELA de MERICI",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dcEum4ZAnHk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T16:30:00Z"
-        },
         {
           "id": "jcvIfMnfYts",
           "title": "Rosary - 6/1/26",
@@ -48,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/6z0a-SIQFlc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-02T11:15:00Z"
+        },
+        {
+          "id": "GiOWkltCSVs",
+          "title": "FSSPX Antwerpen - 02/06 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/GiOWkltCSVs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T15:00:00Z"
+        },
+        {
+          "id": "fnj787pl_yY",
+          "title": "FSSPX Antwerpen - 02/06 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/fnj787pl_yY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T16:30:00Z"
         }
       ]
     },
@@ -55,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Pw9wnuiMPsc",
-          "title": "Monday 8 AM Traditional Latin Mass06/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Pw9wnuiMPsc/mqdefault_live.jpg",
+          "id": "MynQKctxKFs",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/MynQKctxKFs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wRzYa1j-uWA",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wRzYa1j-uWA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T16:00:00Z"
-        },
-        {
-          "id": "Qsv4MCQo230",
-          "title": "Monday 1st June 2026: Saint Angela Merici",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Qsv4MCQo230/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T17:00:00Z"
         },
         {
           "id": "fpygjssuUeE",
@@ -98,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/y5uoI761QWI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-02T11:00:00Z"
+        },
+        {
+          "id": "Nwgyl54Kamo",
+          "title": "Tuesday 2nd June 2026: Sts. Marcellinus, Peter and Erasmus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Nwgyl54Kamo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T17:00:00Z"
+        },
+        {
+          "id": "W4fonPbrZsY",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/W4fonPbrZsY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T17:00:00Z"
         }
       ]
     }
