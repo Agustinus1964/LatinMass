@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-01T21:57:54.865Z",
+  "lastUpdated": "2026-06-01T23:37:37.785Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jcvIfMnfYts",
-          "title": "Rosary - 6/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jcvIfMnfYts/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T23:00:00Z"
-        },
         {
           "id": "-YzF86tBVkM",
           "title": "Hl. Messe - 02. Juni 2026",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fnj787pl_yY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-02T16:30:00Z"
+        },
+        {
+          "id": "iO-w3zJ4dOE",
+          "title": "Rosary - 6/2/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/iO-w3zJ4dOE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T23:00:00Z"
         }
       ]
     },
@@ -78,8 +78,8 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/fpygjssuUeE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T22:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "y5uoI761QWI",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W4fonPbrZsY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-02T17:00:00Z"
+        },
+        {
+          "id": "bqhir2AZox4",
+          "title": "6pm Mass. Feria. IV. Tuesday, June 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bqhir2AZox4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T22:00:00Z"
         }
       ]
     }
