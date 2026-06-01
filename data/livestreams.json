@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-01T18:34:52.896Z",
+  "lastUpdated": "2026-06-01T21:57:54.865Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jcvIfMnfYts/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-01T23:00:00Z"
+        },
+        {
+          "id": "-YzF86tBVkM",
+          "title": "Hl. Messe - 02. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-YzF86tBVkM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T05:15:00Z"
         },
         {
           "id": "HnGOLc4zISs",
@@ -41,6 +50,15 @@
           "scheduledTime": "2026-06-02T15:00:00Z"
         },
         {
+          "id": "zeWbo_bynGY",
+          "title": "Rosenkranz und hl. Messe - 02. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/zeWbo_bynGY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T16:00:00Z"
+        },
+        {
           "id": "fnj787pl_yY",
           "title": "FSSPX Antwerpen - 02/06 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -54,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MynQKctxKFs",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/MynQKctxKFs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fpygjssuUeE",
           "title": "Holy Mass from Cleveland USA (Votive Mass of the Immaculate Conception of the Blessed Virgin Mary)",
