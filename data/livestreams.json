@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-01T06:51:36.907Z",
+  "lastUpdated": "2026-06-01T12:32:59.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "srzMfkSkorU",
-          "title": "Saint Angela Merici, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/srzMfkSkorU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "d1mdwmBNccY",
-          "title": "Low Mass - St. Angela Merici, Virgin - 6/1/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/d1mdwmBNccY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T11:15:00Z"
-        },
-        {
-          "id": "lqbv-VJNfss",
-          "title": "Mon. Jun. 1, 2026    -    St. Angela Merici,     Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/lqbv-VJNfss/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T11:15:00Z"
-        },
         {
           "id": "qOYINdQwuMU",
           "title": "FSSPX Antwerpen - 01/06 Aanbidding met Rozenhoedje",
@@ -57,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jcvIfMnfYts/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-01T23:00:00Z"
+        },
+        {
+          "id": "HnGOLc4zISs",
+          "title": "Low Mass - Feria - 6/2/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HnGOLc4zISs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T11:15:00Z"
+        },
+        {
+          "id": "6z0a-SIQFlc",
+          "title": "Tue. Jun. 2, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/6z0a-SIQFlc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T11:15:00Z"
         }
       ]
     },
@@ -64,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "OVDHXEFU-so",
-          "title": "7am Mass. St. Angela Merici, Virgin. III. Monday, June 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/OVDHXEFU-so/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-01T11:00:00Z"
+          "id": "Pw9wnuiMPsc",
+          "title": "Monday 8 AM Traditional Latin Mass06/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Pw9wnuiMPsc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wRzYa1j-uWA",
@@ -82,6 +73,15 @@
           "scheduledTime": "2026-06-01T16:00:00Z"
         },
         {
+          "id": "Qsv4MCQo230",
+          "title": "Monday 1st June 2026: Saint Angela Merici",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Qsv4MCQo230/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-01T17:00:00Z"
+        },
+        {
           "id": "fpygjssuUeE",
           "title": "Holy Mass from Cleveland USA (Votive Mass of the Immaculate Conception of the Blessed Virgin Mary)",
           "channel": "Usus Antiquior",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fpygjssuUeE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-01T22:15:00Z"
+        },
+        {
+          "id": "y5uoI761QWI",
+          "title": "7am Mass. Feria. IV. Tuesday, June 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/y5uoI761QWI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-02T11:00:00Z"
         }
       ]
     }
