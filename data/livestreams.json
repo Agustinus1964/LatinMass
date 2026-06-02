@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-02T16:59:02.797Z",
+  "lastUpdated": "2026-06-02T20:09:15.664Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fnj787pl_yY",
-          "title": "FSSPX Antwerpen - 02/06 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/fnj787pl_yY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zeWbo_bynGY",
-          "title": "Rosenkranz und hl. Messe - 02. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zeWbo_bynGY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "iO-w3zJ4dOE",
           "title": "Rosary - 6/2/26",
@@ -59,6 +41,15 @@
           "scheduledTime": "2026-06-03T05:30:00Z"
         },
         {
+          "id": "BylHQp3YVNs",
+          "title": "Requiem Mass for the repose of the soul of Fr. Joseph Dreher",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/BylHQp3YVNs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T07:15:00Z"
+        },
+        {
           "id": "ckMU9zQ2urw",
           "title": "Wed. Jun. 3, 2026    -    Ferial Day",
           "channel": "Transfiguration Church SSPX",
@@ -82,42 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "heLDEh5MuLs",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/heLDEh5MuLs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Nwgyl54Kamo",
-          "title": "Tuesday 2nd June 2026: Sts. Marcellinus, Peter and Erasmus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Nwgyl54Kamo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "W4fonPbrZsY",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/W4fonPbrZsY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1F8OKFD4H20",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/1F8OKFD4H20/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "KHZZ6Zrbbqs",
           "title": "La hermosura de la Misa Tradicional",
           "channel": "FSSP en MEXICO - Oficial",
@@ -128,12 +83,30 @@
         },
         {
           "id": "bqhir2AZox4",
-          "title": "6pm Mass. Feria. IV. Tuesday, June 2, 2026.",
+          "title": "6pm Requiem Mass for Maurice Larivee. Tuesday, June 2, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bqhir2AZox4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-02T22:00:00Z"
+        },
+        {
+          "id": "XM3pdJqbqqk",
+          "title": "Wednesday 3rd June 2026: Mass of the 1st Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/XM3pdJqbqqk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T17:00:00Z"
+        },
+        {
+          "id": "FmK42blKmJE",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/FmK42blKmJE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T17:00:00Z"
         }
       ]
     }
