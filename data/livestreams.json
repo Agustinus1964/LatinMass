@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-02T03:37:38.834Z",
+  "lastUpdated": "2026-06-02T08:25:59.202Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-YzF86tBVkM",
-          "title": "Hl. Messe - 02. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/-YzF86tBVkM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T05:15:00Z"
-        },
         {
           "id": "HnGOLc4zISs",
           "title": "Low Mass - Feria - 6/2/26",
@@ -75,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/3PhlIqETFec/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-03T00:45:00Z"
+        },
+        {
+          "id": "xwSh_IfvEYE",
+          "title": "Hl. Messe - 03. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/xwSh_IfvEYE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T05:15:00Z"
+        },
+        {
+          "id": "Xmk3603dBGQ",
+          "title": "FSSPX Antwerpen - 03/06 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Xmk3603dBGQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T05:30:00Z"
         }
       ]
     },
