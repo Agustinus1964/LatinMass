@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-02T08:25:59.202Z",
+  "lastUpdated": "2026-06-02T12:24:14.325Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "HnGOLc4zISs",
-          "title": "Low Mass - Feria - 6/2/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/HnGOLc4zISs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T11:15:00Z"
-        },
-        {
-          "id": "6z0a-SIQFlc",
-          "title": "Tue. Jun. 2, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/6z0a-SIQFlc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T11:15:00Z"
+          "id": "njkz1-sEtFo",
+          "title": "Understanding The Crisis in the Church - Chapter 6 - Responsibility of the authority in the crisis",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/njkz1-sEtFo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GiOWkltCSVs",
@@ -84,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Xmk3603dBGQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-03T05:30:00Z"
+        },
+        {
+          "id": "ckMU9zQ2urw",
+          "title": "Wed. Jun. 3, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ckMU9zQ2urw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T11:15:00Z"
         }
       ]
     },
@@ -91,13 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "y5uoI761QWI",
-          "title": "7am Mass. Feria. IV. Tuesday, June 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/y5uoI761QWI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T11:00:00Z"
+          "id": "E99jPs_1cN4",
+          "title": "Tuesday 8 AM Catholic Mass for 06/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/E99jPs_1cN4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nwgyl54Kamo",
