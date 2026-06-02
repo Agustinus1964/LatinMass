@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-02T20:09:15.664Z",
+  "lastUpdated": "2026-06-02T22:32:31.449Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KHZZ6Zrbbqs",
-          "title": "La hermosura de la Misa Tradicional",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/KHZZ6Zrbbqs/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T21:00:00Z"
-        },
-        {
           "id": "bqhir2AZox4",
           "title": "6pm Requiem Mass for Maurice Larivee. Tuesday, June 2, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bqhir2AZox4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XM3pdJqbqqk",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FmK42blKmJE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-03T17:00:00Z"
+        },
+        {
+          "id": "yq5xdKWKOWg",
+          "title": "7am Mass. Feria. IV. Wednesday, June 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/yq5xdKWKOWg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T22:00:00Z"
         }
       ]
     }
