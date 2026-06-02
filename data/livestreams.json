@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-02T12:24:14.325Z",
+  "lastUpdated": "2026-06-02T16:59:02.797Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "njkz1-sEtFo",
-          "title": "Understanding The Crisis in the Church - Chapter 6 - Responsibility of the authority in the crisis",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/njkz1-sEtFo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GiOWkltCSVs",
-          "title": "FSSPX Antwerpen - 02/06 Aanbidding met Rozenhoedje",
+          "id": "fnj787pl_yY",
+          "title": "FSSPX Antwerpen - 02/06 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/GiOWkltCSVs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T15:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/fnj787pl_yY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zeWbo_bynGY",
@@ -28,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/zeWbo_bynGY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T16:00:00Z"
-        },
-        {
-          "id": "fnj787pl_yY",
-          "title": "FSSPX Antwerpen - 02/06 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/fnj787pl_yY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iO-w3zJ4dOE",
@@ -84,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ckMU9zQ2urw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-03T11:15:00Z"
+        },
+        {
+          "id": "Cc6YWtWsSo0",
+          "title": "Vesper, Rosenkranz und hl. Messe - 03. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Cc6YWtWsSo0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T15:25:00Z"
         }
       ]
     },
@@ -91,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "E99jPs_1cN4",
-          "title": "Tuesday 8 AM Catholic Mass for 06/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/E99jPs_1cN4/mqdefault_live.jpg",
+          "id": "heLDEh5MuLs",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/heLDEh5MuLs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,8 +96,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Nwgyl54Kamo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "W4fonPbrZsY",
@@ -114,8 +105,26 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/W4fonPbrZsY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1F8OKFD4H20",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/1F8OKFD4H20/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KHZZ6Zrbbqs",
+          "title": "La hermosura de la Misa Tradicional",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/KHZZ6Zrbbqs/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-02T17:00:00Z"
+          "scheduledTime": "2026-06-02T21:00:00Z"
         },
         {
           "id": "bqhir2AZox4",
