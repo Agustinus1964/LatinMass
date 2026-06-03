@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-03T15:12:27.890Z",
+  "lastUpdated": "2026-06-03T19:04:30.742Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Cc6YWtWsSo0",
-          "title": "Vesper, Rosenkranz und hl. Messe - 03. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Cc6YWtWsSo0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T15:25:00Z"
-        },
         {
           "id": "273KL1hz79A",
           "title": "Solemn I Vespers - Corpus Christi - 6/3/26",
@@ -84,39 +75,30 @@
           "thumbnail": "https://i.ytimg.com/vi/eBjs7gPqgTA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T13:55:00Z"
+        },
+        {
+          "id": "RxI1XSEIIF0",
+          "title": "FSSPX Antwerpen - 04/06 SACRAMENTSDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/RxI1XSEIIF0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T16:30:00Z"
+        },
+        {
+          "id": "p_pmpLyxeq8",
+          "title": "Vesper - Fronleichnam - 04. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/p_pmpLyxeq8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3aoJ7EoYLFM",
-          "title": "Santo Sacrificio de la Misa, Feria, 3 de junio de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/3aoJ7EoYLFM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XM3pdJqbqqk",
-          "title": "Wednesday 3rd June 2026: Mass of the 1st Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/XM3pdJqbqqk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T17:00:00Z"
-        },
-        {
-          "id": "FmK42blKmJE",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/FmK42blKmJE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T17:00:00Z"
-        },
         {
           "id": "zOsHcLh-GP0",
           "title": "Tienes dudas? Preguntas y respuestas en la educación de los hijos. Lic. Luis Castillo.",
@@ -134,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/yZZ2nLLyP78/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T11:00:00Z"
+        },
+        {
+          "id": "UrVn8S-1b-8",
+          "title": "Thursday 4th June 2026: Corpus Christi",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/UrVn8S-1b-8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T17:00:00Z"
+        },
+        {
+          "id": "_2QznZuCm90",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_2QznZuCm90/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T17:00:00Z"
         }
       ]
     }
