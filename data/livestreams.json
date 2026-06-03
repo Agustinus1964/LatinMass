@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-02T22:32:31.449Z",
+  "lastUpdated": "2026-06-03T00:24:54.824Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iO-w3zJ4dOE",
-          "title": "Rosary - 6/2/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/iO-w3zJ4dOE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-02T23:00:00Z"
-        },
         {
           "id": "3PhlIqETFec",
           "title": "Compline - 6/2/26",
@@ -72,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bqhir2AZox4",
-          "title": "6pm Requiem Mass for Maurice Larivee. Tuesday, June 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bqhir2AZox4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "XM3pdJqbqqk",
           "title": "Wednesday 3rd June 2026: Mass of the 1st Sunday after Pentecost",
