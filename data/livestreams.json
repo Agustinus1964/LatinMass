@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-03T00:24:54.824Z",
+  "lastUpdated": "2026-06-03T05:24:19.222Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3PhlIqETFec",
-          "title": "Compline - 6/2/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/3PhlIqETFec/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T00:45:00Z"
-        },
         {
           "id": "xwSh_IfvEYE",
           "title": "Hl. Messe - 03. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/xwSh_IfvEYE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Xmk3603dBGQ",
@@ -38,7 +29,16 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/BylHQp3YVNs/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-03T07:15:00Z"
+          "scheduledTime": "2026-06-03T06:15:00Z"
+        },
+        {
+          "id": "sH9K46kry-E",
+          "title": "Low Mass - Feria - 6/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/sH9K46kry-E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T11:15:00Z"
         },
         {
           "id": "ckMU9zQ2urw",
@@ -57,12 +57,39 @@
           "thumbnail": "https://i.ytimg.com/vi/Cc6YWtWsSo0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-03T15:25:00Z"
+        },
+        {
+          "id": "273KL1hz79A",
+          "title": "Solemn I Vespers - Corpus Christi - 6/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/273KL1hz79A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T22:50:00Z"
+        },
+        {
+          "id": "JbTuETvCw-A",
+          "title": "Compline - 6/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/JbTuETvCw-A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "tYZaziPZpSs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the First Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/tYZaziPZpSs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-03T11:30:00Z"
+        },
         {
           "id": "XM3pdJqbqqk",
           "title": "Wednesday 3rd June 2026: Mass of the 1st Sunday after Pentecost",
@@ -89,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yq5xdKWKOWg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-03T22:00:00Z"
+        },
+        {
+          "id": "zOsHcLh-GP0",
+          "title": "Tienes dudas? Preguntas y respuestas en la educación de los hijos. Lic. Luis Castillo.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/zOsHcLh-GP0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T02:30:00Z"
         }
       ]
     }
