@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-03T05:24:19.222Z",
+  "lastUpdated": "2026-06-03T10:17:00.000Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xwSh_IfvEYE",
-          "title": "Hl. Messe - 03. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xwSh_IfvEYE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Xmk3603dBGQ",
-          "title": "FSSPX Antwerpen - 03/06 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Xmk3603dBGQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T05:30:00Z"
-        },
-        {
-          "id": "BylHQp3YVNs",
-          "title": "Requiem Mass for the repose of the soul of Fr. Joseph Dreher",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/BylHQp3YVNs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T06:15:00Z"
-        },
         {
           "id": "sH9K46kry-E",
           "title": "Low Mass - Feria - 6/3/26",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JbTuETvCw-A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T00:45:00Z"
+        },
+        {
+          "id": "gtXCpwFE0jw",
+          "title": "Amt - Fronleichnam - 04. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/gtXCpwFE0jw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T07:00:00Z"
         }
       ]
     },
