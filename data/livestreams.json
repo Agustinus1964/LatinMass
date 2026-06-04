@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-04T20:30:37.864Z",
+  "lastUpdated": "2026-06-04T22:17:59.989Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "mZBG-NS9aXU",
-          "title": "Solemn II Vespers - Feast of Corpus Christi - 6/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/mZBG-NS9aXU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T20:55:00Z"
+          "id": "c2EZ6Zu3rWA",
+          "title": "Corpus Christi 2026",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/c2EZ6Zu3rWA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9h4qdscm4Fk",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9h4qdscm4Fk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T22:00:00Z"
-        },
-        {
-          "id": "aXxRznW3D_4",
-          "title": "Compline - 6/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aXxRznW3D_4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T00:45:00Z"
         },
         {
           "id": "YJtbexB6maQ",
@@ -48,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ZWqgY8vI7bg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T07:15:00Z"
-        },
-        {
-          "id": "kZ0nvpRsUr4",
-          "title": "Sung Mass - First Friday - Mass of the Sacred Heart - 6/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/kZ0nvpRsUr4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T10:50:00Z"
         },
         {
           "id": "XY48HxmAc5U",
@@ -109,22 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "qco9f6MQ1gM",
-          "title": "Missa rezada de Corpus Christi e terço",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/qco9f6MQ1gM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tl-NW3Ph7I0",
-          "title": "6pm Sung Mass. Feast of Corpus Christi. I. Thursday, June 4, 2026.",
+          "title": "Divine Office & 6pm Sung Mass. Feast of Corpus Christi. I. Thursday, June 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/tl-NW3Ph7I0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "F_w6MhWgIoc",
@@ -188,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EStYV3TMGEI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T17:00:00Z"
+        },
+        {
+          "id": "DS8ugB0Wfi8",
+          "title": "First Friday: Divine Office, Mass, Holy Hour. St Boniface. III. Sacred Heart. III. Friday, 6-5-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/DS8ugB0Wfi8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T21:00:00Z"
         }
       ]
     }
