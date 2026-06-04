@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-04T00:11:28.388Z",
+  "lastUpdated": "2026-06-04T05:19:25.166Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "JbTuETvCw-A",
-          "title": "Compline - 6/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JbTuETvCw-A/mqdefault_live.jpg",
+          "id": "fOBUNMAKxv4",
+          "title": "Corpus Christi",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/fOBUNMAKxv4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-04T00:45:00Z"
+          "scheduledTime": "2026-06-04T06:15:00Z"
         },
         {
           "id": "gtXCpwFE0jw",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gtXCpwFE0jw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T07:00:00Z"
-        },
-        {
-          "id": "fOBUNMAKxv4",
-          "title": "Corpus Christi",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/fOBUNMAKxv4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T07:15:00Z"
         },
         {
           "id": "Sd2H6JcffGw",
@@ -111,21 +102,30 @@
           "thumbnail": "https://i.ytimg.com/vi/9h4qdscm4Fk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T22:00:00Z"
+        },
+        {
+          "id": "aXxRznW3D_4",
+          "title": "Compline - 6/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/aXxRznW3D_4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T00:45:00Z"
+        },
+        {
+          "id": "YJtbexB6maQ",
+          "title": "Hl. Messe - hl. Bonifatius - 05. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YJtbexB6maQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zOsHcLh-GP0",
-          "title": "Tienes dudas? Preguntas y respuestas en la educación de los hijos. Lic. Luis Castillo.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/zOsHcLh-GP0/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T02:30:00Z"
-        },
         {
           "id": "yZZ2nLLyP78",
           "title": "7am Mass. Feast of Corpus Christi. I. Thursday, June 4, 2026.",
