@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-06-04T15:57:32.353Z",
+  "lastUpdated": "2026-06-04T18:20:14.097Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aOMgE9OdTUs",
-          "title": "FSSPX Antwerpen - 04/06 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/aOMgE9OdTUs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gtXCpwFE0jw",
-          "title": "Amt - Fronleichnam - 04. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/gtXCpwFE0jw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RxI1XSEIIF0",
-          "title": "FSSPX Antwerpen - 04/06 SACRAMENTSDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/RxI1XSEIIF0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T16:30:00Z"
-        },
         {
           "id": "p_pmpLyxeq8",
           "title": "Vesper - Fronleichnam - 04. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/p_pmpLyxeq8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mZBG-NS9aXU",
@@ -102,6 +75,33 @@
           "thumbnail": "https://i.ytimg.com/vi/nimcYou1eOI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T15:00:00Z"
+        },
+        {
+          "id": "RFNTNSBGquU",
+          "title": "FSSPX Antwerpen - 05/06 H. BONIFATIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/RFNTNSBGquU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T16:30:00Z"
+        },
+        {
+          "id": "7C0QnE4UvOA",
+          "title": "Sakramentsandacht und Amt - hl. Bonifatius - 05. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7C0QnE4UvOA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T16:30:00Z"
+        },
+        {
+          "id": "EthBYHJvWxg",
+          "title": "Conder-Ballard Wedding, June 5, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/EthBYHJvWxg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T16:40:00Z"
         }
       ]
     },
@@ -114,17 +114,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/UrVn8S-1b-8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T17:00:00Z"
-        },
-        {
-          "id": "_2QznZuCm90",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/_2QznZuCm90/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tl-NW3Ph7I0",
@@ -170,6 +161,24 @@
           "thumbnail": "https://i.ytimg.com/vi/aZx6-fHtIYU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T15:00:00Z"
+        },
+        {
+          "id": "Vd5IdnAQEuo",
+          "title": "Friday 5th June 2026: First Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Vd5IdnAQEuo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T17:00:00Z"
+        },
+        {
+          "id": "EStYV3TMGEI",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/EStYV3TMGEI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T17:00:00Z"
         }
       ]
     }
