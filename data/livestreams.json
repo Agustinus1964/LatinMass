@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-03T22:08:52.417Z",
+  "lastUpdated": "2026-06-04T00:11:28.388Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "273KL1hz79A",
-          "title": "Solemn I Vespers - Corpus Christi - 6/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/273KL1hz79A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-03T22:50:00Z"
-        },
         {
           "id": "JbTuETvCw-A",
           "title": "Compline - 6/3/26",
@@ -127,24 +118,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KqaogqOJnyU",
-          "title": "Divine Office & 6pm Mass. Feria. IV. Wednesday, June 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KqaogqOJnyU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yAzF7IdStHY",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/yAzF7IdStHY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "zOsHcLh-GP0",
           "title": "Tienes dudas? Preguntas y respuestas en la educación de los hijos. Lic. Luis Castillo.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -188,6 +161,24 @@
           "thumbnail": "https://i.ytimg.com/vi/tl-NW3Ph7I0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T22:00:00Z"
+        },
+        {
+          "id": "F_w6MhWgIoc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Corpus Christi)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/F_w6MhWgIoc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T22:30:00Z"
+        },
+        {
+          "id": "MkE0yWOSrbs",
+          "title": "CORPUS CHRISTI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/MkE0yWOSrbs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T23:00:00Z"
         }
       ]
     }
