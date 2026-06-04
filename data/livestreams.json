@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T09:09:08.468Z",
+  "lastUpdated": "2026-06-04T12:25:37.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,26 +19,8 @@
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/Sd2H6JcffGw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T11:00:00Z"
-        },
-        {
-          "id": "TZ7SKHZpO8g",
-          "title": "Thu. Jun. 4, 2026    -    Feast of Corpus Christi",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/TZ7SKHZpO8g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T11:15:00Z"
-        },
-        {
-          "id": "HH7JHbN0hhM",
-          "title": "Low Mass - Feast of Corpus Christi - 6/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/HH7JHbN0hhM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T11:20:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aOMgE9OdTUs",
@@ -111,6 +93,24 @@
           "thumbnail": "https://i.ytimg.com/vi/YJtbexB6maQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T05:15:00Z"
+        },
+        {
+          "id": "kZ0nvpRsUr4",
+          "title": "Sung Mass - First Friday - Mass of the Sacred Heart - 6/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kZ0nvpRsUr4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T10:50:00Z"
+        },
+        {
+          "id": "XY48HxmAc5U",
+          "title": "Fri. Jun. 5, 2026    -    St. Boniface,   Bishop and Martyr     (First Friday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/XY48HxmAc5U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T11:15:00Z"
         }
       ]
     },
@@ -118,13 +118,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "yZZ2nLLyP78",
-          "title": "7am Mass. Feast of Corpus Christi. I. Thursday, June 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/yZZ2nLLyP78/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T11:00:00Z"
+          "id": "6bxft37fmhM",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 06/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6bxft37fmhM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UrVn8S-1b-8",
