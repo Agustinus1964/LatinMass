@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-04T05:19:25.166Z",
+  "lastUpdated": "2026-06-04T09:09:08.468Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fOBUNMAKxv4",
-          "title": "Corpus Christi",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/fOBUNMAKxv4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T06:15:00Z"
-        },
         {
           "id": "gtXCpwFE0jw",
           "title": "Amt - Fronleichnam - 04. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/gtXCpwFE0jw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Sd2H6JcffGw",
