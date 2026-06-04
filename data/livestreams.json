@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T22:17:59.989Z",
+  "lastUpdated": "2026-06-04T23:43:48.724Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/c2EZ6Zu3rWA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "9h4qdscm4Fk",
-          "title": "Thu. Jun. 4, 2026    -    Feast of Corpus Christi",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/9h4qdscm4Fk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T22:00:00Z"
         },
         {
           "id": "YJtbexB6maQ",
@@ -91,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tl-NW3Ph7I0",
-          "title": "Divine Office & 6pm Sung Mass. Feast of Corpus Christi. I. Thursday, June 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/tl-NW3Ph7I0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "F_w6MhWgIoc",
           "title": "Live Stream Holy Mass from Cleveland USA (Corpus Christi)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/F_w6MhWgIoc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T22:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MkE0yWOSrbs",
@@ -114,8 +96,8 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/MkE0yWOSrbs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dODY-Ro_lrI",
@@ -123,8 +105,8 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/dODY-Ro_lrI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-04T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oA_8GDGcstM",
@@ -170,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DS8ugB0Wfi8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T21:00:00Z"
+        },
+        {
+          "id": "tk6Q3UfUB-4",
+          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 06/05/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/tk6Q3UfUB-4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T22:55:00Z"
         }
       ]
     }
