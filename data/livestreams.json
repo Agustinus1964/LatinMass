@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-04T18:20:14.097Z",
+  "lastUpdated": "2026-06-04T20:30:37.864Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "p_pmpLyxeq8",
-          "title": "Vesper - Fronleichnam - 04. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/p_pmpLyxeq8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "mZBG-NS9aXU",
           "title": "Solemn II Vespers - Feast of Corpus Christi - 6/4/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YJtbexB6maQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T05:15:00Z"
+        },
+        {
+          "id": "ZWqgY8vI7bg",
+          "title": "Saint Boniface, bishop and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ZWqgY8vI7bg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T07:15:00Z"
         },
         {
           "id": "kZ0nvpRsUr4",
@@ -109,11 +109,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "UrVn8S-1b-8",
-          "title": "Thursday 4th June 2026: Corpus Christi",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/UrVn8S-1b-8/mqdefault_live.jpg",
+          "id": "qco9f6MQ1gM",
+          "title": "Missa rezada de Corpus Christi e terço",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/qco9f6MQ1gM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MkE0yWOSrbs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-04T23:00:00Z"
+        },
+        {
+          "id": "dODY-Ro_lrI",
+          "title": "Corpus Christi / Fête-Dieu",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/dODY-Ro_lrI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-04T23:30:00Z"
         },
         {
           "id": "oA_8GDGcstM",
