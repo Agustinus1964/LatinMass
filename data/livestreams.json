@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-05T20:48:31.820Z",
+  "lastUpdated": "2026-06-05T22:12:34.397Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DAOkx2YRdQg",
+          "title": "Mass of St. Norbet - Saturday 6th June 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/DAOkx2YRdQg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Bqgs7fs8G5w",
           "title": "Hl. Messe - hl. Norbert - 06. Juni 2026",
@@ -69,8 +78,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/DS8ugB0Wfi8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mCfa4h4cFDQ",
