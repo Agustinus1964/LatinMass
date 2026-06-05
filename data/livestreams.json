@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-04T23:43:48.724Z",
+  "lastUpdated": "2026-06-05T03:28:01.335Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "c2EZ6Zu3rWA",
-          "title": "Corpus Christi 2026",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/c2EZ6Zu3rWA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YJtbexB6maQ",
           "title": "Hl. Messe - hl. Bonifatius - 05. Juni 2026",
@@ -82,33 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "F_w6MhWgIoc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Corpus Christi)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/F_w6MhWgIoc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MkE0yWOSrbs",
-          "title": "CORPUS CHRISTI, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/MkE0yWOSrbs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dODY-Ro_lrI",
-          "title": "Corpus Christi / Fête-Dieu",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/dODY-Ro_lrI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "oA_8GDGcstM",
           "title": "First Friday 8 AM Mass and Devotions 06/05/2026",
           "channel": "St. Benedict Parish",
@@ -152,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DS8ugB0Wfi8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T21:00:00Z"
+        },
+        {
+          "id": "mCfa4h4cFDQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/mCfa4h4cFDQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T22:30:00Z"
         },
         {
           "id": "tk6Q3UfUB-4",
