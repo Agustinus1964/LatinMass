@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-05T03:28:01.335Z",
+  "lastUpdated": "2026-06-05T07:51:26.105Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YJtbexB6maQ",
-          "title": "Hl. Messe - hl. Bonifatius - 05. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YJtbexB6maQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T05:15:00Z"
-        },
-        {
-          "id": "ZWqgY8vI7bg",
-          "title": "Saint Boniface, bishop and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ZWqgY8vI7bg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T07:15:00Z"
-        },
         {
           "id": "XY48HxmAc5U",
           "title": "Fri. Jun. 5, 2026    -    St. Boniface,   Bishop and Martyr     (First Friday)",
@@ -66,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/EthBYHJvWxg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T16:40:00Z"
+        },
+        {
+          "id": "Bqgs7fs8G5w",
+          "title": "Hl. Messe - hl. Norbert - 06. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Bqgs7fs8G5w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T05:15:00Z"
+        },
+        {
+          "id": "JHtJDOBOQeo",
+          "title": "FSSPX Antwerpen - 06/06 H. NORBERTUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/JHtJDOBOQeo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T05:30:00Z"
         }
       ]
     },
