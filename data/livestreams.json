@@ -1,17 +1,35 @@
 {
-  "lastUpdated": "2026-06-05T07:51:26.105Z",
+  "lastUpdated": "2026-06-05T11:24:13.918Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kZ0nvpRsUr4",
+          "title": "Sung Mass - First Friday - Mass of the Sacred Heart - 6/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kZ0nvpRsUr4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "XY48HxmAc5U",
           "title": "Fri. Jun. 5, 2026    -    St. Boniface,   Bishop and Martyr     (First Friday)",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/XY48HxmAc5U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Vninb43R-7k",
+          "title": "Sung Mass - First Friday (Sacred Heart)",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/Vninb43R-7k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nimcYou1eOI",
@@ -66,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JHtJDOBOQeo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T05:30:00Z"
+        },
+        {
+          "id": "QHu48-JDt3U",
+          "title": "Sung Mass - First Saturday - Immaculate Heart of Mary - 6/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/QHu48-JDt3U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T10:50:00Z"
         }
       ]
     },
@@ -134,6 +161,33 @@
           "thumbnail": "https://i.ytimg.com/vi/tk6Q3UfUB-4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T22:55:00Z"
+        },
+        {
+          "id": "6WSzOdxgX-s",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6WSzOdxgX-s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T09:00:00Z"
+        },
+        {
+          "id": "-ZK2yyrlkkI",
+          "title": "Saturday 6th June 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/-ZK2yyrlkkI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T09:30:00Z"
+        },
+        {
+          "id": "_Fl2B7Dk4T8",
+          "title": "First Saturday 7 AM Mass06/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/_Fl2B7Dk4T8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T10:58:00Z"
         }
       ]
     }
