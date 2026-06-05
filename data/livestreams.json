@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-05T22:12:34.397Z",
+  "lastUpdated": "2026-06-05T23:44:40.109Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "DAOkx2YRdQg",
-          "title": "Mass of St. Norbet - Saturday 6th June 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/DAOkx2YRdQg/mqdefault_live.jpg",
+          "id": "KkZOjfcTKpM",
+          "title": "Benediction - 6/5/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/KkZOjfcTKpM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -66,12 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/MFX95qVzzH0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T15:45:00Z"
+        },
+        {
+          "id": "DGpbBbJOKdc",
+          "title": "Sung Rosary - 6/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/DGpbBbJOKdc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T22:55:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "VW1_YAAZYQM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/VW1_YAAZYQM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "DS8ugB0Wfi8",
           "title": "First Friday: Divine Office, Mass, Holy Hour. St Boniface. III. Sacred Heart. III. Friday, 6-5-26",
@@ -82,22 +100,13 @@
           "scheduledTime": null
         },
         {
-          "id": "mCfa4h4cFDQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/mCfa4h4cFDQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T22:30:00Z"
-        },
-        {
           "id": "tk6Q3UfUB-4",
           "title": "First Friday 7 PM Traditional Latin Mass and Benediction 06/05/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/tk6Q3UfUB-4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T22:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_paeXZTco5c",
@@ -152,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vfouEoDhQH0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T12:55:00Z"
+        },
+        {
+          "id": "rriZpB6BElM",
+          "title": "Live Stream Holy Mass from Cleveland (1st Saturday, The Immaculate Heart of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/rriZpB6BElM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T13:00:00Z"
         }
       ]
     }
