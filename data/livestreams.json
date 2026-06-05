@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T18:57:56.109Z",
+  "lastUpdated": "2026-06-05T20:48:31.820Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JHtJDOBOQeo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T05:30:00Z"
+        },
+        {
+          "id": "EpA-xoJ8-3c",
+          "title": "Saint Norbert, bishop",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/EpA-xoJ8-3c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T07:30:00Z"
         },
         {
           "id": "QHu48-JDt3U",
