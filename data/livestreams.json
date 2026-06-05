@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-05T11:24:13.918Z",
+  "lastUpdated": "2026-06-05T14:05:20.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kZ0nvpRsUr4",
-          "title": "Sung Mass - First Friday - Mass of the Sacred Heart - 6/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/kZ0nvpRsUr4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XY48HxmAc5U",
-          "title": "Fri. Jun. 5, 2026    -    St. Boniface,   Bishop and Martyr     (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/XY48HxmAc5U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Vninb43R-7k",
-          "title": "Sung Mass - First Friday (Sacred Heart)",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/Vninb43R-7k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nimcYou1eOI",
           "title": "FSSPX Antwerpen - 05/06 H. Uur met Rozenhoedje",
@@ -93,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QHu48-JDt3U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T10:50:00Z"
+        },
+        {
+          "id": "TpIwd-4tVrA",
+          "title": "Sat. Jun. 6, 2026    -    St. Norbert, Bishop and Confessor        (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/TpIwd-4tVrA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T13:00:00Z"
         }
       ]
     },
@@ -100,13 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "oA_8GDGcstM",
-          "title": "First Friday 8 AM Mass and Devotions 06/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/oA_8GDGcstM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T11:55:00Z"
+          "id": "kP5IECxz8NU",
+          "title": "Santo Sacrificio de la Misa. 5 de junio de 2026",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/kP5IECxz8NU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aZx6-fHtIYU",
@@ -188,6 +170,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_Fl2B7Dk4T8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T10:58:00Z"
+        },
+        {
+          "id": "WcIKijDHFKM",
+          "title": "First Saturday: 7:30am Mass, 8:30am Rosary, 9am Mass. St. Norbert, Bishop & Confessor. III. 6-6-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WcIKijDHFKM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T11:30:00Z"
+        },
+        {
+          "id": "vfouEoDhQH0",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 06/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/vfouEoDhQH0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T12:55:00Z"
         }
       ]
     }
