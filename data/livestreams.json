@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-05T14:05:20.500Z",
+  "lastUpdated": "2026-06-05T16:57:49.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "nimcYou1eOI",
-          "title": "FSSPX Antwerpen - 05/06 H. Uur met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/nimcYou1eOI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T15:00:00Z"
+          "id": "BVf5cASeMH4",
+          "title": "Conder-Ballard Wedding, Friday, June 5, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/BVf5cASeMH4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RFNTNSBGquU",
@@ -19,8 +19,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/RFNTNSBGquU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7C0QnE4UvOA",
@@ -28,8 +28,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/7C0QnE4UvOA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EthBYHJvWxg",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TpIwd-4tVrA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T13:00:00Z"
+        },
+        {
+          "id": "MFX95qVzzH0",
+          "title": "Confirmations, June 6, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/MFX95qVzzH0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T15:45:00Z"
         }
       ]
     },
@@ -82,31 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "kP5IECxz8NU",
-          "title": "Santo Sacrificio de la Misa. 5 de junio de 2026",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/kP5IECxz8NU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "aZx6-fHtIYU",
-          "title": "First Friday: 11am Mass. St. Boniface. III. Sacred Heart of Jesus. III. Friday, June 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/aZx6-fHtIYU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T15:00:00Z"
-        },
-        {
           "id": "Vd5IdnAQEuo",
           "title": "Friday 5th June 2026: First Friday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Vd5IdnAQEuo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-05T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EStYV3TMGEI",
@@ -114,6 +105,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/EStYV3TMGEI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-05T17:00:00Z"
+        },
+        {
+          "id": "7z1KD0SdU2s",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/7z1KD0SdU2s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T17:00:00Z"
         },
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tk6Q3UfUB-4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-05T22:55:00Z"
+        },
+        {
+          "id": "_paeXZTco5c",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_paeXZTco5c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-06T07:30:00Z"
         },
         {
           "id": "6WSzOdxgX-s",
