@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-06T02:49:21.437Z",
+  "lastUpdated": "2026-06-06T06:27:28.744Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Bqgs7fs8G5w",
-          "title": "Hl. Messe - hl. Norbert - 06. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Bqgs7fs8G5w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T05:15:00Z"
+          "id": "EpA-xoJ8-3c",
+          "title": "Saint Norbert, bishop",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/EpA-xoJ8-3c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JHtJDOBOQeo",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/JHtJDOBOQeo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T05:30:00Z"
-        },
-        {
-          "id": "EpA-xoJ8-3c",
-          "title": "Saint Norbert, bishop",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/EpA-xoJ8-3c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T07:30:00Z"
         },
         {
           "id": "QHu48-JDt3U",
