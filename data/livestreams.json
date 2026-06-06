@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-06T12:50:18.886Z",
+  "lastUpdated": "2026-06-06T14:27:16.739Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "TpIwd-4tVrA",
+          "title": "Sat. Jun. 6, 2026    -    St. Norbert, Bishop and Confessor        (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/TpIwd-4tVrA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "MFX95qVzzH0",
           "title": "Confirmations, June 6, 2026",
@@ -41,15 +50,6 @@
           "scheduledTime": "2026-06-07T07:30:00Z"
         },
         {
-          "id": "l2HemXNMFYw",
-          "title": "FSSPX Antwerpen - 07/06 PLECHTIGHEID van SACRAMENTSDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/l2HemXNMFYw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T08:00:00Z"
-        },
-        {
           "id": "RP60PE0Izxk",
           "title": "Low Mass - 2nd Sunday after Pentecost - 6/7/26",
           "channel": "SSPX Seminary - USA",
@@ -59,13 +59,13 @@
           "scheduledTime": "2026-06-07T11:20:00Z"
         },
         {
-          "id": "6mOnz0FTQ0g",
-          "title": "Sun Jun. 7, 2026    -    Solemnity of Corpus Christi    (No 10 AM Mass)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/6mOnz0FTQ0g/mqdefault_live.jpg",
+          "id": "J6qW6Il4b9s",
+          "title": "Solemn High Mass - Second Sunday after Pentecost - 6/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/J6qW6Il4b9s/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-07T12:00:00Z"
+          "scheduledTime": "2026-06-07T13:55:00Z"
         }
       ]
     },
@@ -73,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZaDAt5kLXXo",
-          "title": "First Saturday: 7:30am Mass, 8:30am Rosary, 9am Mass. St. Norbert, Bishop & Confessor. III. 6-6-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ZaDAt5kLXXo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "vfouEoDhQH0",
           "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 06/06/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/vfouEoDhQH0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T12:55:00Z"
-        },
-        {
-          "id": "rriZpB6BElM",
-          "title": "Live Stream Holy Mass from Cleveland (1st Saturday, The Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/rriZpB6BElM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qsphvMAAU4s",
