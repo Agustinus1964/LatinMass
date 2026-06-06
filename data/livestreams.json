@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-05T23:44:40.109Z",
+  "lastUpdated": "2026-06-06T02:49:21.437Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KkZOjfcTKpM",
-          "title": "Benediction - 6/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/KkZOjfcTKpM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Bqgs7fs8G5w",
           "title": "Hl. Messe - hl. Norbert - 06. Juni 2026",
@@ -50,15 +41,6 @@
           "scheduledTime": "2026-06-06T10:50:00Z"
         },
         {
-          "id": "TpIwd-4tVrA",
-          "title": "Sat. Jun. 6, 2026    -    St. Norbert, Bishop and Confessor        (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/TpIwd-4tVrA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T13:00:00Z"
-        },
-        {
           "id": "MFX95qVzzH0",
           "title": "Confirmations, June 6, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
@@ -75,39 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/DGpbBbJOKdc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T22:55:00Z"
+        },
+        {
+          "id": "FNm1BcZ_Mfo",
+          "title": "Compline - 6/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/FNm1BcZ_Mfo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VW1_YAAZYQM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/VW1_YAAZYQM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DS8ugB0Wfi8",
-          "title": "First Friday: Divine Office, Mass, Holy Hour. St Boniface. III. Sacred Heart. III. Friday, 6-5-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DS8ugB0Wfi8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tk6Q3UfUB-4",
-          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 06/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/tk6Q3UfUB-4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_paeXZTco5c",
           "title": "Sainte messe en semaine",
