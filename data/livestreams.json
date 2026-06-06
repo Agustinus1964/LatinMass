@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-06T06:27:28.744Z",
+  "lastUpdated": "2026-06-06T09:07:10.237Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EpA-xoJ8-3c",
-          "title": "Saint Norbert, bishop",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/EpA-xoJ8-3c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JHtJDOBOQeo",
-          "title": "FSSPX Antwerpen - 06/06 H. NORBERTUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/JHtJDOBOQeo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T05:30:00Z"
-        },
         {
           "id": "QHu48-JDt3U",
           "title": "Sung Mass - First Saturday - Immaculate Heart of Mary - 6/6/26",
@@ -57,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/FNm1BcZ_Mfo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T00:45:00Z"
+        },
+        {
+          "id": "wKhG_K_oGf8",
+          "title": "Amt - 2. Sonntag nach Pfingsten - 07. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/wKhG_K_oGf8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T07:30:00Z"
+        },
+        {
+          "id": "l2HemXNMFYw",
+          "title": "FSSPX Antwerpen - 07/06 PLECHTIGHEID van SACRAMENTSDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/l2HemXNMFYw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T08:00:00Z"
         }
       ]
     },
@@ -64,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_paeXZTco5c",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/_paeXZTco5c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T07:30:00Z"
-        },
-        {
-          "id": "6WSzOdxgX-s",
+          "id": "gSoVR6ltqU4",
           "title": "Saturday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6WSzOdxgX-s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T09:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/gSoVR6ltqU4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "FjHNZf0jeKE",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/FjHNZf0jeKE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-ZK2yyrlkkI",
@@ -125,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/rriZpB6BElM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-06T13:00:00Z"
+        },
+        {
+          "id": "qsphvMAAU4s",
+          "title": "8am — 2nd Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/qsphvMAAU4s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T07:00:00Z"
+        },
+        {
+          "id": "Yufmt71gYpE",
+          "title": "9:30am — Corpus Christi Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Yufmt71gYpE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T08:30:00Z"
         }
       ]
     }
