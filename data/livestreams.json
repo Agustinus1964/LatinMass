@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T09:07:10.237Z",
+  "lastUpdated": "2026-06-06T11:03:03.406Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/QHu48-JDt3U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T10:50:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MFX95qVzzH0",
@@ -64,31 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gSoVR6ltqU4",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/gSoVR6ltqU4/mqdefault_live.jpg",
+          "id": "WcIKijDHFKM",
+          "title": "First Saturday: 7:30am Mass, 8:30am Rosary, 9am Mass. St. Norbert, Bishop & Confessor. III. 6-6-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WcIKijDHFKM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "FjHNZf0jeKE",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/FjHNZf0jeKE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-ZK2yyrlkkI",
-          "title": "Saturday 6th June 2026: First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/-ZK2yyrlkkI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T09:30:00Z"
         },
         {
           "id": "_Fl2B7Dk4T8",
@@ -96,17 +78,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/_Fl2B7Dk4T8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T10:58:00Z"
-        },
-        {
-          "id": "WcIKijDHFKM",
-          "title": "First Saturday: 7:30am Mass, 8:30am Rosary, 9am Mass. St. Norbert, Bishop & Confessor. III. 6-6-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/WcIKijDHFKM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-06T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vfouEoDhQH0",
@@ -143,6 +116,33 @@
           "thumbnail": "https://i.ytimg.com/vi/Yufmt71gYpE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T08:30:00Z"
+        },
+        {
+          "id": "HTjgNcbpWB0",
+          "title": "Sunday 7th June 2026: Second Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/HTjgNcbpWB0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T09:30:00Z"
+        },
+        {
+          "id": "Afe82JEFjN8",
+          "title": "11am — Corpus Christi Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Afe82JEFjN8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T10:00:00Z"
+        },
+        {
+          "id": "JKOosjBQxVI",
+          "title": "7am Mass, Rosary, 8:30am Mass. 2nd Sunday after Pentecost. II. Ext. Solemnity of Corpus Christi. II.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/JKOosjBQxVI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T11:00:00Z"
         }
       ]
     }
