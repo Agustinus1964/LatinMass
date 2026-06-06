@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-06T17:08:09.308Z",
+  "lastUpdated": "2026-06-06T18:46:47.368Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MFX95qVzzH0",
-          "title": "Confirmations, June 6, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/MFX95qVzzH0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DGpbBbJOKdc",
           "title": "Sung Rosary - 6/6/26",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-i660IvKt88/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T15:30:00Z"
+        },
+        {
+          "id": "KXnBwufrlsU",
+          "title": "II Sunday after Pentecost, External Solemnity of Corpus Christi | June 7th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/KXnBwufrlsU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T17:00:00Z"
         }
       ]
     },
@@ -152,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bcdjaCqaaCQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T15:30:00Z"
+        },
+        {
+          "id": "xwufJsZiklA",
+          "title": "Sunday 1:30 PM Catholic Mass 06/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/xwufJsZiklA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T17:24:00Z"
         }
       ]
     }
