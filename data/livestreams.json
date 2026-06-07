@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-07T17:46:28.993Z",
+  "lastUpdated": "2026-06-07T19:17:12.417Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KXnBwufrlsU",
-          "title": "II Sunday after Pentecost, External Solemnity of Corpus Christi | June 7th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/KXnBwufrlsU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tBDngwAY55o",
           "title": "Compline - 6/7/26",
@@ -64,33 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "bcdjaCqaaCQ",
-          "title": "EXTERNAL SOLEMNITY OF CORPUS CHRISTI, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/bcdjaCqaaCQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xwufJsZiklA",
-          "title": "Sunday 1:30 PM Catholic Mass 06/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/xwufJsZiklA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nccbFJOkWRY",
-          "title": "Forever Sacrificed / He does not say, This is the figure of my body, but This is my body.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/nccbFJOkWRY/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T18:00:00Z"
-        },
-        {
           "id": "Gtqucme4eK0",
           "title": "7am Mass. Feria. IV. Monday, June 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -98,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Gtqucme4eK0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T11:00:00Z"
+        },
+        {
+          "id": "8uSm4aov_6Q",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Second Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/8uSm4aov_6Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T11:30:00Z"
         },
         {
           "id": "6pm_0U03ENo",
