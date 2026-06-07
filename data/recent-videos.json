@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-06-07T18:00:34.860Z",
+  "lastUpdated": "2026-06-07T19:52:48.184Z",
   "videos": [
+    {
+      "id": "XbWLOY0ERGc",
+      "title": "Holy Rosary 6/7/26",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/XbWLOY0ERGc/mqdefault_live.jpg",
+      "publishedAt": "2026-06-07T17:54:17Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "jiWWBXkAt1E",
       "title": "Holy Mass 6/7/26 - Sunday within the Octave of Corpus Christi",
@@ -120,16 +130,6 @@
       "thumbnail": "https://i.ytimg.com/vi/VaNoofrVFzo/mqdefault.jpg",
       "publishedAt": "2026-06-06T12:00:20Z",
       "category": "Return To Tradition"
-    },
-    {
-      "id": "Br-I43HXr6I",
-      "title": "Holy Mass 6/5/26 - Within the Octave - St. Boniface, Bishop & Martyr - FIRST FRIDAY + Adoration.",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio\n\nMass begins at 6 p.m. ET.",
-      "thumbnail": "https://i.ytimg.com/vi/Br-I43HXr6I/mqdefault.jpg",
-      "publishedAt": "2026-06-06T11:48:40Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "T2bMuDBwvQo",
