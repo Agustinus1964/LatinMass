@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-06-07T11:06:42.311Z",
+  "lastUpdated": "2026-06-07T12:58:44.973Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "5kwRDrdhOTU",
-          "title": "2nd Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/5kwRDrdhOTU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "l2HemXNMFYw",
-          "title": "FSSPX Antwerpen - 07/06 PLECHTIGHEID van SACRAMENTSDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/l2HemXNMFYw/mqdefault_live.jpg",
+          "id": "6mOnz0FTQ0g",
+          "title": "Sun Jun. 7, 2026    -    Solemnity of Corpus Christi    (No 10 AM Mass)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/6mOnz0FTQ0g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -75,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/tBDngwAY55o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T00:45:00Z"
+        },
+        {
+          "id": "Mjw_Aw5GwG4",
+          "title": "Low Mass - Feria - 6/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Mjw_Aw5GwG4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T11:15:00Z"
+        },
+        {
+          "id": "SRbnT0y7g9o",
+          "title": "Mon. Jun. 8, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/SRbnT0y7g9o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T11:15:00Z"
         }
       ]
     },
@@ -82,11 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HTjgNcbpWB0",
-          "title": "Sunday 7th June 2026: Second Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/HTjgNcbpWB0/mqdefault_live.jpg",
+          "id": "uHwoMzVGyHY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/uHwoMzVGyHY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,49 +109,22 @@
           "scheduledTime": null
         },
         {
-          "id": "9fyb5m-LScQ",
-          "title": "Sunday 7 AM Catholic Mass for 06/07/2026",
+          "id": "j76ZPOgl5R8",
+          "title": "Sunday 8:30 AM Catholic Mass for 06/07/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/9fyb5m-LScQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/j76ZPOgl5R8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "Afe82JEFjN8",
-          "title": "11am — Corpus Christi Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Afe82JEFjN8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "s2IIEwZ6NcI",
-          "title": "Missa rezada - II Domingo depois de Pentecostes 2026",
+          "id": "tasN9C8TlOk",
+          "title": "Missa Cantada II Domingo Depois de Pentecostes",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/s2IIEwZ6NcI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/tasN9C8TlOk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "jxoXMnCb50A",
-          "title": "Missa rezada - II Domingo depois de Pentecostes 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/jxoXMnCb50A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KmZ8F7vyQYY",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Second Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/KmZ8F7vyQYY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T12:00:00Z"
         },
         {
           "id": "GswWFgI-BPE",
@@ -179,15 +161,6 @@
           "thumbnail": "https://i.ytimg.com/vi/S_cF0vOE_OU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T16:00:00Z"
-        },
-        {
-          "id": "xwufJsZiklA",
-          "title": "Sunday 1:30 PM Catholic Mass 06/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/xwufJsZiklA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T17:24:00Z"
         },
         {
           "id": "nccbFJOkWRY",
