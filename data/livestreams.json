@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-07T00:12:04.508Z",
+  "lastUpdated": "2026-06-07T05:05:09.428Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XIorn7VzVeM",
-          "title": "Second Sunday after Pentecost - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/XIorn7VzVeM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FNm1BcZ_Mfo",
-          "title": "Compline - 6/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/FNm1BcZ_Mfo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T00:45:00Z"
-        },
         {
           "id": "wKhG_K_oGf8",
           "title": "Amt - 2. Sonntag nach Pfingsten - 07. Juni 2026",
@@ -39,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/31_sHuOmiDc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T07:55:00Z"
-        },
-        {
-          "id": "RP60PE0Izxk",
-          "title": "Low Mass - 2nd Sunday after Pentecost - 6/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/RP60PE0Izxk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T11:20:00Z"
         },
         {
           "id": "J6qW6Il4b9s",
@@ -93,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pPvcbLYQPQE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T20:55:00Z"
+        },
+        {
+          "id": "tBDngwAY55o",
+          "title": "Compline - 6/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/tBDngwAY55o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T00:45:00Z"
         }
       ]
     },
@@ -179,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xwufJsZiklA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T17:24:00Z"
+        },
+        {
+          "id": "nccbFJOkWRY",
+          "title": "Forever Sacrificed / He does not say, This is the figure of my body, but This is my body.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/nccbFJOkWRY/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T18:00:00Z"
         }
       ]
     }
