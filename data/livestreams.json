@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-06-07T16:11:37.217Z",
+  "lastUpdated": "2026-06-07T17:46:28.993Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rbFsyTRN8UM",
-          "title": "Solemnity of Corpus Christi, June 7, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/rbFsyTRN8UM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-i660IvKt88",
-          "title": "Vesper und Sakramentsandacht - 2. Sonntag nach Pfingsten - 07. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/-i660IvKt88/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KXnBwufrlsU",
           "title": "II Sunday after Pentecost, External Solemnity of Corpus Christi | June 7th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/KXnBwufrlsU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tBDngwAY55o",
@@ -66,39 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/UZhVyUVfmbQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T15:00:00Z"
+        },
+        {
+          "id": "MdFxf1L9mnw",
+          "title": "FSSPX Antwerpen - 08/06 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/MdFxf1L9mnw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Adon3mWtFzc",
-          "title": "Live Stream Holy Mass (High) from Cleveland (The Second Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Adon3mWtFzc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9ENQwoPU5ME",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/9ENQwoPU5ME/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-O4QvU4iBwo",
-          "title": "10:30am Sung Mass. 2nd Sunday after Pentecost. II. Ext. Solemnity of Corpus Christi. II. 6-7-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-O4QvU4iBwo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bcdjaCqaaCQ",
           "title": "EXTERNAL SOLEMNITY OF CORPUS CHRISTI, 2026",
@@ -109,29 +73,11 @@
           "scheduledTime": null
         },
         {
-          "id": "mq2nCH0Nll4",
-          "title": "Sunday 11 AM Sung Mass 2026-06-07",
+          "id": "xwufJsZiklA",
+          "title": "Sunday 1:30 PM Catholic Mass 06/07/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mq2nCH0Nll4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "f35O6rVuo3g",
-          "title": "External Solemnity of Corpus Christi / Solennité externe de la Fête-Dieu",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/f35O6rVuo3g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "S_cF0vOE_OU",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/S_cF0vOE_OU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/xwufJsZiklA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -145,15 +91,6 @@
           "scheduledTime": "2026-06-07T18:00:00Z"
         },
         {
-          "id": "rXLFb62c6Ac",
-          "title": "Monday 6 AM Traditional Catholic Mass 06/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/rXLFb62c6Ac/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T09:55:00Z"
-        },
-        {
           "id": "Gtqucme4eK0",
           "title": "7am Mass. Feria. IV. Monday, June 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -161,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Gtqucme4eK0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T11:00:00Z"
+        },
+        {
+          "id": "6pm_0U03ENo",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6pm_0U03ENo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T17:00:00Z"
+        },
+        {
+          "id": "SvSp6psBrUE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/SvSp6psBrUE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T17:00:00Z"
         }
       ]
     }
