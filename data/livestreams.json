@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T19:17:12.417Z",
+  "lastUpdated": "2026-06-07T20:44:36.148Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/tBDngwAY55o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T00:45:00Z"
+        },
+        {
+          "id": "W_M6FAcbHJM",
+          "title": "Hl. Messe - 08. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/W_M6FAcbHJM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T05:15:00Z"
+        },
+        {
+          "id": "RcrkftUB8xI",
+          "title": "Feria: 2ⁿᵈ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/RcrkftUB8xI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T07:15:00Z"
         },
         {
           "id": "Mjw_Aw5GwG4",
@@ -41,6 +59,15 @@
           "scheduledTime": "2026-06-08T15:00:00Z"
         },
         {
+          "id": "okY4E8SQuXw",
+          "title": "Rosenkranz und hl. Messe - 08. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/okY4E8SQuXw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T16:00:00Z"
+        },
+        {
           "id": "MdFxf1L9mnw",
           "title": "FSSPX Antwerpen - 08/06 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -54,6 +81,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kb1XbOqBgIo",
+          "title": "II Domingo depois de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/kb1XbOqBgIo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Gtqucme4eK0",
           "title": "7am Mass. Feria. IV. Monday, June 8, 2026.",
