@@ -1,26 +1,35 @@
 {
-  "lastUpdated": "2026-06-07T12:58:44.973Z",
+  "lastUpdated": "2026-06-07T14:55:05.492Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6mOnz0FTQ0g",
-          "title": "Sun Jun. 7, 2026    -    Solemnity of Corpus Christi    (No 10 AM Mass)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/6mOnz0FTQ0g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "J6qW6Il4b9s",
           "title": "Solemn High Mass - Second Sunday after Pentecost - 6/7/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/J6qW6Il4b9s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T13:55:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rTXaLnXs1WM",
+          "title": "The Second Sunday After Pentecost - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/rTXaLnXs1WM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Ir6hdYZEAPk",
+          "title": "II Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/Ir6hdYZEAPk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rbFsyTRN8UM",
@@ -28,8 +37,8 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/rbFsyTRN8UM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T14:45:19Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-i660IvKt88",
@@ -91,38 +100,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uHwoMzVGyHY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/uHwoMzVGyHY/mqdefault_live.jpg",
+          "id": "Adon3mWtFzc",
+          "title": "Live Stream Holy Mass (High) from Cleveland (The Second Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Adon3mWtFzc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "JKOosjBQxVI",
-          "title": "7am Mass, Rosary, 8:30am Mass. 2nd Sunday after Pentecost. II. Ext. Solemnity of Corpus Christi. II.",
+          "id": "z1FCUGY0dxg",
+          "title": "10:30am Sung Mass. 2nd Sunday after Pentecost. II. Ext. Solemnity of Corpus Christi. II. 6-7-2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/JKOosjBQxVI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/z1FCUGY0dxg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "j76ZPOgl5R8",
-          "title": "Sunday 8:30 AM Catholic Mass for 06/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/j76ZPOgl5R8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tasN9C8TlOk",
-          "title": "Missa Cantada II Domingo Depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/tasN9C8TlOk/mqdefault_live.jpg",
+          "id": "f35O6rVuo3g",
+          "title": "External Solemnity of Corpus Christi / Solennité externe de la Fête-Dieu",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/f35O6rVuo3g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -132,17 +132,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/GswWFgI-BPE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "z1FCUGY0dxg",
-          "title": "10:30am Sung Mass. 2nd Sunday after Pentecost. II. Ext. Solemnity of Corpus Christi. II. 6-7-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/z1FCUGY0dxg/mqdefault_live.jpg",
+          "id": "9ENQwoPU5ME",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/9ENQwoPU5ME/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-07T14:30:00Z"
+          "scheduledTime": "2026-06-07T14:58:00Z"
         },
         {
           "id": "bcdjaCqaaCQ",
