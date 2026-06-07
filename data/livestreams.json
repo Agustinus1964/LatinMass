@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-07T20:44:36.148Z",
+  "lastUpdated": "2026-06-07T22:00:34.522Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tBDngwAY55o",
-          "title": "Compline - 6/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/tBDngwAY55o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T00:45:00Z"
-        },
         {
           "id": "W_M6FAcbHJM",
           "title": "Hl. Messe - 08. Juni 2026",
@@ -82,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "kb1XbOqBgIo",
-          "title": "II Domingo depois de Pentecostes",
+          "id": "3hVvfEMsizw",
+          "title": "Ofício do Rosário",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/kb1XbOqBgIo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/3hVvfEMsizw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8uSm4aov_6Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T11:30:00Z"
+        },
+        {
+          "id": "DzHt-nMBymU",
+          "title": "Monday 8th June 2026: Votive Mass of the Sacred Heart",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/DzHt-nMBymU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T17:00:00Z"
         },
         {
           "id": "6pm_0U03ENo",
