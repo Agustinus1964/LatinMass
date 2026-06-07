@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-07T08:33:24.676Z",
+  "lastUpdated": "2026-06-07T11:06:42.311Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5kwRDrdhOTU",
+          "title": "2nd Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/5kwRDrdhOTU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "l2HemXNMFYw",
           "title": "FSSPX Antwerpen - 07/06 PLECHTIGHEID van SACRAMENTSDAG",
@@ -12,33 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/l2HemXNMFYw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wKhG_K_oGf8",
-          "title": "Amt - 2. Sonntag nach Pfingsten - 07. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/wKhG_K_oGf8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "31_sHuOmiDc",
-          "title": "Solennità del Corpus Domini - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/31_sHuOmiDc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5kwRDrdhOTU",
-          "title": "2nd Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/5kwRDrdhOTU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T10:00:00Z"
         },
         {
           "id": "J6qW6Il4b9s",
@@ -100,40 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Yufmt71gYpE",
-          "title": "9:30am — Corpus Christi Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Yufmt71gYpE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cOd_vRMwpLY",
-          "title": "Sainte messe de la solennité de la Fête-Dieu - CIBAVIT EOS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/cOd_vRMwpLY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T09:00:00Z"
-        },
-        {
           "id": "HTjgNcbpWB0",
           "title": "Sunday 7th June 2026: Second Sunday after Pentecost",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/HTjgNcbpWB0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T09:30:00Z"
-        },
-        {
-          "id": "Afe82JEFjN8",
-          "title": "11am — Corpus Christi Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Afe82JEFjN8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JKOosjBQxVI",
@@ -141,8 +96,44 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/JKOosjBQxVI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9fyb5m-LScQ",
+          "title": "Sunday 7 AM Catholic Mass for 06/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/9fyb5m-LScQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Afe82JEFjN8",
+          "title": "11am — Corpus Christi Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Afe82JEFjN8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "s2IIEwZ6NcI",
+          "title": "Missa rezada - II Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/s2IIEwZ6NcI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "jxoXMnCb50A",
+          "title": "Missa rezada - II Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/jxoXMnCb50A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KmZ8F7vyQYY",
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KmZ8F7vyQYY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T12:00:00Z"
+        },
+        {
+          "id": "GswWFgI-BPE",
+          "title": "Secondes vêpres & procession de la Fête-Dieu - O SACRUM CONVIVIUM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/GswWFgI-BPE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-07T13:00:00Z"
         },
         {
           "id": "z1FCUGY0dxg",
@@ -197,6 +197,24 @@
           "thumbnail": "https://i.ytimg.com/vi/nccbFJOkWRY/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T18:00:00Z"
+        },
+        {
+          "id": "rXLFb62c6Ac",
+          "title": "Monday 6 AM Traditional Catholic Mass 06/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/rXLFb62c6Ac/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T09:55:00Z"
+        },
+        {
+          "id": "Gtqucme4eK0",
+          "title": "7am Mass. Feria. IV. Monday, June 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Gtqucme4eK0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T11:00:00Z"
         }
       ]
     }
