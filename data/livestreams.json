@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-07T14:55:05.492Z",
+  "lastUpdated": "2026-06-07T16:11:37.217Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "J6qW6Il4b9s",
-          "title": "Solemn High Mass - Second Sunday after Pentecost - 6/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/J6qW6Il4b9s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rTXaLnXs1WM",
-          "title": "The Second Sunday After Pentecost - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/rTXaLnXs1WM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ir6hdYZEAPk",
-          "title": "II Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/Ir6hdYZEAPk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rbFsyTRN8UM",
           "title": "Solemnity of Corpus Christi, June 7, 2026",
@@ -46,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/-i660IvKt88/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KXnBwufrlsU",
@@ -57,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/KXnBwufrlsU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-07T17:00:00Z"
-        },
-        {
-          "id": "pPvcbLYQPQE",
-          "title": "Simple II Vespers - 2nd Sunday after Pentecost - 6/7/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/pPvcbLYQPQE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T20:55:00Z"
         },
         {
           "id": "tBDngwAY55o",
@@ -93,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SRbnT0y7g9o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T11:15:00Z"
+        },
+        {
+          "id": "UZhVyUVfmbQ",
+          "title": "FSSPX Antwerpen - 08/06 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/UZhVyUVfmbQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-08T15:00:00Z"
         }
       ]
     },
@@ -109,11 +82,38 @@
           "scheduledTime": null
         },
         {
-          "id": "z1FCUGY0dxg",
+          "id": "9ENQwoPU5ME",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/9ENQwoPU5ME/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-O4QvU4iBwo",
           "title": "10:30am Sung Mass. 2nd Sunday after Pentecost. II. Ext. Solemnity of Corpus Christi. II. 6-7-2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/z1FCUGY0dxg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/-O4QvU4iBwo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bcdjaCqaaCQ",
+          "title": "EXTERNAL SOLEMNITY OF CORPUS CHRISTI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/bcdjaCqaaCQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mq2nCH0Nll4",
+          "title": "Sunday 11 AM Sung Mass 2026-06-07",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/mq2nCH0Nll4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -127,40 +127,13 @@
           "scheduledTime": null
         },
         {
-          "id": "GswWFgI-BPE",
-          "title": "Secondes vêpres & procession de la Fête-Dieu - O SACRUM CONVIVIUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/GswWFgI-BPE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9ENQwoPU5ME",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/9ENQwoPU5ME/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T14:58:00Z"
-        },
-        {
-          "id": "bcdjaCqaaCQ",
-          "title": "EXTERNAL SOLEMNITY OF CORPUS CHRISTI, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/bcdjaCqaaCQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T15:30:00Z"
-        },
-        {
           "id": "S_cF0vOE_OU",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/S_cF0vOE_OU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-07T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nccbFJOkWRY",
