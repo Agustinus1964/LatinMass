@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-08T03:38:52.866Z",
+  "lastUpdated": "2026-06-08T08:50:59.324Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "W_M6FAcbHJM",
-          "title": "Hl. Messe - 08. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/W_M6FAcbHJM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T05:15:00Z"
-        },
-        {
-          "id": "RcrkftUB8xI",
-          "title": "Feria: 2ⁿᵈ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/RcrkftUB8xI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T07:15:00Z"
-        },
         {
           "id": "Mjw_Aw5GwG4",
           "title": "Low Mass - Feria - 6/8/26",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bf5Ot182KCU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T23:00:00Z"
+        },
+        {
+          "id": "QlMv0oGXnIg",
+          "title": "Hl. Messe - 09. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QlMv0oGXnIg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T05:15:00Z"
         }
       ]
     },
