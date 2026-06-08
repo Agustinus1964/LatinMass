@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-08T13:03:31.721Z",
+  "lastUpdated": "2026-06-08T16:55:13.997Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "UZhVyUVfmbQ",
-          "title": "FSSPX Antwerpen - 08/06 Aanbidding met Rozenhoedje",
+          "id": "MdFxf1L9mnw",
+          "title": "FSSPX Antwerpen - 08/06 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/UZhVyUVfmbQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T15:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/MdFxf1L9mnw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "okY4E8SQuXw",
@@ -19,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/okY4E8SQuXw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T16:00:00Z"
-        },
-        {
-          "id": "MdFxf1L9mnw",
-          "title": "FSSPX Antwerpen - 08/06 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/MdFxf1L9mnw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bf5Ot182KCU",
@@ -66,6 +57,33 @@
           "thumbnail": "https://i.ytimg.com/vi/ukgnrHx8kto/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-09T11:15:00Z"
+        },
+        {
+          "id": "PRRUbEwU9Ec",
+          "title": "FSSPX Antwerpen - 09/06 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/PRRUbEwU9Ec/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T15:00:00Z"
+        },
+        {
+          "id": "ukRmPQV3T7Q",
+          "title": "Rosenkranz und hl. Messe - 09. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ukRmPQV3T7Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T16:00:00Z"
+        },
+        {
+          "id": "lyi4UYIulEw",
+          "title": "FSSPX Antwerpen - 09/06 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/lyi4UYIulEw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T16:30:00Z"
         }
       ]
     },
@@ -73,22 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZlMZdE10Dg0",
-          "title": "Monday 8 AM Traditional Latin Mass06/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/ZlMZdE10Dg0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "DzHt-nMBymU",
           "title": "Monday 8th June 2026: Votive Mass of the Sacred Heart",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/DzHt-nMBymU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6pm_0U03ENo",
@@ -96,8 +105,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/6pm_0U03ENo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SvSp6psBrUE",
@@ -105,8 +114,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/SvSp6psBrUE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "YGB9FB02oTA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/YGB9FB02oTA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-08T17:00:00Z"
+          "scheduledTime": "2026-06-08T16:58:00Z"
         },
         {
           "id": "JF3cphC6aXM",
