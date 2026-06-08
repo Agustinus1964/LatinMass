@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-08T21:20:18.540Z",
+  "lastUpdated": "2026-06-08T22:54:46.640Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rHkrzXCsprc",
-          "title": "St Columba 9/June/  2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/rHkrzXCsprc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bf5Ot182KCU",
           "title": "Rosary - 6/8/26",
@@ -91,15 +82,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "j4zg5APWV1A",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/j4zg5APWV1A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "JF3cphC6aXM",
           "title": "7am Mass. Feria. IV. Tuesday, June 9, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -143,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/F1amh8U5q1I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-09T17:00:00Z"
+        },
+        {
+          "id": "CaznVUz4GYE",
+          "title": "6pm Mass. Feria. IV. Tuesday, June 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/CaznVUz4GYE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T22:00:00Z"
         }
       ]
     }
