@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-08T08:50:59.324Z",
+  "lastUpdated": "2026-06-08T13:03:31.721Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Mjw_Aw5GwG4",
-          "title": "Low Mass - Feria - 6/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Mjw_Aw5GwG4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T11:15:00Z"
-        },
-        {
-          "id": "SRbnT0y7g9o",
-          "title": "Mon. Jun. 8, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/SRbnT0y7g9o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T11:15:00Z"
-        },
         {
           "id": "UZhVyUVfmbQ",
           "title": "FSSPX Antwerpen - 08/06 Aanbidding met Rozenhoedje",
@@ -66,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/QlMv0oGXnIg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-09T05:15:00Z"
+        },
+        {
+          "id": "qdsZSzVuv5E",
+          "title": "Low Mass - Feria - 6/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qdsZSzVuv5E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T11:15:00Z"
+        },
+        {
+          "id": "ukgnrHx8kto",
+          "title": "Tue. Jun. 9, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ukgnrHx8kto/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T11:15:00Z"
         }
       ]
     },
@@ -73,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Gtqucme4eK0",
-          "title": "7am Mass. Feria. IV. Monday, June 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Gtqucme4eK0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T11:00:00Z"
-        },
-        {
-          "id": "8uSm4aov_6Q",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Second Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/8uSm4aov_6Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T11:30:00Z"
+          "id": "ZlMZdE10Dg0",
+          "title": "Monday 8 AM Traditional Latin Mass06/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ZlMZdE10Dg0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DzHt-nMBymU",
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/SvSp6psBrUE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-08T17:00:00Z"
+        },
+        {
+          "id": "JF3cphC6aXM",
+          "title": "7am Mass. Feria. IV. Tuesday, June 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/JF3cphC6aXM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T11:00:00Z"
+        },
+        {
+          "id": "fotkEFjiH9Q",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Primus and Felician, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/fotkEFjiH9Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T11:30:00Z"
         }
       ]
     }
