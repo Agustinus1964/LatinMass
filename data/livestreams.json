@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-08T22:54:46.640Z",
+  "lastUpdated": "2026-06-09T00:02:27.537Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bf5Ot182KCU",
-          "title": "Rosary - 6/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/bf5Ot182KCU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-08T23:00:00Z"
-        },
         {
           "id": "QlMv0oGXnIg",
           "title": "Hl. Messe - 09. Juni 2026",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lyi4UYIulEw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-09T16:30:00Z"
+        },
+        {
+          "id": "PNaiGpv4blA",
+          "title": "Rosary - 6/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/PNaiGpv4blA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-09T23:00:00Z"
         }
       ]
     },
