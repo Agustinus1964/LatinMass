@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-09T21:44:30.449Z",
+  "lastUpdated": "2026-06-09T23:15:18.075Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zyNzAwVHEnA",
-          "title": "Mass of St Margaret Mary of Scotland 10.6.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/zyNzAwVHEnA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PNaiGpv4blA",
           "title": "Rosary - 6/9/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/PNaiGpv4blA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "db4UQSssT1U",
@@ -75,30 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/CUd4k0rNxSc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T16:00:00Z"
+        },
+        {
+          "id": "IdETpnT3XDk",
+          "title": "Rosary - 6/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IdETpnT3XDk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T23:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CaznVUz4GYE",
-          "title": "6pm Mass. Feria. IV. Tuesday, June 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/CaznVUz4GYE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cDfzOzAlDSY",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/cDfzOzAlDSY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zMXG-L1h_Nc",
           "title": "7am Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
@@ -143,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SNULK5FpIyg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T17:00:00Z"
+        },
+        {
+          "id": "ZLLrgZpy-ag",
+          "title": "6pm Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ZLLrgZpy-ag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T22:00:00Z"
         }
       ]
     }
