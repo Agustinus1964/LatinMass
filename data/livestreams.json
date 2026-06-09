@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-09T11:40:45.948Z",
+  "lastUpdated": "2026-06-09T14:42:08.064Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qdsZSzVuv5E",
-          "title": "Low Mass - Feria - 6/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/qdsZSzVuv5E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ukgnrHx8kto",
-          "title": "Tue. Jun. 9, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ukgnrHx8kto/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PRRUbEwU9Ec",
           "title": "FSSPX Antwerpen - 09/06 Aanbidding met Rozenhoedje",
@@ -109,20 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "fotkEFjiH9Q",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Primus and Felician, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/fotkEFjiH9Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JF3cphC6aXM",
-          "title": "7am Mass. Feria. IV. Tuesday, June 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/JF3cphC6aXM/mqdefault_live.jpg",
+          "id": "RafmSHQoGYs",
+          "title": "Santo Sacrificio de la Misa, 9 de junio del 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/RafmSHQoGYs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -170,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zMXG-L1h_Nc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T11:00:00Z"
+        },
+        {
+          "id": "4ccp1X64yPg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Margaret of Scotland, Queen and Widow)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/4ccp1X64yPg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T11:30:00Z"
         }
       ]
     }
