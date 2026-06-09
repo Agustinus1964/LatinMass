@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-09T14:42:08.064Z",
+  "lastUpdated": "2026-06-09T17:22:43.898Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PRRUbEwU9Ec",
-          "title": "FSSPX Antwerpen - 09/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/PRRUbEwU9Ec/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T15:00:00Z"
-        },
-        {
-          "id": "ukRmPQV3T7Q",
-          "title": "Rosenkranz und hl. Messe - 09. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ukRmPQV3T7Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T16:00:00Z"
-        },
-        {
-          "id": "lyi4UYIulEw",
-          "title": "FSSPX Antwerpen - 09/06 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/lyi4UYIulEw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T16:30:00Z"
-        },
         {
           "id": "PNaiGpv4blA",
           "title": "Rosary - 6/9/26",
@@ -84,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rxc4siVlPuo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T11:15:00Z"
+        },
+        {
+          "id": "CUd4k0rNxSc",
+          "title": "Rosenkranz und hl. Messe - hl. Margareta - 10. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/CUd4k0rNxSc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T16:00:00Z"
         }
       ]
     },
@@ -91,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RafmSHQoGYs",
-          "title": "Santo Sacrificio de la Misa, 9 de junio del 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/RafmSHQoGYs/mqdefault_live.jpg",
+          "id": "RVUZei7TeOk",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/RVUZei7TeOk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,8 +87,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/_5B1hzvn2WU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DpEm2CMeehw",
@@ -114,8 +96,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/DpEm2CMeehw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "F1amh8U5q1I",
@@ -123,8 +105,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/F1amh8U5q1I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AZOrBqz_33E",
+          "title": "La Hermosura de la Misa Tradicional, 9 de junio del 2026. P. Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/AZOrBqz_33E/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-09T17:00:00Z"
+          "scheduledTime": "2026-06-09T21:30:00Z"
         },
         {
           "id": "CaznVUz4GYE",
@@ -152,6 +143,33 @@
           "thumbnail": "https://i.ytimg.com/vi/4ccp1X64yPg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T11:30:00Z"
+        },
+        {
+          "id": "OhVRyRX3bVk",
+          "title": "Wednesday 10th June 2026: Saint Margaret",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/OhVRyRX3bVk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T17:00:00Z"
+        },
+        {
+          "id": "i1bmDBAo5N0",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/i1bmDBAo5N0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T17:00:00Z"
+        },
+        {
+          "id": "SNULK5FpIyg",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/SNULK5FpIyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T17:00:00Z"
         }
       ]
     }
