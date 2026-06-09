@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-09T08:28:45.772Z",
+  "lastUpdated": "2026-06-09T11:40:45.948Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/qdsZSzVuv5E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ukgnrHx8kto",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/ukgnrHx8kto/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PRRUbEwU9Ec",
@@ -84,6 +84,24 @@
           "thumbnail": "https://i.ytimg.com/vi/C5XBx6bEzlI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T05:30:00Z"
+        },
+        {
+          "id": "J_VWLZ6HpdE",
+          "title": "Low Mass - St. Margaret, Queen of Scotland - 6/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/J_VWLZ6HpdE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T11:15:00Z"
+        },
+        {
+          "id": "rxc4siVlPuo",
+          "title": "Wed. Jun. 10, 2026    -    St. Margaret    -   Queen of Scots, Widow",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/rxc4siVlPuo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T11:15:00Z"
         }
       ]
     },
@@ -91,22 +109,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "JF3cphC6aXM",
-          "title": "7am Mass. Feria. IV. Tuesday, June 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/JF3cphC6aXM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T11:00:00Z"
-        },
-        {
           "id": "fotkEFjiH9Q",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Primus and Felician, Martyrs)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/fotkEFjiH9Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-09T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "JF3cphC6aXM",
+          "title": "7am Mass. Feria. IV. Tuesday, June 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/JF3cphC6aXM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_5B1hzvn2WU",
@@ -143,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CaznVUz4GYE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-09T22:00:00Z"
+        },
+        {
+          "id": "zMXG-L1h_Nc",
+          "title": "7am Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/zMXG-L1h_Nc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-10T11:00:00Z"
         }
       ]
     }
