@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-10T10:38:49.264Z",
+  "lastUpdated": "2026-06-10T14:19:48.574Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "J_VWLZ6HpdE",
-          "title": "Low Mass - St. Margaret, Queen of Scotland - 6/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/J_VWLZ6HpdE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-10T11:15:00Z"
-        },
-        {
-          "id": "rxc4siVlPuo",
-          "title": "Wed. Jun. 10, 2026    -    St. Margaret    -   Queen of Scots, Widow",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/rxc4siVlPuo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-10T11:15:00Z"
-        },
         {
           "id": "CUd4k0rNxSc",
           "title": "Rosenkranz und hl. Messe - hl. Margareta - 10. Juni 2026",
@@ -57,6 +39,33 @@
           "thumbnail": "https://i.ytimg.com/vi/ITpgOqUEDlM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-11T05:15:00Z"
+        },
+        {
+          "id": "bIb-ytSS1MA",
+          "title": "Low Mass - St. Barnabas, Apostle - 6/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/bIb-ytSS1MA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T11:15:00Z"
+        },
+        {
+          "id": "kX9xVUYsE5M",
+          "title": "Thu. Jun. 11, 2026   -   St. Barnabas,   Apostle",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/kX9xVUYsE5M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T11:15:00Z"
+        },
+        {
+          "id": "FcvUCL9e2E8",
+          "title": "FSSPX Antwerpen - 11/06 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/FcvUCL9e2E8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T13:30:00Z"
         }
       ]
     },
@@ -64,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "zMXG-L1h_Nc",
-          "title": "7am Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/zMXG-L1h_Nc/mqdefault_live.jpg",
+          "id": "CzGnSdsz9Bg",
+          "title": "Santo Sacrificio de la Misa, Santa Margarita, Reina, Viuda, 10 de junio del 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/CzGnSdsz9Bg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "tlTmEe0sMfE",
-          "title": "Wednesday 6 AM Traditional Catholic Mass 06/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/tlTmEe0sMfE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4ccp1X64yPg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Margaret of Scotland, Queen and Widow)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/4ccp1X64yPg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-10T11:30:00Z"
         },
         {
           "id": "OhVRyRX3bVk",
@@ -125,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ZLLrgZpy-ag/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T22:00:00Z"
+        },
+        {
+          "id": "PsmLd1D7cxY",
+          "title": "7am Mass. St. Barnabas, Apostle. III. Thursday, June 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PsmLd1D7cxY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T11:00:00Z"
+        },
+        {
+          "id": "3C5IZWWd5kM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Barnabas, Apostle)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/3C5IZWWd5kM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T11:30:00Z"
         }
       ]
     }
