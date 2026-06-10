@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T20:25:27.574Z",
+  "lastUpdated": "2026-06-10T22:25:48.378Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -75,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0XQ7BDx19zA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-11T16:30:00Z"
+        },
+        {
+          "id": "ZdT1mEsNMs0",
+          "title": "Solemn I Vespers - Sacred Heart of Jesus - 6/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ZdT1mEsNMs0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T21:50:00Z"
         }
       ]
     },
@@ -83,12 +92,12 @@
       "videos": [
         {
           "id": "ZLLrgZpy-ag",
-          "title": "6pm Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
+          "title": "Divine office & 6pm Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/ZLLrgZpy-ag/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-10T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PsmLd1D7cxY",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fp6fbACvo5s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-11T17:00:00Z"
+        },
+        {
+          "id": "Ch8OWMKX7G4",
+          "title": "6PM Requiem Mass. Andrew Alexander (+) & Iris Patryn (Living). Thursday, June 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Ch8OWMKX7G4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T22:00:00Z"
         }
       ]
     }
