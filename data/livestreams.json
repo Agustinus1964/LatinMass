@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-10T06:20:47.688Z",
+  "lastUpdated": "2026-06-10T10:38:49.264Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "89D70SLkhYI",
-          "title": "St. Margaret, Queen of Scotland, Widow",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/89D70SLkhYI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "J_VWLZ6HpdE",
           "title": "Low Mass - St. Margaret, Queen of Scotland - 6/10/26",
@@ -78,8 +69,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/zMXG-L1h_Nc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-10T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tlTmEe0sMfE",
+          "title": "Wednesday 6 AM Traditional Catholic Mass 06/10/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/tlTmEe0sMfE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4ccp1X64yPg",
