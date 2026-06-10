@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-10T22:25:48.378Z",
+  "lastUpdated": "2026-06-10T23:55:18.774Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fLKXmlbkv7Y",
-          "title": "Compline - 6/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/fLKXmlbkv7Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T00:45:00Z"
-        },
         {
           "id": "ITpgOqUEDlM",
           "title": "Hl. Messe - hl. Barnabas - 11. Juni 2026",
@@ -90,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZLLrgZpy-ag",
-          "title": "Divine office & 6pm Mass. St. Margaret, Queen of Scotland. III. Wednesday, June 10, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ZLLrgZpy-ag/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PsmLd1D7cxY",
           "title": "7am Mass. St. Barnabas, Apostle. III. Thursday, June 11, 2026.",
