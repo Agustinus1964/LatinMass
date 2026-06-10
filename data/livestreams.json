@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-09T23:15:18.075Z",
+  "lastUpdated": "2026-06-10T01:35:04.868Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PNaiGpv4blA",
-          "title": "Rosary - 6/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/PNaiGpv4blA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "db4UQSssT1U",
-          "title": "Compline - 6/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/db4UQSssT1U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-10T00:45:00Z"
-        },
         {
           "id": "QHcnQ_ni4i0",
           "title": "Hl. Messe - hl. Margareta - 10. Juni 2026",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IdETpnT3XDk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-10T23:00:00Z"
+        },
+        {
+          "id": "fLKXmlbkv7Y",
+          "title": "Compline - 6/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/fLKXmlbkv7Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-11T00:45:00Z"
         }
       ]
     },
