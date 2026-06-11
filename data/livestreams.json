@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T19:33:04.665Z",
+  "lastUpdated": "2026-06-11T21:59:44.936Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,17 +10,8 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/ZdT1mEsNMs0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T21:50:00Z"
-        },
-        {
-          "id": "-wVcIjKID30",
-          "title": "Compline - 6/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-wVcIjKID30/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T00:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SE_13Bh1L0Q",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SE_13Bh1L0Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T05:15:00Z"
+        },
+        {
+          "id": "QMi3DBTtxEg",
+          "title": "The Most Sacred Heart of Jesus",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/QMi3DBTtxEg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T07:30:00Z"
         },
         {
           "id": "__AcrWv4A6A",
@@ -96,8 +96,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Ch8OWMKX7G4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "X2w2uHwwuT4",
+          "title": "Adoração ao Santíssimo e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/X2w2uHwwuT4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CWfbLHX--N0",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/G5x6to7CEUk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T17:00:00Z"
+        },
+        {
+          "id": "swChyenRt2o",
+          "title": "Rosary for the Sanctification of Priests, Mass, Holy Hour. Sacred Heart of Jesus. I. Friday, 6-12-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/swChyenRt2o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T21:30:00Z"
         }
       ]
     }
