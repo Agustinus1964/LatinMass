@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-11T16:51:09.969Z",
+  "lastUpdated": "2026-06-11T19:33:04.665Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0XQ7BDx19zA",
-          "title": "FSSPX Antwerpen - 11/06 H. BARNABAS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0XQ7BDx19zA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m2F5GwGSisU",
-          "title": "Sakramentsandacht und hl. Messe - hl. Barnabas - 11. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/m2F5GwGSisU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZdT1mEsNMs0",
           "title": "Solemn I Vespers - Sacred Heart of Jesus - 6/11/26",
@@ -109,33 +91,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "zRJNsjh1FFI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/zRJNsjh1FFI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T16:58:00Z"
-        },
-        {
-          "id": "11MKhYsRbaw",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/11MKhYsRbaw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T17:00:00Z"
-        },
-        {
-          "id": "fp6fbACvo5s",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/fp6fbACvo5s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T17:00:00Z"
-        },
-        {
           "id": "Ch8OWMKX7G4",
           "title": "6PM Requiem Mass. Andrew Alexander (+) & Iris Patryn (Living). Thursday, June 11, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -152,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/CWfbLHX--N0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T15:00:00Z"
+        },
+        {
+          "id": "ROT2eWHe-us",
+          "title": "Friday 12th June 2026: Most Sacred Heart of Jesus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ROT2eWHe-us/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T17:00:00Z"
+        },
+        {
+          "id": "q-2hjEQOens",
+          "title": "Solemn Mass for the Feast of the Sacred Heart of Jesus",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/q-2hjEQOens/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T17:00:00Z"
+        },
+        {
+          "id": "G5x6to7CEUk",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/G5x6to7CEUk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T17:00:00Z"
         }
       ]
     }
