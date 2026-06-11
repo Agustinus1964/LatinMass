@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-11T21:59:44.936Z",
+  "lastUpdated": "2026-06-11T23:45:15.468Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZdT1mEsNMs0",
-          "title": "Solemn I Vespers - Sacred Heart of Jesus - 6/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZdT1mEsNMs0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SE_13Bh1L0Q",
           "title": "Hl. Messe - Fest des  heiligsten Herzen Jesu - 12. Juni 2026",
@@ -84,30 +75,21 @@
           "thumbnail": "https://i.ytimg.com/vi/OE8ZyggQS-M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T16:30:00Z"
+        },
+        {
+          "id": "5zjoHQAhgdM",
+          "title": "Solemn II Vespers - Sacred Heart of Jesus - 6/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/5zjoHQAhgdM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T22:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Ch8OWMKX7G4",
-          "title": "6PM Requiem Mass. Andrew Alexander (+) & Iris Patryn (Living). Thursday, June 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Ch8OWMKX7G4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "X2w2uHwwuT4",
-          "title": "Adoração ao Santíssimo e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/X2w2uHwwuT4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CWfbLHX--N0",
           "title": "11am Sung Mass. Sacred Heart of Jesus. I. Friday, July 12, 2026.",
@@ -152,6 +134,24 @@
           "thumbnail": "https://i.ytimg.com/vi/swChyenRt2o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T21:30:00Z"
+        },
+        {
+          "id": "i5WQtEyHWlM",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Feast of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/i5WQtEyHWlM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T22:30:00Z"
+        },
+        {
+          "id": "UgIu37IG2ws",
+          "title": "SACRED HEART OF OUR LORD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/UgIu37IG2ws/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T23:00:00Z"
         }
       ]
     }
