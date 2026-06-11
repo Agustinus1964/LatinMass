@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-11T08:42:12.050Z",
+  "lastUpdated": "2026-06-11T12:41:50.863Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bIb-ytSS1MA",
-          "title": "Low Mass - St. Barnabas, Apostle - 6/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/bIb-ytSS1MA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T11:15:00Z"
-        },
-        {
-          "id": "kX9xVUYsE5M",
-          "title": "Thu. Jun. 11, 2026   -   St. Barnabas,   Apostle",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/kX9xVUYsE5M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T11:15:00Z"
-        },
         {
           "id": "FcvUCL9e2E8",
           "title": "FSSPX Antwerpen - 11/06 Priester-Uur-Gebed",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/__AcrWv4A6A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T08:00:00Z"
+        },
+        {
+          "id": "olsiT0F7_ZU",
+          "title": "Solemn High Mass - Sacred Heart of Jesus - 6/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/olsiT0F7_ZU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T10:50:00Z"
+        },
+        {
+          "id": "emogFsb2WCg",
+          "title": "Fri. Jun. 12, 2026    -    Feast of the Sacred Heart of Jesus",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/emogFsb2WCg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-12T11:15:00Z"
         }
       ]
     },
@@ -91,22 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PsmLd1D7cxY",
-          "title": "7am Mass. St. Barnabas, Apostle. III. Thursday, June 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/PsmLd1D7cxY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T11:00:00Z"
-        },
-        {
-          "id": "3C5IZWWd5kM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Barnabas, Apostle)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/3C5IZWWd5kM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-11T11:30:00Z"
+          "id": "MIKZUl0BPbQ",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 06/11/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/MIKZUl0BPbQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "11MKhYsRbaw",
