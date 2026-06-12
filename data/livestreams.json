@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-06-12T11:58:01.861Z",
+  "lastUpdated": "2026-06-12T15:24:10.148Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "olsiT0F7_ZU",
-          "title": "Solemn High Mass - Sacred Heart of Jesus - 6/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/olsiT0F7_ZU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "emogFsb2WCg",
-          "title": "Fri. Jun. 12, 2026    -    Feast of the Sacred Heart of Jesus",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/emogFsb2WCg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7Vsh1YRBpl0",
-          "title": "Sung Mass - Feast of the Sacred Heart",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/7Vsh1YRBpl0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "RNGarqUa7Qk",
           "title": "FSSPX Antwerpen - 12/06 H. Uur met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/RNGarqUa7Qk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1YPA2Eq_DwU",
@@ -57,24 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/OE8ZyggQS-M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T16:30:00Z"
-        },
-        {
-          "id": "5zjoHQAhgdM",
-          "title": "Solemn II Vespers - Sacred Heart of Jesus - 6/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/5zjoHQAhgdM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T22:30:00Z"
-        },
-        {
-          "id": "AXLzzf7xAJk",
-          "title": "Compline - 6/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/AXLzzf7xAJk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-13T00:45:00Z"
         },
         {
           "id": "SAqPHDULoxs",
@@ -111,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PY3SngP_pN4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T11:15:00Z"
+        },
+        {
+          "id": "U-CCoDqp0FU",
+          "title": "Sat. Jun. 13,  2026   -   St, Anthony of Padua   -    Confessor, Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/U-CCoDqp0FU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T13:00:00Z"
         }
       ]
     },
@@ -118,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YwUQt9vJkyo",
-          "title": "First Friday 8 AM Mass and Devotions 06/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/YwUQt9vJkyo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "CWfbLHX--N0",
           "title": "11am Sung Mass. Sacred Heart of Jesus. I. Friday, July 12, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/CWfbLHX--N0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ROT2eWHe-us",
@@ -206,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lXJh9z8tgO4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T09:30:00Z"
+        },
+        {
+          "id": "Y3cIoPVt-nU",
+          "title": "Rosary and Mass. St. Anthony of Padua, Confessor & Doctor of the Church. III. Saturday, 6-13-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Y3cIoPVt-nU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T13:00:00Z"
         }
       ]
     }
