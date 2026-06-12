@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-12T22:05:05.505Z",
+  "lastUpdated": "2026-06-12T23:58:18.117Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qlyCSF7okAo",
-          "title": "Mass of St Anthony of Padua - Saturday 13th June 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/qlyCSF7okAo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SAqPHDULoxs",
           "title": "Hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/R_EHCi2zlyE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T16:00:00Z"
+        },
+        {
+          "id": "iUBlVzkmvao",
+          "title": "Rosary - 6/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/iUBlVzkmvao/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T23:00:00Z"
         }
       ]
     },
@@ -82,11 +82,47 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "i5WQtEyHWlM",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Feast of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/i5WQtEyHWlM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0BFIIBsadPI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/0BFIIBsadPI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "swChyenRt2o",
           "title": "Rosary for the Sanctification of Priests, Mass, Holy Hour. Sacred Heart of Jesus. I. Friday, 6-12-26",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/swChyenRt2o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UgIu37IG2ws",
+          "title": "SACRED HEART OF OUR LORD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/UgIu37IG2ws/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bZ3PC7lvT9g",
+          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 06/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/bZ3PC7lvT9g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,24 +134,6 @@
           "thumbnail": "https://i.ytimg.com/vi/QxE-VRNWw0g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "i5WQtEyHWlM",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Feast of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/i5WQtEyHWlM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T22:30:00Z"
-        },
-        {
-          "id": "UgIu37IG2ws",
-          "title": "SACRED HEART OF OUR LORD, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/UgIu37IG2ws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T23:00:00Z"
         },
         {
           "id": "gfHNdctQkr8",
