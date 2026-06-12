@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-12T17:43:14.130Z",
+  "lastUpdated": "2026-06-12T20:04:55.695Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1YPA2Eq_DwU",
-          "title": "Vesper, Sakramentsandacht und Amt - Fest des  heiligsten Herzen Jesu - 12. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/1YPA2Eq_DwU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SAqPHDULoxs",
           "title": "Hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SAqPHDULoxs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T05:15:00Z"
+        },
+        {
+          "id": "rLM-dvmPYGE",
+          "title": "Saint Anthony of Padua, confessor and doctor of the Churc",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/rLM-dvmPYGE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T07:30:00Z"
         },
         {
           "id": "neR6A0P7riQ",
@@ -73,42 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ROT2eWHe-us",
-          "title": "Friday 12th June 2026: Most Sacred Heart of Jesus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/ROT2eWHe-us/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "q-2hjEQOens",
-          "title": "Solemn Mass for the Feast of the Sacred Heart of Jesus",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/q-2hjEQOens/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "G5x6to7CEUk",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/G5x6to7CEUk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "swChyenRt2o",
-          "title": "Rosary for the Sanctification of Priests, Mass, Holy Hour. Sacred Heart of Jesus. I. Friday, 6-12-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/swChyenRt2o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T21:30:00Z"
-        },
-        {
           "id": "i5WQtEyHWlM",
           "title": "Live Stream Holy Mass from Cleveland USA (The Feast of the Most Sacred Heart of Jesus)",
           "channel": "Usus Antiquior",
@@ -143,15 +107,6 @@
           "thumbnail": "https://i.ytimg.com/vi/lXJh9z8tgO4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T09:30:00Z"
-        },
-        {
-          "id": "Y3cIoPVt-nU",
-          "title": "Rosary and Mass. St. Anthony of Padua, Confessor & Doctor of the Church. III. Saturday, 6-13-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Y3cIoPVt-nU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-13T13:00:00Z"
         }
       ]
     }
