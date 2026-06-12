@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-12T20:04:55.695Z",
+  "lastUpdated": "2026-06-12T22:05:05.505Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "qlyCSF7okAo",
+          "title": "Mass of St Anthony of Padua - Saturday 13th June 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/qlyCSF7okAo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "SAqPHDULoxs",
           "title": "Hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
@@ -72,6 +81,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "swChyenRt2o",
+          "title": "Rosary for the Sanctification of Priests, Mass, Holy Hour. Sacred Heart of Jesus. I. Friday, 6-12-26",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/swChyenRt2o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "QxE-VRNWw0g",
+          "title": "Sacratíssimo Coração de Jesus - Solene",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/QxE-VRNWw0g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "i5WQtEyHWlM",
           "title": "Live Stream Holy Mass from Cleveland USA (The Feast of the Most Sacred Heart of Jesus)",
