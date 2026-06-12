@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-06-12T15:24:10.148Z",
+  "lastUpdated": "2026-06-12T17:43:14.130Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RNGarqUa7Qk",
-          "title": "FSSPX Antwerpen - 12/06 H. Uur met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/RNGarqUa7Qk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1YPA2Eq_DwU",
           "title": "Vesper, Sakramentsandacht und Amt - Fest des  heiligsten Herzen Jesu - 12. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/1YPA2Eq_DwU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T16:00:00Z"
-        },
-        {
-          "id": "OE8ZyggQS-M",
-          "title": "FSSPX Antwerpen - 12/06 FEEST v/ h A.H. HART van JEZUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/OE8ZyggQS-M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SAqPHDULoxs",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/U-CCoDqp0FU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T13:00:00Z"
+        },
+        {
+          "id": "R_EHCi2zlyE",
+          "title": "Sakramentsandacht und hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/R_EHCi2zlyE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T16:00:00Z"
         }
       ]
     },
@@ -82,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "CWfbLHX--N0",
-          "title": "11am Sung Mass. Sacred Heart of Jesus. I. Friday, July 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/CWfbLHX--N0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ROT2eWHe-us",
           "title": "Friday 12th June 2026: Most Sacred Heart of Jesus",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/ROT2eWHe-us/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "q-2hjEQOens",
@@ -105,8 +87,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/q-2hjEQOens/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "G5x6to7CEUk",
@@ -114,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/G5x6to7CEUk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-12T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "swChyenRt2o",
