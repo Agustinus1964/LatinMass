@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-11T23:45:15.468Z",
+  "lastUpdated": "2026-06-12T03:36:44.999Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -84,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5zjoHQAhgdM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-12T22:30:00Z"
+        },
+        {
+          "id": "AXLzzf7xAJk",
+          "title": "Compline - 6/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/AXLzzf7xAJk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T00:45:00Z"
         }
       ]
     },
