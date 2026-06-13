@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-06-13T04:15:43.533Z",
+  "lastUpdated": "2026-06-13T08:00:46.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "eZFOfbeNPrs",
-          "title": "Requiem Mass - Alphonsus ( Fons ) Janssen - 13th June 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/eZFOfbeNPrs/mqdefault_live.jpg",
+          "id": "gSH4dtumGZ4",
+          "title": "Via Crucis",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/gSH4dtumGZ4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "SAqPHDULoxs",
-          "title": "Hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/SAqPHDULoxs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-13T05:15:00Z"
-        },
-        {
-          "id": "rLM-dvmPYGE",
-          "title": "Saint Anthony of Padua, confessor and doctor of the Churc",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/rLM-dvmPYGE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-13T07:30:00Z"
         },
         {
           "id": "neR6A0P7riQ",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jzmuQdVwlm4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-14T00:45:00Z"
+        },
+        {
+          "id": "Y7pRWZMeRBE",
+          "title": "Amt - 3. Sonntag nach Pfingsten - 14. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Y7pRWZMeRBE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T07:30:00Z"
+        },
+        {
+          "id": "9acTPnUgzqE",
+          "title": "FSSPX Antwerpen - 14/06 3° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9acTPnUgzqE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T08:00:00Z"
         }
       ]
     },
@@ -96,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/gfHNdctQkr8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-13T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lXJh9z8tgO4",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lXJh9z8tgO4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T09:30:00Z"
+        },
+        {
+          "id": "jWlfdRWA8GU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony of Padua, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/jWlfdRWA8GU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-13T13:00:00Z"
         }
       ]
     }
