@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-13T16:11:47.313Z",
+  "lastUpdated": "2026-06-13T17:51:59.903Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -75,21 +75,21 @@
           "thumbnail": "https://i.ytimg.com/vi/7RC_M6tIAzA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-14T15:30:00Z"
+        },
+        {
+          "id": "1I3nIk2NOLk",
+          "title": "III Sunday after Pentecost, External Solemnity of the Sacred Heart | June 14th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/1I3nIk2NOLk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-d7ZbXwLvyY",
-          "title": "Nuptial Mass at 12pm - Saturday, June 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-d7ZbXwLvyY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1HNhWh3TyKc",
           "title": "8am — 3rd Sunday after Pentecost",
