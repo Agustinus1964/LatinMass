@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-12T23:58:18.117Z",
+  "lastUpdated": "2026-06-13T04:15:43.533Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "eZFOfbeNPrs",
+          "title": "Requiem Mass - Alphonsus ( Fons ) Janssen - 13th June 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/eZFOfbeNPrs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "SAqPHDULoxs",
           "title": "Hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
@@ -50,15 +59,6 @@
           "scheduledTime": "2026-06-13T11:15:00Z"
         },
         {
-          "id": "U-CCoDqp0FU",
-          "title": "Sat. Jun. 13,  2026   -   St, Anthony of Padua   -    Confessor, Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/U-CCoDqp0FU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-13T13:00:00Z"
-        },
-        {
           "id": "R_EHCi2zlyE",
           "title": "Sakramentsandacht und hl. Messe - hl. Antonius von Padua - 13. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -75,66 +75,21 @@
           "thumbnail": "https://i.ytimg.com/vi/iUBlVzkmvao/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-13T23:00:00Z"
+        },
+        {
+          "id": "jzmuQdVwlm4",
+          "title": "Compline - 6/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jzmuQdVwlm4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "i5WQtEyHWlM",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Feast of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/i5WQtEyHWlM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0BFIIBsadPI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0BFIIBsadPI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "swChyenRt2o",
-          "title": "Rosary for the Sanctification of Priests, Mass, Holy Hour. Sacred Heart of Jesus. I. Friday, 6-12-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/swChyenRt2o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "UgIu37IG2ws",
-          "title": "SACRED HEART OF OUR LORD, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/UgIu37IG2ws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bZ3PC7lvT9g",
-          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 06/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/bZ3PC7lvT9g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QxE-VRNWw0g",
-          "title": "Sacratíssimo Coração de Jesus - Solene",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/QxE-VRNWw0g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "gfHNdctQkr8",
           "title": "Sainte messe en semaine",
