@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-06-14T03:40:08.580Z",
+  "lastUpdated": "2026-06-14T08:12:34.874Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9acTPnUgzqE",
+          "title": "FSSPX Antwerpen - 14/06 3° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9acTPnUgzqE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Y7pRWZMeRBE",
           "title": "Amt - 3. Sonntag nach Pfingsten - 14. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/Y7pRWZMeRBE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "v-IXVWWu3C8",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/v-IXVWWu3C8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-14T08:25:00Z"
+        },
+        {
+          "id": "QLQJz5inFhs",
+          "title": "3rd Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/QLQJz5inFhs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T10:00:00Z"
         },
         {
           "id": "tfi8_OyWyRA",
@@ -81,15 +99,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1HNhWh3TyKc",
-          "title": "8am — 3rd Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1HNhWh3TyKc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T07:00:00Z"
-        },
         {
           "id": "4vCo-WNEFOM",
           "title": "9:30am — 11th Sunday in Ordinary Time",
@@ -152,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gpIAfPS8POc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-14T15:30:00Z"
+        },
+        {
+          "id": "YeCLSc5qlk4",
+          "title": "Secondes vêpres de la solennité du Sacré Cœur - AD JESUM AUTEL CUM VENISSENT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YeCLSc5qlk4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T15:45:00Z"
         },
         {
           "id": "AYDYaaKGGBY",
