@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-14T21:50:08.360Z",
+  "lastUpdated": "2026-06-14T23:04:59.410Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "662tf-6BJjM",
-          "title": "Simple II Vespers - 3rd Sunday after Pentecost - 6/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/662tf-6BJjM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8m3ZJ8p0HVA",
-          "title": "-Ferial 15/June/  2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/8m3ZJ8p0HVA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YpIweYjC-eU",
           "title": "Compline - 6/14/26",
@@ -84,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uVstAOtCDEU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T16:30:00Z"
+        },
+        {
+          "id": "3W07GbraCLE",
+          "title": "Rosary - 6/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/3W07GbraCLE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T23:00:00Z"
         }
       ]
     },
