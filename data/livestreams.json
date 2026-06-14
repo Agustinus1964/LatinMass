@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-06-14T15:23:42.198Z",
+  "lastUpdated": "2026-06-14T16:53:51.367Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tuwxAzrfDa4",
-          "title": "High Mass - 3rd Sunday after Pentecost - 6/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/tuwxAzrfDa4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5dQxScLxksw",
-          "title": "Solemnity Of the Sacred Heart, June 14, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/5dQxScLxksw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_hEYTC1G7hU",
-          "title": "Sun. Jun. 14, 2026   -    Third Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/_hEYTC1G7hU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7RC_M6tIAzA",
-          "title": "Vesper und Sakramentsandacht - 3. Sonntag nach Pfingsten - 14. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7RC_M6tIAzA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T15:30:00Z"
-        },
         {
           "id": "1I3nIk2NOLk",
           "title": "III Sunday after Pentecost, External Solemnity of the Sacred Heart | June 14th",
@@ -93,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sy31MWlrxtg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T15:00:00Z"
+        },
+        {
+          "id": "uVstAOtCDEU",
+          "title": "FSSPX Antwerpen - 15/06 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/uVstAOtCDEU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T16:30:00Z"
         }
       ]
     },
@@ -100,20 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "UAYhw7iQrFo",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/UAYhw7iQrFo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OpfqApceEpA",
-          "title": "10:30am Sung Mass. Third Sunday after Pentecost. Ext. Solemnity of Sacred Heart of Jesus. 6-14-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/OpfqApceEpA/mqdefault_live.jpg",
+          "id": "gpIAfPS8POc",
+          "title": "EXTERNAL SOLEMNITY OF THE SACRED HEART, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/gpIAfPS8POc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -127,15 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "qAIwzGZSbd4",
-          "title": "External Solemnity of Corpus Christi / Solennité externe de la Fête-Dieu",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/qAIwzGZSbd4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "jH7DOTeYu74",
           "title": "Santa Misa Dominical. 14 de junio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -143,42 +98,6 @@
           "thumbnail": "https://i.ytimg.com/vi/jH7DOTeYu74/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "O0jBPHN0yLs",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/O0jBPHN0yLs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gpIAfPS8POc",
-          "title": "EXTERNAL SOLEMNITY OF THE SACRED HEART, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/gpIAfPS8POc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T15:30:00Z"
-        },
-        {
-          "id": "YeCLSc5qlk4",
-          "title": "Secondes vêpres de la solennité du Sacré Cœur - AD JESUM AUTEL CUM VENISSENT",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/YeCLSc5qlk4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T15:45:00Z"
-        },
-        {
-          "id": "AYDYaaKGGBY",
-          "title": "Vespers and Benediction — 3rd Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/AYDYaaKGGBY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T16:00:00Z"
         },
         {
           "id": "TLY5oGYZWeU",
