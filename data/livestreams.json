@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-14T18:09:17.649Z",
+  "lastUpdated": "2026-06-14T20:04:13.974Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1I3nIk2NOLk",
-          "title": "III Sunday after Pentecost, External Solemnity of the Sacred Heart | June 14th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/1I3nIk2NOLk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "662tf-6BJjM",
           "title": "Simple II Vespers - 3rd Sunday after Pentecost - 6/14/26",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/670svEnCEHs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T05:15:00Z"
+        },
+        {
+          "id": "NN179ljbtH4",
+          "title": "Saints Vitus, Modestus and Crescentia, martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/NN179ljbtH4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T07:15:00Z"
         },
         {
           "id": "cBK7D80LoKY",
@@ -82,31 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TLY5oGYZWeU",
-          "title": "Ask yourself, how can I ask God to forgive me if I refuse to forgive others? Forgive Thy Neighbor.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/TLY5oGYZWeU/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "60IfHnjT1rs",
-          "title": "Sunday 1:30 PM Catholic Mass 06/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/60IfHnjT1rs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Z06gmKlr_L8",
-          "title": "Santa Misa Dominical. 14 de junio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Z06gmKlr_L8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "dRpGHcyVdGY",
+          "title": "III Domingo depois de Pentecostes - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/dRpGHcyVdGY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-14T19:49:24Z"
         },
         {
           "id": "t3msV-Lb-oc",
