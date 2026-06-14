@@ -1,26 +1,35 @@
 {
-  "lastUpdated": "2026-06-14T13:12:19.710Z",
+  "lastUpdated": "2026-06-14T15:23:42.198Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "v9fln5DplQI",
-          "title": "Third Sunday After Pentecost - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/v9fln5DplQI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T13:30:00Z"
-        },
-        {
           "id": "tuwxAzrfDa4",
-          "title": "Solemn High Mass - 3rd Sunday after Pentecost - 6/14/26",
+          "title": "High Mass - 3rd Sunday after Pentecost - 6/14/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/tuwxAzrfDa4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5dQxScLxksw",
+          "title": "Solemnity Of the Sacred Heart, June 14, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/5dQxScLxksw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_hEYTC1G7hU",
+          "title": "Sun. Jun. 14, 2026   -    Third Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/_hEYTC1G7hU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7RC_M6tIAzA",
@@ -75,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DsiVIgGAbkM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T11:15:00Z"
+        },
+        {
+          "id": "sy31MWlrxtg",
+          "title": "FSSPX Antwerpen - 15/06 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/sy31MWlrxtg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T15:00:00Z"
         }
       ]
     },
@@ -82,49 +100,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "NNPv6Kd1BZc",
+          "id": "UAYhw7iQrFo",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/NNPv6Kd1BZc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UAYhw7iQrFo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "1eiHeDxhDek",
-          "title": "7am Mass, Rosary, 8:30am Mass. 3rd Sunday after Pentecost. Ext. Solemnity of Sacred Heart. 6-14-26.",
+          "id": "OpfqApceEpA",
+          "title": "10:30am Sung Mass. Third Sunday after Pentecost. Ext. Solemnity of Sacred Heart of Jesus. 6-14-26.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/1eiHeDxhDek/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/OpfqApceEpA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "CC2kVkar-JE",
-          "title": "Sunday 8:30 AM Catholic Mass for 06/14/2026",
+          "id": "DdhKHtOO0yI",
+          "title": "Sunday 11 AM Sung Mass 2026-06-14",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/CC2kVkar-JE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DdhKHtOO0yI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "Fbvk690xc7I",
-          "title": "Missa Cantada III Domingo Depois De Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Fbvk690xc7I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "v0R5bjeekWo",
-          "title": "3rd Sunday after Pentecost / 3e Dimanche après la Pentecôte",
+          "id": "qAIwzGZSbd4",
+          "title": "External Solemnity of Corpus Christi / Solennité externe de la Fête-Dieu",
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/v0R5bjeekWo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T14:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/qAIwzGZSbd4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "jH7DOTeYu74",
+          "title": "Santa Misa Dominical. 14 de junio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/jH7DOTeYu74/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "O0jBPHN0yLs",
@@ -132,8 +150,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/O0jBPHN0yLs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gpIAfPS8POc",
