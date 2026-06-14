@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T16:53:51.367Z",
+  "lastUpdated": "2026-06-14T18:09:17.649Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/1I3nIk2NOLk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "662tf-6BJjM",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YpIweYjC-eU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T00:45:00Z"
+        },
+        {
+          "id": "670svEnCEHs",
+          "title": "Hl. Messe - 15. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/670svEnCEHs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T05:15:00Z"
         },
         {
           "id": "cBK7D80LoKY",
@@ -73,40 +82,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gpIAfPS8POc",
-          "title": "EXTERNAL SOLEMNITY OF THE SACRED HEART, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/gpIAfPS8POc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DdhKHtOO0yI",
-          "title": "Sunday 11 AM Sung Mass 2026-06-14",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/DdhKHtOO0yI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jH7DOTeYu74",
-          "title": "Santa Misa Dominical. 14 de junio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/jH7DOTeYu74/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "TLY5oGYZWeU",
           "title": "Ask yourself, how can I ask God to forgive me if I refuse to forgive others? Forgive Thy Neighbor.",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/TLY5oGYZWeU/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "60IfHnjT1rs",
+          "title": "Sunday 1:30 PM Catholic Mass 06/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/60IfHnjT1rs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Z06gmKlr_L8",
+          "title": "Santa Misa Dominical. 14 de junio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Z06gmKlr_L8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "t3msV-Lb-oc",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/t3msV-Lb-oc/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-14T18:00:00Z"
+          "scheduledTime": "2026-06-15T17:00:00Z"
+        },
+        {
+          "id": "DfY1dDvwa-c",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/DfY1dDvwa-c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T17:00:00Z"
         }
       ]
     }
