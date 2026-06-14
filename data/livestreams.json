@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-06-14T08:12:34.874Z",
+  "lastUpdated": "2026-06-14T11:11:37.852Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9acTPnUgzqE",
-          "title": "FSSPX Antwerpen - 14/06 3° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9acTPnUgzqE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Y7pRWZMeRBE",
-          "title": "Amt - 3. Sonntag nach Pfingsten - 14. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Y7pRWZMeRBE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "v-IXVWWu3C8",
-          "title": "III Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/v-IXVWWu3C8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T08:25:00Z"
-        },
         {
           "id": "QLQJz5inFhs",
           "title": "3rd Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/QLQJz5inFhs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tfi8_OyWyRA",
@@ -100,31 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4vCo-WNEFOM",
-          "title": "9:30am — 11th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4vCo-WNEFOM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T08:30:00Z"
+          "id": "1eiHeDxhDek",
+          "title": "7am Mass, Rosary, 8:30am Mass. 3rd Sunday after Pentecost. Ext. Solemnity of Sacred Heart. 6-14-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/1eiHeDxhDek/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "DIO7JcgkBHo",
-          "title": "Sainte messe de la solennité du Sacré Cœur - COGITATIONES",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/DIO7JcgkBHo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T09:00:00Z"
-        },
-        {
-          "id": "KNDYmGPbEy8",
-          "title": "Sunday 14th June 2026: Third Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/KNDYmGPbEy8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T09:30:00Z"
+          "id": "vhRM9IzKQxo",
+          "title": "Sunday 7 AM Catholic Mass for 06/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/vhRM9IzKQxo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lTHkwPPELMk",
@@ -132,8 +96,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/lTHkwPPELMk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-14T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rVKid645pys",
+          "title": "III Domingo depois de Pentecostes - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/rVKid645pys/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "np34B6vAH0U",
