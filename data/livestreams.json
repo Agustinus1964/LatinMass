@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-14T23:04:59.410Z",
+  "lastUpdated": "2026-06-15T01:58:15.652Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YpIweYjC-eU",
-          "title": "Compline - 6/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/YpIweYjC-eU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-15T00:45:00Z"
-        },
         {
           "id": "670svEnCEHs",
           "title": "Hl. Messe - 15. Juni 2026",
@@ -75,12 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/3W07GbraCLE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T23:00:00Z"
+        },
+        {
+          "id": "J0TjH1tFIKg",
+          "title": "Compline - 6/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/J0TjH1tFIKg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-16T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "xknhZRet3XM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Vitus, Modestus and Crescentia, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/xknhZRet3XM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-15T11:30:00Z"
+        },
         {
           "id": "t3msV-Lb-oc",
           "title": "Monday",
