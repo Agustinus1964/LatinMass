@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-15T07:26:05.620Z",
+  "lastUpdated": "2026-06-15T13:29:17.441Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cBK7D80LoKY",
-          "title": "Low Mass - Feria - 6/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/cBK7D80LoKY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-15T11:15:00Z"
-        },
-        {
-          "id": "DsiVIgGAbkM",
-          "title": "Mon. Jun. 15, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/DsiVIgGAbkM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-15T11:15:00Z"
-        },
         {
           "id": "sy31MWlrxtg",
           "title": "FSSPX Antwerpen - 15/06 Aanbidding met Rozenhoedje",
@@ -57,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/J0TjH1tFIKg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-16T00:45:00Z"
+        },
+        {
+          "id": "4V5iJWGRQG8",
+          "title": "Tue. Jun. 16, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/4V5iJWGRQG8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-16T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xknhZRet3XM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Vitus, Modestus and Crescentia, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/xknhZRet3XM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-15T11:30:00Z"
-        },
         {
           "id": "t3msV-Lb-oc",
           "title": "Monday",
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DfY1dDvwa-c/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-15T17:00:00Z"
+        },
+        {
+          "id": "D7Y-2mAVThU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Holy Ghost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/D7Y-2mAVThU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-16T11:30:00Z"
         }
       ]
     }
