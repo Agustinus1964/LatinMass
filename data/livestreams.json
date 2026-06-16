@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-16T13:10:13.710Z",
+  "lastUpdated": "2026-06-16T18:13:55.143Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yPBTJMU118s",
-          "title": "FSSPX Antwerpen - 16/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yPBTJMU118s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T15:00:00Z"
-        },
-        {
-          "id": "XmaNEFs6doA",
-          "title": "Rosenkranz und hl. Messe - 16. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/XmaNEFs6doA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T16:00:00Z"
-        },
-        {
-          "id": "iATjOslv1e8",
-          "title": "FSSPX Antwerpen - 16/06 H. LUTGARDIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/iATjOslv1e8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T16:30:00Z"
-        },
         {
           "id": "0qKkZFQtZpY",
           "title": "Rosary - 6/16/26",
@@ -84,48 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/3jaiTUeuNyE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-17T11:15:00Z"
+        },
+        {
+          "id": "_S28MQz1YmE",
+          "title": "Rosenkranz und hl. Messe - hl. Gregor Barbarigo - 17. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/_S28MQz1YmE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T16:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6M3F45q5lsk",
-          "title": "Tuesday 8 AM Catholic Mass for 06/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/6M3F45q5lsk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cSqZM24ncg8",
-          "title": "Tuesday 16th June 2026: Votive Mass of the Holy Angels",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/cSqZM24ncg8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T17:00:00Z"
-        },
-        {
-          "id": "JwLlzGeNZk4",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/JwLlzGeNZk4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T17:00:00Z"
-        },
-        {
-          "id": "eLtEFhJJuYE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/eLtEFhJJuYE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T17:00:00Z"
-        },
         {
           "id": "7tou28U9sag",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Barbarigo, Bishop and Confessor)",
@@ -134,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/7tou28U9sag/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-17T11:30:00Z"
+        },
+        {
+          "id": "W70BHJ9qVZE",
+          "title": "Wednesday 17th June 2026: Saint Gregory Barbarigo",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/W70BHJ9qVZE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T17:00:00Z"
+        },
+        {
+          "id": "QVrFRBvZa9I",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/QVrFRBvZa9I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T17:00:00Z"
+        },
+        {
+          "id": "olGzdMoi-g0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/olGzdMoi-g0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T17:00:00Z"
         }
       ]
     }
