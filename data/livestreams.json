@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-16T08:24:18.257Z",
+  "lastUpdated": "2026-06-16T13:10:13.710Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "53BBxJMeTVE",
-          "title": "Low Mass - Feria - 6/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/53BBxJMeTVE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T11:15:00Z"
-        },
-        {
-          "id": "4V5iJWGRQG8",
-          "title": "Tue. Jun. 16, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/4V5iJWGRQG8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T11:15:00Z"
-        },
         {
           "id": "yPBTJMU118s",
           "title": "FSSPX Antwerpen - 16/06 Aanbidding met Rozenhoedje",
@@ -75,6 +57,33 @@
           "thumbnail": "https://i.ytimg.com/vi/FKCoglKno_A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-17T05:15:00Z"
+        },
+        {
+          "id": "Y1Wp6TFZlC4",
+          "title": "FSSPX Antwerpen - 17/06 Aanbiddingsdag",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Y1Wp6TFZlC4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T08:30:00Z"
+        },
+        {
+          "id": "8c9thVb6NzQ",
+          "title": "Low Mass - St. Gregory Barbarigo - 6/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8c9thVb6NzQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T11:15:00Z"
+        },
+        {
+          "id": "3jaiTUeuNyE",
+          "title": "Wed. Jun. 17, 2026    -    St. Gregory Barbarigo.    Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/3jaiTUeuNyE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T11:15:00Z"
         }
       ]
     },
@@ -82,13 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "D7Y-2mAVThU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Holy Ghost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/D7Y-2mAVThU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T11:30:00Z"
+          "id": "6M3F45q5lsk",
+          "title": "Tuesday 8 AM Catholic Mass for 06/16/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6M3F45q5lsk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cSqZM24ncg8",
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eLtEFhJJuYE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-16T17:00:00Z"
+        },
+        {
+          "id": "7tou28U9sag",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Barbarigo, Bishop and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7tou28U9sag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T11:30:00Z"
         }
       ]
     }
