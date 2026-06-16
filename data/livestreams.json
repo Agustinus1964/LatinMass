@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-16T21:23:53.650Z",
+  "lastUpdated": "2026-06-16T23:01:25.983Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mSZYaB0heOs",
-          "title": "St Gregory Barbarigo 17/June/  2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/mSZYaB0heOs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0qKkZFQtZpY",
           "title": "Rosary - 6/16/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/0qKkZFQtZpY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-16T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_hGQYuRpTog",
@@ -90,24 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "16ojAeTOBXU",
-          "title": "Divine Office & 6pm Mass. Feria. IV. Tuesday, June 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/16ojAeTOBXU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ltzvT-4JMMc",
-          "title": "Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ltzvT-4JMMc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7tou28U9sag",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory Barbarigo, Bishop and Confessor)",
