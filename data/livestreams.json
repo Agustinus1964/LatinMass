@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T07:22:01.823Z",
+  "lastUpdated": "2026-06-17T12:02:53.449Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,26 +19,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/Y1Wp6TFZlC4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T08:30:00Z"
-        },
-        {
-          "id": "8c9thVb6NzQ",
-          "title": "Low Mass - St. Gregory Barbarigo - 6/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/8c9thVb6NzQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T11:15:00Z"
-        },
-        {
-          "id": "3jaiTUeuNyE",
-          "title": "Wed. Jun. 17, 2026    -    St. Gregory Barbarigo.    Bishop and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/3jaiTUeuNyE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_S28MQz1YmE",
@@ -48,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/_S28MQz1YmE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-17T16:00:00Z"
-        },
-        {
-          "id": "4CxPJDKFoas",
-          "title": "Rosary - 6/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4CxPJDKFoas/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T23:00:00Z"
         },
         {
           "id": "IbvVbAgtwaQ",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qgikUfGUcJc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-18T05:15:00Z"
+        },
+        {
+          "id": "H0RfyiC0YsI",
+          "title": "Thu. Jun. 18, 2026    -    St. Ephrem the Syrian,   Deacon, Confessor and Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/H0RfyiC0YsI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T11:15:00Z"
         }
       ]
     },
@@ -87,8 +69,17 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/7tou28U9sag/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "4W-UB33n4Ec",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 06/17/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/4W-UB33n4Ec/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "W70BHJ9qVZE",
