@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-17T21:01:11.193Z",
+  "lastUpdated": "2026-06-17T22:55:32.638Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "IbvVbAgtwaQ",
-          "title": "Compline - 6/17/26",
+          "id": "4CxPJDKFoas",
+          "title": "Rosary - 6/17/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IbvVbAgtwaQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T00:45:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/4CxPJDKFoas/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qgikUfGUcJc",
@@ -69,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/nq7912iyuEQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sqDXNzfq6yg",
-          "title": "Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/sqDXNzfq6yg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
