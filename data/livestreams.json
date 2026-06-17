@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T01:59:50.840Z",
+  "lastUpdated": "2026-06-17T07:22:01.823Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,24 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/PQSh2q5m18o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "FKCoglKno_A",
-          "title": "Hl. Messe - hl. Gregor Barbarigo - 17. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/FKCoglKno_A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T05:15:00Z"
-        },
-        {
-          "id": "P466hEFwlCA",
-          "title": "Saint Gregory Barbarigo, bishop and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/P466hEFwlCA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T07:15:00Z"
         },
         {
           "id": "Y1Wp6TFZlC4",
@@ -84,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IbvVbAgtwaQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-18T00:45:00Z"
+        },
+        {
+          "id": "qgikUfGUcJc",
+          "title": "Hl. Messe - hl. Ephrem der Syrer - 18. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/qgikUfGUcJc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T05:15:00Z"
         }
       ]
     },
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/olGzdMoi-g0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-17T17:00:00Z"
+        },
+        {
+          "id": "QkOoiG7CwcY",
+          "title": "Thursday 18th June 2026: Saint Ephrem of Syria",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/QkOoiG7CwcY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T07:00:00Z"
         }
       ]
     }
