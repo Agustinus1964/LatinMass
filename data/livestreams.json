@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-16T23:01:25.983Z",
+  "lastUpdated": "2026-06-17T01:59:50.840Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "0qKkZFQtZpY",
-          "title": "Rosary - 6/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/0qKkZFQtZpY/mqdefault_live.jpg",
+          "id": "PQSh2q5m18o",
+          "title": "Last Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/PQSh2q5m18o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "_hGQYuRpTog",
-          "title": "Compline - 6/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/_hGQYuRpTog/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T00:45:00Z"
         },
         {
           "id": "FKCoglKno_A",
@@ -75,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_S28MQz1YmE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-17T16:00:00Z"
+        },
+        {
+          "id": "4CxPJDKFoas",
+          "title": "Rosary - 6/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/4CxPJDKFoas/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-17T23:00:00Z"
+        },
+        {
+          "id": "IbvVbAgtwaQ",
+          "title": "Compline - 6/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IbvVbAgtwaQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T00:45:00Z"
         }
       ]
     },
