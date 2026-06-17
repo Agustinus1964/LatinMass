@@ -1,33 +1,15 @@
 {
-  "lastUpdated": "2026-06-17T16:10:07.488Z",
+  "lastUpdated": "2026-06-17T18:39:22.798Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "PQSh2q5m18o",
-          "title": "Last Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/PQSh2q5m18o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Y1Wp6TFZlC4",
-          "title": "FSSPX Antwerpen - 17/06 Aanbiddingsdag",
+          "id": "d0ksskmiqbA",
+          "title": "FSSPX Antwerpen - 19/06 H. JULIANA van FALCONIËRI",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Y1Wp6TFZlC4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_S28MQz1YmE",
-          "title": "Rosenkranz und hl. Messe - hl. Gregor Barbarigo - 17. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/_S28MQz1YmE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/d0ksskmiqbA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,33 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "W70BHJ9qVZE",
-          "title": "Wednesday 17th June 2026: Saint Gregory Barbarigo",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/W70BHJ9qVZE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T17:00:00Z"
-        },
-        {
-          "id": "QVrFRBvZa9I",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/QVrFRBvZa9I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T17:00:00Z"
-        },
-        {
-          "id": "olGzdMoi-g0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/olGzdMoi-g0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-17T17:00:00Z"
-        },
-        {
           "id": "QkOoiG7CwcY",
           "title": "Thursday 18th June 2026: Saint Ephrem of Syria",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ZPAmhD6RPHY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-18T11:30:00Z"
+        },
+        {
+          "id": "Ijs3uHkioDA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Ijs3uHkioDA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T17:00:00Z"
+        },
+        {
+          "id": "8Nw41q75n3Y",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/8Nw41q75n3Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T17:00:00Z"
         }
       ]
     }
