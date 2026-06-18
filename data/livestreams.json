@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-18T09:51:44.688Z",
+  "lastUpdated": "2026-06-18T12:48:20.403Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "H0RfyiC0YsI",
-          "title": "Thu. Jun. 18, 2026    -    St. Ephrem the Syrian,   Deacon, Confessor and Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/H0RfyiC0YsI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T11:15:00Z"
-        },
         {
           "id": "h6wmVeJGcAY",
           "title": "Sakramentsandacht und hl. Messe - hl. Ephrem der Syrer - 18. Juni 2026",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/L6V7g0_f4qU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T05:15:00Z"
+        },
+        {
+          "id": "gYRmPR2Pejc",
+          "title": "Fri. Jun. 19, 2026    -    St. Juliana Falconieri,    Virgin",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/gYRmPR2Pejc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T11:15:00Z"
         }
       ]
     },
@@ -46,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "U3NMM4waDYM",
-          "title": "Ofício de Laudes e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/U3NMM4waDYM/mqdefault_live.jpg",
+          "id": "Iq8EgeVADMM",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 06/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Iq8EgeVADMM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ZPAmhD6RPHY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Ephrem of Syria, Deacon, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZPAmhD6RPHY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T11:30:00Z"
         },
         {
           "id": "Ijs3uHkioDA",
