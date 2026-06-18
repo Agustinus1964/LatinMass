@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-18T05:14:35.768Z",
+  "lastUpdated": "2026-06-18T09:51:44.688Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qgikUfGUcJc",
-          "title": "Hl. Messe - hl. Ephrem der Syrer - 18. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/qgikUfGUcJc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_lQTrFXHrWM",
-          "title": "Saint Ephraem, deacon, confessor and doctor of the Church",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/_lQTrFXHrWM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T06:15:00Z"
-        },
         {
           "id": "H0RfyiC0YsI",
           "title": "Thu. Jun. 18, 2026    -    St. Ephrem the Syrian,   Deacon, Confessor and Doctor of the Church",
@@ -32,15 +14,6 @@
           "scheduledTime": "2026-06-18T11:15:00Z"
         },
         {
-          "id": "5dvq0breDSI",
-          "title": "FSSPX Antwerpen - 18/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/5dvq0breDSI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T15:00:00Z"
-        },
-        {
           "id": "h6wmVeJGcAY",
           "title": "Sakramentsandacht und hl. Messe - hl. Ephrem der Syrer - 18. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -48,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/h6wmVeJGcAY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-18T15:00:00Z"
+        },
+        {
+          "id": "P4DxXgTXMlU",
+          "title": "FSSPX Antwerpen - 18/06 H. EPHREM van SYRIË",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/P4DxXgTXMlU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-18T16:30:00Z"
+        },
+        {
+          "id": "L6V7g0_f4qU",
+          "title": "Hl. Messe - hl. Julia Falconieri - 19. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/L6V7g0_f4qU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T05:15:00Z"
         }
       ]
     },
@@ -55,17 +46,17 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "QkOoiG7CwcY",
-          "title": "Thursday 18th June 2026: Saint Ephrem of Syria",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/QkOoiG7CwcY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T07:00:00Z"
+          "id": "U3NMM4waDYM",
+          "title": "Ofício de Laudes e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/U3NMM4waDYM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZPAmhD6RPHY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Ephrem of Syria, Deacon and Doctor)",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Ephrem of Syria, Deacon, Confessor and Doctor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/ZPAmhD6RPHY/mqdefault_live.jpg",
