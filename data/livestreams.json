@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-06-18T21:20:58.418Z",
+  "lastUpdated": "2026-06-18T23:16:36.093Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZMAe62q3Gms",
-          "title": "Mass of St Juliana  Falconieri - 19.6.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ZMAe62q3Gms/mqdefault_live.jpg",
+          "id": "AAJoEpPvugE",
+          "title": "Benediction - 6/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/AAJoEpPvugE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,15 +82,6 @@
           "scheduledTime": null
         },
         {
-          "id": "oZIXSMEEouI",
-          "title": "Ofício e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/oZIXSMEEouI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "uMDhdYHbB0I",
           "title": "Friday 19th June 2026: Saint Juliana Falconieri",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QdcEwOGcsGw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T17:00:00Z"
+        },
+        {
+          "id": "pxOcRnVkHRQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Juliana Falconieri, Virgin)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/pxOcRnVkHRQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T22:30:00Z"
         }
       ]
     }
