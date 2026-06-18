@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-18T18:41:28.477Z",
+  "lastUpdated": "2026-06-18T21:20:58.418Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZMAe62q3Gms",
+          "title": "Mass of St Juliana  Falconieri - 19.6.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ZMAe62q3Gms/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "L6V7g0_f4qU",
           "title": "Hl. Messe - hl. Julia Falconieri - 19. Juni 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/L6V7g0_f4qU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T05:15:00Z"
+        },
+        {
+          "id": "hSRkayv_kbM",
+          "title": "Saint Juliana Falconieri, virgin",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/hSRkayv_kbM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T07:15:00Z"
         },
         {
           "id": "gYRmPR2Pejc",
@@ -54,6 +72,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CmEldRb65qY",
+          "title": "Divine Office & 6pm Mass. St. Ephrem the Syrian, Confessor & Doctor of the Church. III. 6-18-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/CmEldRb65qY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oZIXSMEEouI",
+          "title": "Ofício e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/oZIXSMEEouI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "uMDhdYHbB0I",
           "title": "Friday 19th June 2026: Saint Juliana Falconieri",
