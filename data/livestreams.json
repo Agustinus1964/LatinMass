@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-18T16:26:40.161Z",
+  "lastUpdated": "2026-06-18T18:41:28.477Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5dvq0breDSI",
-          "title": "FSSPX Antwerpen - 18/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/5dvq0breDSI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "h6wmVeJGcAY",
-          "title": "Sakramentsandacht und hl. Messe - hl. Ephrem der Syrer - 18. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/h6wmVeJGcAY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "P4DxXgTXMlU",
-          "title": "FSSPX Antwerpen - 18/06 H. EPHREM van SYRIË",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/P4DxXgTXMlU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-18T16:30:00Z"
-        },
         {
           "id": "L6V7g0_f4qU",
           "title": "Hl. Messe - hl. Julia Falconieri - 19. Juni 2026",
@@ -66,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/n7-TVcsPgu4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T16:00:00Z"
+        },
+        {
+          "id": "leQlS5RRg9g",
+          "title": "FSSPX Antwerpen - 19/06 H. JULIANA VAN FALCONIËRI",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/leQlS5RRg9g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T16:30:00Z"
         }
       ]
     },
@@ -73,22 +55,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Ijs3uHkioDA",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Ijs3uHkioDA/mqdefault_live.jpg",
+          "id": "uMDhdYHbB0I",
+          "title": "Friday 19th June 2026: Saint Juliana Falconieri",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/uMDhdYHbB0I/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-18T17:00:00Z"
+          "scheduledTime": "2026-06-19T17:00:00Z"
         },
         {
-          "id": "8Nw41q75n3Y",
+          "id": "k7yH-cFY_n0",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/k7yH-cFY_n0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T17:00:00Z"
+        },
+        {
+          "id": "QdcEwOGcsGw",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/8Nw41q75n3Y/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/QdcEwOGcsGw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-18T17:00:00Z"
+          "scheduledTime": "2026-06-19T17:00:00Z"
         }
       ]
     }
