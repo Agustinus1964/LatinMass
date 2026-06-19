@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-19T07:37:14.546Z",
+  "lastUpdated": "2026-06-19T12:02:48.827Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gYRmPR2Pejc",
-          "title": "Fri. Jun. 19, 2026    -    St. Juliana Falconieri,    Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gYRmPR2Pejc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T11:15:00Z"
-        },
         {
           "id": "qMzpfyk46EA",
           "title": "FSSPX Antwerpen - 19/06 H. Kruisweg",
@@ -48,12 +39,48 @@
           "thumbnail": "https://i.ytimg.com/vi/INpnLdA1j8A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T05:15:00Z"
+        },
+        {
+          "id": "BpU72UyXjFw",
+          "title": "FSSPX Antwerpen - 20/06 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/BpU72UyXjFw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T08:00:00Z"
+        },
+        {
+          "id": "1rEcULwv7Bo",
+          "title": "Low Mass - Rev. Fr. Sebastian OSB - First Mass - 6/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/1rEcULwv7Bo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T11:30:00Z"
+        },
+        {
+          "id": "taUzAutrUF8",
+          "title": "Sat. Jun. 20, 2026    -    Blessed Virgin Mary on Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/taUzAutrUF8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wvIPRtR6G1c",
+          "title": "First Friday 8 AM Mass and Devotions 06/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/wvIPRtR6G1c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "uMDhdYHbB0I",
           "title": "Friday 19th June 2026: Saint Juliana Falconieri",
@@ -98,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/7UDdsU9dL28/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T07:30:00Z"
+        },
+        {
+          "id": "7M95_CSPnxE",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/7M95_CSPnxE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T09:00:00Z"
+        },
+        {
+          "id": "4aOGA1n0ysg",
+          "title": "Saturday 21st June 2026: Saturday Mass of Our Lady",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/4aOGA1n0ysg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T09:30:00Z"
         }
       ]
     }
