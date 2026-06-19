@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T19:44:38.288Z",
+  "lastUpdated": "2026-06-19T21:06:06.083Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,24 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "O_o0V_82gZo",
+          "title": "Divine Office, 6pm Mass & Holy Hour. St. Juliana Falconieri, Virgin. III. Friday, June 19, 2926.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/O_o0V_82gZo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "OGGxsasC2LQ",
+          "title": "Rosário e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/OGGxsasC2LQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "pxOcRnVkHRQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Juliana Falconieri, Virgin)",
           "channel": "Usus Antiquior",
@@ -53,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pxOcRnVkHRQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T22:30:00Z"
+        },
+        {
+          "id": "71FIkBDbnWc",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 06/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/71FIkBDbnWc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-19T22:55:00Z"
         },
         {
           "id": "7UDdsU9dL28",
@@ -80,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4aOGA1n0ysg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T09:30:00Z"
+        },
+        {
+          "id": "YSud1SParx8",
+          "title": "Saturday 9 AM Traditional Catholic Mass 06/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/YSud1SParx8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T12:55:00Z"
         }
       ]
     }
