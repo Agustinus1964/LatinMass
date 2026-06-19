@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-19T02:15:07.623Z",
+  "lastUpdated": "2026-06-19T07:37:14.546Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "L6V7g0_f4qU",
-          "title": "Hl. Messe - hl. Julia Falconieri - 19. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/L6V7g0_f4qU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T05:15:00Z"
-        },
-        {
-          "id": "hSRkayv_kbM",
-          "title": "Saint Juliana Falconieri, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/hSRkayv_kbM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T07:15:00Z"
-        },
         {
           "id": "gYRmPR2Pejc",
           "title": "Fri. Jun. 19, 2026    -    St. Juliana Falconieri,    Virgin",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/leQlS5RRg9g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T16:30:00Z"
+        },
+        {
+          "id": "INpnLdA1j8A",
+          "title": "Hl. Messe - 20. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/INpnLdA1j8A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T05:15:00Z"
         }
       ]
     },
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pxOcRnVkHRQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-19T22:30:00Z"
+        },
+        {
+          "id": "7UDdsU9dL28",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/7UDdsU9dL28/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T07:30:00Z"
         }
       ]
     }
