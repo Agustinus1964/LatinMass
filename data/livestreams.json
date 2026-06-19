@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T17:53:03.118Z",
+  "lastUpdated": "2026-06-19T19:44:38.288Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/INpnLdA1j8A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T05:15:00Z"
+        },
+        {
+          "id": "pCgfjmCZwtU",
+          "title": "The Blessed Virgin Mary on Saturday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/pCgfjmCZwtU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-20T07:30:00Z"
         },
         {
           "id": "1rEcULwv7Bo",
@@ -36,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uMDhdYHbB0I",
-          "title": "Friday 19th June 2026: Saint Juliana Falconieri",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/uMDhdYHbB0I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QdcEwOGcsGw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/QdcEwOGcsGw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pxOcRnVkHRQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Juliana Falconieri, Virgin)",
