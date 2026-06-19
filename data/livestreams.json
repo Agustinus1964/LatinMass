@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-19T15:47:11.589Z",
+  "lastUpdated": "2026-06-19T17:53:03.118Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PRspiFrAHqE",
-          "title": "Ordinations to the Diaconate and Priesthood  - 6/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/PRspiFrAHqE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qMzpfyk46EA",
-          "title": "FSSPX Antwerpen - 19/06 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/qMzpfyk46EA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "n7-TVcsPgu4",
-          "title": "Rosenkranz und hl. Messe - hl. Julia Falconieri - 19. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/n7-TVcsPgu4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T16:00:00Z"
-        },
         {
           "id": "INpnLdA1j8A",
           "title": "Hl. Messe - 20. Juni 2026",
@@ -64,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Zr66bbY0xPQ",
-          "title": "11am Mass. St. Juliana Falconieri, Virgin. III. Friday, June 19, 2926.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Zr66bbY0xPQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "uMDhdYHbB0I",
           "title": "Friday 19th June 2026: Saint Juliana Falconieri",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/uMDhdYHbB0I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T17:00:00Z"
-        },
-        {
-          "id": "k7yH-cFY_n0",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/k7yH-cFY_n0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QdcEwOGcsGw",
@@ -96,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/QdcEwOGcsGw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pxOcRnVkHRQ",
