@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-19T21:06:06.083Z",
+  "lastUpdated": "2026-06-19T22:30:11.016Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "961ubJ8pu6k",
+          "title": "Mass of Our Lady on Saturdays- 20th June 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/961ubJ8pu6k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "INpnLdA1j8A",
           "title": "Hl. Messe - 20. Juni 2026",
@@ -30,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/1rEcULwv7Bo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T11:30:00Z"
-        },
-        {
-          "id": "taUzAutrUF8",
-          "title": "Sat. Jun. 20, 2026    -    Blessed Virgin Mary on Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/taUzAutrUF8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pxOcRnVkHRQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Juliana Falconieri, Virgin)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/pxOcRnVkHRQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "O_o0V_82gZo",
           "title": "Divine Office, 6pm Mass & Holy Hour. St. Juliana Falconieri, Virgin. III. Friday, June 19, 2926.",
@@ -53,24 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/O_o0V_82gZo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "OGGxsasC2LQ",
-          "title": "Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/OGGxsasC2LQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pxOcRnVkHRQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Juliana Falconieri, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pxOcRnVkHRQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-19T22:30:00Z"
         },
         {
           "id": "71FIkBDbnWc",
