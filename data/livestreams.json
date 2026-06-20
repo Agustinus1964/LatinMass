@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-20T10:56:00.856Z",
+  "lastUpdated": "2026-06-20T12:25:14.373Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "1rEcULwv7Bo",
-          "title": "Low Mass - Rev. Fr. Sebastian OSB - First Mass - 6/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/1rEcULwv7Bo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T11:30:00Z"
+          "id": "taUzAutrUF8",
+          "title": "Sat. Jun. 20, 2026    -    Blessed Virgin Mary on Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/taUzAutrUF8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "xd_gUtAr6ZQ",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "lI9moC5JhA4",
-          "title": "8am — St Aloysius",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lI9moC5JhA4/mqdefault_live.jpg",
+          "id": "-MpnWpdnfS8",
+          "title": "7:30am Mass, 8:30am Rosary, 9am Mass. Saturday of Our Lady. IV. June 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-MpnWpdnfS8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DGNZR4nkYwA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T13:00:00Z"
+        },
+        {
+          "id": "5bzSHCIR7nM",
+          "title": "8am — St Aloysius",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/5bzSHCIR7nM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T07:00:00Z"
         },
         {
           "id": "mYRWZHZ5m9I",
