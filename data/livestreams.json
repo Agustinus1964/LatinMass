@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T19:20:19.293Z",
+  "lastUpdated": "2026-06-20T20:48:35.634Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,6 +23,15 @@
           "scheduledTime": "2026-06-21T08:25:00Z"
         },
         {
+          "id": "c3pVjNzVgys",
+          "title": "4th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/c3pVjNzVgys/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T10:00:00Z"
+        },
+        {
           "id": "lKCXIGY_G3A",
           "title": "Vesper und Sakramentsandacht - 4. Sonntag nach Pfingsten - 21. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -30,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lKCXIGY_G3A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-21T15:30:00Z"
+        },
+        {
+          "id": "u8WNCuqM-sU",
+          "title": "IV Sunday after Pentecost | June 21st",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/u8WNCuqM-sU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T17:00:00Z"
         }
       ]
     },
