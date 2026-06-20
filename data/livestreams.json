@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T00:05:49.658Z",
+  "lastUpdated": "2026-06-20T04:49:29.546Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,30 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/1rEcULwv7Bo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T11:30:00Z"
+        },
+        {
+          "id": "xd_gUtAr6ZQ",
+          "title": "Compline - 6/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/xd_gUtAr6ZQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8byHzHvpBn8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/8byHzHvpBn8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "71FIkBDbnWc",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 06/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/71FIkBDbnWc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7UDdsU9dL28",
           "title": "Sainte messe en semaine",
