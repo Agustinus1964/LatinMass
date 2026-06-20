@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T16:14:12.593Z",
+  "lastUpdated": "2026-06-20T17:53:15.725Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_lR-PW17eyo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-21T10:00:00Z"
+        },
+        {
+          "id": "lEXN_jsDFs0",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lEXN_jsDFs0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T12:00:00Z"
         },
         {
           "id": "IVKTC2gtnaI",
