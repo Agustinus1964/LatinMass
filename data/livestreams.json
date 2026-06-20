@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-20T04:49:29.546Z",
+  "lastUpdated": "2026-06-20T08:19:18.457Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "INpnLdA1j8A",
-          "title": "Hl. Messe - 20. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/INpnLdA1j8A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T05:15:00Z"
-        },
-        {
-          "id": "pCgfjmCZwtU",
-          "title": "The Blessed Virgin Mary on Saturday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/pCgfjmCZwtU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T07:30:00Z"
+          "id": "BpU72UyXjFw",
+          "title": "FSSPX Antwerpen - 20/06 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/BpU72UyXjFw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1rEcULwv7Bo",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xd_gUtAr6ZQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-21T00:45:00Z"
+        },
+        {
+          "id": "pX9mmA1bX2I",
+          "title": "Amt - 4. Sonntag nach Pfingsten - 21. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/pX9mmA1bX2I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T07:30:00Z"
         }
       ]
     },
@@ -51,17 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/7UDdsU9dL28/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T07:30:00Z"
-        },
-        {
-          "id": "7M95_CSPnxE",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/7M95_CSPnxE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4aOGA1n0ysg",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DGNZR4nkYwA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-20T13:00:00Z"
+        },
+        {
+          "id": "lI9moC5JhA4",
+          "title": "8am — St Aloysius",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lI9moC5JhA4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T07:00:00Z"
         }
       ]
     }
