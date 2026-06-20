@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-20T08:19:18.457Z",
+  "lastUpdated": "2026-06-20T10:56:00.856Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BpU72UyXjFw",
-          "title": "FSSPX Antwerpen - 20/06 ONZE-LIEVE-VROUW op ZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/BpU72UyXjFw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1rEcULwv7Bo",
           "title": "Low Mass - Rev. Fr. Sebastian OSB - First Mass - 6/20/26",
@@ -46,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7UDdsU9dL28",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/7UDdsU9dL28/mqdefault_live.jpg",
+          "id": "lI9moC5JhA4",
+          "title": "8am — St Aloysius",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lI9moC5JhA4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "4aOGA1n0ysg",
-          "title": "Saturday 21st June 2026: Saturday Mass of Our Lady",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/4aOGA1n0ysg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-20T09:30:00Z"
         },
         {
           "id": "YSud1SParx8",
@@ -82,13 +64,40 @@
           "scheduledTime": "2026-06-20T13:00:00Z"
         },
         {
-          "id": "lI9moC5JhA4",
-          "title": "8am — St Aloysius",
+          "id": "mYRWZHZ5m9I",
+          "title": "9:30am — St Aloysius",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lI9moC5JhA4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/mYRWZHZ5m9I/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-21T07:00:00Z"
+          "scheduledTime": "2026-06-21T08:30:00Z"
+        },
+        {
+          "id": "9u5o95Ft1M4",
+          "title": "Sainte messe du IVème dimanche après la Pentecôte - DOMINUS ILLUMINATIO MEA",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/9u5o95Ft1M4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T09:00:00Z"
+        },
+        {
+          "id": "3bzItuFcJmM",
+          "title": "Sunday 21st June 2026: Fourth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/3bzItuFcJmM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T09:30:00Z"
+        },
+        {
+          "id": "_lR-PW17eyo",
+          "title": "11am — St Aloysius",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_lR-PW17eyo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T10:00:00Z"
         }
       ]
     }
