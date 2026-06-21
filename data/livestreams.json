@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T23:43:00.270Z",
+  "lastUpdated": "2026-06-21T03:50:22.626Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,15 +48,6 @@
           "thumbnail": "https://i.ytimg.com/vi/u8WNCuqM-sU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-21T17:00:00Z"
-        },
-        {
-          "id": "vMoCB5VR8v8",
-          "title": "Simple II Vespers - 4th Sunday after Pentecost - 6/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vMoCB5VR8v8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-21T21:00:00Z"
         }
       ]
     },
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AJmJ1c4-j30/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-21T16:00:00Z"
+        },
+        {
+          "id": "bUNK3kJ4YjI",
+          "title": "Humble Obedience.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/bUNK3kJ4YjI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T18:00:00Z"
         }
       ]
     }
