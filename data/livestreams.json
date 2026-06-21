@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T18:58:46.597Z",
+  "lastUpdated": "2026-06-21T20:41:51.222Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,20 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rNK26eIA3Ik",
-          "title": "Sunday 1:30 PM Catholic Mass 06/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/rNK26eIA3Ik/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qsq_f4toNPw",
-          "title": "Santa Misa Dominical. 21 de junio 2026. 12:30",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/qsq_f4toNPw/mqdefault_live.jpg",
+          "id": "hL4qsLffhoE",
+          "title": "Santa Missa e Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/hL4qsLffhoE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
