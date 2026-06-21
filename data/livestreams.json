@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T22:11:05.655Z",
+  "lastUpdated": "2026-06-21T23:49:47.060Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hL4qsLffhoE",
-          "title": "Santa Missa e Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/hL4qsLffhoE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "1IllynF4b_s",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Paulinus of Nola, Bishop and Confessor)",
