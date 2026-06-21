@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-06-21T11:29:41.619Z",
+  "lastUpdated": "2026-06-21T13:23:13.895Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "c3pVjNzVgys",
-          "title": "4th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/c3pVjNzVgys/mqdefault_live.jpg",
+          "id": "Wu3qAA7PqzY",
+          "title": "Solemn High Mass - Rev. Fr. Caley - First Mass - 4th Sunday after Pentecost - 6/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Wu3qAA7PqzY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dD9347v1sLE",
+          "title": "Fourth Sunday After Pentecost",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/dD9347v1sLE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "LFGTAUwpu3Q",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/LFGTAUwpu3Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "nBxUaKOorsQ",
           "title": "7am Mass, Rosary, 8:30am Mass. Fourth Sunday after Pentecost. II. June 21, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,31 +73,40 @@
           "scheduledTime": null
         },
         {
-          "id": "R8yRG3s6XIY",
-          "title": "Sunday 7 AM Catholic Mass for 06/21/2026",
+          "id": "nIdig61fzCo",
+          "title": "Sunday 8:30 AM Catholic Mass for 06/21/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/R8yRG3s6XIY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/nIdig61fzCo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "rBi_wu8zDYg",
-          "title": "Missa rezada - IV Domingo depois de Pentecostes 2026",
+          "id": "V36eQXYBZxE",
+          "title": "Missa cantada - IV Domingo depois de Pentecostes 2026",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rBi_wu8zDYg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/V36eQXYBZxE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "lEXN_jsDFs0",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourth Sunday after Pentecost)",
+          "id": "AsiMKdZ7wXE",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Fourth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/lEXN_jsDFs0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/AsiMKdZ7wXE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-21T12:00:00Z"
+          "scheduledTime": "2026-06-21T14:30:00Z"
+        },
+        {
+          "id": "s5A_Xkpcb0w",
+          "title": "4th Sunday after Pentecost - 4e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/s5A_Xkpcb0w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-21T14:30:00Z"
         },
         {
           "id": "IVKTC2gtnaI",
