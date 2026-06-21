@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-21T17:02:43.370Z",
+  "lastUpdated": "2026-06-21T18:58:46.597Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "u8WNCuqM-sU",
-          "title": "IV Sunday after Pentecost | June 21st",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/u8WNCuqM-sU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0DzFJ8F0s5M",
           "title": "Hl. Messe - hl. Paul von Nola - 22. Juni 2026",
@@ -46,31 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YGffvmv2KyY",
-          "title": "FOURTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/YGffvmv2KyY/mqdefault_live.jpg",
+          "id": "rNK26eIA3Ik",
+          "title": "Sunday 1:30 PM Catholic Mass 06/21/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/rNK26eIA3Ik/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "JgnpA1rmDp8",
-          "title": "Santa Misa Dominical. 21 de junio 2026.",
+          "id": "qsq_f4toNPw",
+          "title": "Santa Misa Dominical. 21 de junio 2026. 12:30",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/JgnpA1rmDp8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qsq_f4toNPw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "bUNK3kJ4YjI",
-          "title": "Humble Obedience.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/bUNK3kJ4YjI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-21T18:00:00Z"
         },
         {
           "id": "1IllynF4b_s",
