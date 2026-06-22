@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-22T18:54:57.635Z",
+  "lastUpdated": "2026-06-22T21:29:41.706Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dcMCb8Aw6MM",
+          "title": "Vigil of the Nativity of St. John the Baptist Tue23June 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/dcMCb8Aw6MM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "RIoxb2fLSA4",
           "title": "Hl. Messe - Vigil der Geburt des hl. Johannes des Täufers - 23. Juni 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RIoxb2fLSA4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T05:15:00Z"
+        },
+        {
+          "id": "GcFR927x5zU",
+          "title": "Vigil of the Nativity of Saint John the Baptist",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/GcFR927x5zU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T07:15:00Z"
         },
         {
           "id": "55QuQQLwrDc",
@@ -37,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8sgWdbMuyqs",
-          "title": "Monday 22nd June 2026: Saint Paulinus of Nola",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/8sgWdbMuyqs/mqdefault_live.jpg",
+          "id": "pdR3KnSOR3E",
+          "title": "Terço e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/pdR3KnSOR3E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
