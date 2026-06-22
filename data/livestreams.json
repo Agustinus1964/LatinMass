@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-22T09:45:35.670Z",
+  "lastUpdated": "2026-06-22T15:21:25.135Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Bc4Xd6nRWuk",
-          "title": "Mon. Jun. 22, 2026    -    St. Paulinus,     Bishop and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Bc4Xd6nRWuk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-22T11:15:00Z"
+          "id": "SzlKLlQwnZ8",
+          "title": "FSSPX Antwerpen - 22/06 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SzlKLlQwnZ8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3pnswqUULGc",
@@ -30,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/RIoxb2fLSA4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T05:15:00Z"
+        },
+        {
+          "id": "55QuQQLwrDc",
+          "title": "Tue. Jun. 23, 2026    -    Vigil of the Nativity of St. John the Baptist",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/55QuQQLwrDc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1IllynF4b_s",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Paulinus of Nola, Bishop and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/1IllynF4b_s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-22T11:30:00Z"
-        },
         {
           "id": "-Trsd_rkkxs",
           "title": "Monday",
@@ -53,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-Trsd_rkkxs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-22T17:00:00Z"
+        },
+        {
+          "id": "zFqx8h8SFhY",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Nativity of Saint John the Baptist)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zFqx8h8SFhY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T11:30:00Z"
         }
       ]
     }
