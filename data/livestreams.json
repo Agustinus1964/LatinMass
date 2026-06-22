@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-22T15:21:25.135Z",
+  "lastUpdated": "2026-06-22T18:54:57.635Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SzlKLlQwnZ8",
-          "title": "FSSPX Antwerpen - 22/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SzlKLlQwnZ8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3pnswqUULGc",
-          "title": "Rosenkranz und hl. Messe - hl. Paul von Nola - 22. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3pnswqUULGc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-22T16:00:00Z"
-        },
         {
           "id": "RIoxb2fLSA4",
           "title": "Hl. Messe - Vigil der Geburt des hl. Johannes des Täufers - 23. Juni 2026",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/55QuQQLwrDc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T11:15:00Z"
+        },
+        {
+          "id": "PqEwshJIiTU",
+          "title": "Rosenkranz und hl. Messe - Vigil der Geburt des hl. Johannes des Täufers - 23. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/PqEwshJIiTU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T16:00:00Z"
         }
       ]
     },
@@ -46,13 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-Trsd_rkkxs",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/-Trsd_rkkxs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-22T17:00:00Z"
+          "id": "8sgWdbMuyqs",
+          "title": "Monday 22nd June 2026: Saint Paulinus of Nola",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/8sgWdbMuyqs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zFqx8h8SFhY",
@@ -62,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/zFqx8h8SFhY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T11:30:00Z"
+        },
+        {
+          "id": "SY9dGdAP6NY",
+          "title": "Tuesday 23rd June 2026: Vigil of the Nativity of St. John the Baptist",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/SY9dGdAP6NY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T17:00:00Z"
+        },
+        {
+          "id": "3dUZY5pgJTE",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/3dUZY5pgJTE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T17:00:00Z"
         }
       ]
     }
