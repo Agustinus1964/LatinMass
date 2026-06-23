@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-23T09:32:28.116Z",
+  "lastUpdated": "2026-06-23T12:30:01.569Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "55QuQQLwrDc",
-          "title": "Tue. Jun. 23, 2026    -    Vigil of the Nativity of St. John the Baptist",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/55QuQQLwrDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T11:15:00Z"
-        },
         {
           "id": "PqEwshJIiTU",
           "title": "Rosenkranz und hl. Messe - Vigil der Geburt des hl. Johannes des Täufers - 23. Juni 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iMAZTpBFq6E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T05:15:00Z"
+        },
+        {
+          "id": "gDuNb3uO0JM",
+          "title": "Wed. Jun. 24, 2026    -    Nativity of St. John the Baptist",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/gDuNb3uO0JM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T11:15:00Z"
         }
       ]
     },
@@ -37,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "17otEm1ZTZM",
-          "title": "Ofício e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/17otEm1ZTZM/mqdefault_live.jpg",
+          "id": "v5lNzUaz7pg",
+          "title": "Tuesday 8 AM Catholic Mass for 06/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/v5lNzUaz7pg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "zFqx8h8SFhY",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Nativity of Saint John the Baptist)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/zFqx8h8SFhY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T11:30:00Z"
         },
         {
           "id": "SY9dGdAP6NY",
@@ -62,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/SY9dGdAP6NY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T17:00:00Z"
+        },
+        {
+          "id": "u28DnmttHkY",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/u28DnmttHkY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-23T17:00:00Z"
+        },
+        {
+          "id": "dgmIoIuiqDI",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of Saint John the Baptist)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/dgmIoIuiqDI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T11:30:00Z"
         }
       ]
     }
