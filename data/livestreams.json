@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T01:28:56.363Z",
+  "lastUpdated": "2026-06-23T05:45:25.857Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/RIoxb2fLSA4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GcFR927x5zU",
@@ -20,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/GcFR927x5zU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-23T07:15:00Z"
+          "scheduledTime": "2026-06-23T06:15:00Z"
         },
         {
           "id": "55QuQQLwrDc",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PqEwshJIiTU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T16:00:00Z"
+        },
+        {
+          "id": "iMAZTpBFq6E",
+          "title": "Hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/iMAZTpBFq6E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T05:15:00Z"
         }
       ]
     },
