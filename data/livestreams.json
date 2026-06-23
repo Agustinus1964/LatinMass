@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-23T15:35:55.730Z",
+  "lastUpdated": "2026-06-23T17:49:05.464Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "405-MsJbEa0",
-          "title": "FSSPX Antwerpen - 23/06 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/405-MsJbEa0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PqEwshJIiTU",
-          "title": "Rosenkranz und hl. Messe - Vigil der Geburt des hl. Johannes des Täufers - 23. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/PqEwshJIiTU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T16:00:00Z"
-        },
         {
           "id": "iMAZTpBFq6E",
           "title": "Hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gDuNb3uO0JM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T11:15:00Z"
+        },
+        {
+          "id": "j-bo-Ps2PYk",
+          "title": "Rosenkranz und hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/j-bo-Ps2PYk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T16:00:00Z"
         }
       ]
     },
@@ -46,13 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "15xjLELwU74",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/15xjLELwU74/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "SY9dGdAP6NY",
           "title": "Tuesday 23rd June 2026: Vigil of the Nativity of St. John the Baptist",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/SY9dGdAP6NY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "u28DnmttHkY",
@@ -60,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/u28DnmttHkY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dgmIoIuiqDI",
@@ -71,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/dgmIoIuiqDI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T11:30:00Z"
+        },
+        {
+          "id": "iQSg8Xhi-JM",
+          "title": "Wednesday 24th June 2026: Nativity of St. John the Baptist",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/iQSg8Xhi-JM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T17:00:00Z"
+        },
+        {
+          "id": "Nd8SHsivO34",
+          "title": "Sainte messe de la fête de la Nativité de saint Jean Baptiste - DE VENTRE MATRIS MEÆ",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Nd8SHsivO34/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T17:00:00Z"
         }
       ]
     }
