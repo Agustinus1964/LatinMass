@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-23T05:45:25.857Z",
+  "lastUpdated": "2026-06-23T09:32:28.116Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RIoxb2fLSA4",
-          "title": "Hl. Messe - Vigil der Geburt des hl. Johannes des Täufers - 23. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/RIoxb2fLSA4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GcFR927x5zU",
-          "title": "Vigil of the Nativity of Saint John the Baptist",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/GcFR927x5zU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T06:15:00Z"
-        },
         {
           "id": "55QuQQLwrDc",
           "title": "Tue. Jun. 23, 2026    -    Vigil of the Nativity of St. John the Baptist",
@@ -55,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "17otEm1ZTZM",
+          "title": "Ofício e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/17otEm1ZTZM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "zFqx8h8SFhY",
           "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Nativity of Saint John the Baptist)",
           "channel": "Usus Antiquior",
@@ -69,15 +60,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/SY9dGdAP6NY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-23T17:00:00Z"
-        },
-        {
-          "id": "3dUZY5pgJTE",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/3dUZY5pgJTE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-23T17:00:00Z"
         }
