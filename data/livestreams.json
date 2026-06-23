@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-23T21:43:35.822Z",
+  "lastUpdated": "2026-06-23T23:05:50.311Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VD4Pc3gDTHA",
-          "title": "Mass of the Nativity of St. John the Baptist - 24.6.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/VD4Pc3gDTHA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "iMAZTpBFq6E",
           "title": "Hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
@@ -55,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sCWS1_zlH18",
-          "title": "Divine Office & 6pm Mass. Vigil of the Nativity of St. John the Baptist. II. Tuesday, June 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/sCWS1_zlH18/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "dgmIoIuiqDI",
           "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of Saint John the Baptist)",
           "channel": "Usus Antiquior",
@@ -89,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Nd8SHsivO34/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T17:00:00Z"
+        },
+        {
+          "id": "eRWWh_wuvWY",
+          "title": "Divine Office & 6pm Sung Mass. The Nativity of St. John the Baptist. I. Wednesday, June 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/eRWWh_wuvWY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T21:00:00Z"
+        },
+        {
+          "id": "4-QBC2io-EE",
+          "title": "NATIVITY OF SAINT JOHN THE BAPTIST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/4-QBC2io-EE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T23:00:00Z"
         }
       ]
     }
