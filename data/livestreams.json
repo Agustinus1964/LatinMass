@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-23T17:49:05.464Z",
+  "lastUpdated": "2026-06-23T19:57:27.809Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iMAZTpBFq6E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T05:15:00Z"
+        },
+        {
+          "id": "pboH2kOcSa8",
+          "title": "The Nativity of Saint John the Baptist",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/pboH2kOcSa8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-24T07:15:00Z"
         },
         {
           "id": "gDuNb3uO0JM",
@@ -36,33 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "15xjLELwU74",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/15xjLELwU74/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "SY9dGdAP6NY",
-          "title": "Tuesday 23rd June 2026: Vigil of the Nativity of St. John the Baptist",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/SY9dGdAP6NY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "u28DnmttHkY",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/u28DnmttHkY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dgmIoIuiqDI",
           "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of Saint John the Baptist)",
