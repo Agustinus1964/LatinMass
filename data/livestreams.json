@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-24T15:16:35.360Z",
+  "lastUpdated": "2026-06-24T17:25:10.702Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "j-bo-Ps2PYk",
-          "title": "Rosenkranz und hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/j-bo-Ps2PYk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T16:00:00Z"
-        },
         {
           "id": "iHI68JNQTos",
           "title": "Hl. Messe - hl. Wilhelm - 25. Juni 2026",
@@ -46,13 +37,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "73gZ04toKro",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/73gZ04toKro/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "iQSg8Xhi-JM",
           "title": "Wednesday 24th June 2026: Nativity of St. John the Baptist",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/iQSg8Xhi-JM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dBzz45Il4MQ",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/dBzz45Il4MQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nd8SHsivO34",
@@ -60,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Nd8SHsivO34/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eRWWh_wuvWY",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zwdnzYPvjmQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-25T11:30:00Z"
+        },
+        {
+          "id": "1dkTcNR-1M0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/1dkTcNR-1M0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T16:50:00Z"
         }
       ]
     }
