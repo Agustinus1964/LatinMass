@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-06-24T05:33:41.521Z",
+  "lastUpdated": "2026-06-24T09:21:41.181Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ley2cMW6cRU",
-          "title": "FSSPX Antwerpen - 24/06 GEBOORTE van de H. JOHANNES de DOPER",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ley2cMW6cRU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iMAZTpBFq6E",
-          "title": "Hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/iMAZTpBFq6E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pboH2kOcSa8",
-          "title": "The Nativity of Saint John the Baptist",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/pboH2kOcSa8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T06:15:00Z"
-        },
         {
           "id": "gDuNb3uO0JM",
           "title": "Wed. Jun. 24, 2026    -    Nativity of St. John the Baptist",
@@ -63,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "iSLX_T0ljH0",
+          "title": "Ofício de Laudes e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/iSLX_T0ljH0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dgmIoIuiqDI",
           "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of Saint John the Baptist)",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4-QBC2io-EE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T23:00:00Z"
+        },
+        {
+          "id": "fqOta_oAIH8",
+          "title": "Thursday 25th June 2026: Saint William",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/fqOta_oAIH8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T07:00:00Z"
         }
       ]
     }
