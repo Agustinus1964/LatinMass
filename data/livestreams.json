@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-06-24T01:23:34.778Z",
+  "lastUpdated": "2026-06-24T05:33:41.521Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ley2cMW6cRU",
+          "title": "FSSPX Antwerpen - 24/06 GEBOORTE van de H. JOHANNES de DOPER",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ley2cMW6cRU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "iMAZTpBFq6E",
           "title": "Hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/iMAZTpBFq6E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pboH2kOcSa8",
@@ -20,7 +29,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/pboH2kOcSa8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-24T07:15:00Z"
+          "scheduledTime": "2026-06-24T06:15:00Z"
         },
         {
           "id": "gDuNb3uO0JM",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/j-bo-Ps2PYk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-24T16:00:00Z"
+        },
+        {
+          "id": "iHI68JNQTos",
+          "title": "Hl. Messe - hl. Wilhelm - 25. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/iHI68JNQTos/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T05:15:00Z"
         }
       ]
     },
