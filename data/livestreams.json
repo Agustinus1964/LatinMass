@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-24T09:21:41.181Z",
+  "lastUpdated": "2026-06-24T12:04:11.533Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gDuNb3uO0JM",
-          "title": "Wed. Jun. 24, 2026    -    Nativity of St. John the Baptist",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gDuNb3uO0JM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T11:15:00Z"
-        },
         {
           "id": "j-bo-Ps2PYk",
           "title": "Rosenkranz und hl. Messe - Geburt des hl. Johannes des Täufers - 24. Juni 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iHI68JNQTos/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-25T05:15:00Z"
+        },
+        {
+          "id": "_23OwlPxFCY",
+          "title": "Thu. Jun. 25, 2026    -    St. William",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/_23OwlPxFCY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T11:15:00Z"
         }
       ]
     },
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iSLX_T0ljH0",
-          "title": "Ofício de Laudes e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/iSLX_T0ljH0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "dgmIoIuiqDI",
           "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of Saint John the Baptist)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/dgmIoIuiqDI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "qgw21uT_KHE",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 06/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/qgw21uT_KHE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iQSg8Xhi-JM",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fqOta_oAIH8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-25T07:00:00Z"
+        },
+        {
+          "id": "WMjudn343ik",
+          "title": "7am Mass. St. William, Abbot. III. Thursday, June 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WMjudn343ik/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T11:00:00Z"
         }
       ]
     }
