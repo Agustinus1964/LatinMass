@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T21:08:32.272Z",
+  "lastUpdated": "2026-06-24T22:45:25.914Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,11 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "ZuDfwFr2OaM",
-          "title": "Rosário",
+          "id": "aH_75kzzcYo",
+          "title": "Santa Missa Cantada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ZuDfwFr2OaM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/aH_75kzzcYo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1dkTcNR-1M0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-25T16:50:00Z"
+        },
+        {
+          "id": "Dh2qJzUzRDg",
+          "title": "6pm Mass. St. William, Abbot. III. Thursday, June 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Dh2qJzUzRDg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T22:00:00Z"
         }
       ]
     }
