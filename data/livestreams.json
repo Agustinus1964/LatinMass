@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T19:08:52.223Z",
+  "lastUpdated": "2026-06-24T21:08:32.272Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iHI68JNQTos/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-25T05:15:00Z"
+        },
+        {
+          "id": "-1pkw1rCtZA",
+          "title": "Saint William, abbot",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/-1pkw1rCtZA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-25T07:15:00Z"
         },
         {
           "id": "_23OwlPxFCY",
@@ -42,8 +51,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/eRWWh_wuvWY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ZuDfwFr2OaM",
+          "title": "Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ZuDfwFr2OaM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4-QBC2io-EE",
