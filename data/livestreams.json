@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T13:34:25.142Z",
+  "lastUpdated": "2026-06-25T16:20:28.682Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/C95Pb5lk4SY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-25T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "X1sd4vsyW2M",
@@ -62,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Dh2qJzUzRDg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-25T22:00:00Z"
+        },
+        {
+          "id": "iGU6g9LCM1g",
+          "title": "11am Mass. Ss. John & Paul, Martyrs. III. Friday, June 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/iGU6g9LCM1g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-26T15:00:00Z"
         }
       ]
     }
