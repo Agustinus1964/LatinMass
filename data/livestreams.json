@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T00:07:38.688Z",
+  "lastUpdated": "2026-06-25T04:43:02.419Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4-QBC2io-EE",
-          "title": "NATIVITY OF SAINT JOHN THE BAPTIST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/4-QBC2io-EE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fqOta_oAIH8",
           "title": "Thursday 25th June 2026: Saint William",
