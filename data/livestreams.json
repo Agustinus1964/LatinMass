@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T22:45:25.914Z",
+  "lastUpdated": "2026-06-25T00:07:38.688Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "eRWWh_wuvWY",
-          "title": "Divine Office & 6pm Sung Mass. The Nativity of St. John the Baptist. I. Wednesday, June 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/eRWWh_wuvWY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "aH_75kzzcYo",
-          "title": "Santa Missa Cantada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/aH_75kzzcYo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "4-QBC2io-EE",
           "title": "NATIVITY OF SAINT JOHN THE BAPTIST, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/4-QBC2io-EE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-24T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fqOta_oAIH8",
