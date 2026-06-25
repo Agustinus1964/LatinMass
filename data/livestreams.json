@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-25T16:20:28.682Z",
+  "lastUpdated": "2026-06-25T18:31:03.552Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dCy136l2uAQ",
-          "title": "FSSPX Antwerpen - 25/06 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dCy136l2uAQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "C95Pb5lk4SY",
-          "title": "Sakramentsandacht und hl. Messe - hl. Wilhelm - 25. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/C95Pb5lk4SY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "X1sd4vsyW2M",
           "title": "Hl. Messe - hll. Johannes und Paulus - 26. Juni 2026",
@@ -46,15 +28,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1dkTcNR-1M0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/1dkTcNR-1M0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-25T16:50:00Z"
-        },
-        {
           "id": "Dh2qJzUzRDg",
           "title": "6pm Mass. St. William, Abbot. III. Thursday, June 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -71,6 +44,24 @@
           "thumbnail": "https://i.ytimg.com/vi/iGU6g9LCM1g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-26T15:00:00Z"
+        },
+        {
+          "id": "Ok4yF3H7fpQ",
+          "title": "Friday 26th June 2026: Saints John and Paul",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Ok4yF3H7fpQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-26T17:00:00Z"
+        },
+        {
+          "id": "VMt-OUJv34o",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/VMt-OUJv34o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-26T17:00:00Z"
         }
       ]
     }
