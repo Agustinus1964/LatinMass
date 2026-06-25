@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T18:31:03.552Z",
+  "lastUpdated": "2026-06-25T20:53:32.659Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -29,16 +29,25 @@
       "videos": [
         {
           "id": "Dh2qJzUzRDg",
-          "title": "6pm Mass. St. William, Abbot. III. Thursday, June 25, 2026.",
+          "title": "Divine Office & 6pm Mass. St. William, Abbot. III. Thursday, June 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Dh2qJzUzRDg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-25T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "BC6pEougKZY",
+          "title": "Adoração ao Santíssimo e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/BC6pEougKZY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iGU6g9LCM1g",
-          "title": "11am Mass. Ss. John & Paul, Martyrs. III. Friday, June 26, 2026.",
+          "title": "11am Mass & Divine Office. Ss. John & Paul, Martyrs. III. Friday, June 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/iGU6g9LCM1g/mqdefault_live.jpg",
