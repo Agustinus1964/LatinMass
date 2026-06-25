@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-25T08:20:02.349Z",
+  "lastUpdated": "2026-06-25T11:13:28.394Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/_23OwlPxFCY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-25T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "C95Pb5lk4SY",
@@ -42,8 +42,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/WMjudn343ik/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-25T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zwdnzYPvjmQ",
