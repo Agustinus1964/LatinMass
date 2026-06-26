@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T06:58:35.543Z",
+  "lastUpdated": "2026-06-26T10:25:07.023Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/glDGxvET_Sk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-26T22:30:00Z"
+        },
+        {
+          "id": "Is-EmK7r8hQ",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Is-EmK7r8hQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-27T07:30:00Z"
+        },
+        {
+          "id": "7FixWb6vLeo",
+          "title": "Saturday 27th June 2026: Our Lady of Perpetual Help",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/7FixWb6vLeo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-27T09:30:00Z"
         }
       ]
     }
