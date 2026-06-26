@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-26T02:58:42.126Z",
+  "lastUpdated": "2026-06-26T06:58:35.543Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "X1sd4vsyW2M",
-          "title": "Hl. Messe - hll. Johannes und Paulus - 26. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/X1sd4vsyW2M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T05:15:00Z"
+          "id": "VEDBrh6zkik",
+          "title": "Saints John and Paul, martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/VEDBrh6zkik/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qXhHrtg3JqU",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qXhHrtg3JqU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-26T11:15:00Z"
+        },
+        {
+          "id": "fSWhwLdDmW8",
+          "title": "Hl. Messe - 27. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fSWhwLdDmW8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-27T05:15:00Z"
         }
       ]
     },
