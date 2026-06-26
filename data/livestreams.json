@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T15:21:37.406Z",
+  "lastUpdated": "2026-06-26T17:14:55.640Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/VEDBrh6zkik/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8KnYjD3qgEg",
-          "title": "FSSPX Antwerpen - 26/06 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/8KnYjD3qgEg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -46,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iGU6g9LCM1g",
-          "title": "11am Mass & Divine Office. Ss. John & Paul, Martyrs. III. Friday, June 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iGU6g9LCM1g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Ok4yF3H7fpQ",
           "title": "Friday 26th June 2026: Saints John and Paul",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Ok4yF3H7fpQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "obsaEW6MtTU",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/obsaEW6MtTU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VMt-OUJv34o",
@@ -69,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/VMt-OUJv34o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vNIa_o775tA",
