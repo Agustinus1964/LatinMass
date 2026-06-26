@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T21:05:17.144Z",
+  "lastUpdated": "2026-06-26T22:43:13.383Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "glDGxvET_Sk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints John and Paul, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/glDGxvET_Sk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "vNIa_o775tA",
           "title": "Divine Office, 6pm Mass & Holy Hour. Ss. John & Paul, Martyrs. III. Friday, June 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -44,24 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vNIa_o775tA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "0Q4DyDKVb_I",
-          "title": "Rosarium et Sancta Missa Ss. Joannis et Pauli Martyrum ~ III. classis",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/0Q4DyDKVb_I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "glDGxvET_Sk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints John and Paul, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/glDGxvET_Sk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T22:30:00Z"
         },
         {
           "id": "Is-EmK7r8hQ",
