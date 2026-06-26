@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T10:25:07.023Z",
+  "lastUpdated": "2026-06-26T12:30:53.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,15 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "qXhHrtg3JqU",
-          "title": "Fri. Jun. 26, 2026    -    Sts. John and Paul,    Martyrs",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qXhHrtg3JqU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T11:15:00Z"
-        },
-        {
           "id": "fSWhwLdDmW8",
           "title": "Hl. Messe - 27. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -30,12 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/fSWhwLdDmW8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-27T05:15:00Z"
+        },
+        {
+          "id": "DbZgK4m_H7Q",
+          "title": "Sat. Jun. 27, 2026    -    Our Lady of Perpetual Help",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/DbZgK4m_H7Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-27T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "T-v5vYuL0CQ",
+          "title": "Friday 8 AM Catholic Mass for 06/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/T-v5vYuL0CQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "iGU6g9LCM1g",
           "title": "11am Mass & Divine Office. Ss. John & Paul, Martyrs. III. Friday, June 26, 2026.",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7FixWb6vLeo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-27T09:30:00Z"
+        },
+        {
+          "id": "dUOMbg6ePV8",
+          "title": "8:30 Rosary & 9am Mass. Our Lady of Perpetual Help. IV. Saturday, June 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/dUOMbg6ePV8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-27T12:30:00Z"
         }
       ]
     }
