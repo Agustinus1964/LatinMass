@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T19:17:02.551Z",
+  "lastUpdated": "2026-06-26T21:05:17.144Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -42,8 +42,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/vNIa_o775tA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0Q4DyDKVb_I",
+          "title": "Rosarium et Sancta Missa Ss. Joannis et Pauli Martyrum ~ III. classis",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/0Q4DyDKVb_I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "glDGxvET_Sk",
