@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T12:30:53.002Z",
+  "lastUpdated": "2026-06-26T15:21:37.406Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/VEDBrh6zkik/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8KnYjD3qgEg",
+          "title": "FSSPX Antwerpen - 26/06 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/8KnYjD3qgEg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -37,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "T-v5vYuL0CQ",
-          "title": "Friday 8 AM Catholic Mass for 06/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/T-v5vYuL0CQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "iGU6g9LCM1g",
           "title": "11am Mass & Divine Office. Ss. John & Paul, Martyrs. III. Friday, June 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/iGU6g9LCM1g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-26T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ok4yF3H7fpQ",
