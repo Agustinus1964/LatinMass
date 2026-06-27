@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T10:03:28.251Z",
+  "lastUpdated": "2026-06-27T11:52:08.589Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -18,15 +18,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7FixWb6vLeo",
-          "title": "Saturday 27th June 2026: Our Lady of Perpetual Help",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/7FixWb6vLeo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Is-EmK7r8hQ",
           "title": "Sainte messe en semaine",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uaIsTD2PAEA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T10:00:00Z"
+        },
+        {
+          "id": "Kyl678x3OXk",
+          "title": "7am Mass, Rosary, 8:30am Sung Mass. 5th Sunday after Pentecost. Vigil of Ss. Peter & Paul, Apostles.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Kyl678x3OXk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T11:00:00Z"
         }
       ]
     }
