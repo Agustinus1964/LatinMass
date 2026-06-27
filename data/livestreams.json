@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T07:46:15.093Z",
+  "lastUpdated": "2026-06-27T10:03:28.251Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,6 +19,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "7FixWb6vLeo",
+          "title": "Saturday 27th June 2026: Our Lady of Perpetual Help",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/7FixWb6vLeo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Is-EmK7r8hQ",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -26,24 +35,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Is-EmK7r8hQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6Yw6V7RGx5A",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/6Yw6V7RGx5A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-27T07:30:00Z"
-        },
-        {
-          "id": "7FixWb6vLeo",
-          "title": "Saturday 27th June 2026: Our Lady of Perpetual Help",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/7FixWb6vLeo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-27T09:30:00Z"
         },
         {
           "id": "dUOMbg6ePV8",
@@ -62,6 +53,42 @@
           "thumbnail": "https://i.ytimg.com/vi/SaknO1SNOkM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-27T13:00:00Z"
+        },
+        {
+          "id": "VhkXQ4DwR-M",
+          "title": "9:30am — Ss. Peter and Paul",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/VhkXQ4DwR-M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T08:30:00Z"
+        },
+        {
+          "id": "dF08JzzxWQY",
+          "title": "Sainte messe du Vème dimanche après la Pentecôte - EXAUDI DOMINE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/dF08JzzxWQY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T09:00:00Z"
+        },
+        {
+          "id": "tNaKAmihwHE",
+          "title": "Sunday 28th June 2026: Fifth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/tNaKAmihwHE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T09:30:00Z"
+        },
+        {
+          "id": "uaIsTD2PAEA",
+          "title": "11am — Ss. Peter and Paul",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/uaIsTD2PAEA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T10:00:00Z"
         }
       ]
     }
