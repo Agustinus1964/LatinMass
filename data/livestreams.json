@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T00:02:52.586Z",
+  "lastUpdated": "2026-06-27T04:32:43.578Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,48 +21,12 @@
           "thumbnail": "https://i.ytimg.com/vi/fSWhwLdDmW8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-27T05:15:00Z"
-        },
-        {
-          "id": "DbZgK4m_H7Q",
-          "title": "Sat. Jun. 27, 2026    -    Our Lady of Perpetual Help",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/DbZgK4m_H7Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-27T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VvN7i2Hjrtc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/VvN7i2Hjrtc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vNIa_o775tA",
-          "title": "Divine Office, 6pm Mass & Holy Hour. Ss. John & Paul, Martyrs. III. Friday, June 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vNIa_o775tA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "UmUTGaOOVI4",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 06/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UmUTGaOOVI4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Is-EmK7r8hQ",
           "title": "Sainte messe en semaine",
@@ -89,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dUOMbg6ePV8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-27T12:30:00Z"
+        },
+        {
+          "id": "SaknO1SNOkM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/SaknO1SNOkM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-27T13:00:00Z"
         }
       ]
     }
