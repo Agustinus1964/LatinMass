@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T11:52:08.589Z",
+  "lastUpdated": "2026-06-27T13:25:11.786Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,11 +19,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Is-EmK7r8hQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Is-EmK7r8hQ/mqdefault_live.jpg",
+          "id": "SaknO1SNOkM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/SaknO1SNOkM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -33,17 +33,26 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/dUOMbg6ePV8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-27T12:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "SaknO1SNOkM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/SaknO1SNOkM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-27T13:00:00Z"
+          "id": "QC6cKz4fd-8",
+          "title": "Saturday 9 AM Traditional Catholic Mass 06/27/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QC6cKz4fd-8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Is-EmK7r8hQ",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Is-EmK7r8hQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VhkXQ4DwR-M",
