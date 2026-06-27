@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T14:59:52.081Z",
+  "lastUpdated": "2026-06-27T16:14:19.883Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UlhFFawj0zE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T07:30:00Z"
+        },
+        {
+          "id": "6s8ltnK9USE",
+          "title": "Vesper und Sakramentsandacht - 5. Sonntag nach Pfingsten - 28. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6s8ltnK9USE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T15:30:00Z"
         }
       ]
     },
@@ -71,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/znbD0IVpMbY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T14:45:00Z"
+        },
+        {
+          "id": "77wyj1lTQwQ",
+          "title": "FIFTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/77wyj1lTQwQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T15:30:00Z"
+        },
+        {
+          "id": "S2PtJADaltM",
+          "title": "Vêpres de la fête de saint Pierre et saint Paul - TU ES PASTOR OVIUM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/S2PtJADaltM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T15:45:00Z"
+        },
+        {
+          "id": "afq0mPgPh_s",
+          "title": "Vespers and Benediction — Ss. Peter and Paul",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/afq0mPgPh_s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T16:00:00Z"
         }
       ]
     }
