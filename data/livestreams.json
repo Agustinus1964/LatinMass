@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T13:25:11.786Z",
+  "lastUpdated": "2026-06-27T14:59:52.081Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -18,51 +18,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SaknO1SNOkM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/SaknO1SNOkM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dUOMbg6ePV8",
-          "title": "8:30 Rosary & 9am Mass. Our Lady of Perpetual Help. IV. Saturday, June 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/dUOMbg6ePV8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QC6cKz4fd-8",
-          "title": "Saturday 9 AM Traditional Catholic Mass 06/27/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QC6cKz4fd-8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Is-EmK7r8hQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Is-EmK7r8hQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VhkXQ4DwR-M",
-          "title": "9:30am — Ss. Peter and Paul",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/VhkXQ4DwR-M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T08:30:00Z"
-        },
         {
           "id": "dF08JzzxWQY",
           "title": "Sainte messe du Vème dimanche après la Pentecôte - EXAUDI DOMINE",
@@ -98,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Kyl678x3OXk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T11:00:00Z"
+        },
+        {
+          "id": "1e5G6vazp30",
+          "title": "10:30am Sung Mass. Fifth Sunday after Pentecost. II. Vigil of Ss. Peter & Paul, Apostles. 6-28-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/1e5G6vazp30/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T14:30:00Z"
+        },
+        {
+          "id": "znbD0IVpMbY",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/znbD0IVpMbY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T14:45:00Z"
         }
       ]
     }
