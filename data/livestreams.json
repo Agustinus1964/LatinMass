@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-06-27T04:32:43.578Z",
+  "lastUpdated": "2026-06-27T07:46:15.093Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "VEDBrh6zkik",
-          "title": "Saints John and Paul, martyrs",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/VEDBrh6zkik/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fSWhwLdDmW8",
-          "title": "Hl. Messe - 27. Juni 2026",
+          "id": "UlhFFawj0zE",
+          "title": "Amt - 5. Sonntag nach Pfingsten - 28. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fSWhwLdDmW8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UlhFFawj0zE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-27T05:15:00Z"
+          "scheduledTime": "2026-06-28T07:30:00Z"
         }
       ]
     },
@@ -33,6 +24,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Is-EmK7r8hQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6Yw6V7RGx5A",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6Yw6V7RGx5A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-27T07:30:00Z"
         },
