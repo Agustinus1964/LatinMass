@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-26T22:43:13.383Z",
+  "lastUpdated": "2026-06-27T00:02:52.586Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "glDGxvET_Sk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints John and Paul, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/glDGxvET_Sk/mqdefault_live.jpg",
+          "id": "VvN7i2Hjrtc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/VvN7i2Hjrtc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -51,6 +51,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/vNIa_o775tA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UmUTGaOOVI4",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 06/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/UmUTGaOOVI4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
