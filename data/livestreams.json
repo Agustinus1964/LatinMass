@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-28T16:41:38.787Z",
+  "lastUpdated": "2026-06-28T18:02:31.334Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6s8ltnK9USE",
-          "title": "Vesper und Sakramentsandacht - 5. Sonntag nach Pfingsten - 28. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6s8ltnK9USE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oQvba0HlZxQ",
-          "title": "V Sunday after Pentecost | June 28th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/oQvba0HlZxQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T17:00:00Z"
-        },
         {
           "id": "WL3YSHlM9pY",
           "title": "FSSPX Antwerpen - 29/06 FEEST van de HH. APOSTELEN PETRUS en PAULUS",
@@ -46,29 +28,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8MhNGOknlog",
-          "title": "Mass",
+          "id": "Txw0i47u4gc",
+          "title": "Pray & Make Sacrifices for Your Persecutors",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/8MhNGOknlog/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Txw0i47u4gc/mqdefault.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "77wyj1lTQwQ",
-          "title": "FIFTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/77wyj1lTQwQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QQ5gZGT8DWA",
-          "title": "Sunday 11 AM Sung Mass 2026-06-28",
+          "id": "PBE0mVW0HH4",
+          "title": "Sunday 1:30 PM Catholic Mass 06/28/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QQ5gZGT8DWA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/PBE0mVW0HH4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,33 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ojfTPy9_oqY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wIet31f4HT4",
-          "title": "Vespers and Benediction — Ss. Peter and Paul",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wIet31f4HT4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "S2PtJADaltM",
-          "title": "Vêpres de la fête de saint Pierre et saint Paul - TU ES PASTOR OVIUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/S2PtJADaltM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Txw0i47u4gc",
-          "title": "Pray & Make Sacrifices for Your Persecutors",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Txw0i47u4gc/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T18:00:00Z"
         },
         {
           "id": "4Uhi8Q2K9j8",
@@ -134,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/XDNCoUDndPE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T11:30:00Z"
+        },
+        {
+          "id": "PP7Av0_TPvE",
+          "title": "Monday 29th June 2026: Saints Peter and Paul",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/PP7Av0_TPvE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T17:00:00Z"
+        },
+        {
+          "id": "ef6hY4vFCuQ",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ef6hY4vFCuQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T17:00:00Z"
+        },
+        {
+          "id": "zTZHud6fCdI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/zTZHud6fCdI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T17:00:00Z"
         }
       ]
     }
