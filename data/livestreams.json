@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-06-27T23:11:07.743Z",
+  "lastUpdated": "2026-06-28T01:32:45.046Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ckb1IFhcZgs",
+          "title": "FIFTH SUNDAY AFTER PENTECOST - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ckb1IFhcZgs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "UlhFFawj0zE",
           "title": "Amt - 5. Sonntag nach Pfingsten - 28. Juni 2026",
@@ -71,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Kyl678x3OXk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T11:00:00Z"
+        },
+        {
+          "id": "PucflC1BC7U",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fifth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PucflC1BC7U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T12:00:00Z"
+        },
+        {
+          "id": "ZfrPXRiSdjA",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Saints John and Paul, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZfrPXRiSdjA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T14:30:00Z"
         },
         {
           "id": "1e5G6vazp30",
