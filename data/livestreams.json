@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T20:57:24.679Z",
+  "lastUpdated": "2026-06-28T22:03:30.199Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "4Uhi8Q2K9j8",
+          "title": "5th Sunday after Pentecost / 5e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/4Uhi8Q2K9j8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "qrxSnCtnDjU",
           "title": "Missa Rezada e ofício do Rosário",
           "channel": "Missa Tridentina em Brasília",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qrxSnCtnDjU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "4Uhi8Q2K9j8",
-          "title": "5th Sunday after Pentecost / 5e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/4Uhi8Q2K9j8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T21:30:00Z"
         },
         {
           "id": "BqOj-eQX7RM",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zTZHud6fCdI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T17:00:00Z"
+        },
+        {
+          "id": "xJwvuYaDq4Q",
+          "title": "6pm Sung Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/xJwvuYaDq4Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T22:00:00Z"
         }
       ]
     }
