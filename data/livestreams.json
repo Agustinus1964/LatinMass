@@ -1,24 +1,33 @@
 {
-  "lastUpdated": "2026-06-28T13:39:00.947Z",
+  "lastUpdated": "2026-06-28T15:15:09.219Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jBmzdRwAg10",
-          "title": "Fifth Sunday After Pentecost-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/jBmzdRwAg10/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "kDw549W6j4Y",
           "title": "V Sunday After Pentecost",
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/kDw549W6j4Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "4aavUyj_MHc",
+          "title": "Fifth Sunday after Pentecost, June 28, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/4aavUyj_MHc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "vF6Gf_L5LY8",
+          "title": "Sun. Jun. 28, 2026    -    Fifth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/vF6Gf_L5LY8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -73,40 +82,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "yCkNBk-hrJ0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/yCkNBk-hrJ0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "F9uyABww7IA",
-          "title": "Sunday 8:30 AM Catholic Mass for 06/28/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/F9uyABww7IA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "UyHO35S4ybs",
-          "title": "Missa Cantada V Domingo Depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/UyHO35S4ybs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ZfrPXRiSdjA",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (Saints John and Paul, Martyrs)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/ZfrPXRiSdjA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8MhNGOknlog",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/8MhNGOknlog/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1e5G6vazp30",
@@ -114,17 +105,26 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/1e5G6vazp30/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "5jFg1V4tctQ",
-          "title": "5th Sunday after Pentecost - 5e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/5jFg1V4tctQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T14:30:00Z"
+          "id": "QQ5gZGT8DWA",
+          "title": "Sunday 11 AM Sung Mass 2026-06-28",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QQ5gZGT8DWA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ojfTPy9_oqY",
+          "title": "Santa Misa Dominical. 28 de junio, 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/ojfTPy9_oqY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "znbD0IVpMbY",
@@ -132,8 +132,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/znbD0IVpMbY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "77wyj1lTQwQ",
