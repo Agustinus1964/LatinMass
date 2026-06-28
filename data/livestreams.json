@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-06-28T11:44:49.992Z",
+  "lastUpdated": "2026-06-28T13:39:00.947Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "DvZIbcnc59w",
-          "title": "5th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/DvZIbcnc59w/mqdefault_live.jpg",
+          "id": "jBmzdRwAg10",
+          "title": "Fifth Sunday After Pentecost-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/jBmzdRwAg10/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kDw549W6j4Y",
+          "title": "V Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/kDw549W6j4Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mxCub8HvPUU",
+          "title": "FSSPX Antwerpen - 28/06 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/mxCub8HvPUU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,40 +73,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Kyl678x3OXk",
-          "title": "7am Mass, Rosary, 8:30am Sung Mass. 5th Sunday after Pentecost. Vigil of Ss. Peter & Paul, Apostles.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Kyl678x3OXk/mqdefault_live.jpg",
+          "id": "yCkNBk-hrJ0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/yCkNBk-hrJ0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "pZLKv4n3q6s",
-          "title": "Sunday 7 AM Catholic Mass for 06/28/2026",
+          "id": "F9uyABww7IA",
+          "title": "Sunday 8:30 AM Catholic Mass for 06/28/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/pZLKv4n3q6s/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/F9uyABww7IA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "wFUtw68dG4o",
-          "title": "Missa rezada - V Domingo depois de Pentecostes 2026",
+          "id": "UyHO35S4ybs",
+          "title": "Missa Cantada V Domingo Depois de Pentecostes",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/wFUtw68dG4o/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UyHO35S4ybs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "PucflC1BC7U",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fifth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PucflC1BC7U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T12:00:00Z"
         },
         {
           "id": "ZfrPXRiSdjA",
@@ -105,6 +114,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/1e5G6vazp30/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T14:30:00Z"
+        },
+        {
+          "id": "5jFg1V4tctQ",
+          "title": "5th Sunday after Pentecost - 5e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/5jFg1V4tctQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T14:30:00Z"
         },
