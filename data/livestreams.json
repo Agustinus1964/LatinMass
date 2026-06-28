@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-06-28T06:14:26.876Z",
+  "lastUpdated": "2026-06-28T09:40:08.616Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "UlhFFawj0zE",
-          "title": "Amt - 5. Sonntag nach Pfingsten - 28. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UlhFFawj0zE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T07:30:00Z"
+          "id": "vngleQPrwmk",
+          "title": "FSSPX Antwerpen - 28/06 5° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/vngleQPrwmk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hHLAeI4TT_M",
@@ -19,8 +19,17 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/hHLAeI4TT_M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DvZIbcnc59w",
+          "title": "5th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/DvZIbcnc59w/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-28T08:25:00Z"
+          "scheduledTime": "2026-06-28T10:00:00Z"
         },
         {
           "id": "6s8ltnK9USE",
@@ -55,22 +64,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dF08JzzxWQY",
-          "title": "Sainte messe du Vème dimanche après la Pentecôte - EXAUDI DOMINE",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/dF08JzzxWQY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T09:00:00Z"
-        },
-        {
           "id": "tNaKAmihwHE",
           "title": "Sunday 28th June 2026: Fifth Sunday after Pentecost",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/tNaKAmihwHE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dF08JzzxWQY",
+          "title": "Sainte messe du Vème dimanche après la Pentecôte - EXAUDI DOMINE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/dF08JzzxWQY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1Y2pj3BDr30",
+          "title": "11am — Ss. Peter and Paul",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1Y2pj3BDr30/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-06-28T09:30:00Z"
+          "scheduledTime": "2026-06-28T10:00:00Z"
         },
         {
           "id": "Kyl678x3OXk",
@@ -136,11 +154,11 @@
           "scheduledTime": "2026-06-28T15:45:00Z"
         },
         {
-          "id": "afq0mPgPh_s",
+          "id": "55ktzgsmnFs",
           "title": "Vespers and Benediction — Ss. Peter and Paul",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/afq0mPgPh_s/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/55ktzgsmnFs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T16:00:00Z"
         },
