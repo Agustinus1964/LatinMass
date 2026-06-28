@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-06-28T15:15:09.219Z",
+  "lastUpdated": "2026-06-28T16:41:38.787Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kDw549W6j4Y",
-          "title": "V Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/kDw549W6j4Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4aavUyj_MHc",
-          "title": "Fifth Sunday after Pentecost, June 28, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/4aavUyj_MHc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vF6Gf_L5LY8",
-          "title": "Sun. Jun. 28, 2026    -    Fifth Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/vF6Gf_L5LY8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mxCub8HvPUU",
-          "title": "FSSPX Antwerpen - 28/06 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/mxCub8HvPUU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6s8ltnK9USE",
           "title": "Vesper und Sakramentsandacht - 5. Sonntag nach Pfingsten - 28. Juni 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/6s8ltnK9USE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oQvba0HlZxQ",
@@ -82,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZfrPXRiSdjA",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Saints John and Paul, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZfrPXRiSdjA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "8MhNGOknlog",
           "title": "Mass",
           "channel": "ICKSP",
@@ -100,11 +55,11 @@
           "scheduledTime": null
         },
         {
-          "id": "1e5G6vazp30",
-          "title": "10:30am Sung Mass. Fifth Sunday after Pentecost. II. Vigil of Ss. Peter & Paul, Apostles. 6-28-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/1e5G6vazp30/mqdefault_live.jpg",
+          "id": "77wyj1lTQwQ",
+          "title": "FIFTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/77wyj1lTQwQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -127,22 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "znbD0IVpMbY",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/znbD0IVpMbY/mqdefault_live.jpg",
+          "id": "wIet31f4HT4",
+          "title": "Vespers and Benediction — Ss. Peter and Paul",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/wIet31f4HT4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "77wyj1lTQwQ",
-          "title": "FIFTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/77wyj1lTQwQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T15:30:00Z"
         },
         {
           "id": "S2PtJADaltM",
@@ -150,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/S2PtJADaltM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-28T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Txw0i47u4gc",
@@ -163,6 +109,15 @@
           "scheduledTime": "2026-06-28T18:00:00Z"
         },
         {
+          "id": "4Uhi8Q2K9j8",
+          "title": "5th Sunday after Pentecost / 5e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/4Uhi8Q2K9j8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T21:30:00Z"
+        },
+        {
           "id": "BqOj-eQX7RM",
           "title": "7am Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -170,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BqOj-eQX7RM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T11:00:00Z"
+        },
+        {
+          "id": "XDNCoUDndPE",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Peter and Paul, Apostles)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/XDNCoUDndPE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T11:30:00Z"
         }
       ]
     }
