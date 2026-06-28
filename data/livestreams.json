@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-28T01:32:45.046Z",
+  "lastUpdated": "2026-06-28T06:14:26.876Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ckb1IFhcZgs",
-          "title": "FIFTH SUNDAY AFTER PENTECOST - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ckb1IFhcZgs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UlhFFawj0zE",
           "title": "Amt - 5. Sonntag nach Pfingsten - 28. Juni 2026",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oQvba0HlZxQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T17:00:00Z"
+        },
+        {
+          "id": "WL3YSHlM9pY",
+          "title": "FSSPX Antwerpen - 29/06 FEEST van de HH. APOSTELEN PETRUS en PAULUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/WL3YSHlM9pY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T05:30:00Z"
         }
       ]
     },
@@ -143,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/afq0mPgPh_s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-28T16:00:00Z"
+        },
+        {
+          "id": "Txw0i47u4gc",
+          "title": "Pray & Make Sacrifices for Your Persecutors",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Txw0i47u4gc/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-28T18:00:00Z"
         }
       ]
     }
