@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T22:03:30.199Z",
+  "lastUpdated": "2026-06-28T23:36:39.875Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4Uhi8Q2K9j8",
-          "title": "5th Sunday after Pentecost / 5e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/4Uhi8Q2K9j8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qrxSnCtnDjU",
-          "title": "Missa Rezada e ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/qrxSnCtnDjU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BqOj-eQX7RM",
           "title": "7am Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
@@ -116,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xJwvuYaDq4Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T22:00:00Z"
+        },
+        {
+          "id": "mWcfVqYbKkY",
+          "title": "SAINTS PETER & PAUL, APOSTLES, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/mWcfVqYbKkY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T23:00:00Z"
         }
       ]
     }
