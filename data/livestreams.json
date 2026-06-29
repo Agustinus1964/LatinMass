@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-29T08:55:34.004Z",
+  "lastUpdated": "2026-06-29T13:03:56.825Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "H0vyu-WmsCk",
-          "title": "Mon. Jun. 29, 2026    -   Saints Peter and Paul",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/H0vyu-WmsCk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T11:15:00Z"
-        },
         {
           "id": "fNX8fj1Trf0",
           "title": "Amt - hll. Apostel Petrus und Paulus - 29. Juni 2026",
@@ -37,22 +28,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BqOj-eQX7RM",
-          "title": "7am Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/BqOj-eQX7RM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T11:00:00Z"
+          "id": "r41eBsKb3K0",
+          "title": "Monday 8 AM Traditional Latin Mass06/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/r41eBsKb3K0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "XDNCoUDndPE",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Peter and Paul, Apostles)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/XDNCoUDndPE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T11:30:00Z"
+          "id": "J3xB325CIB4",
+          "title": "Laudes e Missa Rezada - São Pedro e São Paulo",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/J3xB325CIB4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PP7Av0_TPvE",
@@ -98,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/mWcfVqYbKkY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T23:00:00Z"
+        },
+        {
+          "id": "wGZQwPEed8Y",
+          "title": "7am Mass. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/wGZQwPEed8Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T11:00:00Z"
+        },
+        {
+          "id": "aSXSROmYUYY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Commemoration of Saint Paul, Apostle)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/aSXSROmYUYY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T11:30:00Z"
         }
       ]
     }
