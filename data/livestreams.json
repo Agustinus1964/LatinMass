@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T19:02:49.794Z",
+  "lastUpdated": "2026-06-29T21:06:23.650Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -29,12 +29,21 @@
       "videos": [
         {
           "id": "xJwvuYaDq4Q",
-          "title": "6pm Sung Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
+          "title": "Divine Office & 6pm Sung Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/xJwvuYaDq4Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "e_xpvT86mBo",
+          "title": "Santo terço",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/e_xpvT86mBo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mWcfVqYbKkY",
@@ -47,7 +56,7 @@
         },
         {
           "id": "wGZQwPEed8Y",
-          "title": "7am Mass. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
+          "title": "7am Mass & Divine Office. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/wGZQwPEed8Y/mqdefault_live.jpg",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QSxy6BMLI4I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-30T17:00:00Z"
+        },
+        {
+          "id": "3cKnGQQW0bM",
+          "title": "Divine Office & 6pm Mass. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3cKnGQQW0bM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T21:00:00Z"
         }
       ]
     }
