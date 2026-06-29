@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T21:06:23.650Z",
+  "lastUpdated": "2026-06-29T22:35:16.076Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aOsfdgi7Jh4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-30T16:00:00Z"
+        },
+        {
+          "id": "uPaENprXX94",
+          "title": "Tue. Jun. 30, 2026    -    Commemoration of St. Paul,      Apostle",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/uPaENprXX94/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T22:00:00Z"
         }
       ]
     },
@@ -37,11 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "e_xpvT86mBo",
-          "title": "Santo terço",
+          "id": "V_sByxxbOyI",
+          "title": "Missa cantada - São Pedro e São Paulo",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/e_xpvT86mBo/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/V_sByxxbOyI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -53,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mWcfVqYbKkY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T23:00:00Z"
+        },
+        {
+          "id": "E3RP9BPBItk",
+          "title": "Feast of Ss. Peter and Paul / Fête des saints Pierre et Paul",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/E3RP9BPBItk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-29T23:30:00Z"
         },
         {
           "id": "wGZQwPEed8Y",
