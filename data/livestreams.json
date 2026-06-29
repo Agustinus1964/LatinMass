@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-06-29T03:33:58.956Z",
+  "lastUpdated": "2026-06-29T08:55:34.004Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "q3CdALL0aKw",
-          "title": "Hl. Messe - hll. Apostel Petrus und Paulus - 29. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/q3CdALL0aKw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T05:15:00Z"
-        },
-        {
-          "id": "WL3YSHlM9pY",
-          "title": "FSSPX Antwerpen - 29/06 FEEST van de HH. APOSTELEN PETRUS en PAULUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/WL3YSHlM9pY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T05:30:00Z"
-        },
         {
           "id": "H0vyu-WmsCk",
           "title": "Mon. Jun. 29, 2026    -   Saints Peter and Paul",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fNX8fj1Trf0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-29T17:30:00Z"
+        },
+        {
+          "id": "sB5PJju48mk",
+          "title": "Hl. Messe - Gedächtnis des hl. Apostel Paulus - 30. Juni 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sB5PJju48mk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T05:15:00Z"
         }
       ]
     },
