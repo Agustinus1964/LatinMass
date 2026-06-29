@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T16:44:36.683Z",
+  "lastUpdated": "2026-06-29T19:02:49.794Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,33 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PP7Av0_TPvE",
-          "title": "Monday 29th June 2026: Saints Peter and Paul",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/PP7Av0_TPvE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T17:00:00Z"
-        },
-        {
-          "id": "ef6hY4vFCuQ",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ef6hY4vFCuQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T17:00:00Z"
-        },
-        {
-          "id": "zTZHud6fCdI",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zTZHud6fCdI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T17:00:00Z"
-        },
         {
           "id": "xJwvuYaDq4Q",
           "title": "6pm Sung Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
@@ -89,6 +62,33 @@
           "thumbnail": "https://i.ytimg.com/vi/aSXSROmYUYY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-30T11:30:00Z"
+        },
+        {
+          "id": "fdaQqokiO_o",
+          "title": "Tuesday 30th June 2026: The Commemoration of St. Paul",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/fdaQqokiO_o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T17:00:00Z"
+        },
+        {
+          "id": "E6Q1nrMW-o4",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/E6Q1nrMW-o4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T17:00:00Z"
+        },
+        {
+          "id": "QSxy6BMLI4I",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/QSxy6BMLI4I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-06-30T17:00:00Z"
         }
       ]
     }
