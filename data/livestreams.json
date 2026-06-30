@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-30T16:01:41.321Z",
+  "lastUpdated": "2026-06-30T18:17:49.098Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aOsfdgi7Jh4",
-          "title": "Rosenkranz und hl. Messe - Gedächtnis des hl. Apostel Paulus - 30. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/aOsfdgi7Jh4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uPaENprXX94",
           "title": "Tue. Jun. 30, 2026    -    Commemoration of St. Paul,      Apostle",
@@ -64,33 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "fdaQqokiO_o",
-          "title": "Tuesday 30th June 2026: The Commemoration of St. Paul",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/fdaQqokiO_o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-30T17:00:00Z"
-        },
-        {
-          "id": "E6Q1nrMW-o4",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/E6Q1nrMW-o4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-30T17:00:00Z"
-        },
-        {
-          "id": "QSxy6BMLI4I",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/QSxy6BMLI4I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-30T17:00:00Z"
-        },
-        {
           "id": "3cKnGQQW0bM",
           "title": "Divine Office & 6pm Mass. Dedication of Cathedral Church of SS. Peter & Paul. Tuesday, June 30, 2026",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -125,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/roXGlW9Hki8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-01T11:30:00Z"
+        },
+        {
+          "id": "WESUVfyKHFQ",
+          "title": "Wednesday 1st July 2026: The Most Precious Blood",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/WESUVfyKHFQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T17:00:00Z"
+        },
+        {
+          "id": "-zhR_FoSD78",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/-zhR_FoSD78/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T17:00:00Z"
+        },
+        {
+          "id": "Hl01UK16gxg",
+          "title": "Sainte messe de la fête du Précieux Sang - REDEMISTI NOS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Hl01UK16gxg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T17:00:00Z"
         }
       ]
     }
