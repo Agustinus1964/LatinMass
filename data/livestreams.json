@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T08:27:33.372Z",
+  "lastUpdated": "2026-06-30T11:27:37.584Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -56,12 +56,12 @@
       "videos": [
         {
           "id": "wGZQwPEed8Y",
-          "title": "7am Mass & Divine Office. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
+          "title": "7am Mass & Divine Office. Dedication of Cathedral Church of SS. Peter & Paul. Tuesday, June 30, 2026",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/wGZQwPEed8Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-30T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aSXSROmYUYY",
@@ -101,7 +101,7 @@
         },
         {
           "id": "3cKnGQQW0bM",
-          "title": "Divine Office & 6pm Mass. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
+          "title": "Divine Office & 6pm Mass. Dedication of Cathedral Church of SS. Peter & Paul. Tuesday, June 30, 2026",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/3cKnGQQW0bM/mqdefault_live.jpg",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/buYWQaxR7ag/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-01T02:30:00Z"
+        },
+        {
+          "id": "b3zTjYwC2vk",
+          "title": "7am Mass & Divine Office. Most Precious Blood of Our Lord Jesus Christ. I. Wednesday, July 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/b3zTjYwC2vk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T11:00:00Z"
         }
       ]
     }
