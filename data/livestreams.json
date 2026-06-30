@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-30T21:56:18.047Z",
+  "lastUpdated": "2026-06-30T23:12:04.116Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uPaENprXX94",
-          "title": "Tue. Jun. 30, 2026    -    Commemoration of St. Paul,      Apostle",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/uPaENprXX94/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-30T22:00:00Z"
-        },
         {
           "id": "SEKnk6mMbpI",
           "title": "Episcopal Consecrations - July 1, 2026 - Écône",
@@ -54,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3cKnGQQW0bM",
-          "title": "Divine Office & 6pm Mass. Dedication of Cathedral Church of SS. Peter & Paul. Tuesday, June 30, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3cKnGQQW0bM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7XKRAbFKxck",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/7XKRAbFKxck/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "buYWQaxR7ag",
           "title": "Cristología: Sesión de dudas, preguntas y respuestas. P. Daniel Heenan.",
@@ -125,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Hl01UK16gxg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-01T17:00:00Z"
+        },
+        {
+          "id": "WaUZRgCl6u0",
+          "title": "FEAST OF THE MOST PRECIOUS BLOOD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/WaUZRgCl6u0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T23:00:00Z"
         }
       ]
     }
