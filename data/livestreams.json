@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-06-30T04:42:38.886Z",
+  "lastUpdated": "2026-06-30T08:27:33.372Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sB5PJju48mk",
-          "title": "Hl. Messe - Gedächtnis des hl. Apostel Paulus - 30. Juni 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sB5PJju48mk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-30T05:15:00Z"
-        },
         {
           "id": "aOsfdgi7Jh4",
           "title": "Rosenkranz und hl. Messe - Gedächtnis des hl. Apostel Paulus - 30. Juni 2026",
@@ -30,6 +21,33 @@
           "thumbnail": "https://i.ytimg.com/vi/uPaENprXX94/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-30T22:00:00Z"
+        },
+        {
+          "id": "SEKnk6mMbpI",
+          "title": "Episcopal Consecrations - July 1, 2026 - Écône",
+          "channel": "SSPX News - English",
+          "channelId": "UCTvY1fvpD7jnT-uKEyuTSaw",
+          "thumbnail": "https://i.ytimg.com/vi/SEKnk6mMbpI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T06:15:00Z"
+        },
+        {
+          "id": "K0tzvsQB3kg",
+          "title": "Consacrazioni episcopali - 1 luglio 2026 - Écône",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/K0tzvsQB3kg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T06:15:00Z"
+        },
+        {
+          "id": "SEKnk6mMbpI",
+          "title": "Episcopal Consecrations - July 1, 2026 - Écône",
+          "channel": "SSPX New Zealand",
+          "channelId": "UCTvY1fvpD7jnT-uKEyuTSaw",
+          "thumbnail": "https://i.ytimg.com/vi/SEKnk6mMbpI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T06:15:00Z"
         }
       ]
     },
