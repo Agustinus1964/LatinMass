@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T22:35:16.076Z",
+  "lastUpdated": "2026-06-30T00:00:43.368Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "xJwvuYaDq4Q",
-          "title": "Divine Office & 6pm Sung Mass. Ss. Peter & Paul, Apostles. I. Monday, June 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xJwvuYaDq4Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "V_sByxxbOyI",
-          "title": "Missa cantada - São Pedro e São Paulo",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/V_sByxxbOyI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "mWcfVqYbKkY",
           "title": "SAINTS PETER & PAUL, APOSTLES, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/mWcfVqYbKkY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "E3RP9BPBItk",
@@ -69,8 +51,8 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/E3RP9BPBItk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-06-29T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wGZQwPEed8Y",
