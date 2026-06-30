@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-30T00:00:43.368Z",
+  "lastUpdated": "2026-06-30T04:42:38.886Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mWcfVqYbKkY",
-          "title": "SAINTS PETER & PAUL, APOSTLES, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/mWcfVqYbKkY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E3RP9BPBItk",
-          "title": "Feast of Ss. Peter and Paul / Fête des saints Pierre et Paul",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/E3RP9BPBItk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "wGZQwPEed8Y",
           "title": "7am Mass & Divine Office. The Commemoration of St. Paul, Apostle. III. Tuesday, June 30, 2026.",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3cKnGQQW0bM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-06-30T21:00:00Z"
+        },
+        {
+          "id": "buYWQaxR7ag",
+          "title": "Cristología: Sesión de dudas, preguntas y respuestas. P. Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/buYWQaxR7ag/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-01T02:30:00Z"
         }
       ]
     }
