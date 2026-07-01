@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-01T20:22:13.344Z",
+  "lastUpdated": "2026-07-01T21:57:53.328Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wQZvos-LGgU",
+          "title": "Mass of the Visitation - 2.7.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/wQZvos-LGgU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "sv3jkxkF9oA",
           "title": "Hl. Messe - Mariä Heimsuchung - 02. Juli 2026",
@@ -45,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "qTfa1jS5-5U",
+          "title": "Missa Cantada do preciosíssimo sangue",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/qTfa1jS5-5U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WaUZRgCl6u0",
           "title": "FEAST OF THE MOST PRECIOUS BLOOD, 2026",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ekVazO1FZaE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-02T17:00:00Z"
+        },
+        {
+          "id": "7uG3rA8app0",
+          "title": "Divine Office & 6pm Sung Mass. The Visitation of the Blessed Virgin Mary. II. Thursday, July 2, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/7uG3rA8app0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-02T21:00:00Z"
         }
       ]
     }
