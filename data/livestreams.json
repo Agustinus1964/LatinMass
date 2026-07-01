@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T16:03:58.038Z",
+  "lastUpdated": "2026-07-01T18:22:51.240Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "WESUVfyKHFQ",
-          "title": "Wednesday 1st July 2026: The Most Precious Blood",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/WESUVfyKHFQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-01T17:00:00Z"
-        },
-        {
-          "id": "-zhR_FoSD78",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/-zhR_FoSD78/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-01T17:00:00Z"
-        },
-        {
           "id": "Hl01UK16gxg",
           "title": "Sainte messe de la fête du Précieux Sang - REDEMISTI NOS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Hl01UK16gxg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-01T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WaUZRgCl6u0",
@@ -107,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/7n-Zui2y8wA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-02T11:30:00Z"
+        },
+        {
+          "id": "3sr4W5qG4oI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/3sr4W5qG4oI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-02T16:50:00Z"
+        },
+        {
+          "id": "ekVazO1FZaE",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ekVazO1FZaE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-02T17:00:00Z"
         }
       ]
     }
