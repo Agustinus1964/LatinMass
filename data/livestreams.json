@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T18:22:51.240Z",
+  "lastUpdated": "2026-07-01T20:22:13.344Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Hl01UK16gxg",
-          "title": "Sainte messe de la fête du Précieux Sang - REDEMISTI NOS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Hl01UK16gxg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WaUZRgCl6u0",
           "title": "FEAST OF THE MOST PRECIOUS BLOOD, 2026",
