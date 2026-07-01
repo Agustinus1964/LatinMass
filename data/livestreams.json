@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-01T01:38:18.355Z",
+  "lastUpdated": "2026-07-01T06:23:05.637Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/zc6zXQiLKBY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-01T12:00:00Z"
+        },
+        {
+          "id": "sv3jkxkF9oA",
+          "title": "Hl. Messe - Mariä Heimsuchung - 02. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sv3jkxkF9oA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-02T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "buYWQaxR7ag",
-          "title": "Cristología: Sesión de dudas, preguntas y respuestas. P. Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/buYWQaxR7ag/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-01T02:30:00Z"
-        },
         {
           "id": "b3zTjYwC2vk",
           "title": "7am Mass & Divine Office. Most Precious Blood of Our Lord Jesus Christ. I. Wednesday, July 1, 2026.",
