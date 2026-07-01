@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-01T21:57:53.328Z",
+  "lastUpdated": "2026-07-01T23:18:48.668Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wQZvos-LGgU",
-          "title": "Mass of the Visitation - 2.7.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/wQZvos-LGgU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sv3jkxkF9oA",
           "title": "Hl. Messe - Mariä Heimsuchung - 02. Juli 2026",
@@ -55,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "WaUZRgCl6u0",
+          "title": "FEAST OF THE MOST PRECIOUS BLOOD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/WaUZRgCl6u0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "qTfa1jS5-5U",
           "title": "Missa Cantada do preciosíssimo sangue",
           "channel": "Missa Tridentina em Brasília",
@@ -62,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qTfa1jS5-5U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "WaUZRgCl6u0",
-          "title": "FEAST OF THE MOST PRECIOUS BLOOD, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/WaUZRgCl6u0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-01T23:00:00Z"
         },
         {
           "id": "rQj5yoElQvY",
