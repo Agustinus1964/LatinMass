@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-02T05:56:00.362Z",
+  "lastUpdated": "2026-07-02T08:53:35.050Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sv3jkxkF9oA",
-          "title": "Hl. Messe - Mariä Heimsuchung - 02. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sv3jkxkF9oA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IM7Yhl0OWyk",
           "title": "Thu. Jul. 2, 2026    -    Visitation of the Blessed Virgin Mary",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rQj5yoElQvY",
-          "title": "Thursday 2nd July 2026: The Visitation of the Blessed Virgin Mary",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/rQj5yoElQvY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-02T07:00:00Z"
-        },
         {
           "id": "BnWthATiEKc",
           "title": "7am Mass & Divine Office. The Visitation of the Blessed Virgin Mary. II. Thursday, July 2, 2026.",
