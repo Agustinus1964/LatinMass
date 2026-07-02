@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T01:30:56.227Z",
+  "lastUpdated": "2026-07-02T05:56:00.362Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/sv3jkxkF9oA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-02T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IM7Yhl0OWyk",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_IpGN_zEIEA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-02T16:00:00Z"
+        },
+        {
+          "id": "3I3PCshRzsI",
+          "title": "Hl. Messe - Herz-Jesu Freitag - 03. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3I3PCshRzsI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-03T05:15:00Z"
         }
       ]
     },
