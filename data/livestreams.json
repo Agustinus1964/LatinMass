@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-02T11:31:13.681Z",
+  "lastUpdated": "2026-07-02T13:51:08.408Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IM7Yhl0OWyk",
-          "title": "Thu. Jul. 2, 2026    -    Visitation of the Blessed Virgin Mary",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/IM7Yhl0OWyk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6uGK1U_Zt4Y",
           "title": "Sakramentsandacht - hl. Mariä Heimsuchung - 02. Juli 2026",
@@ -45,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7n-Zui2y8wA",
-          "title": "Live Stream Holy Mass from Cleveland (The Visitation of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/7n-Zui2y8wA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BnWthATiEKc",
-          "title": "7am Mass & Divine Office. The Visitation of the Blessed Virgin Mary. II. Thursday, July 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/BnWthATiEKc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3sr4W5qG4oI",
           "title": "Sainte messe en semaine",
