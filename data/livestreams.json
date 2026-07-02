@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-02T16:03:14.213Z",
+  "lastUpdated": "2026-07-02T18:11:45.966Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_IpGN_zEIEA",
-          "title": "Rosenkranz und hl. Messe - Mariä Heimsuchung - 02. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/_IpGN_zEIEA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3I3PCshRzsI",
           "title": "Hl. Messe - Herz-Jesu Freitag - 03. Juli 2026",
@@ -21,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/3I3PCshRzsI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-03T05:15:00Z"
+        },
+        {
+          "id": "XJ01IRxXa5Y",
+          "title": "FSSPX Antwerpen - 03/07 H. IRENEUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/XJ01IRxXa5Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-03T16:30:00Z"
+        },
+        {
+          "id": "v19pbtVak8Q",
+          "title": "Amt - Herz-Jesu Freitag - 03. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/v19pbtVak8Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-03T17:30:00Z"
         }
       ]
     },
@@ -28,40 +37,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3sr4W5qG4oI",
+          "id": "Pu-cpP3unyQ",
+          "title": "Friday 3rd July 2026: First Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Pu-cpP3unyQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-03T17:00:00Z"
+        },
+        {
+          "id": "E5dTeLeWcwQ",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/E5dTeLeWcwQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-03T17:00:00Z"
+        },
+        {
+          "id": "zs5AqqqZz3U",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/3sr4W5qG4oI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/zs5AqqqZz3U/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-02T16:50:00Z"
-        },
-        {
-          "id": "ekVazO1FZaE",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ekVazO1FZaE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-02T17:00:00Z"
-        },
-        {
-          "id": "7uG3rA8app0",
-          "title": "Divine Office & 6pm Sung Mass. The Visitation of the Blessed Virgin Mary. II. Thursday, July 2, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/7uG3rA8app0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-02T21:00:00Z"
-        },
-        {
-          "id": "YI4DPZezGc0",
-          "title": "First Friday: 11am Mass, Divine Office. St Irenaeus, Bishop & Martyr. III. Sacred Heart. III. 7-3-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/YI4DPZezGc0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T15:00:00Z"
+          "scheduledTime": "2026-07-03T17:00:00Z"
         }
       ]
     }
