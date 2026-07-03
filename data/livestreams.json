@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T08:32:25.896Z",
+  "lastUpdated": "2026-07-03T11:29:03.805Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ZRIDAPS7UkY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-04T07:30:00Z"
+        },
+        {
+          "id": "h-hBH0huYQg",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/h-hBH0huYQg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T09:00:00Z"
+        },
+        {
+          "id": "1GN3caZ5pOA",
+          "title": "Saturday 4th July 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/1GN3caZ5pOA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T09:30:00Z"
         }
       ]
     }
