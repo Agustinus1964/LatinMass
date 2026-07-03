@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-03T21:38:34.617Z",
+  "lastUpdated": "2026-07-03T22:58:14.045Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "i7tNifEPFlc",
-          "title": "Rosary and Benediction - Saturday 4th July 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/i7tNifEPFlc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Msnnxf8ClT0",
           "title": "Fri. Jul. 3, 2026    -    St. Irenaeus,   Bishop and Martyr",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "S6XESITH4WI",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/S6XESITH4WI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "w2blWGaBExw",
           "title": "First Friday: Divine Office, 6pm Mass, Holy Hour. St Irenaeus, Bishop & Martyr. Sacred Heart. 7-3-26",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "OqxtRavXMPs",
-          "title": "Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/OqxtRavXMPs/mqdefault_live.jpg",
+          "id": "MbNyUrWzqpg",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 07/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/MbNyUrWzqpg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "S6XESITH4WI",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/S6XESITH4WI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T22:30:00Z"
         },
         {
           "id": "XYotMwiSLs4",
