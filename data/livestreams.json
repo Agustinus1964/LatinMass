@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-03T05:11:36.828Z",
+  "lastUpdated": "2026-07-03T08:32:25.896Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3I3PCshRzsI",
-          "title": "Hl. Messe - Herz-Jesu Freitag - 03. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3I3PCshRzsI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T05:15:00Z"
-        },
         {
           "id": "XJ01IRxXa5Y",
           "title": "FSSPX Antwerpen - 03/07 H. IRENEUS",
@@ -39,6 +30,33 @@
           "thumbnail": "https://i.ytimg.com/vi/Msnnxf8ClT0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-03T22:00:00Z"
+        },
+        {
+          "id": "UiQRg45ud9M",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 04. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/UiQRg45ud9M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T05:15:00Z"
+        },
+        {
+          "id": "kVtj-LrpuVs",
+          "title": "FSSPX Antwerpen - 04/07 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/kVtj-LrpuVs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T06:15:00Z"
+        },
+        {
+          "id": "sYrHnrlYvUY",
+          "title": "FSSPX Antwerpen - 04/07 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/sYrHnrlYvUY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T08:00:00Z"
         }
       ]
     },
@@ -80,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/S6XESITH4WI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-03T22:30:00Z"
+        },
+        {
+          "id": "XYotMwiSLs4",
+          "title": "Ordinations sacerdotales 2026  - Institut du Bon Pasteur",
+          "channel": "Instituto del Buen Pastor - Bogotá",
+          "channelId": "UCiWilCCTiEgEYmYUzVyNqYA",
+          "thumbnail": "https://i.ytimg.com/vi/XYotMwiSLs4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T07:00:00Z"
+        },
+        {
+          "id": "ZRIDAPS7UkY",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ZRIDAPS7UkY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T07:30:00Z"
         }
       ]
     }
