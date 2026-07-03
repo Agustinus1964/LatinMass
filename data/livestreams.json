@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-03T15:32:28.868Z",
+  "lastUpdated": "2026-07-03T17:21:15.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/XJ01IRxXa5Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "v19pbtVak8Q",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/v19pbtVak8Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T17:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Msnnxf8ClT0",
@@ -73,11 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YI4DPZezGc0",
-          "title": "First Friday: 11am Mass, Divine Office. St Irenaeus, Bishop & Martyr. III. Sacred Heart. III. 7-3-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/YI4DPZezGc0/mqdefault_live.jpg",
+          "id": "E5dTeLeWcwQ",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/E5dTeLeWcwQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zs5AqqqZz3U",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/zs5AqqqZz3U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -87,24 +96,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Pu-cpP3unyQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T17:00:00Z"
-        },
-        {
-          "id": "E5dTeLeWcwQ",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/E5dTeLeWcwQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T17:00:00Z"
-        },
-        {
-          "id": "zs5AqqqZz3U",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zs5AqqqZz3U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-03T17:00:00Z"
         },
