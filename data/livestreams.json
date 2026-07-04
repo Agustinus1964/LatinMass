@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-04T04:09:34.511Z",
+  "lastUpdated": "2026-07-04T07:21:00.254Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UiQRg45ud9M",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 04. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UiQRg45ud9M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T05:15:00Z"
-        },
         {
           "id": "kVtj-LrpuVs",
           "title": "FSSPX Antwerpen - 04/07 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/kVtj-LrpuVs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sYrHnrlYvUY",
@@ -51,8 +42,17 @@
           "channel": "Instituto del Buen Pastor - Bogotá",
           "channelId": "UCiWilCCTiEgEYmYUzVyNqYA",
           "thumbnail": "https://i.ytimg.com/vi/XYotMwiSLs4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bUXqFExEQjQ",
+          "title": "Ordinations sacerdotales de l'Institut du Bon Pasteur",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/bUXqFExEQjQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZRIDAPS7UkY",
