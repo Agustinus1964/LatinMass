@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-03T22:58:14.045Z",
+  "lastUpdated": "2026-07-04T00:09:12.378Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Msnnxf8ClT0",
-          "title": "Fri. Jul. 3, 2026    -    St. Irenaeus,   Bishop and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Msnnxf8ClT0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-03T22:00:00Z"
-        },
         {
           "id": "UiQRg45ud9M",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 04. Juli 2026",
@@ -55,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "S6XESITH4WI",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/S6XESITH4WI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "w2blWGaBExw",
-          "title": "First Friday: Divine Office, 6pm Mass, Holy Hour. St Irenaeus, Bishop & Martyr. Sacred Heart. 7-3-26",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/w2blWGaBExw/mqdefault_live.jpg",
+          "id": "ftwgdEPz0h4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ftwgdEPz0h4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
