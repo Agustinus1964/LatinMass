@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T12:42:38.254Z",
+  "lastUpdated": "2026-07-04T14:26:27.797Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/HhGnMCvu2mU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sZKvaVWb0s4",
@@ -30,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/l4EHs68hXio/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T08:00:00Z"
+        },
+        {
+          "id": "WztRiUmgsiA",
+          "title": "FSSPX Antwerpen - 05/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/WztRiUmgsiA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T13:00:00Z"
+        },
+        {
+          "id": "odEhd_rbtrM",
+          "title": "Sun. Jul. 5, 2026    -    Sixth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/odEhd_rbtrM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T14:00:00Z"
         }
       ]
     },
@@ -37,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2IOLDtSpeEY",
-          "title": "First Saturday: 7:30am Mass, Rosary, 9am Mass. Immaculate Heart of Mary. III. 4th of July 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/2IOLDtSpeEY/mqdefault_live.jpg",
+          "id": "b-RIV1lqAEE",
+          "title": "Santo Sacrificio de la Misa, Nuestra Señora del Refugio, 4 de julio de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/b-RIV1lqAEE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -53,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/XYotMwiSLs4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "DYXEtctS5VE",
-          "title": "Ordinations sacerdotales de l'Institut du Bon Pasteur",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/DYXEtctS5VE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MrVR8tuF-gM",
-          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/MrVR8tuF-gM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T13:00:00Z"
         },
         {
           "id": "ta2hF2hFA-0",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UlAOLeHF_ss/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T10:00:00Z"
+        },
+        {
+          "id": "T9zQPleI5nQ",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/T9zQPleI5nQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T12:00:00Z"
         }
       ]
     }
