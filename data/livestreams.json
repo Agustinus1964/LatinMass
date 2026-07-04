@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T09:34:35.587Z",
+  "lastUpdated": "2026-07-04T11:23:19.484Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "2IOLDtSpeEY",
+          "title": "First Saturday: 7:30am Mass, Rosary, 9am Mass. Immaculate Heart of Mary. III. 4th of July 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/2IOLDtSpeEY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "XYotMwiSLs4",
           "title": "Ordinations sacerdotales 2026  - Institut du Bon Pasteur",
           "channel": "Instituto del Buen Pastor - Bogotá",
@@ -53,24 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/DYXEtctS5VE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "9NX0EdWZkTU",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9NX0EdWZkTU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1GN3caZ5pOA",
-          "title": "Saturday 4th July 2026: First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/1GN3caZ5pOA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T09:30:00Z"
         },
         {
           "id": "MrVR8tuF-gM",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mz3M8pr243M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T09:30:00Z"
+        },
+        {
+          "id": "UlAOLeHF_ss",
+          "title": "11am — 14th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/UlAOLeHF_ss/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T10:00:00Z"
         }
       ]
     }
