@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T00:09:12.378Z",
+  "lastUpdated": "2026-07-04T04:09:34.511Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,24 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ftwgdEPz0h4",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ftwgdEPz0h4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MbNyUrWzqpg",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 07/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/MbNyUrWzqpg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "XYotMwiSLs4",
           "title": "Ordinations sacerdotales 2026  - Institut du Bon Pasteur",
           "channel": "Instituto del Buen Pastor - Bogotá",
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1GN3caZ5pOA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-04T09:30:00Z"
+        },
+        {
+          "id": "MrVR8tuF-gM",
+          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/MrVR8tuF-gM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-04T13:00:00Z"
         }
       ]
     }
