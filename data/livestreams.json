@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T07:21:00.254Z",
+  "lastUpdated": "2026-07-04T09:34:35.587Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kVtj-LrpuVs",
-          "title": "FSSPX Antwerpen - 04/07 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/kVtj-LrpuVs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sYrHnrlYvUY",
-          "title": "FSSPX Antwerpen - 04/07 ONZE-LIEVE-VROUW op ZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/sYrHnrlYvUY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T08:00:00Z"
-        },
         {
           "id": "HhGnMCvu2mU",
           "title": "Sat. Jul. 4, 2026    -    Blessed Virgin Mary on Saturday,      (First Saturday)",
@@ -30,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/HhGnMCvu2mU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-04T13:00:00Z"
+        },
+        {
+          "id": "sZKvaVWb0s4",
+          "title": "Amt - 6. Sonntag nach Pfingsten - 05. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sZKvaVWb0s4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T07:30:00Z"
+        },
+        {
+          "id": "l4EHs68hXio",
+          "title": "FSSPX Antwerpen - 05/07 6° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/l4EHs68hXio/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T08:00:00Z"
         }
       ]
     },
@@ -46,31 +46,22 @@
           "scheduledTime": null
         },
         {
-          "id": "bUXqFExEQjQ",
+          "id": "DYXEtctS5VE",
           "title": "Ordinations sacerdotales de l'Institut du Bon Pasteur",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/bUXqFExEQjQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/DYXEtctS5VE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "ZRIDAPS7UkY",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/ZRIDAPS7UkY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T07:30:00Z"
-        },
-        {
-          "id": "h-hBH0huYQg",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/h-hBH0huYQg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-04T09:00:00Z"
+          "id": "9NX0EdWZkTU",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9NX0EdWZkTU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1GN3caZ5pOA",
@@ -89,6 +80,42 @@
           "thumbnail": "https://i.ytimg.com/vi/MrVR8tuF-gM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-04T13:00:00Z"
+        },
+        {
+          "id": "ta2hF2hFA-0",
+          "title": "8am — 6th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ta2hF2hFA-0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T07:00:00Z"
+        },
+        {
+          "id": "WUMLiguQ8Fw",
+          "title": "9:30am — 14th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/WUMLiguQ8Fw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T08:30:00Z"
+        },
+        {
+          "id": "D8AYw_JdgSk",
+          "title": "Sainte messe de la solennité de saint Pierre & saint Paul - NUNC SCIO VERE",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/D8AYw_JdgSk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T09:00:00Z"
+        },
+        {
+          "id": "mz3M8pr243M",
+          "title": "Sunday 5th July 2026: Pontifical Mass by His Eminence Cardinal Burke",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/mz3M8pr243M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T09:30:00Z"
         }
       ]
     }
