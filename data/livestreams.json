@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T14:26:27.797Z",
+  "lastUpdated": "2026-07-04T15:41:49.689Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HhGnMCvu2mU",
-          "title": "Sat. Jul. 4, 2026    -    Blessed Virgin Mary on Saturday,      (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/HhGnMCvu2mU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sZKvaVWb0s4",
           "title": "Amt - 6. Sonntag nach Pfingsten - 05. Juli 2026",
@@ -23,24 +14,6 @@
           "scheduledTime": "2026-07-05T07:30:00Z"
         },
         {
-          "id": "l4EHs68hXio",
-          "title": "FSSPX Antwerpen - 05/07 6° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/l4EHs68hXio/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T08:00:00Z"
-        },
-        {
-          "id": "WztRiUmgsiA",
-          "title": "FSSPX Antwerpen - 05/07 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/WztRiUmgsiA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T13:00:00Z"
-        },
-        {
           "id": "odEhd_rbtrM",
           "title": "Sun. Jul. 5, 2026    -    Sixth Sunday after Pentecost",
           "channel": "Transfiguration Church SSPX",
@@ -48,30 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/odEhd_rbtrM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T14:00:00Z"
+        },
+        {
+          "id": "4FV53NCwa6U",
+          "title": "Vesper und Sakramentsandacht - 6. Sonntag nach Pfingsten - 05. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4FV53NCwa6U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T15:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "b-RIV1lqAEE",
-          "title": "Santo Sacrificio de la Misa, Nuestra Señora del Refugio, 4 de julio de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/b-RIV1lqAEE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XYotMwiSLs4",
-          "title": "Ordinations sacerdotales 2026  - Institut du Bon Pasteur",
-          "channel": "Instituto del Buen Pastor - Bogotá",
-          "channelId": "UCiWilCCTiEgEYmYUzVyNqYA",
-          "thumbnail": "https://i.ytimg.com/vi/XYotMwiSLs4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ta2hF2hFA-0",
           "title": "8am — 6th Sunday after Pentecost",
@@ -125,6 +89,42 @@
           "thumbnail": "https://i.ytimg.com/vi/T9zQPleI5nQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T12:00:00Z"
+        },
+        {
+          "id": "5j7EROvHHfw",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (the Sixth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/5j7EROvHHfw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T14:30:00Z"
+        },
+        {
+          "id": "iZTO2aVYF6U",
+          "title": "10:30am Sung Mass. Sixth Sunday after Pentecost. II. July 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/iZTO2aVYF6U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T14:30:00Z"
+        },
+        {
+          "id": "V38SpFMdMYg",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/V38SpFMdMYg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T14:45:00Z"
+        },
+        {
+          "id": "6-qgnrLkT5A",
+          "title": "SIXTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/6-qgnrLkT5A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T15:30:00Z"
         }
       ]
     }
