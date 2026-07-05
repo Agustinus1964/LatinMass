@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T12:48:05.441Z",
+  "lastUpdated": "2026-07-05T14:38:20.299Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,35 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/j9u5y5bnznI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xO4CVBPy1lc",
+          "title": "Sixth Sunday After Pentecost-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/xO4CVBPy1lc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "hcYelpruQQY",
+          "title": "VI Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/hcYelpruQQY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "lbbF6aGWUk0",
+          "title": "My Broadcast",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/lbbF6aGWUk0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "odEhd_rbtrM",
@@ -19,8 +46,17 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/odEhd_rbtrM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mwjZHGwaRN4",
+          "title": "Sixth Sunday After Pentecost",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/mwjZHGwaRN4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-05T14:00:00Z"
+          "scheduledTime": "2026-07-05T14:45:00Z"
         },
         {
           "id": "4FV53NCwa6U",
@@ -55,49 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "T9zQPleI5nQ",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/T9zQPleI5nQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rc6u7FuvqoE",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Sixth Sunday after Pentecost. II. July 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/rc6u7FuvqoE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "i5V8wsZuelk",
-          "title": "Sunday 8:30 AM Catholic Mass for 07/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/i5V8wsZuelk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9wV2XvX7VDk",
-          "title": "Missa cantada - VI Domingo depois de Pentecostes 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9wV2XvX7VDk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "5j7EROvHHfw",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (the Sixth Sunday after Pentecost)",
+          "title": "Live Stream Holy Mass (Low Mass #2) from Cleveland USA (the Sixth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/5j7EROvHHfw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iZTO2aVYF6U",
@@ -105,8 +105,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/iZTO2aVYF6U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GoVIex8ojuQ",
+          "title": "6th Sunday after Pentecost / 6e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/GoVIex8ojuQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "V38SpFMdMYg",
@@ -152,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZcE_z8EUwkA/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T18:00:00Z"
+        },
+        {
+          "id": "C0PSUdq736M",
+          "title": "7am Mass & Divine Office. Feria. IV. St. Maria Goretti, Virgin & Martyr. IV. Monday, July 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/C0PSUdq736M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T11:00:00Z"
         }
       ]
     }
