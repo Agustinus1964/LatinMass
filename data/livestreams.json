@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-07-05T16:04:11.559Z",
+  "lastUpdated": "2026-07-05T17:35:08.965Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VgbAWEOxsMw",
-          "title": "Sixth Sunday After Pentecost",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/VgbAWEOxsMw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4FV53NCwa6U",
-          "title": "Vesper und Sakramentsandacht - 6. Sonntag nach Pfingsten - 05. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4FV53NCwa6U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "qk8Wgp95YkA",
           "title": "VI Sunday after Pentecost | July 5th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/qk8Wgp95YkA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BeoYCNo1VIU",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NBl2VyG8Phg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-06T15:00:00Z"
+        },
+        {
+          "id": "S9CqA589B4E",
+          "title": "FSSPX Antwerpen - 06/07 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/S9CqA589B4E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T16:30:00Z"
         }
       ]
     },
@@ -55,38 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5ZW-CcBnlsQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/5ZW-CcBnlsQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6-qgnrLkT5A",
-          "title": "SIXTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/6-qgnrLkT5A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "d8YvkNub4XU",
-          "title": "Sunday 11 AM Sung Mass 2026-07-05",
+          "id": "btc7g1V5A30",
+          "title": "Sunday 1:30 PM Catholic Mass 07/05/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/d8YvkNub4XU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GoVIex8ojuQ",
-          "title": "6th Sunday after Pentecost / 6e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/GoVIex8ojuQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/btc7g1V5A30/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,24 +60,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/HT1MI6Qg3Oc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fiOWQzN-QvA",
-          "title": "Vespers and Benediction — 6th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/fiOWQzN-QvA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hrCiwRdKFlE",
-          "title": "Secondes vêpres de la solennité de saint Pierre et saint Paul - HODIE SIMON PETRUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/hrCiwRdKFlE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +80,51 @@
           "thumbnail": "https://i.ytimg.com/vi/C0PSUdq736M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-06T11:00:00Z"
+        },
+        {
+          "id": "_ejSGDbHry8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Maria Goretti, Virgin and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/_ejSGDbHry8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T11:30:00Z"
+        },
+        {
+          "id": "odNEK-sN3sk",
+          "title": "Monday 6th July 2026: Mass of 6th Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/odNEK-sN3sk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T17:00:00Z"
+        },
+        {
+          "id": "6fiPF9uMVy8",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6fiPF9uMVy8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T17:00:00Z"
+        },
+        {
+          "id": "ZdMu4t4yi3s",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ZdMu4t4yi3s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T17:00:00Z"
+        },
+        {
+          "id": "_AdBWwimA0A",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_AdBWwimA0A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T17:00:00Z"
         }
       ]
     }
