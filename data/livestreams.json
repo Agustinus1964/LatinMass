@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-05T11:27:03.277Z",
+  "lastUpdated": "2026-07-05T12:48:05.441Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tdSXFfmbJi4",
-          "title": "6th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/tdSXFfmbJi4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "j9u5y5bnznI",
           "title": "Low Mass - 6th Sunday after Pentecost - 7/5/26",
@@ -64,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mz3M8pr243M",
-          "title": "Sunday 5th July 2026: Pontifical Mass by His Eminence Cardinal Burke",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/mz3M8pr243M/mqdefault_live.jpg",
+          "id": "T9zQPleI5nQ",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/T9zQPleI5nQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,31 +73,22 @@
           "scheduledTime": null
         },
         {
-          "id": "aGNX3GU9bYE",
-          "title": "Sunday 7 AM Catholic Mass for 07/05/2026",
+          "id": "i5V8wsZuelk",
+          "title": "Sunday 8:30 AM Catholic Mass for 07/05/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/aGNX3GU9bYE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/i5V8wsZuelk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "edFxMsIJWbM",
-          "title": "Missa rezada - VI Domingo depois de Pentecostes 2026",
+          "id": "9wV2XvX7VDk",
+          "title": "Missa cantada - VI Domingo depois de Pentecostes 2026",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/edFxMsIJWbM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/9wV2XvX7VDk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "T9zQPleI5nQ",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/T9zQPleI5nQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T12:00:00Z"
         },
         {
           "id": "5j7EROvHHfw",
