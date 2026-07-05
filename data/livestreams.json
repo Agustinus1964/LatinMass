@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T23:31:18.488Z",
+  "lastUpdated": "2026-07-05T02:44:55.298Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9nFPuyvaaa4",
+          "title": "Apologética bíblica: ¿Por qué vamos a Misa? P. Javier Ruíz Velasco",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/9nFPuyvaaa4/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ta2hF2hFA-0",
           "title": "8am — 6th Sunday after Pentecost",
