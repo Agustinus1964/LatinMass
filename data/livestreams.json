@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-05T02:44:55.298Z",
+  "lastUpdated": "2026-07-05T06:37:19.906Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NGsvy2MyK10/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T08:25:00Z"
+        },
+        {
+          "id": "tdSXFfmbJi4",
+          "title": "6th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/tdSXFfmbJi4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T10:00:00Z"
         },
         {
           "id": "j9u5y5bnznI",
@@ -63,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9nFPuyvaaa4",
-          "title": "Apologética bíblica: ¿Por qué vamos a Misa? P. Javier Ruíz Velasco",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/9nFPuyvaaa4/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ta2hF2hFA-0",
           "title": "8am — 6th Sunday after Pentecost",
@@ -179,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fiOWQzN-QvA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-05T16:00:00Z"
+        },
+        {
+          "id": "ZcE_z8EUwkA",
+          "title": "The Aridity of the Soul. Have you ever suffered from spiritual dryness?",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ZcE_z8EUwkA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-05T18:00:00Z"
         }
       ]
     }
