@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-05T06:37:19.906Z",
+  "lastUpdated": "2026-07-05T09:39:27.431Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "sZKvaVWb0s4",
-          "title": "Amt - 6. Sonntag nach Pfingsten - 05. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sZKvaVWb0s4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T07:30:00Z"
-        },
-        {
-          "id": "NGsvy2MyK10",
-          "title": "VI Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/NGsvy2MyK10/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T08:25:00Z"
+          "id": "l4EHs68hXio",
+          "title": "FSSPX Antwerpen - 05/07 6° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/l4EHs68hXio/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tdSXFfmbJi4",
@@ -73,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ta2hF2hFA-0",
-          "title": "8am — 6th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ta2hF2hFA-0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T07:00:00Z"
-        },
-        {
-          "id": "WUMLiguQ8Fw",
-          "title": "9:30am — 14th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/WUMLiguQ8Fw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T08:30:00Z"
+          "id": "mz3M8pr243M",
+          "title": "Sunday 5th July 2026: Pontifical Mass by His Eminence Cardinal Burke",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/mz3M8pr243M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "D8AYw_JdgSk",
@@ -96,17 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/D8AYw_JdgSk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T09:00:00Z"
-        },
-        {
-          "id": "mz3M8pr243M",
-          "title": "Sunday 5th July 2026: Pontifical Mass by His Eminence Cardinal Burke",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/mz3M8pr243M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UlAOLeHF_ss",
