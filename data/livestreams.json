@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-05T19:11:48.986Z",
+  "lastUpdated": "2026-07-05T20:34:35.732Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "eIF8xQFyHc4",
+          "title": "Hl. Messe - 06. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/eIF8xQFyHc4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T05:15:00Z"
+        },
         {
           "id": "BeoYCNo1VIU",
           "title": "Mon. Jul. 6, 2026    -    Ferial Day",
@@ -37,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Gug3nIEG3lc",
-          "title": "Santa Misa Dominical. 5 de Julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Gug3nIEG3lc/mqdefault_live.jpg",
+          "id": "loQtZQMhscM",
+          "title": "Missa Rezada do VI Domingo depois de Pentecostes e ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/loQtZQMhscM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
