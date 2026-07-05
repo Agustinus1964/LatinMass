@@ -1,62 +1,17 @@
 {
-  "lastUpdated": "2026-07-05T14:38:20.299Z",
+  "lastUpdated": "2026-07-05T16:04:11.559Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "j9u5y5bnznI",
-          "title": "Low Mass - 6th Sunday after Pentecost - 7/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/j9u5y5bnznI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xO4CVBPy1lc",
-          "title": "Sixth Sunday After Pentecost-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/xO4CVBPy1lc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hcYelpruQQY",
-          "title": "VI Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/hcYelpruQQY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lbbF6aGWUk0",
-          "title": "My Broadcast",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/lbbF6aGWUk0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "odEhd_rbtrM",
-          "title": "Sun. Jul. 5, 2026    -    Sixth Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/odEhd_rbtrM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mwjZHGwaRN4",
+          "id": "VgbAWEOxsMw",
           "title": "Sixth Sunday After Pentecost",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/mwjZHGwaRN4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T14:45:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/VgbAWEOxsMw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4FV53NCwa6U",
@@ -64,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/4FV53NCwa6U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qk8Wgp95YkA",
@@ -84,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BeoYCNo1VIU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-06T11:15:00Z"
+        },
+        {
+          "id": "NBl2VyG8Phg",
+          "title": "FSSPX Antwerpen - 06/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/NBl2VyG8Phg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-06T15:00:00Z"
         }
       ]
     },
@@ -91,20 +55,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5j7EROvHHfw",
-          "title": "Live Stream Holy Mass (Low Mass #2) from Cleveland USA (the Sixth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/5j7EROvHHfw/mqdefault_live.jpg",
+          "id": "5ZW-CcBnlsQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/5ZW-CcBnlsQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "iZTO2aVYF6U",
-          "title": "10:30am Sung Mass. Sixth Sunday after Pentecost. II. July 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iZTO2aVYF6U/mqdefault_live.jpg",
+          "id": "6-qgnrLkT5A",
+          "title": "SIXTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/6-qgnrLkT5A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "d8YvkNub4XU",
+          "title": "Sunday 11 AM Sung Mass 2026-07-05",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/d8YvkNub4XU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,31 +91,13 @@
           "scheduledTime": null
         },
         {
-          "id": "V38SpFMdMYg",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/V38SpFMdMYg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T14:45:00Z"
-        },
-        {
-          "id": "6-qgnrLkT5A",
-          "title": "SIXTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/6-qgnrLkT5A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T15:30:00Z"
-        },
-        {
-          "id": "hrCiwRdKFlE",
-          "title": "Secondes vêpres de la solennité de saint Pierre et saint Paul - HODIE SIMON PETRUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/hrCiwRdKFlE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T15:45:00Z"
+          "id": "HT1MI6Qg3Oc",
+          "title": "Santa Misa Dominical. 5 de Julio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/HT1MI6Qg3Oc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fiOWQzN-QvA",
@@ -150,8 +105,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/fiOWQzN-QvA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "hrCiwRdKFlE",
+          "title": "Secondes vêpres de la solennité de saint Pierre et saint Paul - HODIE SIMON PETRUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/hrCiwRdKFlE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZcE_z8EUwkA",
