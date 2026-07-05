@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-05T17:35:08.965Z",
+  "lastUpdated": "2026-07-05T19:11:48.986Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qk8Wgp95YkA",
-          "title": "VI Sunday after Pentecost | July 5th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/qk8Wgp95YkA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BeoYCNo1VIU",
           "title": "Mon. Jul. 6, 2026    -    Ferial Day",
@@ -46,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "btc7g1V5A30",
-          "title": "Sunday 1:30 PM Catholic Mass 07/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/btc7g1V5A30/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HT1MI6Qg3Oc",
+          "id": "Gug3nIEG3lc",
           "title": "Santa Misa Dominical. 5 de Julio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/HT1MI6Qg3Oc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Gug3nIEG3lc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ZcE_z8EUwkA",
-          "title": "The Aridity of the Soul. Have you ever suffered from spiritual dryness?",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ZcE_z8EUwkA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-05T18:00:00Z"
         },
         {
           "id": "C0PSUdq736M",
