@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-06T19:13:34.602Z",
+  "lastUpdated": "2026-07-06T21:08:38.005Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mujYZGnE1_I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-07T05:15:00Z"
+        },
+        {
+          "id": "ZL7tlb_VmQk",
+          "title": "Saints Cyril and Methodius, bishops and confessors",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ZL7tlb_VmQk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-07T07:30:00Z"
         },
         {
           "id": "Xu81_pPTTD8",
@@ -51,6 +60,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/_AdBWwimA0A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Zdzr_MCNE5E",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Zdzr_MCNE5E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/f0w-GH3fyII/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-07T17:00:00Z"
+        },
+        {
+          "id": "b9nkDx0dDZs",
+          "title": "Divine Office & 6pm Mass. Ss. Cyril & Methodius, Bishops & Confessors. III. Tuesday, July 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/b9nkDx0dDZs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-07T21:00:00Z"
         }
       ]
     }
