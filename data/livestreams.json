@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-06T05:52:20.214Z",
+  "lastUpdated": "2026-07-06T10:11:16.280Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "eIF8xQFyHc4",
-          "title": "Hl. Messe - 06. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/eIF8xQFyHc4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uigq_kwAr9g",
-          "title": "St. Maria Goretti, virgin and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/uigq_kwAr9g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-06T06:30:00Z"
-        },
         {
           "id": "BeoYCNo1VIU",
           "title": "Mon. Jul. 6, 2026    -    Ferial Day",
@@ -63,6 +45,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Xqs5_uvcXpQ",
+          "title": "Monday 6 AM Traditional Catholic Mass 07/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Xqs5_uvcXpQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "k1vkOKubJV0",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/k1vkOKubJV0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "C0PSUdq736M",
           "title": "7am Mass & Divine Office. Feria. IV. St. Maria Goretti, Virgin & Martyr. IV. Monday, July 6, 2026.",
