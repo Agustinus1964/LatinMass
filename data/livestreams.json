@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-06T10:11:16.280Z",
+  "lastUpdated": "2026-07-06T14:04:42.189Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BeoYCNo1VIU",
-          "title": "Mon. Jul. 6, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/BeoYCNo1VIU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-06T11:15:00Z"
-        },
         {
           "id": "NBl2VyG8Phg",
           "title": "FSSPX Antwerpen - 06/07 Aanbidding met Rozenhoedje",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mujYZGnE1_I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-07T05:15:00Z"
+        },
+        {
+          "id": "Xu81_pPTTD8",
+          "title": "Tue. Jul. 7, 2026    -    Saints Cyril and Methodius,   Bishops and Confessors",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Xu81_pPTTD8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-07T11:15:00Z"
         }
       ]
     },
@@ -46,40 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Xqs5_uvcXpQ",
-          "title": "Monday 6 AM Traditional Catholic Mass 07/06/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Xqs5_uvcXpQ/mqdefault_live.jpg",
+          "id": "V4ASQpxVTt0",
+          "title": "Santo Sacrificio delaMisa, Feria, 6 de junio de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/V4ASQpxVTt0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "k1vkOKubJV0",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/k1vkOKubJV0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "C0PSUdq736M",
-          "title": "7am Mass & Divine Office. Feria. IV. St. Maria Goretti, Virgin & Martyr. IV. Monday, July 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/C0PSUdq736M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-06T11:00:00Z"
-        },
-        {
-          "id": "_ejSGDbHry8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Maria Goretti, Virgin and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/_ejSGDbHry8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-06T11:30:00Z"
         },
         {
           "id": "odNEK-sN3sk",
@@ -116,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_AdBWwimA0A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-06T17:00:00Z"
+        },
+        {
+          "id": "_5euoTZADfc",
+          "title": "7am Mass & Divine Office. Ss. Cyril & Methodius, Bishops & Confessors. III. Tuesday, July 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/_5euoTZADfc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-07T11:00:00Z"
+        },
+        {
+          "id": "ve1LuFbdJAI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Cyril and Methodius, Bishops and Confessors)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ve1LuFbdJAI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-07T11:30:00Z"
         }
       ]
     }
