@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T08:19:21.439Z",
+  "lastUpdated": "2026-07-07T11:23:04.552Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/Xu81_pPTTD8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "V1E5YELVUio",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fCGLFiamZc8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-08T05:30:00Z"
+        },
+        {
+          "id": "oF-SMUTGORM",
+          "title": "Wed. Jul. 8, 2026    -    St. Elizabeth of Portugal,   Queen and Widow",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/oF-SMUTGORM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T11:15:00Z"
         }
       ]
     },
@@ -60,8 +69,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/_5euoTZADfc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ve1LuFbdJAI",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/b9nkDx0dDZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-07T21:00:00Z"
+        },
+        {
+          "id": "TY4rheFg6vQ",
+          "title": "7am Mass & Divine Office. St. Elizabeth of Portugal, Queen, Widow. III. Wednesday, July 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TY4rheFg6vQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T11:00:00Z"
         }
       ]
     }
