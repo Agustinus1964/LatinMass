@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T04:31:05.459Z",
+  "lastUpdated": "2026-07-07T08:19:21.439Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mujYZGnE1_I",
-          "title": "Hl. Messe - hl. Cyrill und Methodius - 07. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/mujYZGnE1_I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T05:15:00Z"
-        },
-        {
-          "id": "ZL7tlb_VmQk",
-          "title": "Saints Cyril and Methodius, bishops and confessors",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ZL7tlb_VmQk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T07:30:00Z"
-        },
         {
           "id": "Xu81_pPTTD8",
           "title": "Tue. Jul. 7, 2026    -    Saints Cyril and Methodius,   Bishops and Confessors",
@@ -48,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/XhM90x_K-y8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-07T16:30:00Z"
+        },
+        {
+          "id": "XqvxDV_guBg",
+          "title": "Hl. Messe - hl. Elisabeth - 08. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/XqvxDV_guBg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T05:15:00Z"
+        },
+        {
+          "id": "fCGLFiamZc8",
+          "title": "FSSPX Antwerpen - 08/07 H. ELIZABETH",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/fCGLFiamZc8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T05:30:00Z"
         }
       ]
     },
