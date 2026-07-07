@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-07T20:26:04.727Z",
+  "lastUpdated": "2026-07-07T21:52:17.817Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "n2wB-ayRA3M",
+          "title": "Mass of St Elizabeth, Queen of Portugal - 8.7.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/n2wB-ayRA3M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "XqvxDV_guBg",
           "title": "Hl. Messe - hl. Elisabeth - 08. Juli 2026",
@@ -51,8 +60,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/b9nkDx0dDZs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T21:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "o3L_9KdOuZM",
+          "title": "Rosário e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/o3L_9KdOuZM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TY4rheFg6vQ",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0BCaMbkVRAE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-08T17:00:00Z"
+        },
+        {
+          "id": "JrGRCN-kt-k",
+          "title": "5pm Sung Nuptial Mass. Wednesday, July 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/JrGRCN-kt-k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T21:00:00Z"
         }
       ]
     }
