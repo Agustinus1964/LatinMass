@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T16:26:41.741Z",
+  "lastUpdated": "2026-07-07T18:28:48.072Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XhM90x_K-y8",
-          "title": "FSSPX Antwerpen - 07/07 HH. CYRILLUS en METHODIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/XhM90x_K-y8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "XqvxDV_guBg",
           "title": "Hl. Messe - hl. Elisabeth - 08. Juli 2026",
@@ -46,33 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vCa6DjxU5WM",
-          "title": "Tuesday 7th July 2026: Saints Cyril and Methodius",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/vCa6DjxU5WM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T17:00:00Z"
-        },
-        {
-          "id": "XmfJjNXrcc4",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/XmfJjNXrcc4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T17:00:00Z"
-        },
-        {
-          "id": "f0w-GH3fyII",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/f0w-GH3fyII/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T17:00:00Z"
-        },
-        {
           "id": "b9nkDx0dDZs",
           "title": "Divine Office & 6pm Mass. Ss. Cyril & Methodius, Bishops & Confessors. III. Tuesday, July 7, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -98,6 +62,33 @@
           "thumbnail": "https://i.ytimg.com/vi/SzoukhRDXrA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-08T11:30:00Z"
+        },
+        {
+          "id": "t_4s6wNhTnQ",
+          "title": "Wednesday 8th July 2026: Saint Elizabeth of Portugal",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/t_4s6wNhTnQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T17:00:00Z"
+        },
+        {
+          "id": "Dle85bW2w4Y",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Dle85bW2w4Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T17:00:00Z"
+        },
+        {
+          "id": "0BCaMbkVRAE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/0BCaMbkVRAE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T17:00:00Z"
         }
       ]
     }
