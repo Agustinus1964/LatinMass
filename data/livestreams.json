@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-07T11:23:04.552Z",
+  "lastUpdated": "2026-07-07T13:31:56.386Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Xu81_pPTTD8",
-          "title": "Tue. Jul. 7, 2026    -    Saints Cyril and Methodius,   Bishops and Confessors",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Xu81_pPTTD8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "V1E5YELVUio",
           "title": "FSSPX Antwerpen - 07/07 Aanbidding met Rozenhoedje",
@@ -64,24 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_5euoTZADfc",
-          "title": "7am Mass & Divine Office. Ss. Cyril & Methodius, Bishops & Confessors. III. Tuesday, July 7, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_5euoTZADfc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ve1LuFbdJAI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Cyril and Methodius, Bishops and Confessors)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ve1LuFbdJAI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T11:30:00Z"
-        },
-        {
           "id": "vCa6DjxU5WM",
           "title": "Tuesday 7th July 2026: Saints Cyril and Methodius",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TY4rheFg6vQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-08T11:00:00Z"
+        },
+        {
+          "id": "SzoukhRDXrA",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Elizabeth of Portugal, Queen and Widow)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/SzoukhRDXrA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T11:30:00Z"
         }
       ]
     }
