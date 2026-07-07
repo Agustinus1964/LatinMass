@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-07T13:31:56.386Z",
+  "lastUpdated": "2026-07-07T16:26:41.741Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "V1E5YELVUio",
-          "title": "FSSPX Antwerpen - 07/07 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/V1E5YELVUio/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T15:00:00Z"
-        },
         {
           "id": "XhM90x_K-y8",
           "title": "FSSPX Antwerpen - 07/07 HH. CYRILLUS en METHODIUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/XhM90x_K-y8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-07T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XqvxDV_guBg",
