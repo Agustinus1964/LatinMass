@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-07T18:28:48.072Z",
+  "lastUpdated": "2026-07-07T20:26:04.727Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fCGLFiamZc8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-08T05:30:00Z"
+        },
+        {
+          "id": "60tVmQjF-XY",
+          "title": "Saint Elizabeth, queen and widow",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/60tVmQjF-XY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-08T07:30:00Z"
         },
         {
           "id": "oF-SMUTGORM",
