@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T09:04:50.837Z",
+  "lastUpdated": "2026-07-08T11:21:02.692Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/oF-SMUTGORM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QalNWZzW6Ro",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QalNWZzW6Ro/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T05:15:00Z"
+        },
+        {
+          "id": "MEXDQSkZOz8",
+          "title": "Thu. Jul. 9, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/MEXDQSkZOz8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T11:15:00Z"
         }
       ]
     },
@@ -28,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "aTMaOa4KoDA",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/aTMaOa4KoDA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "TY4rheFg6vQ",
           "title": "7am Mass & Divine Office. St. Elizabeth of Portugal, Queen, Widow. III. Wednesday, July 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/TY4rheFg6vQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SzoukhRDXrA",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JrGRCN-kt-k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-08T21:00:00Z"
+        },
+        {
+          "id": "yNEt3soAzIA",
+          "title": "7am Mass & Divine Office. Feria. IV. Thursday, July 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/yNEt3soAzIA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T11:00:00Z"
         }
       ]
     }
