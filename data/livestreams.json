@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-08T11:21:02.692Z",
+  "lastUpdated": "2026-07-08T12:59:21.899Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oF-SMUTGORM",
-          "title": "Wed. Jul. 8, 2026    -    St. Elizabeth of Portugal,   Queen and Widow",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/oF-SMUTGORM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QalNWZzW6Ro",
           "title": "Hl. Messe - 09. Juli 2026",
@@ -37,22 +28,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TY4rheFg6vQ",
-          "title": "7am Mass & Divine Office. St. Elizabeth of Portugal, Queen, Widow. III. Wednesday, July 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/TY4rheFg6vQ/mqdefault_live.jpg",
+          "id": "3lcH9TB7E80",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 07/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/3lcH9TB7E80/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "SzoukhRDXrA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Elizabeth of Portugal, Queen and Widow)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/SzoukhRDXrA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T11:30:00Z"
         },
         {
           "id": "t_4s6wNhTnQ",
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yNEt3soAzIA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T11:00:00Z"
+        },
+        {
+          "id": "LBHLimEKoM0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Most Holy Sacrament of the Eucharist)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/LBHLimEKoM0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T11:30:00Z"
         }
       ]
     }
