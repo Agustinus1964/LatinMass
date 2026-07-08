@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T15:28:04.415Z",
+  "lastUpdated": "2026-07-08T16:57:07.959Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ojwx4P8HiqE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T15:00:00Z"
+        },
+        {
+          "id": "7rD4Vw1ycWU",
+          "title": "FSSPX Antwerpen - 09/07 De Negentien HH. MARTELAREN van GORCUM",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/7rD4Vw1ycWU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T16:30:00Z"
         }
       ]
     },
@@ -51,8 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/t_4s6wNhTnQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Dle85bW2w4Y",
@@ -60,8 +69,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Dle85bW2w4Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "EeJ7SRUv5xY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/EeJ7SRUv5xY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-08T17:00:00Z"
+          "scheduledTime": "2026-07-08T16:58:00Z"
         },
         {
           "id": "0BCaMbkVRAE",
