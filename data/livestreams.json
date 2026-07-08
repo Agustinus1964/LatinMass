@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T16:57:07.959Z",
+  "lastUpdated": "2026-07-08T18:18:42.445Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,42 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "t_4s6wNhTnQ",
-          "title": "Wednesday 8th July 2026: Saint Elizabeth of Portugal",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/t_4s6wNhTnQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Dle85bW2w4Y",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Dle85bW2w4Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EeJ7SRUv5xY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/EeJ7SRUv5xY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T16:58:00Z"
-        },
-        {
-          "id": "0BCaMbkVRAE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/0BCaMbkVRAE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T17:00:00Z"
-        },
-        {
           "id": "JrGRCN-kt-k",
           "title": "5pm Sung Nuptial Mass. Wednesday, July 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -116,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/LBHLimEKoM0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T11:30:00Z"
+        },
+        {
+          "id": "K3egi_KdG2U",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/K3egi_KdG2U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T17:00:00Z"
+        },
+        {
+          "id": "XsdTubnXwLA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/XsdTubnXwLA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T17:00:00Z"
         }
       ]
     }
