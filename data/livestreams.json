@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-08T06:24:40.258Z",
+  "lastUpdated": "2026-07-08T09:04:50.837Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "60tVmQjF-XY",
-          "title": "Saint Elizabeth, queen and widow",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/60tVmQjF-XY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-08T06:30:00Z"
-        },
         {
           "id": "oF-SMUTGORM",
           "title": "Wed. Jul. 8, 2026    -    St. Elizabeth of Portugal,   Queen and Widow",
@@ -36,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "aTMaOa4KoDA",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/aTMaOa4KoDA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "TY4rheFg6vQ",
           "title": "7am Mass & Divine Office. St. Elizabeth of Portugal, Queen, Widow. III. Wednesday, July 8, 2026.",
