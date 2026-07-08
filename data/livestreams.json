@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-08T20:01:47.982Z",
+  "lastUpdated": "2026-07-08T21:39:05.335Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ttkNLI4SoJk",
+          "title": "Ferial - 9.7.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ttkNLI4SoJk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "QalNWZzW6Ro",
           "title": "Hl. Messe - 09. Juli 2026",
@@ -69,8 +78,26 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/JrGRCN-kt-k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ndJ54l-CoIc",
+          "title": "Rosário e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ndJ54l-CoIc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "EIIOtRIXniE",
+          "title": "Thursday 9th July 2026: Votive Mass of the Blessed Sacrament",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/EIIOtRIXniE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-08T21:00:00Z"
+          "scheduledTime": "2026-07-09T07:00:00Z"
         },
         {
           "id": "yNEt3soAzIA",
@@ -107,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XsdTubnXwLA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T17:00:00Z"
+        },
+        {
+          "id": "7KPhsTcT6hY",
+          "title": "Divine Office & 6pm Mass. Feria. IV. Thursday, July 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/7KPhsTcT6hY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T21:00:00Z"
         }
       ]
     }
