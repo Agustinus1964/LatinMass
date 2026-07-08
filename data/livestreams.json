@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-08T21:39:05.335Z",
+  "lastUpdated": "2026-07-08T23:01:57.555Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ttkNLI4SoJk",
-          "title": "Ferial - 9.7.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ttkNLI4SoJk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QalNWZzW6Ro",
           "title": "Hl. Messe - 09. Juli 2026",
@@ -78,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/JrGRCN-kt-k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ndJ54l-CoIc",
-          "title": "Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ndJ54l-CoIc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
