@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-08T18:18:42.445Z",
+  "lastUpdated": "2026-07-08T20:01:47.982Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QalNWZzW6Ro/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T05:15:00Z"
+        },
+        {
+          "id": "E3fQGX-Wmng",
+          "title": "St. John Fisher, bishop, and St. Thomas More, Martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/E3fQGX-Wmng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-09T07:30:00Z"
         },
         {
           "id": "MEXDQSkZOz8",
