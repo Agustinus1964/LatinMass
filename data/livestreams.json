@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-09T05:34:30.478Z",
+  "lastUpdated": "2026-07-09T09:32:12.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QalNWZzW6Ro",
-          "title": "Hl. Messe - 09. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QalNWZzW6Ro/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E3fQGX-Wmng",
-          "title": "St. John Fisher, bishop, and St. Thomas More, Martyrs",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/E3fQGX-Wmng/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T06:30:00Z"
-        },
         {
           "id": "MEXDQSkZOz8",
           "title": "Thu. Jul. 9, 2026    -    Ferial Day",
@@ -73,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "EIIOtRIXniE",
-          "title": "Thursday 9th July 2026: Votive Mass of the Blessed Sacrament",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/EIIOtRIXniE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T07:00:00Z"
+          "id": "NdE9669uYEk",
+          "title": "Prima e Missa Rezada de Nossa Senhora Rainha da Paz",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/NdE9669uYEk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "yNEt3soAzIA",
