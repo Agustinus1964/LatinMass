@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T17:51:36.599Z",
+  "lastUpdated": "2026-07-09T19:39:33.116Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "QhpBwLpi2Es",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/QhpBwLpi2Es/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XsdTubnXwLA",
+          "id": "pRfX6-7pSkQ",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/XsdTubnXwLA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/pRfX6-7pSkQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,15 +96,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/cAcSpYVuPOY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T17:00:00Z"
-        },
-        {
-          "id": "pRfX6-7pSkQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/pRfX6-7pSkQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T17:00:00Z"
         }
