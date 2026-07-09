@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-07-09T15:41:41.091Z",
+  "lastUpdated": "2026-07-09T17:51:36.599Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OlyZxxOd0Sc",
-          "title": "FSSPX Antwerpen - 09/07 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/OlyZxxOd0Sc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ojwx4P8HiqE",
-          "title": "Sakramentsandacht - 09. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Ojwx4P8HiqE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7rD4Vw1ycWU",
-          "title": "FSSPX Antwerpen - 09/07 De Negentien HH. MARTELAREN van GORCUM",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7rD4Vw1ycWU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T16:30:00Z"
-        },
         {
           "id": "4C9qTdVVZi4",
           "title": "Hl. Messe - hl. Sieben Brüder, hl. Rufina und hl. Secunda - 10. Juli 2026",
@@ -57,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/wdTIJ7perPs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T15:00:00Z"
+        },
+        {
+          "id": "Zo2d24cAias",
+          "title": "FSSPX Antwerpen - 10/07 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Zo2d24cAias/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T15:45:00Z"
+        },
+        {
+          "id": "tq5kXVyPrCg",
+          "title": "FSSPX Antwerpen - 10/07 De Zeven HH. BROERS en de HH. RUFINA en SECUNDA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/tq5kXVyPrCg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T16:30:00Z"
         }
       ]
     },
@@ -64,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "K3egi_KdG2U",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/K3egi_KdG2U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T17:00:00Z"
+          "id": "QhpBwLpi2Es",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/QhpBwLpi2Es/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XsdTubnXwLA",
@@ -78,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/XsdTubnXwLA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7KPhsTcT6hY",
@@ -98,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/J3O_JVn9rZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T15:00:00Z"
+        },
+        {
+          "id": "b-9IVlReSdc",
+          "title": "Friday 10th July 2026: Seven Holy Brothers, Sts. Rufina and Secunda",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/b-9IVlReSdc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T17:00:00Z"
+        },
+        {
+          "id": "cAcSpYVuPOY",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/cAcSpYVuPOY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T17:00:00Z"
+        },
+        {
+          "id": "pRfX6-7pSkQ",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/pRfX6-7pSkQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T17:00:00Z"
         }
       ]
     }
