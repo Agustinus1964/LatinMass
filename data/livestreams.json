@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-09T19:39:33.116Z",
+  "lastUpdated": "2026-07-09T21:19:39.988Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "YtocVUYdih0",
+          "title": "Mass of Seven Holy Brothers - 10.7.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/YtocVUYdih0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "4C9qTdVVZi4",
           "title": "Hl. Messe - hl. Sieben Brüder, hl. Rufina und hl. Secunda - 10. Juli 2026",
@@ -55,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "7KPhsTcT6hY",
+          "title": "Divine Office & 6pm Mass. Feria. IV. Thursday, July 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/7KPhsTcT6hY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "pRfX6-7pSkQ",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -64,13 +82,13 @@
           "scheduledTime": null
         },
         {
-          "id": "7KPhsTcT6hY",
-          "title": "Divine Office & 6pm Mass. Feria. IV. Thursday, July 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/7KPhsTcT6hY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T21:00:00Z"
+          "id": "MZEYJVnL7qs",
+          "title": "Missa Tridentina em Brasília está ao vivo!",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/MZEYJVnL7qs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "J3O_JVn9rZs",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cAcSpYVuPOY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T17:00:00Z"
+        },
+        {
+          "id": "Yy3kfvNDosI",
+          "title": "Divine Office, Mass, Holy Hour. 7 Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Yy3kfvNDosI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T21:00:00Z"
         }
       ]
     }
