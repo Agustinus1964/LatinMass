@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-09T12:28:43.509Z",
+  "lastUpdated": "2026-07-09T15:41:41.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/OlyZxxOd0Sc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ojwx4P8HiqE",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/Ojwx4P8HiqE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-09T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7rD4Vw1ycWU",
@@ -48,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/y7Eiay8CenU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T11:15:00Z"
+        },
+        {
+          "id": "wdTIJ7perPs",
+          "title": "FSSPX Antwerpen - 10/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/wdTIJ7perPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UAYYZxTWgbY",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 07/09/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UAYYZxTWgbY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "K3egi_KdG2U",
           "title": "Thursday",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7KPhsTcT6hY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-09T21:00:00Z"
+        },
+        {
+          "id": "J3O_JVn9rZs",
+          "title": "11am Mass & Divine Office. Seven Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/J3O_JVn9rZs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-10T15:00:00Z"
         }
       ]
     }
