@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-10T21:57:56.786Z",
+  "lastUpdated": "2026-07-10T23:00:58.608Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hcH5aHwDSAA",
-          "title": "St Oliver Plunkett - 11th July 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/hcH5aHwDSAA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rSSHU1ftYgI",
           "title": "FSSPX Antwerpen - 11/07 ONZE-LIEVE-VROUW op ZATERDAG",
@@ -46,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "JK9e9iqy_CQ",
+          "title": "Live Stream Holy Mass from Cleveland (Seven Holy Brothers, Martyrs.; Ss Rufina & Secunda, VvMm.)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/JK9e9iqy_CQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Yy3kfvNDosI",
           "title": "Divine Office, Mass, Holy Hour. 7 Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,22 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "C4GUenbgYjs",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/C4GUenbgYjs/mqdefault_live.jpg",
+          "id": "KAix01F9tLg",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 07/10/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/KAix01F9tLg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "JK9e9iqy_CQ",
-          "title": "Live Stream Holy Mass from Cleveland (Seven Holy Brothers, Martyrs.; Ss Rufina & Secunda, VvMm.)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/JK9e9iqy_CQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T22:30:00Z"
         },
         {
           "id": "tZQPvcdOiko",
