@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-10T04:31:51.849Z",
+  "lastUpdated": "2026-07-10T08:18:31.522Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4C9qTdVVZi4",
-          "title": "Hl. Messe - hl. Sieben Brüder, hl. Rufina und hl. Secunda - 10. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4C9qTdVVZi4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T05:15:00Z"
-        },
         {
           "id": "y7Eiay8CenU",
           "title": "Fri. Jul. 10, 2026    -    The Seven Holy Brothers,  Martyrs",
@@ -48,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/tq5kXVyPrCg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T16:30:00Z"
+        },
+        {
+          "id": "rSSHU1ftYgI",
+          "title": "FSSPX Antwerpen - 11/07 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/rSSHU1ftYgI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-11T05:30:00Z"
+        },
+        {
+          "id": "lm81HMR0_B0",
+          "title": "Hl. Messe - 11. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lm81HMR0_B0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-11T06:15:00Z"
         }
       ]
     },
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JK9e9iqy_CQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-10T22:30:00Z"
+        },
+        {
+          "id": "tZQPvcdOiko",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/tZQPvcdOiko/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-11T07:30:00Z"
         }
       ]
     }
