@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-10T11:23:34.006Z",
+  "lastUpdated": "2026-07-10T13:25:11.423Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "y7Eiay8CenU",
-          "title": "Fri. Jul. 10, 2026    -    The Seven Holy Brothers,  Martyrs",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/y7Eiay8CenU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "o_9g6_129e8",
-          "title": "Spiritual Conference: Pope Leo XIII's Papal Encyclical Humanum Genus",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/o_9g6_129e8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T11:45:00Z"
-        },
         {
           "id": "wdTIJ7perPs",
           "title": "FSSPX Antwerpen - 10/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lm81HMR0_B0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-11T06:15:00Z"
+        },
+        {
+          "id": "v3R6xrAiLmo",
+          "title": "Sat. Jul. 11, 2026    -    Blessed Virgin Mary on Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/v3R6xrAiLmo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-11T12:00:00Z"
         }
       ]
     },
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Tb7aYnBK-xc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-11T10:30:00Z"
+        },
+        {
+          "id": "93qKOkyucGQ",
+          "title": "9am Sung Mass. Our Lady on Saturday. IV. Dedication of Church (anniversary St. Mary's). 7-11-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/93qKOkyucGQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-11T13:00:00Z"
         }
       ]
     }
