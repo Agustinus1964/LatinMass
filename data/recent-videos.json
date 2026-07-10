@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-07-09T23:44:08.249Z",
+  "lastUpdated": "2026-07-10T02:31:02.638Z",
   "videos": [
+    {
+      "id": "2fbjXEEcYXw",
+      "title": "Holy Mass 7/9/26 - Ferial Day",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/2fbjXEEcYXw/mqdefault.jpg",
+      "publishedAt": "2026-07-10T01:12:54Z",
+      "category": "What Catholics Believe"
+    },
+    {
+      "id": "D1YRtJqSQKc",
+      "title": "Fr. Altman on the SSPX Bishop Consecrations and Excommunications",
+      "channel": "LSNTV",
+      "channelId": "UCw8JTSl7MOe0mgTb4Tfkozw",
+      "description": "The SSPX controversy is not about one Society. It is a defining moment that exposes the deep divisions within the Catholic Church, between fidelity to historic doctrine and obedience to modern theolog",
+      "thumbnail": "https://i.ytimg.com/vi/D1YRtJqSQKc/mqdefault.jpg",
+      "publishedAt": "2026-07-10T00:00:06Z",
+      "category": "John Henry Westen Channel"
+    },
+    {
+      "id": "HDq3eDOM7F8",
+      "title": "Holy Hour of Reparation 7/9/26",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/HDq3eDOM7F8/mqdefault_live.jpg",
+      "publishedAt": "2026-07-09T23:51:12Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "LYqfZkd3t7Y",
       "title": "2 Reasons the Latin Mass is More Substantial",
@@ -10,6 +40,16 @@
       "thumbnail": "https://i.ytimg.com/vi/LYqfZkd3t7Y/mqdefault.jpg",
       "publishedAt": "2026-07-09T23:03:53Z",
       "category": "Dr. Taylor Marshall"
+    },
+    {
+      "id": "VmiEC4-IsxQ",
+      "title": "US Catholic History And The Heresy of Americanism Featuring Bishop Donald Sanborn",
+      "channel": "Integrity Magazine",
+      "channelId": "UCiU3Y8yDovJTJjzQxEHgklg",
+      "description": "His Excellency Bishop Donald Sanborn, the Superior General of the Roman Catholic Institute, joins the Integrity Magazine podcast.\n\nVisit the Roman Catholic Institute's website: https://romancatholicin",
+      "thumbnail": "https://i.ytimg.com/vi/VmiEC4-IsxQ/mqdefault.jpg",
+      "publishedAt": "2026-07-09T23:00:06Z",
+      "category": "Stephen Kokx"
     },
     {
       "id": "RieUjYjBpvo",
@@ -62,16 +102,6 @@
       "category": "John Henry Westen Channel"
     },
     {
-      "id": "V4cEHDcZwT8",
-      "title": "A bonfire association in Northern Ireland will burn a replica mosque on Saturday",
-      "channel": "LSNTV",
-      "channelId": "UCw8JTSl7MOe0mgTb4Tfkozw",
-      "description": "A bonfire association in Northern Ireland will burn a replica mosque on Saturday in opposition to Islamic immigration",
-      "thumbnail": "https://i.ytimg.com/vi/V4cEHDcZwT8/mqdefault.jpg",
-      "publishedAt": "2026-07-09T18:53:44Z",
-      "category": "John Henry Westen Channel"
-    },
-    {
       "id": "ofsyasqyu6c",
       "title": "How Long Should You Date? - SSPX Podcast Shorts #SSPX #catholic",
       "channel": "SSPX News - English",
@@ -110,16 +140,6 @@
       "thumbnail": "https://i.ytimg.com/vi/S8aGZb3Knqk/mqdefault.jpg",
       "publishedAt": "2026-07-09T14:00:55Z",
       "category": "Pelican Plus"
-    },
-    {
-      "id": "2fbjXEEcYXw",
-      "title": "Holy Mass 7/9/26 - Ferial Day",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/2fbjXEEcYXw/mqdefault_live.jpg",
-      "publishedAt": "2026-07-09T11:46:00Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "Otuq0Hk6SWc",
@@ -310,16 +330,6 @@
       "thumbnail": "https://i.ytimg.com/vi/98e6eJ69ZDY/mqdefault.jpg",
       "publishedAt": "2026-07-08T01:46:17Z",
       "category": "Dr. Taylor Marshall"
-    },
-    {
-      "id": "qGW3-0L7CPs",
-      "title": "Holy Mass 7/7/26 - Feast of Sts. Cyril & Methodius",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/qGW3-0L7CPs/mqdefault.jpg",
-      "publishedAt": "2026-07-08T01:18:36Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "qekYOn8KZNs",
