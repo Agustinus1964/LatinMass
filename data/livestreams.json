@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-10T13:25:11.423Z",
+  "lastUpdated": "2026-07-10T15:52:10.810Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wdTIJ7perPs",
-          "title": "FSSPX Antwerpen - 10/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/wdTIJ7perPs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T15:00:00Z"
-        },
         {
           "id": "Zo2d24cAias",
           "title": "FSSPX Antwerpen - 10/07 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/Zo2d24cAias/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tq5kXVyPrCg",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "J3O_JVn9rZs",
+          "title": "11am Mass & Divine Office. Seven Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/J3O_JVn9rZs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "pRfX6-7pSkQ",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -71,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pRfX6-7pSkQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "J3O_JVn9rZs",
-          "title": "11am Mass & Divine Office. Seven Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/J3O_JVn9rZs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-10T15:00:00Z"
         },
         {
           "id": "b-9IVlReSdc",
