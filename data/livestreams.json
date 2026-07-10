@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-10T20:48:08.504Z",
+  "lastUpdated": "2026-07-10T21:57:56.786Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hcH5aHwDSAA",
+          "title": "St Oliver Plunkett - 11th July 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/hcH5aHwDSAA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "rSSHU1ftYgI",
           "title": "FSSPX Antwerpen - 11/07 ONZE-LIEVE-VROUW op ZATERDAG",
@@ -42,6 +51,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Yy3kfvNDosI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "C4GUenbgYjs",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/C4GUenbgYjs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
