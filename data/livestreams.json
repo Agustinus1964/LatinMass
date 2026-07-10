@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T17:44:24.347Z",
+  "lastUpdated": "2026-07-10T19:21:54.811Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "b-9IVlReSdc",
-          "title": "Friday 10th July 2026: Seven Holy Brothers, Sts. Rufina and Secunda",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/b-9IVlReSdc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pRfX6-7pSkQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/pRfX6-7pSkQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Yy3kfvNDosI",
           "title": "Divine Office, Mass, Holy Hour. 7 Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
