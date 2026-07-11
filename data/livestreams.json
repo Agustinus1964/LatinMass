@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T15:28:58.851Z",
+  "lastUpdated": "2026-07-11T16:26:46.440Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2zoF2piBwm4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T14:45:20Z"
+        },
+        {
+          "id": "h1HI8Fux9Gg",
+          "title": "Vesper und Sakramentsandacht - 7. Sonntag nach Pfingsten - 12. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/h1HI8Fux9Gg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T15:30:00Z"
         }
       ]
     },
@@ -116,6 +125,33 @@
           "thumbnail": "https://i.ytimg.com/vi/0A3jvtqXhVw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T14:45:00Z"
+        },
+        {
+          "id": "JoXcD2UXdxc",
+          "title": "SEVENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/JoXcD2UXdxc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T15:30:00Z"
+        },
+        {
+          "id": "aw-gaUBXmlI",
+          "title": "Secondes vêpres du VIIème dimanche après la Pentecôte - PRÆCEPTOR",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/aw-gaUBXmlI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T15:45:00Z"
+        },
+        {
+          "id": "Xs5YrOfwHQk",
+          "title": "Vespers and Benediction — 7th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Xs5YrOfwHQk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T16:00:00Z"
         }
       ]
     }
