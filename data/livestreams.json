@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T18:28:29.764Z",
+  "lastUpdated": "2026-07-11T19:42:28.546Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8pMlXNCl7cE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T08:25:00Z"
+        },
+        {
+          "id": "XWESwLYYNMc",
+          "title": "7th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/XWESwLYYNMc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T10:00:00Z"
         },
         {
           "id": "rtbyhrRrz7s",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/h1HI8Fux9Gg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T15:30:00Z"
+        },
+        {
+          "id": "w7lWUWQwc6k",
+          "title": "VII Sunday after Pentecost | July 12th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/w7lWUWQwc6k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T17:00:00Z"
         }
       ]
     },
@@ -118,6 +136,15 @@
           "scheduledTime": "2026-07-12T12:00:00Z"
         },
         {
+          "id": "ubOWoD0iRj0",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Seventh Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ubOWoD0iRj0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T14:30:00Z"
+        },
+        {
           "id": "bwl7rC6LD_g",
           "title": "10:30am Sung Mass. Seventh Sunday after Pentecost. II. July 12, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -161,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Xs5YrOfwHQk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T16:00:00Z"
+        },
+        {
+          "id": "MjKoNnC4cqM",
+          "title": "You Must End Your Compromise with the World. No man can serve two masters.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/MjKoNnC4cqM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T18:00:00Z"
         }
       ]
     }
