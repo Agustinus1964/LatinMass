@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-11T12:30:36.789Z",
+  "lastUpdated": "2026-07-11T14:19:59.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "v3R6xrAiLmo",
-          "title": "Sat. Jul. 11, 2026    -    Blessed Virgin Mary on Saturday",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/v3R6xrAiLmo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pX14JhvFYy4",
           "title": "Amt - 7. Sonntag nach Pfingsten - 12. Juli 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pX14JhvFYy4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T07:30:00Z"
+        },
+        {
+          "id": "rtbyhrRrz7s",
+          "title": "Low Mass - 7th Sunday after Pentecost - 7/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/rtbyhrRrz7s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T13:45:00Z"
         }
       ]
     },
@@ -28,22 +28,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SnTgSSYILGk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/SnTgSSYILGk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-11T13:00:00Z"
+          "id": "TuIM2EO29-o",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/TuIM2EO29-o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "93qKOkyucGQ",
-          "title": "9am Sung Mass. Our Lady on Saturday. IV. Dedication of Church (anniversary of St. Mary's). 7-11-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/93qKOkyucGQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-11T13:00:00Z"
+          "id": "alwy5BE7V0Y",
+          "title": "Santo Sacrificio de la Misa, Santísima Virgen en Sábado, 11 julio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/alwy5BE7V0Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HNTXcchIF-g",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Bv0tIU92t4U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T11:00:00Z"
+        },
+        {
+          "id": "EIzjmI1h7aI",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Seventh Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/EIzjmI1h7aI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T12:00:00Z"
         }
       ]
     }
