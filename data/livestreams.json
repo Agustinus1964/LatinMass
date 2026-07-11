@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T23:00:58.608Z",
+  "lastUpdated": "2026-07-11T00:55:00.737Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,33 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "JK9e9iqy_CQ",
-          "title": "Live Stream Holy Mass from Cleveland (Seven Holy Brothers, Martyrs.; Ss Rufina & Secunda, VvMm.)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/JK9e9iqy_CQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Yy3kfvNDosI",
-          "title": "Divine Office, Mass, Holy Hour. 7 Holy Brothers Martyrs, & Rufina & Secunda, Virgins & Martyrs. III.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Yy3kfvNDosI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KAix01F9tLg",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 07/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/KAix01F9tLg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tZQPvcdOiko",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -89,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Tb7aYnBK-xc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-11T10:30:00Z"
+        },
+        {
+          "id": "SnTgSSYILGk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/SnTgSSYILGk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-11T13:00:00Z"
         },
         {
           "id": "93qKOkyucGQ",
