@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T08:44:02.045Z",
+  "lastUpdated": "2026-07-11T10:11:31.381Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -18,15 +18,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Tb7aYnBK-xc",
-          "title": "Saturday 11th July 2026: Saturday Mass of Our Lady",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Tb7aYnBK-xc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-11T10:30:00Z"
-        },
         {
           "id": "SnTgSSYILGk",
           "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
@@ -62,6 +53,33 @@
           "thumbnail": "https://i.ytimg.com/vi/XhZwsUw8CXA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-12T08:30:00Z"
+        },
+        {
+          "id": "-EuhqV9hjUc",
+          "title": "Sainte messe du VIIème dimanche après la Pentecôte - OMNES GENTES",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/-EuhqV9hjUc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T09:00:00Z"
+        },
+        {
+          "id": "Z1eh1CnPrG0",
+          "title": "Sunday 12th July 2026: Seventh Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Z1eh1CnPrG0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T09:30:00Z"
+        },
+        {
+          "id": "4vwDiq7t4Ng",
+          "title": "11am — 15th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4vwDiq7t4Ng/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-12T10:00:00Z"
         }
       ]
     }
