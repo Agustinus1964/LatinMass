@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-07-12T14:39:55.807Z",
+  "lastUpdated": "2026-07-12T15:55:54.121Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PVYk5zK_43A",
-          "title": "Seventh Sunday After Pentecost - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/PVYk5zK_43A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QbARSMPH45w",
-          "title": "VII Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/QbARSMPH45w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Gom4uHI_yww",
-          "title": "Sun. Jul. 12, 2026    -    Seventh Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Gom4uHI_yww/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2zoF2piBwm4",
           "title": "Seventh Sunday after Pentecost, July 12, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/2zoF2piBwm4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T14:45:20Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "h1HI8Fux9Gg",
@@ -46,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/h1HI8Fux9Gg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "w7lWUWQwc6k",
@@ -66,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/o-6v4wAovBs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-13T11:15:00Z"
+        },
+        {
+          "id": "Cle3CVSV-kg",
+          "title": "FSSPX Antwerpen - 13/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Cle3CVSV-kg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-13T15:00:00Z"
         }
       ]
     },
@@ -82,11 +64,38 @@
           "scheduledTime": null
         },
         {
+          "id": "l1p4o7-rHG0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/l1p4o7-rHG0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "bwl7rC6LD_g",
           "title": "10:30am Sung Mass. Seventh Sunday after Pentecost. II. July 12, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bwl7rC6LD_g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "JoXcD2UXdxc",
+          "title": "SEVENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/JoXcD2UXdxc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Y0qeJHCCCo4",
+          "title": "Sunday 11 AM Sung Mass 2026-07-12",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Y0qeJHCCCo4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,31 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "0A3jvtqXhVw",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/0A3jvtqXhVw/mqdefault_live.jpg",
+          "id": "OFN0gBqDfuE",
+          "title": "Santa Misa Dominical. 12 de julio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/OFN0gBqDfuE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "JoXcD2UXdxc",
-          "title": "SEVENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/JoXcD2UXdxc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T15:30:00Z"
-        },
-        {
-          "id": "aw-gaUBXmlI",
-          "title": "Secondes vêpres du VIIème dimanche après la Pentecôte - PRÆCEPTOR",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/aw-gaUBXmlI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T15:45:00Z"
         },
         {
           "id": "Xs5YrOfwHQk",
@@ -132,8 +123,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Xs5YrOfwHQk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "aw-gaUBXmlI",
+          "title": "Secondes vêpres du VIIème dimanche après la Pentecôte - PRÆCEPTOR",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/aw-gaUBXmlI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MjKoNnC4cqM",
