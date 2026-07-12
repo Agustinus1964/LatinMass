@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T13:11:56.375Z",
+  "lastUpdated": "2026-07-12T14:39:55.807Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,11 +14,20 @@
           "scheduledTime": null
         },
         {
-          "id": "XWESwLYYNMc",
-          "title": "7th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/XWESwLYYNMc/mqdefault_live.jpg",
+          "id": "QbARSMPH45w",
+          "title": "VII Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/QbARSMPH45w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Gom4uHI_yww",
+          "title": "Sun. Jul. 12, 2026    -    Seventh Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Gom4uHI_yww/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,49 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sRIJSegIZBw",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/sRIJSegIZBw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Bv0tIU92t4U",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Seventh Sunday after Pentecost. II. July 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Bv0tIU92t4U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vkGLR_uvYv4",
-          "title": "Sunday 8:30 AM Catholic Mass for 07/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/vkGLR_uvYv4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2Dc3xxQ98Fc",
-          "title": "Missa Cantada  VII Domingo Depois De Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/2Dc3xxQ98Fc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ubOWoD0iRj0",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Seventh Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/ubOWoD0iRj0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bwl7rC6LD_g",
@@ -114,8 +87,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/bwl7rC6LD_g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Qm3UXuIRtBA",
@@ -123,8 +96,8 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/Qm3UXuIRtBA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0A3jvtqXhVw",
@@ -132,8 +105,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/0A3jvtqXhVw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JoXcD2UXdxc",
