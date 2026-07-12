@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-07-12T08:10:56.609Z",
+  "lastUpdated": "2026-07-12T10:06:03.469Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CsViaSDnWtI",
-          "title": "FSSPX Antwerpen - 12/07 7° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/CsViaSDnWtI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pX14JhvFYy4",
-          "title": "Amt - 7. Sonntag nach Pfingsten - 12. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/pX14JhvFYy4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8pMlXNCl7cE",
-          "title": "VII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/8pMlXNCl7cE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T08:25:00Z"
-        },
         {
           "id": "XWESwLYYNMc",
           "title": "7th Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/XWESwLYYNMc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rtbyhrRrz7s",
@@ -82,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "XhZwsUw8CXA",
-          "title": "9:30am — 15th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/XhZwsUw8CXA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T08:30:00Z"
-        },
-        {
-          "id": "-EuhqV9hjUc",
-          "title": "Sainte messe du VIIème dimanche après la Pentecôte - OMNES GENTES",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/-EuhqV9hjUc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T09:00:00Z"
-        },
-        {
           "id": "Z1eh1CnPrG0",
           "title": "Sunday 12th July 2026: Seventh Sunday after Pentecost",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/Z1eh1CnPrG0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4vwDiq7t4Ng",
@@ -114,8 +69,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/4vwDiq7t4Ng/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-EuhqV9hjUc",
+          "title": "Sainte messe du VIIème dimanche après la Pentecôte - OMNES GENTES",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/-EuhqV9hjUc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Bv0tIU92t4U",
