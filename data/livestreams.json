@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-12T17:58:19.510Z",
+  "lastUpdated": "2026-07-12T19:11:46.312Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "w7lWUWQwc6k",
-          "title": "VII Sunday after Pentecost | July 12th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/w7lWUWQwc6k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "o-6v4wAovBs",
           "title": "Mon. Jul. 13, 2026    -    Ferial Day",
@@ -46,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4KtaRPoTAto",
-          "title": "Sunday 1:30 PM Catholic Mass 07/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/4KtaRPoTAto/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OFN0gBqDfuE",
+          "id": "SG7nwdzLMZg",
           "title": "Santa Misa Dominical. 12 de julio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/OFN0gBqDfuE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/SG7nwdzLMZg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "MjKoNnC4cqM",
-          "title": "You Must End Your Compromise with the World. No man can serve two masters.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/MjKoNnC4cqM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T18:00:00Z"
         },
         {
           "id": "9d6IRXqagqI",
