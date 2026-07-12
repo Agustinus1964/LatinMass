@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-07-12T19:11:46.312Z",
+  "lastUpdated": "2026-07-12T20:12:25.084Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "BD3kWf48OUk",
+          "title": "Hl. Messe - 13. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/BD3kWf48OUk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-13T06:00:00Z"
+        },
+        {
+          "id": "MoeQ4aK4A-A",
+          "title": "Feria: 7ᵗʰ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/MoeQ4aK4A-A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-13T07:30:00Z"
+        },
         {
           "id": "o-6v4wAovBs",
           "title": "Mon. Jul. 13, 2026    -    Ferial Day",
@@ -23,6 +41,15 @@
           "scheduledTime": "2026-07-13T15:00:00Z"
         },
         {
+          "id": "oop6DytqVqA",
+          "title": "Fatima-Sühne-Abend und Singmesse - 13. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/oop6DytqVqA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-13T16:00:00Z"
+        },
+        {
           "id": "fkY6HPJKGo8",
           "title": "FSSPX Antwerpen - 13/07 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -37,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SG7nwdzLMZg",
-          "title": "Santa Misa Dominical. 12 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/SG7nwdzLMZg/mqdefault_live.jpg",
+          "id": "Wy5eBrUD3TA",
+          "title": "Missa rezada - sétimo domingo depois de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Wy5eBrUD3TA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/stF8_fQ5ubA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-13T11:30:00Z"
+        },
+        {
+          "id": "4UcEK_TRmeg",
+          "title": "Monday 13th July 2026: Votive Mass of the Blessed Trinity",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/4UcEK_TRmeg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-13T17:00:00Z"
         },
         {
           "id": "9sHIjRQo4ls",
