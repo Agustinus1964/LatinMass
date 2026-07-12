@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-11T23:51:26.192Z",
+  "lastUpdated": "2026-07-12T02:26:01.414Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
           "id": "Zbv515vNff0",
-          "title": "Sung Mass - 8th Sunday after Pentecost",
+          "title": "Sung Mass - 7th Sunday after Pentecost",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/Zbv515vNff0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T01:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pX14JhvFYy4",
