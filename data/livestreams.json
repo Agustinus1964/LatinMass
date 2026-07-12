@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-07-12T05:41:08.082Z",
+  "lastUpdated": "2026-07-12T08:10:56.609Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CsViaSDnWtI",
+          "title": "FSSPX Antwerpen - 12/07 7° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/CsViaSDnWtI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pX14JhvFYy4",
           "title": "Amt - 7. Sonntag nach Pfingsten - 12. Juli 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/pX14JhvFYy4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8pMlXNCl7cE",
@@ -72,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HNTXcchIF-g",
-          "title": "8am — 7th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/HNTXcchIF-g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T07:00:00Z"
-        },
         {
           "id": "XhZwsUw8CXA",
           "title": "9:30am — 15th Sunday in Ordinary Time",
