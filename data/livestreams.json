@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-12T11:35:44.442Z",
+  "lastUpdated": "2026-07-12T13:11:56.375Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "rtbyhrRrz7s",
-          "title": "Low Mass - 7th Sunday after Pentecost - 7/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/rtbyhrRrz7s/mqdefault_live.jpg",
+          "id": "PVYk5zK_43A",
+          "title": "Seventh Sunday After Pentecost - The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/PVYk5zK_43A/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "sRIJSegIZBw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/sRIJSegIZBw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Bv0tIU92t4U",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Seventh Sunday after Pentecost. II. July 12, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,31 +82,22 @@
           "scheduledTime": null
         },
         {
-          "id": "QwnpJA-CkzI",
-          "title": "Sunday 7 AM Catholic Mass for 07/12/2026",
+          "id": "vkGLR_uvYv4",
+          "title": "Sunday 8:30 AM Catholic Mass for 07/12/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QwnpJA-CkzI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/vkGLR_uvYv4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "XUVJDnxYmFw",
-          "title": "Missa rezada - VII Domingo depois de Pentecostes 2026",
+          "id": "2Dc3xxQ98Fc",
+          "title": "Missa Cantada  VII Domingo Depois De Pentecostes",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/XUVJDnxYmFw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/2Dc3xxQ98Fc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "EIzjmI1h7aI",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Seventh Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/EIzjmI1h7aI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-12T12:00:00Z"
         },
         {
           "id": "ubOWoD0iRj0",
