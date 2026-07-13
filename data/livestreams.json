@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-07-13T14:25:52.107Z",
+  "lastUpdated": "2026-07-13T16:55:09.499Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Cle3CVSV-kg",
-          "title": "FSSPX Antwerpen - 13/07 Aanbidding met Rozenhoedje",
+          "id": "fkY6HPJKGo8",
+          "title": "FSSPX Antwerpen - 13/07 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Cle3CVSV-kg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-13T15:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/fkY6HPJKGo8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oop6DytqVqA",
@@ -19,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/oop6DytqVqA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-13T16:00:00Z"
-        },
-        {
-          "id": "fkY6HPJKGo8",
-          "title": "FSSPX Antwerpen - 13/07 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/fkY6HPJKGo8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-13T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "haIE3SeRB_E",
@@ -48,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9vK-ItffW30/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-14T11:15:00Z"
+        },
+        {
+          "id": "ArcRb59cS7M",
+          "title": "FSSPX Antwerpen - 14/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ArcRb59cS7M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-14T15:00:00Z"
+        },
+        {
+          "id": "eC0fD4IxFgg",
+          "title": "FSSPX Antwerpen - 14/07 H. BONAVENTURA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/eC0fD4IxFgg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-14T16:30:00Z"
         }
       ]
     },
@@ -55,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "w6GkA7aQgag",
-          "title": "Santa Misa. 13 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/w6GkA7aQgag/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "4UcEK_TRmeg",
           "title": "Monday 13th July 2026: Votive Mass of the Blessed Trinity",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/4UcEK_TRmeg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mEaUPyeWCo4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/mEaUPyeWCo4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-13T17:00:00Z"
+          "scheduledTime": "2026-07-13T16:58:00Z"
         },
         {
           "id": "9sHIjRQo4ls",
