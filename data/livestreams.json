@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-13T11:36:54.258Z",
+  "lastUpdated": "2026-07-13T14:25:52.107Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "o-6v4wAovBs",
-          "title": "Mon. Jul. 13, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/o-6v4wAovBs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Cle3CVSV-kg",
           "title": "FSSPX Antwerpen - 13/07 Aanbidding met Rozenhoedje",
@@ -64,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "stF8_fQ5ubA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Seventh Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/stF8_fQ5ubA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9d6IRXqagqI",
-          "title": "7am Mass & Divine Office. Feria. IV. Monday, July 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/9d6IRXqagqI/mqdefault_live.jpg",
+          "id": "w6GkA7aQgag",
+          "title": "Santa Misa. 13 de julio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/w6GkA7aQgag/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-deeCLfHx6s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-14T11:00:00Z"
+        },
+        {
+          "id": "c1GmuudZBdw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Bonaventure, Bishop, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/c1GmuudZBdw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-14T11:30:00Z"
         }
       ]
     }
