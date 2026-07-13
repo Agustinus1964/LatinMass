@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-13T20:11:03.932Z",
+  "lastUpdated": "2026-07-13T21:27:36.053Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bfW4fExPRQA",
+          "title": "St Bonaventure Tue /14/July 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/bfW4fExPRQA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "haIE3SeRB_E",
           "title": "Hl. Messe - hl. Bonaventura - 14. Juli 2026",
@@ -45,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jOlAMRTxcIk",
+          "title": "Terço Mariano e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/jOlAMRTxcIk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-deeCLfHx6s",
           "title": "7am Mass & Divine Office. St. Bonaventure, Bishop, Confessor & Doctor of the Church. III. 7-14-26.",
@@ -98,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qxsMLisg9oU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-14T17:00:00Z"
+        },
+        {
+          "id": "3y3kOonlbDw",
+          "title": "Divine Office & 6pm Mass. St. Bonaventure, Bishop, Confessor & Doctor of the Church. III. 7-14-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3y3kOonlbDw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-14T21:00:00Z"
         }
       ]
     }
