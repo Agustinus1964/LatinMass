@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T22:27:54.437Z",
+  "lastUpdated": "2026-07-13T23:26:29.456Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-deeCLfHx6s",
-          "title": "7am Mass & Divine Office. St. Bonaventure, Bishop, Confessor & Doctor of the Church. III. 7-14-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-deeCLfHx6s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T11:00:00Z"
-        },
-        {
           "id": "c1GmuudZBdw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bonaventure, Bishop, Confessor and Doctor)",
           "channel": "Usus Antiquior",
@@ -98,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/qxsMLisg9oU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-14T17:00:00Z"
-        },
-        {
-          "id": "3y3kOonlbDw",
-          "title": "Divine Office & 6pm Mass. St. Bonaventure, Bishop, Confessor & Doctor of the Church. III. 7-14-26.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3y3kOonlbDw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T21:00:00Z"
         }
       ]
     }
