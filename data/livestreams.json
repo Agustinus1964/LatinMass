@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-14T20:07:03.515Z",
+  "lastUpdated": "2026-07-14T21:29:19.487Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lZ4sCpVU-zM",
+          "title": "St Henry II  - Wednesday  15th July 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/lZ4sCpVU-zM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "2bVFJhmGcyY",
           "title": "FSSPX Antwerpen - 15/07 H. HENRICUS",
@@ -45,6 +54,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "3y3kOonlbDw",
+          "title": "Divine Office & 6pm Mass. St. Bonaventure, Bishop, Confessor & Doctor of the Church. III. 7-14-26.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3y3kOonlbDw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TPzav1HU5V4",
+          "title": "Terço Mariano e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/TPzav1HU5V4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pn0sw_xpVZo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Henry, Emperor and Confessor)",
