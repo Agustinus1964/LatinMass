@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-14T10:41:31.326Z",
+  "lastUpdated": "2026-07-14T12:07:35.451Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AtOWNO6Rrig",
-          "title": "St. Bonaventure, Bishop, Confessor, Doctor of the Church",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/AtOWNO6Rrig/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9vK-ItffW30",
-          "title": "Tue. Jul. 14,  2026    -    St. Bonaventure,  Bishop, Confessor, Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/9vK-ItffW30/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T11:15:00Z"
-        },
         {
           "id": "ArcRb59cS7M",
           "title": "FSSPX Antwerpen - 14/07 Aanbidding met Rozenhoedje",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9I0-3_eQzGc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-15T06:00:00Z"
+        },
+        {
+          "id": "N7fzNn6dfWc",
+          "title": "Wed. Jul. 15, 2026    -    St. Henry,  Emperor and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/N7fzNn6dfWc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-15T11:15:00Z"
         }
       ]
     },
@@ -64,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "f0gMekq39us",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 07/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/f0gMekq39us/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "c1GmuudZBdw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bonaventure, Bishop, Confessor and Doctor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/c1GmuudZBdw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Ltz7DCSy_Io",
+          "title": "Tuesday 8 AM Catholic Mass for 07/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ltz7DCSy_Io/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sxsugI5tZUg",
