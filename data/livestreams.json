@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T18:36:59.957Z",
+  "lastUpdated": "2026-07-14T20:07:03.515Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9I0-3_eQzGc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-15T06:00:00Z"
+        },
+        {
+          "id": "a0W0_tZ7bwE",
+          "title": "Saint Henry, emperor and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/a0W0_tZ7bwE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-15T07:30:00Z"
         },
         {
           "id": "N7fzNn6dfWc",
