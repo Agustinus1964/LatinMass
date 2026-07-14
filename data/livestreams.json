@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T03:53:52.934Z",
+  "lastUpdated": "2026-07-14T06:07:17.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/haIE3SeRB_E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AtOWNO6Rrig",
+          "title": "St. Bonaventure, Bishop, Confessor, Doctor of the Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/AtOWNO6Rrig/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-14T06:00:00Z"
+          "scheduledTime": "2026-07-14T06:30:00Z"
         },
         {
           "id": "9vK-ItffW30",
@@ -39,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/eC0fD4IxFgg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-14T16:30:00Z"
+        },
+        {
+          "id": "2bVFJhmGcyY",
+          "title": "FSSPX Antwerpen - 15/07 H. HENRICUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/2bVFJhmGcyY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-15T05:30:00Z"
+        },
+        {
+          "id": "9I0-3_eQzGc",
+          "title": "Hl. Messe - hl. Heinrich - 15. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9I0-3_eQzGc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-15T06:00:00Z"
         }
       ]
     },
