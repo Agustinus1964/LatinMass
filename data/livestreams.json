@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T00:52:25.793Z",
+  "lastUpdated": "2026-07-14T03:53:52.934Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Sg38oUd73Ds",
-          "title": "Santa Misa. 13 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Sg38oUd73Ds/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "c1GmuudZBdw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bonaventure, Bishop, Confessor and Doctor)",
