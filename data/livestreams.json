@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T14:22:25.081Z",
+  "lastUpdated": "2026-07-14T15:55:22.607Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/ArcRb59cS7M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eC0fD4IxFgg",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1r5yjvXP6xY",
-          "title": "Santo Sacrificio de la Misa. 14 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/1r5yjvXP6xY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sxsugI5tZUg",
           "title": "Wednesday 15th July 2026: Saint Henri",
