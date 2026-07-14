@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-14T06:07:17.628Z",
+  "lastUpdated": "2026-07-14T08:33:54.391Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "haIE3SeRB_E",
-          "title": "Hl. Messe - hl. Bonaventura - 14. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/haIE3SeRB_E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "AtOWNO6Rrig",
           "title": "St. Bonaventure, Bishop, Confessor, Doctor of the Church",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/AtOWNO6Rrig/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9vK-ItffW30",
