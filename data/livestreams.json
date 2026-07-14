@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-14T15:55:22.607Z",
+  "lastUpdated": "2026-07-14T17:11:20.759Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ArcRb59cS7M",
-          "title": "FSSPX Antwerpen - 14/07 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ArcRb59cS7M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "eC0fD4IxFgg",
-          "title": "FSSPX Antwerpen - 14/07 H. BONAVENTURA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/eC0fD4IxFgg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T16:30:00Z"
-        },
         {
           "id": "2bVFJhmGcyY",
           "title": "FSSPX Antwerpen - 15/07 H. HENRICUS",
@@ -55,13 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sxsugI5tZUg",
-          "title": "Wednesday 15th July 2026: Saint Henri",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/sxsugI5tZUg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T17:00:00Z"
+          "id": "aP9nrvVDb40",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/aP9nrvVDb40/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "n_5pKlVLhgg",
@@ -69,8 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/n_5pKlVLhgg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "90PNXFzYeCo",
@@ -78,8 +60,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/90PNXFzYeCo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-14T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qxsMLisg9oU",
@@ -87,6 +69,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/qxsMLisg9oU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sxsugI5tZUg",
+          "title": "Wednesday 15th July 2026: Saint Henri",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/sxsugI5tZUg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-14T17:00:00Z"
         },
@@ -98,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/pn0sw_xpVZo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-15T11:30:00Z"
+        },
+        {
+          "id": "twLjFK5revQ",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/twLjFK5revQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-15T17:00:00Z"
+        },
+        {
+          "id": "ZRq7q3IqZ-k",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ZRq7q3IqZ-k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-15T17:00:00Z"
         }
       ]
     }
