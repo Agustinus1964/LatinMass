@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T12:50:11.270Z",
+  "lastUpdated": "2026-07-15T14:45:33.153Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,21 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/7CaxUMN7Anw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T11:15:00Z"
+        },
+        {
+          "id": "LjetDXQQSY4",
+          "title": "FSSPX Antwerpen - 16/07 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/LjetDXQQSY4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T13:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SlumYRovm0g",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 07/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/SlumYRovm0g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "twLjFK5revQ",
           "title": "Wednesday",
