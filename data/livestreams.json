@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T21:55:50.274Z",
+  "lastUpdated": "2026-07-15T22:56:35.348Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,24 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GQnQCMg0PTk",
-          "title": "Divine Office & 6pm Mass. St. Henry II, Emperor, Confessor. III. Wednesday, July 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/GQnQCMg0PTk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EdB_LruM9f0",
-          "title": "Terço Mariano e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/EdB_LruM9f0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IVWoaVBgKDs",
           "title": "Thursday 16th July 2026: Our Lady of Mount Carmel",
