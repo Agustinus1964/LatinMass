@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T16:17:36.726Z",
+  "lastUpdated": "2026-07-15T17:45:41.177Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/L76o6qjaDFc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T15:00:00Z"
+        },
+        {
+          "id": "FPRlHhJy4d4",
+          "title": "FSSPX Antwerpen - 16/07 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/FPRlHhJy4d4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T16:30:00Z"
         }
       ]
     },
@@ -46,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "twLjFK5revQ",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/twLjFK5revQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-15T17:00:00Z"
+          "id": "0twL6403Hiw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/0twL6403Hiw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZRq7q3IqZ-k",
@@ -80,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/JO_DJOh-lS0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T11:30:00Z"
+        },
+        {
+          "id": "UOg6fA4aH1s",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/UOg6fA4aH1s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T17:00:00Z"
+        },
+        {
+          "id": "jpClxgBga3s",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/jpClxgBga3s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T17:00:00Z"
         }
       ]
     }
