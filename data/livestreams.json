@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T19:04:59.185Z",
+  "lastUpdated": "2026-07-15T20:30:57.740Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AHEY9F1d_So/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T06:00:00Z"
+        },
+        {
+          "id": "2LeaD0bGJC8",
+          "title": "Our Lady of Mount Carmel",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/2LeaD0bGJC8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T07:30:00Z"
         },
         {
           "id": "7CaxUMN7Anw",
