@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-07-15T05:13:06.660Z",
+  "lastUpdated": "2026-07-15T07:27:31.694Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2bVFJhmGcyY",
-          "title": "FSSPX Antwerpen - 15/07 H. HENRICUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2bVFJhmGcyY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-15T05:30:00Z"
-        },
-        {
-          "id": "9I0-3_eQzGc",
-          "title": "Hl. Messe - hl. Heinrich - 15. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9I0-3_eQzGc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-15T06:00:00Z"
-        },
-        {
-          "id": "a0W0_tZ7bwE",
-          "title": "Saint Henry, emperor and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/a0W0_tZ7bwE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-15T07:30:00Z"
-        },
         {
           "id": "N7fzNn6dfWc",
           "title": "Wed. Jul. 15, 2026    -    St. Henry,  Emperor and Confessor",
@@ -39,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/N7fzNn6dfWc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-15T11:15:00Z"
+        },
+        {
+          "id": "AHEY9F1d_So",
+          "title": "Hl. Messe - Gedächtnis Unserer Lieben Frau vom Berge Karmel - 16. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/AHEY9F1d_So/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T06:00:00Z"
         }
       ]
     },
@@ -71,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZRq7q3IqZ-k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-15T17:00:00Z"
+        },
+        {
+          "id": "IVWoaVBgKDs",
+          "title": "Thursday 16th July 2026: Our Lady of Mount Carmel",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/IVWoaVBgKDs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T07:00:00Z"
         }
       ]
     }
