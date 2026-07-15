@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T17:45:41.177Z",
+  "lastUpdated": "2026-07-15T19:04:59.185Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,24 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "0twL6403Hiw",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0twL6403Hiw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZRq7q3IqZ-k",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/ZRq7q3IqZ-k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-15T17:00:00Z"
-        },
-        {
           "id": "IVWoaVBgKDs",
           "title": "Thursday 16th July 2026: Our Lady of Mount Carmel",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -100,11 +82,11 @@
           "scheduledTime": "2026-07-16T17:00:00Z"
         },
         {
-          "id": "jpClxgBga3s",
+          "id": "ZRq7q3IqZ-k",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/jpClxgBga3s/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/ZRq7q3IqZ-k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T17:00:00Z"
         }
