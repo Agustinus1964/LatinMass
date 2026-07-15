@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T14:45:33.153Z",
+  "lastUpdated": "2026-07-15T16:17:36.726Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LjetDXQQSY4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T13:30:00Z"
+        },
+        {
+          "id": "L76o6qjaDFc",
+          "title": "Sakramentsandacht - Gedächtnis Unserer Lieben Frau vom Berge Karmel - 16. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/L76o6qjaDFc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-16T15:00:00Z"
         }
       ]
     },
