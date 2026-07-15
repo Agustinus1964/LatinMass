@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-15T07:27:31.694Z",
+  "lastUpdated": "2026-07-15T09:28:33.395Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Ki4TSSbJCQw",
+          "title": "Ofício de Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Ki4TSSbJCQw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pn0sw_xpVZo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Henry, Emperor and Confessor)",
