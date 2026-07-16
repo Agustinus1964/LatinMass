@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-16T20:00:00.923Z",
+  "lastUpdated": "2026-07-16T21:11:15.040Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hfJJMHBTmFE",
+          "title": "Ferial Mass - Friday 17thJuly 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/hfJJMHBTmFE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Eef8IWceavQ",
           "title": "Hl. Messe - 17. Juli 2026",
@@ -63,6 +72,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Us5sZn_YQkQ",
+          "title": "Divine Office & 6pm Sung Mass. Feria. IV. Our Lady of Mt. Carmel. Thursday, July 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Us5sZn_YQkQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "JNwKwZtX5Gc",
+          "title": "Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/JNwKwZtX5Gc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "mZUtzLTYhdg",
           "title": "Friday 17th July 2026: Saint Alexis",
