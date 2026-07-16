@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-16T21:11:15.040Z",
+  "lastUpdated": "2026-07-16T22:27:58.162Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hfJJMHBTmFE",
-          "title": "Ferial Mass - Friday 17thJuly 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/hfJJMHBTmFE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Eef8IWceavQ",
           "title": "Hl. Messe - 17. Juli 2026",
@@ -82,11 +73,11 @@
           "scheduledTime": null
         },
         {
-          "id": "JNwKwZtX5Gc",
-          "title": "Ofício do Rosário",
+          "id": "FcvPILpKeck",
+          "title": "Missa cantada - Nossa Senhora do Carmo",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/JNwKwZtX5Gc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/FcvPILpKeck/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
