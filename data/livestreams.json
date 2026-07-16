@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-16T18:38:42.466Z",
+  "lastUpdated": "2026-07-16T20:00:00.923Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Eef8IWceavQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-17T06:00:00Z"
+        },
+        {
+          "id": "auR24i8nJs0",
+          "title": "Feria: 7ᵗʰ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/auR24i8nJs0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-17T07:30:00Z"
         },
         {
           "id": "NytFscnk_Z0",
