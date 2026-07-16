@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-16T05:36:40.265Z",
+  "lastUpdated": "2026-07-16T08:06:34.689Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AHEY9F1d_So",
-          "title": "Hl. Messe - Gedächtnis Unserer Lieben Frau vom Berge Karmel - 16. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/AHEY9F1d_So/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T06:00:00Z"
-        },
         {
           "id": "2LeaD0bGJC8",
           "title": "Our Lady of Mount Carmel",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/2LeaD0bGJC8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7CaxUMN7Anw",
@@ -57,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/FPRlHhJy4d4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-16T16:30:00Z"
+        },
+        {
+          "id": "Eef8IWceavQ",
+          "title": "Hl. Messe - 17. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Eef8IWceavQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-17T06:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IVWoaVBgKDs",
-          "title": "Thursday 16th July 2026: Our Lady of Mount Carmel",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/IVWoaVBgKDs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T07:00:00Z"
-        },
         {
           "id": "JO_DJOh-lS0",
           "title": "Live Stream Holy Mass from Cleveland USA (Our Lady of Mount Carmel)",
