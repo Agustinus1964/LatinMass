@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-16T10:24:45.998Z",
+  "lastUpdated": "2026-07-16T11:59:17.006Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2LeaD0bGJC8",
-          "title": "Our Lady of Mount Carmel",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/2LeaD0bGJC8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7CaxUMN7Anw",
-          "title": "Thu. Jul. 16, 2026    -    Our Lady of Mount Carmel,    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/7CaxUMN7Anw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T11:15:00Z"
-        },
         {
           "id": "LjetDXQQSY4",
           "title": "FSSPX Antwerpen - 16/07 Priester-Uur-Gebed",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Eef8IWceavQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-17T06:00:00Z"
+        },
+        {
+          "id": "NytFscnk_Z0",
+          "title": "Fri. Jul. 17, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/NytFscnk_Z0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-17T11:15:00Z"
         }
       ]
     },
@@ -64,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uWGORaiSllk",
-          "title": "Thursday 6 AM Traditional Catholic Mass 07/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/uWGORaiSllk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "JO_DJOh-lS0",
           "title": "Live Stream Holy Mass from Cleveland USA (Our Lady of Mount Carmel)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/JO_DJOh-lS0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "uiL7N7POdz8",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 07/16/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/uiL7N7POdz8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UOg6fA4aH1s",
