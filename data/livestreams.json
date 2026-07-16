@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-07-16T15:54:02.109Z",
+  "lastUpdated": "2026-07-16T17:11:01.993Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LjetDXQQSY4",
-          "title": "FSSPX Antwerpen - 16/07 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/LjetDXQQSY4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "L76o6qjaDFc",
-          "title": "Sakramentsandacht - Gedächtnis Unserer Lieben Frau vom Berge Karmel - 16. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/L76o6qjaDFc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FPRlHhJy4d4",
-          "title": "FSSPX Antwerpen - 16/07 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/FPRlHhJy4d4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T16:30:00Z"
-        },
         {
           "id": "Eef8IWceavQ",
           "title": "Hl. Messe - 17. Juli 2026",
@@ -66,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gpiRINPSJLY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-17T15:45:00Z"
+        },
+        {
+          "id": "n0Z4pjWEIyY",
+          "title": "FSSPX Antwerpen - 17/07 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/n0Z4pjWEIyY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-17T16:30:00Z"
         }
       ]
     },
@@ -73,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "lcxA81CBWgg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/lcxA81CBWgg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "UOg6fA4aH1s",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/UOg6fA4aH1s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-16T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZRq7q3IqZ-k",
@@ -87,8 +78,35 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/ZRq7q3IqZ-k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mZUtzLTYhdg",
+          "title": "Friday 17th July 2026: Saint Alexis",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/mZUtzLTYhdg/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-16T17:00:00Z"
+          "scheduledTime": "2026-07-17T17:00:00Z"
+        },
+        {
+          "id": "rGHiM625Kew",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rGHiM625Kew/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-17T17:00:00Z"
+        },
+        {
+          "id": "F1_umBh8ZsE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/F1_umBh8ZsE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-17T17:00:00Z"
         }
       ]
     }
