@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T17:35:59.219Z",
+  "lastUpdated": "2026-07-17T19:01:12.248Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mZUtzLTYhdg",
-          "title": "Friday 17th July 2026: Saint Alexis",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/mZUtzLTYhdg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "F1_umBh8ZsE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/F1_umBh8ZsE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3kL5UVphDWA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Alexis the Beggar, Confessor)",
