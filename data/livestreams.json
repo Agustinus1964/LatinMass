@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T19:01:12.248Z",
+  "lastUpdated": "2026-07-17T20:25:48.264Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iyKiZsUOFnU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-18T05:15:00Z"
+        },
+        {
+          "id": "DV__2ljBijk",
+          "title": "Saint Camillus de Lellis, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/DV__2ljBijk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-18T07:30:00Z"
         },
         {
           "id": "ELdEPDEbY8g",
