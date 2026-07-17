@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-07-17T04:14:35.401Z",
+  "lastUpdated": "2026-07-17T06:36:06.677Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Eef8IWceavQ",
-          "title": "Hl. Messe - 17. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Eef8IWceavQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-17T06:00:00Z"
-        },
         {
           "id": "auR24i8nJs0",
           "title": "Feria: 7ᵗʰ Sunday after Pentecost",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/auR24i8nJs0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-17T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Eef8IWceavQ",
+          "title": "Hl. Messe - 17. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Eef8IWceavQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NytFscnk_Z0",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/n0Z4pjWEIyY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-17T16:30:00Z"
+        },
+        {
+          "id": "iyKiZsUOFnU",
+          "title": "Hl. Messe - hl. Kamillus von Lellis - 18. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/iyKiZsUOFnU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-18T05:15:00Z"
         }
       ]
     },
