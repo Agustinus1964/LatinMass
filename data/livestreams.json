@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-17T22:12:54.101Z",
+  "lastUpdated": "2026-07-17T23:22:00.015Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "x7xvGwCN4Bo",
-          "title": "St. Camillius de Lellis - Saturday 18thJuly 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/x7xvGwCN4Bo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "iyKiZsUOFnU",
           "title": "Hl. Messe - hl. Kamillus von Lellis - 18. Juli 2026",
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/ELdEPDEbY8g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-18T08:00:00Z"
-        },
-        {
-          "id": "5HwFTes4huY",
-          "title": "Sat. Jul. 18, 2026    -    St. Camillus de Lellis,  Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5HwFTes4huY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-18T12:00:00Z"
         }
       ]
     },
@@ -64,13 +46,13 @@
           "scheduledTime": null
         },
         {
-          "id": "3kL5UVphDWA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Alexis the Beggar, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/3kL5UVphDWA/mqdefault_live.jpg",
+          "id": "QDJhGgi7Pqw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/QDJhGgi7Pqw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-17T22:30:00Z"
+          "scheduledTime": "2026-07-17T23:28:00Z"
         },
         {
           "id": "3rek9CyOleQ",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/b97oJ571w1w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-18T10:55:00Z"
+        },
+        {
+          "id": "vNTsTrEM7yE",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Camillus de Lellis, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/vNTsTrEM7yE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-18T13:00:00Z"
         }
       ]
     }
