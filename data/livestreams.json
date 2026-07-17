@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-17T21:20:02.630Z",
+  "lastUpdated": "2026-07-17T22:12:54.101Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "x7xvGwCN4Bo",
+          "title": "St. Camillius de Lellis - Saturday 18thJuly 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/x7xvGwCN4Bo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "iyKiZsUOFnU",
           "title": "Hl. Messe - hl. Kamillus von Lellis - 18. Juli 2026",
@@ -51,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/W57ZBjceeEw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0LXZzgLnyhU",
-          "title": "Ofício do Rosário e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/0LXZzgLnyhU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
