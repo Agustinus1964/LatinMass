@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-17T09:06:16.202Z",
+  "lastUpdated": "2026-07-17T11:04:18.001Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "t-MCVGP32lQ",
-          "title": "Ofício de Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/t-MCVGP32lQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "mZUtzLTYhdg",
           "title": "Friday 17th July 2026: Saint Alexis",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -125,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/lNoqg9dLdoY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-18T09:00:00Z"
+        },
+        {
+          "id": "JlG6y8ctIVQ",
+          "title": "Saturday 18th July 2026: Saint Camillus de Lellis",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/JlG6y8ctIVQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-18T09:30:00Z"
+        },
+        {
+          "id": "b97oJ571w1w",
+          "title": "Saturday 7 AM Catholic Mass for 07/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/b97oJ571w1w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-18T10:55:00Z"
         }
       ]
     }
