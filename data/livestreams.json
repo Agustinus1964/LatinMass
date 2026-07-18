@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T13:19:03.808Z",
+  "lastUpdated": "2026-07-18T14:33:54.584Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,15 +14,6 @@
           "scheduledTime": "2026-07-19T07:30:00Z"
         },
         {
-          "id": "hCMEpXhHc7w",
-          "title": "FSSPX Antwerpen - 19/07 8° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hCMEpXhHc7w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T08:00:00Z"
-        },
-        {
           "id": "hliibBBTSmg",
           "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
           "channel": "SSPX Seminary - USA",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hliibBBTSmg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T11:15:00Z"
+        },
+        {
+          "id": "T2pHd1GMvr4",
+          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/T2pHd1GMvr4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T13:45:00Z"
         }
       ]
     },
@@ -37,29 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vNTsTrEM7yE",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Camillus de Lellis, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/vNTsTrEM7yE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8WB_al73G8g",
-          "title": "9am Mass. St. Camillus de Lellis, Confessor. III. Saturday, July 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/8WB_al73G8g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PGslAvii_3o",
-          "title": "Saturday 9 AM Traditional Catholic Mass 07/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/PGslAvii_3o/mqdefault_live.jpg",
+          "id": "KJtWr2EiIuU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/KJtWr2EiIuU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/el5i9jH8D8s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T10:00:00Z"
+        },
+        {
+          "id": "dDls5GB5sZk",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Eighth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/dDls5GB5sZk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T12:00:00Z"
         }
       ]
     }
