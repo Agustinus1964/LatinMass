@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T15:52:32.352Z",
+  "lastUpdated": "2026-07-18T16:53:17.266Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ecfoXCukLaI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T15:30:00Z"
+        },
+        {
+          "id": "H4Sk9mh8O6o",
+          "title": "Vespers and Benediction — 8th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/H4Sk9mh8O6o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T16:00:00Z"
         }
       ]
     }
