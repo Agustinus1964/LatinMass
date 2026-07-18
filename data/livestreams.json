@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-18T08:16:46.991Z",
+  "lastUpdated": "2026-07-18T09:54:16.247Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ELdEPDEbY8g",
-          "title": "FSSPX Antwerpen - 18/07 H. CAMILLUS van LELLIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ELdEPDEbY8g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DV__2ljBijk",
-          "title": "Saint Camillus de Lellis, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/DV__2ljBijk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-18T07:30:00Z"
-        },
         {
           "id": "75-ResQfLao",
           "title": "Amt - 8. Sonntag nach Pfingsten - 19. Juli 2026",
@@ -46,22 +28,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3rek9CyOleQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/3rek9CyOleQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "JlG6y8ctIVQ",
           "title": "Saturday 18th July 2026: Saint Camillus de Lellis",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/JlG6y8ctIVQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-18T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "isUqijTHrnA",
+          "title": "Ofício de Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/isUqijTHrnA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "b97oJ571w1w",
@@ -89,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/nB5jN6iYl0U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T07:00:00Z"
+        },
+        {
+          "id": "_02fMKcsY3k",
+          "title": "9:30am — 16th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/_02fMKcsY3k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T08:30:00Z"
+        },
+        {
+          "id": "rDxL_lJk-UU",
+          "title": "Sunday 19th July 2026: Eighth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/rDxL_lJk-UU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T09:30:00Z"
         }
       ]
     }
