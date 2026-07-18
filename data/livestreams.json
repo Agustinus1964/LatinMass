@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-18T11:57:17.662Z",
+  "lastUpdated": "2026-07-18T13:19:03.808Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5HwFTes4huY",
-          "title": "Sat. Jul. 18, 2026    -    St. Camillus de Lellis,  Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5HwFTes4huY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "75-ResQfLao",
           "title": "Amt - 8. Sonntag nach Pfingsten - 19. Juli 2026",
@@ -46,31 +37,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "b97oJ571w1w",
-          "title": "Saturday 7 AM Catholic Mass for 07/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/b97oJ571w1w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nB5jN6iYl0U",
-          "title": "8am — 8th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/nB5jN6iYl0U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "vNTsTrEM7yE",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Camillus de Lellis, Confessor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/vNTsTrEM7yE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-18T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8WB_al73G8g",
+          "title": "9am Mass. St. Camillus de Lellis, Confessor. III. Saturday, July 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/8WB_al73G8g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "PGslAvii_3o",
+          "title": "Saturday 9 AM Traditional Catholic Mass 07/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/PGslAvii_3o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_02fMKcsY3k",
