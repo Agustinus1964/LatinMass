@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T21:12:58.751Z",
+  "lastUpdated": "2026-07-18T22:12:56.997Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hliibBBTSmg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T11:15:00Z"
+        },
+        {
+          "id": "RiZQVnPhbyA",
+          "title": "VIII Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/RiZQVnPhbyA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T13:00:00Z"
         },
         {
           "id": "T2pHd1GMvr4",
