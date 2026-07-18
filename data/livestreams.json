@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T14:33:54.584Z",
+  "lastUpdated": "2026-07-18T15:52:32.352Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/75-ResQfLao/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T07:30:00Z"
+        },
+        {
+          "id": "w9oCLYlL2IU",
+          "title": "8th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/w9oCLYlL2IU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T10:00:00Z"
         },
         {
           "id": "hliibBBTSmg",
@@ -30,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/T2pHd1GMvr4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T13:45:00Z"
+        },
+        {
+          "id": "fIJGBtW_XBY",
+          "title": "Vesper und Sakramentsandacht - 8. Sonntag nach Pfingsten - 19. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fIJGBtW_XBY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T15:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KJtWr2EiIuU",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/KJtWr2EiIuU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_02fMKcsY3k",
           "title": "9:30am — 16th Sunday in Ordinary Time",
@@ -80,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/dDls5GB5sZk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T12:00:00Z"
+        },
+        {
+          "id": "lwLd3wZJ1Ys",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Eighth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lwLd3wZJ1Ys/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T14:30:00Z"
+        },
+        {
+          "id": "vF5HACJt1bc",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/vF5HACJt1bc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T14:45:00Z"
+        },
+        {
+          "id": "ecfoXCukLaI",
+          "title": "EIGHTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/ecfoXCukLaI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T15:30:00Z"
         }
       ]
     }
