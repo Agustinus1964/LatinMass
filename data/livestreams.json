@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-18T10:59:07.891Z",
+  "lastUpdated": "2026-07-18T11:57:17.662Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "5HwFTes4huY",
+          "title": "Sat. Jul. 18, 2026    -    St. Camillus de Lellis,  Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/5HwFTes4huY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "75-ResQfLao",
           "title": "Amt - 8. Sonntag nach Pfingsten - 19. Juli 2026",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hCMEpXhHc7w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T08:00:00Z"
+        },
+        {
+          "id": "hliibBBTSmg",
+          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hliibBBTSmg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T11:15:00Z"
         }
       ]
     },
