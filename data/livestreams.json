@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-19T17:55:25.664Z",
+  "lastUpdated": "2026-07-19T19:01:20.726Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "snv1T_Og0Xo",
-          "title": "VIII Sunday after Pentecost | July 19th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/snv1T_Og0Xo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dVuqeuleOvg",
           "title": "Mon. Jul. 20, 2026    -    St. Jerome Emiliani,   Confessor",
@@ -46,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "x0z7DjwsekM",
-          "title": "Sunday 1:30 PM Catholic Mass 07/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/x0z7DjwsekM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_tM_C44TWkc",
+          "id": "D7Wl5n8UrRU",
           "title": "Santa Misa Dominical. 19 de julio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/_tM_C44TWkc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/D7Wl5n8UrRU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "E4pZeZmwq1I",
-          "title": "The Particular Judgment - Strive to enter by the narrow gate.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/E4pZeZmwq1I/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T18:00:00Z"
         },
         {
           "id": "ihjKQeyDalo",
