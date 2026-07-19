@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T22:24:23.371Z",
+  "lastUpdated": "2026-07-19T23:27:34.723Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -62,7 +62,35 @@
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "ihjKQeyDalo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jerome Æmiliani, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ihjKQeyDalo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T11:30:00Z"
+        },
+        {
+          "id": "IHtI_UudO0w",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/IHtI_UudO0w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T17:00:00Z"
+        },
+        {
+          "id": "xPjy0pl-plo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/xPjy0pl-plo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T17:00:00Z"
+        }
+      ]
     }
   }
 }
