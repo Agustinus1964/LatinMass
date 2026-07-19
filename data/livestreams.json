@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-19T20:22:02.911Z",
+  "lastUpdated": "2026-07-19T21:22:08.229Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "kDwSDdS0th0",
+          "title": "St Jerome  Mon 20/July/2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/kDwSDdS0th0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "AEKxta7Hzhg",
           "title": "Hl. Messe - hl. Hieronymus Ämiliani - 20. Juli 2026",
@@ -63,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "I3bfSl-ufqw",
-          "title": "VIII Domingo depois de Pentecostes - Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/I3bfSl-ufqw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ihjKQeyDalo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Jerome Æmiliani, Confessor)",
