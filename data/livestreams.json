@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-07-19T19:01:20.726Z",
+  "lastUpdated": "2026-07-19T20:22:02.911Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "AEKxta7Hzhg",
+          "title": "Hl. Messe - hl. Hieronymus Ämiliani - 20. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/AEKxta7Hzhg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T05:15:00Z"
+        },
+        {
+          "id": "GJHK3dv4-2I",
+          "title": "Saint Jerome Emiliani, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/GJHK3dv4-2I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T07:30:00Z"
+        },
         {
           "id": "dVuqeuleOvg",
           "title": "Mon. Jul. 20, 2026    -    St. Jerome Emiliani,   Confessor",
@@ -23,6 +41,15 @@
           "scheduledTime": "2026-07-20T15:00:00Z"
         },
         {
+          "id": "X0g0hRW3ZQA",
+          "title": "Rosenkranz und hl. Messe - hl. Hieronymus Ämiliani - 20. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/X0g0hRW3ZQA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T16:00:00Z"
+        },
+        {
           "id": "ABOHBa2f-1s",
           "title": "FSSPX Antwerpen - 20/07 H. HIËRONYMUS AEMILIANUS",
           "channel": "FSSPX Antwerpen",
@@ -37,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "D7Wl5n8UrRU",
-          "title": "Santa Misa Dominical. 19 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/D7Wl5n8UrRU/mqdefault_live.jpg",
+          "id": "I3bfSl-ufqw",
+          "title": "VIII Domingo depois de Pentecostes - Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/I3bfSl-ufqw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
