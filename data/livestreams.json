@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-19T13:09:31.887Z",
+  "lastUpdated": "2026-07-19T14:37:02.123Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "T2pHd1GMvr4",
+          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/T2pHd1GMvr4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BoIxLwFGWfI",
           "title": "Eighth Sunday After Pentecost",
@@ -19,17 +28,26 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/RiZQVnPhbyA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "T2pHd1GMvr4",
-          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/T2pHd1GMvr4/mqdefault_live.jpg",
+          "id": "n5rNFpgvc70",
+          "title": "Sun. Jul, 19, 2026    -    Eight Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/n5rNFpgvc70/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Fa62B5CR9ks",
+          "title": "Eighth Sunday after Pentecost, July 19, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/Fa62B5CR9ks/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-19T13:45:00Z"
+          "scheduledTime": "2026-07-19T15:00:00Z"
         },
         {
           "id": "fIJGBtW_XBY",
@@ -64,29 +82,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "moX0ve29znk",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/moX0ve29znk/mqdefault_live.jpg",
+          "id": "lwLd3wZJ1Ys",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Eighth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/lwLd3wZJ1Ys/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "QOP1PB73Lg4",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Eight Sunday after Pentecost. II. July 19, 2026.",
+          "id": "g3d3ipP3AWc",
+          "title": "10:30am Sung Mass. Eighth Sunday after Pentecost. II. July 19, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/QOP1PB73Lg4/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/g3d3ipP3AWc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "FIMMCR8ZUnA",
-          "title": "Sunday 8:30 AM Catholic Mass for 07/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/FIMMCR8ZUnA/mqdefault_live.jpg",
+          "id": "DQr1PI05-lE",
+          "title": "8th Sunday after Pentecost / 8e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/DQr1PI05-lE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,24 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Jf9gATvPAto/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "lwLd3wZJ1Ys",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Eighth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/lwLd3wZJ1Ys/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T14:30:00Z"
-        },
-        {
-          "id": "DQr1PI05-lE",
-          "title": "8th Sunday after Pentecost / 8e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/DQr1PI05-lE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T14:30:00Z"
         },
         {
           "id": "vF5HACJt1bc",
@@ -134,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ecfoXCukLaI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T15:30:00Z"
+        },
+        {
+          "id": "oQjTCDdUtT0",
+          "title": "Secondes vêpres du VIIIème dimanche après la Pentecôte - Quid faciam",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/oQjTCDdUtT0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T15:45:00Z"
         },
         {
           "id": "H4Sk9mh8O6o",
