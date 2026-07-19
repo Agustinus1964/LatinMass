@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-18T23:24:12.127Z",
+  "lastUpdated": "2026-07-19T00:58:29.265Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "RkaMVtNbulg",
+          "title": "EIGHTH SUNDAY AFTER PENTECOST - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/RkaMVtNbulg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "75-ResQfLao",
           "title": "Amt - 8. Sonntag nach Pfingsten - 19. Juli 2026",
@@ -91,6 +100,15 @@
           "scheduledTime": "2026-07-19T08:30:00Z"
         },
         {
+          "id": "EFPhon4aG08",
+          "title": "Sainte messe du VIIIème dimanche après la Pentecôte - SUSCEPIMUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/EFPhon4aG08/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T09:00:00Z"
+        },
+        {
           "id": "rDxL_lJk-UU",
           "title": "Sunday 19th July 2026: Eighth Sunday after Pentecost",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -152,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/H4Sk9mh8O6o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T16:00:00Z"
+        },
+        {
+          "id": "E4pZeZmwq1I",
+          "title": "The Particular Judgment - Strive to enter by the narrow gate.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/E4pZeZmwq1I/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-19T18:00:00Z"
         }
       ]
     }
