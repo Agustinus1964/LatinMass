@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-19T10:51:35.584Z",
+  "lastUpdated": "2026-07-19T11:53:59.467Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hliibBBTSmg",
+          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/hliibBBTSmg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "w9oCLYlL2IU",
           "title": "8th Sunday after Whitsun",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/w9oCLYlL2IU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "hliibBBTSmg",
-          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/hliibBBTSmg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T11:15:00Z"
         },
         {
           "id": "RiZQVnPhbyA",
@@ -57,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/snv1T_Og0Xo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T17:00:00Z"
+        },
+        {
+          "id": "dVuqeuleOvg",
+          "title": "Mon. Jul. 20, 2026    -    St. Jerome Emiliani,   Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/dVuqeuleOvg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rDxL_lJk-UU",
-          "title": "Sunday 19th July 2026: Eighth Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/rDxL_lJk-UU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QOP1PB73Lg4",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Eight Sunday after Pentecost. II. July 19, 2026.",
@@ -82,20 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "el5i9jH8D8s",
-          "title": "11am — 16th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/el5i9jH8D8s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "J54k8_VBdoM",
-          "title": "VIII Domingo depois de Pentecostes - Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/J54k8_VBdoM/mqdefault_live.jpg",
+          "id": "6LhaWITaoZs",
+          "title": "Sunday 7 AM Catholic Mass for 07/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6LhaWITaoZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
