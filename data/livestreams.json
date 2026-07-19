@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-19T15:54:01.453Z",
+  "lastUpdated": "2026-07-19T16:54:06.064Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Fa62B5CR9ks",
-          "title": "Eighth Sunday after Pentecost, July 19, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/Fa62B5CR9ks/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fIJGBtW_XBY",
-          "title": "Vesper und Sakramentsandacht - 8. Sonntag nach Pfingsten - 19. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fIJGBtW_XBY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "snv1T_Og0Xo",
           "title": "VIII Sunday after Pentecost | July 19th",
@@ -48,39 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/WH8tl1LSKd0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-20T15:00:00Z"
+        },
+        {
+          "id": "ABOHBa2f-1s",
+          "title": "FSSPX Antwerpen - 20/07 H. HIËRONYMUS AEMILIANUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ABOHBa2f-1s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lwLd3wZJ1Ys",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Eighth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/lwLd3wZJ1Ys/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3VeCxAPNON8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/3VeCxAPNON8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "g3d3ipP3AWc",
-          "title": "10:30am Sung Mass. Eighth Sunday after Pentecost. II. July 19, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/g3d3ipP3AWc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ecfoXCukLaI",
           "title": "EIGHTH SUNDAY AFTER PENTECOST, 2026",
@@ -100,15 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "DQr1PI05-lE",
-          "title": "8th Sunday after Pentecost / 8e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/DQr1PI05-lE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "_tM_C44TWkc",
           "title": "Santa Misa Dominical. 19 de julio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -118,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "oQjTCDdUtT0",
-          "title": "Secondes vêpres du VIIIème dimanche après la Pentecôte - Quid faciam",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/oQjTCDdUtT0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "H4Sk9mh8O6o",
           "title": "Vespers and Benediction — 8th Sunday after Pentecost",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/H4Sk9mh8O6o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "E4pZeZmwq1I",
@@ -143,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/E4pZeZmwq1I/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-19T18:00:00Z"
+        },
+        {
+          "id": "ihjKQeyDalo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jerome Æmiliani, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ihjKQeyDalo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T11:30:00Z"
         }
       ]
     }
