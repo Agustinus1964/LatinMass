@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-07-19T14:37:02.123Z",
+  "lastUpdated": "2026-07-19T15:54:01.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "T2pHd1GMvr4",
-          "title": "Low Mass - 8th Sunday after Pentecost - 7/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/T2pHd1GMvr4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BoIxLwFGWfI",
-          "title": "Eighth Sunday After Pentecost",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/BoIxLwFGWfI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RiZQVnPhbyA",
-          "title": "VIII Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/RiZQVnPhbyA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "n5rNFpgvc70",
-          "title": "Sun. Jul, 19, 2026    -    Eight Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/n5rNFpgvc70/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Fa62B5CR9ks",
           "title": "Eighth Sunday after Pentecost, July 19, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/Fa62B5CR9ks/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fIJGBtW_XBY",
@@ -55,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/fIJGBtW_XBY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "snv1T_Og0Xo",
@@ -75,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dVuqeuleOvg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-20T11:15:00Z"
+        },
+        {
+          "id": "WH8tl1LSKd0",
+          "title": "FSSPX Antwerpen - 20/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/WH8tl1LSKd0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T15:00:00Z"
         }
       ]
     },
@@ -91,11 +64,38 @@
           "scheduledTime": null
         },
         {
+          "id": "3VeCxAPNON8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/3VeCxAPNON8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "g3d3ipP3AWc",
           "title": "10:30am Sung Mass. Eighth Sunday after Pentecost. II. July 19, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/g3d3ipP3AWc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ecfoXCukLaI",
+          "title": "EIGHTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/ecfoXCukLaI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "17IrokHdz0g",
+          "title": "Sunday 11 AM Sung Mass 2026-07-19",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/17IrokHdz0g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,31 +109,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Jf9gATvPAto",
-          "title": "VIII Domingo Depois de Pentecostes - Missa Cantada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Jf9gATvPAto/mqdefault_live.jpg",
+          "id": "_tM_C44TWkc",
+          "title": "Santa Misa Dominical. 19 de julio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/_tM_C44TWkc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "vF5HACJt1bc",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/vF5HACJt1bc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T14:45:00Z"
-        },
-        {
-          "id": "ecfoXCukLaI",
-          "title": "EIGHTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/ecfoXCukLaI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T15:30:00Z"
         },
         {
           "id": "oQjTCDdUtT0",
@@ -141,8 +123,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/oQjTCDdUtT0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "H4Sk9mh8O6o",
