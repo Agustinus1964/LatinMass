@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-19T16:54:06.064Z",
+  "lastUpdated": "2026-07-19T17:55:25.664Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/snv1T_Og0Xo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-19T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dVuqeuleOvg",
@@ -46,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ecfoXCukLaI",
-          "title": "EIGHTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/ecfoXCukLaI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "17IrokHdz0g",
-          "title": "Sunday 11 AM Sung Mass 2026-07-19",
+          "id": "x0z7DjwsekM",
+          "title": "Sunday 1:30 PM Catholic Mass 07/19/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/17IrokHdz0g/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/x0z7DjwsekM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,15 +60,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/_tM_C44TWkc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "H4Sk9mh8O6o",
-          "title": "Vespers and Benediction — 8th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/H4Sk9mh8O6o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ihjKQeyDalo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-20T11:30:00Z"
+        },
+        {
+          "id": "IHtI_UudO0w",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/IHtI_UudO0w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T17:00:00Z"
+        },
+        {
+          "id": "xPjy0pl-plo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/xPjy0pl-plo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-20T17:00:00Z"
         }
       ]
     }
