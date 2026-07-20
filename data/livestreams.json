@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T08:22:40.241Z",
+  "lastUpdated": "2026-07-20T11:20:37.763Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/dVuqeuleOvg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-20T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WH8tl1LSKd0",
@@ -48,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/FInPa3dSzV4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-21T05:15:00Z"
+        },
+        {
+          "id": "Pvo50JvzCZo",
+          "title": "Tue. Jul. 21, 2026    -    St. Lawrence of Brindisi,  Confessor, Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Pvo50JvzCZo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-21T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "l6v9TaeJUWk",
+          "title": "7am Mass & Divine Office. St. Jerome Emiliani, Confessor. III. Monday, July 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/l6v9TaeJUWk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ihjKQeyDalo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Jerome Æmiliani, Confessor)",
