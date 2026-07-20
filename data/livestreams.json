@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-20T05:03:02.563Z",
+  "lastUpdated": "2026-07-20T08:22:40.241Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "AEKxta7Hzhg",
-          "title": "Hl. Messe - hl. Hieronymus Ämiliani - 20. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/AEKxta7Hzhg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-20T05:15:00Z"
-        },
-        {
-          "id": "GJHK3dv4-2I",
-          "title": "Saint Jerome Emiliani, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/GJHK3dv4-2I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-20T07:30:00Z"
-        },
         {
           "id": "dVuqeuleOvg",
           "title": "Mon. Jul. 20, 2026    -    St. Jerome Emiliani,   Confessor",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ABOHBa2f-1s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-20T16:30:00Z"
+        },
+        {
+          "id": "FInPa3dSzV4",
+          "title": "Hl. Messe - hl. Laurentius von Brindisi - 21. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/FInPa3dSzV4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-21T05:15:00Z"
         }
       ]
     },
