@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-20T18:51:00.033Z",
+  "lastUpdated": "2026-07-20T20:17:15.383Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FInPa3dSzV4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-21T05:15:00Z"
+        },
+        {
+          "id": "b0dtvgzrJDU",
+          "title": "Saint Lawrence of Brindisi, confessor and doctor of the C",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/b0dtvgzrJDU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-21T07:30:00Z"
         },
         {
           "id": "Pvo50JvzCZo",
