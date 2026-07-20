@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-20T11:20:37.763Z",
+  "lastUpdated": "2026-07-20T13:24:23.936Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dVuqeuleOvg",
-          "title": "Mon. Jul. 20, 2026    -    St. Jerome Emiliani,   Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/dVuqeuleOvg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WH8tl1LSKd0",
           "title": "FSSPX Antwerpen - 20/07 Aanbidding met Rozenhoedje",
@@ -64,24 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "l6v9TaeJUWk",
-          "title": "7am Mass & Divine Office. St. Jerome Emiliani, Confessor. III. Monday, July 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/l6v9TaeJUWk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ihjKQeyDalo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jerome Æmiliani, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ihjKQeyDalo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-20T11:30:00Z"
-        },
-        {
           "id": "IHtI_UudO0w",
           "title": "Monday",
           "channel": "Oxford Oratory",
@@ -98,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xPjy0pl-plo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-20T17:00:00Z"
+        },
+        {
+          "id": "sxNBDtWgiEI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence of Brindisi, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/sxNBDtWgiEI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-21T11:30:00Z"
         }
       ]
     }
