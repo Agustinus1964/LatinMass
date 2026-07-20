@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-20T20:17:15.383Z",
+  "lastUpdated": "2026-07-20T21:40:38.771Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZjC5BDdxIik",
+          "title": "St Lawrence of Brindisi Tue 21/July/2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ZjC5BDdxIik/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "FInPa3dSzV4",
           "title": "Hl. Messe - hl. Laurentius von Brindisi - 21. Juli 2026",
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "zBEtxENhHG8",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/zBEtxENhHG8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "sxNBDtWgiEI",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence of Brindisi, Confessor and Doctor)",
