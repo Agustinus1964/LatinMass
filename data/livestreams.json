@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-21T10:37:17.739Z",
+  "lastUpdated": "2026-07-21T12:21:31.493Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Pvo50JvzCZo",
-          "title": "Tue. Jul. 21, 2026    -    St. Lawrence of Brindisi,  Confessor, Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Pvo50JvzCZo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-21T11:15:00Z"
-        },
         {
           "id": "0CR0UA79iUo",
           "title": "FSSPX Antwerpen - 21/07 Aanbidding met Rozenhoedje",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gBmsBpz1c3U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-22T05:30:00Z"
+        },
+        {
+          "id": "u6AvLgeLrEg",
+          "title": "Wed. Jul. 22, 2026    -    St. Mary Magdalen,  Penitent",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/u6AvLgeLrEg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-22T11:15:00Z"
         }
       ]
     },
@@ -55,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "GwH7VBzFAXE",
-          "title": "7am Mass & Divine Office. St Lawrence of Brindisi, Doctor of the Church. III. Tuesday, July 21, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/GwH7VBzFAXE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kRl7_5Y_lXM",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 07/21/2026",
+          "id": "aP6zFIZwQZs",
+          "title": "Tuesday 8 AM Catholic Mass for 07/21/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/kRl7_5Y_lXM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/aP6zFIZwQZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "sxNBDtWgiEI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence of Brindisi, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/sxNBDtWgiEI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-21T11:30:00Z"
         },
         {
           "id": "GhmJj5Zcvn4",
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qS7CV82YNLc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-21T17:00:00Z"
+        },
+        {
+          "id": "243D70HtioI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Mary Magdalene, Penitent)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/243D70HtioI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-22T11:30:00Z"
         }
       ]
     }
