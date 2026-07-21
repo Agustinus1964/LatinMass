@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T14:32:53.934Z",
+  "lastUpdated": "2026-07-21T16:20:18.659Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/0CR0UA79iUo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-21T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SgsTsfAHdqU",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wFk7X2huEbc",
-          "title": "Santo Sacrificio de la Misa. 21 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/wFk7X2huEbc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GhmJj5Zcvn4",
           "title": "Tuesday",
