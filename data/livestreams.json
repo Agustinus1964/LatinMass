@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-21T16:20:18.659Z",
+  "lastUpdated": "2026-07-21T17:52:07.901Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0CR0UA79iUo",
-          "title": "FSSPX Antwerpen - 21/07 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0CR0UA79iUo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "SgsTsfAHdqU",
-          "title": "FSSPX Antwerpen - 21/07 H. LAURENTIUS van BRINDISI",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SgsTsfAHdqU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-21T16:30:00Z"
-        },
         {
           "id": "YdtC0V72tNg",
           "title": "Hl. Messe - hl. Maria Magdalena - 22. Juli 2026",
@@ -55,13 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "GhmJj5Zcvn4",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GhmJj5Zcvn4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-21T17:00:00Z"
+          "id": "ig7uEw4AvQI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ig7uEw4AvQI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qS7CV82YNLc",
@@ -69,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/qS7CV82YNLc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-21T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "243D70HtioI",
@@ -80,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/243D70HtioI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-22T11:30:00Z"
+        },
+        {
+          "id": "H8HqrhvtOVE",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/H8HqrhvtOVE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-22T17:00:00Z"
+        },
+        {
+          "id": "-ldHX7-bRLw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/-ldHX7-bRLw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-22T17:00:00Z"
         }
       ]
     }
