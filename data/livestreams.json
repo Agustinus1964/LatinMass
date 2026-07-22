@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-22T15:37:06.604Z",
+  "lastUpdated": "2026-07-22T17:13:25.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a8e0P3d8guE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-23T13:30:00Z"
+        },
+        {
+          "id": "cGYtrulodBg",
+          "title": "FSSPX Antwerpen - 23/07 H. APOLLINARIS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/cGYtrulodBg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T16:30:00Z"
         }
       ]
     },
@@ -46,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "fO0nJ_evyBw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/fO0nJ_evyBw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "jWeb44qiLHk",
           "title": "Wednesday 22nd July 2026: Saint Mary Magdalen",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/jWeb44qiLHk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-22T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "H8HqrhvtOVE",
@@ -60,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/H8HqrhvtOVE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-22T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-ldHX7-bRLw",
@@ -69,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/-ldHX7-bRLw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-22T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "G_6B2kHnjOk",
@@ -98,6 +116,33 @@
           "thumbnail": "https://i.ytimg.com/vi/eHfS37ZbVZo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-23T11:30:00Z"
+        },
+        {
+          "id": "JGTHKU8HFQQ",
+          "title": "Friday 24th July 2026: Saint Christina",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/JGTHKU8HFQQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T17:00:00Z"
+        },
+        {
+          "id": "m_wpW4Ar9tA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/m_wpW4Ar9tA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T17:00:00Z"
+        },
+        {
+          "id": "jpClxgBga3s",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/jpClxgBga3s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T17:00:00Z"
         }
       ]
     }
