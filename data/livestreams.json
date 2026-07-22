@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-22T04:14:32.109Z",
+  "lastUpdated": "2026-07-22T07:07:16.974Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "YdtC0V72tNg",
-          "title": "Hl. Messe - hl. Maria Magdalena - 22. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YdtC0V72tNg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-22T05:15:00Z"
-        },
-        {
-          "id": "gBmsBpz1c3U",
-          "title": "FSSPX Antwerpen - 22/07 H. MARIA MAGDALENA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gBmsBpz1c3U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-22T05:30:00Z"
+          "id": "opAUMaUEEqw",
+          "title": "St Mary Magdalene",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/opAUMaUEEqw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "u6AvLgeLrEg",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/u6AvLgeLrEg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-22T11:15:00Z"
+        },
+        {
+          "id": "SXnpVDNHBew",
+          "title": "Hl. Messe - hl. Apolliniaris - 23. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/SXnpVDNHBew/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T05:15:00Z"
         }
       ]
     },
