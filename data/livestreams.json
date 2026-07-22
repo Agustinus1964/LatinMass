@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-22T07:07:16.974Z",
+  "lastUpdated": "2026-07-22T09:56:20.261Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "opAUMaUEEqw",
-          "title": "St Mary Magdalene",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/opAUMaUEEqw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "u6AvLgeLrEg",
           "title": "Wed. Jul. 22, 2026    -    St. Mary Magdalen,  Penitent",
@@ -37,6 +28,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "wfxF--kfYGY",
+          "title": "Prima e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/wfxF--kfYGY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "243D70HtioI",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Mary Magdalene, Penitent)",
           "channel": "Usus Antiquior",
@@ -44,6 +44,15 @@
           "thumbnail": "https://i.ytimg.com/vi/243D70HtioI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-22T11:30:00Z"
+        },
+        {
+          "id": "jWeb44qiLHk",
+          "title": "Wednesday 22nd July 2026: Saint Mary Magdalen",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/jWeb44qiLHk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-22T17:00:00Z"
         },
         {
           "id": "H8HqrhvtOVE",
@@ -62,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-ldHX7-bRLw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-22T17:00:00Z"
+        },
+        {
+          "id": "G_6B2kHnjOk",
+          "title": "Thursday 23rd July 2026: Saint Apollinaris",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/G_6B2kHnjOk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T07:00:00Z"
         }
       ]
     }
