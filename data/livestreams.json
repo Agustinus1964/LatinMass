@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-22T21:35:31.673Z",
+  "lastUpdated": "2026-07-22T22:58:01.201Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "u6AvLgeLrEg",
-          "title": "Wed. Jul. 22, 2026    -    St. Mary Magdalen,  Penitent",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/u6AvLgeLrEg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7nlxiUmK6Hk",
-          "title": "Mass of St Apollinaris - 23.7.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/7nlxiUmK6Hk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "SXnpVDNHBew",
           "title": "Hl. Messe - hl. Apolliniaris - 23. Juli 2026",
@@ -73,24 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ryONVo6arvw",
-          "title": "Divine Office & 6pm Mass. St. Mary Magdalene, Penitent. III. Wednesday, July 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ryONVo6arvw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rrWKvcRau1s",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rrWKvcRau1s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "G_6B2kHnjOk",
           "title": "Thursday 23rd July 2026: Saint Apollinaris",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -98,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/G_6B2kHnjOk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-23T07:00:00Z"
+        },
+        {
+          "id": "oUxnZ6lFRrA",
+          "title": "7am Mass & Divine Office. St. Apollinarius, Bishop & Martyr. III. Thursday, July 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/oUxnZ6lFRrA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-23T11:00:00Z"
         },
         {
           "id": "eHfS37ZbVZo",
