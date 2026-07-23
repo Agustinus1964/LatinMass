@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T22:08:58.262Z",
+  "lastUpdated": "2026-07-23T23:26:51.587Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -89,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/PjpKVRSJd5E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-24T21:00:00Z"
+        },
+        {
+          "id": "Nh4yZpNXDMs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Christina, Virgin and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Nh4yZpNXDMs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-24T22:30:00Z"
+        },
+        {
+          "id": "IVyg4PlpJHg",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA 2026: PART I",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/IVyg4PlpJHg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-24T23:00:00Z"
         }
       ]
     }
