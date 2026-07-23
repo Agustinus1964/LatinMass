@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-23T06:27:05.897Z",
+  "lastUpdated": "2026-07-23T09:06:47.766Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oWXPvGDsCcY",
-          "title": "Saint Apollinaris, Bishop and Martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/oWXPvGDsCcY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-23T06:30:00Z"
-        },
         {
           "id": "lIKSt6I0Uyk",
           "title": "Thu. Jul. 23, 2026    -    St. Apollinaris,   Bishop and Martyr",
@@ -55,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "G_6B2kHnjOk",
-          "title": "Thursday 23rd July 2026: Saint Apollinaris",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/G_6B2kHnjOk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-23T07:00:00Z"
+          "id": "ZE42bHtSlC4",
+          "title": "Ofício de Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ZE42bHtSlC4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oUxnZ6lFRrA",
