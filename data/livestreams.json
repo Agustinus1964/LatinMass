@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T09:06:47.766Z",
+  "lastUpdated": "2026-07-23T11:22:47.956Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/lIKSt6I0Uyk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-23T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "a8e0P3d8guE",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1-HLzcBpFec/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-24T05:15:00Z"
+        },
+        {
+          "id": "c2M6BiPEIZc",
+          "title": "Fri. Jul. 24, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/c2M6BiPEIZc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-24T11:15:00Z"
         }
       ]
     },
@@ -46,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZE42bHtSlC4",
-          "title": "Ofício de Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ZE42bHtSlC4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "oUxnZ6lFRrA",
           "title": "7am Mass & Divine Office. St. Apollinarius, Bishop & Martyr. III. Thursday, July 23, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/oUxnZ6lFRrA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-23T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eHfS37ZbVZo",
