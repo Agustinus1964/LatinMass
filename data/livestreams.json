@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T20:58:52.836Z",
+  "lastUpdated": "2026-07-23T22:08:58.262Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zwOfZctYdKA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-24T17:00:00Z"
+        },
+        {
+          "id": "PjpKVRSJd5E",
+          "title": "Divine Office, 6pm Mass, Holy Hour. Feria. IV. Friday, July 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PjpKVRSJd5E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-24T21:00:00Z"
         }
       ]
     }
