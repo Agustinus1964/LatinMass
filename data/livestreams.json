@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T18:56:06.671Z",
+  "lastUpdated": "2026-07-24T20:17:51.673Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FBYj85-Co0I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T05:15:00Z"
+        },
+        {
+          "id": "gEzOcVTNiB4",
+          "title": "Saint James, apostle",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/gEzOcVTNiB4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T07:30:00Z"
         },
         {
           "id": "E8JYyqOcA2M",
