@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-24T11:38:33.658Z",
+  "lastUpdated": "2026-07-24T13:28:16.320Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "c2M6BiPEIZc",
-          "title": "Fri. Jul. 24, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/c2M6BiPEIZc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Gc_WAt6nAF0",
           "title": "FSSPX Antwerpen - 24/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/E8JYyqOcA2M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T08:00:00Z"
+        },
+        {
+          "id": "01IoHJAT0Ig",
+          "title": "Sat. Jul. 25, 2026    -   St. James,    Apostle",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/01IoHJAT0Ig/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T12:00:00Z"
         }
       ]
     },
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/urOuBDK9aOA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T09:30:00Z"
+        },
+        {
+          "id": "TKnJKq6qS8s",
+          "title": "9am Mass. St. James the Greater, Apostle. II. Saturday, July 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TKnJKq6qS8s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T13:00:00Z"
         }
       ]
     }
