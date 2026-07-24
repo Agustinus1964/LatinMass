@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-24T17:02:29.476Z",
+  "lastUpdated": "2026-07-24T18:56:06.671Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RJshCN2vwyg",
-          "title": "FSSPX Antwerpen - 24/07 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/RJshCN2vwyg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FBYj85-Co0I",
           "title": "Hl. Messe - hl. Apostel Jakobus der Ältere - 25. Juli 2026",
@@ -45,33 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "JGTHKU8HFQQ",
-          "title": "Friday 24th July 2026: Saint Christina",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/JGTHKU8HFQQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "skMQJsj-tCg",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/skMQJsj-tCg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zwOfZctYdKA",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zwOfZctYdKA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Nh4yZpNXDMs",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Christina, Virgin and Martyr)",
