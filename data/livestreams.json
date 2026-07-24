@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-07-24T15:13:09.883Z",
+  "lastUpdated": "2026-07-24T17:02:29.476Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Gc_WAt6nAF0",
-          "title": "FSSPX Antwerpen - 24/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Gc_WAt6nAF0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "G98JRUoLpMk",
-          "title": "FSSPX Antwerpen - 24/07 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/G98JRUoLpMk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T15:45:00Z"
-        },
         {
           "id": "RJshCN2vwyg",
           "title": "FSSPX Antwerpen - 24/07 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/RJshCN2vwyg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FBYj85-Co0I",
@@ -64,13 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "JGTHKU8HFQQ",
+          "title": "Friday 24th July 2026: Saint Christina",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/JGTHKU8HFQQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "skMQJsj-tCg",
           "title": "Friday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/skMQJsj-tCg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zwOfZctYdKA",
@@ -78,8 +69,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/zwOfZctYdKA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nh4yZpNXDMs",
@@ -134,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IDjdPWdIJZY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T14:00:00Z"
+        },
+        {
+          "id": "59INXTQO0UA",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/59INXTQO0UA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T17:00:00Z"
         }
       ]
     }
