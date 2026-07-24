@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T21:35:36.587Z",
+  "lastUpdated": "2026-07-24T22:57:45.581Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Nh4yZpNXDMs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Christina, Virgin and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Nh4yZpNXDMs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "PjpKVRSJd5E",
           "title": "Divine Office, 6pm Mass, Holy Hour. Feria. IV. Friday, July 24, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,22 +64,22 @@
           "scheduledTime": null
         },
         {
-          "id": "Nh4yZpNXDMs",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Christina, Virgin and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Nh4yZpNXDMs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T22:30:00Z"
-        },
-        {
           "id": "IVyg4PlpJHg",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA 2026: PART I",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/IVyg4PlpJHg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tOatOFMBWqU",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 07/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/tOatOFMBWqU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "et6qRwbaOaQ",
