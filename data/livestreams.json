@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-24T07:04:37.283Z",
+  "lastUpdated": "2026-07-24T09:42:24.121Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BBV-o4ytma8",
-          "title": "Feria: 8ᵗʰ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/BBV-o4ytma8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-24T07:30:00Z"
-        },
         {
           "id": "c2M6BiPEIZc",
           "title": "Fri. Jul. 24, 2026    -    Ferial Day",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FBYj85-Co0I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T05:15:00Z"
+        },
+        {
+          "id": "E8JYyqOcA2M",
+          "title": "FSSPX Antwerpen - 25/07 H. JACOBUS de MEERDERE",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/E8JYyqOcA2M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T08:00:00Z"
         }
       ]
     },
@@ -98,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/IVyg4PlpJHg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-24T23:00:00Z"
+        },
+        {
+          "id": "et6qRwbaOaQ",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/et6qRwbaOaQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T07:30:00Z"
+        },
+        {
+          "id": "urOuBDK9aOA",
+          "title": "Saturday 25th July 2026: Saint James",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/urOuBDK9aOA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T09:30:00Z"
         }
       ]
     }
