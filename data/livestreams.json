@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T20:17:51.673Z",
+  "lastUpdated": "2026-07-24T21:35:36.587Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "PjpKVRSJd5E",
+          "title": "Divine Office, 6pm Mass, Holy Hour. Feria. IV. Friday, July 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PjpKVRSJd5E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Nh4yZpNXDMs",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Christina, Virgin and Martyr)",
           "channel": "Usus Antiquior",
@@ -80,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/urOuBDK9aOA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T09:30:00Z"
-        },
-        {
-          "id": "TKnJKq6qS8s",
-          "title": "9am Mass. St. James the Greater, Apostle. II. Saturday, July 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/TKnJKq6qS8s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-25T13:00:00Z"
         },
         {
           "id": "IDjdPWdIJZY",
