@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T13:16:54.431Z",
+  "lastUpdated": "2026-07-25T14:46:08.528Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,22 +14,13 @@
           "scheduledTime": "2026-07-26T07:30:00Z"
         },
         {
-          "id": "_vxfaRc-drQ",
-          "title": "FSSPX Antwerpen - 26/07 9° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/_vxfaRc-drQ/mqdefault_live.jpg",
+          "id": "mNn8BnIKbLM",
+          "title": "Sun. Jul. 26, 2026   -   Ninth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/mNn8BnIKbLM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-26T08:00:00Z"
-        },
-        {
-          "id": "o-B6T2bTyyc",
-          "title": "FSSPX Antwerpen - 26/07 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/o-B6T2bTyyc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T13:15:00Z"
+          "scheduledTime": "2026-07-26T14:00:00Z"
         }
       ]
     },
@@ -37,29 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "zbTQfAh_DzQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint James the Greater, Apostle)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/zbTQfAh_DzQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TKnJKq6qS8s",
-          "title": "9am Mass. St. James the Greater, Apostle. II. Saturday, July 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/TKnJKq6qS8s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "eei6Cn8H0_Q",
-          "title": "Saturday 9 AM Traditional Catholic Mass 07/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/eei6Cn8H0_Q/mqdefault_live.jpg",
+          "id": "2zgGU1GrGB8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/2zgGU1GrGB8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,8 +42,17 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/IDjdPWdIJZY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-25T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "qW05NmuUl6g",
+          "title": "Santo Sacrificio de la Misa. 25 de julio 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/qW05NmuUl6g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zV1oEj1ALIA",
@@ -98,6 +80,42 @@
           "thumbnail": "https://i.ytimg.com/vi/GaqKs5g3D_Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-26T11:00:00Z"
+        },
+        {
+          "id": "bUHi4Qg2Q8M",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Ninth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bUHi4Qg2Q8M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T12:00:00Z"
+        },
+        {
+          "id": "ND9FEcX-sks",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Ninth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ND9FEcX-sks/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T14:30:00Z"
+        },
+        {
+          "id": "Spj3-ufr6zM",
+          "title": "10:30am Sung Mass. Ninth Sunday after Pentecost. II. July 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Spj3-ufr6zM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T14:30:00Z"
+        },
+        {
+          "id": "JB_xzPyysYU",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/JB_xzPyysYU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T14:45:00Z"
         }
       ]
     }
