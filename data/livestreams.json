@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T22:57:45.581Z",
+  "lastUpdated": "2026-07-25T00:06:42.271Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Nh4yZpNXDMs",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Christina, Virgin and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Nh4yZpNXDMs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PjpKVRSJd5E",
-          "title": "Divine Office, 6pm Mass, Holy Hour. Feria. IV. Friday, July 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/PjpKVRSJd5E/mqdefault_live.jpg",
+          "id": "sLVbX5JPMwU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/sLVbX5JPMwU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/urOuBDK9aOA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T09:30:00Z"
+        },
+        {
+          "id": "zbTQfAh_DzQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint James the Greater, Apostle)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zbTQfAh_DzQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T13:00:00Z"
+        },
+        {
+          "id": "TKnJKq6qS8s",
+          "title": "9am Mass. St. James the Greater, Apostle. II. Saturday, July 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/TKnJKq6qS8s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-25T13:00:00Z"
         },
         {
           "id": "IDjdPWdIJZY",
