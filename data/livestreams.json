@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T10:09:17.670Z",
+  "lastUpdated": "2026-07-25T11:42:19.342Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,11 +37,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "urOuBDK9aOA",
-          "title": "Saturday 25th July 2026: Saint James",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/urOuBDK9aOA/mqdefault_live.jpg",
+          "id": "3uxElKDiYaE",
+          "title": "Saturday 7 AM Catholic Mass for 07/25/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/3uxElKDiYaE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YCGwmLylbcY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-26T09:30:00Z"
+        },
+        {
+          "id": "GaqKs5g3D_Y",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Ninth Sunday after Pentecost. II. July 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GaqKs5g3D_Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T11:00:00Z"
         }
       ]
     }
