@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T20:45:54.580Z",
+  "lastUpdated": "2026-07-25T21:51:46.617Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,12 +21,139 @@
           "thumbnail": "https://i.ytimg.com/vi/actZPJY_6mc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-26T15:30:00Z"
+        },
+        {
+          "id": "ojKkpqpnYTs",
+          "title": "IX Sunday after Pentecost | July 26th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/ojKkpqpnYTs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "7OTL5jdpix8",
+          "title": "8am — 9th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/7OTL5jdpix8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T07:00:00Z"
+        },
+        {
+          "id": "0r1Pn1ujaEo",
+          "title": "9:30am — 17th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/0r1Pn1ujaEo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T08:30:00Z"
+        },
+        {
+          "id": "zV1oEj1ALIA",
+          "title": "Sainte messe du IXème dimanche après la Pentecôte - ECCE DEUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/zV1oEj1ALIA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T09:00:00Z"
+        },
+        {
+          "id": "YCGwmLylbcY",
+          "title": "Sunday 26th July 2026: Ninth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/YCGwmLylbcY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T09:30:00Z"
+        },
+        {
+          "id": "7FkFhiUbKRk",
+          "title": "11am — 17th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/7FkFhiUbKRk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T10:00:00Z"
+        },
+        {
+          "id": "GaqKs5g3D_Y",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Ninth Sunday after Pentecost. II. July 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GaqKs5g3D_Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T11:00:00Z"
+        },
+        {
+          "id": "bUHi4Qg2Q8M",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Ninth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/bUHi4Qg2Q8M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T12:00:00Z"
+        },
+        {
+          "id": "ND9FEcX-sks",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Ninth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ND9FEcX-sks/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T14:30:00Z"
+        },
+        {
+          "id": "Spj3-ufr6zM",
+          "title": "10:30am Sung Mass. Ninth Sunday after Pentecost. II. July 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Spj3-ufr6zM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T14:30:00Z"
+        },
+        {
+          "id": "JB_xzPyysYU",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/JB_xzPyysYU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T14:45:00Z"
+        },
+        {
+          "id": "h_ev-HtmOQI",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART III , 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/h_ev-HtmOQI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T15:30:00Z"
+        },
+        {
+          "id": "PSUzwC1fV3M",
+          "title": "Secondes vêpres du IXème dimanche après la Pentecôte - SCRIPTUM EST ENIM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/PSUzwC1fV3M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T15:45:00Z"
+        },
+        {
+          "id": "6F1EYcLbZl4",
+          "title": "Vespers and Benediction — 9th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6F1EYcLbZl4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T16:00:00Z"
+        }
+      ]
     }
   }
 }
