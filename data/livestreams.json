@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-25T08:28:27.262Z",
+  "lastUpdated": "2026-07-25T10:09:17.670Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E8JYyqOcA2M",
-          "title": "FSSPX Antwerpen - 25/07 H. JACOBUS de MEERDERE",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/E8JYyqOcA2M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gEzOcVTNiB4",
-          "title": "Saint James, apostle",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/gEzOcVTNiB4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-25T07:30:00Z"
-        },
         {
           "id": "01IoHJAT0Ig",
           "title": "Sat. Jul. 25, 2026    -   St. James,    Apostle",
@@ -60,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/urOuBDK9aOA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-25T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zbTQfAh_DzQ",
@@ -91,13 +73,22 @@
           "scheduledTime": "2026-07-25T14:00:00Z"
         },
         {
-          "id": "59INXTQO0UA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/59INXTQO0UA/mqdefault_live.jpg",
+          "id": "zV1oEj1ALIA",
+          "title": "Sainte messe du IXème dimanche après la Pentecôte - ECCE DEUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/zV1oEj1ALIA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-25T17:00:00Z"
+          "scheduledTime": "2026-07-26T09:00:00Z"
+        },
+        {
+          "id": "YCGwmLylbcY",
+          "title": "Sunday 26th July 2026: Ninth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/YCGwmLylbcY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T09:30:00Z"
         }
       ]
     }
