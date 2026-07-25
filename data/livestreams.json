@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-25T06:13:48.050Z",
+  "lastUpdated": "2026-07-25T08:28:27.262Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "E8JYyqOcA2M",
+          "title": "FSSPX Antwerpen - 25/07 H. JACOBUS de MEERDERE",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/E8JYyqOcA2M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "gEzOcVTNiB4",
           "title": "Saint James, apostle",
@@ -14,15 +23,6 @@
           "scheduledTime": "2026-07-25T07:30:00Z"
         },
         {
-          "id": "E8JYyqOcA2M",
-          "title": "FSSPX Antwerpen - 25/07 H. JACOBUS de MEERDERE",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/E8JYyqOcA2M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-25T08:00:00Z"
-        },
-        {
           "id": "01IoHJAT0Ig",
           "title": "Sat. Jul. 25, 2026    -   St. James,    Apostle",
           "channel": "Transfiguration Church SSPX",
@@ -30,21 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/01IoHJAT0Ig/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-25T12:00:00Z"
+        },
+        {
+          "id": "ALwhXr8Ao9M",
+          "title": "Amt - 9. Sonntag nach Pfingsten - 26. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ALwhXr8Ao9M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T07:30:00Z"
+        },
+        {
+          "id": "_vxfaRc-drQ",
+          "title": "FSSPX Antwerpen - 26/07 9° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/_vxfaRc-drQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T08:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "et6qRwbaOaQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/et6qRwbaOaQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-25T07:30:00Z"
-        },
         {
           "id": "urOuBDK9aOA",
           "title": "Saturday 25th July 2026: Saint James",
