@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-26T02:51:47.191Z",
+  "lastUpdated": "2026-07-26T05:57:37.895Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ns2ZE360hcg",
-          "title": "Sung Mass - 9th Sunday after Pentecost",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/ns2ZE360hcg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ALwhXr8Ao9M",
           "title": "Amt - 9. Sonntag nach Pfingsten - 26. Juli 2026",
@@ -72,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "s1_1Arh3lcE",
-          "title": "Apologética bíblica: Basta la sola Fé para salvarnos? P. Joel Pinto Rodríguez.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/s1_1Arh3lcE/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7OTL5jdpix8",
           "title": "8am — 9th Sunday after Pentecost",
@@ -197,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6F1EYcLbZl4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-26T16:00:00Z"
+        },
+        {
+          "id": "6je-CiDF1tw",
+          "title": "To Admonish the Sinner Is a Spiritual Work of Mercy.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/6je-CiDF1tw/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-26T18:00:00Z"
         }
       ]
     }
