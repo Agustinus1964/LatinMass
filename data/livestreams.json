@@ -1,17 +1,35 @@
 {
-  "lastUpdated": "2026-07-26T18:30:47.687Z",
+  "lastUpdated": "2026-07-26T20:06:03.970Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "ojKkpqpnYTs",
+          "id": "6d5cgLT6z70",
           "title": "IX Sunday after Pentecost | July 26th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/ojKkpqpnYTs/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/6d5cgLT6z70/mqdefault.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "9QKV-aw4jcY",
+          "title": "Hl. Messe - 27. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9QKV-aw4jcY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T05:15:00Z"
+        },
+        {
+          "id": "suP9xGilHDg",
+          "title": "Feria: 9ᵗʰ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/suP9xGilHDg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T07:30:00Z"
         },
         {
           "id": "9OqXOH9w_aQ",
@@ -21,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9OqXOH9w_aQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T11:15:00Z"
+        },
+        {
+          "id": "IRFceafGCvs",
+          "title": "Rosenkranz und hl. Messe - 27. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IRFceafGCvs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T16:00:00Z"
         },
         {
           "id": "YQI5sMPxfT8",
@@ -37,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "NvMxxWoVXc0",
-          "title": "Sunday 1:30 PM Catholic Mass 07/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NvMxxWoVXc0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "f-qJaBrZqKA",
-          "title": "Santa Misa Dominical. 26 de julio 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/f-qJaBrZqKA/mqdefault_live.jpg",
+          "id": "ETmM0yTvS0Y",
+          "title": "Missa Rezada IX Domingo depois de Pentecostes e Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ETmM0yTvS0Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -62,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/X70B0MBXMDo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T11:00:00Z"
+        },
+        {
+          "id": "j3rdWGnymaQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Pantaleon, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/j3rdWGnymaQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T11:30:00Z"
         },
         {
           "id": "GWTIsdSC0WA",
