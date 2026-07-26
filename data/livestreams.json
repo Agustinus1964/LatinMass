@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T22:28:46.045Z",
+  "lastUpdated": "2026-07-26T23:30:26.460Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_Ws1-8D1HXI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T17:00:00Z"
+        },
+        {
+          "id": "Pf5i9fMH2n0",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART IV, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/Pf5i9fMH2n0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T23:00:00Z"
         }
       ]
     }
