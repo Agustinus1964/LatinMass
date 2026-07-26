@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-07-26T15:58:23.187Z",
+  "lastUpdated": "2026-07-26T17:07:28.226Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kA4ra7w_zTM",
-          "title": "Ninth Sunday after Pentecost, July 26, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/kA4ra7w_zTM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "o-B6T2bTyyc",
-          "title": "FSSPX Antwerpen - 26/07 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/o-B6T2bTyyc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "actZPJY_6mc",
-          "title": "Vesper und Sakramentsandacht - 9. Sonntag nach Pfingsten - 26. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/actZPJY_6mc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ojKkpqpnYTs",
           "title": "IX Sunday after Pentecost | July 26th",
@@ -48,30 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/9OqXOH9w_aQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T11:15:00Z"
+        },
+        {
+          "id": "YQI5sMPxfT8",
+          "title": "FSSPX Antwerpen - 27/07 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/YQI5sMPxfT8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ND9FEcX-sks",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Ninth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ND9FEcX-sks/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dYoD9VC3Wc8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/dYoD9VC3Wc8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "h_ev-HtmOQI",
           "title": "NINTH SUNDAY AFTER PENTECOST - SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART III , 2026",
@@ -82,47 +46,11 @@
           "scheduledTime": null
         },
         {
-          "id": "yhVP5TXVDAY",
-          "title": "Sunday 11 AM Sung Mass 2026-07-26",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/yhVP5TXVDAY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MXiRFLEuKWs",
-          "title": "Feast of Saint Anne / Fête de Sainte Anne",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/MXiRFLEuKWs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "bVN3CJEDOdk",
           "title": "Santa Misa Dominical. 26 de julio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/bVN3CJEDOdk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6F1EYcLbZl4",
-          "title": "Vespers and Benediction — 9th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6F1EYcLbZl4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PSUzwC1fV3M",
-          "title": "Secondes vêpres du IXème dimanche après la Pentecôte - SCRIPTUM EST ENIM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/PSUzwC1fV3M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -143,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/X70B0MBXMDo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T11:00:00Z"
+        },
+        {
+          "id": "GWTIsdSC0WA",
+          "title": "Monday 27th July 2026: Saint Pantaleon",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/GWTIsdSC0WA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T17:00:00Z"
+        },
+        {
+          "id": "LZ9V5RxfxT4",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/LZ9V5RxfxT4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T17:00:00Z"
+        },
+        {
+          "id": "_Ws1-8D1HXI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_Ws1-8D1HXI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T17:00:00Z"
         }
       ]
     }
