@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-26T13:12:18.868Z",
+  "lastUpdated": "2026-07-26T14:47:55.214Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "VbenehatHgg",
+          "title": "Low Mass - 9th Sunday after Pentecost - 7/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/VbenehatHgg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "mtCh1KCgR40",
           "title": "Ninth Sunday After Pentecost",
@@ -14,13 +23,40 @@
           "scheduledTime": null
         },
         {
-          "id": "VbenehatHgg",
-          "title": "Low Mass - 9th Sunday after Pentecost - 7/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/VbenehatHgg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T14:00:00Z"
+          "id": "mLnFQZvbKNA",
+          "title": "IX Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/mLnFQZvbKNA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kA4ra7w_zTM",
+          "title": "Ninth Sunday after Pentecost, July 26, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/kA4ra7w_zTM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "mNn8BnIKbLM",
+          "title": "Sun. Jul. 26, 2026   -   Ninth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/mNn8BnIKbLM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "o-B6T2bTyyc",
+          "title": "FSSPX Antwerpen - 26/07 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/o-B6T2bTyyc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "actZPJY_6mc",
@@ -55,49 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "p6jYqO-PmVQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/p6jYqO-PmVQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GaqKs5g3D_Y",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Ninth Sunday after Pentecost. II. July 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/GaqKs5g3D_Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9wWsun5y7rY",
-          "title": "Sunday 8:30 AM Catholic Mass for 07/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/9wWsun5y7rY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5OY7tszGCXQ",
-          "title": "Missa Cantada IX Domingo Depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/5OY7tszGCXQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ND9FEcX-sks",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Ninth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/ND9FEcX-sks/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Spj3-ufr6zM",
@@ -105,8 +105,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Spj3-ufr6zM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MXiRFLEuKWs",
+          "title": "Feast of Saint Anne / Fête de Sainte Anne",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/MXiRFLEuKWs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "JB_xzPyysYU",
@@ -114,8 +123,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/JB_xzPyysYU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "h_ev-HtmOQI",
