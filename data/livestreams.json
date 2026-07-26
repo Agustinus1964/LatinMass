@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T20:06:03.970Z",
+  "lastUpdated": "2026-07-26T21:25:27.133Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/6d5cgLT6z70/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pL9W4LUgYpg",
+          "title": "Ferial Mon 27/7/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/pL9W4LUgYpg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
