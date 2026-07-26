@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-25T23:56:50.494Z",
+  "lastUpdated": "2026-07-26T02:51:47.191Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "4wA0tw8Ea6s",
-          "title": "NINTH SUNDAY AFTER PENTECOST - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/4wA0tw8Ea6s/mqdefault_live.jpg",
+          "id": "ns2ZE360hcg",
+          "title": "Sung Mass - 9th Sunday after Pentecost",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/ns2ZE360hcg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -72,6 +72,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "s1_1Arh3lcE",
+          "title": "Apologética bíblica: Basta la sola Fé para salvarnos? P. Joel Pinto Rodríguez.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/s1_1Arh3lcE/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7OTL5jdpix8",
           "title": "8am — 9th Sunday after Pentecost",
