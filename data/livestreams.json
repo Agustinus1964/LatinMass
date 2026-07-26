@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-26T10:18:46.133Z",
+  "lastUpdated": "2026-07-26T11:43:49.784Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "QvXg_lfZOk8",
+          "title": "Low Mass - 9th Sunday after Pentecost - 7/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/QvXg_lfZOk8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nqvJ4gtQ1PY",
           "title": "9th Sunday after Whitsun",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/nqvJ4gtQ1PY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "QvXg_lfZOk8",
-          "title": "Low Mass - 9th Sunday after Pentecost - 7/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/QvXg_lfZOk8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T11:15:00Z"
         },
         {
           "id": "VbenehatHgg",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ojKkpqpnYTs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-26T17:00:00Z"
+        },
+        {
+          "id": "9OqXOH9w_aQ",
+          "title": "Mon. Jul. 27, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/9OqXOH9w_aQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T11:15:00Z"
         }
       ]
     },
@@ -55,40 +64,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YCGwmLylbcY",
-          "title": "Sunday 26th July 2026: Ninth Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/YCGwmLylbcY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7FkFhiUbKRk",
-          "title": "11am — 17th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/7FkFhiUbKRk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zV1oEj1ALIA",
-          "title": "Sainte messe du IXème dimanche après la Pentecôte - ECCE DEUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zV1oEj1ALIA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "GaqKs5g3D_Y",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Ninth Sunday after Pentecost. II. July 26, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/GaqKs5g3D_Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "q2cLUEzGZsc",
+          "title": "Sunday 7 AM Catholic Mass for 07/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/q2cLUEzGZsc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0OspB6OU6Iw",
+          "title": "Missa rezada - IX Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/0OspB6OU6Iw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bUHi4Qg2Q8M",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6je-CiDF1tw/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-26T18:00:00Z"
+        },
+        {
+          "id": "X70B0MBXMDo",
+          "title": "7am Mass & Divine Office. Feria. IV. Monday, July 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/X70B0MBXMDo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-27T11:00:00Z"
         }
       ]
     }
