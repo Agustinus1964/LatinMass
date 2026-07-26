@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-07-26T05:57:37.895Z",
+  "lastUpdated": "2026-07-26T08:29:39.196Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_vxfaRc-drQ",
+          "title": "FSSPX Antwerpen - 26/07 9° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/_vxfaRc-drQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ALwhXr8Ao9M",
           "title": "Amt - 9. Sonntag nach Pfingsten - 26. Juli 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/ALwhXr8Ao9M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T9xm6KsEsyE",
@@ -19,8 +28,17 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/T9xm6KsEsyE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "nqvJ4gtQ1PY",
+          "title": "9th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/nqvJ4gtQ1PY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-26T08:25:00Z"
+          "scheduledTime": "2026-07-26T10:00:00Z"
         },
         {
           "id": "QvXg_lfZOk8",
@@ -64,22 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7OTL5jdpix8",
-          "title": "8am — 9th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/7OTL5jdpix8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T07:00:00Z"
-        },
-        {
           "id": "0r1Pn1ujaEo",
           "title": "9:30am — 17th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/0r1Pn1ujaEo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zV1oEj1ALIA",
