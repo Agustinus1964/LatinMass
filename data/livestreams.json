@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T17:07:28.226Z",
+  "lastUpdated": "2026-07-26T18:30:47.687Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/ojKkpqpnYTs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9OqXOH9w_aQ",
@@ -37,31 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "h_ev-HtmOQI",
-          "title": "NINTH SUNDAY AFTER PENTECOST - SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART III , 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/h_ev-HtmOQI/mqdefault_live.jpg",
+          "id": "NvMxxWoVXc0",
+          "title": "Sunday 1:30 PM Catholic Mass 07/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NvMxxWoVXc0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "bVN3CJEDOdk",
+          "id": "f-qJaBrZqKA",
           "title": "Santa Misa Dominical. 26 de julio 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/bVN3CJEDOdk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/f-qJaBrZqKA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6je-CiDF1tw",
-          "title": "To Admonish the Sinner Is a Spiritual Work of Mercy.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/6je-CiDF1tw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-26T18:00:00Z"
         },
         {
           "id": "X70B0MBXMDo",
