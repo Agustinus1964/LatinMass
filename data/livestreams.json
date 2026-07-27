@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T22:02:54.604Z",
+  "lastUpdated": "2026-07-27T23:32:45.754Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tXbWeEq-pf8",
-          "title": "Terço e Missa de Réquiem",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/tXbWeEq-pf8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Pf5i9fMH2n0",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART IV, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/Pf5i9fMH2n0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iUpYuUKX2zM",
@@ -125,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RLIk_0EzepY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-28T21:00:00Z"
+        },
+        {
+          "id": "KxtfrJTahfA",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART V, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/KxtfrJTahfA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T23:00:00Z"
         }
       ]
     }
