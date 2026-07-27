@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-27T13:24:05.780Z",
+  "lastUpdated": "2026-07-27T15:58:07.490Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-vDg0B09R1o",
+          "title": "FSSPX Antwerpen - 27/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/-vDg0B09R1o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "IRFceafGCvs",
           "title": "Rosenkranz und hl. Messe - 27. Juli 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IRFceafGCvs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T16:00:00Z"
-        },
-        {
-          "id": "YQI5sMPxfT8",
-          "title": "FSSPX Antwerpen - 27/07 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/YQI5sMPxfT8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T16:30:00Z"
         },
         {
           "id": "N_VOiYVddWk",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CmlcigbjrXo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-28T11:15:00Z"
+        },
+        {
+          "id": "3-iS2PbFQSc",
+          "title": "FSSPX Antwerpen - 28/07 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/3-iS2PbFQSc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T15:00:00Z"
         }
       ]
     },
