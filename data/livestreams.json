@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T20:49:34.496Z",
+  "lastUpdated": "2026-07-27T22:02:54.604Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "tXbWeEq-pf8",
+          "title": "Terço e Missa de Réquiem",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/tXbWeEq-pf8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Pf5i9fMH2n0",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART IV, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/W6nZFECIGis/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-28T17:00:00Z"
+        },
+        {
+          "id": "RLIk_0EzepY",
+          "title": "Divine Office, 6PM Mass. Ss. Nazarius & Celsus, Martyrs, Victor I, Pope, & St Innocent I, Pope.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/RLIk_0EzepY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T21:00:00Z"
         }
       ]
     }
