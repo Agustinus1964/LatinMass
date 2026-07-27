@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-27T06:25:27.541Z",
+  "lastUpdated": "2026-07-27T10:25:24.723Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "suP9xGilHDg",
-          "title": "Feria: 9ᵗʰ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/suP9xGilHDg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T07:30:00Z"
-        },
         {
           "id": "9OqXOH9w_aQ",
           "title": "Mon. Jul. 27, 2026    -    Ferial Day",
@@ -54,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "csy1sf_3Dn8",
+          "title": "Monday 6 AM Traditional Catholic Mass 07/27/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/csy1sf_3Dn8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "X70B0MBXMDo",
           "title": "7am Mass & Divine Office. Feria. IV. Monday, July 27, 2026.",
