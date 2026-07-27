@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-27T02:35:40.031Z",
+  "lastUpdated": "2026-07-27T06:25:27.541Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9QKV-aw4jcY",
-          "title": "Hl. Messe - 27. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9QKV-aw4jcY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T05:15:00Z"
-        },
         {
           "id": "suP9xGilHDg",
           "title": "Feria: 9ᵗʰ Sunday after Pentecost",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YQI5sMPxfT8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-27T16:30:00Z"
+        },
+        {
+          "id": "N_VOiYVddWk",
+          "title": "Hl. Messe - hl. Nazarius - 28. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/N_VOiYVddWk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T05:15:00Z"
         }
       ]
     },
