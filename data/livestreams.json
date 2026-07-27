@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-27T15:58:07.490Z",
+  "lastUpdated": "2026-07-27T17:45:30.556Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-vDg0B09R1o",
-          "title": "FSSPX Antwerpen - 27/07 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/-vDg0B09R1o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IRFceafGCvs",
           "title": "Rosenkranz und hl. Messe - 27. Juli 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/IRFceafGCvs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "N_VOiYVddWk",
@@ -41,13 +32,22 @@
           "scheduledTime": "2026-07-28T11:15:00Z"
         },
         {
-          "id": "3-iS2PbFQSc",
-          "title": "FSSPX Antwerpen - 28/07 Aanbidding met Rozenhoedje",
+          "id": "dZNIUUBFNpU",
+          "title": "Rosenkranz und hl. Messe - hl. Nazarius - 28. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/dZNIUUBFNpU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T16:00:00Z"
+        },
+        {
+          "id": "oKAMhIskpEM",
+          "title": "FSSPX Antwerpen - 28/07 HH. NAZARIUS en CELSUS, VICTOR I en INNOCENTIUS I",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/3-iS2PbFQSc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/oKAMhIskpEM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-28T15:00:00Z"
+          "scheduledTime": "2026-07-28T16:30:00Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "H0R3IlWI8uQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/H0R3IlWI8uQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "GWTIsdSC0WA",
           "title": "Monday 27th July 2026: Saint Pantaleon",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/GWTIsdSC0WA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T17:00:00Z"
-        },
-        {
-          "id": "LZ9V5RxfxT4",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/LZ9V5RxfxT4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_Ws1-8D1HXI",
@@ -78,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/_Ws1-8D1HXI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-27T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Pf5i9fMH2n0",
@@ -107,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/v8u71EMiMXo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-28T11:30:00Z"
+        },
+        {
+          "id": "bWgwRyiEo_I",
+          "title": "Tuesday 28th July 2026: Saints Nazarius & Celsus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/bWgwRyiEo_I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T17:00:00Z"
+        },
+        {
+          "id": "3rcma7ko2bU",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/3rcma7ko2bU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T17:00:00Z"
+        },
+        {
+          "id": "W6nZFECIGis",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/W6nZFECIGis/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-28T17:00:00Z"
         }
       ]
     }
