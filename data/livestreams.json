@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-28T10:56:35.384Z",
+  "lastUpdated": "2026-07-28T12:53:26.770Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CmlcigbjrXo",
-          "title": "Tue. Jul. 28, 2026    -    Nazarius and Celsus",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/CmlcigbjrXo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T11:15:00Z"
-        },
         {
           "id": "dZNIUUBFNpU",
           "title": "Rosenkranz und hl. Messe - hl. Nazarius - 28. Juli 2026",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/o6yIocj4wS4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T05:30:00Z"
+        },
+        {
+          "id": "ktAqKhKmvGI",
+          "title": "Wed. Jul. 29, 2026    -    St. Martha",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ktAqKhKmvGI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T11:15:00Z"
         }
       ]
     },
@@ -55,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iUpYuUKX2zM",
-          "title": "7am Mass, Divine Office. Ss. Nazarius & Celsus, Martyrs, Victor I, Pope, & St Innocent I, Pope.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iUpYuUKX2zM/mqdefault_live.jpg",
+          "id": "ydqv7Hv1baM",
+          "title": "Tuesday 8 AM Catholic Mass for 07/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/ydqv7Hv1baM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "v8u71EMiMXo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ss Nazarius & Celsus, St. Victor I and St. Innocent I)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/v8u71EMiMXo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T11:30:00Z"
         },
         {
           "id": "bWgwRyiEo_I",
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/KxtfrJTahfA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-28T23:00:00Z"
+        },
+        {
+          "id": "2CgvjIqwjxk",
+          "title": "7am Mass & Divine Office. St. Martha, Virgin. III. Wednesday, July 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/2CgvjIqwjxk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T11:00:00Z"
+        },
+        {
+          "id": "aNP1gna0Aq4",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Martha, Virgin)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/aNP1gna0Aq4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T11:30:00Z"
         }
       ]
     }
