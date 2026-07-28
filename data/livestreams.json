@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T18:15:34.024Z",
+  "lastUpdated": "2026-07-28T19:59:23.916Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fq7RBc5IbLI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T05:15:00Z"
+        },
+        {
+          "id": "EQcgvaEDx-w",
+          "title": "Saint Martha, virgin",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/EQcgvaEDx-w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T07:30:00Z"
         },
         {
           "id": "ktAqKhKmvGI",
