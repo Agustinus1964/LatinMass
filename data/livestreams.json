@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-28T08:00:18.365Z",
+  "lastUpdated": "2026-07-28T10:56:35.384Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6_HthMVPmKw",
-          "title": "Saints Nazarius and Celsus, martyrs, Victor I, pope a",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/6_HthMVPmKw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T07:30:00Z"
-        },
         {
           "id": "CmlcigbjrXo",
           "title": "Tue. Jul. 28, 2026    -    Nazarius and Celsus",
@@ -69,8 +60,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/iUpYuUKX2zM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "v8u71EMiMXo",
