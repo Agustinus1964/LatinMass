@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-28T15:16:18.864Z",
+  "lastUpdated": "2026-07-28T16:57:24.343Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "3-iS2PbFQSc",
-          "title": "FSSPX Antwerpen - 28/07 Aanbidding met Rozenhoedje",
+          "id": "oKAMhIskpEM",
+          "title": "FSSPX Antwerpen - 28/07 HH. NAZARIUS en CELSUS, VICTOR I en INNOCENTIUS I",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/3-iS2PbFQSc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/oKAMhIskpEM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/dZNIUUBFNpU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fq7RBc5IbLI",
@@ -32,15 +32,6 @@
           "scheduledTime": "2026-07-29T05:15:00Z"
         },
         {
-          "id": "o6yIocj4wS4",
-          "title": "FSSPX Antwerpen - 29/07 H. MARTHA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/o6yIocj4wS4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T05:30:00Z"
-        },
-        {
           "id": "ktAqKhKmvGI",
           "title": "Wed. Jul. 29, 2026    -    St. Martha",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ktAqKhKmvGI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T11:15:00Z"
+        },
+        {
+          "id": "3d2EYK-tFyM",
+          "title": "Rosenkranz und hl. Messe - hl. Martha - 29. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3d2EYK-tFyM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T16:00:00Z"
         }
       ]
     },
@@ -60,8 +60,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/bWgwRyiEo_I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3rcma7ko2bU",
@@ -69,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/3rcma7ko2bU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "W6nZFECIGis",
@@ -78,8 +78,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/W6nZFECIGis/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XM-sXw7yQjM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/XM-sXw7yQjM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-28T17:00:00Z"
+          "scheduledTime": "2026-07-28T16:58:00Z"
         },
         {
           "id": "RLIk_0EzepY",
