@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-28T21:14:55.955Z",
+  "lastUpdated": "2026-07-28T22:32:48.809Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hb5Jlc2Mvfs",
-          "title": "Mass of St Martha Wed 29/7/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/hb5Jlc2Mvfs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fq7RBc5IbLI",
           "title": "Hl. Messe - hl. Martha - 29. Juli 2026",
@@ -60,15 +51,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/RLIk_0EzepY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RvKUKrMmwl0",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/RvKUKrMmwl0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
