@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T22:32:48.809Z",
+  "lastUpdated": "2026-07-28T23:55:08.004Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RLIk_0EzepY",
-          "title": "Divine Office, 6PM Mass. Ss. Nazarius & Celsus, Martyrs, Victor I, Pope, & St Innocent I, Pope.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/RLIk_0EzepY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "KxtfrJTahfA",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART V, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/KxtfrJTahfA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2CgvjIqwjxk",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KsxWSKlmAyI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T21:00:00Z"
+        },
+        {
+          "id": "MVLjBfmOPoA",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/MVLjBfmOPoA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T23:00:00Z"
         }
       ]
     }
