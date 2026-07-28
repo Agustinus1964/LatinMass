@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-28T16:57:24.343Z",
+  "lastUpdated": "2026-07-28T18:15:34.024Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oKAMhIskpEM",
-          "title": "FSSPX Antwerpen - 28/07 HH. NAZARIUS en CELSUS, VICTOR I en INNOCENTIUS I",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/oKAMhIskpEM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dZNIUUBFNpU",
-          "title": "Rosenkranz und hl. Messe - hl. Nazarius - 28. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/dZNIUUBFNpU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fq7RBc5IbLI",
           "title": "Hl. Messe - hl. Martha - 29. Juli 2026",
@@ -54,42 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bWgwRyiEo_I",
-          "title": "Tuesday 28th July 2026: Saints Nazarius & Celsus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/bWgwRyiEo_I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3rcma7ko2bU",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/3rcma7ko2bU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "W6nZFECIGis",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/W6nZFECIGis/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XM-sXw7yQjM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/XM-sXw7yQjM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-28T16:58:00Z"
-        },
         {
           "id": "RLIk_0EzepY",
           "title": "Divine Office, 6PM Mass. Ss. Nazarius & Celsus, Martyrs, Victor I, Pope, & St Innocent I, Pope.",
@@ -125,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/aNP1gna0Aq4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T11:30:00Z"
+        },
+        {
+          "id": "xtaY0wyD-Pw",
+          "title": "Wednesday 29th July 2026: Saint Martha",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/xtaY0wyD-Pw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T17:00:00Z"
+        },
+        {
+          "id": "apgnHEaxXH8",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/apgnHEaxXH8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T17:00:00Z"
+        },
+        {
+          "id": "vIIo72h20Cw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/vIIo72h20Cw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-29T17:00:00Z"
         }
       ]
     }
