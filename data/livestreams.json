@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-07-29T02:13:31.530Z",
+  "lastUpdated": "2026-07-29T05:35:35.475Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "o6yIocj4wS4",
+          "title": "FSSPX Antwerpen - 29/07 H. MARTHA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/o6yIocj4wS4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fq7RBc5IbLI",
           "title": "Hl. Messe - hl. Martha - 29. Juli 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/fq7RBc5IbLI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EQcgvaEDx-w",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3d2EYK-tFyM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T16:00:00Z"
+        },
+        {
+          "id": "R5NVUGEVIdE",
+          "title": "Hl. Messe - 30. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/R5NVUGEVIdE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T05:15:00Z"
         }
       ]
     },
