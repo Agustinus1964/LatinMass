@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T16:49:37.247Z",
+  "lastUpdated": "2026-07-29T18:03:40.018Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,51 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "s-tj3t3aSYM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/s-tj3t3aSYM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T16:58:00Z"
-        },
-        {
-          "id": "xtaY0wyD-Pw",
-          "title": "Wednesday 29th July 2026: Saint Martha",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/xtaY0wyD-Pw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T17:00:00Z"
-        },
-        {
-          "id": "apgnHEaxXH8",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/apgnHEaxXH8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T17:00:00Z"
-        },
-        {
-          "id": "vIIo72h20Cw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/vIIo72h20Cw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T17:00:00Z"
-        },
-        {
-          "id": "KsxWSKlmAyI",
-          "title": "Divine Office & 6pm Mass. St. Martha, Virgin. III. Wednesday, July 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KsxWSKlmAyI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T21:00:00Z"
-        },
-        {
           "id": "MVLjBfmOPoA",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VI, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -118,15 +73,6 @@
           "scheduledTime": "2026-07-30T07:00:00Z"
         },
         {
-          "id": "xUmoo6s3CdE",
-          "title": "7am Mass & Divine Office. Feria. IV. Thursday, July 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xUmoo6s3CdE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T11:00:00Z"
-        },
-        {
           "id": "RUrcqs29tLM",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Abdon and Sennen, Martyrs)",
           "channel": "Usus Antiquior",
@@ -134,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/RUrcqs29tLM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T11:30:00Z"
+        },
+        {
+          "id": "-FetVGY7qow",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/-FetVGY7qow/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T17:00:00Z"
+        },
+        {
+          "id": "H5yg5ir9ZOI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/H5yg5ir9ZOI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T17:00:00Z"
         }
       ]
     }
