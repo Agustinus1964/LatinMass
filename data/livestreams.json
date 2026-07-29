@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T21:57:07.535Z",
+  "lastUpdated": "2026-07-29T22:59:31.929Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KsxWSKlmAyI",
-          "title": "Divine Office & 6pm Mass. St. Martha, Virgin. III. Wednesday, July 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KsxWSKlmAyI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tcF-VeccxuM",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/tcF-VeccxuM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "MVLjBfmOPoA",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VI, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/MVLjBfmOPoA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "a-4OjZ5MgO0",
