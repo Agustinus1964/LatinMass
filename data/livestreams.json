@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-29T11:22:07.379Z",
+  "lastUpdated": "2026-07-29T13:13:16.402Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ktAqKhKmvGI",
-          "title": "Wed. Jul. 29, 2026    -    St. Martha",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ktAqKhKmvGI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "3d2EYK-tFyM",
           "title": "Rosenkranz und hl. Messe - hl. Martha - 29. Juli 2026",
@@ -46,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2CgvjIqwjxk",
-          "title": "7am Mass & Divine Office. St. Martha, Virgin. III. Wednesday, July 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/2CgvjIqwjxk/mqdefault_live.jpg",
+          "id": "KRqbisVPHrU",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 07/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/KRqbisVPHrU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "aNP1gna0Aq4",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Martha, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/aNP1gna0Aq4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T11:30:00Z"
         },
         {
           "id": "xtaY0wyD-Pw",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xUmoo6s3CdE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T11:00:00Z"
+        },
+        {
+          "id": "RUrcqs29tLM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Abdon and Sennen, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/RUrcqs29tLM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T11:30:00Z"
         }
       ]
     }
