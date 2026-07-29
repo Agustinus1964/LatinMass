@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:33:51.598Z",
+  "lastUpdated": "2026-07-29T11:22:07.379Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/ktAqKhKmvGI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3d2EYK-tFyM",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/R5NVUGEVIdE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T05:15:00Z"
+        },
+        {
+          "id": "Olpwok8ANAE",
+          "title": "Thu. Jul. 30, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Olpwok8ANAE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T11:15:00Z"
         }
       ]
     },
@@ -42,8 +51,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/2CgvjIqwjxk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aNP1gna0Aq4",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a-4OjZ5MgO0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T07:00:00Z"
+        },
+        {
+          "id": "xUmoo6s3CdE",
+          "title": "7am Mass & Divine Office. Feria. IV. Thursday, July 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/xUmoo6s3CdE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T11:00:00Z"
         }
       ]
     }
