@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-07-29T05:35:35.475Z",
+  "lastUpdated": "2026-07-29T08:33:51.598Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "o6yIocj4wS4",
-          "title": "FSSPX Antwerpen - 29/07 H. MARTHA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/o6yIocj4wS4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fq7RBc5IbLI",
-          "title": "Hl. Messe - hl. Martha - 29. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fq7RBc5IbLI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EQcgvaEDx-w",
-          "title": "Saint Martha, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/EQcgvaEDx-w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-29T07:30:00Z"
-        },
         {
           "id": "ktAqKhKmvGI",
           "title": "Wed. Jul. 29, 2026    -    St. Martha",
@@ -125,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MVLjBfmOPoA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-29T23:00:00Z"
+        },
+        {
+          "id": "a-4OjZ5MgO0",
+          "title": "Thursday 30th July 2026: Saints Abdon & Sennen",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/a-4OjZ5MgO0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T07:00:00Z"
         }
       ]
     }
