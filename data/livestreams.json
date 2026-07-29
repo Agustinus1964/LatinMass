@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T19:51:20.958Z",
+  "lastUpdated": "2026-07-29T20:51:27.266Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "KsxWSKlmAyI",
+          "title": "Divine Office & 6pm Mass. St. Martha, Virgin. III. Wednesday, July 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KsxWSKlmAyI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "MVLjBfmOPoA",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VI, 2026",
