@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-30T21:40:54.931Z",
+  "lastUpdated": "2026-07-30T23:01:40.774Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MxKB5z0YlzM",
-          "title": "Mass of St Ignatius of Loyola - 31.7.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/MxKB5z0YlzM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WbyTLptSqi8",
           "title": "Hl. Messe - hl. Ignatius von Loyola - 31. Juli 2026",
@@ -64,22 +55,13 @@
           "scheduledTime": null
         },
         {
-          "id": "GW4fvIANe0I",
-          "title": "Adoração e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/GW4fvIANe0I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "KgYjIyzaBE8",
           "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VII, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/KgYjIyzaBE8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7Lg_8QE-J-U",
@@ -107,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/HTvod5xKTYo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-31T17:00:00Z"
+        },
+        {
+          "id": "hNUCglYNRv8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Ignatius Loyola, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/hNUCglYNRv8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T22:30:00Z"
+        },
+        {
+          "id": "oeiWt7xSSPs",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VIII, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/oeiWt7xSSPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T23:00:00Z"
         }
       ]
     }
