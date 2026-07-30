@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-07-30T15:29:23.831Z",
+  "lastUpdated": "2026-07-30T17:03:30.103Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "gd17Pl4gw2w",
-          "title": "FSSPX Antwerpen - 30/07 Priester-Uur-Gebed",
+          "id": "klLKtE6IRLI",
+          "title": "FSSPX Antwerpen - 30/07 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gd17Pl4gw2w/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/klLKtE6IRLI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "X4A39mSNckU",
-          "title": "Sakramentsandacht und hl. Messe - 30. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/X4A39mSNckU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T15:00:00Z"
         },
         {
           "id": "WbyTLptSqi8",
@@ -41,13 +32,22 @@
           "scheduledTime": "2026-07-31T11:15:00Z"
         },
         {
-          "id": "dmNePU657RM",
-          "title": "FSSPX Antwerpen - 31/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "-3MDWL-Uufk",
+          "title": "Rosenkranz und hl. Messe - hl. Ignatius von Loyola - 31. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-3MDWL-Uufk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T16:00:00Z"
+        },
+        {
+          "id": "Ff10t4FC154",
+          "title": "FSSPX Antwerpen - 31/07 H. IGNATIUS van LOYOLA",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dmNePU657RM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Ff10t4FC154/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-07-31T15:00:00Z"
+          "scheduledTime": "2026-07-31T16:30:00Z"
         }
       ]
     },
@@ -55,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "z2BbrgHkgNk",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/z2BbrgHkgNk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "-FetVGY7qow",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/-FetVGY7qow/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "H5yg5ir9ZOI",
@@ -69,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/H5yg5ir9ZOI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KgYjIyzaBE8",
@@ -80,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/KgYjIyzaBE8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T23:00:00Z"
+        },
+        {
+          "id": "7Lg_8QE-J-U",
+          "title": "Friday 31st July 2026: Saint Ignatius Loyola",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/7Lg_8QE-J-U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T17:00:00Z"
+        },
+        {
+          "id": "Dv2hABYYjSo",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Dv2hABYYjSo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T17:00:00Z"
+        },
+        {
+          "id": "HTvod5xKTYo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/HTvod5xKTYo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T17:00:00Z"
         }
       ]
     }
