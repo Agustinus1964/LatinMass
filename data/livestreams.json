@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T06:23:40.989Z",
+  "lastUpdated": "2026-07-30T09:11:12.174Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "a-4OjZ5MgO0",
-          "title": "Thursday 30th July 2026: Saints Abdon & Sennen",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/a-4OjZ5MgO0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T07:00:00Z"
+          "id": "DHECHvpCgpc",
+          "title": "Ofício de prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/DHECHvpCgpc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RUrcqs29tLM",
