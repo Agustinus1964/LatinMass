@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-30T13:06:08.764Z",
+  "lastUpdated": "2026-07-30T15:29:23.831Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gd17Pl4gw2w",
+          "title": "FSSPX Antwerpen - 30/07 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/gd17Pl4gw2w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "X4A39mSNckU",
           "title": "Sakramentsandacht und hl. Messe - 30. Juli 2026",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/X4A39mSNckU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T15:00:00Z"
-        },
-        {
-          "id": "klLKtE6IRLI",
-          "title": "FSSPX Antwerpen - 30/07 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/klLKtE6IRLI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T16:30:00Z"
         },
         {
           "id": "WbyTLptSqi8",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MnQbIX2G7XY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-31T11:15:00Z"
+        },
+        {
+          "id": "dmNePU657RM",
+          "title": "FSSPX Antwerpen - 31/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/dmNePU657RM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T15:00:00Z"
         }
       ]
     },
