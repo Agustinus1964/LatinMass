@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-30T03:40:17.884Z",
+  "lastUpdated": "2026-07-30T06:23:40.989Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/R5NVUGEVIdE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-30T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Olpwok8ANAE",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/klLKtE6IRLI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T16:30:00Z"
+        },
+        {
+          "id": "WbyTLptSqi8",
+          "title": "Hl. Messe - hl. Ignatius von Loyola - 31. Juli 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WbyTLptSqi8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-31T05:15:00Z"
         }
       ]
     },
