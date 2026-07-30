@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-29T22:59:31.929Z",
+  "lastUpdated": "2026-07-30T00:05:17.518Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3d2EYK-tFyM",
-          "title": "Rosenkranz und hl. Messe - hl. Martha - 29. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3d2EYK-tFyM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "R5NVUGEVIdE",
           "title": "Hl. Messe - 30. Juli 2026",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/H5yg5ir9ZOI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-30T17:00:00Z"
+        },
+        {
+          "id": "KgYjIyzaBE8",
+          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART VII, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/KgYjIyzaBE8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-07-30T23:00:00Z"
         }
       ]
     }
