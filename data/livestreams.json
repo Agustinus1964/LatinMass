@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-07-30T11:27:27.145Z",
+  "lastUpdated": "2026-07-30T13:06:08.764Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Olpwok8ANAE",
-          "title": "Thu. Jul. 30, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Olpwok8ANAE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "R5NVUGEVIdE",
-          "title": "Hl. Messe - 30. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/R5NVUGEVIdE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "X4A39mSNckU",
           "title": "Sakramentsandacht und hl. Messe - 30. Juli 2026",
@@ -63,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RUrcqs29tLM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Abdon and Sennen, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RUrcqs29tLM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xUmoo6s3CdE",
-          "title": "7am Mass & Divine Office. Feria. IV. Thursday, July 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xUmoo6s3CdE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-FetVGY7qow",
           "title": "Thursday",
