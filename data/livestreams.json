@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T07:48:50.337Z",
+  "lastUpdated": "2026-07-31T10:34:18.228Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pSRHw0Xz1lM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-01T06:15:00Z"
+        },
+        {
+          "id": "bevu6G2Lh68",
+          "title": "FSSPX Antwerpen - 01/08 ONZE-LIEVE-VROUW op ZATERDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bevu6G2Lh68/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-01T08:00:00Z"
         }
       ]
     },
@@ -107,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/enKi3PqvXlk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-01T07:30:00Z"
+        },
+        {
+          "id": "hFsT3pWnwto",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/hFsT3pWnwto/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-01T09:00:00Z"
+        },
+        {
+          "id": "htmn5PnGfIY",
+          "title": "Saturday 1st August 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/htmn5PnGfIY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-01T09:30:00Z"
         }
       ]
     }
