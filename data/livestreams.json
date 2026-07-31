@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-31T04:56:11.683Z",
+  "lastUpdated": "2026-07-31T07:48:50.337Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WbyTLptSqi8",
-          "title": "Hl. Messe - hl. Ignatius von Loyola - 31. Juli 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/WbyTLptSqi8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-31T05:15:00Z"
-        },
         {
           "id": "MnQbIX2G7XY",
           "title": "Fri. Jul 31, 2026    -    St. Ignatius of Loyola,  Confessor",
@@ -39,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Ff10t4FC154/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-31T16:30:00Z"
+        },
+        {
+          "id": "BNBoug8TpEE",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 01. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/BNBoug8TpEE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-01T05:15:00Z"
+        },
+        {
+          "id": "pSRHw0Xz1lM",
+          "title": "FSSPX Antwerpen - 01/08 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/pSRHw0Xz1lM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-01T06:15:00Z"
         }
       ]
     },
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oeiWt7xSSPs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-31T23:00:00Z"
+        },
+        {
+          "id": "enKi3PqvXlk",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/enKi3PqvXlk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-01T07:30:00Z"
         }
       ]
     }
