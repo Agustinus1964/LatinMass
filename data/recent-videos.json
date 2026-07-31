@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-07-31T02:14:07.379Z",
+  "lastUpdated": "2026-07-31T05:48:38.087Z",
   "videos": [
+    {
+      "id": "EHNRb-th8xk",
+      "title": "Should Dr. Fauci be allowed to abuse the 5th Amendment?",
+      "channel": "LSNTV",
+      "channelId": "UCw8JTSl7MOe0mgTb4Tfkozw",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/EHNRb-th8xk/mqdefault.jpg",
+      "publishedAt": "2026-07-31T03:30:46Z",
+      "category": "John Henry Westen Channel"
+    },
     {
       "id": "2MuIb9fUa2g",
       "title": "Holy Mass 7/30/26 - Feast of Sts. Abdon & Sennen",
@@ -70,16 +80,6 @@
       "thumbnail": "https://i.ytimg.com/vi/UgBduSLC7P8/mqdefault.jpg",
       "publishedAt": "2026-07-30T19:47:15Z",
       "category": "Faith And Tradition"
-    },
-    {
-      "id": "0w4PNApmt5c",
-      "title": "BREAKING | Leo XIV Classmate Reacts to News Pope Leo will NOT Restore Latin Mass",
-      "channel": "LSNTV",
-      "channelId": "UCw8JTSl7MOe0mgTb4Tfkozw",
-      "description": "Cardinal Roche has indicated that Pope Leo XIV is not expected to revoke Traditionis Custodes or restore the broader permissions for the Traditional Latin Mass established under Pope Benedict XVI. For",
-      "thumbnail": "https://i.ytimg.com/vi/0w4PNApmt5c/mqdefault.jpg",
-      "publishedAt": "2026-07-30T18:38:26Z",
-      "category": "John Henry Westen Channel"
     },
     {
       "id": "lWVwHq9Q4zM",
@@ -429,16 +429,6 @@
       "description": "My book is available at: https://www.amazon.com/dp/B0H9T5XVMP/ref=sr_1_1?crid=3T4AZOIBMYI3S&dib=eyJ2IjoiMSJ9.vS2VfVkKglp_kadNvXD1s8bUyteguz0fF3i59wFLlCftNycNiFpJ6avTSmg3Mw3D6pKHi-M-S3QWgtgWAiOXD_60AW9",
       "thumbnail": "https://i.ytimg.com/vi/rq_BcQzRdTY/mqdefault.jpg",
       "publishedAt": "2026-07-22T02:33:45Z",
-      "category": "Ascent of Mount Carmel"
-    },
-    {
-      "id": "nHSuVSriGPc",
-      "title": "The Gnostic Current in Sr. Faustina's Diary",
-      "channel": "Ascent of Mount Carmel",
-      "channelId": "UCcOObC8wjuxJjx6rBSiKo2A",
-      "description": "My book is now out. It's available at: https://www.amazon.com/dp/B0H9T5XVMP/ref=sr_1_1?crid=3T4AZOIBMYI3S&dib=eyJ2IjoiMSJ9.vS2VfVkKglp_kadNvXD1s8bUyteguz0fF3i59wFLlCftNycNiFpJ6avTSmg3Mw3D6pKHi-M-S3QWg",
-      "thumbnail": "https://i.ytimg.com/vi/nHSuVSriGPc/mqdefault.jpg",
-      "publishedAt": "2026-07-21T03:05:07Z",
       "category": "Ascent of Mount Carmel"
     }
   ]
