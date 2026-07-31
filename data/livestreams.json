@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-07-31T15:15:34.697Z",
+  "lastUpdated": "2026-07-31T17:02:08.830Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "dmNePU657RM",
-          "title": "FSSPX Antwerpen - 31/07 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "id": "Ff10t4FC154",
+          "title": "FSSPX Antwerpen - 31/07 H. IGNATIUS van LOYOLA",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dmNePU657RM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/Ff10t4FC154/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/-3MDWL-Uufk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-31T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BNBoug8TpEE",
@@ -30,24 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BNBoug8TpEE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-01T05:15:00Z"
-        },
-        {
-          "id": "pSRHw0Xz1lM",
-          "title": "FSSPX Antwerpen - 01/08 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pSRHw0Xz1lM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-01T06:15:00Z"
-        },
-        {
-          "id": "bevu6G2Lh68",
-          "title": "FSSPX Antwerpen - 01/08 ONZE-LIEVE-VROUW op ZATERDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bevu6G2Lh68/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-01T08:00:00Z"
         },
         {
           "id": "fqD0w9GBCv8",
@@ -64,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "k1UQWb4xkR4",
-          "title": "11am Mass & Divine Office. St. Ignatius Loyola, Confessor. III. Friday, July 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/k1UQWb4xkR4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "7Lg_8QE-J-U",
           "title": "Friday 31st July 2026: Saint Ignatius Loyola",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/7Lg_8QE-J-U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-31T17:00:00Z"
-        },
-        {
-          "id": "Dv2hABYYjSo",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Dv2hABYYjSo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-31T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HTvod5xKTYo",
@@ -96,6 +60,15 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/HTvod5xKTYo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Dv2hABYYjSo",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Dv2hABYYjSo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-07-31T17:00:00Z"
         },
