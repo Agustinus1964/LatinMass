@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-07-31T10:34:18.228Z",
+  "lastUpdated": "2026-07-31T12:52:40.661Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MnQbIX2G7XY",
-          "title": "Fri. Jul 31, 2026    -    St. Ignatius of Loyola,  Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/MnQbIX2G7XY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-07-31T11:15:00Z"
-        },
         {
           "id": "-3MDWL-Uufk",
           "title": "Rosenkranz und hl. Messe - hl. Ignatius von Loyola - 31. Juli 2026",
@@ -63,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "XFMtBZtXI9o",
+          "title": "Friday 8 AM Catholic Mass for 07/31/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/XFMtBZtXI9o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7Lg_8QE-J-U",
           "title": "Friday 31st July 2026: Saint Ignatius Loyola",
