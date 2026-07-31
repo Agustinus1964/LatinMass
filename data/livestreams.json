@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-07-31T20:16:34.787Z",
+  "lastUpdated": "2026-07-31T21:35:58.426Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "YHYP_v0F6mQ",
+          "title": "Rosary and Benediction - Saturday 1st August 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/YHYP_v0F6mQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BNBoug8TpEE",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 01. August 2026",
@@ -27,6 +36,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gx2ZVyKx33Y",
+          "title": "Divine Office, 6pm Mass, Holy Hour. St. Ignatius Loyola, Confessor. III. Friday, July 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/gx2ZVyKx33Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "gGwuejPUfEE",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/gGwuejPUfEE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hNUCglYNRv8",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Ignatius Loyola, Confessor)",
