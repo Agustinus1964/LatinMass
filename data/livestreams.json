@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T19:09:54.505Z",
+  "lastUpdated": "2026-08-01T20:24:50.544Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -116,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VHSSV58B0-g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T15:30:00Z"
+        },
+        {
+          "id": "zzWbU1TM3c8",
+          "title": "CHORAL VESPERS: FEAST OF SAINT ALPHONSUS LIGUORI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/zzWbU1TM3c8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T19:30:00Z"
         }
       ]
     }
