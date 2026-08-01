@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T12:00:33.621Z",
+  "lastUpdated": "2026-08-01T14:04:55.770Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pbSqAuKQ0ok/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T11:15:00Z"
+        },
+        {
+          "id": "E5jdAGDQCJY",
+          "title": "Low Mass - 10th Sunday after Pentecost - 8/2/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/E5jdAGDQCJY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T14:00:00Z"
         }
       ]
     },
@@ -28,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "I7a8tcFA-WI",
-          "title": "Saturday 7 AM Catholic Mass for 08/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/I7a8tcFA-WI/mqdefault_live.jpg",
+          "id": "17na8fBvZvo",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/17na8fBvZvo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "KmfWV6xEBK8",
-          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/KmfWV6xEBK8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-01T13:00:00Z"
+          "id": "2bq51hGuVxg",
+          "title": "First Saturday: 9am Mass. Immaculate Heart of Mary. III. Our Lady on Saturday. August 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/2bq51hGuVxg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "z53iFQN05ZU",
@@ -51,8 +60,26 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/z53iFQN05ZU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-01T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "abvDScIZAd0",
+          "title": "Saturday 9 AM Traditional Catholic Mass 08/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/abvDScIZAd0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "PMcTUbZxW1I",
+          "title": "El Santo Sacrificio de la Misa. 1 de agosto de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/PMcTUbZxW1I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FaASi1YDuRs",
@@ -89,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XjdyAFYvaF0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T10:00:00Z"
+        },
+        {
+          "id": "PoiQqaCbI04",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Tenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PoiQqaCbI04/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T12:00:00Z"
         }
       ]
     }
