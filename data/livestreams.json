@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-01T06:35:29.185Z",
+  "lastUpdated": "2026-08-01T09:02:42.581Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "pSRHw0Xz1lM",
-          "title": "FSSPX Antwerpen - 01/08 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pSRHw0Xz1lM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BNBoug8TpEE",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 01. August 2026",
+          "id": "aF6ZSJxSY1M",
+          "title": "Amt - 10. Sonntag nach Pfingsten - 02. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/BNBoug8TpEE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/aF6ZSJxSY1M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T07:30:00Z"
         }
       ]
     },
@@ -28,13 +19,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "enKi3PqvXlk",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/enKi3PqvXlk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-01T07:30:00Z"
+          "id": "hFsT3pWnwto",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/hFsT3pWnwto/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3XA1g-xvsSM",
+          "title": "Ofício de Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/3XA1g-xvsSM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "htmn5PnGfIY",
@@ -62,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/z53iFQN05ZU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-01T14:00:00Z"
+        },
+        {
+          "id": "FaASi1YDuRs",
+          "title": "8am — 10th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/FaASi1YDuRs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T07:00:00Z"
+        },
+        {
+          "id": "T_MYapplMvQ",
+          "title": "9:30am — 18th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/T_MYapplMvQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T08:30:00Z"
         }
       ]
     }
