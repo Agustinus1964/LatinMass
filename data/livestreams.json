@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T14:04:55.770Z",
+  "lastUpdated": "2026-08-01T15:34:41.780Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,57 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/E5jdAGDQCJY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T14:00:00Z"
+        },
+        {
+          "id": "Rsn1iAqU8MM",
+          "title": "Vesper und Sakramentsandacht - 10. Sonntag nach Pfingsten - 02. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Rsn1iAqU8MM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T15:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "17na8fBvZvo",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/17na8fBvZvo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2bq51hGuVxg",
-          "title": "First Saturday: 9am Mass. Immaculate Heart of Mary. III. Our Lady on Saturday. August 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/2bq51hGuVxg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "z53iFQN05ZU",
-          "title": "SAINT ALPHONSUS LIGUORI PREACHED NOVENA: PART IX, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/z53iFQN05ZU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "abvDScIZAd0",
-          "title": "Saturday 9 AM Traditional Catholic Mass 08/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/abvDScIZAd0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PMcTUbZxW1I",
-          "title": "El Santo Sacrificio de la Misa. 1 de agosto de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/PMcTUbZxW1I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FaASi1YDuRs",
           "title": "8am — 10th Sunday after Pentecost",
@@ -125,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/PoiQqaCbI04/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T12:00:00Z"
+        },
+        {
+          "id": "8naIA5LlV2w",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/8naIA5LlV2w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T14:45:00Z"
+        },
+        {
+          "id": "VHSSV58B0-g",
+          "title": "PATRONAL FEAST OF SAINT ALPHONSUS LIGUORI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/VHSSV58B0-g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T15:30:00Z"
         }
       ]
     }
