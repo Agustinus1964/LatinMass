@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-08-01T03:58:59.799Z",
+  "lastUpdated": "2026-08-01T06:35:29.185Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "pSRHw0Xz1lM",
+          "title": "FSSPX Antwerpen - 01/08 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/pSRHw0Xz1lM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BNBoug8TpEE",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 01. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/BNBoug8TpEE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-01T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         }
       ]
     },
