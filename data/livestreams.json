@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T10:56:02.409Z",
+  "lastUpdated": "2026-08-01T12:00:33.621Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aF6ZSJxSY1M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T07:30:00Z"
+        },
+        {
+          "id": "pbSqAuKQ0ok",
+          "title": "Low Mass - 10th Sunday after Pentecost - 8/2/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/pbSqAuKQ0ok/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T11:15:00Z"
         }
       ]
     },
