@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-01T17:57:21.041Z",
+  "lastUpdated": "2026-08-01T19:09:54.505Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aF6ZSJxSY1M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T07:30:00Z"
+        },
+        {
+          "id": "dv9ipjZp3Ag",
+          "title": "10th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/dv9ipjZp3Ag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T10:00:00Z"
         },
         {
           "id": "pbSqAuKQ0ok",
