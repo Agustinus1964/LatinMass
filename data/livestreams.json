@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-08-02T09:35:04.327Z",
+  "lastUpdated": "2026-08-02T11:13:23.986Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "k5wyWYuVGzo",
-          "title": "FSSPX Antwerpen - 02/08 10° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/k5wyWYuVGzo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1aOHfryW5-k",
-          "title": "X Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/1aOHfryW5-k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dv9ipjZp3Ag",
           "title": "10th Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/dv9ipjZp3Ag/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pbSqAuKQ0ok",
@@ -64,20 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8eVBNTVceuw",
-          "title": "Sunday 2nd August 2026: Tenth Sunday after Pentecost (Pontifical Mass Bishop Athanasius Schneider)",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/8eVBNTVceuw/mqdefault_live.jpg",
+          "id": "RENzTy9EH58",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Tenth Sunday after Pentecost. II. August 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/RENzTy9EH58/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "3yaImEm8SJY",
-          "title": "Sainte messe du Xème dimanche après la Pentecôte - DUM CLAMAREM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/3yaImEm8SJY/mqdefault_live.jpg",
+          "id": "3kPPuaZg1g0",
+          "title": "Sunday 7 AM Catholic Mass for 08/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/3kPPuaZg1g0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -87,8 +69,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/XjdyAFYvaF0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "hZd9Nu8zl5A",
+          "title": "Missa rezada - X Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/hZd9Nu8zl5A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PoiQqaCbI04",
