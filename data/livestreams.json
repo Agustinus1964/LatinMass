@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-02T07:29:33.386Z",
+  "lastUpdated": "2026-08-02T09:35:04.327Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "aF6ZSJxSY1M",
-          "title": "Amt - 10. Sonntag nach Pfingsten - 02. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/aF6ZSJxSY1M/mqdefault_live.jpg",
+          "id": "k5wyWYuVGzo",
+          "title": "FSSPX Antwerpen - 02/08 10° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/k5wyWYuVGzo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/1aOHfryW5-k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T08:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dv9ipjZp3Ag",
@@ -64,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "FaASi1YDuRs",
-          "title": "8am — 10th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/FaASi1YDuRs/mqdefault_live.jpg",
+          "id": "8eVBNTVceuw",
+          "title": "Sunday 2nd August 2026: Tenth Sunday after Pentecost (Pontifical Mass Bishop Athanasius Schneider)",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/8eVBNTVceuw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "T_MYapplMvQ",
-          "title": "9:30am — 18th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/T_MYapplMvQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T08:30:00Z"
         },
         {
           "id": "3yaImEm8SJY",
@@ -87,17 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3yaImEm8SJY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T09:00:00Z"
-        },
-        {
-          "id": "8eVBNTVceuw",
-          "title": "Sunday 2nd August 2026: Tenth Sunday after Pentecost (Pontifical Mass Bishop Athanasius Schneider)",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/8eVBNTVceuw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XjdyAFYvaF0",
