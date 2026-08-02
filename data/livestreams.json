@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-02T21:24:56.495Z",
+  "lastUpdated": "2026-08-02T22:26:31.001Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rdxnjDXkyAI",
-          "title": "Ferial Mon 3/8/2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/rdxnjDXkyAI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "M0Mj_kW14D4",
           "title": "Hl. Messe - 03. August 2026",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "6P3CiHrVCnE",
-          "title": "Missa rezada e ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/6P3CiHrVCnE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6wAMK0BGHzA",
           "title": "Live Stream Holy Mass from Cleveland USA (The Finding of the Body of Saint Stephen, Protomartyr)",
