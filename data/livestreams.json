@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-02T15:36:30.719Z",
+  "lastUpdated": "2026-08-02T16:54:21.977Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "U_xxs_o4pBc",
-          "title": "Tenth Sunday after Pentecost, July 26, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/U_xxs_o4pBc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Rsn1iAqU8MM",
-          "title": "Vesper und Sakramentsandacht - 10. Sonntag nach Pfingsten - 02. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Rsn1iAqU8MM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WVNMCnN20pM",
           "title": "X Sunday after Pentecost | August 2nd",
@@ -48,30 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/wHpgYy83ozg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-03T15:00:00Z"
+        },
+        {
+          "id": "3qIVSmFNLv4",
+          "title": "FSSPX Antwerpen - 03/08 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/3qIVSmFNLv4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1Tx62sux9H8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/1Tx62sux9H8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "t01mHnNPz6s",
-          "title": "10:30am Sung Mass. Tenth Sunday after Pentecost. II. August 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/t01mHnNPz6s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VHSSV58B0-g",
           "title": "PATRONAL FEAST OF SAINT ALPHONSUS LIGUORI, 2026",
@@ -91,15 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "h0sElJLYtiY",
-          "title": "10th Sunday after Pentecost / 10e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/h0sElJLYtiY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "2RDuf0cidXM",
           "title": "Santa Misa Dominical. 2 de agosto 2026.",
           "channel": "FSSP en MEXICO - Oficial",
@@ -107,24 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/2RDuf0cidXM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "8naIA5LlV2w",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/8naIA5LlV2w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dmzEQ1KOJ14",
-          "title": "Secondes vêpres du Xème dimanche après la Pentecôte - DESCENDIT HIC",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/dmzEQ1KOJ14/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T15:45:00Z"
         },
         {
           "id": "Hsu-6o3Jf9Q",
