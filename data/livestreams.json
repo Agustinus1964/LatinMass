@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-08-01T23:27:44.319Z",
+  "lastUpdated": "2026-08-02T01:07:02.276Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Jlnfpyo6oQQ",
+          "title": "TENTH SUNDAY AFTER PENTECOST -  2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/Jlnfpyo6oQQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oAIU6wF94pQ",
+          "title": "Sung Mass - 10th Sunday after Pentecost",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/oAIU6wF94pQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T03:00:00Z"
+        },
         {
           "id": "aF6ZSJxSY1M",
           "title": "Amt - 10. Sonntag nach Pfingsten - 02. August 2026",
