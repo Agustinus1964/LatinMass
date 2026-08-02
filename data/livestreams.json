@@ -1,26 +1,53 @@
 {
-  "lastUpdated": "2026-08-02T12:33:45.586Z",
+  "lastUpdated": "2026-08-02T14:26:01.898Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pbSqAuKQ0ok",
-          "title": "Low Mass - 10th Sunday after Pentecost - 8/2/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/pbSqAuKQ0ok/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "E5jdAGDQCJY",
           "title": "Low Mass - 10th Sunday after Pentecost - 8/2/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/E5jdAGDQCJY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TY-r-o5b5EE",
+          "title": "Tenth Sunday After Pentecost-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/TY-r-o5b5EE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8m5xKZ-EwxQ",
+          "title": "X Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/8m5xKZ-EwxQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Px9kaZ6FWYU",
+          "title": "Sun. Aug, 2, 2026    -    Tenth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Px9kaZ6FWYU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "U_xxs_o4pBc",
+          "title": "Tenth Sunday after Pentecost, July 26, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/U_xxs_o4pBc/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-02T14:00:00Z"
+          "scheduledTime": "2026-08-02T14:45:00Z"
         },
         {
           "id": "Rsn1iAqU8MM",
@@ -30,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Rsn1iAqU8MM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T15:30:00Z"
+        },
+        {
+          "id": "WVNMCnN20pM",
+          "title": "X Sunday after Pentecost | August 2nd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/WVNMCnN20pM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T17:00:00Z"
         },
         {
           "id": "eF-uEw6OmLY",
@@ -46,38 +82,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PoiQqaCbI04",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Tenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PoiQqaCbI04/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RENzTy9EH58",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Tenth Sunday after Pentecost. II. August 2, 2026.",
+          "id": "t01mHnNPz6s",
+          "title": "10:30am Sung Mass. Tenth Sunday after Pentecost. II. August 2, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/RENzTy9EH58/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/t01mHnNPz6s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "5FKjQ75Qi6s",
-          "title": "Sunday 8:30 AM Catholic Mass for 08/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/5FKjQ75Qi6s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8Kqc_Plodzo",
-          "title": "Missa Cantada X Domingo Depois De Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8Kqc_Plodzo/mqdefault_live.jpg",
+          "id": "h0sElJLYtiY",
+          "title": "10th Sunday after Pentecost / 10e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/h0sElJLYtiY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zzWbU1TM3c8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T19:30:00Z"
+        },
+        {
+          "id": "6wAMK0BGHzA",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Finding of the Body of Saint Stephen, Protomartyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/6wAMK0BGHzA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T11:30:00Z"
         }
       ]
     }
