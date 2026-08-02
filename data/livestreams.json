@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-02T04:51:32.776Z",
+  "lastUpdated": "2026-08-02T07:29:33.386Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oAIU6wF94pQ",
-          "title": "Confirmation and Sung Mass w. Bishop Bernard Fellay - 10th Sunday after Pentecost",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/oAIU6wF94pQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "aF6ZSJxSY1M",
           "title": "Amt - 10. Sonntag nach Pfingsten - 02. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/aF6ZSJxSY1M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1aOHfryW5-k",
@@ -78,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/FaASi1YDuRs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T_MYapplMvQ",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/T_MYapplMvQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T08:30:00Z"
+        },
+        {
+          "id": "3yaImEm8SJY",
+          "title": "Sainte messe du Xème dimanche après la Pentecôte - DUM CLAMAREM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/3yaImEm8SJY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T09:00:00Z"
         },
         {
           "id": "8eVBNTVceuw",
@@ -134,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VHSSV58B0-g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T15:30:00Z"
+        },
+        {
+          "id": "dmzEQ1KOJ14",
+          "title": "Secondes vêpres du Xème dimanche après la Pentecôte - DESCENDIT HIC",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/dmzEQ1KOJ14/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T15:45:00Z"
         },
         {
           "id": "Hsu-6o3Jf9Q",
