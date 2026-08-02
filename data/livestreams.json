@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-02T11:13:23.986Z",
+  "lastUpdated": "2026-08-02T12:33:45.586Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dv9ipjZp3Ag",
-          "title": "10th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/dv9ipjZp3Ag/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pbSqAuKQ0ok",
           "title": "Low Mass - 10th Sunday after Pentecost - 8/2/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/pbSqAuKQ0ok/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "E5jdAGDQCJY",
@@ -39,12 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/Rsn1iAqU8MM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T15:30:00Z"
+        },
+        {
+          "id": "eF-uEw6OmLY",
+          "title": "Mon. Aug. 3, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/eF-uEw6OmLY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PoiQqaCbI04",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Tenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PoiQqaCbI04/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "RENzTy9EH58",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Tenth Sunday after Pentecost. II. August 2, 2026.",
@@ -55,40 +64,22 @@
           "scheduledTime": null
         },
         {
-          "id": "3kPPuaZg1g0",
-          "title": "Sunday 7 AM Catholic Mass for 08/02/2026",
+          "id": "5FKjQ75Qi6s",
+          "title": "Sunday 8:30 AM Catholic Mass for 08/02/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/3kPPuaZg1g0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/5FKjQ75Qi6s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "XjdyAFYvaF0",
-          "title": "11am — 18th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/XjdyAFYvaF0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hZd9Nu8zl5A",
-          "title": "Missa rezada - X Domingo depois de Pentecostes 2026",
+          "id": "8Kqc_Plodzo",
+          "title": "Missa Cantada X Domingo Depois De Pentecostes",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/hZd9Nu8zl5A/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/8Kqc_Plodzo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "PoiQqaCbI04",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Tenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PoiQqaCbI04/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T12:00:00Z"
         },
         {
           "id": "8naIA5LlV2w",
