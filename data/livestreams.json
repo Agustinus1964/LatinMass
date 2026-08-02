@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-02T01:07:02.276Z",
+  "lastUpdated": "2026-08-02T04:51:32.776Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Jlnfpyo6oQQ",
-          "title": "TENTH SUNDAY AFTER PENTECOST -  2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/Jlnfpyo6oQQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "oAIU6wF94pQ",
-          "title": "Sung Mass - 10th Sunday after Pentecost",
+          "title": "Confirmation and Sung Mass w. Bishop Bernard Fellay - 10th Sunday after Pentecost",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/oAIU6wF94pQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T03:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aF6ZSJxSY1M",
@@ -143,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VHSSV58B0-g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-02T15:30:00Z"
+        },
+        {
+          "id": "Hsu-6o3Jf9Q",
+          "title": "Self Love is Often the Root of Complaining -Take care your complaining doesn't become detraction.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Hsu-6o3Jf9Q/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-02T18:00:00Z"
         },
         {
           "id": "zzWbU1TM3c8",
