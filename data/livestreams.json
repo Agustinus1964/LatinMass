@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-02T20:26:59.223Z",
+  "lastUpdated": "2026-08-02T21:24:56.495Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "rdxnjDXkyAI",
+          "title": "Ferial Mon 3/8/2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/rdxnjDXkyAI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "M0Mj_kW14D4",
           "title": "Hl. Messe - 03. August 2026",
@@ -71,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6wAMK0BGHzA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-03T11:30:00Z"
+        },
+        {
+          "id": "VovjR26N7Wk",
+          "title": "Monday 3rd August 2026: Invention of Saint Stephen",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/VovjR26N7Wk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T17:00:00Z"
         },
         {
           "id": "oVLB9UP5QME",
