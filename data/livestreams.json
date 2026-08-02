@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-02T19:18:32.953Z",
+  "lastUpdated": "2026-08-02T20:26:59.223Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "M0Mj_kW14D4",
+          "title": "Hl. Messe - 03. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/M0Mj_kW14D4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T05:15:00Z"
+        },
         {
           "id": "eF-uEw6OmLY",
           "title": "Mon. Aug. 3, 2026    -    Ferial Day",
@@ -23,6 +32,15 @@
           "scheduledTime": "2026-08-03T15:00:00Z"
         },
         {
+          "id": "fzYnyNiJhIU",
+          "title": "Rosenkranz und hl. Messe - 03. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fzYnyNiJhIU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T16:00:00Z"
+        },
+        {
           "id": "3qIVSmFNLv4",
           "title": "FSSPX Antwerpen - 03/08 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -37,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "l9mnMTymr3c",
-          "title": "Santa Misa Dominical. 2 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/l9mnMTymr3c/mqdefault_live.jpg",
+          "id": "6P3CiHrVCnE",
+          "title": "Missa rezada e ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/6P3CiHrVCnE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "zzWbU1TM3c8",
-          "title": "CHORAL VESPERS: FEAST OF SAINT ALPHONSUS LIGUORI, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/zzWbU1TM3c8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T19:30:00Z"
         },
         {
           "id": "6wAMK0BGHzA",
