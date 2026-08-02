@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-02T17:58:43.620Z",
+  "lastUpdated": "2026-08-02T19:18:32.953Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WVNMCnN20pM",
-          "title": "X Sunday after Pentecost | August 2nd",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/WVNMCnN20pM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "eF-uEw6OmLY",
           "title": "Mon. Aug. 3, 2026    -    Ferial Day",
@@ -46,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dpmeQPycp5o",
-          "title": "Sunday 1:30 PM Catholic Mass 08/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/dpmeQPycp5o/mqdefault_live.jpg",
+          "id": "l9mnMTymr3c",
+          "title": "Santa Misa Dominical. 2 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/l9mnMTymr3c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Hsu-6o3Jf9Q",
-          "title": "Self Love is Often the Root of Complaining -Take care your complaining doesn't become detraction.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Hsu-6o3Jf9Q/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T18:00:00Z"
         },
         {
           "id": "zzWbU1TM3c8",
