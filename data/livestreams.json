@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-08-02T14:26:01.898Z",
+  "lastUpdated": "2026-08-02T15:36:30.719Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E5jdAGDQCJY",
-          "title": "Low Mass - 10th Sunday after Pentecost - 8/2/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/E5jdAGDQCJY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TY-r-o5b5EE",
-          "title": "Tenth Sunday After Pentecost-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/TY-r-o5b5EE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8m5xKZ-EwxQ",
-          "title": "X Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/8m5xKZ-EwxQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Px9kaZ6FWYU",
-          "title": "Sun. Aug, 2, 2026    -    Tenth Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Px9kaZ6FWYU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "U_xxs_o4pBc",
           "title": "Tenth Sunday after Pentecost, July 26, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/U_xxs_o4pBc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Rsn1iAqU8MM",
@@ -55,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/Rsn1iAqU8MM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WVNMCnN20pM",
@@ -75,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eF-uEw6OmLY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-03T12:00:00Z"
+        },
+        {
+          "id": "wHpgYy83ozg",
+          "title": "FSSPX Antwerpen - 03/08 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/wHpgYy83ozg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-03T15:00:00Z"
         }
       ]
     },
@@ -82,11 +55,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "1Tx62sux9H8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/1Tx62sux9H8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "t01mHnNPz6s",
           "title": "10:30am Sung Mass. Tenth Sunday after Pentecost. II. August 2, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/t01mHnNPz6s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "VHSSV58B0-g",
+          "title": "PATRONAL FEAST OF SAINT ALPHONSUS LIGUORI, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/VHSSV58B0-g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fIO_U2s8uz8",
+          "title": "Sunday 11 AM Sung Mass 2026-08-02",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/fIO_U2s8uz8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -100,22 +100,22 @@
           "scheduledTime": null
         },
         {
+          "id": "2RDuf0cidXM",
+          "title": "Santa Misa Dominical. 2 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/2RDuf0cidXM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "8naIA5LlV2w",
           "title": "Chapelet de Notre Dame des 7 Douleurs",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/8naIA5LlV2w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T14:45:00Z"
-        },
-        {
-          "id": "VHSSV58B0-g",
-          "title": "PATRONAL FEAST OF SAINT ALPHONSUS LIGUORI, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/VHSSV58B0-g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-02T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dmzEQ1KOJ14",
