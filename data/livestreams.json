@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T20:42:39.005Z",
+  "lastUpdated": "2026-08-03T22:04:49.291Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Z8G78auP5m0",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Z8G78auP5m0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Gifw_SoBkvw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Dominic, Confessor)",
