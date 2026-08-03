@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-08-03T15:23:46.146Z",
+  "lastUpdated": "2026-08-03T17:23:25.918Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wHpgYy83ozg",
-          "title": "FSSPX Antwerpen - 03/08 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/wHpgYy83ozg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fzYnyNiJhIU",
-          "title": "Rosenkranz und hl. Messe - 03. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fzYnyNiJhIU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T16:00:00Z"
-        },
-        {
-          "id": "3qIVSmFNLv4",
-          "title": "FSSPX Antwerpen - 03/08 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/3qIVSmFNLv4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T16:30:00Z"
-        },
         {
           "id": "beWZONjyXIY",
           "title": "Hl. Messe - hl. Dominikus von Bologna - 04. August 2026",
@@ -57,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/fjo_CZG5H7o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-04T15:00:00Z"
+        },
+        {
+          "id": "0CF7jdQLPW4",
+          "title": "Rosenkranz und hl. Messe - hl. Dominikus von Bologna - 04. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0CF7jdQLPW4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T16:00:00Z"
+        },
+        {
+          "id": "csCRiCr2p5Y",
+          "title": "FSSPX Antwerpen - 04/08 H. DOMINICUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/csCRiCr2p5Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T16:30:00Z"
         }
       ]
     },
@@ -64,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "kxQqIEQosow",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/kxQqIEQosow/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "VovjR26N7Wk",
           "title": "Monday 3rd August 2026: Invention of Saint Stephen",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/VovjR26N7Wk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oVLB9UP5QME",
@@ -78,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/oVLB9UP5QME/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4bGO9kfD1xI",
@@ -87,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/4bGO9kfD1xI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Gifw_SoBkvw",
@@ -98,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/Gifw_SoBkvw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-04T11:30:00Z"
+        },
+        {
+          "id": "ipqKBlLwigA",
+          "title": "Tuesday 4th August 2026: Saint Dominic",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ipqKBlLwigA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T17:00:00Z"
+        },
+        {
+          "id": "4PSzbwmgNjA",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/4PSzbwmgNjA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T17:00:00Z"
+        },
+        {
+          "id": "84q9OY-U60Y",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/84q9OY-U60Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T17:00:00Z"
         }
       ]
     }
