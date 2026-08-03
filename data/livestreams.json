@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-03T08:45:56.771Z",
+  "lastUpdated": "2026-08-03T12:18:13.517Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/eF-uEw6OmLY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T12:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "wHpgYy83ozg",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/beWZONjyXIY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-04T05:15:00Z"
+        },
+        {
+          "id": "nAoKxj6YY4Q",
+          "title": "Tue. Aug. 4, 2026    -    St. Domenic,   Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/nAoKxj6YY4Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T11:15:00Z"
         }
       ]
     },
@@ -55,13 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6wAMK0BGHzA",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Finding of the Body of Saint Stephen, Protomartyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/6wAMK0BGHzA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-03T11:30:00Z"
+          "id": "9XX7UqiMyvM",
+          "title": "Monday 8 AM Traditional Latin Mass08/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/9XX7UqiMyvM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VovjR26N7Wk",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4bGO9kfD1xI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-03T17:00:00Z"
+        },
+        {
+          "id": "Gifw_SoBkvw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Dominic, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Gifw_SoBkvw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-04T11:30:00Z"
         }
       ]
     }
