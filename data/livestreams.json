@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T20:49:50.524Z",
+  "lastUpdated": "2026-08-04T22:07:52.228Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,6 +51,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/pwsVP-1Twuk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Orya1xQTk7E",
+          "title": "Terço e Missa Rezada de São Domingos",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Orya1xQTk7E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
