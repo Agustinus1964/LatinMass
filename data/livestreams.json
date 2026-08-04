@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T13:14:23.887Z",
+  "lastUpdated": "2026-08-04T15:53:00.252Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/fjo_CZG5H7o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-04T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0CF7jdQLPW4",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gQ5P0X-Fv-8",
-          "title": "Tuesday 8 AM Catholic Mass for 08/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/gQ5P0X-Fv-8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ipqKBlLwigA",
           "title": "Tuesday 4th August 2026: Saint Dominic",
