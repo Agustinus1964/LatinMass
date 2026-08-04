@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T02:08:22.516Z",
+  "lastUpdated": "2026-08-04T05:29:04.237Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/beWZONjyXIY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-04T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "nAoKxj6YY4Q",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/csCRiCr2p5Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-04T16:30:00Z"
+        },
+        {
+          "id": "NWVY27hRXNU",
+          "title": "Hl. Messe - Einweihung der Kirche Maria Schnee - 05. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/NWVY27hRXNU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-05T05:15:00Z"
         }
       ]
     },
