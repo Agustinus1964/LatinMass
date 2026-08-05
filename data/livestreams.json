@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-05T05:28:09.231Z",
+  "lastUpdated": "2026-08-05T08:02:15.101Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NWVY27hRXNU",
-          "title": "Hl. Messe - Einweihung der Kirche Maria Schnee - 05. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NWVY27hRXNU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_DCN2C0qf5k",
-          "title": "FSSPX Antwerpen - 05/08 KERKWIJDINGSFEEST van O.-L.-V-ter SNEEUW",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/_DCN2C0qf5k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-05T05:30:00Z"
-        },
         {
           "id": "jOMmd_dbYU4",
           "title": "Wed. Aug. 5, 2026    -    Dedication of Our Lady of the Snows",
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LcGnPCiJG-A/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-05T17:00:00Z"
+        },
+        {
+          "id": "p1Bv0_q5-P0",
+          "title": "Thursday 6th August 2026: Transfiguration of Our Lord",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/p1Bv0_q5-P0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T07:00:00Z"
         }
       ]
     }
