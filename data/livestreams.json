@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T22:54:35.629Z",
+  "lastUpdated": "2026-08-05T23:56:36.761Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1eEmRfbGP3w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-06T17:00:00Z"
+        },
+        {
+          "id": "f6DuLDHn4EQ",
+          "title": "TRANSFIGURATION OF OUR LORD, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/f6DuLDHn4EQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T23:00:00Z"
         }
       ]
     }
