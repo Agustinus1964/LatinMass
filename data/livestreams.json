@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T12:57:56.212Z",
+  "lastUpdated": "2026-08-05T15:16:51.002Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,21 +30,39 @@
           "thumbnail": "https://i.ytimg.com/vi/ZPz3muFcT20/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-06T11:15:00Z"
+        },
+        {
+          "id": "EbzQJJ35h4Y",
+          "title": "FSSPX Antwerpen - 06/08 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/EbzQJJ35h4Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T13:30:00Z"
+        },
+        {
+          "id": "mAOxGw2TN9w",
+          "title": "Transfiguration, August 6, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/mAOxGw2TN9w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T15:00:00Z"
+        },
+        {
+          "id": "lLACtieF45U",
+          "title": "Sakramentsandacht und hl. Messe - Verklärung Christi - 06. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lLACtieF45U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Uw6RfKwjfiw",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 08/05/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Uw6RfKwjfiw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CsIoMc4SKek",
           "title": "Wednesday 5th August 2026: Our Lady of the Snows",
