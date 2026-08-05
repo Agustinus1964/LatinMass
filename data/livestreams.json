@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-05T10:58:42.451Z",
+  "lastUpdated": "2026-08-05T12:57:56.212Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jOMmd_dbYU4",
-          "title": "Wed. Aug. 5, 2026    -    Dedication of Our Lady of the Snows",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/jOMmd_dbYU4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-05T11:15:00Z"
-        },
         {
           "id": "sgqXqbbpN4w",
           "title": "Rosenkranz und hl. Messe - Einweihung der Kirche Maria Schnee - 05. August 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zNR8i_Gt6D4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-06T05:15:00Z"
+        },
+        {
+          "id": "ZPz3muFcT20",
+          "title": "Thu. Aug. 6, 2026   -   Transfiguration of Our Lord Jesus Christ",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ZPz3muFcT20/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T11:15:00Z"
         }
       ]
     },
@@ -37,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "goTiHPTDnUs",
-          "title": "7am Mass & Divine Office. Dedication of Our Lady of Snows. III. Wednesday, August 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/goTiHPTDnUs/mqdefault_live.jpg",
+          "id": "Uw6RfKwjfiw",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 08/05/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Uw6RfKwjfiw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "gHGnB1XRQ5I",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Dedication of Our Lady of the Snows)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/gHGnB1XRQ5I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-05T11:30:00Z"
         },
         {
           "id": "CsIoMc4SKek",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/p1Bv0_q5-P0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-06T07:00:00Z"
+        },
+        {
+          "id": "sHi_2w1A1oc",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Transfiguration of Our Lord Jesus Christ)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/sHi_2w1A1oc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T11:30:00Z"
         }
       ]
     }
