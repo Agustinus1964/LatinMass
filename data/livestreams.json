@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-05T17:00:04.839Z",
+  "lastUpdated": "2026-08-05T18:40:24.396Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sgqXqbbpN4w",
-          "title": "Rosenkranz und hl. Messe - Einweihung der Kirche Maria Schnee - 05. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sgqXqbbpN4w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zNR8i_Gt6D4",
           "title": "Hl. Messe - Verklärung Christi - 06. August 2026",
@@ -72,42 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PBZDWdQur-o",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/PBZDWdQur-o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "CsIoMc4SKek",
-          "title": "Wednesday 5th August 2026: Our Lady of the Snows",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/CsIoMc4SKek/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E1IL5eswyhM",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/E1IL5eswyhM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LcGnPCiJG-A",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/LcGnPCiJG-A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "p1Bv0_q5-P0",
           "title": "Thursday 6th August 2026: Transfiguration of Our Lord",
