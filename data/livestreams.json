@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-06T05:44:44.022Z",
+  "lastUpdated": "2026-08-06T08:28:36.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zNR8i_Gt6D4",
-          "title": "Hl. Messe - Verklärung Christi - 06. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zNR8i_Gt6D4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZPz3muFcT20",
           "title": "Thu. Aug. 6, 2026   -   Transfiguration of Our Lord Jesus Christ",
@@ -73,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "p1Bv0_q5-P0",
-          "title": "Thursday 6th August 2026: Transfiguration of Our Lord",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/p1Bv0_q5-P0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T07:00:00Z"
-        },
-        {
           "id": "sHi_2w1A1oc",
           "title": "Live Stream Holy Mass from Cleveland USA (The Transfiguration of Our Lord Jesus Christ)",
           "channel": "Usus Antiquior",
@@ -96,6 +78,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/1eEmRfbGP3w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-06T17:00:00Z"
+        },
+        {
+          "id": "Rupa9NZIZoY",
+          "title": "Sainte messe de la fête de la Transfiguration - ILLVXERVNT CORUSCATIONES",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Rupa9NZIZoY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-06T17:00:00Z"
         },
