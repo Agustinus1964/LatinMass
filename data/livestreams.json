@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-06T11:02:08.965Z",
+  "lastUpdated": "2026-08-06T13:08:50.255Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZPz3muFcT20",
-          "title": "Thu. Aug. 6, 2026   -   Transfiguration of Our Lord Jesus Christ",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ZPz3muFcT20/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T11:15:00Z"
-        },
         {
           "id": "EbzQJJ35h4Y",
           "title": "FSSPX Antwerpen - 06/08 Priester-Uur-Gebed",
@@ -57,30 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/tfYTSMWh3cs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-07T05:15:00Z"
+        },
+        {
+          "id": "sX4-RQ5jTAY",
+          "title": "Fri. Aug. 7, 2026    -    St. Caietanus,    Confessor     (First Friday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/sX4-RQ5jTAY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lIt3wozoaxc",
-          "title": "7am Mass & Divine Office. The Transfiguration of Our Lord Jesus Christ. II. Thursday, August 6, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/lIt3wozoaxc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sHi_2w1A1oc",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Transfiguration of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/sHi_2w1A1oc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T11:30:00Z"
-        },
         {
           "id": "1eEmRfbGP3w",
           "title": "Thursday",
