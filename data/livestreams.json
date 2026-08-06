@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-08-06T13:08:50.255Z",
+  "lastUpdated": "2026-08-06T23:54:14.580Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EbzQJJ35h4Y",
-          "title": "FSSPX Antwerpen - 06/08 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EbzQJJ35h4Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T13:30:00Z"
-        },
-        {
-          "id": "mAOxGw2TN9w",
-          "title": "Transfiguration, August 6, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/mAOxGw2TN9w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T15:00:00Z"
-        },
-        {
-          "id": "lLACtieF45U",
-          "title": "Sakramentsandacht und hl. Messe - Verklärung Christi - 06. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/lLACtieF45U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T15:00:00Z"
-        },
-        {
-          "id": "72r9TANeveA",
-          "title": "FSSPX Antwerpen - 06/08 FEEST van de GEDAANTEVERANDERING van ONZE HEER JEZUS CHRISTUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/72r9TANeveA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T16:30:00Z"
-        },
         {
           "id": "tfYTSMWh3cs",
           "title": "Hl. Messe - Herz-Jesu Freitag - 07. August 2026",
@@ -57,6 +21,33 @@
           "thumbnail": "https://i.ytimg.com/vi/sX4-RQ5jTAY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-07T11:15:00Z"
+        },
+        {
+          "id": "pX3OF5yz68U",
+          "title": "FSSPX Antwerpen - 07/08 H. Uur met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/pX3OF5yz68U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T15:00:00Z"
+        },
+        {
+          "id": "2k2iKrZqH2E",
+          "title": "FSSPX Antwerpen - 07/08 Z. JULIANA van MONT-CORNILLON",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/2k2iKrZqH2E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T16:30:00Z"
+        },
+        {
+          "id": "fdh0RN2HBT8",
+          "title": "Sakramentsandacht und hl. Messe - Herz-Jesu Freitag - 07. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fdh0RN2HBT8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T16:30:00Z"
         }
       ]
     },
@@ -64,31 +55,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1eEmRfbGP3w",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1eEmRfbGP3w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T17:00:00Z"
-        },
-        {
-          "id": "Rupa9NZIZoY",
-          "title": "Sainte messe de la fête de la Transfiguration - ILLVXERVNT CORUSCATIONES",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Rupa9NZIZoY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-06T17:00:00Z"
-        },
-        {
           "id": "f6DuLDHn4EQ",
           "title": "TRANSFIGURATION OF OUR LORD, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/f6DuLDHn4EQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "o-RpGBgp7JM",
+          "title": "Friday 7th August 2026: First Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/o-RpGBgp7JM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-06T23:00:00Z"
+          "scheduledTime": "2026-08-07T17:00:00Z"
+        },
+        {
+          "id": "BZ_Z98SAP7U",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/BZ_Z98SAP7U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T17:00:00Z"
+        },
+        {
+          "id": "jQ37LrqYQoo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/jQ37LrqYQoo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T17:00:00Z"
+        },
+        {
+          "id": "-JeoG7drBVY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Cajetan, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/-JeoG7drBVY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-07T22:30:00Z"
         }
       ]
     }
