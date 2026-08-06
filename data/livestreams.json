@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:28:36.500Z",
+  "lastUpdated": "2026-08-06T11:02:08.965Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lIt3wozoaxc",
+          "title": "7am Mass & Divine Office. The Transfiguration of Our Lord Jesus Christ. II. Thursday, August 6, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/lIt3wozoaxc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "sHi_2w1A1oc",
           "title": "Live Stream Holy Mass from Cleveland USA (The Transfiguration of Our Lord Jesus Christ)",
