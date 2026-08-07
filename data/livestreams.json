@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T08:54:37.134Z",
+  "lastUpdated": "2026-08-07T09:57:32.257Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "YMjJ6IE_TVo",
+          "title": "Prima e Missa Rezada de São Caetano",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/YMjJ6IE_TVo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "o-RpGBgp7JM",
           "title": "Friday 7th August 2026: First Friday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -107,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/JTdliKhLZ70/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-08T07:30:00Z"
+        },
+        {
+          "id": "EEOEsKv2vwo",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/EEOEsKv2vwo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T09:00:00Z"
+        },
+        {
+          "id": "C0TnNd1zkSc",
+          "title": "Saturday 8th August 2026: Saint John-Marie Vianney",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/C0TnNd1zkSc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T09:30:00Z"
         }
       ]
     }
