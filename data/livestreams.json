@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T09:57:32.257Z",
+  "lastUpdated": "2026-08-07T10:54:17.929Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YMjJ6IE_TVo",
-          "title": "Prima e Missa Rezada de São Caetano",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YMjJ6IE_TVo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "o-RpGBgp7JM",
           "title": "Friday 7th August 2026: First Friday",
