@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-07T22:04:30.215Z",
+  "lastUpdated": "2026-08-07T23:03:47.256Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dnmZtqwrMvI",
+          "title": "Confirmation and Mass - St. John Vianney (Cure of Ars) - 8/8/20",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/dnmZtqwrMvI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "T--71evUAoI",
           "title": "Hl. Messe - h. Johannes Maria Vianney - 08. August 2026",
@@ -46,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "-JeoG7drBVY",
+          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/-JeoG7drBVY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "hOMz1k4ZEPY",
           "title": "First Friday: Divine Office, Mass, Holy Hour. St Cajetan, Confessor. III. Sacred Heart of Jesus. III",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -55,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "J-f6DK9Xe-Y",
-          "title": "Terço e Missa Rezada de São Caetano",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/J-f6DK9Xe-Y/mqdefault_live.jpg",
+          "id": "mJrKLceNuPM",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 08/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/mJrKLceNuPM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "-JeoG7drBVY",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/-JeoG7drBVY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T22:30:00Z"
         },
         {
           "id": "JTdliKhLZ70",
