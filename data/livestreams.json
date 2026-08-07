@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T14:10:22.119Z",
+  "lastUpdated": "2026-08-07T15:23:21.438Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/pX3OF5yz68U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2k2iKrZqH2E",
@@ -73,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "wD1SegGbNeU",
-          "title": "El Santo Sacrificio de la Misa. 7 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/wD1SegGbNeU/mqdefault_live.jpg",
+          "id": "QCJENnqHYX8",
+          "title": "First Friday: 11am Mass & Divine Office. St. Cajetan, Confessor. III. Sacred Heart of Jesus. III.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/QCJENnqHYX8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
