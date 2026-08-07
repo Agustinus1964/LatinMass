@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T11:42:11.612Z",
+  "lastUpdated": "2026-08-07T12:54:17.193Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sX4-RQ5jTAY",
-          "title": "Fri. Aug. 7, 2026    -    St. Caietanus,    Confessor     (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/sX4-RQ5jTAY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3Us8mwTJ-ss",
-          "title": "Sung Mass - First Friday (Sacred Heart)",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/3Us8mwTJ-ss/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pX3OF5yz68U",
           "title": "FSSPX Antwerpen - 07/08 H. Uur met Rozenhoedje",
@@ -66,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/iv9UQ6hvWqI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-08T08:00:00Z"
+        },
+        {
+          "id": "9E_nKxavnlA",
+          "title": "FSSPX Antwerpen - 08/08 H. Huwelijksmis van Gabriëlle Van Eekert & Dieuwert Pattyn",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9E_nKxavnlA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "QkYr_1OiqHs",
+          "title": "Friday 8 AM Catholic Mass for 08/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QkYr_1OiqHs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "o-RpGBgp7JM",
           "title": "Friday 7th August 2026: First Friday",
