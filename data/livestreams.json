@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T17:20:57.760Z",
+  "lastUpdated": "2026-08-07T18:09:31.680Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2k2iKrZqH2E",
-          "title": "FSSPX Antwerpen - 07/08 Z. JULIANA van MONT-CORNILLON",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2k2iKrZqH2E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fdh0RN2HBT8",
           "title": "Sakramentsandacht und hl. Messe - Herz-Jesu Freitag - 07. August 2026",
@@ -69,24 +60,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/o-RpGBgp7JM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BZ_Z98SAP7U",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/BZ_Z98SAP7U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jQ37LrqYQoo",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/jQ37LrqYQoo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
