@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-07T16:22:09.612Z",
+  "lastUpdated": "2026-08-07T17:20:57.760Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pX3OF5yz68U",
-          "title": "FSSPX Antwerpen - 07/08 H. Uur met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pX3OF5yz68U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2k2iKrZqH2E",
           "title": "FSSPX Antwerpen - 07/08 Z. JULIANA van MONT-CORNILLON",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/2k2iKrZqH2E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fdh0RN2HBT8",
@@ -28,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/fdh0RN2HBT8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T--71evUAoI",
@@ -78,8 +69,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/o-RpGBgp7JM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BZ_Z98SAP7U",
@@ -87,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/BZ_Z98SAP7U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jQ37LrqYQoo",
@@ -96,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/jQ37LrqYQoo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-JeoG7drBVY",
