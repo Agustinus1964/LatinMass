@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:51:02.462Z",
+  "lastUpdated": "2026-08-07T08:54:37.134Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/T--71evUAoI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-08T05:15:00Z"
+        },
+        {
+          "id": "iv9UQ6hvWqI",
+          "title": "FSSPX Antwerpen - 08/08 H. JOHANNES MARIA VIANNEY",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/iv9UQ6hvWqI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T08:00:00Z"
         }
       ]
     },
