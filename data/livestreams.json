@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T12:54:17.193Z",
+  "lastUpdated": "2026-08-07T14:10:22.119Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9E_nKxavnlA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-08T12:00:00Z"
+        },
+        {
+          "id": "Ychl36t3yKg",
+          "title": "Sat. Aug. 8, 2026    -    St. John Mary Vianney,      Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Ychl36t3yKg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T14:00:00Z"
         }
       ]
     },
@@ -64,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "QkYr_1OiqHs",
-          "title": "Friday 8 AM Catholic Mass for 08/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QkYr_1OiqHs/mqdefault_live.jpg",
+          "id": "wD1SegGbNeU",
+          "title": "El Santo Sacrificio de la Misa. 7 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/wD1SegGbNeU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
