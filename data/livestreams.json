@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T23:03:47.256Z",
+  "lastUpdated": "2026-08-07T23:56:56.136Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-JeoG7drBVY",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/-JeoG7drBVY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hOMz1k4ZEPY",
-          "title": "First Friday: Divine Office, Mass, Holy Hour. St Cajetan, Confessor. III. Sacred Heart of Jesus. III",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/hOMz1k4ZEPY/mqdefault_live.jpg",
+          "id": "ueXQ455xi9g",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/ueXQ455xi9g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/C0TnNd1zkSc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-08T09:30:00Z"
+        },
+        {
+          "id": "HpbomhMCPWg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jean Marie Vianney, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/HpbomhMCPWg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T13:00:00Z"
         }
       ]
     }
