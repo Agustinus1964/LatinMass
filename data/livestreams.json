@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T18:09:31.680Z",
+  "lastUpdated": "2026-08-07T19:27:26.025Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fdh0RN2HBT8",
-          "title": "Sakramentsandacht und hl. Messe - Herz-Jesu Freitag - 07. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fdh0RN2HBT8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "T--71evUAoI",
           "title": "Hl. Messe - h. Johannes Maria Vianney - 08. August 2026",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "o-RpGBgp7JM",
-          "title": "Friday 7th August 2026: First Friday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/o-RpGBgp7JM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-JeoG7drBVY",
           "title": "Live Stream Holy Mass from Cleveland USA (1st Friday Votive Mass of the Most Sacred Heart of Jesus)",
