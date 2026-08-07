@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T04:36:01.125Z",
+  "lastUpdated": "2026-08-07T06:06:50.501Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tfYTSMWh3cs",
-          "title": "Hl. Messe - Herz-Jesu Freitag - 07. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tfYTSMWh3cs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-07T05:15:00Z"
-        },
         {
           "id": "sX4-RQ5jTAY",
           "title": "Fri. Aug. 7, 2026    -    St. Caietanus,    Confessor     (First Friday)",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fdh0RN2HBT8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-07T16:30:00Z"
+        },
+        {
+          "id": "T--71evUAoI",
+          "title": "Hl. Messe - h. Johannes Maria Vianney - 08. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/T--71evUAoI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-08T05:15:00Z"
         }
       ]
     },
