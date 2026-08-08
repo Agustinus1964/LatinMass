@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T18:33:22.026Z",
+  "lastUpdated": "2026-08-08T19:25:29.860Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,24 @@
           "scheduledTime": "2026-08-09T10:00:00Z"
         },
         {
+          "id": "SwaA8Nk-sE4",
+          "title": "Low Mass - 11th Sunday after Pentecost - 8/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/SwaA8Nk-sE4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T11:15:00Z"
+        },
+        {
+          "id": "nJx8vyitRQs",
+          "title": "Low Mass - 11th Sunday after Pentecost - 8/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/nJx8vyitRQs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T14:00:00Z"
+        },
+        {
           "id": "UNQV1e-_Jyg",
           "title": "Sun. Aug. 9, 2026    -    Eleven Sunday after Pentecost",
           "channel": "Transfiguration Church SSPX",
@@ -57,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0LTAujrir1g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T15:30:00Z"
+        },
+        {
+          "id": "P7Oge4A4YEU",
+          "title": "XI Sunday after Pentecost | August 9th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/P7Oge4A4YEU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T17:00:00Z"
         }
       ]
     },
