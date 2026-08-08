@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T14:58:46.191Z",
+  "lastUpdated": "2026-08-08T15:34:57.085Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,21 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/UNQV1e-_Jyg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T14:00:00Z"
+        },
+        {
+          "id": "CvZOmqx84ZI",
+          "title": "Eleventh Sunday after Pentecost, August 9, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/CvZOmqx84ZI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T15:00:00Z"
+        },
+        {
+          "id": "0LTAujrir1g",
+          "title": "Vesper und Sakramentsandacht - 11. Sonntag nach Pfingsten - 09. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0LTAujrir1g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T15:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QxjMe4q5wcI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/QxjMe4q5wcI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QzHxRTPGEwQ",
           "title": "8am — 11th Sunday after Pentecost",
@@ -107,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/h4O9D5Z42zE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T14:45:00Z"
+        },
+        {
+          "id": "gAw9AXXGuAQ",
+          "title": "ELEVENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/gAw9AXXGuAQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T15:30:00Z"
         }
       ]
     }
