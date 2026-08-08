@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-08T11:52:38.288Z",
+  "lastUpdated": "2026-08-08T12:39:09.822Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9E_nKxavnlA",
+          "title": "FSSPX Antwerpen - 08/08 H. Huwelijksmis van Gabriëlle Van Eekert & Dieuwert Pattyn",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/9E_nKxavnlA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Ychl36t3yKg",
           "title": "Sat. Aug. 8, 2026    -    St. John Mary Vianney,      Confessor",
@@ -36,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iO5iT1grocQ",
-          "title": "Saturday 7 AM Catholic Mass for 08/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/iO5iT1grocQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HpbomhMCPWg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Jean Marie Vianney, Confessor)",
