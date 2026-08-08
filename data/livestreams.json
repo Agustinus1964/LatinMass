@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-08T14:27:54.435Z",
+  "lastUpdated": "2026-08-08T14:58:46.191Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Ychl36t3yKg",
-          "title": "Sat. Aug. 8, 2026    -    St. John Mary Vianney,      Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Ychl36t3yKg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "oiQ_yvyasV0",
           "title": "Amt - 11. Sonntag nach Pfingsten - 09. August 2026",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WprbsN0dYXg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T12:00:00Z"
+        },
+        {
+          "id": "h4O9D5Z42zE",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/h4O9D5Z42zE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T14:45:00Z"
         }
       ]
     }
