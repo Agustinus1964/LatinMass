@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-08T08:35:10.156Z",
+  "lastUpdated": "2026-08-08T09:32:57.789Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iv9UQ6hvWqI",
-          "title": "FSSPX Antwerpen - 08/08 H. JOHANNES MARIA VIANNEY",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/iv9UQ6hvWqI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9E_nKxavnlA",
-          "title": "FSSPX Antwerpen - 08/08 H. Huwelijksmis van Gabriëlle Van Eekert & Dieuwert Pattyn",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9E_nKxavnlA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-08T12:00:00Z"
-        },
         {
           "id": "Ychl36t3yKg",
           "title": "Sat. Aug. 8, 2026    -    St. John Mary Vianney,      Confessor",
@@ -39,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oiQ_yvyasV0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T07:30:00Z"
-        },
-        {
-          "id": "OD-fYrlrppY",
-          "title": "FSSPX Antwerpen - 09/08 11° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/OD-fYrlrppY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T08:00:00Z"
         }
       ]
     },
@@ -60,8 +33,17 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/C0TnNd1zkSc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-08T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "K4kaQPbQt88",
+          "title": "Prima e Missa Rezada do Santo Cura d’Ars",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/K4kaQPbQt88/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HpbomhMCPWg",
@@ -89,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/RZxLG9XdPWA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T08:30:00Z"
+        },
+        {
+          "id": "BPow6sMLWhc",
+          "title": "Sainte messe du XIème dimanche après la Pentecôte - ECCE DEUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/BPow6sMLWhc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T09:00:00Z"
+        },
+        {
+          "id": "moGi_qJ81Vc",
+          "title": "Sunday 9th August 2026: Eleventh Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/moGi_qJ81Vc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T09:30:00Z"
         }
       ]
     }
