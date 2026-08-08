@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T23:56:56.136Z",
+  "lastUpdated": "2026-08-08T01:42:04.571Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dnmZtqwrMvI",
-          "title": "Confirmation and Mass - St. John Vianney (Cure of Ars) - 8/8/20",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/dnmZtqwrMvI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "T--71evUAoI",
           "title": "Hl. Messe - h. Johannes Maria Vianney - 08. August 2026",
@@ -54,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ueXQ455xi9g",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/ueXQ455xi9g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mJrKLceNuPM",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 08/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mJrKLceNuPM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "JTdliKhLZ70",
           "title": "Sainte messe en semaine",
