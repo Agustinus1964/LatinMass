@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:43:56.238Z",
+  "lastUpdated": "2026-08-08T07:45:09.976Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ychl36t3yKg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-08T14:00:00Z"
+        },
+        {
+          "id": "oiQ_yvyasV0",
+          "title": "Amt - 11. Sonntag nach Pfingsten - 09. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/oiQ_yvyasV0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T07:30:00Z"
         }
       ]
     },
@@ -42,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/JTdliKhLZ70/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-08T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EEOEsKv2vwo",
