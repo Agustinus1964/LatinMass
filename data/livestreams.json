@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T12:39:09.822Z",
+  "lastUpdated": "2026-08-08T13:41:41.641Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HpbomhMCPWg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jean Marie Vianney, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/HpbomhMCPWg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-08T13:00:00Z"
+          "id": "bWvLgRZ6_Ro",
+          "title": "Saturday 9 AM Traditional Catholic Mass 08/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/bWvLgRZ6_Ro/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QzHxRTPGEwQ",
