@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-08T13:41:41.641Z",
+  "lastUpdated": "2026-08-08T14:27:54.435Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9E_nKxavnlA",
-          "title": "FSSPX Antwerpen - 08/08 H. Huwelijksmis van Gabriëlle Van Eekert & Dieuwert Pattyn",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/9E_nKxavnlA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Ychl36t3yKg",
           "title": "Sat. Aug. 8, 2026    -    St. John Mary Vianney,      Confessor",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/Ychl36t3yKg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-08T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "oiQ_yvyasV0",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RGHqntVk7CQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T10:00:00Z"
+        },
+        {
+          "id": "UNQV1e-_Jyg",
+          "title": "Sun. Aug. 9, 2026    -    Eleven Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/UNQV1e-_Jyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T14:00:00Z"
         }
       ]
     },
@@ -46,11 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "bWvLgRZ6_Ro",
-          "title": "Saturday 9 AM Traditional Catholic Mass 08/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/bWvLgRZ6_Ro/mqdefault_live.jpg",
+          "id": "QxjMe4q5wcI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/QxjMe4q5wcI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ar8NGe9T8Zw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T10:00:00Z"
+        },
+        {
+          "id": "WprbsN0dYXg",
+          "title": "Live Stream Holy Mass (Low) from Cleveland (The Eleventh Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/WprbsN0dYXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T12:00:00Z"
         }
       ]
     }
