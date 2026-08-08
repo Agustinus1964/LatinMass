@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T22:56:40.766Z",
+  "lastUpdated": "2026-08-08T23:28:24.550Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,15 +46,6 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/nJx8vyitRQs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T14:00:00Z"
-        },
-        {
-          "id": "UNQV1e-_Jyg",
-          "title": "Sun. Aug. 9, 2026    -    Eleven Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/UNQV1e-_Jyg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T14:00:00Z"
         },
