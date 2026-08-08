@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-08T16:28:20.522Z",
+  "lastUpdated": "2026-08-08T17:02:53.947Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "EIZcjBITlYo",
+          "title": "08/08/26 Fr. Vernoy Farewell Mass",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/EIZcjBITlYo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "oiQ_yvyasV0",
           "title": "Amt - 11. Sonntag nach Pfingsten - 09. August 2026",
