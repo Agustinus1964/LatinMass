@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T10:29:35.882Z",
+  "lastUpdated": "2026-08-09T11:03:07.493Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,11 +73,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "moGi_qJ81Vc",
-          "title": "Sunday 9th August 2026: Eleventh Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/moGi_qJ81Vc/mqdefault_live.jpg",
+          "id": "sa08pD1Z0hU",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Eleventh Sunday after Pentecost. II. August 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/sa08pD1Z0hU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "WQwJu8CaHag",
+          "title": "Sunday 7 AM Catholic Mass for 08/09/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/WQwJu8CaHag/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -87,15 +96,6 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Ar8NGe9T8Zw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "BPow6sMLWhc",
-          "title": "Sainte messe du XIème dimanche après la Pentecôte - ECCE DEUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/BPow6sMLWhc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
