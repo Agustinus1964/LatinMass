@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-09T08:37:02.304Z",
+  "lastUpdated": "2026-08-09T09:34:54.221Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OD-fYrlrppY",
-          "title": "FSSPX Antwerpen - 09/08 11° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/OD-fYrlrppY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oiQ_yvyasV0",
-          "title": "Amt - 11. Sonntag nach Pfingsten - 09. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/oiQ_yvyasV0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5z2qodAODzQ",
           "title": "XI Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
@@ -100,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RZxLG9XdPWA",
-          "title": "9:30am — 19th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/RZxLG9XdPWA/mqdefault_live.jpg",
+          "id": "moGi_qJ81Vc",
+          "title": "Sunday 9th August 2026: Eleventh Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/moGi_qJ81Vc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,17 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/BPow6sMLWhc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T09:00:00Z"
-        },
-        {
-          "id": "moGi_qJ81Vc",
-          "title": "Sunday 9th August 2026: Eleventh Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/moGi_qJ81Vc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T09:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ar8NGe9T8Zw",
