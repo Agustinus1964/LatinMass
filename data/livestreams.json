@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T18:49:28.208Z",
+  "lastUpdated": "2026-08-09T19:29:17.348Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2Bl_bKrNlR4",
-          "title": "Sunday 1:30 PM Catholic Mass 08/09/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/2Bl_bKrNlR4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pkqpEpzR94U",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence, Deacon and Martyr)",
