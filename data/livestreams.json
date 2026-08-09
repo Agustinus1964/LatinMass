@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-09T20:41:18.764Z",
+  "lastUpdated": "2026-08-09T21:27:12.467Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "RIGeWBQI4Y8",
+          "title": "St Lawrence 10/8/20",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/RIGeWBQI4Y8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "vol4BZRST_0",
           "title": "Hl. Messe - hl. Laurentius - 10. August 2026",
