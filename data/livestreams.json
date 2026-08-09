@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-09T14:30:03.796Z",
+  "lastUpdated": "2026-08-09T15:02:58.398Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4kfSywpzL8A",
-          "title": "Low Mass - 11th Sunday after Pentecost - 8/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4kfSywpzL8A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KfW59uRSRwk",
           "title": "Eleventh Sunday After Pentecost-The Immaculata",
@@ -23,11 +14,11 @@
           "scheduledTime": null
         },
         {
-          "id": "Wr9dmTw_w3Q",
-          "title": "XI Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/Wr9dmTw_w3Q/mqdefault_live.jpg",
+          "id": "CvZOmqx84ZI",
+          "title": "Eleventh Sunday after Pentecost, August 9, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/CvZOmqx84ZI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/UNQV1e-_Jyg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "CvZOmqx84ZI",
-          "title": "Eleventh Sunday after Pentecost, August 9, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/CvZOmqx84ZI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T15:00:00Z"
         },
         {
           "id": "0LTAujrir1g",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8jVxfXh-yNo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-10T11:15:00Z"
+        },
+        {
+          "id": "A29UX2pXpnM",
+          "title": "FSSPX Antwerpen - 10/08 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/A29UX2pXpnM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-10T15:00:00Z"
         }
       ]
     },
@@ -91,11 +82,29 @@
           "scheduledTime": null
         },
         {
+          "id": "DycezJ3hl0o",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/DycezJ3hl0o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "sesD8JYOO8I",
           "title": "10:30am Sung Mass. Eleventh Sunday after Pentecost. II. August 9, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/sesD8JYOO8I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Iggtso4_3ic",
+          "title": "Sunday 11 AM Sung Mass 2026-08-09",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Iggtso4_3ic/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -114,8 +123,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/h4O9D5Z42zE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gAw9AXXGuAQ",
