@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-09T15:02:58.398Z",
+  "lastUpdated": "2026-08-09T15:56:31.910Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KfW59uRSRwk",
-          "title": "Eleventh Sunday After Pentecost-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/KfW59uRSRwk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "CvZOmqx84ZI",
           "title": "Eleventh Sunday after Pentecost, August 9, 2026",
@@ -23,22 +14,13 @@
           "scheduledTime": null
         },
         {
-          "id": "UNQV1e-_Jyg",
-          "title": "Sun. Aug. 9, 2026    -    Eleven Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/UNQV1e-_Jyg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "0LTAujrir1g",
           "title": "Vesper und Sakramentsandacht - 11. Sonntag nach Pfingsten - 09. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/0LTAujrir1g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "P7Oge4A4YEU",
@@ -73,15 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "h_MHY9ri1uY",
-          "title": "Live Stream Holy Mass (Low #)2 from Cleveland USA (The Eleventh Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/h_MHY9ri1uY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "DycezJ3hl0o",
           "title": "Mass",
           "channel": "ICKSP",
@@ -91,11 +64,11 @@
           "scheduledTime": null
         },
         {
-          "id": "sesD8JYOO8I",
-          "title": "10:30am Sung Mass. Eleventh Sunday after Pentecost. II. August 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/sesD8JYOO8I/mqdefault_live.jpg",
+          "id": "gAw9AXXGuAQ",
+          "title": "ELEVENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/gAw9AXXGuAQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -118,31 +91,13 @@
           "scheduledTime": null
         },
         {
-          "id": "h4O9D5Z42zE",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/h4O9D5Z42zE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gAw9AXXGuAQ",
-          "title": "ELEVENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/gAw9AXXGuAQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T15:30:00Z"
-        },
-        {
           "id": "_Hd8z57SchY",
           "title": "Premières vêpres de la fête de saint Laurent - LEVITA LAURENTIUS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/_Hd8z57SchY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4rQ3YR177H0",
