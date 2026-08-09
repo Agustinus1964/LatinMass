@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T19:29:17.348Z",
+  "lastUpdated": "2026-08-09T19:59:12.900Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gUFVKJaw7JY",
+          "title": "Missa rezada e ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/gUFVKJaw7JY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pkqpEpzR94U",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence, Deacon and Martyr)",
