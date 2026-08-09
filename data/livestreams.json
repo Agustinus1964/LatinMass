@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T03:17:41.449Z",
+  "lastUpdated": "2026-08-09T04:44:23.655Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gAw9AXXGuAQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T15:30:00Z"
+        },
+        {
+          "id": "4rQ3YR177H0",
+          "title": "Our Lord Commanded Them to Tell No One, Yet They Could Not Remain Silent",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/4rQ3YR177H0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T18:00:00Z"
         }
       ]
     }
