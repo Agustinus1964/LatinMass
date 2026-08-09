@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-09T05:43:28.708Z",
+  "lastUpdated": "2026-08-09T06:49:43.461Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gAw9AXXGuAQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T15:30:00Z"
+        },
+        {
+          "id": "_Hd8z57SchY",
+          "title": "Premières vêpres de la fête de saint Laurent - LEVITA LAURENTIUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_Hd8z57SchY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T15:45:00Z"
         },
         {
           "id": "4rQ3YR177H0",
