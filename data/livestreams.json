@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-09T15:56:31.910Z",
+  "lastUpdated": "2026-08-09T16:34:08.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CvZOmqx84ZI",
-          "title": "Eleventh Sunday after Pentecost, August 9, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/CvZOmqx84ZI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0LTAujrir1g",
-          "title": "Vesper und Sakramentsandacht - 11. Sonntag nach Pfingsten - 09. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/0LTAujrir1g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "P7Oge4A4YEU",
           "title": "XI Sunday after Pentecost | August 9th",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/A29UX2pXpnM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-10T15:00:00Z"
+        },
+        {
+          "id": "TVfxn6aBzt4",
+          "title": "FSSPX Antwerpen - 10/08  H. LAURENTIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/TVfxn6aBzt4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-10T16:30:00Z"
         }
       ]
     },
@@ -78,15 +69,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/Iggtso4_3ic/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vmweNYuMgV8",
-          "title": "11th Sunday after Pentecost / 11e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/vmweNYuMgV8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
