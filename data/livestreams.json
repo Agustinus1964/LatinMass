@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-09T09:34:54.221Z",
+  "lastUpdated": "2026-08-09T10:29:35.882Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5z2qodAODzQ",
-          "title": "XI Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/5z2qodAODzQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "RGHqntVk7CQ",
           "title": "11th Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/RGHqntVk7CQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "SwaA8Nk-sE4",
@@ -91,6 +82,15 @@
           "scheduledTime": null
         },
         {
+          "id": "Ar8NGe9T8Zw",
+          "title": "11am — 19th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Ar8NGe9T8Zw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "BPow6sMLWhc",
           "title": "Sainte messe du XIème dimanche après la Pentecôte - ECCE DEUS",
           "channel": "Ite Missa Est",
@@ -100,13 +100,13 @@
           "scheduledTime": null
         },
         {
-          "id": "Ar8NGe9T8Zw",
-          "title": "11am — 19th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Ar8NGe9T8Zw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T10:00:00Z"
+          "id": "ofC4KusWoWU",
+          "title": "Missa rezada - XI Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ofC4KusWoWU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WprbsN0dYXg",
