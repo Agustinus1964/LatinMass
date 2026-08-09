@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T23:55:49.053Z",
+  "lastUpdated": "2026-08-09T01:28:18.873Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/SwaA8Nk-sE4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-09T11:15:00Z"
+        },
+        {
+          "id": "KfW59uRSRwk",
+          "title": "Eleventh Sunday After Pentecost-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/KfW59uRSRwk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-09T13:30:00Z"
         },
         {
           "id": "nJx8vyitRQs",
