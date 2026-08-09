@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-09T13:45:16.016Z",
+  "lastUpdated": "2026-08-09T14:30:03.796Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "4kfSywpzL8A",
+          "title": "Low Mass - 11th Sunday after Pentecost - 8/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/4kfSywpzL8A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KfW59uRSRwk",
           "title": "Eleventh Sunday After Pentecost-The Immaculata",
@@ -23,13 +32,13 @@
           "scheduledTime": null
         },
         {
-          "id": "nJx8vyitRQs",
-          "title": "Low Mass - 11th Sunday after Pentecost - 8/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/nJx8vyitRQs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-09T14:00:00Z"
+          "id": "UNQV1e-_Jyg",
+          "title": "Sun. Aug. 9, 2026    -    Eleven Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/UNQV1e-_Jyg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CvZOmqx84ZI",
@@ -73,20 +82,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "0OM1jrPsdjQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0OM1jrPsdjQ/mqdefault_live.jpg",
+          "id": "h_MHY9ri1uY",
+          "title": "Live Stream Holy Mass (Low #)2 from Cleveland USA (The Eleventh Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/h_MHY9ri1uY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "H3RYma25KOw",
-          "title": "Missa Cantada XI Domingo Depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/H3RYma25KOw/mqdefault_live.jpg",
+          "id": "sesD8JYOO8I",
+          "title": "10:30am Sung Mass. Eleventh Sunday after Pentecost. II. August 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/sesD8JYOO8I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "vmweNYuMgV8",
+          "title": "11th Sunday after Pentecost / 11e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/vmweNYuMgV8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
