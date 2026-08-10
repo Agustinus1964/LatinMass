@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T10:14:57.167Z",
+  "lastUpdated": "2026-08-10T11:29:07.774Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/8jVxfXh-yNo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-10T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "A29UX2pXpnM",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xDtTUYnsARI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-11T05:15:00Z"
+        },
+        {
+          "id": "9PyL8LJrX6U",
+          "title": "Tue. Aug. 11, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/9PyL8LJrX6U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-11T11:15:00Z"
         }
       ]
     },
@@ -46,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7BVVdsatg_g",
-          "title": "Monday 6 AM Traditional Catholic Mass 08/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7BVVdsatg_g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "pkqpEpzR94U",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence, Martyr)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/pkqpEpzR94U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-10T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "n6X8Q_X4Ylc",
+          "title": "7am Mass & Divine Office. St. Laurence, Martyr. II. Monday, August 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/n6X8Q_X4Ylc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GUATHkDDxjQ",
