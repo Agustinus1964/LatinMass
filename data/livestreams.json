@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T14:53:51.666Z",
+  "lastUpdated": "2026-08-10T15:56:32.383Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/A29UX2pXpnM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-10T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TVfxn6aBzt4",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9PyL8LJrX6U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-11T11:15:00Z"
+        },
+        {
+          "id": "tzKjmoF7rfM",
+          "title": "FSSPX Antwerpen - 11/08 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/tzKjmoF7rfM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-11T15:00:00Z"
         }
       ]
     },
