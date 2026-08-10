@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T12:09:31.008Z",
+  "lastUpdated": "2026-08-10T13:53:21.457Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,24 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "pkqpEpzR94U",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Laurence, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pkqpEpzR94U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "naVDss6s1GI",
-          "title": "Monday 8 AM Traditional Latin Mass08/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/naVDss6s1GI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "GUATHkDDxjQ",
           "title": "Monday",
           "channel": "Oxford Oratory",
@@ -80,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jh8rPkGpA-8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-10T17:00:00Z"
+        },
+        {
+          "id": "kdhtTbJaMYE",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Tiburtius, Martyr, and Susanna, Virgin Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/kdhtTbJaMYE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-11T11:30:00Z"
         }
       ]
     }
