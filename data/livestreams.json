@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-11T21:13:23.009Z",
+  "lastUpdated": "2026-08-11T22:10:22.641Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1Fp-OY_F2Vc",
-          "title": "Mass of St Clare - 12/8/26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/1Fp-OY_F2Vc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pAE135-jXOA",
           "title": "FSSPX Antwerpen - 12/08 H. CLARA van ASSISIË",
@@ -51,15 +42,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/i8ZHuY2fcns/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lw8CFtR-O9g",
-          "title": "Rosário e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/lw8CFtR-O9g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
