@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-11T16:56:43.069Z",
+  "lastUpdated": "2026-08-11T17:56:18.630Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nmN7UbVRmK8",
-          "title": "FSSPX Antwerpen - 11/08 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/nmN7UbVRmK8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oPBBZo6YVVo",
-          "title": "Rosenkranz und hl. Messe - 11. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/oPBBZo6YVVo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pAE135-jXOA",
           "title": "FSSPX Antwerpen - 12/08 H. CLARA van ASSISIË",
@@ -55,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "m8P85DpxDcQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/m8P85DpxDcQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9MjOGgSakEU",
           "title": "Mass",
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/9MjOGgSakEU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-11T16:58:00Z"
-        },
-        {
-          "id": "UI6aIcwB2R8",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/UI6aIcwB2R8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-11T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r7W2L9YjHZI",
@@ -89,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/r7W2L9YjHZI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-12T11:30:00Z"
+        },
+        {
+          "id": "UygEt8Qk6eA",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/UygEt8Qk6eA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-12T17:00:00Z"
+        },
+        {
+          "id": "EBEfTuUNLu4",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/EBEfTuUNLu4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-12T17:00:00Z"
         }
       ]
     }
