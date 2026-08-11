@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T08:12:14.333Z",
+  "lastUpdated": "2026-08-11T09:29:44.715Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ietV7fzsg8s",
+          "title": "Ofício de Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ietV7fzsg8s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "kdhtTbJaMYE",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Tiburtius, Martyr, and Susanna, Virgin Martyr)",
