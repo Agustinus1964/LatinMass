@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T10:26:03.896Z",
+  "lastUpdated": "2026-08-11T11:13:30.193Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/9PyL8LJrX6U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-11T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tzKjmoF7rfM",
@@ -55,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7Oq-9YJVh1U",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 08/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7Oq-9YJVh1U/mqdefault_live.jpg",
+          "id": "aPQMtudNPq8",
+          "title": "7am Requiem Mass for Anthony Santopietro (+). Tuesday, August 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/aPQMtudNPq8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
