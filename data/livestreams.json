@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-12T05:12:38.917Z",
+  "lastUpdated": "2026-08-12T06:51:56.797Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WGoHiFz8Sik",
-          "title": "Hl. Messe - hl. Klara von Assisi - 12. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/WGoHiFz8Sik/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pAE135-jXOA",
-          "title": "FSSPX Antwerpen - 12/08 H. CLARA van ASSISIË",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pAE135-jXOA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-12T05:30:00Z"
-        },
         {
           "id": "9nduck8Vj4E",
           "title": "Wed.Aug. 12, 2026    -    St. Clare,     Virgin",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9nduck8Vj4E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-12T11:15:00Z"
+        },
+        {
+          "id": "y1n3JTDgFKk",
+          "title": "Hl. Messe - 13. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/y1n3JTDgFKk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-13T05:15:00Z"
         }
       ]
     },
