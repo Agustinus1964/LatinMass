@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-12T11:46:31.989Z",
+  "lastUpdated": "2026-08-12T12:59:24.460Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9nduck8Vj4E",
-          "title": "Wed.Aug. 12, 2026    -    St. Clare,     Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/9nduck8Vj4E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "y1n3JTDgFKk",
           "title": "Hl. Messe - 13. August 2026",
@@ -37,20 +28,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "r7W2L9YjHZI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Clare, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/r7W2L9YjHZI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uKZKcUQE4vA",
-          "title": "7am Mass & Divine Office. St. Clare, Virgin. III. Wednesday, August 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/uKZKcUQE4vA/mqdefault_live.jpg",
+          "id": "bhC1T7bXD-E",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 08/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/bhC1T7bXD-E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EBEfTuUNLu4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-12T17:00:00Z"
+        },
+        {
+          "id": "ZXfIELXV4X8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Hyppolitus and Cassian, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ZXfIELXV4X8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-13T11:30:00Z"
         }
       ]
     }
