@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T08:13:25.614Z",
+  "lastUpdated": "2026-08-12T09:39:01.646Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DE6Ck7PxhFE",
+          "title": "Ofício de Prima e Missa rezada - St Clara",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/DE6Ck7PxhFE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "r7W2L9YjHZI",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Clare, Virgin)",
