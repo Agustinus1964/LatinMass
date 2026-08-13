@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T11:05:25.786Z",
+  "lastUpdated": "2026-08-13T12:07:38.752Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/41d6dVL1vX4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-13T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WYeba1SV8Sw",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PzBqwIK7BsY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T05:15:00Z"
+        },
+        {
+          "id": "Abufskqd_vw",
+          "title": "Fri. Aug. 14, 2026   -   Vigil of the Assumption",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Abufskqd_vw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T11:15:00Z"
         }
       ]
     },
@@ -46,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "u1hnlCMDP7M",
-          "title": "7am Mass & Divine Office. Feria. IV. Thursday, August 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/u1hnlCMDP7M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ZXfIELXV4X8",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Hyppolitus and Cassian, Martyrs)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/ZXfIELXV4X8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-13T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "RpMpgFh6ews",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 08/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/RpMpgFh6ews/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "9y1OfAkgU3k",
