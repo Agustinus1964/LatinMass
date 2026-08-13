@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T09:59:43.851Z",
+  "lastUpdated": "2026-08-13T11:05:25.786Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Dmy__hZEFCw",
-          "title": "Thursday 6 AM Traditional Catholic Mass 08/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Dmy__hZEFCw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "w5PfQJeOFcQ",
-          "title": "Ofício de Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/w5PfQJeOFcQ/mqdefault_live.jpg",
+          "id": "u1hnlCMDP7M",
+          "title": "7am Mass & Divine Office. Feria. IV. Thursday, August 13, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/u1hnlCMDP7M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
