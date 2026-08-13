@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-13T07:20:38.869Z",
+  "lastUpdated": "2026-08-13T08:49:21.699Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "y1n3JTDgFKk",
-          "title": "Hl. Messe - 13. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/y1n3JTDgFKk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "41d6dVL1vX4",
           "title": "Thu. Aug. 13, 2026    -    Ferial Day",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pjVvwX26mbg",
-          "title": "Thursday 13th August 2026: Saints Hipolitus & Cassian",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/pjVvwX26mbg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ZXfIELXV4X8",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Hyppolitus and Cassian, Martyrs)",
