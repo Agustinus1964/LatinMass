@@ -1,35 +1,26 @@
 {
-  "lastUpdated": "2026-08-13T15:55:20.503Z",
+  "lastUpdated": "2026-08-13T16:53:00.471Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WYeba1SV8Sw",
-          "title": "FSSPX Antwerpen - 13/08 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/WYeba1SV8Sw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pHPwhzLhGZs",
           "title": "FSSPX Antwerpen - 13/08 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/pHPwhzLhGZs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-13T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "PzBqwIK7BsY",
-          "title": "Hl. Messe - Vigil von Maria Himmelfahrt - 14. August 2026",
+          "id": "c2QaSOVJDxc",
+          "title": "Sakramentsandacht und hl. Messe - 13. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/PzBqwIK7BsY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-14T05:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/c2QaSOVJDxc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Abufskqd_vw",
@@ -66,12 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/P_lJBwAayMY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T15:45:00Z"
+        },
+        {
+          "id": "ymYQN4j_A18",
+          "title": "FSSPX Antwerpen - 14/08 VIGILIE van ONZE-LIEVE-VROUW-ten-HEMELOPNEMING",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/ymYQN4j_A18/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9-mxfCXtpdc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/9-mxfCXtpdc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-13T16:58:00Z"
+        },
         {
           "id": "9y1OfAkgU3k",
           "title": "Thursday",
