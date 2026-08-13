@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-13T04:07:24.786Z",
+  "lastUpdated": "2026-08-13T05:53:53.044Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "y1n3JTDgFKk",
+          "title": "Hl. Messe - 13. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/y1n3JTDgFKk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "41d6dVL1vX4",
           "title": "Thu. Aug. 13, 2026    -    Ferial Day",
@@ -23,15 +32,6 @@
           "scheduledTime": "2026-08-13T13:30:00Z"
         },
         {
-          "id": "c2QaSOVJDxc",
-          "title": "Sakramentsandacht und hl. Messe - 13. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/c2QaSOVJDxc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-13T15:00:00Z"
-        },
-        {
           "id": "pHPwhzLhGZs",
           "title": "FSSPX Antwerpen - 13/08 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/pHPwhzLhGZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-13T16:30:00Z"
+        },
+        {
+          "id": "PzBqwIK7BsY",
+          "title": "Hl. Messe - Vigil von Maria Himmelfahrt - 14. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/PzBqwIK7BsY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T05:15:00Z"
         }
       ]
     },
