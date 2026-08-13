@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-13T12:07:38.752Z",
+  "lastUpdated": "2026-08-13T13:55:25.313Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "41d6dVL1vX4",
-          "title": "Thu. Aug. 13, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/41d6dVL1vX4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WYeba1SV8Sw",
           "title": "FSSPX Antwerpen - 13/08 Priester-Uur-Gebed",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/WYeba1SV8Sw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-13T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pHPwhzLhGZs",
@@ -54,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZXfIELXV4X8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Hyppolitus and Cassian, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZXfIELXV4X8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RpMpgFh6ews",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 08/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/RpMpgFh6ews/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9y1OfAkgU3k",
           "title": "Thursday",
