@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T14:53:36.969Z",
+  "lastUpdated": "2026-08-13T15:55:20.503Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,33 @@
           "thumbnail": "https://i.ytimg.com/vi/Abufskqd_vw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T11:15:00Z"
+        },
+        {
+          "id": "erCnUvLlEEU",
+          "title": "FSSPX Antwerpen - 14/08 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/erCnUvLlEEU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T15:00:00Z"
+        },
+        {
+          "id": "rWAVIzYJTBA",
+          "title": "Vesper, Rosenkranz und hl. Messe - Vigil von Maria Himmelfahrt - 14. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/rWAVIzYJTBA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T15:30:00Z"
+        },
+        {
+          "id": "P_lJBwAayMY",
+          "title": "FSSPX Antwerpen - 14/08 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/P_lJBwAayMY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T15:45:00Z"
         }
       ]
     },
