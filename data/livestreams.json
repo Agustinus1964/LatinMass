@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T21:40:12.092Z",
+  "lastUpdated": "2026-08-13T22:36:30.402Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,24 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "w-3kPv9MLjw",
-          "title": "6pm Mass. Feria. IV. Thursday, August 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/w-3kPv9MLjw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fd5nSOVPrtE",
-          "title": "Benção do Santíssimo Sacramento e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fd5nSOVPrtE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "_0vT67SrTOw",
           "title": "Friday 14th August 2026: Vigil of the Assumption",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/uURKCqnZtTA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T17:00:00Z"
+        },
+        {
+          "id": "96mfHKFrX6M",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Assumption)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/96mfHKFrX6M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-14T22:30:00Z"
         }
       ]
     }
