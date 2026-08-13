@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T08:49:21.699Z",
+  "lastUpdated": "2026-08-13T09:59:43.851Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Dmy__hZEFCw",
+          "title": "Thursday 6 AM Traditional Catholic Mass 08/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Dmy__hZEFCw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "w5PfQJeOFcQ",
+          "title": "Ofício de Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/w5PfQJeOFcQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ZXfIELXV4X8",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Hyppolitus and Cassian, Martyrs)",
