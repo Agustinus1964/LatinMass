@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T20:38:25.458Z",
+  "lastUpdated": "2026-08-13T21:40:12.092Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -56,10 +56,19 @@
       "videos": [
         {
           "id": "w-3kPv9MLjw",
-          "title": "Divine Office & 6am Mass. Feria. IV. Thursday, August 13, 2026.",
+          "title": "6pm Mass. Feria. IV. Thursday, August 13, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/w-3kPv9MLjw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fd5nSOVPrtE",
+          "title": "Benção do Santíssimo Sacramento e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fd5nSOVPrtE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
