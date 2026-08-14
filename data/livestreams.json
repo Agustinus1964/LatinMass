@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-14T22:47:49.504Z",
+  "lastUpdated": "2026-08-14T23:17:18.728Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_yNKV2fFJ_E",
-          "title": "Mass of the Assumption of the BVM - 15/8/26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/_yNKV2fFJ_E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hBBpxZEcn9M",
           "title": "Assunzione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
@@ -55,20 +46,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "96mfHKFrX6M",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Assumption)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/96mfHKFrX6M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Ok3eElVDa0w",
           "title": "Divine Office, 6pm Mass & Holy Hour. Vigil of the Assumption. II. Friday, August 14, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Ok3eElVDa0w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8b2DZHdT4bk",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 08/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/8b2DZHdT4bk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T09:30:00Z"
+        },
+        {
+          "id": "cYdo5PEl5Ts",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/cYdo5PEl5Ts/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T12:00:00Z"
         },
         {
           "id": "6zyKn_MAE_w",
