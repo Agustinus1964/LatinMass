@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T09:56:14.367Z",
+  "lastUpdated": "2026-08-14T10:56:04.841Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Abufskqd_vw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T11:15:00Z"
-        },
-        {
-          "id": "erCnUvLlEEU",
-          "title": "FSSPX Antwerpen - 14/08 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/erCnUvLlEEU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-14T15:00:00Z"
         },
         {
           "id": "P_lJBwAayMY",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lVaSso0LGZA",
-          "title": "Ofício de Prima e Missa rezada - Vigília da Assunção da B.M.V.",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/lVaSso0LGZA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_0vT67SrTOw",
           "title": "Friday 14th August 2026: Vigil of the Assumption",
