@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T10:56:04.841Z",
+  "lastUpdated": "2026-08-14T11:41:31.687Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/Abufskqd_vw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-14T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "P_lJBwAayMY",
