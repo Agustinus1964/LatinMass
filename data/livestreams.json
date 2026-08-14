@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T07:17:55.843Z",
+  "lastUpdated": "2026-08-14T08:42:34.266Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JhUNOhq8cMc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T05:30:00Z"
+        },
+        {
+          "id": "dS4H1Dgw7RY",
+          "title": "FSSPX Antwerpen - 15/08 O-L-VROUW-ten-HEMEL-OPNEMING",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/dS4H1Dgw7RY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T08:00:00Z"
         }
       ]
     },
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/96mfHKFrX6M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T22:30:00Z"
+        },
+        {
+          "id": "5fLmk-om94s",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5fLmk-om94s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T07:30:00Z"
         }
       ]
     }
