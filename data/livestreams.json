@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-14T21:48:17.190Z",
+  "lastUpdated": "2026-08-14T22:17:54.827Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_yNKV2fFJ_E",
+          "title": "Mass of the Assumption of the BVM - 15/8/26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/_yNKV2fFJ_E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hBBpxZEcn9M",
           "title": "Assunzione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
@@ -51,15 +60,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Ok3eElVDa0w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "e4MKJQcf8L8",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/e4MKJQcf8L8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
