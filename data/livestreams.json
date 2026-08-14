@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T08:42:34.266Z",
+  "lastUpdated": "2026-08-14T09:56:14.367Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "lVaSso0LGZA",
+          "title": "Ofício de Prima e Missa rezada - Vigília da Assunção da B.M.V.",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/lVaSso0LGZA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "_0vT67SrTOw",
           "title": "Friday 14th August 2026: Vigil of the Assumption",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -107,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/5fLmk-om94s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T07:30:00Z"
+        },
+        {
+          "id": "rGZlgwHD73k",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rGZlgwHD73k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T09:00:00Z"
+        },
+        {
+          "id": "vLPD_-5TDWw",
+          "title": "Saturday 15th August 2026: Assumption of Our Lady",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T09:30:00Z"
         }
       ]
     }
