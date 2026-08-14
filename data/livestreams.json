@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T12:56:47.444Z",
+  "lastUpdated": "2026-08-14T14:15:04.701Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dS4H1Dgw7RY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T08:00:00Z"
+        },
+        {
+          "id": "5LzF9jYJdgQ",
+          "title": "Sat. Aug. 15, 2026    -    Assumption of the Blessed Virgin Mary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/5LzF9jYJdgQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T13:00:00Z"
         }
       ]
     },
@@ -46,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "p2TCmwOOLnY",
-          "title": "Friday 8 AM Catholic Mass for 08/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/p2TCmwOOLnY/mqdefault_live.jpg",
+          "id": "9uPmDjAcjXk",
+          "title": "El Santo Sacrificio de la Misa. 14 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/9uPmDjAcjXk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T09:30:00Z"
+        },
+        {
+          "id": "6zyKn_MAE_w",
+          "title": "FEAST OF THE ASSUMPTION, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/6zyKn_MAE_w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T14:00:00Z"
         }
       ]
     }
