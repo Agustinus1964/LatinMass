@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T22:17:54.827Z",
+  "lastUpdated": "2026-08-14T22:47:49.504Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "96mfHKFrX6M",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Assumption)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/96mfHKFrX6M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Ok3eElVDa0w",
           "title": "Divine Office, 6pm Mass & Holy Hour. Vigil of the Assumption. II. Friday, August 14, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Ok3eElVDa0w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "96mfHKFrX6M",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Assumption)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/96mfHKFrX6M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-14T22:30:00Z"
         },
         {
           "id": "5fLmk-om94s",
