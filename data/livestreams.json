@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-14T11:41:31.687Z",
+  "lastUpdated": "2026-08-14T12:56:47.444Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Abufskqd_vw",
-          "title": "Fri. Aug. 14, 2026   -   Vigil of the Assumption",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Abufskqd_vw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "P_lJBwAayMY",
           "title": "FSSPX Antwerpen - 14/08 H. Kruisweg",
@@ -54,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "p2TCmwOOLnY",
+          "title": "Friday 8 AM Catholic Mass for 08/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/p2TCmwOOLnY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "_0vT67SrTOw",
           "title": "Friday 14th August 2026: Vigil of the Assumption",
