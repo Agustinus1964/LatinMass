@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-14T18:24:02.149Z",
+  "lastUpdated": "2026-08-14T19:27:10.756Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "P_lJBwAayMY",
-          "title": "FSSPX Antwerpen - 14/08 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/P_lJBwAayMY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hBBpxZEcn9M",
           "title": "Assunzione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_0vT67SrTOw",
-          "title": "Friday 14th August 2026: Vigil of the Assumption",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/_0vT67SrTOw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "96mfHKFrX6M",
           "title": "Live Stream Holy Mass from Cleveland USA (The Vigil of the Assumption)",
