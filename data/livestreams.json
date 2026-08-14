@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-14T04:03:36.099Z",
+  "lastUpdated": "2026-08-14T05:53:06.630Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-08-14T15:00:00Z"
         },
         {
-          "id": "rWAVIzYJTBA",
-          "title": "Vesper, Rosenkranz und hl. Messe - Vigil von Maria Himmelfahrt - 14. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/rWAVIzYJTBA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-14T15:30:00Z"
-        },
-        {
           "id": "P_lJBwAayMY",
           "title": "FSSPX Antwerpen - 14/08 H. Kruisweg",
           "channel": "FSSPX Antwerpen",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ymYQN4j_A18/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-14T16:30:00Z"
+        },
+        {
+          "id": "JhUNOhq8cMc",
+          "title": "Amt - Maria Himmelfahrt - 15. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/JhUNOhq8cMc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T05:30:00Z"
         }
       ]
     },
