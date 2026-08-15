@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-15T09:21:09.622Z",
+  "lastUpdated": "2026-08-15T09:48:24.486Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dS4H1Dgw7RY",
-          "title": "FSSPX Antwerpen - 15/08 O-L-VROUW-ten-HEMEL-OPNEMING",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dS4H1Dgw7RY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hBBpxZEcn9M",
-          "title": "Assunzione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/hBBpxZEcn9M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5LzF9jYJdgQ",
           "title": "Sat. Aug. 15, 2026    -    Assumption of the Blessed Virgin Mary",
@@ -73,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rGZlgwHD73k",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/rGZlgwHD73k/mqdefault_live.jpg",
+          "id": "vLPD_-5TDWw",
+          "title": "Saturday 15th August 2026: Assumption of Our Lady",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -98,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/OtfQHToxJq4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "vLPD_-5TDWw",
-          "title": "Saturday 15th August 2026: Assumption of Our Lady",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T09:30:00Z"
         },
         {
           "id": "cYdo5PEl5Ts",
@@ -161,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VpmQ9IP3MfQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T09:00:00Z"
+        },
+        {
+          "id": "8_cTJK8hZjQ",
+          "title": "Sunday 16th August 2026: Twelfth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/8_cTJK8hZjQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T09:30:00Z"
         }
       ]
     }
