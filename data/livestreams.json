@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T02:31:40.494Z",
+  "lastUpdated": "2026-08-15T03:34:41.289Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6zyKn_MAE_w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T14:00:00Z"
+        },
+        {
+          "id": "VxH-I2sc3cs",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/VxH-I2sc3cs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T14:30:00Z"
         },
         {
           "id": "OeWUtDwQCZ4",
