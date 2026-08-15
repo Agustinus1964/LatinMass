@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-08-15T16:48:03.781Z",
+  "lastUpdated": "2026-08-15T17:15:30.360Z",
   "videos": [
+    {
+      "id": "Iy14NOBGRXo",
+      "title": "Holy Mass 8/15/26 - Assumption of the Blessed Virgin Mary",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/Iy14NOBGRXo/mqdefault.jpg",
+      "publishedAt": "2026-08-15T17:03:49Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "gJUa-m73oXk",
       "title": "LIVE Q&A With Dave Reilly: America First, Vatican II & More",
@@ -362,16 +372,6 @@
       "category": "Pelican Plus"
     },
     {
-      "id": "xAN1xJGcgOY",
-      "title": "Holy Mass 8/10/26 - Feast of St. Lawrence",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/xAN1xJGcgOY/mqdefault.jpg",
-      "publishedAt": "2026-08-11T01:11:15Z",
-      "category": "What Catholics Believe"
-    },
-    {
       "id": "huSsnJTKYfY",
       "title": "Make or Renew Your Personal Consecration",
       "channel": "The Fatima Center",
@@ -420,16 +420,6 @@
       "thumbnail": "https://i.ytimg.com/vi/DCTest2-9As/mqdefault.jpg",
       "publishedAt": "2026-08-10T00:54:17Z",
       "category": "Jeremiah Alphonsus"
-    },
-    {
-      "id": "NJO9fOvEOBg",
-      "title": "Learn to Love Our Lady More from the Three Fatima Children",
-      "channel": "The Fatima Center",
-      "channelId": "UCe87sEM3AUxAyhl5RhCpkcA",
-      "description": "What does it really mean to live the message of Fatima?\n\nIn this talk, we look to the lives of the three shepherd children—Francisco, Jacinta, and Lucia—to understand how Our Lady's message is meant t",
-      "thumbnail": "https://i.ytimg.com/vi/NJO9fOvEOBg/mqdefault.jpg",
-      "publishedAt": "2026-08-08T17:04:05Z",
-      "category": "Fatima Center"
     }
   ]
 }
