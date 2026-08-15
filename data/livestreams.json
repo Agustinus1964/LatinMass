@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T10:18:03.589Z",
+  "lastUpdated": "2026-08-15T10:46:18.134Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,15 +60,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "femjyGa9lq0",
-          "title": "Sainte messe de la fête de l'Assomption - SIGNUM MAGNUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/femjyGa9lq0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
