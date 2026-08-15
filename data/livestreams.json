@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T07:26:28.855Z",
+  "lastUpdated": "2026-08-15T07:52:03.952Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HlMs8H6BYTc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T17:00:00Z"
+        },
+        {
+          "id": "hcbbPomrUXE",
+          "title": "Amt - 12. Sonntag nach Pfingsten - 16. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/hcbbPomrUXE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T07:30:00Z"
         }
       ]
     },
