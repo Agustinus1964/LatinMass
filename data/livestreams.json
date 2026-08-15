@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T15:43:31.860Z",
+  "lastUpdated": "2026-08-15T16:18:48.963Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VxH-I2sc3cs",
-          "title": "Live Stream Holy Mass (Solemn High) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/VxH-I2sc3cs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5DzemDqHquA",
           "title": "Mass",
@@ -170,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TYhqUZfcTf8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T15:30:00Z"
+        },
+        {
+          "id": "8sjs7KQZaj4",
+          "title": "Vespers and Benediction — The Assumption of the Blessed Virgin Mary",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/8sjs7KQZaj4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T16:00:00Z"
         }
       ]
     }
