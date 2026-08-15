@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T08:53:49.927Z",
+  "lastUpdated": "2026-08-15T09:21:09.622Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "OtfQHToxJq4",
-          "title": "Laudes e Missa rezada - Assunção da B.M.V.",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/OtfQHToxJq4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "rGZlgwHD73k",
           "title": "Saturday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/rGZlgwHD73k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "femjyGa9lq0",
@@ -96,8 +87,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/femjyGa9lq0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "OtfQHToxJq4",
+          "title": "Laudes e Missa rezada - Assunção da B.M.V.",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/OtfQHToxJq4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vLPD_-5TDWw",
@@ -152,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/OeWUtDwQCZ4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T16:50:00Z"
+        },
+        {
+          "id": "VpmQ9IP3MfQ",
+          "title": "Sainte messe du XIIème dimanche après la Pentecôte -",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/VpmQ9IP3MfQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T09:00:00Z"
         }
       ]
     }
