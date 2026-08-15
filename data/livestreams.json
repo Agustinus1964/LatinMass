@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T16:48:42.400Z",
+  "lastUpdated": "2026-08-15T17:16:44.398Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/HlMs8H6BYTc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pz9Ok2sTWzg",
@@ -41,15 +41,6 @@
           "scheduledTime": "2026-08-16T14:00:00Z"
         },
         {
-          "id": "AkgWMQWBghU",
-          "title": "Sun. Aug. 16, 2026    -    Twelfth Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/AkgWMQWBghU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T14:00:00Z"
-        },
-        {
           "id": "2iM5rWjOhkk",
           "title": "Vesper und Sakramentsandacht -  12. Sonntag nach Pfingsten - 16. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2iM5rWjOhkk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T15:30:00Z"
+        },
+        {
+          "id": "UyfMDE6PVTw",
+          "title": "XII Sunday after Pentecost | August 16th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/UyfMDE6PVTw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T17:00:00Z"
         }
       ]
     },
@@ -69,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/uPK9YrTZql0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yLTgPwjZA-g",
-          "title": "Secondes vêpres de la fête de l'Assomption & procession du Vœu de Louis XIII - HODIE MARIA VIRGO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/yLTgPwjZA-g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/O-cgr0Zbf2o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T10:00:00Z"
+        },
+        {
+          "id": "BPZAH4omm60",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Twelfth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/BPZAH4omm60/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T12:00:00Z"
+        },
+        {
+          "id": "9Q0kyRu2yDc",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Twelfth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9Q0kyRu2yDc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T14:30:00Z"
         },
         {
           "id": "1eyHbIy2P1E",
