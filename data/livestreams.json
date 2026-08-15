@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T13:50:33.200Z",
+  "lastUpdated": "2026-08-15T14:17:25.169Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,13 +32,13 @@
           "scheduledTime": null
         },
         {
-          "id": "5LzF9jYJdgQ",
-          "title": "Sat. Aug. 15, 2026    -    Assumption of the Blessed Virgin Mary",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5LzF9jYJdgQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "rOZbBKgP728",
+          "title": "Assumption of Our Lady, August 15, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/rOZbBKgP728/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T14:45:52Z"
         },
         {
           "id": "3idBD2DM5ZQ",
@@ -75,6 +75,24 @@
           "thumbnail": "https://i.ytimg.com/vi/BYKaiQ06D1Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T11:15:00Z"
+        },
+        {
+          "id": "Ko8tYN8o228",
+          "title": "Low Mass - 12th Sunday after Pentecost - 8/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Ko8tYN8o228/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T14:00:00Z"
+        },
+        {
+          "id": "AkgWMQWBghU",
+          "title": "Sun. Aug. 16, 2026    -    Twelfth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/AkgWMQWBghU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T14:00:00Z"
         }
       ]
     },
@@ -82,20 +100,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "0wcicOV0cSI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0wcicOV0cSI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "q99tNRbTSio",
-          "title": "9am Mass. The Assumption of the Blessed Virgin Mary. I. Saturday, August 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/q99tNRbTSio/mqdefault_live.jpg",
+          "id": "6zyKn_MAE_w",
+          "title": "FEAST OF THE ASSUMPTION, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/6zyKn_MAE_w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "6zyKn_MAE_w",
-          "title": "FEAST OF THE ASSUMPTION, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/6zyKn_MAE_w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T14:00:00Z"
         },
         {
           "id": "VxH-I2sc3cs",
