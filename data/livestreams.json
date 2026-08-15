@@ -1,15 +1,33 @@
 {
-  "lastUpdated": "2026-08-15T13:08:55.831Z",
+  "lastUpdated": "2026-08-15T13:50:33.200Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jlYNEzRFmms",
+          "title": "The Assumption - 08/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/jlYNEzRFmms/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WdU1F7-Rj0M",
           "title": "Assumption of the Blessed Virgin - Pontifical High Mass - H.E. Bishop Michael Goldade-The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/WdU1F7-Rj0M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GqSrAm3zh2s",
+          "title": "August 15 - Assumption of the Blessed Virgin Mary",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/GqSrAm3zh2s/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/5LzF9jYJdgQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "jlYNEzRFmms",
-          "title": "The Assumption - 08/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jlYNEzRFmms/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T14:00:00Z"
         },
         {
           "id": "3idBD2DM5ZQ",
@@ -105,15 +114,6 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LHSaADMving",
-          "title": "Missa solene - Assunção B.M.V.",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/LHSaADMving/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
