@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T14:17:25.169Z",
+  "lastUpdated": "2026-08-15T14:46:45.294Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -100,20 +100,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "VxH-I2sc3cs",
+          "title": "Live Stream Holy Mass (Solemn High) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/VxH-I2sc3cs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "6zyKn_MAE_w",
           "title": "FEAST OF THE ASSUMPTION, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/6zyKn_MAE_w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3I4vF4defSE",
-          "title": "Saturday 9 AM Traditional Catholic Mass 08/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/3I4vF4defSE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "VxH-I2sc3cs",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/VxH-I2sc3cs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T14:30:00Z"
         },
         {
           "id": "yLTgPwjZA-g",
@@ -197,6 +188,15 @@
           "thumbnail": "https://i.ytimg.com/vi/O-cgr0Zbf2o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T10:00:00Z"
+        },
+        {
+          "id": "1eyHbIy2P1E",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/1eyHbIy2P1E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T14:45:00Z"
         }
       ]
     }
