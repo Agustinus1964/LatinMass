@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-15T05:21:47.680Z",
+  "lastUpdated": "2026-08-15T05:49:52.792Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JhUNOhq8cMc",
+          "title": "Amt - Maria Himmelfahrt - 15. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/JhUNOhq8cMc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hBBpxZEcn9M",
           "title": "Assunzione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
@@ -30,15 +39,6 @@
           "thumbnail": "https://i.ytimg.com/vi/jlYNEzRFmms/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T14:00:00Z"
-        },
-        {
-          "id": "3idBD2DM5ZQ",
-          "title": "Vesper und Sakramentsandacht - Maria Himmelfahrt - 15. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3idBD2DM5ZQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T15:30:00Z"
         },
         {
           "id": "HlMs8H6BYTc",
