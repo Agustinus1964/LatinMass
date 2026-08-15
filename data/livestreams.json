@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T15:15:38.600Z",
+  "lastUpdated": "2026-08-15T15:43:31.860Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,6 +14,15 @@
           "scheduledTime": null
         },
         {
+          "id": "3idBD2DM5ZQ",
+          "title": "Vesper und Sakramentsandacht - Maria Himmelfahrt - 15. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3idBD2DM5ZQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "HlMs8H6BYTc",
           "title": "Assumption of the Blessed Virgin Mary | August 15th",
           "channel": "Our Lady of the Angels",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/HlMs8H6BYTc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T17:00:00Z"
-        },
-        {
-          "id": "hcbbPomrUXE",
-          "title": "Amt - 12. Sonntag nach Pfingsten - 16. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/hcbbPomrUXE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T07:30:00Z"
         },
         {
           "id": "BYKaiQ06D1Q",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AkgWMQWBghU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T14:00:00Z"
+        },
+        {
+          "id": "2iM5rWjOhkk",
+          "title": "Vesper und Sakramentsandacht -  12. Sonntag nach Pfingsten - 16. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2iM5rWjOhkk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T15:30:00Z"
         }
       ]
     },
@@ -78,15 +87,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/5DzemDqHquA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6zyKn_MAE_w",
-          "title": "FEAST OF THE ASSUMPTION, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/6zyKn_MAE_w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1eyHbIy2P1E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T14:45:00Z"
+        },
+        {
+          "id": "TYhqUZfcTf8",
+          "title": "TWELFTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/TYhqUZfcTf8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T15:30:00Z"
         }
       ]
     }
