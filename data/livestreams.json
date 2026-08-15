@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-08-15T14:46:45.294Z",
+  "lastUpdated": "2026-08-15T15:15:38.600Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jlYNEzRFmms",
-          "title": "The Assumption - 08/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/jlYNEzRFmms/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WdU1F7-Rj0M",
-          "title": "Assumption of the Blessed Virgin - Pontifical High Mass - H.E. Bishop Michael Goldade-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/WdU1F7-Rj0M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GqSrAm3zh2s",
-          "title": "August 15 - Assumption of the Blessed Virgin Mary",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/GqSrAm3zh2s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "rOZbBKgP728",
           "title": "Assumption of Our Lady, August 15, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/rOZbBKgP728/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T14:45:52Z"
-        },
-        {
-          "id": "3idBD2DM5ZQ",
-          "title": "Vesper und Sakramentsandacht - Maria Himmelfahrt - 15. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3idBD2DM5ZQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HlMs8H6BYTc",
@@ -109,6 +73,15 @@
           "scheduledTime": null
         },
         {
+          "id": "5DzemDqHquA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/5DzemDqHquA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "6zyKn_MAE_w",
           "title": "FEAST OF THE ASSUMPTION, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -118,22 +91,13 @@
           "scheduledTime": null
         },
         {
-          "id": "psuAEYQc7lI",
-          "title": "Feast of the Assumption / Fête de l'Assomption",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "yLTgPwjZA-g",
           "title": "Secondes vêpres de la fête de l'Assomption & procession du Vœu de Louis XIII - HODIE MARIA VIRGO",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/yLTgPwjZA-g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OeWUtDwQCZ4",
@@ -164,7 +128,7 @@
         },
         {
           "id": "VpmQ9IP3MfQ",
-          "title": "Sainte messe du XIIème dimanche après la Pentecôte -",
+          "title": "Sainte messe de la fête de saint Joachim - DISPERSIT DEDIT PAUPERIBUS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/VpmQ9IP3MfQ/mqdefault_live.jpg",
