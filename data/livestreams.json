@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T05:49:52.792Z",
+  "lastUpdated": "2026-08-15T06:30:48.772Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5fLmk-om94s",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5fLmk-om94s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T07:30:00Z"
-        },
-        {
           "id": "rGZlgwHD73k",
           "title": "Saturday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/rGZlgwHD73k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T09:00:00Z"
+        },
+        {
+          "id": "femjyGa9lq0",
+          "title": "Sainte messe du XIème dimanche après la Pentecôte - ECCE DEUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/femjyGa9lq0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T09:00:00Z"
         },
@@ -107,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VxH-I2sc3cs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T14:30:00Z"
+        },
+        {
+          "id": "yLTgPwjZA-g",
+          "title": "Secondesvêpres de la fête de saint Laurent -",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/yLTgPwjZA-g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T15:00:00Z"
         },
         {
           "id": "OeWUtDwQCZ4",
