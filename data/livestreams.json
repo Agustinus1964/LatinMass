@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T12:29:22.987Z",
+  "lastUpdated": "2026-08-15T13:08:55.831Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/WdU1F7-Rj0M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5LzF9jYJdgQ",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/5LzF9jYJdgQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jlYNEzRFmms",
@@ -73,11 +73,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cYdo5PEl5Ts",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/cYdo5PEl5Ts/mqdefault_live.jpg",
+          "id": "0wcicOV0cSI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/0wcicOV0cSI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "q99tNRbTSio",
+          "title": "9am Mass. The Assumption of the Blessed Virgin Mary. I. Saturday, August 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/q99tNRbTSio/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3I4vF4defSE",
+          "title": "Saturday 9 AM Traditional Catholic Mass 08/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/3I4vF4defSE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "psuAEYQc7lI",
+          "title": "Feast of the Assumption / Fête de l'Assomption",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -89,15 +116,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LHSaADMving/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "psuAEYQc7lI",
-          "title": "Feast of the Assumption / Fête de l'Assomption",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T12:45:00Z"
         },
         {
           "id": "6zyKn_MAE_w",
