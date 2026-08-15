@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-15T17:43:59.596Z",
+  "lastUpdated": "2026-08-15T18:22:09.424Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HlMs8H6BYTc",
-          "title": "Assumption of the Blessed Virgin Mary | August 15th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/HlMs8H6BYTc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "pz9Ok2sTWzg",
           "title": "12th Sunday after Whitsun",
@@ -71,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/uPK9YrTZql0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "OeWUtDwQCZ4",
-          "title": "Saturday 1 pm Beauchesane and Taylor Marriage",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/OeWUtDwQCZ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T16:50:00Z"
         },
         {
           "id": "wShL4009ITw",
