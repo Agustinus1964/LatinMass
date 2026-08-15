@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T10:46:18.134Z",
+  "lastUpdated": "2026-08-15T11:15:55.187Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hcbbPomrUXE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T07:30:00Z"
+        },
+        {
+          "id": "BYKaiQ06D1Q",
+          "title": "Low Mass - 12th Sunday after Pentecost - 8/16/2026",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BYKaiQ06D1Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T11:15:00Z"
         }
       ]
     },
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vLPD_-5TDWw",
-          "title": "Saturday 15th August 2026: Assumption of Our Lady",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/vLPD_-5TDWw/mqdefault_live.jpg",
+          "id": "duoXmtTZo2Q",
+          "title": "Saturday 7 AM Catholic Mass for 08/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/duoXmtTZo2Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
