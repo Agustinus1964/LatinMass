@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-08-15T07:52:03.952Z",
+  "lastUpdated": "2026-08-15T08:22:25.502Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "dS4H1Dgw7RY",
+          "title": "FSSPX Antwerpen - 15/08 O-L-VROUW-ten-HEMEL-OPNEMING",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/dS4H1Dgw7RY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hBBpxZEcn9M",
           "title": "Assunzione della Beata Vergine Maria - Santa Messa cantata - FSSPX Italia",
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
           "thumbnail": "https://i.ytimg.com/vi/hBBpxZEcn9M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T08:25:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5LzF9jYJdgQ",
@@ -83,7 +92,7 @@
         },
         {
           "id": "femjyGa9lq0",
-          "title": "Sainte messe du XIème dimanche après la Pentecôte - ECCE DEUS",
+          "title": "Sainte messe de la fête de l'Assomption - SIGNUM MAGNUM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/femjyGa9lq0/mqdefault_live.jpg",
@@ -128,7 +137,7 @@
         },
         {
           "id": "yLTgPwjZA-g",
-          "title": "Secondesvêpres de la fête de saint Laurent -",
+          "title": "Secondes vêpres de la fête de l'Assomption & procession du Vœu de Louis XIII - HODIE MARIA VIRGO",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/yLTgPwjZA-g/mqdefault_live.jpg",
