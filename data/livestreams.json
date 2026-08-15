@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T08:22:25.502Z",
+  "lastUpdated": "2026-08-15T08:53:49.927Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,13 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "XltS-aPBoRg",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/XltS-aPBoRg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-15T07:30:00Z"
+          "id": "OtfQHToxJq4",
+          "title": "Laudes e Missa rezada - Assunção da B.M.V.",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/OtfQHToxJq4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rGZlgwHD73k",
