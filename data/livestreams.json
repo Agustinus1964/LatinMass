@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-15T11:43:08.349Z",
+  "lastUpdated": "2026-08-15T12:29:22.987Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WdU1F7-Rj0M",
+          "title": "Assumption of the Blessed Virgin - Pontifical High Mass - H.E. Bishop Michael Goldade-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/WdU1F7-Rj0M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-15T13:00:00Z"
+        },
         {
           "id": "5LzF9jYJdgQ",
           "title": "Sat. Aug. 15, 2026    -    Assumption of the Blessed Virgin Mary",
@@ -64,22 +73,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "duoXmtTZo2Q",
-          "title": "Saturday 7 AM Catholic Mass for 08/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/duoXmtTZo2Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "cYdo5PEl5Ts",
           "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Assumption of the Blessed Virgin Mary)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/cYdo5PEl5Ts/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "LHSaADMving",
+          "title": "Missa solene - Assunção B.M.V.",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/LHSaADMving/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "psuAEYQc7lI",
+          "title": "Feast of the Assumption / Fête de l'Assomption",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/psuAEYQc7lI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-15T12:00:00Z"
+          "scheduledTime": "2026-08-15T12:45:00Z"
         },
         {
           "id": "6zyKn_MAE_w",
