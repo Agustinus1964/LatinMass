@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-15T16:18:48.963Z",
+  "lastUpdated": "2026-08-15T16:48:42.400Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rOZbBKgP728",
-          "title": "Assumption of Our Lady, August 15, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/rOZbBKgP728/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3idBD2DM5ZQ",
-          "title": "Vesper und Sakramentsandacht - Maria Himmelfahrt - 15. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3idBD2DM5ZQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HlMs8H6BYTc",
           "title": "Assumption of the Blessed Virgin Mary | August 15th",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HlMs8H6BYTc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-15T17:00:00Z"
+        },
+        {
+          "id": "pz9Ok2sTWzg",
+          "title": "12th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/pz9Ok2sTWzg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T10:00:00Z"
         },
         {
           "id": "BYKaiQ06D1Q",
@@ -73,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5DzemDqHquA",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/5DzemDqHquA/mqdefault_live.jpg",
+          "id": "uPK9YrTZql0",
+          "title": "Solemn High Nuptial Mass. 1pm. Saturday, August 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/uPK9YrTZql0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
