@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T15:16:59.639Z",
+  "lastUpdated": "2026-08-16T15:44:23.482Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,6 +10,15 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/ohKozmIaqYE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "2iM5rWjOhkk",
+          "title": "Vesper und Sakramentsandacht -  12. Sonntag nach Pfingsten - 16. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2iM5rWjOhkk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -55,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9Q0kyRu2yDc",
-          "title": "Live Stream Holy Mass (10:30 Low) from Cleveland USA (The Twelfth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9Q0kyRu2yDc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "kdviegzqjus",
           "title": "Mass",
           "channel": "ICKSP",
@@ -78,6 +78,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/OSa0A7Fq8Ak/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TYhqUZfcTf8",
+          "title": "TWELFTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/TYhqUZfcTf8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -109,40 +118,13 @@
           "scheduledTime": null
         },
         {
-          "id": "1eyHbIy2P1E",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/1eyHbIy2P1E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iaoGt6b5CiM",
-          "title": "12th Sunday after Pentecost / 12e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/iaoGt6b5CiM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T14:30:00Z"
-        },
-        {
-          "id": "TYhqUZfcTf8",
-          "title": "TWELFTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/TYhqUZfcTf8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T15:30:00Z"
-        },
-        {
           "id": "R9eqb6PdLN8",
           "title": "Secondes vêpres de la saint Joachim - LAUDEMUS VIRUM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/R9eqb6PdLN8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8sjs7KQZaj4",
