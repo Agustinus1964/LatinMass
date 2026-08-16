@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T16:48:50.753Z",
+  "lastUpdated": "2026-08-16T17:15:26.109Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/UyfMDE6PVTw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XWTWfMU4-8I",
@@ -55,47 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TYhqUZfcTf8",
-          "title": "TWELFTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/TYhqUZfcTf8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "K7CIOwwGO8E",
-          "title": "Sunday 11 AM Sung Mass 2026-08-16",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/K7CIOwwGO8E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "OihBUA5V2lQ",
           "title": "Santa Misa Dominical.16 de agosto 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/OihBUA5V2lQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8sjs7KQZaj4",
-          "title": "Vespers and Benediction — The Assumption of the Blessed Virgin Mary",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/8sjs7KQZaj4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "R9eqb6PdLN8",
-          "title": "Secondes vêpres de la saint Joachim - LAUDEMUS VIRUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/R9eqb6PdLN8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Do9KmSseg94/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-17T11:30:00Z"
+        },
+        {
+          "id": "6YC7lS5gz3o",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6YC7lS5gz3o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-17T17:00:00Z"
+        },
+        {
+          "id": "XQG6P-8M_Hs",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/XQG6P-8M_Hs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-17T17:00:00Z"
         }
       ]
     }
