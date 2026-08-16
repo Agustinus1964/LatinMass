@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-16T06:32:47.694Z",
+  "lastUpdated": "2026-08-16T07:27:10.685Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hcbbPomrUXE",
+          "title": "Amt - 12. Sonntag nach Pfingsten - 16. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/hcbbPomrUXE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0HcCdhW7t90",
           "title": "XII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
@@ -69,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/wShL4009ITw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_iB1YglsKk4",
