@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-16T21:42:39.723Z",
+  "lastUpdated": "2026-08-16T22:15:55.285Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "DHtTrCGyaeI",
-          "title": "St Hyacinth of Poland - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/DHtTrCGyaeI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "XWTWfMU4-8I",
           "title": "Hl. Messe - Weihefest der Kathedrale von St. Gallen - 17. August 2026",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Rv5JeSNPil8",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Rv5JeSNPil8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Do9KmSseg94",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hyacinth, Confessor)",
