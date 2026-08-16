@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T10:18:21.823Z",
+  "lastUpdated": "2026-08-16T10:47:35.519Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
           "scheduledTime": null
         },
         {
+          "id": "WMDqsLpssJI",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WMDqsLpssJI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "O-cgr0Zbf2o",
           "title": "11am — The Assumption of the Blessed Virgin Mary",
           "channel": "Oxford Oratory",
@@ -73,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "VpmQ9IP3MfQ",
-          "title": "Sainte messe de la fête de saint Joachim - DISPERSIT DEDIT PAUPERIBUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/VpmQ9IP3MfQ/mqdefault_live.jpg",
+          "id": "-raPOEgPeb4",
+          "title": "Missa rezada - XII Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-raPOEgPeb4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
