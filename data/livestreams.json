@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T13:52:48.366Z",
+  "lastUpdated": "2026-08-16T14:17:46.627Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/4_pzetPdC7I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "AkgWMQWBghU",
+          "title": "Sun. Aug. 16, 2026    -    Twelfth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/AkgWMQWBghU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ohKozmIaqYE",
+          "title": "Twelfth Sunday after Pentecost, August 16, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/ohKozmIaqYE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T14:45:27Z"
         },
         {
           "id": "UyfMDE6PVTw",
@@ -64,11 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "IWjWpFQORGQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/IWjWpFQORGQ/mqdefault_live.jpg",
+          "id": "OSa0A7Fq8Ak",
+          "title": "10:30am Sung Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/OSa0A7Fq8Ak/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,11 +100,11 @@
           "scheduledTime": null
         },
         {
-          "id": "2u-6LJQNdY8",
+          "id": "iaoGt6b5CiM",
           "title": "12th Sunday after Pentecost / 12e dimanche après la Pentecôte",
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/2u-6LJQNdY8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/iaoGt6b5CiM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T14:30:00Z"
         },
