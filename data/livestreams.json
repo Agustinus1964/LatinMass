@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T04:31:03.129Z",
+  "lastUpdated": "2026-08-16T05:23:19.348Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UyfMDE6PVTw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T17:00:00Z"
+        },
+        {
+          "id": "XWTWfMU4-8I",
+          "title": "Hl. Messe - Weihefest der Kathedrale von St. Gallen - 17. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/XWTWfMU4-8I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-17T05:15:00Z"
         }
       ]
     },
