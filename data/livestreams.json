@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T09:50:25.928Z",
+  "lastUpdated": "2026-08-16T10:18:21.823Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/pz9Ok2sTWzg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BYKaiQ06D1Q",
@@ -64,6 +64,15 @@
           "scheduledTime": null
         },
         {
+          "id": "O-cgr0Zbf2o",
+          "title": "11am — The Assumption of the Blessed Virgin Mary",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/O-cgr0Zbf2o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "VpmQ9IP3MfQ",
           "title": "Sainte messe de la fête de saint Joachim - DISPERSIT DEDIT PAUPERIBUS",
           "channel": "Ite Missa Est",
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/VpmQ9IP3MfQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "O-cgr0Zbf2o",
-          "title": "11am — The Assumption of the Blessed Virgin Mary",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/O-cgr0Zbf2o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T10:00:00Z"
         },
         {
           "id": "BPZAH4omm60",
