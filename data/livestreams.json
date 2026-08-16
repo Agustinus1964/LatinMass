@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T21:15:37.936Z",
+  "lastUpdated": "2026-08-16T21:42:39.723Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Rv5JeSNPil8",
+          "title": "Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Rv5JeSNPil8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Do9KmSseg94",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hyacinth, Confessor)",
