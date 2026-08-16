@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T10:47:35.519Z",
+  "lastUpdated": "2026-08-16T11:16:23.623Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/XWTWfMU4-8I/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-17T05:15:00Z"
+        },
+        {
+          "id": "aziWjZ4y174",
+          "title": "Mon. Aug. 17, 2026    -    St. Hyacinth,      Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/aziWjZ4y174/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-17T11:15:00Z"
         }
       ]
     },
@@ -55,20 +64,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8_cTJK8hZjQ",
-          "title": "Sunday 16th August 2026: Twelfth Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/8_cTJK8hZjQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "WMDqsLpssJI",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/WMDqsLpssJI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Rhw21X3mxR8",
+          "title": "Sunday 7 AM Catholic Mass for 08/16/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Rhw21X3mxR8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -92,21 +101,12 @@
         },
         {
           "id": "BPZAH4omm60",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Twelfth Sunday after Pentecost)",
+          "title": "Live Stream Holy Mass (8:00 Low) from Cleveland USA (The Twelfth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/BPZAH4omm60/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T12:00:00Z"
-        },
-        {
-          "id": "9Q0kyRu2yDc",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Twelfth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9Q0kyRu2yDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T14:30:00Z"
         },
         {
           "id": "1eyHbIy2P1E",
