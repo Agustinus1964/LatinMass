@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T15:44:23.482Z",
+  "lastUpdated": "2026-08-16T16:18:59.759Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "OSa0A7Fq8Ak",
-          "title": "10:30am Solemn High Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/OSa0A7Fq8Ak/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "TYhqUZfcTf8",
           "title": "TWELFTH SUNDAY AFTER PENTECOST, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -118,6 +109,15 @@
           "scheduledTime": null
         },
         {
+          "id": "8sjs7KQZaj4",
+          "title": "Vespers and Benediction — The Assumption of the Blessed Virgin Mary",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/8sjs7KQZaj4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "R9eqb6PdLN8",
           "title": "Secondes vêpres de la saint Joachim - LAUDEMUS VIRUM",
           "channel": "Ite Missa Est",
@@ -125,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/R9eqb6PdLN8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "8sjs7KQZaj4",
-          "title": "Vespers and Benediction — The Assumption of the Blessed Virgin Mary",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/8sjs7KQZaj4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T16:00:00Z"
         },
         {
           "id": "BDhJwGJpCto",
