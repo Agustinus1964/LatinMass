@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-16T11:16:23.623Z",
+  "lastUpdated": "2026-08-16T11:43:14.618Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "BYKaiQ06D1Q",
+          "title": "Low Mass - 12th Sunday after Pentecost - 8/16/2026",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BYKaiQ06D1Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "pz9Ok2sTWzg",
           "title": "12th Sunday after Whitsun",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/pz9Ok2sTWzg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "BYKaiQ06D1Q",
-          "title": "Low Mass - 12th Sunday after Pentecost - 8/16/2026",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/BYKaiQ06D1Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T11:15:00Z"
         },
         {
           "id": "Ko8tYN8o228",
@@ -78,15 +78,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/Rhw21X3mxR8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "O-cgr0Zbf2o",
-          "title": "11am — The Assumption of the Blessed Virgin Mary",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/O-cgr0Zbf2o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
