@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-16T02:39:33.621Z",
+  "lastUpdated": "2026-08-16T03:43:53.189Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GwHk1jRy7yk",
-          "title": "Sung Mass - 12th Sunday after Pentecost",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/GwHk1jRy7yk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0HcCdhW7t90",
           "title": "XII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
@@ -161,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8sjs7KQZaj4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T16:00:00Z"
+        },
+        {
+          "id": "BDhJwGJpCto",
+          "title": "God is Calling How Will You Respond?",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/BDhJwGJpCto/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-16T18:00:00Z"
         }
       ]
     }
