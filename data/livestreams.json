@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-08-16T14:47:06.926Z",
+  "lastUpdated": "2026-08-16T15:16:59.639Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Ko8tYN8o228",
-          "title": "Low Mass - 12th Sunday after Pentecost - 8/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Ko8tYN8o228/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5wazyh3XI6U",
-          "title": "Twelfth Sunday After Pentecost-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/5wazyh3XI6U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4_pzetPdC7I",
-          "title": "12th Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/4_pzetPdC7I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AkgWMQWBghU",
-          "title": "Sun. Aug. 16, 2026    -    Twelfth Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/AkgWMQWBghU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ohKozmIaqYE",
           "title": "Twelfth Sunday after Pentecost, August 16, 2026",
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/ohKozmIaqYE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T14:45:27Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UyfMDE6PVTw",
@@ -75,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aziWjZ4y174/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-17T11:15:00Z"
+        },
+        {
+          "id": "Nt56LHLL2tA",
+          "title": "FSSPX Antwerpen - 17/08 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Nt56LHLL2tA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-17T15:00:00Z"
         }
       ]
     },
@@ -91,11 +64,29 @@
           "scheduledTime": null
         },
         {
+          "id": "kdviegzqjus",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/kdviegzqjus/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "OSa0A7Fq8Ak",
-          "title": "10:30am Sung Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
+          "title": "10:30am Solemn High Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/OSa0A7Fq8Ak/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "K7CIOwwGO8E",
+          "title": "Sunday 11 AM Sung Mass 2026-08-16",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/K7CIOwwGO8E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -105,6 +96,15 @@
           "channel": "St. Clement's Parish Paroisse St-Clement",
           "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
           "thumbnail": "https://i.ytimg.com/vi/iiAXD8s0Ick/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "OihBUA5V2lQ",
+          "title": "Santa Misa Dominical.16 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/OihBUA5V2lQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
