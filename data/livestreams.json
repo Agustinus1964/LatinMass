@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T14:17:46.627Z",
+  "lastUpdated": "2026-08-16T14:47:06.926Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -82,6 +82,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "9Q0kyRu2yDc",
+          "title": "Live Stream Holy Mass (10:30 Low) from Cleveland USA (The Twelfth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9Q0kyRu2yDc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "OSa0A7Fq8Ak",
           "title": "10:30am Sung Mass. Twelfth Sunday after Pentecost. II. August 16, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -91,11 +100,20 @@
           "scheduledTime": null
         },
         {
-          "id": "nrRk7dV4Qo8",
-          "title": "Missa Cantada XII Domingo depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/nrRk7dV4Qo8/mqdefault_live.jpg",
+          "id": "iiAXD8s0Ick",
+          "title": "12th Sunday after Pentecost / 12 dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/iiAXD8s0Ick/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1eyHbIy2P1E",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/1eyHbIy2P1E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -107,15 +125,6 @@
           "thumbnail": "https://i.ytimg.com/vi/iaoGt6b5CiM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-16T14:30:00Z"
-        },
-        {
-          "id": "1eyHbIy2P1E",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/1eyHbIy2P1E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-16T14:45:00Z"
         },
         {
           "id": "TYhqUZfcTf8",
