@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-16T07:54:06.891Z",
+  "lastUpdated": "2026-08-16T08:23:16.622Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "FOOODxkWHno",
+          "title": "FSSPX Antwerpen - 16/08 12° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/FOOODxkWHno/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hcbbPomrUXE",
           "title": "Amt - 12. Sonntag nach Pfingsten - 16. August 2026",
