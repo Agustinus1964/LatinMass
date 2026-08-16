@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-15T23:43:03.784Z",
+  "lastUpdated": "2026-08-16T01:03:53.280Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "RCzXY37GbbE",
+          "title": "TWELFTH SUNDAY AFTER PENTECOST - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/RCzXY37GbbE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "0HcCdhW7t90",
           "title": "XII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
