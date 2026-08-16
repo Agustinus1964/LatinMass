@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-16T16:18:59.759Z",
+  "lastUpdated": "2026-08-16T16:48:50.753Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ohKozmIaqYE",
-          "title": "Twelfth Sunday after Pentecost, August 16, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/ohKozmIaqYE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2iM5rWjOhkk",
-          "title": "Vesper und Sakramentsandacht -  12. Sonntag nach Pfingsten - 16. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/2iM5rWjOhkk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UyfMDE6PVTw",
           "title": "XII Sunday after Pentecost | August 16th",
@@ -57,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Nt56LHLL2tA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-17T15:00:00Z"
+        },
+        {
+          "id": "hfco2V1D8Kc",
+          "title": "FSSPX Antwerpen - 17/08 H. HYACINTHUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/hfco2V1D8Kc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-17T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kdviegzqjus",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/kdviegzqjus/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TYhqUZfcTf8",
           "title": "TWELFTH SUNDAY AFTER PENTECOST, 2026",
@@ -87,15 +69,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/K7CIOwwGO8E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iiAXD8s0Ick",
-          "title": "12th Sunday after Pentecost / 12 dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/iiAXD8s0Ick/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
