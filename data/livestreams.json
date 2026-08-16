@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-16T07:27:10.685Z",
+  "lastUpdated": "2026-08-16T07:54:06.891Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -72,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wShL4009ITw",
-          "title": "8am — 12th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/wShL4009ITw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_iB1YglsKk4",
           "title": "9:30am — The Assumption of the Blessed Virgin Mary",
