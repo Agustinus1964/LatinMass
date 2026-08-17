@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T11:25:50.476Z",
+  "lastUpdated": "2026-08-17T11:49:29.993Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "Do9KmSseg94",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hyacinth, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Do9KmSseg94/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "l9Jpeuhmfxo",
           "title": "7am Mass & Divine Office. St. Hyacinth, Confessor. III. Monday, August 17, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -62,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/l9Jpeuhmfxo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Do9KmSseg94",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hyacinth, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Do9KmSseg94/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T11:30:00Z"
         },
         {
           "id": "lSf7RdUbeYQ",
