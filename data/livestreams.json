@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T15:48:04.133Z",
+  "lastUpdated": "2026-08-17T16:21:46.586Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,6 +14,15 @@
           "scheduledTime": null
         },
         {
+          "id": "oCB031D-OGE",
+          "title": "Rosenkranz und hl. Messe - Weihefest der Kathedrale von St. Gallen - 17. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/oCB031D-OGE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "hfco2V1D8Kc",
           "title": "FSSPX Antwerpen - 17/08 H. HYACINTHUS",
           "channel": "FSSPX Antwerpen",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hfco2V1D8Kc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-17T16:30:00Z"
-        },
-        {
-          "id": "akd8obyNRdQ",
-          "title": "Hl. Messe - 18. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/akd8obyNRdQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-18T05:15:00Z"
         },
         {
           "id": "JSiSRBhyuIk",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_bmxC2HxuQI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-18T15:00:00Z"
+        },
+        {
+          "id": "B7rl_4BO6FI",
+          "title": "Rosenkranz und hl. Messe - 18. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/B7rl_4BO6FI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T16:00:00Z"
         }
       ]
     },
