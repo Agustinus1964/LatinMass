@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-17T20:52:14.274Z",
+  "lastUpdated": "2026-08-17T21:21:15.642Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7-UNUlyN7nc",
+          "title": "Ferial 18 Aug 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/7-UNUlyN7nc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "JSiSRBhyuIk",
           "title": "Tue. Aug. 18, 2026    -    Ferial Day",
@@ -45,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mW3Z7c1owBg",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/mW3Z7c1owBg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "egDO5rrxE3w",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Agapitus, Martyr)",
