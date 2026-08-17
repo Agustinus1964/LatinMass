@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T10:56:51.881Z",
+  "lastUpdated": "2026-08-17T11:25:50.476Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/aziWjZ4y174/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Nt56LHLL2tA",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/akd8obyNRdQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-18T05:15:00Z"
+        },
+        {
+          "id": "JSiSRBhyuIk",
+          "title": "Tue. Aug. 18, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/JSiSRBhyuIk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T11:15:00Z"
         }
       ]
     },
