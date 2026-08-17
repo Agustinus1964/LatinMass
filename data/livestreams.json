@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T04:36:38.613Z",
+  "lastUpdated": "2026-08-17T05:31:20.570Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/XWTWfMU4-8I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aziWjZ4y174",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hfco2V1D8Kc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-17T16:30:00Z"
+        },
+        {
+          "id": "akd8obyNRdQ",
+          "title": "Hl. Messe - 18. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/akd8obyNRdQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T05:15:00Z"
         }
       ]
     },
