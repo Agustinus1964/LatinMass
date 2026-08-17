@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T17:22:54.503Z",
+  "lastUpdated": "2026-08-17T17:53:53.716Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,24 +51,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/yIdSjy-OH9A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lSf7RdUbeYQ",
-          "title": "Monday 17th August 2026: Saint Hyacinth",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/lSf7RdUbeYQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6YC7lS5gz3o",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6YC7lS5gz3o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
