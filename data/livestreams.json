@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-17T16:53:44.859Z",
+  "lastUpdated": "2026-08-17T17:22:54.503Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hfco2V1D8Kc",
-          "title": "FSSPX Antwerpen - 17/08 H. HYACINTHUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hfco2V1D8Kc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oCB031D-OGE",
-          "title": "Rosenkranz und hl. Messe - Weihefest der Kathedrale von St. Gallen - 17. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/oCB031D-OGE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "JSiSRBhyuIk",
           "title": "Tue. Aug. 18, 2026    -    Ferial Day",
@@ -64,6 +46,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "yIdSjy-OH9A",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/yIdSjy-OH9A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "lSf7RdUbeYQ",
           "title": "Monday 17th August 2026: Saint Hyacinth",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -73,22 +64,13 @@
           "scheduledTime": null
         },
         {
-          "id": "yIdSjy-OH9A",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/yIdSjy-OH9A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T16:58:00Z"
-        },
-        {
           "id": "6YC7lS5gz3o",
           "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/6YC7lS5gz3o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "XQG6P-8M_Hs",
@@ -96,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/XQG6P-8M_Hs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "egDO5rrxE3w",
@@ -107,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/egDO5rrxE3w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-18T11:30:00Z"
+        },
+        {
+          "id": "9GmAuhFz3n8",
+          "title": "Tuesday 18th August 2026: Saint Agapitus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/9GmAuhFz3n8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T17:00:00Z"
+        },
+        {
+          "id": "RyH-q_NZldY",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/RyH-q_NZldY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T17:00:00Z"
+        },
+        {
+          "id": "49AuKgvm2as",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/49AuKgvm2as/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T17:00:00Z"
         }
       ]
     }
