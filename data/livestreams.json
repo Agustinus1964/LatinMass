@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-17T16:21:46.586Z",
+  "lastUpdated": "2026-08-17T16:53:44.859Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Nt56LHLL2tA",
-          "title": "FSSPX Antwerpen - 17/08 Aanbidding met Rozenhoedje",
+          "id": "hfco2V1D8Kc",
+          "title": "FSSPX Antwerpen - 17/08 H. HYACINTHUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Nt56LHLL2tA/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/hfco2V1D8Kc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oCB031D-OGE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "hfco2V1D8Kc",
-          "title": "FSSPX Antwerpen - 17/08 H. HYACINTHUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hfco2V1D8Kc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-17T16:30:00Z"
         },
         {
           "id": "JSiSRBhyuIk",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/B7rl_4BO6FI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-18T16:00:00Z"
+        },
+        {
+          "id": "IKmxqKpdutM",
+          "title": "FSSPX Antwerpen - 18/08 DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/IKmxqKpdutM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-18T16:30:00Z"
         }
       ]
     },
@@ -69,8 +69,17 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/lSf7RdUbeYQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "yIdSjy-OH9A",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/yIdSjy-OH9A/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-17T17:00:00Z"
+          "scheduledTime": "2026-08-17T16:58:00Z"
         },
         {
           "id": "6YC7lS5gz3o",
