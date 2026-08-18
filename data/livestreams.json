@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T10:33:22.961Z",
+  "lastUpdated": "2026-08-18T11:20:41.320Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/JSiSRBhyuIk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-18T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_bmxC2HxuQI",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WxmwfGLkkAk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-19T05:30:00Z"
+        },
+        {
+          "id": "O_R8zqyKZvQ",
+          "title": "Wed. Aug. 19, 2026    -    St. John Eudes,     Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/O_R8zqyKZvQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T11:15:00Z"
         }
       ]
     },
@@ -64,11 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iDBdlaG_uAA",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 08/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/iDBdlaG_uAA/mqdefault_live.jpg",
+          "id": "OlvfFmkS5k4",
+          "title": "7am Mass & Divine Office. Feria. IV. Tuesday, August 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/OlvfFmkS5k4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
