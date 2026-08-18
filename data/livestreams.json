@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-18T05:01:16.596Z",
+  "lastUpdated": "2026-08-18T05:53:45.854Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "akd8obyNRdQ",
+          "title": "Hl. Messe - 18. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/akd8obyNRdQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "JSiSRBhyuIk",
           "title": "Tue. Aug. 18, 2026    -    Ferial Day",
@@ -32,15 +41,6 @@
           "scheduledTime": "2026-08-18T16:00:00Z"
         },
         {
-          "id": "B7rl_4BO6FI",
-          "title": "Rosenkranz und hl. Messe - 18. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/B7rl_4BO6FI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-18T16:00:00Z"
-        },
-        {
           "id": "IKmxqKpdutM",
           "title": "FSSPX Antwerpen - 18/08 DOOR DE WEEK",
           "channel": "FSSPX Antwerpen",
@@ -48,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/IKmxqKpdutM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-18T16:30:00Z"
+        },
+        {
+          "id": "I2HSyrApsKU",
+          "title": "Hl. Messe - hl. Johannes Eudes - 19. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/I2HSyrApsKU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T05:15:00Z"
+        },
+        {
+          "id": "WxmwfGLkkAk",
+          "title": "FSSPX Antwerpen - 19/08 H. JOHANNES EUDES",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/WxmwfGLkkAk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T05:30:00Z"
         }
       ]
     },
