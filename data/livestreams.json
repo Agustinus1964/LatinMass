@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T17:30:15.104Z",
+  "lastUpdated": "2026-08-18T18:31:49.613Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,42 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-AothjQw4zE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/-AothjQw4zE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9GmAuhFz3n8",
-          "title": "Tuesday 18th August 2026: Saint Agapitus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/9GmAuhFz3n8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RyH-q_NZldY",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/RyH-q_NZldY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "49AuKgvm2as",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/49AuKgvm2as/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ByX10rPRC2w",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Eudes, Confessor)",
           "channel": "Usus Antiquior",
@@ -96,6 +60,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/lOAk0o-4XlA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T17:00:00Z"
+        },
+        {
+          "id": "IRoSdtX6M0E",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/IRoSdtX6M0E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-19T17:00:00Z"
         }
