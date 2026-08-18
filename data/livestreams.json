@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-08-18T15:02:21.482Z",
+  "lastUpdated": "2026-08-18T15:55:46.368Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_bmxC2HxuQI",
-          "title": "FSSPX Antwerpen - 18/08 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/_bmxC2HxuQI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-18T15:00:00Z"
-        },
         {
           "id": "ZQP5DgZf8us",
           "title": "Fr. David Gene Nichols - Funeral Mass - The Immaculata",
           "channel": "The Immaculata",
           "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
           "thumbnail": "https://i.ytimg.com/vi/ZQP5DgZf8us/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-18T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_bmxC2HxuQI",
+          "title": "FSSPX Antwerpen - 18/08 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/_bmxC2HxuQI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "IKmxqKpdutM",
