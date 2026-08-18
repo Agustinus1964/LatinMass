@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-18T11:49:52.512Z",
+  "lastUpdated": "2026-08-18T12:36:36.132Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "JSiSRBhyuIk",
-          "title": "Tue. Aug. 18, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/JSiSRBhyuIk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "GacPOs7Ld6w",
           "title": "Understanding The Crisis in the Church - Lecture 9 - Schism and Excommunication",
@@ -82,20 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "egDO5rrxE3w",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Agapitus, Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/egDO5rrxE3w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OlvfFmkS5k4",
-          "title": "7am Mass & Divine Office. Feria. IV. Tuesday, August 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/OlvfFmkS5k4/mqdefault_live.jpg",
+          "id": "rw0XZVFDbB0",
+          "title": "Tuesday 8 AM Catholic Mass for 08/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/rw0XZVFDbB0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/49AuKgvm2as/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-18T17:00:00Z"
+        },
+        {
+          "id": "ByX10rPRC2w",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Eudes, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ByX10rPRC2w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T11:30:00Z"
         }
       ]
     }
