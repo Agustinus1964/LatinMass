@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T08:31:17.282Z",
+  "lastUpdated": "2026-08-18T09:27:40.774Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "fd1Px9sqv7w",
+          "title": "Ofício de Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/fd1Px9sqv7w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "egDO5rrxE3w",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Agapitus, Martyr)",
