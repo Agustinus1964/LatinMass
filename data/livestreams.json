@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T19:24:08.224Z",
+  "lastUpdated": "2026-08-18T19:52:52.167Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WxmwfGLkkAk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-19T05:30:00Z"
+        },
+        {
+          "id": "S7QUMzJhf-k",
+          "title": "Saint John Eudes, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/S7QUMzJhf-k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T07:30:00Z"
         },
         {
           "id": "O_R8zqyKZvQ",
