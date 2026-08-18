@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-18T12:36:36.132Z",
+  "lastUpdated": "2026-08-18T13:38:03.628Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GacPOs7Ld6w",
-          "title": "Understanding The Crisis in the Church - Lecture 9 - Schism and Excommunication",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/GacPOs7Ld6w/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_bmxC2HxuQI",
           "title": "FSSPX Antwerpen - 18/08 Aanbidding met Rozenhoedje",
@@ -72,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rw0XZVFDbB0",
-          "title": "Tuesday 8 AM Catholic Mass for 08/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/rw0XZVFDbB0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9GmAuhFz3n8",
           "title": "Tuesday 18th August 2026: Saint Agapitus",
