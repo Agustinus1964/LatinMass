@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T00:59:49.249Z",
+  "lastUpdated": "2026-08-18T02:18:05.537Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HXOeQjvWCgg",
-          "title": "Santo Sacrificio de la Misa.17 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/HXOeQjvWCgg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "egDO5rrxE3w",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Agapitus, Martyr)",
