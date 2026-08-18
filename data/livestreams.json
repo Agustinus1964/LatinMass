@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-08-18T16:58:04.393Z",
+  "lastUpdated": "2026-08-18T17:30:15.104Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZQP5DgZf8us",
-          "title": "Fr. David Gene Nichols - Funeral Mass - The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/ZQP5DgZf8us/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IKmxqKpdutM",
-          "title": "FSSPX Antwerpen - 18/08 DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IKmxqKpdutM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "B7rl_4BO6FI",
-          "title": "Rosenkranz und hl. Messe - 18. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/B7rl_4BO6FI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WxmwfGLkkAk",
           "title": "FSSPX Antwerpen - 19/08 H. JOHANNES EUDES",
@@ -82,6 +55,15 @@
           "scheduledTime": null
         },
         {
+          "id": "RyH-q_NZldY",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/RyH-q_NZldY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "49AuKgvm2as",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -91,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "RyH-q_NZldY",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/RyH-q_NZldY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-18T17:00:00Z"
-        },
-        {
           "id": "ByX10rPRC2w",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Eudes, Confessor)",
           "channel": "Usus Antiquior",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ByX10rPRC2w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-19T11:30:00Z"
+        },
+        {
+          "id": "XvhWJ3NNKx4",
+          "title": "Wednesday 19th August 2026: Saint John Eudes",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/XvhWJ3NNKx4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T17:00:00Z"
+        },
+        {
+          "id": "lOAk0o-4XlA",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lOAk0o-4XlA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-19T17:00:00Z"
         }
       ]
     }
