@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T09:58:27.619Z",
+  "lastUpdated": "2026-08-18T10:33:22.961Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -69,15 +69,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/iDBdlaG_uAA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fd1Px9sqv7w",
-          "title": "Ofício de Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/fd1Px9sqv7w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
