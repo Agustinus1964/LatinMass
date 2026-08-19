@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T04:32:06.781Z",
+  "lastUpdated": "2026-08-19T05:24:53.685Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "I2HSyrApsKU",
+          "title": "Hl. Messe - hl. Johannes Eudes - 19. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/I2HSyrApsKU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WxmwfGLkkAk",
           "title": "FSSPX Antwerpen - 19/08 H. JOHANNES EUDES",
@@ -32,13 +41,13 @@
           "scheduledTime": "2026-08-19T11:15:00Z"
         },
         {
-          "id": "Zz9rlJk2-Kw",
-          "title": "Rosenkranz und hl. Messe - hl. Johannes Eudes - 19. August 2026",
+          "id": "o4WnAURXsGc",
+          "title": "Hl. Messe - hl. Bernhard von Clairvaux - 20. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Zz9rlJk2-Kw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/o4WnAURXsGc/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-19T16:00:00Z"
+          "scheduledTime": "2026-08-20T05:15:00Z"
         }
       ]
     },
