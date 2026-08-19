@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-19T16:56:28.322Z",
+  "lastUpdated": "2026-08-19T17:25:42.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Zz9rlJk2-Kw",
-          "title": "Rosenkranz und hl. Messe - hl. Johannes Eudes - 19. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Zz9rlJk2-Kw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ANVPdjFtu8Y",
           "title": "Thu. Aug. 20, 2026    -    St. Bernard,   Abbot, Doctor of the Church",
@@ -55,11 +46,29 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "LeA7P2BuNkQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/LeA7P2BuNkQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "XvhWJ3NNKx4",
           "title": "Wednesday 19th August 2026: Saint John Eudes",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/XvhWJ3NNKx4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "lOAk0o-4XlA",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lOAk0o-4XlA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,24 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/IRoSdtX6M0E/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "LeA7P2BuNkQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/LeA7P2BuNkQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-19T16:58:00Z"
-        },
-        {
-          "id": "lOAk0o-4XlA",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lOAk0o-4XlA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-19T17:00:00Z"
         },
         {
           "id": "ERBj2WBshyg",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dCel05_LoVk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-20T11:30:00Z"
+        },
+        {
+          "id": "aRe6_TtNH0Q",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/aRe6_TtNH0Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-20T17:00:00Z"
         }
       ]
     }
