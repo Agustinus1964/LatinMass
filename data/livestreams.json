@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T05:24:53.685Z",
+  "lastUpdated": "2026-08-19T05:54:29.607Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WxmwfGLkkAk",
+          "title": "FSSPX Antwerpen - 19/08 H. JOHANNES EUDES",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/WxmwfGLkkAk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "I2HSyrApsKU",
           "title": "Hl. Messe - hl. Johannes Eudes - 19. August 2026",
@@ -14,22 +23,13 @@
           "scheduledTime": null
         },
         {
-          "id": "WxmwfGLkkAk",
-          "title": "FSSPX Antwerpen - 19/08 H. JOHANNES EUDES",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/WxmwfGLkkAk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-19T05:30:00Z"
-        },
-        {
           "id": "S7QUMzJhf-k",
           "title": "Saint John Eudes, confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/S7QUMzJhf-k/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-19T07:30:00Z"
+          "scheduledTime": "2026-08-19T06:30:00Z"
         },
         {
           "id": "O_R8zqyKZvQ",
