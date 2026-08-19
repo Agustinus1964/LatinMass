@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-19T06:36:38.369Z",
+  "lastUpdated": "2026-08-19T07:33:49.179Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "S7QUMzJhf-k",
-          "title": "Saint John Eudes, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/S7QUMzJhf-k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "O_R8zqyKZvQ",
           "title": "Wed. Aug. 19, 2026    -    St. John Eudes,     Confessor",
@@ -71,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IRoSdtX6M0E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-19T17:00:00Z"
+        },
+        {
+          "id": "ERBj2WBshyg",
+          "title": "Thursday 20th August 2026: Saint Bernard",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ERBj2WBshyg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-20T07:00:00Z"
         }
       ]
     }
