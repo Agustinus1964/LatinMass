@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T13:40:14.508Z",
+  "lastUpdated": "2026-08-19T14:28:25.050Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "TvRt7CPLbFE",
+          "title": "Santo Sacrificio de la Misa 19 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/TvRt7CPLbFE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "XvhWJ3NNKx4",
           "title": "Wednesday 19th August 2026: Saint John Eudes",
