@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T23:18:49.722Z",
+  "lastUpdated": "2026-08-19T23:45:25.139Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "h1cv7s6SUxI",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/h1cv7s6SUxI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ERBj2WBshyg",
           "title": "Thursday 20th August 2026: Saint Bernard",
