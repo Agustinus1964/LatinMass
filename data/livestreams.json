@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T17:49:30.844Z",
+  "lastUpdated": "2026-08-19T18:28:36.374Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,33 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "LeA7P2BuNkQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/LeA7P2BuNkQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "XvhWJ3NNKx4",
-          "title": "Wednesday 19th August 2026: Saint John Eudes",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/XvhWJ3NNKx4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "IRoSdtX6M0E",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/IRoSdtX6M0E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "ERBj2WBshyg",
           "title": "Thursday 20th August 2026: Saint Bernard",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -96,6 +69,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/aRe6_TtNH0Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-20T17:00:00Z"
+        },
+        {
+          "id": "p8UYaT_dOek",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/p8UYaT_dOek/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-20T17:00:00Z"
         }
