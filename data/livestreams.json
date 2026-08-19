@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-19T19:02:58.224Z",
+  "lastUpdated": "2026-08-19T19:48:05.839Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_VMY6fvTjRA",
+          "title": "Saint Bernard, abbot and doctor of the Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/_VMY6fvTjRA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-20T07:30:00Z"
+        },
         {
           "id": "ANVPdjFtu8Y",
           "title": "Thu. Aug. 20, 2026    -    St. Bernard,   Abbot, Doctor of the Church",
