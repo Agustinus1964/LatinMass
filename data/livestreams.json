@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T11:20:42.121Z",
+  "lastUpdated": "2026-08-19T11:49:00.608Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "ByX10rPRC2w",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Eudes, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ByX10rPRC2w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "F1HvyCtjjB0",
           "title": "7am Mass & Divine Office. St. John Eudes, Confessor. III. Wednesday, August 19, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -44,15 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/F1HvyCtjjB0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ByX10rPRC2w",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Eudes, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ByX10rPRC2w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-19T11:30:00Z"
         },
         {
           "id": "XvhWJ3NNKx4",
