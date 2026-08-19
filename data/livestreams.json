@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-08-19T05:54:29.607Z",
+  "lastUpdated": "2026-08-19T06:36:38.369Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WxmwfGLkkAk",
-          "title": "FSSPX Antwerpen - 19/08 H. JOHANNES EUDES",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/WxmwfGLkkAk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "I2HSyrApsKU",
-          "title": "Hl. Messe - hl. Johannes Eudes - 19. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/I2HSyrApsKU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "S7QUMzJhf-k",
           "title": "Saint John Eudes, confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/S7QUMzJhf-k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-19T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "O_R8zqyKZvQ",
