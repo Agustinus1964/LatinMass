@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T08:31:52.489Z",
+  "lastUpdated": "2026-08-19T09:28:44.650Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -27,6 +27,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "hRFDv9tu_RI",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/hRFDv9tu_RI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "ByX10rPRC2w",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John Eudes, Confessor)",
