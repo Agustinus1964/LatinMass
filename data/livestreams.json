@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T17:24:16.199Z",
+  "lastUpdated": "2026-08-20T17:55:10.861Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "E1rSKVuZDng",
+          "title": "FSSPX Antwerpen - 20/08 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/E1rSKVuZDng/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Hd5NnpNx8PE",
           "title": "Fri. Aug. 21, 2026    -    St. Jane Frances Fremiot de Chantal",
@@ -60,15 +69,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/xg35gTZW02A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "aRe6_TtNH0Q",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/aRe6_TtNH0Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
