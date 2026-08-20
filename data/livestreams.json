@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T11:51:53.094Z",
+  "lastUpdated": "2026-08-20T12:39:09.253Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ANVPdjFtu8Y",
-          "title": "Thu. Aug. 20, 2026    -    St. Bernard,   Abbot, Doctor of the Church",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ANVPdjFtu8Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "E1rSKVuZDng",
           "title": "FSSPX Antwerpen - 20/08 Priester-Uur-Gebed",
@@ -55,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "dCel05_LoVk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Bernard of Clairvaux, Abbot and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/dCel05_LoVk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "M9GiL93tVxk",
-          "title": "7am Mass & Divine Office. St. Bernard, Abbot & Doctor. III. Thursday, August 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/M9GiL93tVxk/mqdefault_live.jpg",
+          "id": "QidQPMOSK-0",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 08/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QidQPMOSK-0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
