@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T15:28:53.192Z",
+  "lastUpdated": "2026-08-20T16:00:09.566Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/BQGMMmoSOOI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-21T15:00:00Z"
+        },
+        {
+          "id": "pXhCfrc5QRc",
+          "title": "FSSPX Antwerpen - 21/08 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/pXhCfrc5QRc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T15:45:00Z"
+        },
+        {
+          "id": "Q7uX-11KEAs",
+          "title": "Rosenkranz und hl. Messe - hl. Johanna Franziska von Chantal - 21. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Q7uX-11KEAs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T16:00:00Z"
         }
       ]
     },
