@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T14:31:38.228Z",
+  "lastUpdated": "2026-08-20T15:28:53.192Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,6 +14,15 @@
           "scheduledTime": null
         },
         {
+          "id": "gy4RUFzMiZs",
+          "title": "Sakramentsandacht und hl. Messe - hl. Bernhard von Clairvaux - 20. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/gy4RUFzMiZs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "BtsTp5SbzJw",
           "title": "FSSPX Antwerpen - 20/08 BERNARDUS",
           "channel": "FSSPX Antwerpen",
@@ -23,15 +32,6 @@
           "scheduledTime": "2026-08-20T16:30:00Z"
         },
         {
-          "id": "4fWMBDEB9zw",
-          "title": "Hl. Messe - hl. Johanna Franziska von Chantal - 21. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4fWMBDEB9zw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T05:15:00Z"
-        },
-        {
           "id": "Hd5NnpNx8PE",
           "title": "Fri. Aug. 21, 2026    -    St. Jane Frances Fremiot de Chantal",
           "channel": "Transfiguration Church SSPX",
@@ -39,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Hd5NnpNx8PE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-21T11:15:00Z"
+        },
+        {
+          "id": "BQGMMmoSOOI",
+          "title": "FSSPX Antwerpen - 21/08 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/BQGMMmoSOOI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xg_0pbLRS2Y",
-          "title": "Santo Sacrificio de la Misa 20 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/xg_0pbLRS2Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "aRe6_TtNH0Q",
           "title": "Thursday",
