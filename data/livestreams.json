@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T07:37:07.704Z",
+  "lastUpdated": "2026-08-20T08:32:48.092Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ERBj2WBshyg",
-          "title": "Thursday 20th August 2026: Saint Bernard",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/ERBj2WBshyg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dCel05_LoVk",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bernard of Clairvaux, Abbot and Doctor)",
