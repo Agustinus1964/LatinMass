@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T21:52:03.798Z",
+  "lastUpdated": "2026-08-20T22:22:09.224Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nOjULFenXBw",
-          "title": "Mass of St Jane Frances Fremiot de Chantel- 21.8.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/nOjULFenXBw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "nQDHUo3p3NY",
           "title": "Requiem Mass",
@@ -78,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/MGXZ92dRNHM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8B6W9E4qhIo",
-          "title": "Exposição do Santíssimo Sacramento e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8B6W9E4qhIo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
