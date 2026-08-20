@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T08:32:48.092Z",
+  "lastUpdated": "2026-08-20T09:29:35.105Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "EJBUQmFTLkE",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/EJBUQmFTLkE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "dCel05_LoVk",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bernard of Clairvaux, Abbot and Doctor)",
