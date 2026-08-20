@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T05:55:21.292Z",
+  "lastUpdated": "2026-08-20T06:39:06.837Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/_VMY6fvTjRA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-20T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ANVPdjFtu8Y",
