@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T22:22:09.224Z",
+  "lastUpdated": "2026-08-20T22:53:35.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "MGXZ92dRNHM",
-          "title": "6pm Mass. St. Bernard, Abbot & Doctor. III. Thursday, August 20, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/MGXZ92dRNHM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "KdTby2VatWE",
           "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qN2Sl2xbQhE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-21T17:00:00Z"
+        },
+        {
+          "id": "CHB-iaFdSNI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jane Frances Fremiot de Chantal, Widow)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/CHB-iaFdSNI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T22:30:00Z"
         }
       ]
     }
