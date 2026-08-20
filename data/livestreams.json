@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-20T16:00:09.566Z",
+  "lastUpdated": "2026-08-20T16:42:59.653Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "E1rSKVuZDng",
-          "title": "FSSPX Antwerpen - 20/08 Priester-Uur-Gebed",
+          "id": "BtsTp5SbzJw",
+          "title": "FSSPX Antwerpen - 20/08 BERNARDUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/E1rSKVuZDng/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/BtsTp5SbzJw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/gy4RUFzMiZs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "BtsTp5SbzJw",
-          "title": "FSSPX Antwerpen - 20/08 BERNARDUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/BtsTp5SbzJw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-20T16:30:00Z"
         },
         {
           "id": "Hd5NnpNx8PE",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Q7uX-11KEAs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-21T16:00:00Z"
+        },
+        {
+          "id": "dDBQC8Bk_Xk",
+          "title": "FSSPX Antwerpen - 21/08 H. JOHANNA FRANCISCA FREMIOT de CHANTAL",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/dDBQC8Bk_Xk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T16:30:00Z"
         }
       ]
     },
