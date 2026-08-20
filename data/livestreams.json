@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T13:41:57.496Z",
+  "lastUpdated": "2026-08-20T14:31:38.228Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "xg_0pbLRS2Y",
+          "title": "Santo Sacrificio de la Misa 20 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/xg_0pbLRS2Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "aRe6_TtNH0Q",
           "title": "Thursday",
