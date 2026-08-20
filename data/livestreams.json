@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T10:01:56.737Z",
+  "lastUpdated": "2026-08-20T10:55:57.609Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -46,20 +46,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7lsIb0jCEQo",
-          "title": "Thursday 6 AM Traditional Catholic Mass 08/20/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7lsIb0jCEQo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EJBUQmFTLkE",
-          "title": "Prima e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/EJBUQmFTLkE/mqdefault_live.jpg",
+          "id": "M9GiL93tVxk",
+          "title": "7am Mass & Divine Office. St. Bernard, Abbot & Doctor. III. Thursday, August 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/M9GiL93tVxk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
