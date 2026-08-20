@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-20T20:55:21.314Z",
+  "lastUpdated": "2026-08-20T21:23:36.183Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "nOjULFenXBw",
+          "title": "Mass of St Jane Frances Fremiot de Chantel- 21.8.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/nOjULFenXBw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nQDHUo3p3NY",
           "title": "Requiem Mass",
