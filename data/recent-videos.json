@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-08-20T04:05:30.898Z",
+  "lastUpdated": "2026-08-20T05:02:19.027Z",
   "videos": [
+    {
+      "id": "sVpVlVnLdgQ",
+      "title": "Holy Mass 8/19/26 - Nuptial Mass",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/sVpVlVnLdgQ/mqdefault.jpg",
+      "publishedAt": "2026-08-20T04:58:23Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "0Gi8wr4BtZo",
       "title": "Holy Mass 8/19/26 - Feast of St. John Eudes",
@@ -90,16 +100,6 @@
       "thumbnail": "https://i.ytimg.com/vi/M4smzzlBivQ/mqdefault.jpg",
       "publishedAt": "2026-08-19T15:39:19Z",
       "category": "Ascent of Mount Carmel"
-    },
-    {
-      "id": "sVpVlVnLdgQ",
-      "title": "Holy Mass 8/19/26 - Nuptial Mass",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/sVpVlVnLdgQ/mqdefault_live.jpg",
-      "publishedAt": "2026-08-19T13:47:55Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "Qg-XI0qPuIk",
