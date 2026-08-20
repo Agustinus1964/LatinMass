@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T16:42:59.653Z",
+  "lastUpdated": "2026-08-20T17:24:16.199Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BtsTp5SbzJw",
-          "title": "FSSPX Antwerpen - 20/08 BERNARDUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/BtsTp5SbzJw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gy4RUFzMiZs",
-          "title": "Sakramentsandacht und hl. Messe - hl. Bernhard von Clairvaux - 20. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/gy4RUFzMiZs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Hd5NnpNx8PE",
           "title": "Fri. Aug. 21, 2026    -    St. Jane Frances Fremiot de Chantal",
@@ -73,13 +55,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "xg35gTZW02A",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/xg35gTZW02A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "aRe6_TtNH0Q",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/aRe6_TtNH0Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "p8UYaT_dOek",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/p8UYaT_dOek/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "KdTby2VatWE",
+          "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/KdTby2VatWE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-20T17:00:00Z"
+          "scheduledTime": "2026-08-21T17:00:00Z"
+        },
+        {
+          "id": "qN2Sl2xbQhE",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/qN2Sl2xbQhE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T17:00:00Z"
         }
       ]
     }
