@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T09:29:35.105Z",
+  "lastUpdated": "2026-08-20T10:01:56.737Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "7lsIb0jCEQo",
+          "title": "Thursday 6 AM Traditional Catholic Mass 08/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/7lsIb0jCEQo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "EJBUQmFTLkE",
           "title": "Prima e Missa Rezada",
