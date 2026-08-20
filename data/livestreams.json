@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-20T06:39:06.837Z",
+  "lastUpdated": "2026-08-20T07:37:07.704Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_VMY6fvTjRA",
-          "title": "Saint Bernard, abbot and doctor of the Church",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/_VMY6fvTjRA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ANVPdjFtu8Y",
           "title": "Thu. Aug. 20, 2026    -    St. Bernard,   Abbot, Doctor of the Church",
@@ -60,8 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/ERBj2WBshyg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-20T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "dCel05_LoVk",
