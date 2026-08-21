@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T21:47:37.337Z",
+  "lastUpdated": "2026-08-21T22:19:31.514Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "f3opbQSDDdY",
+          "title": "Mass of the Immaculate Heart of Mary - 22nd August 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/f3opbQSDDdY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fU0Y_lgr5Yg",
           "title": "The Immaculate Heart of the Blessed Virgin Mary",
