@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T21:19:36.383Z",
+  "lastUpdated": "2026-08-21T21:47:37.337Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "oXEG_KSpRbU",
+          "title": "6pm Mass & Holy Hour. St. Jane Frances de Chantal. III. Friday, August 21, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/oXEG_KSpRbU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "rHf5IIaSc_k",
           "title": "Terço e Missa Rezada",
