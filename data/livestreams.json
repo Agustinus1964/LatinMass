@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T11:50:54.636Z",
+  "lastUpdated": "2026-08-21T12:38:11.251Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Hd5NnpNx8PE",
-          "title": "Fri. Aug. 21, 2026    -    St. Jane Frances Fremiot de Chantal",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Hd5NnpNx8PE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "BQGMMmoSOOI",
           "title": "FSSPX Antwerpen - 21/08 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
@@ -57,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/sEMGjhQz9CM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-22T08:00:00Z"
+        },
+        {
+          "id": "q42JqusPyCk",
+          "title": "Sat. Aug. 22, 2026    -    The Immaculate Heart of the Blessed Virgin Mother",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/q42JqusPyCk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "gyzhc_lVloo",
+          "title": "Friday 8 AM Catholic Mass for 08/21/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/gyzhc_lVloo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KdTby2VatWE",
           "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
