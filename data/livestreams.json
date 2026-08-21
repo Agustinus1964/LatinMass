@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T14:30:18.286Z",
+  "lastUpdated": "2026-08-21T15:28:05.648Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/BQGMMmoSOOI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pXhCfrc5QRc",
@@ -69,15 +69,6 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/5RrNjgKk0GQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9Mp2lJ1PgHk",
-          "title": "Santo Sacrificio de la Misa 21 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/9Mp2lJ1PgHk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
