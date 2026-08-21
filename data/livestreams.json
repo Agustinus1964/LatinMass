@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T22:19:31.514Z",
+  "lastUpdated": "2026-08-21T22:49:08.856Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "f3opbQSDDdY",
-          "title": "Mass of the Immaculate Heart of Mary - 22nd August 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/f3opbQSDDdY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fU0Y_lgr5Yg",
           "title": "The Immaculate Heart of the Blessed Virgin Mary",
@@ -46,6 +37,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "CHB-iaFdSNI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jane Frances Fremiot de Chantal, Widow)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/CHB-iaFdSNI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "oXEG_KSpRbU",
           "title": "6pm Mass & Holy Hour. St. Jane Frances de Chantal. III. Friday, August 21, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -53,24 +53,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oXEG_KSpRbU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "rHf5IIaSc_k",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rHf5IIaSc_k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "CHB-iaFdSNI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jane Frances Fremiot de Chantal, Widow)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/CHB-iaFdSNI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T22:30:00Z"
         },
         {
           "id": "migFQOf2kck",
