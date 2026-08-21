@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T06:54:27.598Z",
+  "lastUpdated": "2026-08-21T07:38:42.474Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -89,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CHB-iaFdSNI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-21T22:30:00Z"
+        },
+        {
+          "id": "ZcDt47EJvtg",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ZcDt47EJvtg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T07:30:00Z"
         }
       ]
     }
