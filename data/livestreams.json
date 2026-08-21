@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T12:38:11.251Z",
+  "lastUpdated": "2026-08-21T13:41:08.414Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gyzhc_lVloo",
-          "title": "Friday 8 AM Catholic Mass for 08/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/gyzhc_lVloo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KdTby2VatWE",
           "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
