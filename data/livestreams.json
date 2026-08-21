@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T13:41:08.414Z",
+  "lastUpdated": "2026-08-21T14:30:18.286Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,24 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "5RrNjgKk0GQ",
+          "title": "11am Mass & Divine Office. St. Jane Frances de Chantal. III. Friday, August 21, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/5RrNjgKk0GQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "9Mp2lJ1PgHk",
+          "title": "Santo Sacrificio de la Misa 21 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/9Mp2lJ1PgHk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "KdTby2VatWE",
           "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -107,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/migFQOf2kck/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-22T09:30:00Z"
+        },
+        {
+          "id": "FAPpLHhJ2Rc",
+          "title": "IMMACULATE HEART OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/FAPpLHhJ2Rc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T14:00:00Z"
         }
       ]
     }
