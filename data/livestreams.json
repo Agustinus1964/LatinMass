@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T04:33:09.336Z",
+  "lastUpdated": "2026-08-21T05:27:59.954Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "4fWMBDEB9zw",
+          "title": "Hl. Messe - hl. Johanna Franziska von Chantal - 21. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4fWMBDEB9zw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "nQDHUo3p3NY",
           "title": "Requiem Mass",
@@ -11,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/nQDHUo3p3NY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-21T07:30:00Z"
+          "scheduledTime": "2026-08-21T06:30:00Z"
         },
         {
           "id": "Hd5NnpNx8PE",
@@ -41,15 +50,6 @@
           "scheduledTime": "2026-08-21T15:45:00Z"
         },
         {
-          "id": "Q7uX-11KEAs",
-          "title": "Rosenkranz und hl. Messe - hl. Johanna Franziska von Chantal - 21. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Q7uX-11KEAs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T16:00:00Z"
-        },
-        {
           "id": "dDBQC8Bk_Xk",
           "title": "FSSPX Antwerpen - 21/08 H. JOHANNA FRANCISCA FREMIOT de CHANTAL",
           "channel": "FSSPX Antwerpen",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dDBQC8Bk_Xk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-21T16:30:00Z"
+        },
+        {
+          "id": "6nZsuHKWb9I",
+          "title": "Hl. Messe - Fest des Unbefleckten Herzens Mariä - 22. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6nZsuHKWb9I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T05:15:00Z"
         }
       ]
     },
