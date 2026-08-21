@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T08:34:45.647Z",
+  "lastUpdated": "2026-08-21T09:32:01.255Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "KfX4xRarj5M",
+          "title": "Prima e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/KfX4xRarj5M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "KdTby2VatWE",
           "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -98,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ZcDt47EJvtg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-22T07:30:00Z"
+        },
+        {
+          "id": "jnudnGZP6eI",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/jnudnGZP6eI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T09:00:00Z"
+        },
+        {
+          "id": "migFQOf2kck",
+          "title": "Saturday 22nd August 2026: Immaculate Heart of Mary",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/migFQOf2kck/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T09:30:00Z"
         }
       ]
     }
