@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-21T15:59:07.921Z",
+  "lastUpdated": "2026-08-21T16:41:15.542Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "pXhCfrc5QRc",
-          "title": "FSSPX Antwerpen - 21/08 H. Kruisweg",
+          "id": "dDBQC8Bk_Xk",
+          "title": "FSSPX Antwerpen - 21/08 H. JOHANNA FRANCISCA FREMIOT de CHANTAL",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/pXhCfrc5QRc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/dDBQC8Bk_Xk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Q7uX-11KEAs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "dDBQC8Bk_Xk",
-          "title": "FSSPX Antwerpen - 21/08 H. JOHANNA FRANCISCA FREMIOT de CHANTAL",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dDBQC8Bk_Xk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T16:30:00Z"
         },
         {
           "id": "sEMGjhQz9CM",
@@ -53,7 +44,62 @@
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "KdTby2VatWE",
+          "title": "Friday 21st August 2026: Saint Jane Frances de Chantal",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/KdTby2VatWE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T17:00:00Z"
+        },
+        {
+          "id": "qN2Sl2xbQhE",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/qN2Sl2xbQhE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T17:00:00Z"
+        },
+        {
+          "id": "CHB-iaFdSNI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jane Frances Fremiot de Chantal, Widow)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/CHB-iaFdSNI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-21T22:30:00Z"
+        },
+        {
+          "id": "jnudnGZP6eI",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/jnudnGZP6eI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T09:00:00Z"
+        },
+        {
+          "id": "migFQOf2kck",
+          "title": "Saturday 22nd August 2026: Immaculate Heart of Mary",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/migFQOf2kck/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T09:30:00Z"
+        },
+        {
+          "id": "FAPpLHhJ2Rc",
+          "title": "IMMACULATE HEART OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/FAPpLHhJ2Rc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T14:00:00Z"
+        }
+      ]
     }
   }
 }
