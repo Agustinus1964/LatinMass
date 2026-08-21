@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-21T19:22:17.127Z",
+  "lastUpdated": "2026-08-21T19:46:42.183Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "fU0Y_lgr5Yg",
+          "title": "The Immaculate Heart of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/fU0Y_lgr5Yg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T07:30:00Z"
+        },
         {
           "id": "sEMGjhQz9CM",
           "title": "FSSPX Antwerpen -22/08  ONBEVLEKT HART van MARIA",
