@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-21T16:41:15.542Z",
+  "lastUpdated": "2026-08-21T17:24:02.674Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dDBQC8Bk_Xk",
-          "title": "FSSPX Antwerpen - 21/08 H. JOHANNA FRANCISCA FREMIOT de CHANTAL",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/dDBQC8Bk_Xk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Q7uX-11KEAs",
-          "title": "Rosenkranz und hl. Messe - hl. Johanna Franziska von Chantal - 21. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Q7uX-11KEAs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sEMGjhQz9CM",
           "title": "FSSPX Antwerpen -22/08  ONBEVLEKT HART van MARIA",
@@ -51,8 +33,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/KdTby2VatWE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qN2Sl2xbQhE",
@@ -60,8 +42,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/qN2Sl2xbQhE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-21T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "W2W5c-bx9-k",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/W2W5c-bx9-k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CHB-iaFdSNI",
