@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T10:47:52.609Z",
+  "lastUpdated": "2026-08-22T11:16:45.625Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -24,6 +24,15 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/migFQOf2kck/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "VAgEMz3naw4",
+          "title": "Saturday 7 AM Catholic Mass for 08/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/VAgEMz3naw4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
