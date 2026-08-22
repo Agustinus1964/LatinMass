@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T15:16:22.640Z",
+  "lastUpdated": "2026-08-22T15:44:39.769Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KqWLkK_xgzs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T14:45:00Z"
+        },
+        {
+          "id": "vNKh8P3928o",
+          "title": "Vesper und Sakramentsandacht - 13. Sonntag nach Pfingsten - 23. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/vNKh8P3928o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T15:30:00Z"
         }
       ]
     },
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AkMCQIv8DRw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T14:45:00Z"
+        },
+        {
+          "id": "tlvhHfYnnMY",
+          "title": "THIRTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/tlvhHfYnnMY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T15:30:00Z"
         }
       ]
     }
