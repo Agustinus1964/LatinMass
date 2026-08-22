@@ -1,37 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T14:16:50.585Z",
+  "lastUpdated": "2026-08-22T14:46:16.736Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "vSgy9tBY8ig",
-          "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vSgy9tBY8ig/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T11:30:00Z"
-        },
-        {
-          "id": "N1zw4YVpkdc",
-          "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/N1zw4YVpkdc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T14:00:00Z"
-        },
-        {
-          "id": "1a8r-zbekl4",
-          "title": "Sun. Aug. 23, 2026     Thirteen Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/1a8r-zbekl4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T14:00:00Z"
-        }
-      ]
+      "videos": []
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
@@ -51,24 +23,6 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/FAPpLHhJ2Rc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "csv5kONoysg",
-          "title": "Saturday 9 AM Traditional Catholic Mass 08/22/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/csv5kONoysg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vzlI1zw-QAE",
-          "title": "Santo Sacrificio de la Misa 22 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/vzlI1zw-QAE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -116,6 +70,15 @@
           "thumbnail": "https://i.ytimg.com/vi/g9w_BNDjCl4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T10:00:00Z"
+        },
+        {
+          "id": "AkMCQIv8DRw",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/AkMCQIv8DRw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T14:45:00Z"
         }
       ]
     }
