@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T09:24:09.900Z",
+  "lastUpdated": "2026-08-22T09:50:18.379Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -24,15 +24,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/migFQOf2kck/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jnudnGZP6eI",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/jnudnGZP6eI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jPOBbbBkwYQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T08:30:00Z"
+        },
+        {
+          "id": "PcmimPyG-XY",
+          "title": "Sunday 23rd August 2026: Thirteenth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/PcmimPyG-XY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T09:30:00Z"
         }
       ]
     }
