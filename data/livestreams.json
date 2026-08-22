@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T18:22:48.850Z",
+  "lastUpdated": "2026-08-22T18:56:44.607Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -91,15 +91,6 @@
           "scheduledTime": "2026-08-23T14:30:00Z"
         },
         {
-          "id": "AkMCQIv8DRw",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/AkMCQIv8DRw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T14:45:00Z"
-        },
-        {
           "id": "tlvhHfYnnMY",
           "title": "THIRTEENTH SUNDAY AFTER PENTECOST, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -107,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tlvhHfYnnMY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T15:30:00Z"
+        },
+        {
+          "id": "en6ofxJcdoE",
+          "title": "Premières vêpres de la fête de saint Barthélémy, apôtre - TRADENT ENIM VOS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/en6ofxJcdoE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T15:45:00Z"
         }
       ]
     }
