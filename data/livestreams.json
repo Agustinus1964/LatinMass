@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T13:27:40.824Z",
+  "lastUpdated": "2026-08-22T13:52:48.609Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,24 +19,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Bo7fHflYLRY",
-          "title": "Live Stream Holy Mass from Cleveland (The Feast of the Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Bo7fHflYLRY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yZll1pC1z50",
-          "title": "9am Mass. Immaculate Heart of the Blessed Virgin Mary. II. Saturday, August 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/yZll1pC1z50/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "csv5kONoysg",
           "title": "Saturday 9 AM Traditional Catholic Mass 08/22/2026",
           "channel": "St. Benedict Parish",
@@ -44,6 +26,33 @@
           "thumbnail": "https://i.ytimg.com/vi/csv5kONoysg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "vzlI1zw-QAE",
+          "title": "Santo Sacrificio de la Misa 22 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/vzlI1zw-QAE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "pqz-HclbqKA",
+          "title": "Imaculado Coração de Maria - Missa Solene",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/pqz-HclbqKA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-IFybLnh2jw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/-IFybLnh2jw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-22T13:58:00Z"
         },
         {
           "id": "FAPpLHhJ2Rc",
