@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-22T02:32:44.378Z",
+  "lastUpdated": "2026-08-22T03:37:59.518Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "bSOt8AgFD2g",
+          "title": "Sung Mass - The Immaculate Heart of Mary",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/bSOt8AgFD2g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fU0Y_lgr5Yg",
           "title": "The Immaculate Heart of the Blessed Virgin Mary",
@@ -36,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2tug4FKODuE",
-          "title": "Apologética bíblica: El dogma de La Asunción de María y su defensa. P. José María Velázquez.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/2tug4FKODuE/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "migFQOf2kck",
           "title": "Saturday 22nd August 2026: Immaculate Heart of Mary",
