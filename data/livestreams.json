@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T16:18:30.658Z",
+  "lastUpdated": "2026-08-22T16:48:01.915Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,15 +19,6 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/N1zw4YVpkdc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T14:00:00Z"
-        },
-        {
-          "id": "1a8r-zbekl4",
-          "title": "Sun. Aug. 23, 2026     Thirteen Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/1a8r-zbekl4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T14:00:00Z"
         },
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/g9w_BNDjCl4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T10:00:00Z"
+        },
+        {
+          "id": "_Tb2o18xZ9M",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Thirteenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/_Tb2o18xZ9M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T14:30:00Z"
         },
         {
           "id": "AkMCQIv8DRw",
