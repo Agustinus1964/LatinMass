@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-22T21:17:19.500Z",
+  "lastUpdated": "2026-08-22T21:44:15.470Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "-QwnClD31WI",
+          "title": "XIII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/-QwnClD31WI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T08:25:00Z"
+        },
         {
           "id": "vSgy9tBY8ig",
           "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
