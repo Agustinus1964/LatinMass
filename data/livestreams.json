@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T20:17:26.251Z",
+  "lastUpdated": "2026-08-22T20:47:17.844Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vNKh8P3928o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T15:30:00Z"
+        },
+        {
+          "id": "KjVdZm4ilEk",
+          "title": "II Vespers for the Solemnity of the Dedication of Saint Isidore the Farmer, August 23, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/KjVdZm4ilEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T20:45:00Z"
         }
       ]
     },
