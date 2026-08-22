@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-22T05:00:03.096Z",
+  "lastUpdated": "2026-08-22T05:34:20.216Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "6nZsuHKWb9I",
+          "title": "Hl. Messe - Fest des Unbefleckten Herzens Mariä - 22. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6nZsuHKWb9I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fU0Y_lgr5Yg",
           "title": "The Immaculate Heart of the Blessed Virgin Mary",
@@ -11,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/fU0Y_lgr5Yg/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-22T07:30:00Z"
+          "scheduledTime": "2026-08-22T06:30:00Z"
         },
         {
           "id": "sEMGjhQz9CM",
