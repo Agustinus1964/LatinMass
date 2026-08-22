@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T01:00:22.647Z",
+  "lastUpdated": "2026-08-22T02:32:44.378Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,6 +36,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "2tug4FKODuE",
+          "title": "Apologética bíblica: El dogma de La Asunción de María y su defensa. P. José María Velázquez.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/2tug4FKODuE/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "migFQOf2kck",
           "title": "Saturday 22nd August 2026: Immaculate Heart of Mary",
