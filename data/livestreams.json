@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-21T23:47:08.751Z",
+  "lastUpdated": "2026-08-22T01:00:22.647Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -36,33 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8mVD0Qg2rUY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/8mVD0Qg2rUY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bnAZpdqrceU",
-          "title": "Holy Hour. Friday, August 21, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bnAZpdqrceU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fabHAMfMNUo",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 08/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/fabHAMfMNUo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "migFQOf2kck",
           "title": "Saturday 22nd August 2026: Immaculate Heart of Mary",
