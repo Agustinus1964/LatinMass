@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T09:50:18.379Z",
+  "lastUpdated": "2026-08-22T10:18:27.983Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -24,15 +24,6 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/migFQOf2kck/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FUgKNVX2_Os",
-          "title": "Imaculado Coração de Maria - Laudes e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/FUgKNVX2_Os/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PcmimPyG-XY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T09:30:00Z"
+        },
+        {
+          "id": "g9w_BNDjCl4",
+          "title": "11am — 21st Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/g9w_BNDjCl4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T10:00:00Z"
         }
       ]
     }
