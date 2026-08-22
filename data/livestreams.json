@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T12:30:38.976Z",
+  "lastUpdated": "2026-08-22T13:27:40.824Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "q42JqusPyCk",
-          "title": "Sat. Aug. 22, 2026    -    The Immaculate Heart of the Blessed Virgin Mother",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/q42JqusPyCk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "vSgy9tBY8ig",
           "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
@@ -33,8 +24,26 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/Bo7fHflYLRY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-22T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "yZll1pC1z50",
+          "title": "9am Mass. Immaculate Heart of the Blessed Virgin Mary. II. Saturday, August 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/yZll1pC1z50/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "csv5kONoysg",
+          "title": "Saturday 9 AM Traditional Catholic Mass 08/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/csv5kONoysg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FAPpLHhJ2Rc",
