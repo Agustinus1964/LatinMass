@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-23T01:05:28.055Z",
+  "lastUpdated": "2026-08-23T02:42:28.445Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "YJCkul5fpMU",
-          "title": "THIRTEENTH SUNDAY AFTER PENTECOST - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/YJCkul5fpMU/mqdefault_live.jpg",
+          "id": "a_60cNCNS9c",
+          "title": "Sung Mass - 13th Sunday after Pentecost",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/a_60cNCNS9c/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vNKh8P3928o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T15:30:00Z"
+        },
+        {
+          "id": "oMqnBKykSrY",
+          "title": "XIII Sunday after Pentecost | August 23rd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/oMqnBKykSrY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T17:00:00Z"
         },
         {
           "id": "KjVdZm4ilEk",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/en6ofxJcdoE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T15:45:00Z"
+        },
+        {
+          "id": "avhU2nd1wk8",
+          "title": "Do You Seek Christ Only in Your Need?",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/avhU2nd1wk8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T18:00:00Z"
         }
       ]
     }
