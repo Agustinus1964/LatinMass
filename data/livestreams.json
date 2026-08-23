@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T10:18:57.324Z",
+  "lastUpdated": "2026-08-23T10:48:38.892Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,6 +64,15 @@
           "scheduledTime": null
         },
         {
+          "id": "y5KeACNw7yQ",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Thirteenth Sunday after Pentecost. II. August 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/y5KeACNw7yQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "g9w_BNDjCl4",
           "title": "11am — 21st Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
@@ -73,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "zw2iTtiAYAY",
-          "title": "Sainte messe du XIIIème dimanche après la Pentecôte -",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/zw2iTtiAYAY/mqdefault_live.jpg",
+          "id": "o4EQY3D3TDU",
+          "title": "Missa rezada - XIII Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/o4EQY3D3TDU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
