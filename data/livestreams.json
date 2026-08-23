@@ -1,24 +1,15 @@
 {
-  "lastUpdated": "2026-08-23T09:22:53.042Z",
+  "lastUpdated": "2026-08-23T09:51:03.520Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "0o0mpH6MEso",
-          "title": "FSSPX Antwerpen - 23/08 13° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0o0mpH6MEso/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-QwnClD31WI",
-          "title": "XIII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/-QwnClD31WI/mqdefault_live.jpg",
+          "id": "sAELMqlGSYo",
+          "title": "13th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/sAELMqlGSYo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,6 +73,15 @@
           "scheduledTime": null
         },
         {
+          "id": "g9w_BNDjCl4",
+          "title": "11am — 21st Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/g9w_BNDjCl4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "zw2iTtiAYAY",
           "title": "Sainte messe du XIIIème dimanche après la Pentecôte -",
           "channel": "Ite Missa Est",
@@ -89,15 +89,6 @@
           "thumbnail": "https://i.ytimg.com/vi/zw2iTtiAYAY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "g9w_BNDjCl4",
-          "title": "11am — 21st Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/g9w_BNDjCl4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T10:00:00Z"
         },
         {
           "id": "_Tb2o18xZ9M",
