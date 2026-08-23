@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-23T07:29:30.579Z",
+  "lastUpdated": "2026-08-23T07:57:31.360Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "0o0mpH6MEso",
+          "title": "FSSPX Antwerpen - 23/08 13° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/0o0mpH6MEso/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "zpfqM7aP_6o",
           "title": "Amt - 13. Sonntag nach Pfingsten - 23. August 2026",
@@ -72,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5phAadWDYD0",
-          "title": "8am — 13th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/5phAadWDYD0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "jPOBbbBkwYQ",
           "title": "9:30am — 21st Sunday in Ordinary Time",
