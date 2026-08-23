@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T13:54:49.999Z",
+  "lastUpdated": "2026-08-23T14:18:29.165Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -28,6 +28,15 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/IMJ4vH3gZ5w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "1a8r-zbekl4",
+          "title": "Sun. Aug. 23, 2026     Thirteen Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/1a8r-zbekl4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,11 +91,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9JurL8qSLC8",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/9JurL8qSLC8/mqdefault_live.jpg",
+          "id": "qeGrfUSdJzw",
+          "title": "10:30am Sung Mass. Thirteenth Sunday after Pentecost. II. August 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/qeGrfUSdJzw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
