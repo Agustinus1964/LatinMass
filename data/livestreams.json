@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:17:15.898Z",
+  "lastUpdated": "2026-08-23T20:46:57.852Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KjVdZm4ilEk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T20:45:00Z"
+        },
+        {
+          "id": "L6LAL9Jikao",
+          "title": "Hl. Messe - hl. Bartholomäus - 24. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/L6LAL9Jikao/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-24T05:15:00Z"
         },
         {
           "id": "-hGzX126UVk",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FjUpxhA8ggU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "Wu4TkrQ5g30",
+          "title": "Rosenkranz und hl. Messe - hl. Bartholomäus - 24. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Wu4TkrQ5g30/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-24T16:00:00Z"
         },
         {
           "id": "gDxCUgOE6eY",
