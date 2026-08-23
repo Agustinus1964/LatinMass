@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T20:46:57.852Z",
+  "lastUpdated": "2026-08-23T21:17:21.309Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/KjVdZm4ilEk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T20:45:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sQ8ygD3G8F4",
+          "title": "St Bartholomew 24/08/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/sQ8ygD3G8F4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "L6LAL9Jikao",
