@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T17:16:27.526Z",
+  "lastUpdated": "2026-08-23T17:44:05.462Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "6XqdP4omX-k",
+          "title": "Sunday 1:30 PM Catholic Mass 08/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6XqdP4omX-k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "8Z1BePBWqvI",
           "title": "Santa Misa Dominical. 23 de agosto 2026.",
