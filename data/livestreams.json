@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T10:48:38.892Z",
+  "lastUpdated": "2026-08-23T11:16:46.187Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KjVdZm4ilEk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T20:45:00Z"
+        },
+        {
+          "id": "S7SMPQ5tSN8",
+          "title": "Mon. Aug. 24, 2026    -    St. Bartholomew,     Apostle",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/S7SMPQ5tSN8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-24T11:15:00Z"
         }
       ]
     },
@@ -73,11 +82,11 @@
           "scheduledTime": null
         },
         {
-          "id": "g9w_BNDjCl4",
-          "title": "11am — 21st Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/g9w_BNDjCl4/mqdefault_live.jpg",
+          "id": "PHfRwM04GHk",
+          "title": "Sunday 7 AM Catholic Mass for 08/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/PHfRwM04GHk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
