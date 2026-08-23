@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:17:40.961Z",
+  "lastUpdated": "2026-08-23T15:45:34.616Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,6 +19,15 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/wk90JnJ3-wc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "vNKh8P3928o",
+          "title": "Vesper und Sakramentsandacht - 13. Sonntag nach Pfingsten - 23. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/vNKh8P3928o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -64,15 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_Tb2o18xZ9M",
-          "title": "Live Stream Holy Mass (10:30 Low) from Cleveland USA (The Thirteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/_Tb2o18xZ9M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "8zJC3_6G0xA",
           "title": "Mass",
           "channel": "ICKSP",
@@ -87,6 +87,15 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/qeGrfUSdJzw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tlvhHfYnnMY",
+          "title": "THIRTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/tlvhHfYnnMY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -127,31 +136,13 @@
           "scheduledTime": null
         },
         {
-          "id": "AkMCQIv8DRw",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/AkMCQIv8DRw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tlvhHfYnnMY",
-          "title": "THIRTEENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/tlvhHfYnnMY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T15:30:00Z"
-        },
-        {
           "id": "en6ofxJcdoE",
           "title": "Premières vêpres de la fête de saint Barthélémy, apôtre - TRADENT ENIM VOS",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/en6ofxJcdoE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T15:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "avhU2nd1wk8",
@@ -161,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/avhU2nd1wk8/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T18:00:00Z"
+        },
+        {
+          "id": "9ng2K-8fmWQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Bartholomew, Apostle)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/9ng2K-8fmWQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-24T11:00:00Z"
         }
       ]
     }
