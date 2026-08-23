@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-23T12:31:47.856Z",
+  "lastUpdated": "2026-08-23T13:28:12.325Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Y810AlZnW4s",
+          "title": "Thirteenth Sunday After Pentcost",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/Y810AlZnW4s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "N1zw4YVpkdc",
           "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
@@ -55,20 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5_73jSqW1KM",
-          "title": "Live Stream Holy Mass (8:00 Low) from Cleveland USA (The Thirteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/5_73jSqW1KM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "y5KeACNw7yQ",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Thirteenth Sunday after Pentecost. II. August 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/y5KeACNw7yQ/mqdefault_live.jpg",
+          "id": "9JurL8qSLC8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/9JurL8qSLC8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,6 +96,15 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/_Tb2o18xZ9M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-23T14:30:00Z"
+        },
+        {
+          "id": "7fAORAX1Y5o",
+          "title": "13th Sunday after Pentecost / 13e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/7fAORAX1Y5o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-23T14:30:00Z"
         },
