@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-23T11:44:35.293Z",
+  "lastUpdated": "2026-08-23T12:31:47.856Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vSgy9tBY8ig",
-          "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vSgy9tBY8ig/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "N1zw4YVpkdc",
           "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "5_73jSqW1KM",
+          "title": "Live Stream Holy Mass (8:00 Low) from Cleveland USA (The Thirteenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/5_73jSqW1KM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "y5KeACNw7yQ",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Thirteenth Sunday after Pentecost. II. August 23, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,22 +73,22 @@
           "scheduledTime": null
         },
         {
-          "id": "PHfRwM04GHk",
-          "title": "Sunday 7 AM Catholic Mass for 08/23/2026",
+          "id": "b0MqYW7O7Hc",
+          "title": "Sunday 8:30 AM Catholic Mass for 08/23/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/PHfRwM04GHk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/b0MqYW7O7Hc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "5_73jSqW1KM",
-          "title": "Live Stream Holy Mass (8:00 Low) from Cleveland USA (The Thirteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/5_73jSqW1KM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T12:00:00Z"
+          "id": "Hom_jDObhZ0",
+          "title": "Missa Cantada XIII Domingo Depois De Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Hom_jDObhZ0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_Tb2o18xZ9M",
