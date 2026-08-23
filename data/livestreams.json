@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T15:45:34.616Z",
+  "lastUpdated": "2026-08-23T16:19:45.977Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/KqWLkK_xgzs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wk90JnJ3-wc",
-          "title": "FSSPX Antwerpen - 23/08 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/wk90JnJ3-wc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -82,15 +73,6 @@
           "scheduledTime": null
         },
         {
-          "id": "qeGrfUSdJzw",
-          "title": "10:30am Solemn High Mass. Thirteenth Sunday after Pentecost. II. August 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/qeGrfUSdJzw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "tlvhHfYnnMY",
           "title": "THIRTEENTH SUNDAY AFTER PENTECOST, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
@@ -105,24 +87,6 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/Mfa6vaGCsD8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qUrDZAk6Fdo",
-          "title": "13th Sunday after Pentecost / 13e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/qUrDZAk6Fdo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7fAORAX1Y5o",
-          "title": "13th Sunday after Pentecost / 13e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/7fAORAX1Y5o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
