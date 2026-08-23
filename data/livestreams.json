@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T19:44:03.570Z",
+  "lastUpdated": "2026-08-23T20:17:15.898Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "GQHmoDkV1AU",
+          "title": "Missa Rezada XIII Domingo de Pentecostes e Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/GQHmoDkV1AU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9ng2K-8fmWQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bartholomew, Apostle)",
