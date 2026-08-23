@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T18:22:54.908Z",
+  "lastUpdated": "2026-08-23T18:56:06.050Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,6 +51,15 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/6XqdP4omX-k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "0Sn9GHMjLEI",
+          "title": "Santa Misa Dominical. 23 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/0Sn9GHMjLEI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
