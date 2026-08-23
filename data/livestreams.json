@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-23T13:28:12.325Z",
+  "lastUpdated": "2026-08-23T13:54:49.999Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "N1zw4YVpkdc",
+          "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/N1zw4YVpkdc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Y810AlZnW4s",
           "title": "Thirteenth Sunday After Pentcost",
@@ -14,13 +23,22 @@
           "scheduledTime": null
         },
         {
-          "id": "N1zw4YVpkdc",
-          "title": "Low Mass - 13th Sunday after Pentecost - 8/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/N1zw4YVpkdc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T14:00:00Z"
+          "id": "IMJ4vH3gZ5w",
+          "title": "13th Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/IMJ4vH3gZ5w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "wk90JnJ3-wc",
+          "title": "FSSPX Antwerpen - 23/08 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/wk90JnJ3-wc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KqWLkK_xgzs",
@@ -69,15 +87,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/9JurL8qSLC8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "b0MqYW7O7Hc",
-          "title": "Sunday 8:30 AM Catholic Mass for 08/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/b0MqYW7O7Hc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
