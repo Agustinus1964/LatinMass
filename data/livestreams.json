@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T16:19:45.977Z",
+  "lastUpdated": "2026-08-23T16:49:45.870Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
           "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
           "thumbnail": "https://i.ytimg.com/vi/KqWLkK_xgzs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vNKh8P3928o",
-          "title": "Vesper und Sakramentsandacht - 13. Sonntag nach Pfingsten - 23. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/vNKh8P3928o/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -57,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/FjUpxhA8ggU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-24T15:00:00Z"
+        },
+        {
+          "id": "gDxCUgOE6eY",
+          "title": "FSSPX Antwerpen -24/08  H. BARTHOLOMEUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/gDxCUgOE6eY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-24T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8zJC3_6G0xA",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/8zJC3_6G0xA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tlvhHfYnnMY",
           "title": "THIRTEENTH SUNDAY AFTER PENTECOST, 2026",
@@ -91,20 +82,20 @@
           "scheduledTime": null
         },
         {
+          "id": "7fAORAX1Y5o",
+          "title": "13th Sunday after Pentecost / 13e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/7fAORAX1Y5o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "8Z1BePBWqvI",
           "title": "Santa Misa Dominical. 23 de agosto 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/8Z1BePBWqvI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "en6ofxJcdoE",
-          "title": "Premières vêpres de la fête de saint Barthélémy, apôtre - TRADENT ENIM VOS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/en6ofxJcdoE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
