@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-23T06:34:00.987Z",
+  "lastUpdated": "2026-08-23T07:29:30.579Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "zpfqM7aP_6o",
+          "title": "Amt - 13. Sonntag nach Pfingsten - 23. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/zpfqM7aP_6o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "-QwnClD31WI",
           "title": "XIII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
@@ -41,15 +50,6 @@
           "scheduledTime": "2026-08-23T14:45:00Z"
         },
         {
-          "id": "vNKh8P3928o",
-          "title": "Vesper und Sakramentsandacht - 13. Sonntag nach Pfingsten - 23. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/vNKh8P3928o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T15:30:00Z"
-        },
-        {
           "id": "oMqnBKykSrY",
           "title": "XIII Sunday after Pentecost | August 23rd",
           "channel": "Our Lady of the Angels",
@@ -78,8 +78,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/5phAadWDYD0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-23T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jPOBbbBkwYQ",
