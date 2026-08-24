@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T10:33:10.150Z",
+  "lastUpdated": "2026-08-24T11:23:26.777Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/S7SMPQ5tSN8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-24T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FjUpxhA8ggU",
@@ -64,24 +64,6 @@
           "scheduledTime": null
         },
         {
-          "id": "00GpZObPqRM",
-          "title": "Monday 6 AM Traditional Catholic Mass 08/24/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/00GpZObPqRM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9ng2K-8fmWQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Bartholomew, Apostle)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9ng2K-8fmWQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-24T11:00:00Z"
-        },
-        {
           "id": "OnCVJHWABGU",
           "title": "Tuesday 25th August 2026: Saint Louis",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
@@ -116,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PpcvotrDxoc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-24T17:00:00Z"
+        },
+        {
+          "id": "M2NAo2CM6XU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Louis IX, King and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/M2NAo2CM6XU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-25T11:00:00Z"
         }
       ]
     }
