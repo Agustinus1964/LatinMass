@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-24T05:34:02.799Z",
+  "lastUpdated": "2026-08-24T06:50:11.610Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "L6LAL9Jikao",
-          "title": "Hl. Messe - hl. Bartholomäus - 24. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/L6LAL9Jikao/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-hGzX126UVk",
           "title": "Saint Bartholomew, apostle",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/-hGzX126UVk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-24T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "S7SMPQ5tSN8",
