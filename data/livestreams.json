@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-24T21:32:10.654Z",
+  "lastUpdated": "2026-08-24T22:21:00.345Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "wA4krsMdklw",
-          "title": "St Louis 25/08/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/wA4krsMdklw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UGFqgXhN5YA",
           "title": "Hl. Messe - hl. Ludwig - 25. August 2026",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/g0TIy2KrlZw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-25T16:30:00Z"
+        },
+        {
+          "id": "yONV-LC2UJE",
+          "title": "Tue. Aug. 25, 2026    -    St. Louis IX,       King and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/yONV-LC2UJE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-25T22:00:00Z"
         }
       ]
     },
