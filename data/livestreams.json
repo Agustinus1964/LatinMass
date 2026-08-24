@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T09:41:54.922Z",
+  "lastUpdated": "2026-08-24T10:33:10.150Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -55,11 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DW44gL2-6Qg",
-          "title": "Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/DW44gL2-6Qg/mqdefault_live.jpg",
+          "id": "gluRDE5HqL8",
+          "title": "7am Mass & Divine Office. St. Bartholomew, Apostle. II. Monday, August 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/gluRDE5HqL8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "00GpZObPqRM",
+          "title": "Monday 6 AM Traditional Catholic Mass 08/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/00GpZObPqRM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
