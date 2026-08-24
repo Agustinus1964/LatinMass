@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T17:26:32.083Z",
+  "lastUpdated": "2026-08-24T17:57:06.021Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -51,33 +51,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/-ZGgXhLjnTQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yZzxgrR8sI0",
-          "title": "Monday 24th August 2026: Saint Bartholomew",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/yZzxgrR8sI0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6Q2Us6mKuGA",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6Q2Us6mKuGA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PpcvotrDxoc",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/PpcvotrDxoc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
