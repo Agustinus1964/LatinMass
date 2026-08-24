@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T17:57:06.021Z",
+  "lastUpdated": "2026-08-24T18:40:30.818Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-ZGgXhLjnTQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/-ZGgXhLjnTQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OnCVJHWABGU",
-          "title": "Tuesday 25th August 2026: Saint Louis",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/OnCVJHWABGU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-24T17:00:00Z"
-        },
         {
           "id": "M2NAo2CM6XU",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Louis IX, King and Confessor)",
