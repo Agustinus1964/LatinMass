@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-24T20:57:46.652Z",
+  "lastUpdated": "2026-08-24T21:32:10.654Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "wA4krsMdklw",
+          "title": "St Louis 25/08/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/wA4krsMdklw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "UGFqgXhN5YA",
           "title": "Hl. Messe - hl. Ludwig - 25. August 2026",
