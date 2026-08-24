@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T19:25:14.571Z",
+  "lastUpdated": "2026-08-24T19:53:23.941Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UGFqgXhN5YA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-25T05:15:00Z"
+        },
+        {
+          "id": "bjJtiUuRtjY",
+          "title": "Requiem Mass",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/bjJtiUuRtjY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-25T07:30:00Z"
         },
         {
           "id": "z5N9ci9bOkM",
