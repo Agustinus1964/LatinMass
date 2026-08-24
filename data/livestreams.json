@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-08-24T15:34:41.152Z",
+  "lastUpdated": "2026-08-24T16:31:45.440Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "FjUpxhA8ggU",
-          "title": "FSSPX Antwerpen - 24/08 Aanbidding met Rozenhoedje",
+          "id": "gDxCUgOE6eY",
+          "title": "FSSPX Antwerpen -24/08  H. BARTHOLOMEUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/FjUpxhA8ggU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/gDxCUgOE6eY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/Wu4TkrQ5g30/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-24T16:00:00Z"
-        },
-        {
-          "id": "gDxCUgOE6eY",
-          "title": "FSSPX Antwerpen -24/08  H. BARTHOLOMEUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gDxCUgOE6eY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-24T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "UGFqgXhN5YA",
@@ -48,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/z5N9ci9bOkM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-25T15:00:00Z"
+        },
+        {
+          "id": "ABEY-wJ2ejA",
+          "title": "Rosenkranz und hl. Messe - hl. Ludwig - 25. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ABEY-wJ2ejA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-25T16:00:00Z"
+        },
+        {
+          "id": "g0TIy2KrlZw",
+          "title": "FSSPX Antwerpen -25/08  H. LODEWIJK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/g0TIy2KrlZw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-25T16:30:00Z"
         }
       ]
     },
