@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T08:42:28.682Z",
+  "lastUpdated": "2026-08-24T09:41:54.922Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "DW44gL2-6Qg",
+          "title": "Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/DW44gL2-6Qg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9ng2K-8fmWQ",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Bartholomew, Apostle)",
