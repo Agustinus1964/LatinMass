@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T17:27:30.749Z",
+  "lastUpdated": "2026-08-25T17:56:15.321Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -60,33 +60,6 @@
           "channel": "ICKSP",
           "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
           "thumbnail": "https://i.ytimg.com/vi/pUcw8zzgVq0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OnCVJHWABGU",
-          "title": "Tuesday 25th August 2026: Saint Louis",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/OnCVJHWABGU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Ie_-GgdN4-k",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Ie_-GgdN4-k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "H9j-ZaCtrsE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/H9j-ZaCtrsE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
