@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T23:45:01.158Z",
+  "lastUpdated": "2026-08-25T01:02:25.033Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -63,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Ixz1WfcLPvw",
+          "title": "Santo Sacrificio de la Misa 24 de agosto 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Ixz1WfcLPvw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "M2NAo2CM6XU",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Louis IX, King and Confessor)",
