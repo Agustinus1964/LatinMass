@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-25T20:54:25.637Z",
+  "lastUpdated": "2026-08-25T21:23:04.096Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "rozYuClZEwM",
+          "title": "Ferial 26/08/ 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/rozYuClZEwM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "yONV-LC2UJE",
           "title": "Tue. Aug. 25, 2026    -    St. Louis IX,       King and Confessor",
