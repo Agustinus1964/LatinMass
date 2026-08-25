@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T11:34:48.659Z",
+  "lastUpdated": "2026-08-25T12:39:25.367Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -73,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "M2NAo2CM6XU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Louis IX, King and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/M2NAo2CM6XU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "qQDGAM-765Y",
           "title": "Tuesday 8 AM Catholic Mass for 08/25/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/qQDGAM-765Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-25T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ie_-GgdN4-k",
@@ -107,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/H9j-ZaCtrsE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-25T17:00:00Z"
+        },
+        {
+          "id": "BNn9sq9VeK8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Zephyrinus, Pope and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/BNn9sq9VeK8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-26T11:00:00Z"
+        },
+        {
+          "id": "OShQBBPqmBs",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 08/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/OShQBBPqmBs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-26T11:55:00Z"
         }
       ]
     }
