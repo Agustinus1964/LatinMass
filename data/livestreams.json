@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T21:51:56.204Z",
+  "lastUpdated": "2026-08-25T22:21:48.144Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,15 +10,6 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/yONV-LC2UJE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rozYuClZEwM",
-          "title": "Ferial 26/08/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/rozYuClZEwM/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
