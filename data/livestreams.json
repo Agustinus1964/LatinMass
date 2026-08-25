@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T04:34:33.650Z",
+  "lastUpdated": "2026-08-25T05:27:27.403Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/UGFqgXhN5YA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-25T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bjJtiUuRtjY",
@@ -20,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/bjJtiUuRtjY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-25T07:30:00Z"
+          "scheduledTime": "2026-08-25T06:30:00Z"
         },
         {
           "id": "z5N9ci9bOkM",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/yONV-LC2UJE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-25T22:00:00Z"
+        },
+        {
+          "id": "2Aa3CGl5GlI",
+          "title": "Hl. Messe - 26. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2Aa3CGl5GlI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-26T05:15:00Z"
         }
       ]
     },
