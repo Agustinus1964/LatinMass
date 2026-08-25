@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-25T05:58:14.128Z",
+  "lastUpdated": "2026-08-25T06:54:52.493Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UGFqgXhN5YA",
-          "title": "Hl. Messe - hl. Ludwig - 25. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UGFqgXhN5YA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "bjJtiUuRtjY",
           "title": "Requiem Mass",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/bjJtiUuRtjY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-25T06:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "z5N9ci9bOkM",
