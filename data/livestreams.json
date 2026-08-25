@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-25T15:37:47.000Z",
+  "lastUpdated": "2026-08-25T16:31:51.946Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z5N9ci9bOkM",
-          "title": "FSSPX Antwerpen - 25/08 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/z5N9ci9bOkM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "ABEY-wJ2ejA",
           "title": "Rosenkranz und hl. Messe - hl. Ludwig - 25. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/ABEY-wJ2ejA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-25T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "g0TIy2KrlZw",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/TG5qWv2EJCQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-26T11:15:00Z"
+        },
+        {
+          "id": "fuW9MHC9ZKo",
+          "title": "Rosenkranz und hl. Messe - 26. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fuW9MHC9ZKo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-26T16:00:00Z"
         }
       ]
     },
