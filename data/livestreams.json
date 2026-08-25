@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T14:39:52.496Z",
+  "lastUpdated": "2026-08-25T15:37:47.000Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/z5N9ci9bOkM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-25T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ABEY-wJ2ejA",
