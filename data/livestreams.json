@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T10:59:58.703Z",
+  "lastUpdated": "2026-08-26T11:36:32.535Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/TG5qWv2EJCQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fuW9MHC9ZKo",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/viPaSyHfwOE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T05:15:00Z"
+        },
+        {
+          "id": "foCYNi7x3hc",
+          "title": "Thu. Aug. 27, 2026    -   St. Joseph Calasanctius,     Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/foCYNi7x3hc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T11:15:00Z"
         }
       ]
     },
