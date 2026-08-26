@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T04:34:50.103Z",
+  "lastUpdated": "2026-08-26T05:30:00.345Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/2Aa3CGl5GlI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vAlxz1vdlk8",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/vAlxz1vdlk8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-26T05:30:00Z"
+        },
+        {
+          "id": "xWlgGMANHYo",
+          "title": "Saint Zephyrinus, Pope and Martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/xWlgGMANHYo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-26T06:30:00Z"
         },
         {
           "id": "TG5qWv2EJCQ",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fuW9MHC9ZKo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-26T16:00:00Z"
+        },
+        {
+          "id": "viPaSyHfwOE",
+          "title": "Hl. Messe - hl. Gebhard - 27. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/viPaSyHfwOE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T05:15:00Z"
         }
       ]
     },
