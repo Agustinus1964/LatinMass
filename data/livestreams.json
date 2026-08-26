@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T18:11:57.402Z",
+  "lastUpdated": "2026-08-26T20:30:45.698Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/viPaSyHfwOE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T05:15:00Z"
+        },
+        {
+          "id": "BppuMmbFy70",
+          "title": "Saint Joseph Calasanctius, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/BppuMmbFy70/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T07:30:00Z"
         },
         {
           "id": "foCYNi7x3hc",
@@ -54,15 +63,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lITJTde6EcA",
-          "title": "Thursday 27th August 2026: Saint Joseph Calasanctius",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/lITJTde6EcA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "OCW7Bw9xXlg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Joseph Calasance, Confessor)",
