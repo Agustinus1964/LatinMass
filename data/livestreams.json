@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-26T11:36:32.535Z",
+  "lastUpdated": "2026-08-26T12:42:55.493Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TG5qWv2EJCQ",
-          "title": "Wed. Aug. 26, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/TG5qWv2EJCQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fuW9MHC9ZKo",
           "title": "Rosenkranz und hl. Messe - 26. August 2026",
@@ -46,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BNn9sq9VeK8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Zephyrinus, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/BNn9sq9VeK8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HIJPxag6KIE",
-          "title": "7am Mass. Requiem. Feria. IV. Wednesday, August 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/HIJPxag6KIE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "OShQBBPqmBs",
           "title": "Wednesday 8 AM Traditional Catholic Mass 08/26/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/OShQBBPqmBs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Q45wcVazV8k",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/lITJTde6EcA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T07:00:00Z"
+        },
+        {
+          "id": "OCW7Bw9xXlg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Joseph Calasance, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/OCW7Bw9xXlg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T11:00:00Z"
+        },
+        {
+          "id": "JiCncu3GBps",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 08/27/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/JiCncu3GBps/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T11:55:00Z"
         }
       ]
     }
