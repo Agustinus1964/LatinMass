@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T01:04:00.635Z",
+  "lastUpdated": "2026-08-26T02:44:44.361Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "NWEAZmUf8Zw",
+          "title": "Apologética bíblica: Respondiendo a los Adventistas del Séptimo día. P. Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/NWEAZmUf8Zw/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BNn9sq9VeK8",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Zephyrinus, Pope and Martyr)",
