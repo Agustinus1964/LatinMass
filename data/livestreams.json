@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T14:39:11.299Z",
+  "lastUpdated": "2026-08-26T16:14:06.668Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/fuW9MHC9ZKo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "viPaSyHfwOE",
@@ -39,21 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/46ARacUGHMs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T13:30:00Z"
+        },
+        {
+          "id": "KZTd4JBtG1w",
+          "title": "Sakramentsandacht und hl. Messe - hl. Gebhard - 27. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/KZTd4JBtG1w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Kji5n4isvOU",
-          "title": "Santo Sacrificio de la Misa 26 de agosto 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Kji5n4isvOU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Q45wcVazV8k",
           "title": "Wednesday 26th August 2026: Saint Zephyrinus",
