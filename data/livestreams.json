@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-26T16:14:06.668Z",
+  "lastUpdated": "2026-08-26T18:11:57.402Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fuW9MHC9ZKo",
-          "title": "Rosenkranz und hl. Messe - 26. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fuW9MHC9ZKo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "viPaSyHfwOE",
           "title": "Hl. Messe - hl. Gebhard - 27. August 2026",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KZTd4JBtG1w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T15:00:00Z"
+        },
+        {
+          "id": "IKOe7b5uNp8",
+          "title": "FSSPX Antwerpen -27/08  H. JOZEF CALASANCTIUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/IKOe7b5uNp8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T16:30:00Z"
         }
       ]
     },
@@ -55,40 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Q45wcVazV8k",
-          "title": "Wednesday 26th August 2026: Saint Zephyrinus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Q45wcVazV8k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T17:00:00Z"
-        },
-        {
-          "id": "SC_MPwTKzIQ",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/SC_MPwTKzIQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T17:00:00Z"
-        },
-        {
-          "id": "FsGIsF6AJcQ",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/FsGIsF6AJcQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T17:00:00Z"
-        },
-        {
           "id": "lITJTde6EcA",
           "title": "Thursday 27th August 2026: Saint Joseph Calasanctius",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/lITJTde6EcA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OCW7Bw9xXlg",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/JiCncu3GBps/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T11:55:00Z"
+        },
+        {
+          "id": "ynVv01u3E3E",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ynVv01u3E3E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T17:00:00Z"
+        },
+        {
+          "id": "YCZ3fUmQcJc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YCZ3fUmQcJc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T17:00:00Z"
         }
       ]
     }
