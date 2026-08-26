@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:01:57.703Z",
+  "lastUpdated": "2026-08-26T07:24:12.982Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/vAlxz1vdlk8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "xWlgGMANHYo",
-          "title": "Saint Zephyrinus, Pope and Martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/xWlgGMANHYo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-26T06:30:00Z"
         },
         {
           "id": "TG5qWv2EJCQ",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/FsGIsF6AJcQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-26T17:00:00Z"
+        },
+        {
+          "id": "lITJTde6EcA",
+          "title": "Thursday 27th August 2026: Saint Joseph Calasanctius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/lITJTde6EcA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-27T07:00:00Z"
         }
       ]
     }
