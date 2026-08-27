@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-08-27T10:05:51.269Z",
+  "lastUpdated": "2026-08-27T20:39:17.384Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "foCYNi7x3hc",
-          "title": "Thu. Aug. 27, 2026    -   St. Joseph Calasanctius,     Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/foCYNi7x3hc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T11:15:00Z"
-        },
-        {
-          "id": "46ARacUGHMs",
-          "title": "FSSPX Antwerpen - 27/08 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/46ARacUGHMs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T13:30:00Z"
-        },
-        {
-          "id": "KZTd4JBtG1w",
-          "title": "Sakramentsandacht und hl. Messe - hl. Gebhard - 27. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/KZTd4JBtG1w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T15:00:00Z"
-        },
-        {
-          "id": "IKOe7b5uNp8",
-          "title": "FSSPX Antwerpen -27/08  H. JOZEF CALASANCTIUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IKOe7b5uNp8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T16:30:00Z"
-        },
         {
           "id": "c0TmQjSY60M",
           "title": "Hl. Messe - hl. Augustinus - 28. August 2026",
@@ -48,6 +12,60 @@
           "thumbnail": "https://i.ytimg.com/vi/c0TmQjSY60M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-28T05:15:00Z"
+        },
+        {
+          "id": "FSPoCh3EZg4",
+          "title": "Saint Augustine, bishop, confessor and doctor of the Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/FSPoCh3EZg4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T07:30:00Z"
+        },
+        {
+          "id": "68AK7PayJnI",
+          "title": "Fri. Aug. 28, 2026    -    St. Augustine,      Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/68AK7PayJnI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T11:15:00Z"
+        },
+        {
+          "id": "zqWYdeNJOec",
+          "title": "FSSPX Antwerpen - 28/08 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/zqWYdeNJOec/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T15:00:00Z"
+        },
+        {
+          "id": "MMYmH4p5LJk",
+          "title": "Sakramentsandacht und hl. Messe - hl. Augustinus - 28. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/MMYmH4p5LJk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T15:40:00Z"
+        },
+        {
+          "id": "6mwd7fVFOZA",
+          "title": "FSSPX Antwerpen - 28/08 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/6mwd7fVFOZA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T15:45:00Z"
+        },
+        {
+          "id": "AFB5m8j5tek",
+          "title": "FSSPX Antwerpen -28/08  H. AUGUSTINUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/AFB5m8j5tek/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T16:30:00Z"
         }
       ]
     },
@@ -55,40 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "OCW7Bw9xXlg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Joseph Calasance, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/OCW7Bw9xXlg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T11:00:00Z"
-        },
-        {
-          "id": "JiCncu3GBps",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 08/27/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/JiCncu3GBps/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T11:55:00Z"
-        },
-        {
-          "id": "ynVv01u3E3E",
-          "title": "Thursday",
+          "id": "1axrcDZ-2-4",
+          "title": "Friday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ynVv01u3E3E/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/1axrcDZ-2-4/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-27T17:00:00Z"
+          "scheduledTime": "2026-08-28T17:00:00Z"
         },
         {
-          "id": "YCZ3fUmQcJc",
+          "id": "TrInQpKIc9Y",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/YCZ3fUmQcJc/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/TrInQpKIc9Y/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-27T17:00:00Z"
+          "scheduledTime": "2026-08-28T17:00:00Z"
         }
       ]
     }
