@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-08-27T00:24:33.923Z",
+  "lastUpdated": "2026-08-27T10:05:51.269Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "viPaSyHfwOE",
-          "title": "Hl. Messe - hl. Gebhard - 27. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/viPaSyHfwOE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T05:15:00Z"
-        },
-        {
-          "id": "BppuMmbFy70",
-          "title": "Saint Joseph Calasanctius, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/BppuMmbFy70/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-27T07:30:00Z"
-        },
         {
           "id": "foCYNi7x3hc",
           "title": "Thu. Aug. 27, 2026    -   St. Joseph Calasanctius,     Confessor",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IKOe7b5uNp8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-27T16:30:00Z"
+        },
+        {
+          "id": "c0TmQjSY60M",
+          "title": "Hl. Messe - hl. Augustinus - 28. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/c0TmQjSY60M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-28T05:15:00Z"
         }
       ]
     },
