@@ -1,71 +1,35 @@
 {
-  "lastUpdated": "2026-08-28T05:04:26.466Z",
+  "lastUpdated": "2026-08-28T17:34:30.334Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "c0TmQjSY60M",
-          "title": "Hl. Messe - hl. Augustinus - 28. August 2026",
+          "id": "fO4U3itoqYc",
+          "title": "Hl. Messe - Enthauptung des hl. Johannes des Täufers - 29. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/c0TmQjSY60M/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/fO4U3itoqYc/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-28T05:15:00Z"
+          "scheduledTime": "2026-08-29T05:15:00Z"
         },
         {
-          "id": "FSPoCh3EZg4",
-          "title": "Saint Augustine, bishop, confessor and doctor of the Church",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/FSPoCh3EZg4/mqdefault_live.jpg",
+          "id": "8yJ_a__XnAY",
+          "title": "FSSPX Antwerpen -29/08  ONTHOOFDING v/d H. JOHANNES de DOPER",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/8yJ_a__XnAY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-28T07:30:00Z"
+          "scheduledTime": "2026-08-29T08:00:00Z"
         },
         {
-          "id": "68AK7PayJnI",
-          "title": "Fri. Aug. 28, 2026    -    St. Augustine,      Confessor",
+          "id": "L9HGPE4LLww",
+          "title": "Sat. Aug. 29, 2026    -    Beheading of St. John the Baptist",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/68AK7PayJnI/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/L9HGPE4LLww/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-28T11:15:00Z"
-        },
-        {
-          "id": "zqWYdeNJOec",
-          "title": "FSSPX Antwerpen - 28/08 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/zqWYdeNJOec/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T15:00:00Z"
-        },
-        {
-          "id": "MMYmH4p5LJk",
-          "title": "Sakramentsandacht und hl. Messe - hl. Augustinus - 28. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/MMYmH4p5LJk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T15:40:00Z"
-        },
-        {
-          "id": "6mwd7fVFOZA",
-          "title": "FSSPX Antwerpen - 28/08 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/6mwd7fVFOZA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T15:45:00Z"
-        },
-        {
-          "id": "AFB5m8j5tek",
-          "title": "FSSPX Antwerpen -28/08  H. AUGUSTINUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/AFB5m8j5tek/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T16:30:00Z"
+          "scheduledTime": "2026-08-29T12:00:00Z"
         }
       ]
     },
@@ -73,13 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1axrcDZ-2-4",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1axrcDZ-2-4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T17:00:00Z"
+          "id": "tzqn_Koav5o",
+          "title": "Saturday 29th August 2026: Beheading of St. John the Baptist",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/tzqn_Koav5o/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "TrInQpKIc9Y",
@@ -87,8 +51,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/TrInQpKIc9Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_D9sH8q725g",
@@ -98,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_D9sH8q725g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-28T22:30:00Z"
+        },
+        {
+          "id": "tonC4LzZWNI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/tonC4LzZWNI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-29T07:30:00Z"
+        },
+        {
+          "id": "1kWR0M1Aums",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1kWR0M1Aums/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-29T09:00:00Z"
         }
       ]
     }
