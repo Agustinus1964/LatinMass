@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-29T13:55:08.961Z",
+  "lastUpdated": "2026-08-29T17:29:04.101Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IFlotqvF9c4",
-          "title": "The Beheading of Saint John the Baptist",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/IFlotqvF9c4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2jQWvR2UQh4",
           "title": "Amt - 14. Sonntag nach Pfingsten - 30. August 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2jQWvR2UQh4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-30T07:30:00Z"
+        },
+        {
+          "id": "5fyvyT0gxO4",
+          "title": "XIV Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/5fyvyT0gxO4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T08:25:00Z"
         },
         {
           "id": "IBnMc3kMJNs",
@@ -39,39 +39,39 @@
           "thumbnail": "https://i.ytimg.com/vi/Jx2JOn22Eu8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-30T13:30:00Z"
+        },
+        {
+          "id": "kUcsFrm9ZFo",
+          "title": "Low Mass - 14th Sunday after Pentecost - 8/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kUcsFrm9ZFo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T14:00:00Z"
+        },
+        {
+          "id": "uMvOUopjuhw",
+          "title": "Vesper und Sakramentsandacht - 14. Sonntag nach Pfingsten - 30. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/uMvOUopjuhw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T15:30:00Z"
+        },
+        {
+          "id": "xrMwgb_Nukg",
+          "title": "XIV Sunday after Pentecost | August 30th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/xrMwgb_Nukg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "P3NWJaiUtz8",
-          "title": "9am Sung Mass. The Beheading of St. John the Baptist. III. Saturday, August 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/P3NWJaiUtz8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4Rc8XY8gpFY",
-          "title": "Saturday 9 AM Traditional Catholic Mass 08/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/4Rc8XY8gpFY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_uIX6k6lxZY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/_uIX6k6lxZY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T13:58:00Z"
-        },
         {
           "id": "uAaL9LT68kA",
           "title": "8am — 14th Sunday after Pentecost",
@@ -109,6 +109,15 @@
           "scheduledTime": "2026-08-30T10:00:00Z"
         },
         {
+          "id": "RDrOdgBQDVw",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fourteenth Sunday after Pentecost. II. August 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/RDrOdgBQDVw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T11:00:00Z"
+        },
+        {
           "id": "RX91g51-xmM",
           "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourteenth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
@@ -116,6 +125,42 @@
           "thumbnail": "https://i.ytimg.com/vi/RX91g51-xmM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-30T12:00:00Z"
+        },
+        {
+          "id": "HSx_e8CP8nw",
+          "title": "10:30am Sung Mass. Fourteenth Sunday after Pentecost. II. August 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/HSx_e8CP8nw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T14:30:00Z"
+        },
+        {
+          "id": "DNY6pZvTpN4",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/DNY6pZvTpN4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T14:45:00Z"
+        },
+        {
+          "id": "wP90CY4KqLw",
+          "title": "FOURTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/wP90CY4KqLw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T15:30:00Z"
+        },
+        {
+          "id": "F8PQ__pIJnU",
+          "title": "Secondes vêpres du XIVème dimanche après la Pentecôte - QUÆRITE PRIMVM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/F8PQ__pIJnU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T15:45:00Z"
         }
       ]
     }
