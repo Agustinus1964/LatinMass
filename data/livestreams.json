@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-28T17:34:30.334Z",
+  "lastUpdated": "2026-08-29T01:25:32.417Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fO4U3itoqYc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-29T05:15:00Z"
+        },
+        {
+          "id": "IFlotqvF9c4",
+          "title": "The Beheading of Saint John the Baptist",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/IFlotqvF9c4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-29T07:30:00Z"
         },
         {
           "id": "8yJ_a__XnAY",
@@ -37,33 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tzqn_Koav5o",
-          "title": "Saturday 29th August 2026: Beheading of St. John the Baptist",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/tzqn_Koav5o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TrInQpKIc9Y",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/TrInQpKIc9Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "_D9sH8q725g",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Augustine, Bishop, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/_D9sH8q725g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-28T22:30:00Z"
-        },
-        {
           "id": "tonC4LzZWNI",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -80,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1kWR0M1Aums/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-29T09:00:00Z"
+        },
+        {
+          "id": "n33oRTGkndM",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Beheading of Saint John the Baptist)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/n33oRTGkndM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-29T13:00:00Z"
         }
       ]
     }
