@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T08:04:40.742Z",
+  "lastUpdated": "2026-08-29T13:55:08.961Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,24 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "8yJ_a__XnAY",
-          "title": "FSSPX Antwerpen -29/08  ONTHOOFDING v/d H. JOHANNES de DOPER",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/8yJ_a__XnAY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "L9HGPE4LLww",
-          "title": "Sat. Aug. 29, 2026    -    Beheading of St. John the Baptist",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/L9HGPE4LLww/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T12:00:00Z"
-        },
-        {
           "id": "2jQWvR2UQh4",
           "title": "Amt - 14. Sonntag nach Pfingsten - 30. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -41,13 +23,22 @@
           "scheduledTime": "2026-08-30T07:30:00Z"
         },
         {
-          "id": "XGo0HhepxZ4",
-          "title": "FSSPX Antwerpen -30/08  14° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/XGo0HhepxZ4/mqdefault_live.jpg",
+          "id": "IBnMc3kMJNs",
+          "title": "Low Mass - 14th Sunday after Pentecost - 8/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IBnMc3kMJNs/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-30T08:00:00Z"
+          "scheduledTime": "2026-08-30T11:30:00Z"
+        },
+        {
+          "id": "Jx2JOn22Eu8",
+          "title": "14th Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/Jx2JOn22Eu8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T13:30:00Z"
         }
       ]
     },
@@ -55,31 +46,76 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tonC4LzZWNI",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/tonC4LzZWNI/mqdefault_live.jpg",
+          "id": "P3NWJaiUtz8",
+          "title": "9am Sung Mass. The Beheading of St. John the Baptist. III. Saturday, August 29, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/P3NWJaiUtz8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "1kWR0M1Aums",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1kWR0M1Aums/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T09:00:00Z"
+          "id": "4Rc8XY8gpFY",
+          "title": "Saturday 9 AM Traditional Catholic Mass 08/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/4Rc8XY8gpFY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "n33oRTGkndM",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Beheading of Saint John the Baptist)",
+          "id": "_uIX6k6lxZY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/_uIX6k6lxZY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-29T13:58:00Z"
+        },
+        {
+          "id": "uAaL9LT68kA",
+          "title": "8am — 14th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/uAaL9LT68kA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T07:00:00Z"
+        },
+        {
+          "id": "BXnRVI88YJM",
+          "title": "9:30am — 22nd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/BXnRVI88YJM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T08:30:00Z"
+        },
+        {
+          "id": "cdKu9GuNer8",
+          "title": "Sainte messe du XIVème dimanche après la Pentecôte - PROTECTOR NOSTER",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/cdKu9GuNer8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T09:00:00Z"
+        },
+        {
+          "id": "QmxqG8tsX3w",
+          "title": "11am — 22nd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/QmxqG8tsX3w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T10:00:00Z"
+        },
+        {
+          "id": "RX91g51-xmM",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourteenth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/n33oRTGkndM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/RX91g51-xmM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-29T13:00:00Z"
+          "scheduledTime": "2026-08-30T12:00:00Z"
         }
       ]
     }
