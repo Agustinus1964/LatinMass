@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-08-29T01:25:32.417Z",
+  "lastUpdated": "2026-08-29T08:04:40.742Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fO4U3itoqYc",
-          "title": "Hl. Messe - Enthauptung des hl. Johannes des Täufers - 29. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fO4U3itoqYc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T05:15:00Z"
-        },
         {
           "id": "IFlotqvF9c4",
           "title": "The Beheading of Saint John the Baptist",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/IFlotqvF9c4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8yJ_a__XnAY",
@@ -28,8 +19,8 @@
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/8yJ_a__XnAY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T08:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "L9HGPE4LLww",
@@ -39,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/L9HGPE4LLww/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-29T12:00:00Z"
+        },
+        {
+          "id": "2jQWvR2UQh4",
+          "title": "Amt - 14. Sonntag nach Pfingsten - 30. August 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2jQWvR2UQh4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T07:30:00Z"
+        },
+        {
+          "id": "XGo0HhepxZ4",
+          "title": "FSSPX Antwerpen -30/08  14° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/XGo0HhepxZ4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T08:00:00Z"
         }
       ]
     },
@@ -51,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/tonC4LzZWNI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-29T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1kWR0M1Aums",
