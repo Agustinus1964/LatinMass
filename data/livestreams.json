@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-08-30T12:06:33.938Z",
+  "lastUpdated": "2026-08-30T16:53:34.968Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IBnMc3kMJNs",
-          "title": "Low Mass - 14th Sunday after Pentecost - 8/30/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/IBnMc3kMJNs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Jx2JOn22Eu8",
-          "title": "14th Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/Jx2JOn22Eu8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T13:30:00Z"
-        },
-        {
-          "id": "kUcsFrm9ZFo",
-          "title": "Low Mass - 14th Sunday after Pentecost - 8/30/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/kUcsFrm9ZFo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T14:00:00Z"
-        },
-        {
-          "id": "uMvOUopjuhw",
-          "title": "Vesper und Sakramentsandacht - 14. Sonntag nach Pfingsten - 30. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uMvOUopjuhw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T15:30:00Z"
-        },
         {
           "id": "xrMwgb_Nukg",
           "title": "XIV Sunday after Pentecost | August 30th",
@@ -57,94 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/zBXSRXANiTE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-31T11:15:00Z"
+        },
+        {
+          "id": "TuaPUlozOKI",
+          "title": "FSSPX Antwerpen - 31/08 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/TuaPUlozOKI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T15:00:00Z"
+        },
+        {
+          "id": "aSi4yG8J4Rw",
+          "title": "FSSPX Antwerpen - 31/08  H. MAAGD MARIA, Middelares van alle genaden",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/aSi4yG8J4Rw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "RX91g51-xmM",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RX91g51-xmM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "RDrOdgBQDVw",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fourteenth Sunday after Pentecost. II. August 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/RDrOdgBQDVw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "INHGqdEh3Yc",
-          "title": "Sunday 7 AM Catholic Mass for 08/30/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/INHGqdEh3Yc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HSx_e8CP8nw",
-          "title": "10:30am Sung Mass. Fourteenth Sunday after Pentecost. II. August 30, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/HSx_e8CP8nw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T14:30:00Z"
-        },
-        {
-          "id": "DNY6pZvTpN4",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/DNY6pZvTpN4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T14:45:00Z"
-        },
-        {
-          "id": "wP90CY4KqLw",
-          "title": "FOURTEENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/wP90CY4KqLw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T15:30:00Z"
-        },
-        {
-          "id": "F8PQ__pIJnU",
-          "title": "Secondes vêpres du XIVème dimanche après la Pentecôte - QUÆRITE PRIMVM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/F8PQ__pIJnU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T15:45:00Z"
-        },
-        {
-          "id": "0CSxFfRHHiw",
-          "title": "Take Up Your Cross",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/0CSxFfRHHiw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T18:00:00Z"
-        },
-        {
-          "id": "Mqe6ZwS3pXE",
-          "title": "7am Mass & Divine Office. St. Raymond Nonnatus, Confessor. III. Monday, August 31, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Mqe6ZwS3pXE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-31T11:00:00Z"
-        }
-      ]
+      "videos": []
     }
   }
 }
