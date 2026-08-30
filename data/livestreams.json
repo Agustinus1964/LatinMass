@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-08-30T19:37:16.222Z",
+  "lastUpdated": "2026-08-30T22:21:04.731Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "PNiY45DAeYM",
+          "title": "St. Aidan, Bishop and Confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/PNiY45DAeYM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T07:30:00Z"
+        },
         {
           "id": "zBXSRXANiTE",
           "title": "Mon. Aug. 31, 2026    -    St. Raymond Nonnatus,    Confessor",
