@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-30T16:53:34.968Z",
+  "lastUpdated": "2026-08-30T19:37:16.222Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "xrMwgb_Nukg",
-          "title": "XIV Sunday after Pentecost | August 30th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/xrMwgb_Nukg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T17:00:00Z"
-        },
         {
           "id": "zBXSRXANiTE",
           "title": "Mon. Aug. 31, 2026    -    St. Raymond Nonnatus,    Confessor",
@@ -44,7 +35,44 @@
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "Mqe6ZwS3pXE",
+          "title": "7am Mass & Divine Office. St. Raymond Nonnatus, Confessor. III. Monday, August 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Mqe6ZwS3pXE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T11:00:00Z"
+        },
+        {
+          "id": "zm6w5dtbFB0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Raymond Nonnatus, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/zm6w5dtbFB0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T11:30:00Z"
+        },
+        {
+          "id": "htqoW-n4-II",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/htqoW-n4-II/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T17:00:00Z"
+        },
+        {
+          "id": "9-o_lNn1hX4",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/9-o_lNn1hX4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T17:00:00Z"
+        }
+      ]
     }
   }
 }
