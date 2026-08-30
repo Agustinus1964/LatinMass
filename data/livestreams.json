@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-08-30T00:34:28.972Z",
+  "lastUpdated": "2026-08-30T06:11:28.167Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gQAWwcTYZjg",
-          "title": "FOURTEENTH SUNDAY AFTER PENTECOST - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/gQAWwcTYZjg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2jQWvR2UQh4",
           "title": "Amt - 14. Sonntag nach Pfingsten - 30. August 2026",
@@ -170,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/F8PQ__pIJnU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-30T15:45:00Z"
+        },
+        {
+          "id": "0CSxFfRHHiw",
+          "title": "Take Up Your Cross",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/0CSxFfRHHiw/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-30T18:00:00Z"
         }
       ]
     }
