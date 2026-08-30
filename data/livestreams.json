@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-08-30T06:11:28.167Z",
+  "lastUpdated": "2026-08-30T12:06:33.938Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2jQWvR2UQh4",
-          "title": "Amt - 14. Sonntag nach Pfingsten - 30. August 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/2jQWvR2UQh4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T07:30:00Z"
-        },
-        {
-          "id": "5fyvyT0gxO4",
-          "title": "XIV Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/5fyvyT0gxO4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T08:25:00Z"
-        },
         {
           "id": "IBnMc3kMJNs",
           "title": "Low Mass - 14th Sunday after Pentecost - 8/30/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/IBnMc3kMJNs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Jx2JOn22Eu8",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xrMwgb_Nukg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-30T17:00:00Z"
+        },
+        {
+          "id": "zBXSRXANiTE",
+          "title": "Mon. Aug. 31, 2026    -    St. Raymond Nonnatus,    Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/zBXSRXANiTE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T11:15:00Z"
         }
       ]
     },
@@ -73,40 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uAaL9LT68kA",
-          "title": "8am — 14th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/uAaL9LT68kA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T07:00:00Z"
-        },
-        {
-          "id": "BXnRVI88YJM",
-          "title": "9:30am — 22nd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/BXnRVI88YJM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T08:30:00Z"
-        },
-        {
-          "id": "cdKu9GuNer8",
-          "title": "Sainte messe du XIVème dimanche après la Pentecôte - PROTECTOR NOSTER",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/cdKu9GuNer8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T09:00:00Z"
-        },
-        {
-          "id": "QmxqG8tsX3w",
-          "title": "11am — 22nd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/QmxqG8tsX3w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T10:00:00Z"
+          "id": "RX91g51-xmM",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourteenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/RX91g51-xmM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "RDrOdgBQDVw",
@@ -114,17 +78,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/RDrOdgBQDVw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "RX91g51-xmM",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Fourteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/RX91g51-xmM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-30T12:00:00Z"
+          "id": "INHGqdEh3Yc",
+          "title": "Sunday 7 AM Catholic Mass for 08/30/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/INHGqdEh3Yc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HSx_e8CP8nw",
@@ -170,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0CSxFfRHHiw/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-08-30T18:00:00Z"
+        },
+        {
+          "id": "Mqe6ZwS3pXE",
+          "title": "7am Mass & Divine Office. St. Raymond Nonnatus, Confessor. III. Monday, August 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Mqe6ZwS3pXE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-08-31T11:00:00Z"
         }
       ]
     }
