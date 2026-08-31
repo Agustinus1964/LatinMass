@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-08-31T14:47:52.480Z",
+  "lastUpdated": "2026-08-31T20:37:20.449Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TuaPUlozOKI",
-          "title": "FSSPX Antwerpen - 31/08 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/TuaPUlozOKI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-31T15:00:00Z"
-        },
         {
           "id": "AIZkUtY0t0c",
           "title": "Rosenkranz und hl. Messe - hl. Raymund Nonnatus - 31. August 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/AIZkUtY0t0c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-31T16:00:00Z"
-        },
-        {
-          "id": "aSi4yG8J4Rw",
-          "title": "FSSPX Antwerpen - 31/08  H. MAAGD MARIA, Middelares van alle genaden",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/aSi4yG8J4Rw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-31T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gioojzjz2qI",
@@ -41,6 +23,15 @@
           "scheduledTime": "2026-09-01T05:15:00Z"
         },
         {
+          "id": "KWFUpUlbFUU",
+          "title": "The Votive Mass of the Holy Angels",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/KWFUpUlbFUU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T07:30:00Z"
+        },
+        {
           "id": "5tWETtwTDbE",
           "title": "Tue. Sep. 1, 2026    -    Ferial Day",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +39,33 @@
           "thumbnail": "https://i.ytimg.com/vi/5tWETtwTDbE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-01T11:15:00Z"
+        },
+        {
+          "id": "bR9kiySFTII",
+          "title": "FSSPX Antwerpen - 01/09 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/bR9kiySFTII/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T15:00:00Z"
+        },
+        {
+          "id": "rlEAS_7Is6Q",
+          "title": "Rosenkranz und hl. Messe - 01. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/rlEAS_7Is6Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T16:00:00Z"
+        },
+        {
+          "id": "GF5l0Cjtc80",
+          "title": "FSSPX Antwerpen -01/09  DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/GF5l0Cjtc80/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T16:30:00Z"
         }
       ]
     },
@@ -55,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "-t7pC_CSUtk",
-          "title": "Monday 31st August 2026: Saint Raymond Nonnatus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/-t7pC_CSUtk/mqdefault_live.jpg",
+          "id": "0HzWJT-eTY8",
+          "title": "Tuesday 6 AM Traditional Catholic Mass 09/01/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/0HzWJT-eTY8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-08-31T17:00:00Z"
-        },
-        {
-          "id": "htqoW-n4-II",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/htqoW-n4-II/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-31T17:00:00Z"
-        },
-        {
-          "id": "9-o_lNn1hX4",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/9-o_lNn1hX4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-08-31T17:00:00Z"
+          "scheduledTime": "2026-09-01T09:55:00Z"
         },
         {
           "id": "zvGU1elTQDc",
@@ -98,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/tEpeHW-Ckjg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-01T11:30:00Z"
+        },
+        {
+          "id": "c0JEN_L3zIc",
+          "title": "Tuesday 1st September 2026: Saint Giles",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/c0JEN_L3zIc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T17:00:00Z"
+        },
+        {
+          "id": "tFh-36gWd70",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tFh-36gWd70/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T17:00:00Z"
+        },
+        {
+          "id": "PBmaRSNhQ80",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/PBmaRSNhQ80/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T17:00:00Z"
         }
       ]
     }
