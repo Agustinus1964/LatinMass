@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-01T18:41:51.095Z",
+  "lastUpdated": "2026-09-01T21:33:57.750Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "uA0pDgxqLBg",
+          "title": "Mass of St Stephen - 2.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/uA0pDgxqLBg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "67o1OHcnd54",
           "title": "Hl. Messe - hl. Apollinaris von Posat - 02. September 2026",
@@ -21,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0miI6QAuQsI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T05:30:00Z"
+        },
+        {
+          "id": "2HjRb-g0Mjs",
+          "title": "Saint Stephen, king and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/2HjRb-g0Mjs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T07:30:00Z"
         },
         {
           "id": "poeieKjKmH4",
@@ -46,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "c0JEN_L3zIc",
-          "title": "Tuesday 1st September 2026: Saint Giles",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/c0JEN_L3zIc/mqdefault_live.jpg",
+          "id": "zGFAVhAeNdg",
+          "title": "Terço e missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/zGFAVhAeNdg/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
