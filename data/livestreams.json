@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T15:02:24.709Z",
+  "lastUpdated": "2026-09-01T18:41:51.095Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bR9kiySFTII",
-          "title": "FSSPX Antwerpen - 01/09 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/bR9kiySFTII/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rlEAS_7Is6Q",
-          "title": "Rosenkranz und hl. Messe - 01. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/rlEAS_7Is6Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T16:00:00Z"
-        },
-        {
-          "id": "GF5l0Cjtc80",
-          "title": "FSSPX Antwerpen -01/09  DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/GF5l0Cjtc80/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T16:30:00Z"
-        },
         {
           "id": "67o1OHcnd54",
           "title": "Hl. Messe - hl. Apollinaris von Posat - 02. September 2026",
@@ -57,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/poeieKjKmH4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T11:15:00Z"
+        },
+        {
+          "id": "EKfzc1_9qjQ",
+          "title": "I. Vesper, Rosenkranz und hl. Messe - hl. Apollinaris von Posat - 02. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/EKfzc1_9qjQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T15:30:00Z"
         }
       ]
     },
@@ -69,26 +51,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/c0JEN_L3zIc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T17:00:00Z"
-        },
-        {
-          "id": "tFh-36gWd70",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tFh-36gWd70/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T17:00:00Z"
-        },
-        {
-          "id": "PBmaRSNhQ80",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/PBmaRSNhQ80/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "DbFcnsrPD2g",
@@ -107,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/E9p6Da0Nwo0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T11:30:00Z"
+        },
+        {
+          "id": "0rfGdPkWEGI",
+          "title": "Wednesday 2nd September 2026: Saint Stephen of Hungary",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/0rfGdPkWEGI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T17:00:00Z"
+        },
+        {
+          "id": "E55lLrjBAig",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/E55lLrjBAig/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T17:00:00Z"
+        },
+        {
+          "id": "nZRxqAnF1nY",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/nZRxqAnF1nY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T17:00:00Z"
         }
       ]
     }
