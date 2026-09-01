@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T21:33:57.750Z",
+  "lastUpdated": "2026-09-01T23:45:19.892Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uA0pDgxqLBg",
-          "title": "Mass of St Stephen - 2.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/uA0pDgxqLBg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "67o1OHcnd54",
           "title": "Hl. Messe - hl. Apollinaris von Posat - 02. September 2026",
@@ -63,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zGFAVhAeNdg",
-          "title": "Terço e missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/zGFAVhAeNdg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DbFcnsrPD2g",
           "title": "7am Mass & Divine Office. St Stephen of Hungary, King & Confessor. III. Wednesday, September 2, 2026",
