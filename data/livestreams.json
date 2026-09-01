@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-01T05:26:08.213Z",
+  "lastUpdated": "2026-09-01T10:19:38.436Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gioojzjz2qI",
-          "title": "Hl. Messe - 01. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/gioojzjz2qI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "KWFUpUlbFUU",
-          "title": "The Votive Mass of the Holy Angels",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/KWFUpUlbFUU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T06:30:00Z"
-        },
         {
           "id": "5tWETtwTDbE",
           "title": "Tue. Sep. 1, 2026    -    Ferial Day",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5tWETtwTDbE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-01T11:15:00Z"
+        },
+        {
+          "id": "t0T61U1nVNs",
+          "title": "Understanding The Crisis in the Church - Lecture 11 - The Council’s Takeover",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/t0T61U1nVNs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-01T11:45:00Z"
         },
         {
           "id": "bR9kiySFTII",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/67o1OHcnd54/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T05:15:00Z"
+        },
+        {
+          "id": "0miI6QAuQsI",
+          "title": "FSSPX Antwerpen -02/09  H. STEPHANUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/0miI6QAuQsI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T05:30:00Z"
         }
       ]
     },
@@ -78,8 +78,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/0HzWJT-eTY8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T09:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zvGU1elTQDc",
