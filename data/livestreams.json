@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-01T10:19:38.436Z",
+  "lastUpdated": "2026-09-01T15:02:24.709Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5tWETtwTDbE",
-          "title": "Tue. Sep. 1, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5tWETtwTDbE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T11:15:00Z"
-        },
-        {
-          "id": "t0T61U1nVNs",
-          "title": "Understanding The Crisis in the Church - Lecture 11 - The Council’s Takeover",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/t0T61U1nVNs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T11:45:00Z"
-        },
         {
           "id": "bR9kiySFTII",
           "title": "FSSPX Antwerpen - 01/09 Aanbidding met Rozenhoedje",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/bR9kiySFTII/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rlEAS_7Is6Q",
@@ -66,39 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/0miI6QAuQsI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T05:30:00Z"
+        },
+        {
+          "id": "poeieKjKmH4",
+          "title": "Wed. Sep. 2, 2026    -    St. Stephen,    King and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/poeieKjKmH4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0HzWJT-eTY8",
-          "title": "Tuesday 6 AM Traditional Catholic Mass 09/01/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/0HzWJT-eTY8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "zvGU1elTQDc",
-          "title": "7am Mass & Divine Office. Feria. IV. Tuesday, September 1, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/zvGU1elTQDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T11:00:00Z"
-        },
-        {
-          "id": "tEpeHW-Ckjg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Giles, Abbot)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/tEpeHW-Ckjg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-01T11:30:00Z"
-        },
         {
           "id": "c0JEN_L3zIc",
           "title": "Tuesday 1st September 2026: Saint Giles",
@@ -125,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/PBmaRSNhQ80/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-01T17:00:00Z"
+        },
+        {
+          "id": "DbFcnsrPD2g",
+          "title": "7am Mass & Divine Office. St Stephen of Hungary, King & Confessor. III. Wednesday, September 2, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/DbFcnsrPD2g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T11:00:00Z"
+        },
+        {
+          "id": "E9p6Da0Nwo0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Stephen of Hungary, King and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/E9p6Da0Nwo0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T11:30:00Z"
         }
       ]
     }
