@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T12:29:48.382Z",
+  "lastUpdated": "2026-09-02T16:48:57.179Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/EKfzc1_9qjQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0txpraxZEmE",
@@ -30,6 +30,33 @@
           "thumbnail": "https://i.ytimg.com/vi/RLY7rdpSx1w/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T11:15:00Z"
+        },
+        {
+          "id": "7mxL5KgJXu0",
+          "title": "FSSPX Antwerpen - 03/09 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/7mxL5KgJXu0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T13:30:00Z"
+        },
+        {
+          "id": "LKyoSS7Z0e8",
+          "title": "II. Vesper, Sakramentsandacht und Amt - hl. Papst Pius X. - 03. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/LKyoSS7Z0e8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T15:30:00Z"
+        },
+        {
+          "id": "0hQcmDK4V8g",
+          "title": "FSSPX Antwerpen - 03/09 H. PIUS X",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/0hQcmDK4V8g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T16:30:00Z"
         }
       ]
     },
@@ -37,13 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "NRcKHoI_B1s",
-          "title": "Wednesday 8 AM Traditional Catholic Mass 09/02/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NRcKHoI_B1s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "Zhqexu-zkj0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Zhqexu-zkj0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-02T16:58:00Z"
         },
         {
           "id": "0rfGdPkWEGI",
@@ -98,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NkAQ3ZOlSJk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T11:00:00Z"
+        },
+        {
+          "id": "15qmDZKMskQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Pius X, Pope and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/15qmDZKMskQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T11:30:00Z"
         }
       ]
     }
