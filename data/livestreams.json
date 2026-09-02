@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T19:36:53.879Z",
+  "lastUpdated": "2026-09-02T22:18:29.806Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0txpraxZEmE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T05:15:00Z"
+        },
+        {
+          "id": "AOHWH1_ADGk",
+          "title": "Saint Pius X, pope and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/AOHWH1_ADGk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T07:15:00Z"
         },
         {
           "id": "RLY7rdpSx1w",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0hQcmDK4V8g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T16:30:00Z"
+        },
+        {
+          "id": "g1OmW2vM6rs",
+          "title": "Thu. Sep. 3, 2026    -    Feast of St. Pius X,    Patron of SSPX",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/g1OmW2vM6rs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T22:00:00Z"
         }
       ]
     },
@@ -107,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mnK7MkE_kxE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T17:00:00Z"
+        },
+        {
+          "id": "PZYoV7uAbto",
+          "title": "6pm Mass. St. Pius X, Pope & Confessor. III. Thursday, September 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/PZYoV7uAbto/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T22:00:00Z"
         }
       ]
     }
