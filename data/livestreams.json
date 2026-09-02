@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-02T02:41:30.458Z",
+  "lastUpdated": "2026-09-02T07:34:35.255Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "67o1OHcnd54",
-          "title": "Hl. Messe - hl. Apollinaris von Posat - 02. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/67o1OHcnd54/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T05:15:00Z"
-        },
-        {
-          "id": "0miI6QAuQsI",
-          "title": "FSSPX Antwerpen -02/09  H. STEPHANUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0miI6QAuQsI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T05:30:00Z"
-        },
-        {
-          "id": "2HjRb-g0Mjs",
-          "title": "Saint Stephen, king and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/2HjRb-g0Mjs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T07:30:00Z"
-        },
         {
           "id": "poeieKjKmH4",
           "title": "Wed. Sep. 2, 2026    -    St. Stephen,    King and Confessor",
@@ -48,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EKfzc1_9qjQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T15:30:00Z"
+        },
+        {
+          "id": "0txpraxZEmE",
+          "title": "Hl. Messe - hl. Papst Pius X. - 03. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0txpraxZEmE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T05:15:00Z"
         }
       ]
     },
@@ -98,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nZRxqAnF1nY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-02T17:00:00Z"
+        },
+        {
+          "id": "tS5D55vHkCc",
+          "title": "Thursday 3rd September 2026: First Thursday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/tS5D55vHkCc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T07:00:00Z"
         }
       ]
     }
