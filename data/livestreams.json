@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-02T07:34:35.255Z",
+  "lastUpdated": "2026-09-02T12:29:48.382Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "poeieKjKmH4",
-          "title": "Wed. Sep. 2, 2026    -    St. Stephen,    King and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/poeieKjKmH4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T11:15:00Z"
-        },
         {
           "id": "EKfzc1_9qjQ",
           "title": "I. Vesper, Rosenkranz und hl. Messe - hl. Apollinaris von Posat - 02. September 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0txpraxZEmE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T05:15:00Z"
+        },
+        {
+          "id": "RLY7rdpSx1w",
+          "title": "Thu. Sep. 3, 2026    -    Saint Pius X,   Patron of SSPX",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/RLY7rdpSx1w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T11:15:00Z"
         }
       ]
     },
@@ -37,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DbFcnsrPD2g",
-          "title": "7am Mass & Divine Office. St Stephen of Hungary, King & Confessor. III. Wednesday, September 2, 2026",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DbFcnsrPD2g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T11:00:00Z"
-        },
-        {
-          "id": "E9p6Da0Nwo0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Stephen of Hungary, King and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/E9p6Da0Nwo0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-02T11:30:00Z"
+          "id": "NRcKHoI_B1s",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 09/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NRcKHoI_B1s/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0rfGdPkWEGI",
@@ -89,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/tS5D55vHkCc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T07:00:00Z"
+        },
+        {
+          "id": "mhBRRZxZtwo",
+          "title": "Thursday 6 AM Traditional Catholic Mass 09/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/mhBRRZxZtwo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T09:55:00Z"
+        },
+        {
+          "id": "NkAQ3ZOlSJk",
+          "title": "7am Mass & Divine Office. St. Pius X, Pope & Confessor. III. Thursday, September 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/NkAQ3ZOlSJk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-03T11:00:00Z"
         }
       ]
     }
