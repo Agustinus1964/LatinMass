@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-03T17:29:16.240Z",
+  "lastUpdated": "2026-09-03T20:04:16.969Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0hQcmDK4V8g",
-          "title": "FSSPX Antwerpen - 03/09 H. PIUS X",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0hQcmDK4V8g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LKyoSS7Z0e8",
-          "title": "II. Vesper, Sakramentsandacht und Amt - hl. Papst Pius X. - 03. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/LKyoSS7Z0e8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hEiaSwDOF-Y",
-          "title": "San Pio X - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/hEiaSwDOF-Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "g1OmW2vM6rs",
           "title": "Thu. Sep. 3, 2026    -    Feast of St. Pius X,    Patron of SSPX",
@@ -48,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-EcbRP0MRQ4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T05:15:00Z"
+        },
+        {
+          "id": "r-ZlafAmLT8",
+          "title": "Feria: 14ᵗʰ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/r-ZlafAmLT8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T07:15:00Z"
         },
         {
           "id": "PgkGeVQW7cU",
@@ -90,33 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tguwivRZ3Wk",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/tguwivRZ3Wk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p-VaypF341Q",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/p-VaypF341Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mnK7MkE_kxE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/mnK7MkE_kxE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "PZYoV7uAbto",
           "title": "6pm Mass. St. Pius X, Pope & Confessor. III. Thursday, September 3, 2026.",
