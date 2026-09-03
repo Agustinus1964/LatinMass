@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-03T09:25:00.681Z",
+  "lastUpdated": "2026-09-03T13:44:46.449Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RLY7rdpSx1w",
-          "title": "Thu. Sep. 3, 2026    -    Saint Pius X,   Patron of SSPX",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/RLY7rdpSx1w/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T11:15:00Z"
-        },
         {
           "id": "7mxL5KgJXu0",
           "title": "FSSPX Antwerpen - 03/09 Priester-Uur-Gebed",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/7mxL5KgJXu0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LKyoSS7Z0e8",
@@ -57,48 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/-EcbRP0MRQ4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T05:15:00Z"
+        },
+        {
+          "id": "PgkGeVQW7cU",
+          "title": "Fri. Sep. 4, 2026    -    Ferial Day      (First Friday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/PgkGeVQW7cU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Go3asESRJcI",
-          "title": "Prima e Missa rezada - São Pio X",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Go3asESRJcI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mhBRRZxZtwo",
-          "title": "Thursday 6 AM Traditional Catholic Mass 09/03/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mhBRRZxZtwo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T09:55:00Z"
-        },
-        {
-          "id": "NkAQ3ZOlSJk",
-          "title": "7am Mass & Divine Office. St. Pius X, Pope & Confessor. III. Thursday, September 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/NkAQ3ZOlSJk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T11:00:00Z"
-        },
-        {
-          "id": "15qmDZKMskQ",
-          "title": "Live Stream Holy Mass from Cleveland (1st Thursday—Our Lord Jesus Christ, Supreme & Eternal Priest)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/15qmDZKMskQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T11:30:00Z"
-        },
         {
           "id": "p-VaypF341Q",
           "title": "Thursday",
@@ -125,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PZYoV7uAbto/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T22:00:00Z"
+        },
+        {
+          "id": "bQCSw7SqZUw",
+          "title": "First Friday: 7am Mass & Divine Office. Sacred Heart of Jesus. III. September 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/bQCSw7SqZUw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T11:00:00Z"
         }
       ]
     }
