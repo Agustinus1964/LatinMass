@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-09-03T20:04:16.969Z",
+  "lastUpdated": "2026-09-03T22:49:29.814Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Dhu4ZQzTXPI",
+          "title": "Feast of St. Pius X: Solemn High Mass",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/Dhu4ZQzTXPI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "g1OmW2vM6rs",
           "title": "Thu. Sep. 3, 2026    -    Feast of St. Pius X,    Patron of SSPX",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/g1OmW2vM6rs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-EcbRP0MRQ4",
@@ -73,13 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PZYoV7uAbto",
-          "title": "6pm Mass. St. Pius X, Pope & Confessor. III. Thursday, September 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/PZYoV7uAbto/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T22:00:00Z"
+          "id": "YYS_AIaWXHk",
+          "title": "Terço, Missa Rezada e hora santa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/YYS_AIaWXHk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bQCSw7SqZUw",
@@ -116,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/L8vjr_geKeA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T17:00:00Z"
+        },
+        {
+          "id": "Kz_GoXoZ3yE",
+          "title": "First Friday: 6pm Mass & Holy Hour. Sacred Heart of Jesus. III. September 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Kz_GoXoZ3yE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T22:00:00Z"
+        },
+        {
+          "id": "tKekencBPv0",
+          "title": "Live Stream Holy Mass from Cleveland (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/tKekencBPv0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T22:30:00Z"
         }
       ]
     }
