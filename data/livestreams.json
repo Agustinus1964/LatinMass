@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-03T13:44:46.449Z",
+  "lastUpdated": "2026-09-03T17:29:16.240Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "7mxL5KgJXu0",
-          "title": "FSSPX Antwerpen - 03/09 Priester-Uur-Gebed",
+          "id": "0hQcmDK4V8g",
+          "title": "FSSPX Antwerpen - 03/09 H. PIUS X",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7mxL5KgJXu0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/0hQcmDK4V8g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/LKyoSS7Z0e8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "0hQcmDK4V8g",
-          "title": "FSSPX Antwerpen - 03/09 H. PIUS X",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/0hQcmDK4V8g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T16:30:00Z"
+          "id": "hEiaSwDOF-Y",
+          "title": "San Pio X - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/hEiaSwDOF-Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "g1OmW2vM6rs",
@@ -57,6 +57,33 @@
           "thumbnail": "https://i.ytimg.com/vi/PgkGeVQW7cU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T11:15:00Z"
+        },
+        {
+          "id": "1v-ysCMgUmo",
+          "title": "FSSPX Antwerpen - 04/09 H. Uur met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/1v-ysCMgUmo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T15:00:00Z"
+        },
+        {
+          "id": "zWDSNd03mgo",
+          "title": "FSSPX Antwerpen - 04/09  DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/zWDSNd03mgo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T16:30:00Z"
+        },
+        {
+          "id": "rm8wGM2EAI0",
+          "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 04. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/rm8wGM2EAI0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T16:30:00Z"
         }
       ]
     },
@@ -64,13 +91,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "tguwivRZ3Wk",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/tguwivRZ3Wk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "p-VaypF341Q",
           "title": "Thursday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/p-VaypF341Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mnK7MkE_kxE",
@@ -78,8 +114,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/mnK7MkE_kxE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PZYoV7uAbto",
@@ -98,6 +134,33 @@
           "thumbnail": "https://i.ytimg.com/vi/bQCSw7SqZUw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T11:00:00Z"
+        },
+        {
+          "id": "qPOSjzO66g0",
+          "title": "Friday 4th September 2026: First Friday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qPOSjzO66g0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T17:00:00Z"
+        },
+        {
+          "id": "bgo1OBrHO5Q",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/bgo1OBrHO5Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T17:00:00Z"
+        },
+        {
+          "id": "L8vjr_geKeA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/L8vjr_geKeA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T17:00:00Z"
         }
       ]
     }
