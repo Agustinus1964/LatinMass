@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-03T04:53:48.876Z",
+  "lastUpdated": "2026-09-03T09:25:00.681Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0txpraxZEmE",
-          "title": "Hl. Messe - hl. Papst Pius X. - 03. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/0txpraxZEmE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T05:15:00Z"
-        },
-        {
-          "id": "AOHWH1_ADGk",
-          "title": "Saint Pius X, pope and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/AOHWH1_ADGk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T07:15:00Z"
-        },
         {
           "id": "RLY7rdpSx1w",
           "title": "Thu. Sep. 3, 2026    -    Saint Pius X,   Patron of SSPX",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/g1OmW2vM6rs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-03T22:00:00Z"
+        },
+        {
+          "id": "-EcbRP0MRQ4",
+          "title": "Hl. Messe - Herz-Jesu Freitag - 04. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-EcbRP0MRQ4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T05:15:00Z"
         }
       ]
     },
@@ -73,13 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tS5D55vHkCc",
-          "title": "Thursday 3rd September 2026: First Thursday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/tS5D55vHkCc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-03T07:00:00Z"
+          "id": "Go3asESRJcI",
+          "title": "Prima e Missa rezada - São Pio X",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Go3asESRJcI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mhBRRZxZtwo",
