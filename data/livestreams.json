@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-04T19:47:33.986Z",
+  "lastUpdated": "2026-09-04T22:03:55.870Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "mjuXDNzDwTI",
+          "title": "St. Laurance Justinian - Saturday 5th September 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/mjuXDNzDwTI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "w-oAaTKaQio",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 05. September 2026",
@@ -60,8 +69,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Kz_GoXoZ3yE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ZEUNIcFnwfg",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ZEUNIcFnwfg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tKekencBPv0",
