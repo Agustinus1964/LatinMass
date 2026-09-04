@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-04T13:57:50.319Z",
+  "lastUpdated": "2026-09-04T17:27:37.369Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1v-ysCMgUmo",
-          "title": "FSSPX Antwerpen - 04/09 H. Uur met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/1v-ysCMgUmo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T15:00:00Z"
-        },
-        {
-          "id": "zWDSNd03mgo",
-          "title": "FSSPX Antwerpen - 04/09  DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/zWDSNd03mgo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T16:30:00Z"
-        },
         {
           "id": "rm8wGM2EAI0",
           "title": "Sakramentsandacht und Amt - Herz-Jesu Freitag - 04. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/rm8wGM2EAI0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "w-oAaTKaQio",
@@ -73,22 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jvSgyH8kZ0Q",
-          "title": "Santo Sacrificio de la Misa, Sagrado Corazón de Jesús, 4 de septiembre de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/jvSgyH8kZ0Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "qPOSjzO66g0",
           "title": "Friday 4th September 2026: First Friday",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/qPOSjzO66g0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bgo1OBrHO5Q",
@@ -96,8 +69,8 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/bgo1OBrHO5Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "L8vjr_geKeA",
@@ -105,8 +78,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/L8vjr_geKeA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Kz_GoXoZ3yE",
