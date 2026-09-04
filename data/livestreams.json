@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-04T00:43:57.755Z",
+  "lastUpdated": "2026-09-04T05:32:56.801Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,17 +10,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/-EcbRP0MRQ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r-ZlafAmLT8",
-          "title": "Feria: 14ᵗʰ Sunday after Pentecost",
+          "title": "The Votive Mass of the Sacred Heart",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/r-ZlafAmLT8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-04T07:15:00Z"
+          "scheduledTime": "2026-09-04T06:15:00Z"
         },
         {
           "id": "PgkGeVQW7cU",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rm8wGM2EAI0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T16:30:00Z"
+        },
+        {
+          "id": "w-oAaTKaQio",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 05. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/w-oAaTKaQio/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T05:15:00Z"
         }
       ]
     },
