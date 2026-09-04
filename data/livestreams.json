@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-04T09:50:14.666Z",
+  "lastUpdated": "2026-09-04T13:57:50.319Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PgkGeVQW7cU",
-          "title": "Fri. Sep. 4, 2026    -    Ferial Day      (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/PgkGeVQW7cU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T11:15:00Z"
-        },
         {
           "id": "1v-ysCMgUmo",
           "title": "FSSPX Antwerpen - 04/09 H. Uur met Rozenhoedje",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/kdDqsvHbBkU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-05T08:00:00Z"
+        },
+        {
+          "id": "_M5jzUQYh68",
+          "title": "Sat. Sep. 5,  2026    -    St. Lawrence Justinian, Bishop and Confessor    (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/_M5jzUQYh68/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T13:00:00Z"
         }
       ]
     },
@@ -73,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "JgEBshQi-ww",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/JgEBshQi-ww/mqdefault_live.jpg",
+          "id": "jvSgyH8kZ0Q",
+          "title": "Santo Sacrificio de la Misa, Sagrado Corazón de Jesús, 4 de septiembre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/jvSgyH8kZ0Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "bQCSw7SqZUw",
-          "title": "First Friday: 7am Mass & Divine Office. Sacred Heart of Jesus. III. September 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/bQCSw7SqZUw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T11:00:00Z"
-        },
-        {
-          "id": "aUI1hVhvRBs",
-          "title": "First Friday 8 AM Mass and Devotions 09/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/aUI1hVhvRBs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T11:55:00Z"
         },
         {
           "id": "qPOSjzO66g0",
@@ -170,6 +152,42 @@
           "thumbnail": "https://i.ytimg.com/vi/u9icyA_lveo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-05T09:30:00Z"
+        },
+        {
+          "id": "_qAeLZVGAwU",
+          "title": "First Saturday 7 AM Mass09/05/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/_qAeLZVGAwU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T10:58:00Z"
+        },
+        {
+          "id": "mgT-It8yEZ4",
+          "title": "First Saturday: 7am Mass. St. Lawrence Justinian, Bishop & Confessor. III. September 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/mgT-It8yEZ4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T11:00:00Z"
+        },
+        {
+          "id": "PKP05ltOZNk",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 09/05/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/PKP05ltOZNk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T12:55:00Z"
+        },
+        {
+          "id": "SdMPBbgK1BQ",
+          "title": "First Saturday: 9am Mass. St. Lawrence Justinian, Bishop & Confessor. III. September 5, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/SdMPBbgK1BQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T13:00:00Z"
         }
       ]
     }
