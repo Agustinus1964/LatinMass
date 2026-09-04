@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-03T22:49:29.814Z",
+  "lastUpdated": "2026-09-04T00:43:57.755Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Dhu4ZQzTXPI",
-          "title": "Feast of St. Pius X: Solemn High Mass",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/Dhu4ZQzTXPI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "g1OmW2vM6rs",
-          "title": "Thu. Sep. 3, 2026    -    Feast of St. Pius X,    Patron of SSPX",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/g1OmW2vM6rs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-EcbRP0MRQ4",
           "title": "Hl. Messe - Herz-Jesu Freitag - 04. September 2026",
@@ -82,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YYS_AIaWXHk",
-          "title": "Terço, Missa Rezada e hora santa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YYS_AIaWXHk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "bQCSw7SqZUw",
           "title": "First Friday: 7am Mass & Divine Office. Sacred Heart of Jesus. III. September 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -143,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/tKekencBPv0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T22:30:00Z"
+        },
+        {
+          "id": "6gZpv5vdXvo",
+          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 09/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6gZpv5vdXvo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T22:55:00Z"
         }
       ]
     }
