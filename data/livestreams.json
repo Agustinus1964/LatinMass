@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-04T05:32:56.801Z",
+  "lastUpdated": "2026-09-04T09:50:14.666Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-EcbRP0MRQ4",
-          "title": "Hl. Messe - Herz-Jesu Freitag - 04. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/-EcbRP0MRQ4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "r-ZlafAmLT8",
-          "title": "The Votive Mass of the Sacred Heart",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/r-ZlafAmLT8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T06:15:00Z"
-        },
         {
           "id": "PgkGeVQW7cU",
           "title": "Fri. Sep. 4, 2026    -    Ferial Day      (First Friday)",
@@ -66,12 +48,39 @@
           "thumbnail": "https://i.ytimg.com/vi/w-oAaTKaQio/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-05T05:15:00Z"
+        },
+        {
+          "id": "7ifUsUc_0Lg",
+          "title": "FSSPX Antwerpen - 05/09 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/7ifUsUc_0Lg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T06:15:00Z"
+        },
+        {
+          "id": "kdDqsvHbBkU",
+          "title": "FSSPX Antwerpen -05/09  H. LAURENTIUS JUSTINIANUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/kdDqsvHbBkU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T08:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "JgEBshQi-ww",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/JgEBshQi-ww/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "bQCSw7SqZUw",
           "title": "First Friday: 7am Mass & Divine Office. Sacred Heart of Jesus. III. September 4, 2026.",
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bQCSw7SqZUw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-04T11:00:00Z"
+        },
+        {
+          "id": "aUI1hVhvRBs",
+          "title": "First Friday 8 AM Mass and Devotions 09/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/aUI1hVhvRBs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-04T11:55:00Z"
         },
         {
           "id": "qPOSjzO66g0",
@@ -127,13 +145,31 @@
           "scheduledTime": "2026-09-04T22:30:00Z"
         },
         {
-          "id": "6gZpv5vdXvo",
-          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 09/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/6gZpv5vdXvo/mqdefault_live.jpg",
+          "id": "a1S5TTQ5jW0",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/a1S5TTQ5jW0/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-04T22:55:00Z"
+          "scheduledTime": "2026-09-05T07:30:00Z"
+        },
+        {
+          "id": "ZW0y-LuudZo",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ZW0y-LuudZo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T09:00:00Z"
+        },
+        {
+          "id": "u9icyA_lveo",
+          "title": "Saturday 5th September 2026: First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/u9icyA_lveo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-05T09:30:00Z"
         }
       ]
     }
