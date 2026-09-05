@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-09-05T04:46:37.837Z",
+  "lastUpdated": "2026-09-05T08:46:45.260Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "w-oAaTKaQio",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 05. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/w-oAaTKaQio/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T05:15:00Z"
-        },
-        {
-          "id": "7ifUsUc_0Lg",
-          "title": "FSSPX Antwerpen - 05/09 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7ifUsUc_0Lg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T06:15:00Z"
-        },
-        {
-          "id": "5oe3nh9JvOI",
-          "title": "Saint Laurence Justinian, bishop and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/5oe3nh9JvOI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T07:30:00Z"
-        },
-        {
-          "id": "kdDqsvHbBkU",
-          "title": "FSSPX Antwerpen -05/09  H. LAURENTIUS JUSTINIANUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/kdDqsvHbBkU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T08:00:00Z"
-        },
         {
           "id": "_M5jzUQYh68",
           "title": "Sat. Sep. 5,  2026    -    St. Lawrence Justinian, Bishop and Confessor    (First Saturday)",
@@ -48,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_M5jzUQYh68/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-05T13:00:00Z"
+        },
+        {
+          "id": "4WWz5YXQOZ0",
+          "title": "Amt - 15. Sonntag nach Pfingsten - 06. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4WWz5YXQOZ0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T07:30:00Z"
+        },
+        {
+          "id": "KpQN6Suep90",
+          "title": "FSSPX Antwerpen - 06/09  15° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/KpQN6Suep90/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T08:00:00Z"
         }
       ]
     },
@@ -62,15 +44,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Kz_GoXoZ3yE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "a1S5TTQ5jW0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/a1S5TTQ5jW0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T07:30:00Z"
         },
         {
           "id": "ZW0y-LuudZo",
