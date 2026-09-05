@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T15:24:43.481Z",
+  "lastUpdated": "2026-09-05T17:26:47.950Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/4WWz5YXQOZ0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T07:30:00Z"
-        },
-        {
-          "id": "KpQN6Suep90",
-          "title": "FSSPX Antwerpen - 06/09  15° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/KpQN6Suep90/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T08:00:00Z"
         },
         {
           "id": "7ZZ3vjB5_3k",
@@ -50,13 +41,13 @@
           "scheduledTime": "2026-09-06T14:00:00Z"
         },
         {
-          "id": "qJfSQMK6HhY",
-          "title": "Sun. Sep. 6, 2026    -    15 Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qJfSQMK6HhY/mqdefault_live.jpg",
+          "id": "bws1m5DiL6c",
+          "title": "Vesper und Sakramentsandacht - 15. Sonntag nach Pfingsten - 06. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/bws1m5DiL6c/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-06T14:00:00Z"
+          "scheduledTime": "2026-09-06T15:30:00Z"
         }
       ]
     },
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iuvaM_kLdPE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T15:00:00Z"
+        },
+        {
+          "id": "VuTEUXfn8Xc",
+          "title": "FIFTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/VuTEUXfn8Xc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T15:30:00Z"
         }
       ]
     }
