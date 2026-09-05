@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T21:28:03.131Z",
+  "lastUpdated": "2026-09-05T23:09:33.195Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -134,6 +134,24 @@
           "thumbnail": "https://i.ytimg.com/vi/RHpELPY4JKM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T11:00:00Z"
+        },
+        {
+          "id": "ublcrvKtwwg",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Anniversary of the Dedication of the Cathedral)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ublcrvKtwwg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T12:00:00Z"
+        },
+        {
+          "id": "I0eIGAfIQ_U",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Anniversary of the Dedication of the Cathedral)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/I0eIGAfIQ_U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T14:30:00Z"
         },
         {
           "id": "m_WPJ3JoZ-Q",
