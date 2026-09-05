@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T08:46:45.260Z",
+  "lastUpdated": "2026-09-05T12:19:37.434Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KpQN6Suep90/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T08:00:00Z"
+        },
+        {
+          "id": "7ZZ3vjB5_3k",
+          "title": "Low Mass - 15th Sunday after Pentecost - 9/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7ZZ3vjB5_3k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T11:30:00Z"
         }
       ]
     },
@@ -37,49 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Kz_GoXoZ3yE",
-          "title": "First Friday: 6pm Mass & Holy Hour. Sacred Heart of Jesus. III. September 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Kz_GoXoZ3yE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZW0y-LuudZo",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ZW0y-LuudZo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T09:00:00Z"
-        },
-        {
-          "id": "u9icyA_lveo",
-          "title": "Saturday 5th September 2026: First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/u9icyA_lveo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T09:30:00Z"
-        },
-        {
           "id": "_qAeLZVGAwU",
           "title": "First Saturday 7 AM Mass09/05/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/_qAeLZVGAwU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T10:58:00Z"
-        },
-        {
-          "id": "mgT-It8yEZ4",
-          "title": "First Saturday: 7am Mass. St. Lawrence Justinian, Bishop & Confessor. III. September 5, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/mgT-It8yEZ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-05T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PKP05ltOZNk",
@@ -107,6 +80,60 @@
           "thumbnail": "https://i.ytimg.com/vi/SdMPBbgK1BQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-05T13:00:00Z"
+        },
+        {
+          "id": "UorgjrQyoG0",
+          "title": "8am — 15th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/UorgjrQyoG0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T06:00:00Z"
+        },
+        {
+          "id": "WROeF2Sit1Y",
+          "title": "9:30am — 23rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/WROeF2Sit1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T07:30:00Z"
+        },
+        {
+          "id": "Z2okXoAwKy8",
+          "title": "11am — 23rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Z2okXoAwKy8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "RRMKTjh39Qc",
+          "title": "Sainte messe du XVème dimanche après la Pentecôte - MISERERE MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/RRMKTjh39Qc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "PndjONgoGC8",
+          "title": "Sunday 6th September 2026: Fifteenth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/PndjONgoGC8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T09:30:00Z"
+        },
+        {
+          "id": "RHpELPY4JKM",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fifteenth Sunday after Pentecost. II. September 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/RHpELPY4JKM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T11:00:00Z"
         }
       ]
     }
