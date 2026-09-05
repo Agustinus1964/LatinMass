@@ -1,9 +1,82 @@
 {
-  "lastUpdated": "2026-09-05T19:16:51.324Z",
+  "lastUpdated": "2026-09-05T21:28:03.131Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "4WWz5YXQOZ0",
+          "title": "Amt - 15. Sonntag nach Pfingsten - 06. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4WWz5YXQOZ0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T07:30:00Z"
+        },
+        {
+          "id": "-Gaj8KqgXVA",
+          "title": "Solennità di San Pio X (XV Dom. dopo Pent.) - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/-Gaj8KqgXVA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T08:25:00Z"
+        },
+        {
+          "id": "SZLj6b4cq18",
+          "title": "15th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/SZLj6b4cq18/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T10:00:00Z"
+        },
+        {
+          "id": "7ZZ3vjB5_3k",
+          "title": "Low Mass - 15th Sunday after Pentecost - 9/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7ZZ3vjB5_3k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T11:30:00Z"
+        },
+        {
+          "id": "ULyd9x92BLs",
+          "title": "15 Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/ULyd9x92BLs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T13:30:00Z"
+        },
+        {
+          "id": "efEFQYbrt9k",
+          "title": "Low Mass - 15th Sunday after Pentecost - 9/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/efEFQYbrt9k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T14:00:00Z"
+        },
+        {
+          "id": "bws1m5DiL6c",
+          "title": "Vesper und Sakramentsandacht - 15. Sonntag nach Pfingsten - 06. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/bws1m5DiL6c/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T15:30:00Z"
+        },
+        {
+          "id": "ec5Je_pP0TY",
+          "title": "XV Sunday after Pentecost | September 6th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/ec5Je_pP0TY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T17:00:00Z"
+        }
+      ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
