@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-04T22:03:55.870Z",
+  "lastUpdated": "2026-09-05T00:15:01.604Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mjuXDNzDwTI",
-          "title": "St. Laurance Justinian - Saturday 5th September 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/mjuXDNzDwTI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "w-oAaTKaQio",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 05. September 2026",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "8PLvXrd-hD8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/8PLvXrd-hD8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "Kz_GoXoZ3yE",
           "title": "First Friday: 6pm Mass & Holy Hour. Sacred Heart of Jesus. III. September 4, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "ZEUNIcFnwfg",
-          "title": "Terço e Missa Rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ZEUNIcFnwfg/mqdefault_live.jpg",
+          "id": "6gZpv5vdXvo",
+          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 09/04/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/6gZpv5vdXvo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "tKekencBPv0",
-          "title": "Live Stream Holy Mass from Cleveland (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/tKekencBPv0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-04T22:30:00Z"
         },
         {
           "id": "a1S5TTQ5jW0",
