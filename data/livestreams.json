@@ -1,35 +1,26 @@
 {
-  "lastUpdated": "2026-09-06T11:11:43.671Z",
+  "lastUpdated": "2026-09-06T14:18:11.921Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "SZLj6b4cq18",
-          "title": "15th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/SZLj6b4cq18/mqdefault_live.jpg",
+          "id": "14MOFA4oT7U",
+          "title": "High Mass - 15th Sunday after Pentecost - 9/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/14MOFA4oT7U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "7ZZ3vjB5_3k",
-          "title": "Low Mass - 15th Sunday after Pentecost - 9/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7ZZ3vjB5_3k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T11:30:00Z"
-        },
-        {
-          "id": "fCtDg7ANIxs",
-          "title": "FSSPX Antwerpen - 06/09 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/fCtDg7ANIxs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T13:00:00Z"
+          "id": "NvuAnH0dAA4",
+          "title": "Fifthteenth Sunday After Pentecost-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/NvuAnH0dAA4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ULyd9x92BLs",
@@ -37,8 +28,17 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/ULyd9x92BLs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "qJfSQMK6HhY",
+          "title": "Sun. Sep. 6, 2026    -    15 Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qJfSQMK6HhY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "efEFQYbrt9k",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ec5Je_pP0TY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T17:00:00Z"
+        },
+        {
+          "id": "sfYsWsKIEHQ",
+          "title": "Mon. Sep. 7, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/sfYsWsKIEHQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-07T12:00:00Z"
         }
       ]
     },
@@ -73,49 +82,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "RHpELPY4JKM",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fifteenth Sunday after Pentecost. II. September 6, 2026.",
+          "id": "m_WPJ3JoZ-Q",
+          "title": "10:30am Sung Mass. Fifteenth Sunday after Pentecost. II. September 6, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/RHpELPY4JKM/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/m_WPJ3JoZ-Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "oPJu1CyvxKU",
-          "title": "Sunday 7 AM Catholic Mass for 09/06/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/oPJu1CyvxKU/mqdefault_live.jpg",
+          "id": "C0YZMOvBJPY",
+          "title": "Santa Misa Dominica. 6 de septiembre 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/C0YZMOvBJPY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "Z2okXoAwKy8",
-          "title": "11am — 23rd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Z2okXoAwKy8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "9C-WGL6NuiQ",
-          "title": "Missa rezada - XV Domingo depois de Pentecostes 2026",
+          "id": "GTkEzUKEPEQ",
+          "title": "Missa Cantada XV Domingo Depois de Pentecostes",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/9C-WGL6NuiQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/GTkEzUKEPEQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ublcrvKtwwg",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Anniversary of the Dedication of the Cathedral)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ublcrvKtwwg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T12:00:00Z"
         },
         {
           "id": "I0eIGAfIQ_U",
@@ -123,6 +114,15 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/I0eIGAfIQ_U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T14:30:00Z"
+        },
+        {
+          "id": "sHXg4sCMjXk",
+          "title": "15th Sunday after Pentecost / 15e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/sHXg4sCMjXk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T14:30:00Z"
         },
