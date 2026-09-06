@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-06T18:29:12.265Z",
+  "lastUpdated": "2026-09-06T20:42:30.276Z",
   "videos": [
+    {
+      "id": "eeU3vnqhhfI",
+      "title": "Holy Rosary  9/6/26",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/eeU3vnqhhfI/mqdefault_live.jpg",
+      "publishedAt": "2026-09-06T17:50:30Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "fjwgX67mV5A",
       "title": "Holy Mass 9/6/26 - Fifteenth Sunday after Pentecost",
@@ -170,16 +180,6 @@
       "thumbnail": "https://i.ytimg.com/vi/n6ZC0akBa7k/mqdefault.jpg",
       "publishedAt": "2026-09-05T13:00:08Z",
       "category": "John Henry Westen Channel"
-    },
-    {
-      "id": "nx9PNvYq0UU",
-      "title": "Holy Mass 9/4/26 - Ferial Day, First Friday",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/nx9PNvYq0UU/mqdefault.jpg",
-      "publishedAt": "2026-09-05T12:08:09Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "GIm6lUrz9SI",
