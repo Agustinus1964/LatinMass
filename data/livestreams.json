@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-06T21:31:18.623Z",
+  "lastUpdated": "2026-09-06T23:26:56.281Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4IAW-HpyS60",
-          "title": "Simple II Vespers - 15th Sunday after Pentecost - 9/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4IAW-HpyS60/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AdahHhE4Olk",
-          "title": "Ferial 7/Sept/ 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/AdahHhE4Olk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Lq1as0jyAbo",
           "title": "Votive Mass for Vocations",
@@ -45,24 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5wzQKay12uY",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5wzQKay12uY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Mj7qiLbdqFU",
-          "title": "Missa rezada (XV Domingo depois de Pentecostes) e ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Mj7qiLbdqFU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zAWb1bHQyNM",
           "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Fifteenth Sunday after Pentecost)",
