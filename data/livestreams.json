@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-06T01:10:51.599Z",
+  "lastUpdated": "2026-09-06T06:15:28.550Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QfP4uXdNz7g",
-          "title": "FIFTEENTH SUNDAY AFTER PENTECOST - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/QfP4uXdNz7g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "4WWz5YXQOZ0",
           "title": "Amt - 15. Sonntag nach Pfingsten - 06. September 2026",
@@ -89,7 +80,116 @@
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "UorgjrQyoG0",
+          "title": "8am — 15th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/UorgjrQyoG0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T06:00:00Z"
+        },
+        {
+          "id": "WROeF2Sit1Y",
+          "title": "9:30am — 23rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/WROeF2Sit1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T07:30:00Z"
+        },
+        {
+          "id": "Z2okXoAwKy8",
+          "title": "11am — 23rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Z2okXoAwKy8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "RRMKTjh39Qc",
+          "title": "Sainte messe du XVème dimanche après la Pentecôte - MISERERE MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/RRMKTjh39Qc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T09:00:00Z"
+        },
+        {
+          "id": "PndjONgoGC8",
+          "title": "Sunday 6th September 2026: Fifteenth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/PndjONgoGC8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T09:30:00Z"
+        },
+        {
+          "id": "ublcrvKtwwg",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Anniversary of the Dedication of the Cathedral)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ublcrvKtwwg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T12:00:00Z"
+        },
+        {
+          "id": "I0eIGAfIQ_U",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Anniversary of the Dedication of the Cathedral)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/I0eIGAfIQ_U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T14:30:00Z"
+        },
+        {
+          "id": "PEcgMWoAmVE",
+          "title": "Secondes vêpres du XVème dimanche après la Pentecôte - PROPHETA MAGNUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/PEcgMWoAmVE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T14:45:00Z"
+        },
+        {
+          "id": "5wzQKay12uY",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5wzQKay12uY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T14:45:00Z"
+        },
+        {
+          "id": "iuvaM_kLdPE",
+          "title": "Vespers and Benediction — 15th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/iuvaM_kLdPE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T15:00:00Z"
+        },
+        {
+          "id": "VuTEUXfn8Xc",
+          "title": "FIFTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/VuTEUXfn8Xc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T15:30:00Z"
+        },
+        {
+          "id": "WnRy7tHNnuM",
+          "title": "What in You Must Die for Christ to Live in You?",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/WnRy7tHNnuM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T18:00:00Z"
+        }
+      ]
     }
   }
 }
