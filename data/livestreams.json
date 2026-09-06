@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-06T06:15:28.550Z",
+  "lastUpdated": "2026-09-06T11:11:43.671Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4WWz5YXQOZ0",
-          "title": "Amt - 15. Sonntag nach Pfingsten - 06. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4WWz5YXQOZ0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T07:30:00Z"
-        },
-        {
-          "id": "-Gaj8KqgXVA",
-          "title": "Solennità di San Pio X (XV Dom. dopo Pent.) - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/-Gaj8KqgXVA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T08:25:00Z"
-        },
         {
           "id": "SZLj6b4cq18",
           "title": "15th Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/SZLj6b4cq18/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7ZZ3vjB5_3k",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7ZZ3vjB5_3k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-06T11:30:00Z"
+        },
+        {
+          "id": "fCtDg7ANIxs",
+          "title": "FSSPX Antwerpen - 06/09 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/fCtDg7ANIxs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-06T13:00:00Z"
         },
         {
           "id": "ULyd9x92BLs",
@@ -82,22 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "UorgjrQyoG0",
-          "title": "8am — 15th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/UorgjrQyoG0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T06:00:00Z"
+          "id": "RHpELPY4JKM",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Fifteenth Sunday after Pentecost. II. September 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/RHpELPY4JKM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "WROeF2Sit1Y",
-          "title": "9:30am — 23rd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/WROeF2Sit1Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T07:30:00Z"
+          "id": "oPJu1CyvxKU",
+          "title": "Sunday 7 AM Catholic Mass for 09/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/oPJu1CyvxKU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Z2okXoAwKy8",
@@ -105,26 +96,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Z2okXoAwKy8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T09:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "RRMKTjh39Qc",
-          "title": "Sainte messe du XVème dimanche après la Pentecôte - MISERERE MIHI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/RRMKTjh39Qc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T09:00:00Z"
-        },
-        {
-          "id": "PndjONgoGC8",
-          "title": "Sunday 6th September 2026: Fifteenth Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/PndjONgoGC8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-06T09:30:00Z"
+          "id": "9C-WGL6NuiQ",
+          "title": "Missa rezada - XV Domingo depois de Pentecostes 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/9C-WGL6NuiQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ublcrvKtwwg",
