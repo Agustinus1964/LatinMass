@@ -1,9 +1,36 @@
 {
-  "lastUpdated": "2026-09-07T18:03:59.054Z",
+  "lastUpdated": "2026-09-07T21:40:45.162Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZNbuGag9iao",
+          "title": "Mass of the Nativity of the BVM - 8.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ZNbuGag9iao/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "5G8QrItc1HI",
+          "title": "Hl. Messe - Mariä Geburt - 08. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/5G8QrItc1HI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-08T05:15:00Z"
+        },
+        {
+          "id": "JfOb7CbPq88",
+          "title": "The Nativity of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/JfOb7CbPq88/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-08T07:15:00Z"
+        },
         {
           "id": "qA5tPgkggYw",
           "title": "Tue. Sep. 8, 2026    -    Nativity of the Blessed Virgin Mary",
@@ -12,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qA5tPgkggYw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-08T11:15:00Z"
+        },
+        {
+          "id": "npm5IHAX8NM",
+          "title": "Rosenkranz und hl. Messe - Mariä Geburt - 08. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/npm5IHAX8NM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-08T16:00:00Z"
         }
       ]
     },
