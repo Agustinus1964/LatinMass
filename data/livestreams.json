@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T12:53:09.431Z",
+  "lastUpdated": "2026-09-07T18:03:59.054Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,42 +19,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "urQKHXAOHkk",
-          "title": "Monday 8 AM Traditional Latin Mass09/07/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/urQKHXAOHkk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E4DViwzw2rI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/E4DViwzw2rI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-07T12:58:00Z"
-        },
-        {
-          "id": "AWbKRkYXPFQ",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/AWbKRkYXPFQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-07T16:00:00Z"
-        },
-        {
-          "id": "RzVQb-aMPCs",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/RzVQb-aMPCs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-07T17:00:00Z"
-        },
-        {
           "id": "U-Zmkr6Em80",
           "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of the Blessed Virgin Mary)",
           "channel": "Usus Antiquior",
@@ -62,6 +26,15 @@
           "thumbnail": "https://i.ytimg.com/vi/U-Zmkr6Em80/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-08T11:30:00Z"
+        },
+        {
+          "id": "L6V35wSou9Q",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/L6V35wSou9Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-08T16:00:00Z"
         }
       ]
     }
