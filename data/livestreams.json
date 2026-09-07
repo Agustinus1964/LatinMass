@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-07T21:40:45.162Z",
+  "lastUpdated": "2026-09-07T23:56:40.308Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZNbuGag9iao",
-          "title": "Mass of the Nativity of the BVM - 8.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ZNbuGag9iao/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5G8QrItc1HI",
           "title": "Hl. Messe - Mariä Geburt - 08. September 2026",
@@ -71,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/L6V35wSou9Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-08T16:00:00Z"
+        },
+        {
+          "id": "HTIHfOSueB4",
+          "title": "NATIVITY OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/HTIHfOSueB4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-08T23:00:00Z"
         }
       ]
     }
