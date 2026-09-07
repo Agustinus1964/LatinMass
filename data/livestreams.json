@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-07T06:23:37.396Z",
+  "lastUpdated": "2026-09-07T12:53:09.431Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "Lq1as0jyAbo",
-          "title": "Votive Mass for Vocations",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/Lq1as0jyAbo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sfYsWsKIEHQ",
-          "title": "Mon. Sep. 7, 2026    -    Ferial Day",
+          "id": "qA5tPgkggYw",
+          "title": "Tue. Sep. 8, 2026    -    Nativity of the Blessed Virgin Mary",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/sfYsWsKIEHQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qA5tPgkggYw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-07T12:00:00Z"
+          "scheduledTime": "2026-09-08T11:15:00Z"
         }
       ]
     },
@@ -28,13 +19,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "zAWb1bHQyNM",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Fifteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/zAWb1bHQyNM/mqdefault_live.jpg",
+          "id": "urQKHXAOHkk",
+          "title": "Monday 8 AM Traditional Latin Mass09/07/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/urQKHXAOHkk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "E4DViwzw2rI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/E4DViwzw2rI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-07T11:30:00Z"
+          "scheduledTime": "2026-09-07T12:58:00Z"
         },
         {
           "id": "AWbKRkYXPFQ",
@@ -53,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RzVQb-aMPCs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-07T17:00:00Z"
+        },
+        {
+          "id": "U-Zmkr6Em80",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of the Blessed Virgin Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/U-Zmkr6Em80/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-08T11:30:00Z"
         }
       ]
     }
