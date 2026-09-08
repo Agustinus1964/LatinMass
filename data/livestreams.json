@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T12:58:16.645Z",
+  "lastUpdated": "2026-09-08T17:09:07.220Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,13 +14,22 @@
           "scheduledTime": null
         },
         {
+          "id": "k_3Ih-lQEFY",
+          "title": "FSSPX Antwerpen -08/09  GEBOORTE van de H. MAAGD MARIA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/k_3Ih-lQEFY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "npm5IHAX8NM",
           "title": "Rosenkranz und hl. Messe - Mariä Geburt - 08. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/npm5IHAX8NM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-08T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "w7hkDnNuoow",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lSJvQSgyhR4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-09T11:15:00Z"
+        },
+        {
+          "id": "1pYwjSi-DeI",
+          "title": "Rosenkranz und hl. Messe - 09. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/1pYwjSi-DeI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T16:00:00Z"
         }
       ]
     },
@@ -46,22 +64,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7YrPMNKTayg",
-          "title": "Tuesday 8 AM Catholic Mass for 09/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/7YrPMNKTayg/mqdefault_live.jpg",
+          "id": "9pY10PF7B5I",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/9pY10PF7B5I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Fdgi0k42WgI",
+          "title": "Tuesday 8th September 2026: Nativity of Our Lady",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Fdgi0k42WgI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
           "id": "L6V35wSou9Q",
-          "title": "Tuesday",
+          "title": "Solemn Mass for the Feast of the Nativity of the Blessed Virgin Mary",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/L6V35wSou9Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-08T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HTIHfOSueB4",
@@ -80,6 +107,33 @@
           "thumbnail": "https://i.ytimg.com/vi/7kQaqsT5rms/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-09T11:30:00Z"
+        },
+        {
+          "id": "NESureTwYpg",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NESureTwYpg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T16:00:00Z"
+        },
+        {
+          "id": "aal02u5UrUw",
+          "title": "Wednesday 9th September 2026: Saint Gorgonius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/aal02u5UrUw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T17:00:00Z"
+        },
+        {
+          "id": "oaDRagdQBEA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/oaDRagdQBEA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T17:00:00Z"
         }
       ]
     }
