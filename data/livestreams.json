@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T08:15:01.593Z",
+  "lastUpdated": "2026-09-08T12:58:16.645Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/qA5tPgkggYw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-08T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "npm5IHAX8NM",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/w7hkDnNuoow/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-09T05:15:00Z"
+        },
+        {
+          "id": "lSJvQSgyhR4",
+          "title": "Wed. Sep. 9, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/lSJvQSgyhR4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T11:15:00Z"
         }
       ]
     },
@@ -37,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "U-Zmkr6Em80",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Nativity of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/U-Zmkr6Em80/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-08T11:30:00Z"
+          "id": "7YrPMNKTayg",
+          "title": "Tuesday 8 AM Catholic Mass for 09/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/7YrPMNKTayg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "L6V35wSou9Q",
@@ -62,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HTIHfOSueB4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-08T23:00:00Z"
+        },
+        {
+          "id": "7kQaqsT5rms",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gorgonius, Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7kQaqsT5rms/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T11:30:00Z"
         }
       ]
     }
