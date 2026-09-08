@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-08T17:09:07.220Z",
+  "lastUpdated": "2026-09-08T20:02:30.054Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,24 +14,6 @@
           "scheduledTime": null
         },
         {
-          "id": "k_3Ih-lQEFY",
-          "title": "FSSPX Antwerpen -08/09  GEBOORTE van de H. MAAGD MARIA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/k_3Ih-lQEFY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "npm5IHAX8NM",
-          "title": "Rosenkranz und hl. Messe - Mariä Geburt - 08. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/npm5IHAX8NM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "w7hkDnNuoow",
           "title": "Hl. Messe - 09. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/w7hkDnNuoow/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-09T05:15:00Z"
+        },
+        {
+          "id": "GY-XKl9eBV8",
+          "title": "St. Gorgonius, Martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/GY-XKl9eBV8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T07:15:00Z"
         },
         {
           "id": "lSJvQSgyhR4",
@@ -63,33 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9pY10PF7B5I",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/9pY10PF7B5I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Fdgi0k42WgI",
-          "title": "Tuesday 8th September 2026: Nativity of Our Lady",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Fdgi0k42WgI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "L6V35wSou9Q",
-          "title": "Solemn Mass for the Feast of the Nativity of the Blessed Virgin Mary",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/L6V35wSou9Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HTIHfOSueB4",
           "title": "NATIVITY OF THE BLESSED VIRGIN MARY, 2026",
