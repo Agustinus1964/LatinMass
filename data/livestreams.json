@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-09T01:00:47.944Z",
+  "lastUpdated": "2026-09-09T06:18:57.822Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BhD_OQtEze0",
-          "title": "Compline - 9/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/BhD_OQtEze0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-09T00:45:00Z"
-        },
-        {
-          "id": "w7hkDnNuoow",
-          "title": "Hl. Messe - 09. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/w7hkDnNuoow/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-09T05:15:00Z"
-        },
         {
           "id": "GY-XKl9eBV8",
           "title": "St. Gorgonius, Martyr",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/GY-XKl9eBV8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-09T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lSJvQSgyhR4",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/1pYwjSi-DeI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-09T16:00:00Z"
+        },
+        {
+          "id": "e45AbWC0e24",
+          "title": "Hl. Messe - hl. Nikolaus von Tolentino - 10. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/e45AbWC0e24/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-10T05:15:00Z"
         }
       ]
     },
