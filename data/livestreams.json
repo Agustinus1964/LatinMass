@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-09T06:18:57.822Z",
+  "lastUpdated": "2026-09-09T11:40:20.706Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "GY-XKl9eBV8",
-          "title": "St. Gorgonius, Martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/GY-XKl9eBV8/mqdefault_live.jpg",
+          "id": "ETDBwRmEo_4",
+          "title": "Low Mass - Feria - 9/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ETDBwRmEo_4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/lSJvQSgyhR4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-09T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1pYwjSi-DeI",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/e45AbWC0e24/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-10T05:15:00Z"
+        },
+        {
+          "id": "MjgMhBmqiHc",
+          "title": "Thu. Sep. 10, 2026    -    St. Nicolas of Tolentino,    Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/MjgMhBmqiHc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-10T11:15:00Z"
         }
       ]
     },
@@ -46,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "sQ8ZLolw4Fc",
-          "title": "Sainte messe de la fête de la Nativité de la Sainte Vierge - SALVE SANCTA PARENS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/sQ8ZLolw4Fc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "7kQaqsT5rms",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Gorgonius, Martyr)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/7kQaqsT5rms/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-09T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Kdc-ebVTu2A",
+          "title": "7am Mass. Feria. IV. Wednesday, September 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Kdc-ebVTu2A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NESureTwYpg",
@@ -89,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/oaDRagdQBEA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-09T17:00:00Z"
+        },
+        {
+          "id": "1eTHia6n4lY",
+          "title": "Thursday 10th September 2026: Saint Nicholas of Tolentino",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/1eTHia6n4lY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-10T07:00:00Z"
         }
       ]
     }
