@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-08T22:51:54.410Z",
+  "lastUpdated": "2026-09-09T01:00:47.944Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "SALInW_oS6A",
-          "title": "Holy Hour - 9/8/26",
+          "id": "BhD_OQtEze0",
+          "title": "Compline - 9/8/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/SALInW_oS6A/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/BhD_OQtEze0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-09T00:45:00Z"
         },
         {
           "id": "w7hkDnNuoow",
@@ -55,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "HTIHfOSueB4",
-          "title": "NATIVITY OF THE BLESSED VIRGIN MARY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/HTIHfOSueB4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-08T23:00:00Z"
+          "id": "sQ8ZLolw4Fc",
+          "title": "Sainte messe de la fête de la Nativité de la Sainte Vierge - SALVE SANCTA PARENS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/sQ8ZLolw4Fc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7kQaqsT5rms",
