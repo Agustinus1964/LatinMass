@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-10T16:52:19.775Z",
+  "lastUpdated": "2026-09-10T19:26:43.691Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Fo72FutaFxY",
-          "title": "FSSPX Antwerpen -10/09  H. NICOLAAS van TOLENTINO",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Fo72FutaFxY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Zyu0SzWbHds",
-          "title": "Sakramentsandacht und hl. Messe - hl. Nikolaus von Tolentino - 10. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Zyu0SzWbHds/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "WOdK03I1ryA",
           "title": "Hl. Messe - 11. September 2026",
@@ -64,40 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "okfAVdxvLAo",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/okfAVdxvLAo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T16:00:00Z"
-        },
-        {
-          "id": "5yyE_8gPgvs",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/5yyE_8gPgvs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T16:58:00Z"
-        },
-        {
-          "id": "eHJiBBtN-R4",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/eHJiBBtN-R4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T17:00:00Z"
-        },
-        {
           "id": "w993dZc-O-g",
           "title": "Sainte messe votive du Saint Nom de Marie en action de grâces pour SOS Chrétiens d'Orient - VULTUM",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/w993dZc-O-g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2WkKDm8DxAU",
@@ -116,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/523CeGuDsEY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T16:00:00Z"
+        },
+        {
+          "id": "nZQthrvacK0",
+          "title": "Friday 11th September 2026: Saints Protus & Hyacinth",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/nZQthrvacK0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T17:00:00Z"
+        },
+        {
+          "id": "WiD3FR1_VJM",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WiD3FR1_VJM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T17:00:00Z"
         }
       ]
     }
