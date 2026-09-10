@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-10T19:26:43.691Z",
+  "lastUpdated": "2026-09-10T21:45:05.616Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "OUsxhiV8aCE",
+          "title": "Ferial Mass  - 11.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/OUsxhiV8aCE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "WOdK03I1ryA",
           "title": "Hl. Messe - 11. September 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WOdK03I1ryA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T05:15:00Z"
+        },
+        {
+          "id": "b1gvm9jTu9o",
+          "title": "Sts. Protus and Hyacinth, Martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/b1gvm9jTu9o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T07:15:00Z"
         },
         {
           "id": "C1jLG9FPH98",
@@ -46,11 +64,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "w993dZc-O-g",
-          "title": "Sainte messe votive du Saint Nom de Marie en action de grâces pour SOS Chrétiens d'Orient - VULTUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/w993dZc-O-g/mqdefault_live.jpg",
+          "id": "hGt12ln4_Bk",
+          "title": "6pm Mass. St. Nicholas of Tolentino. III. Thursday, September 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/hGt12ln4_Bk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "YfamP4fIRD8",
+          "title": "Benção do Santíssimo e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/YfamP4fIRD8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
