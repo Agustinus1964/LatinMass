@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-10T07:51:02.573Z",
+  "lastUpdated": "2026-09-10T12:40:25.073Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MjgMhBmqiHc",
-          "title": "Thu. Sep. 10, 2026    -    St. Nicolas of Tolentino,    Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/MjgMhBmqiHc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T11:15:00Z"
-        },
         {
           "id": "Zyu0SzWbHds",
           "title": "Sakramentsandacht und hl. Messe - hl. Nikolaus von Tolentino - 10. September 2026",
@@ -30,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WOdK03I1ryA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T05:15:00Z"
+        },
+        {
+          "id": "C1jLG9FPH98",
+          "title": "Fri. Sep. 11, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/C1jLG9FPH98/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T11:15:00Z"
+        },
+        {
+          "id": "s3tdKWJSxGk",
+          "title": "Spiritual Conference: How To Benefit From The Sacrament Of Penance?",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/s3tdKWJSxGk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T11:45:00Z"
         }
       ]
     },
@@ -37,22 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1eTHia6n4lY",
-          "title": "Thursday 10th September 2026: Saint Nicholas of Tolentino",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/1eTHia6n4lY/mqdefault_live.jpg",
+          "id": "a707CCn3VSo",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 09/10/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/a707CCn3VSo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "OUxR-xUPUoc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Nicholas of Tolentino, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/OUxR-xUPUoc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T11:30:00Z"
         },
         {
           "id": "okfAVdxvLAo",
@@ -71,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/eHJiBBtN-R4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-10T17:00:00Z"
+        },
+        {
+          "id": "w993dZc-O-g",
+          "title": "Sainte messe votive du Saint Nom de Marie en action de grâces pour SOS Chrétiens d'Orient - VULTUM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/w993dZc-O-g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-10T18:00:00Z"
+        },
+        {
+          "id": "2WkKDm8DxAU",
+          "title": "Friday 8 AM Catholic Mass for 09/11/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/2WkKDm8DxAU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T11:55:00Z"
         }
       ]
     }
