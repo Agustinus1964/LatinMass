@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-10T21:45:05.616Z",
+  "lastUpdated": "2026-09-10T23:40:16.492Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "OUsxhiV8aCE",
-          "title": "Ferial Mass  - 11.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/OUsxhiV8aCE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "fM4NSPfVHZo",
+          "title": "Compline - 9/10/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/fM4NSPfVHZo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T00:45:00Z"
         },
         {
           "id": "WOdK03I1ryA",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/b1gvm9jTu9o/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T07:15:00Z"
+        },
+        {
+          "id": "6uo-C4Nd3AY",
+          "title": "Low Mass - Feria - 9/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6uo-C4Nd3AY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T11:15:00Z"
         },
         {
           "id": "C1jLG9FPH98",
@@ -57,30 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/yJvajqNRIG8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T16:00:00Z"
+        },
+        {
+          "id": "Fta344wKpTk",
+          "title": "Holy Hour - 9/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Fta344wKpTk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T22:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hGt12ln4_Bk",
-          "title": "6pm Mass. St. Nicholas of Tolentino. III. Thursday, September 10, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/hGt12ln4_Bk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YfamP4fIRD8",
-          "title": "Benção do Santíssimo e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YfamP4fIRD8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2WkKDm8DxAU",
           "title": "Friday 8 AM Catholic Mass for 09/11/2026",
@@ -116,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WiD3FR1_VJM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T17:00:00Z"
+        },
+        {
+          "id": "qdZ0_nG1vvc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Protus and Hyacinth, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/qdZ0_nG1vvc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T22:30:00Z"
+        },
+        {
+          "id": "GA9x3hL3gvA",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 09/11/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/GA9x3hL3gvA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T22:55:00Z"
         }
       ]
     }
