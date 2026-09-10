@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-09-10T12:40:25.073Z",
+  "lastUpdated": "2026-09-10T16:52:19.775Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Fo72FutaFxY",
+          "title": "FSSPX Antwerpen -10/09  H. NICOLAAS van TOLENTINO",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Fo72FutaFxY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "Zyu0SzWbHds",
           "title": "Sakramentsandacht und hl. Messe - hl. Nikolaus von Tolentino - 10. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/Zyu0SzWbHds/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WOdK03I1ryA",
@@ -39,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/s3tdKWJSxGk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T11:45:00Z"
+        },
+        {
+          "id": "yJvajqNRIG8",
+          "title": "Rosenkranz und hl. Messe - 11. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/yJvajqNRIG8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T16:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "a707CCn3VSo",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 09/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/a707CCn3VSo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "okfAVdxvLAo",
           "title": "Thursday",
@@ -62,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/okfAVdxvLAo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-10T16:00:00Z"
+        },
+        {
+          "id": "5yyE_8gPgvs",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/5yyE_8gPgvs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-10T16:58:00Z"
         },
         {
           "id": "eHJiBBtN-R4",
@@ -89,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2WkKDm8DxAU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T11:55:00Z"
+        },
+        {
+          "id": "523CeGuDsEY",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/523CeGuDsEY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T16:00:00Z"
         }
       ]
     }
