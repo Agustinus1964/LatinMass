@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-10T02:55:24.270Z",
+  "lastUpdated": "2026-09-10T07:51:02.573Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "e45AbWC0e24",
-          "title": "Hl. Messe - hl. Nikolaus von Tolentino - 10. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/e45AbWC0e24/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T05:15:00Z"
-        },
-        {
-          "id": "hfAGn4MIcW4",
-          "title": "Saint Nicholas of Tolentino, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/hfAGn4MIcW4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T07:15:00Z"
-        },
         {
           "id": "MjgMhBmqiHc",
           "title": "Thu. Sep. 10, 2026    -    St. Nicolas of Tolentino,    Confessor",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Zyu0SzWbHds/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-10T15:00:00Z"
+        },
+        {
+          "id": "WOdK03I1ryA",
+          "title": "Hl. Messe - 11. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WOdK03I1ryA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-11T05:15:00Z"
         }
       ]
     },
@@ -51,8 +42,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/1eTHia6n4lY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-10T07:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OUxR-xUPUoc",
