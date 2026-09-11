@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-11T16:52:30.589Z",
+  "lastUpdated": "2026-09-11T19:25:23.190Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Dg61U9vbRqY",
-          "title": "FSSPX Antwerpen -11/09  DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Dg61U9vbRqY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "yJvajqNRIG8",
           "title": "Rosenkranz und hl. Messe - 11. September 2026",
@@ -63,33 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "nZQthrvacK0",
-          "title": "Friday 11th September 2026: Saints Protus & Hyacinth",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/nZQthrvacK0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "523CeGuDsEY",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/523CeGuDsEY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T16:00:00Z"
-        },
-        {
-          "id": "WiD3FR1_VJM",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WiD3FR1_VJM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T17:00:00Z"
-        },
         {
           "id": "qdZ0_nG1vvc",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Protus and Hyacinth, Martyrs)",
