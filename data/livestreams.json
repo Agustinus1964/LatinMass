@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-09-11T07:44:39.194Z",
+  "lastUpdated": "2026-09-11T12:33:17.611Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "If2X19z7Ojs",
-          "title": "FSSPX Antwerpen -11/09  DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/If2X19z7Ojs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T07:50:00Z"
-        },
-        {
-          "id": "6uo-C4Nd3AY",
-          "title": "Low Mass - Feria - 9/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/6uo-C4Nd3AY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T11:15:00Z"
-        },
-        {
-          "id": "C1jLG9FPH98",
-          "title": "Fri. Sep. 11, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/C1jLG9FPH98/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T11:15:00Z"
-        },
         {
           "id": "s3tdKWJSxGk",
           "title": "Spiritual Conference: How To Benefit From The Sacrament Of Penance?",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
           "thumbnail": "https://i.ytimg.com/vi/s3tdKWJSxGk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T11:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "yJvajqNRIG8",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BTq3Vdz0mI8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T05:15:00Z"
+        },
+        {
+          "id": "eY3T9-nbBuo",
+          "title": "Sat. Sep. 12, 2026    -    Most Holy Name of the Blessed Virgin Mary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/eY3T9-nbBuo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T12:00:00Z"
         }
       ]
     },
@@ -87,8 +69,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/2WkKDm8DxAU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T11:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "523CeGuDsEY",
@@ -143,6 +125,33 @@
           "thumbnail": "https://i.ytimg.com/vi/tTqbSTK1S1E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T07:30:00Z"
+        },
+        {
+          "id": "rrRBlvMsCUQ",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rrRBlvMsCUQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T08:00:00Z"
+        },
+        {
+          "id": "D8g7whgYu0I",
+          "title": "Saturday 12th September 2026: Holy Name of Mary",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/D8g7whgYu0I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T09:30:00Z"
+        },
+        {
+          "id": "UKERNTFBlGc",
+          "title": "Saturday 7 AM Catholic Mass for 09/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/UKERNTFBlGc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T10:55:00Z"
         }
       ]
     }
