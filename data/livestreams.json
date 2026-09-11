@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-11T12:33:17.611Z",
+  "lastUpdated": "2026-09-11T16:52:30.589Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "s3tdKWJSxGk",
-          "title": "Spiritual Conference: How To Benefit From The Sacrament Of Penance?",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/s3tdKWJSxGk/mqdefault_live.jpg",
+          "id": "Dg61U9vbRqY",
+          "title": "FSSPX Antwerpen -11/09  DOOR DE WEEK",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Dg61U9vbRqY/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/yJvajqNRIG8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Fta344wKpTk",
@@ -64,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2WkKDm8DxAU",
-          "title": "Friday 8 AM Catholic Mass for 09/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/2WkKDm8DxAU/mqdefault_live.jpg",
+          "id": "nZQthrvacK0",
+          "title": "Friday 11th September 2026: Saints Protus & Hyacinth",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/nZQthrvacK0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -80,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/523CeGuDsEY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T16:00:00Z"
-        },
-        {
-          "id": "nZQthrvacK0",
-          "title": "Friday 11th September 2026: Saints Protus & Hyacinth",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/nZQthrvacK0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T17:00:00Z"
         },
         {
           "id": "WiD3FR1_VJM",
@@ -152,6 +143,24 @@
           "thumbnail": "https://i.ytimg.com/vi/UKERNTFBlGc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T10:55:00Z"
+        },
+        {
+          "id": "WsrBDjgcuek",
+          "title": "Saturday 9 AM Traditional Catholic Mass 09/12/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/WsrBDjgcuek/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T12:55:00Z"
+        },
+        {
+          "id": "UcNpnPwUNJY",
+          "title": "PREACHED ORATORIO IN HONOR OF OUR LADY OF SORROWS, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/UcNpnPwUNJY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T14:00:00Z"
         }
       ]
     }
