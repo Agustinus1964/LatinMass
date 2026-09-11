@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-10T23:40:16.492Z",
+  "lastUpdated": "2026-09-11T02:49:36.791Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fM4NSPfVHZo",
-          "title": "Compline - 9/10/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/fM4NSPfVHZo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T00:45:00Z"
-        },
         {
           "id": "WOdK03I1ryA",
           "title": "Hl. Messe - 11. September 2026",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Fta344wKpTk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-11T22:30:00Z"
+        },
+        {
+          "id": "bU2ykz5NF4I",
+          "title": "Compline - 9/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/bU2ykz5NF4I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T00:45:00Z"
         }
       ]
     },
