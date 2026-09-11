@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T21:49:41.280Z",
+  "lastUpdated": "2026-09-11T23:50:53.849Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yJvajqNRIG8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "Fta344wKpTk",
-          "title": "Holy Hour - 9/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Fta344wKpTk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T22:30:00Z"
         },
         {
           "id": "bU2ykz5NF4I",
@@ -64,6 +55,15 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "XA2KBI1KySw",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/XA2KBI1KySw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "WdYsu61LCSg",
           "title": "6pm Mass & Holy Hour. Feria. IV. Friday, September 11, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -73,31 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "jwtYNtHK4ow",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/jwtYNtHK4ow/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qdZ0_nG1vvc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Protus and Hyacinth, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/qdZ0_nG1vvc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T22:30:00Z"
-        },
-        {
           "id": "GA9x3hL3gvA",
           "title": "Friday 7 PM Livestream of the Traditional Latin Mass 09/11/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/GA9x3hL3gvA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-11T22:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tTqbSTK1S1E",
@@ -143,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WsrBDjgcuek/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T12:55:00Z"
+        },
+        {
+          "id": "g8X3m9qmFD0",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Most Holy Name of Mary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/g8X3m9qmFD0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T13:00:00Z"
         },
         {
           "id": "UcNpnPwUNJY",
