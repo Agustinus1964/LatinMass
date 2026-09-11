@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T19:25:23.190Z",
+  "lastUpdated": "2026-09-11T21:49:41.280Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -41,6 +41,15 @@
           "scheduledTime": "2026-09-12T05:15:00Z"
         },
         {
+          "id": "fxkocAoIw1M",
+          "title": "The Most Holy Name of Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/fxkocAoIw1M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T07:30:00Z"
+        },
+        {
           "id": "eY3T9-nbBuo",
           "title": "Sat. Sep. 12, 2026    -    Most Holy Name of the Blessed Virgin Mary",
           "channel": "Transfiguration Church SSPX",
@@ -54,6 +63,24 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WdYsu61LCSg",
+          "title": "6pm Mass & Holy Hour. Feria. IV. Friday, September 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WdYsu61LCSg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "jwtYNtHK4ow",
+          "title": "Terço e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/jwtYNtHK4ow/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "qdZ0_nG1vvc",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Protus and Hyacinth, Martyrs)",
