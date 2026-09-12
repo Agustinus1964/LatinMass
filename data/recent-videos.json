@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-12T02:46:23.778Z",
+  "lastUpdated": "2026-09-12T07:36:22.063Z",
   "videos": [
+    {
+      "id": "oLt0BHh_G6I",
+      "title": "Holy Mass 9/11/26 - Feast of Sts. Protus & Hyacinth",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/oLt0BHh_G6I/mqdefault.jpg",
+      "publishedAt": "2026-09-12T04:25:04Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "oqoVcOxNNxQ",
       "title": "Pres. Trump speaks at Pentagon on 9/11: 'We will never forget'",
@@ -110,16 +120,6 @@
       "thumbnail": "https://i.ytimg.com/vi/JSLSIoBWRIg/mqdefault_live.jpg",
       "publishedAt": "2026-09-11T14:38:59Z",
       "category": "Stephen Kokx"
-    },
-    {
-      "id": "oLt0BHh_G6I",
-      "title": "Holy Mass 9/11/26 - Feast of Sts. Protus & Hyacinth",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/oLt0BHh_G6I/mqdefault_live.jpg",
-      "publishedAt": "2026-09-11T13:48:16Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "o6h6wP1xViE",
@@ -390,16 +390,6 @@
       "thumbnail": "https://i.ytimg.com/vi/oX9RX7sJQOw/mqdefault.jpg",
       "publishedAt": "2026-09-03T04:52:46Z",
       "category": "Chesterton's Jest"
-    },
-    {
-      "id": "guMUQKmahiA",
-      "title": "SCISMA CAPITALE - Quando il Papa è il primo nemico del Papato",
-      "channel": "Archbishop Carlo Maria Viganò",
-      "channelId": "UCvYHKJLeyR4w49CEPxEKgpg",
-      "description": "State saldi e mantenete le tradizioni che avete appreso.\n2 Tess 2, 15\n\nHo raccolto in queste pagine — che oggi vedono la luce col titolo «Lo Scisma Capitale. Quando il Papa è il primo nemico del Papat",
-      "thumbnail": "https://i.ytimg.com/vi/guMUQKmahiA/mqdefault.jpg",
-      "publishedAt": "2026-08-29T05:00:06Z",
-      "category": "Abp. Vigano"
     }
   ]
 }
