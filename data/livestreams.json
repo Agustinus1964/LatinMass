@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-12T11:56:32.339Z",
+  "lastUpdated": "2026-09-12T15:06:12.084Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "eY3T9-nbBuo",
-          "title": "Sat. Sep. 12, 2026    -    Most Holy Name of the Blessed Virgin Mary",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/eY3T9-nbBuo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T12:00:00Z"
-        },
         {
           "id": "6Fz5CyODPrg",
           "title": "Compline - 9/12/26",
@@ -30,6 +21,33 @@
           "thumbnail": "https://i.ytimg.com/vi/cOMTca3d1ag/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T07:30:00Z"
+        },
+        {
+          "id": "c8rEfKhAcUA",
+          "title": "16 Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/c8rEfKhAcUA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T13:30:00Z"
+        },
+        {
+          "id": "qU8xkezlzaw",
+          "title": "Sun. Sep.13, 2026    -    Sixteenth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qU8xkezlzaw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T14:00:00Z"
+        },
+        {
+          "id": "QYaSe26AKx8",
+          "title": "Vesper und Sakramentsandacht - 16. Sonntag nach Pfingsten - 13. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QYaSe26AKx8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T15:00:00Z"
         }
       ]
     },
@@ -37,49 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "WQcpXwUQzWQ",
-          "title": "7am Mass. The Most Holy Name of Mary. III. Saturday, September 12, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/WQcpXwUQzWQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "UKERNTFBlGc",
-          "title": "Saturday 7 AM Catholic Mass for 09/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/UKERNTFBlGc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WsrBDjgcuek",
-          "title": "Saturday 9 AM Traditional Catholic Mass 09/12/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/WsrBDjgcuek/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T12:55:00Z"
-        },
-        {
-          "id": "g8X3m9qmFD0",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Most Holy Name of Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/g8X3m9qmFD0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T13:00:00Z"
-        },
-        {
           "id": "UcNpnPwUNJY",
           "title": "PREACHED ORATORIO IN HONOR OF OUR LADY OF SORROWS, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/UcNpnPwUNJY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Cf9qObNTPu0",
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/P3Nyd1w6jTU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T10:00:00Z"
+        },
+        {
+          "id": "aRaSYIW0_CA",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/aRaSYIW0_CA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T14:45:00Z"
         }
       ]
     }
