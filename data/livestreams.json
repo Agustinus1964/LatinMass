@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-11T23:50:53.849Z",
+  "lastUpdated": "2026-09-12T02:57:35.274Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yJvajqNRIG8",
-          "title": "Rosenkranz und hl. Messe - 11. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/yJvajqNRIG8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bU2ykz5NF4I",
-          "title": "Compline - 9/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/bU2ykz5NF4I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T00:45:00Z"
-        },
         {
           "id": "BTq3Vdz0mI8",
           "title": "Hl. Messe - Fest des heiligsten Namens Mariä - 12. September 2026",
@@ -54,33 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XA2KBI1KySw",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/XA2KBI1KySw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WdYsu61LCSg",
-          "title": "6pm Mass & Holy Hour. Feria. IV. Friday, September 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/WdYsu61LCSg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GA9x3hL3gvA",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 09/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/GA9x3hL3gvA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tTqbSTK1S1E",
           "title": "Sainte messe en semaine",
