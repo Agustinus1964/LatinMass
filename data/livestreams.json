@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T07:45:06.571Z",
+  "lastUpdated": "2026-09-12T11:56:32.339Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eY3T9-nbBuo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T12:00:00Z"
+        },
+        {
+          "id": "6Fz5CyODPrg",
+          "title": "Compline - 9/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6Fz5CyODPrg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T00:45:00Z"
         },
         {
           "id": "cOMTca3d1ag",
@@ -28,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tTqbSTK1S1E",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/tTqbSTK1S1E/mqdefault_live.jpg",
+          "id": "WQcpXwUQzWQ",
+          "title": "7am Mass. The Most Holy Name of Mary. III. Saturday, September 12, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/WQcpXwUQzWQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "rrRBlvMsCUQ",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/rrRBlvMsCUQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T08:00:00Z"
-        },
-        {
-          "id": "D8g7whgYu0I",
-          "title": "Saturday 12th September 2026: Holy Name of Mary",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/D8g7whgYu0I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T09:30:00Z"
         },
         {
           "id": "UKERNTFBlGc",
@@ -60,8 +51,8 @@
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
           "thumbnail": "https://i.ytimg.com/vi/UKERNTFBlGc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T10:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WsrBDjgcuek",
@@ -89,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/UcNpnPwUNJY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T14:00:00Z"
+        },
+        {
+          "id": "Cf9qObNTPu0",
+          "title": "8am — 16th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Cf9qObNTPu0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T07:00:00Z"
+        },
+        {
+          "id": "kO-9VUZUJVE",
+          "title": "9:30am — 24th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/kO-9VUZUJVE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T08:30:00Z"
+        },
+        {
+          "id": "P3Nyd1w6jTU",
+          "title": "11am — 24th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/P3Nyd1w6jTU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T10:00:00Z"
         }
       ]
     }
