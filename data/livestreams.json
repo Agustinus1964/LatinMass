@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T20:07:45.724Z",
+  "lastUpdated": "2026-09-12T22:27:07.963Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LP0FWPJH3hU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T17:00:00Z"
+        },
+        {
+          "id": "2zmeF55apmg",
+          "title": "Simple II Vespers - 16th Sunday after Pentecost - 9/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/2zmeF55apmg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T21:00:00Z"
         }
       ]
     },
