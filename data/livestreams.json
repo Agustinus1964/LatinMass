@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-12T02:57:35.274Z",
+  "lastUpdated": "2026-09-12T07:45:06.571Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BTq3Vdz0mI8",
-          "title": "Hl. Messe - Fest des heiligsten Namens Mariä - 12. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/BTq3Vdz0mI8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T05:15:00Z"
-        },
-        {
-          "id": "fxkocAoIw1M",
-          "title": "The Most Holy Name of Mary",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/fxkocAoIw1M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T07:30:00Z"
-        },
         {
           "id": "eY3T9-nbBuo",
           "title": "Sat. Sep. 12, 2026    -    Most Holy Name of the Blessed Virgin Mary",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eY3T9-nbBuo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-12T12:00:00Z"
+        },
+        {
+          "id": "cOMTca3d1ag",
+          "title": "Amt - 16. Sonntag nach Pfingsten - 13. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/cOMTca3d1ag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T07:30:00Z"
         }
       ]
     },
@@ -42,8 +33,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/tTqbSTK1S1E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T07:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "rrRBlvMsCUQ",
