@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-12T17:46:30.827Z",
+  "lastUpdated": "2026-09-12T20:07:45.724Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "SAX7EiHy7EA",
+          "title": "Rosary - 9/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/SAX7EiHy7EA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-12T23:00:00Z"
+        },
         {
           "id": "6Fz5CyODPrg",
           "title": "Compline - 9/12/26",
@@ -12,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/6Fz5CyODPrg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T00:45:00Z"
-        },
-        {
-          "id": "cOMTca3d1ag",
-          "title": "Amt - 16. Sonntag nach Pfingsten - 13. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/cOMTca3d1ag/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T07:30:00Z"
         },
         {
           "id": "jTdDhZ9Na2s",
@@ -32,6 +32,15 @@
           "scheduledTime": "2026-09-13T08:25:00Z"
         },
         {
+          "id": "7_H7lG5OrPE",
+          "title": "Low Mass - 16th Sunday after Pentecost - 9/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7_H7lG5OrPE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T11:20:00Z"
+        },
+        {
           "id": "c8rEfKhAcUA",
           "title": "16 Sunday After Pentecost",
           "channel": "SSPX Florida",
@@ -41,13 +50,13 @@
           "scheduledTime": "2026-09-13T13:30:00Z"
         },
         {
-          "id": "QYaSe26AKx8",
-          "title": "Vesper und Sakramentsandacht - 16. Sonntag nach Pfingsten - 13. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QYaSe26AKx8/mqdefault_live.jpg",
+          "id": "z1yosnNuCIQ",
+          "title": "High Mass - 16th Sunday after Pentecost - 9/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/z1yosnNuCIQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-13T15:00:00Z"
+          "scheduledTime": "2026-09-13T14:00:00Z"
         },
         {
           "id": "LP0FWPJH3hU",
