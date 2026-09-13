@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-12T22:27:07.963Z",
+  "lastUpdated": "2026-09-13T00:08:04.618Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "SAX7EiHy7EA",
-          "title": "Rosary - 9/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/SAX7EiHy7EA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-12T23:00:00Z"
+          "id": "asLk8rHaOd0",
+          "title": "Mass  of The Sixteenth Sunday after Pentecost - 13.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/asLk8rHaOd0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6Fz5CyODPrg",
@@ -100,6 +100,15 @@
           "scheduledTime": "2026-09-13T08:30:00Z"
         },
         {
+          "id": "FsYheGUPqas",
+          "title": "Sainte messe du XVIème dimanche après la Pentecôte - MISERERE MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/FsYheGUPqas/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T09:00:00Z"
+        },
+        {
           "id": "P3Nyd1w6jTU",
           "title": "11am — 24th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_RkseQBP10M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T15:30:00Z"
+        },
+        {
+          "id": "X5ZAdeQDB7M",
+          "title": "Premières vêpres de la fête de l'Exaltation de la Sainte Croix - O CRUX SPLENDIDIOR",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/X5ZAdeQDB7M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T15:45:00Z"
         },
         {
           "id": "MH_GdVjdxAc",
