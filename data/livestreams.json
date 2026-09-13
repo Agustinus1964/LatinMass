@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-13T20:14:48.159Z",
+  "lastUpdated": "2026-09-13T22:31:47.732Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "2zmeF55apmg",
-          "title": "Simple II Vespers - 16th Sunday after Pentecost - 9/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/2zmeF55apmg/mqdefault_live.jpg",
+          "id": "FmMdnBfL2EU",
+          "title": "Seven Sorrows of the BVM .9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/FmMdnBfL2EU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-13T21:00:00Z"
+          "scheduledTime": "2026-09-13T21:52:55Z"
         },
         {
           "id": "3fSqs-6cgY8",
@@ -72,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "U8VtLkKQlYQ",
-          "title": "Missa Rezada do XVI Domingo depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/U8VtLkKQlYQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Y5nirXAB2KE",
           "title": "Live Stream Holy Mass from Cleveland USA (The Exaltation of the Holy Cross)",
