@@ -1,62 +1,17 @@
 {
-  "lastUpdated": "2026-09-13T14:34:35.536Z",
+  "lastUpdated": "2026-09-13T17:53:53.309Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z1yosnNuCIQ",
-          "title": "Solemn High Mass - 16th Sunday after Pentecost - 9/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/z1yosnNuCIQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "N0VTt-DFgeE",
-          "title": "Sixteenth Sunday After Pentecost-The Immaculata",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/N0VTt-DFgeE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "c8rEfKhAcUA",
-          "title": "16 Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/c8rEfKhAcUA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "qU8xkezlzaw",
-          "title": "Sun. Sep.13, 2026    -    Sixteenth Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/qU8xkezlzaw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "z1FIuXdJGcA",
-          "title": "Sixteenth Sunday after Pentecost, September 13, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/z1FIuXdJGcA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T14:45:00Z"
-        },
         {
           "id": "LP0FWPJH3hU",
           "title": "XVI Sunday after Pentecost | September 13th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/LP0FWPJH3hU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2zmeF55apmg",
@@ -102,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AssB4XxZedE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-14T11:15:00Z"
+        },
+        {
+          "id": "NlhJ5DDlD-4",
+          "title": "Rosenkranz und hl. Messe - Fest Kreuzerhöhung - 14. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/NlhJ5DDlD-4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T16:00:00Z"
         }
       ]
     },
@@ -109,29 +73,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "miGHg0Hxrn4",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Sixteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/miGHg0Hxrn4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yi7hNe9Bzws",
-          "title": "10:30am Sung Mass. Sixteenth Sunday after Pentecost. II. September 13, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/yi7hNe9Bzws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "NLd_tqz9-CQ",
-          "title": "16th Sunday after Pentecost / 16e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/NLd_tqz9-CQ/mqdefault_live.jpg",
+          "id": "cUGJLr93aZ0",
+          "title": "Sunday 1:30 PM Catholic Mass 09/13/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/cUGJLr93aZ0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -145,42 +91,6 @@
           "scheduledTime": null
         },
         {
-          "id": "aRaSYIW0_CA",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/aRaSYIW0_CA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T14:45:00Z"
-        },
-        {
-          "id": "_RkseQBP10M",
-          "title": "SIXTEENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/_RkseQBP10M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T15:30:00Z"
-        },
-        {
-          "id": "X5ZAdeQDB7M",
-          "title": "Premières vêpres de la fête de l'Exaltation de la Sainte Croix - O CRUX SPLENDIDIOR",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/X5ZAdeQDB7M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T15:45:00Z"
-        },
-        {
-          "id": "MH_GdVjdxAc",
-          "title": "Vespers and Benediction — 16th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/MH_GdVjdxAc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T16:00:00Z"
-        },
-        {
           "id": "5e1uIoo68To",
           "title": "Render Love for Love",
           "channel": "ICKSP",
@@ -188,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/5e1uIoo68To/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T18:00:00Z"
+        },
+        {
+          "id": "Y5nirXAB2KE",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Exaltation of the Holy Cross)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Y5nirXAB2KE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T11:30:00Z"
+        },
+        {
+          "id": "gPSeKgkIvGA",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/gPSeKgkIvGA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T17:00:00Z"
         }
       ]
     }
