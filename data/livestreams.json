@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-13T05:08:24.511Z",
+  "lastUpdated": "2026-09-13T10:27:28.972Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "jTdDhZ9Na2s",
-          "title": "XVI Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/jTdDhZ9Na2s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T08:25:00Z"
+          "id": "LbXP206D3Fs",
+          "title": "16th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/LbXP206D3Fs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7_H7lG5OrPE",
@@ -66,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3fSqs-6cgY8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-14T00:45:00Z"
+        },
+        {
+          "id": "MHMKIDve7vU",
+          "title": "Hl. Messe - Fest Kreuzerhöhung - 14. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/MHMKIDve7vU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T05:15:00Z"
         }
       ]
     },
@@ -73,31 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Cf9qObNTPu0",
-          "title": "8am — 16th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Cf9qObNTPu0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T07:00:00Z"
-        },
-        {
-          "id": "kO-9VUZUJVE",
-          "title": "9:30am — 24th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/kO-9VUZUJVE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T08:30:00Z"
-        },
-        {
-          "id": "FsYheGUPqas",
-          "title": "Sainte messe du XVIème dimanche après la Pentecôte - MISERERE MIHI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/FsYheGUPqas/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T09:00:00Z"
+          "id": "Dp83OLMKW7E",
+          "title": "Sunday 13th September 2026: Sixteenth Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/Dp83OLMKW7E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "P3Nyd1w6jTU",
@@ -105,8 +96,26 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/P3Nyd1w6jTU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "FsYheGUPqas",
+          "title": "Sainte messe du XVIème dimanche après la Pentecôte - MISERERE MIHI",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/FsYheGUPqas/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "nIaADweRoiY",
+          "title": "Missa rezada - XVI Domingo depois de Pentecostes - 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/nIaADweRoiY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "-c4jRo_bdgA",
