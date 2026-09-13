@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-13T17:53:53.309Z",
+  "lastUpdated": "2026-09-13T20:14:48.159Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LP0FWPJH3hU",
-          "title": "XVI Sunday after Pentecost | September 13th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/LP0FWPJH3hU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "2zmeF55apmg",
           "title": "Simple II Vespers - 16th Sunday after Pentecost - 9/13/26",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MHMKIDve7vU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-14T05:15:00Z"
+        },
+        {
+          "id": "EkkSRNktess",
+          "title": "The Exaltation of the Holy Cross",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/EkkSRNktess/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T07:15:00Z"
         },
         {
           "id": "lddTj1YGRIc",
@@ -73,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cUGJLr93aZ0",
-          "title": "Sunday 1:30 PM Catholic Mass 09/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/cUGJLr93aZ0/mqdefault_live.jpg",
+          "id": "U8VtLkKQlYQ",
+          "title": "Missa Rezada do XVI Domingo depois de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/U8VtLkKQlYQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "IhLdGCy6WJQ",
-          "title": "Santa Misa Dominical. 13 de septiembre 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/IhLdGCy6WJQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5e1uIoo68To",
-          "title": "Render Love for Love",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/5e1uIoo68To/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T18:00:00Z"
         },
         {
           "id": "Y5nirXAB2KE",
