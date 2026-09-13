@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-09-13T10:27:28.972Z",
+  "lastUpdated": "2026-09-13T14:34:35.536Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "LbXP206D3Fs",
-          "title": "16th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/LbXP206D3Fs/mqdefault_live.jpg",
+          "id": "z1yosnNuCIQ",
+          "title": "Solemn High Mass - 16th Sunday after Pentecost - 9/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/z1yosnNuCIQ/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "7_H7lG5OrPE",
-          "title": "Low Mass - 16th Sunday after Pentecost - 9/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7_H7lG5OrPE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T11:20:00Z"
+          "id": "N0VTt-DFgeE",
+          "title": "Sixteenth Sunday After Pentecost-The Immaculata",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/N0VTt-DFgeE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "c8rEfKhAcUA",
@@ -28,17 +28,26 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/c8rEfKhAcUA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T13:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "z1yosnNuCIQ",
-          "title": "Solemn High Mass - 16th Sunday after Pentecost - 9/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/z1yosnNuCIQ/mqdefault_live.jpg",
+          "id": "qU8xkezlzaw",
+          "title": "Sun. Sep.13, 2026    -    Sixteenth Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qU8xkezlzaw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "z1FIuXdJGcA",
+          "title": "Sixteenth Sunday after Pentecost, September 13, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/z1FIuXdJGcA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-13T14:00:00Z"
+          "scheduledTime": "2026-09-13T14:45:00Z"
         },
         {
           "id": "LP0FWPJH3hU",
@@ -75,6 +84,24 @@
           "thumbnail": "https://i.ytimg.com/vi/MHMKIDve7vU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-14T05:15:00Z"
+        },
+        {
+          "id": "lddTj1YGRIc",
+          "title": "Sung Mass - The Exaltation of the Holy Cross - 9/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/lddTj1YGRIc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T10:50:00Z"
+        },
+        {
+          "id": "AssB4XxZedE",
+          "title": "Mon. Sep. 14, 2026    -    Exaltation of the Holy Cross",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/AssB4XxZedE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T11:15:00Z"
         }
       ]
     },
@@ -82,58 +109,40 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Dp83OLMKW7E",
-          "title": "Sunday 13th September 2026: Sixteenth Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/Dp83OLMKW7E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "P3Nyd1w6jTU",
-          "title": "11am — 24th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/P3Nyd1w6jTU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FsYheGUPqas",
-          "title": "Sainte messe du XVIème dimanche après la Pentecôte - MISERERE MIHI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/FsYheGUPqas/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nIaADweRoiY",
-          "title": "Missa rezada - XVI Domingo depois de Pentecostes - 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/nIaADweRoiY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-c4jRo_bdgA",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/-c4jRo_bdgA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T12:00:00Z"
-        },
-        {
           "id": "miGHg0Hxrn4",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Sixteenth Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/miGHg0Hxrn4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T14:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "yi7hNe9Bzws",
+          "title": "10:30am Sung Mass. Sixteenth Sunday after Pentecost. II. September 13, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/yi7hNe9Bzws/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "NLd_tqz9-CQ",
+          "title": "16th Sunday after Pentecost / 16e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/NLd_tqz9-CQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "IhLdGCy6WJQ",
+          "title": "Santa Misa Dominical. 13 de septiembre 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/IhLdGCy6WJQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "aRaSYIW0_CA",
