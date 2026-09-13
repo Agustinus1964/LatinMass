@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-13T00:08:04.618Z",
+  "lastUpdated": "2026-09-13T05:08:24.511Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "asLk8rHaOd0",
-          "title": "Mass  of The Sixteenth Sunday after Pentecost - 13.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/asLk8rHaOd0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6Fz5CyODPrg",
-          "title": "Compline - 9/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/6Fz5CyODPrg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-13T00:45:00Z"
-        },
         {
           "id": "jTdDhZ9Na2s",
           "title": "XVI Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
@@ -51,7 +33,7 @@
         },
         {
           "id": "z1yosnNuCIQ",
-          "title": "High Mass - 16th Sunday after Pentecost - 9/13/26",
+          "title": "Solemn High Mass - 16th Sunday after Pentecost - 9/13/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/z1yosnNuCIQ/mqdefault_live.jpg",
@@ -75,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2zmeF55apmg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T21:00:00Z"
+        },
+        {
+          "id": "3fSqs-6cgY8",
+          "title": "Compline - 9/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/3fSqs-6cgY8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-14T00:45:00Z"
         }
       ]
     },
@@ -170,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/MH_GdVjdxAc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-13T16:00:00Z"
+        },
+        {
+          "id": "5e1uIoo68To",
+          "title": "Render Love for Love",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/5e1uIoo68To/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-13T18:00:00Z"
         }
       ]
     }
