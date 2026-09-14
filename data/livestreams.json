@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-14T21:24:18.708Z",
+  "lastUpdated": "2026-09-14T23:55:55.638Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "RoO8bn5GtQA",
-          "title": "Seven Sorrows of the BVM 15.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/RoO8bn5GtQA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LEzU8Ckhwyw",
-          "title": "Solemn I Vespers - Feast of the 7 Sorrows of the Blesed Virgin Mary - 6/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/LEzU8Ckhwyw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-14T22:50:00Z"
-        },
         {
           "id": "qU5yrN1ZqRI",
           "title": "Compline - 9/14/26",
@@ -56,7 +38,7 @@
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/MSFe9CIlNgE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-15T10:50:00Z"
+          "scheduledTime": "2026-09-15T10:30:00Z"
         },
         {
           "id": "8H7EA42XJQ0",
@@ -75,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/HXzsh2_GId4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T16:00:00Z"
+        },
+        {
+          "id": "QfNhZftHrRk",
+          "title": "Seven Sorrows Solemn High Mass",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/QfNhZftHrRk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T22:00:00Z"
+        },
+        {
+          "id": "FgyXJDAtFLY",
+          "title": "Solemn II Vespers - Feast of the Blessed Virgin Mary - 9/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/FgyXJDAtFLY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T22:30:00Z"
         }
       ]
     },
@@ -82,22 +82,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "gW0cVGqrkVc",
-          "title": "Terço",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/gW0cVGqrkVc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "yHBNkJxLBZM",
           "title": "EXALTATION OF THE MOST HOLY CROSS, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/yHBNkJxLBZM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-14T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "z1PLM9Gg_vg",
+          "title": "Exaltation of the Holy Cross / Exaltation de la Sainte Croix",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/z1PLM9Gg_vg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "uTq60WpHIgY",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6QjMOQ9GOZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T17:00:00Z"
+        },
+        {
+          "id": "UE8Vz5gjF38",
+          "title": "SEVEN SORROWS OF THE BLESSED VIRGIN MARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/UE8Vz5gjF38/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T23:00:00Z"
         }
       ]
     }
