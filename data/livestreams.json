@@ -1,33 +1,33 @@
 {
-  "lastUpdated": "2026-09-14T17:35:28.532Z",
+  "lastUpdated": "2026-09-14T21:24:18.708Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "NlhJ5DDlD-4",
-          "title": "Rosenkranz und hl. Messe - Fest Kreuzerhöhung - 14. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/NlhJ5DDlD-4/mqdefault_live.jpg",
+          "id": "RoO8bn5GtQA",
+          "title": "Seven Sorrows of the BVM 15.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/RoO8bn5GtQA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "JfaWpK6HqQU",
-          "title": "Solemn I Vespers - Seven Sorrows of the Blessed Virgin Mary - 9/14/26",
+          "id": "LEzU8Ckhwyw",
+          "title": "Solemn I Vespers - Feast of the 7 Sorrows of the Blesed Virgin Mary - 6/14/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JfaWpK6HqQU/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/LEzU8Ckhwyw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-14T22:50:00Z"
         },
         {
-          "id": "zfrE5zz9j30",
+          "id": "qU5yrN1ZqRI",
           "title": "Compline - 9/14/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/zfrE5zz9j30/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/qU5yrN1ZqRI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T00:45:00Z"
         },
@@ -39,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/sQrmMqcEoEs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T05:15:00Z"
+        },
+        {
+          "id": "BO6s2CinE9I",
+          "title": "The Seven Sorrows of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/BO6s2CinE9I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T07:15:00Z"
+        },
+        {
+          "id": "MSFe9CIlNgE",
+          "title": "Solemn High Mass - Feast of the 7 Sorrows of the Blessed Virgin Mary - 9/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/MSFe9CIlNgE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T10:50:00Z"
         },
         {
           "id": "8H7EA42XJQ0",
@@ -64,38 +82,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8EwnPLX2goI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/8EwnPLX2goI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m1-i8AcRris",
-          "title": "Monday, 14 September 2026 - Exaltation of the Holy Cross",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/m1-i8AcRris/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gPSeKgkIvGA",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/gPSeKgkIvGA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gu0AYjPPgX8",
-          "title": "Sainte messe de la fête de l'Exaltation de la Sainte Croix - NOS AUTEM GLORIARI",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/gu0AYjPPgX8/mqdefault_live.jpg",
+          "id": "gW0cVGqrkVc",
+          "title": "Terço",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/gW0cVGqrkVc/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -123,6 +114,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/HxteoQeeGiw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T17:00:00Z"
+        },
+        {
+          "id": "6QjMOQ9GOZs",
+          "title": "Sainte messe de la fête de Notre Dame des 7 Douleurs - STABANT JUXTA CRUCEM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6QjMOQ9GOZs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T17:00:00Z"
         }
