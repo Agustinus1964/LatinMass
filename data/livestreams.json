@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-14T00:40:23.300Z",
+  "lastUpdated": "2026-09-14T05:44:08.914Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3fSqs-6cgY8",
-          "title": "Compline - 9/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/3fSqs-6cgY8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-14T00:45:00Z"
-        },
         {
           "id": "MHMKIDve7vU",
           "title": "Hl. Messe - Fest Kreuzerhöhung - 14. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/MHMKIDve7vU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-14T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EkkSRNktess",
@@ -29,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/EkkSRNktess/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-14T07:15:00Z"
+          "scheduledTime": "2026-09-14T06:15:00Z"
         },
         {
           "id": "lddTj1YGRIc",
@@ -66,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/JfaWpK6HqQU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-14T22:50:00Z"
+        },
+        {
+          "id": "zfrE5zz9j30",
+          "title": "Compline - 9/14/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/zfrE5zz9j30/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T00:45:00Z"
+        },
+        {
+          "id": "sQrmMqcEoEs",
+          "title": "Hl. Messe - Fest der Sieben Schmerzen Mariens - 15. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sQrmMqcEoEs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T05:15:00Z"
         }
       ]
     },
