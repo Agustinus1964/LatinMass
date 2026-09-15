@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-14T23:55:55.638Z",
+  "lastUpdated": "2026-09-15T03:28:23.825Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qU5yrN1ZqRI",
-          "title": "Compline - 9/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/qU5yrN1ZqRI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T00:45:00Z"
-        },
         {
           "id": "sQrmMqcEoEs",
           "title": "Hl. Messe - Fest der Sieben Schmerzen Mariens - 15. September 2026",
@@ -50,6 +41,15 @@
           "scheduledTime": "2026-09-15T11:15:00Z"
         },
         {
+          "id": "X_Gq2ztbxso",
+          "title": "The Seven Sorrows of the Blessed Virgin Mary | September 15th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/X_Gq2ztbxso/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T15:00:00Z"
+        },
+        {
           "id": "HXzsh2_GId4",
           "title": "Vesper, Sakramentsandacht und Amt -  Fest der Sieben Schmerzen Mariens - 15. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -75,30 +75,21 @@
           "thumbnail": "https://i.ytimg.com/vi/FgyXJDAtFLY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T22:30:00Z"
+        },
+        {
+          "id": "5gDq2oxpEHU",
+          "title": "Compline - 9/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/5gDq2oxpEHU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yHBNkJxLBZM",
-          "title": "EXALTATION OF THE MOST HOLY CROSS, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/yHBNkJxLBZM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "z1PLM9Gg_vg",
-          "title": "Exaltation of the Holy Cross / Exaltation de la Sainte Croix",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/z1PLM9Gg_vg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "uTq60WpHIgY",
           "title": "Live Stream Holy Mass from Cleveland USA (The Seven Sorrows of the Blessed Virgin Mary)",
