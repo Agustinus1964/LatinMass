@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-15T03:28:23.825Z",
+  "lastUpdated": "2026-09-15T08:54:33.099Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sQrmMqcEoEs",
-          "title": "Hl. Messe - Fest der Sieben Schmerzen Mariens - 15. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/sQrmMqcEoEs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T05:15:00Z"
-        },
-        {
-          "id": "BO6s2CinE9I",
-          "title": "The Seven Sorrows of the Blessed Virgin Mary",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/BO6s2CinE9I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T07:15:00Z"
-        },
         {
           "id": "MSFe9CIlNgE",
           "title": "Solemn High Mass - Feast of the 7 Sorrows of the Blessed Virgin Mary - 9/15/26",
@@ -59,6 +41,15 @@
           "scheduledTime": "2026-09-15T16:00:00Z"
         },
         {
+          "id": "YJvL0VoyDUc",
+          "title": "FSSPX Antwerpen -15/09  OLV van zeven Smarten",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/YJvL0VoyDUc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-15T16:30:00Z"
+        },
+        {
           "id": "QfNhZftHrRk",
           "title": "Seven Sorrows Solemn High Mass",
           "channel": "SSPX Florida",
@@ -84,6 +75,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5gDq2oxpEHU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T00:45:00Z"
+        },
+        {
+          "id": "zouI3a39QjY",
+          "title": "Hl. Messe - Hl. Kornelius und Cyprian - 16. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/zouI3a39QjY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T05:15:00Z"
         }
       ]
     },
