@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-15T14:07:53.604Z",
+  "lastUpdated": "2026-09-15T18:21:14.752Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "X_Gq2ztbxso",
-          "title": "The Seven Sorrows of the Blessed Virgin Mary | September 15th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/X_Gq2ztbxso/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T15:00:00Z"
-        },
         {
           "id": "HXzsh2_GId4",
           "title": "Vesper, Sakramentsandacht und Amt -  Fest der Sieben Schmerzen Mariens - 15. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/HXzsh2_GId4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T16:00:00Z"
-        },
-        {
-          "id": "YJvL0VoyDUc",
-          "title": "FSSPX Antwerpen -15/09  OLV van zeven Smarten",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/YJvL0VoyDUc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QfNhZftHrRk",
@@ -84,39 +66,21 @@
           "thumbnail": "https://i.ytimg.com/vi/dwm1wVNBrH4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T11:15:00Z"
+        },
+        {
+          "id": "3VmhyyhHNtY",
+          "title": "Rosenkranz und hl. Messe - Hl. Kornelius und Cyprian - 16. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3VmhyyhHNtY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T16:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E4KhugS_5YQ",
-          "title": "Santo Sacrificio de la Misa, Los siete Dolores de La Santísima Virgen Marìa, 15 de septiembre 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/E4KhugS_5YQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HxteoQeeGiw",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/HxteoQeeGiw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T17:00:00Z"
-        },
-        {
-          "id": "6QjMOQ9GOZs",
-          "title": "Sainte messe de la fête de Notre Dame des 7 Douleurs - STABANT JUXTA CRUCEM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/6QjMOQ9GOZs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T17:00:00Z"
-        },
         {
           "id": "UE8Vz5gjF38",
           "title": "SEVEN SORROWS OF THE BLESSED VIRGIN MARY, 2026",
@@ -134,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_cyCQ-Dvkbo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T11:30:00Z"
+        },
+        {
+          "id": "h_9BrJVOOdc",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/h_9BrJVOOdc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "IOmW2h4XgTg",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/IOmW2h4XgTg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T17:00:00Z"
         }
       ]
     }
