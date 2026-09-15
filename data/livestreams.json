@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-15T08:54:33.099Z",
+  "lastUpdated": "2026-09-15T14:07:53.604Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MSFe9CIlNgE",
-          "title": "Solemn High Mass - Feast of the 7 Sorrows of the Blessed Virgin Mary - 9/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/MSFe9CIlNgE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T10:30:00Z"
-        },
-        {
-          "id": "8H7EA42XJQ0",
-          "title": "Tue. Sep. 15, 2026    -    The Seven Sorrows of the Blessed Virgin Mary,  Patron of SSPX Oblates",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/8H7EA42XJQ0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T11:15:00Z"
-        },
         {
           "id": "X_Gq2ztbxso",
           "title": "The Seven Sorrows of the Blessed Virgin Mary | September 15th",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/zouI3a39QjY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T05:15:00Z"
+        },
+        {
+          "id": "vC953x9nMYw",
+          "title": "Low Mass -Ss. Cornelius and Cyprian - 9/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/vC953x9nMYw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T11:15:00Z"
+        },
+        {
+          "id": "dwm1wVNBrH4",
+          "title": "Wed. Sep. 16, 2026  -  Sts. Cornelius & Cyprian, Pope (St. Cornelius), Bishop, St. (Cyprian) Martyrs",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/dwm1wVNBrH4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T11:15:00Z"
         }
       ]
     },
@@ -91,13 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uTq60WpHIgY",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Seven Sorrows of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/uTq60WpHIgY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T11:30:00Z"
+          "id": "E4KhugS_5YQ",
+          "title": "Santo Sacrificio de la Misa, Los siete Dolores de La Santísima Virgen Marìa, 15 de septiembre 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/E4KhugS_5YQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HxteoQeeGiw",
@@ -125,6 +125,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UE8Vz5gjF38/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-15T23:00:00Z"
+        },
+        {
+          "id": "_cyCQ-Dvkbo",
+          "title": "Live Stream Holy Mass from Cleveland (Saints Cornelius, Pope & Martyr, and Cyprian, Bishop & Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/_cyCQ-Dvkbo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T11:30:00Z"
         }
       ]
     }
