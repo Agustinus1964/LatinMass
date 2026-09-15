@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-15T21:35:39.487Z",
+  "lastUpdated": "2026-09-15T23:56:03.338Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "sVSy3r3kSKE",
-          "title": "Mass of St Cornelius P, St Cyprian B - 16.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/sVSy3r3kSKE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "QfNhZftHrRk",
-          "title": "Seven Sorrows Solemn High Mass",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/QfNhZftHrRk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T22:00:00Z"
-        },
-        {
-          "id": "FgyXJDAtFLY",
-          "title": "Solemn II Vespers - Feast of the Blessed Virgin Mary - 9/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/FgyXJDAtFLY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T22:30:00Z"
-        },
         {
           "id": "5gDq2oxpEHU",
           "title": "Compline - 9/15/26",
@@ -84,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3VmhyyhHNtY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T16:00:00Z"
+        },
+        {
+          "id": "P6s-qB04t_U",
+          "title": "Rosary - 9/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/P6s-qB04t_U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T23:00:00Z"
         }
       ]
     },
@@ -96,8 +78,17 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/UE8Vz5gjF38/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-15T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "VkWQzX3-n_c",
+          "title": "Festa de Nossa Senhora das Dores - Missa Solene",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/VkWQzX3-n_c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_cyCQ-Dvkbo",
