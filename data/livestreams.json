@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-09-15T18:21:14.752Z",
+  "lastUpdated": "2026-09-15T21:35:39.487Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "HXzsh2_GId4",
-          "title": "Vesper, Sakramentsandacht und Amt -  Fest der Sieben Schmerzen Mariens - 15. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HXzsh2_GId4/mqdefault_live.jpg",
+          "id": "sVSy3r3kSKE",
+          "title": "Mass of St Cornelius P, St Cyprian B - 16.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/sVSy3r3kSKE/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/zouI3a39QjY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T05:15:00Z"
+        },
+        {
+          "id": "VJSCpdwKGXk",
+          "title": "Saints Cornelius, pope, and Cyprian, bishop, martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/VJSCpdwKGXk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-16T07:15:00Z"
         },
         {
           "id": "vC953x9nMYw",
