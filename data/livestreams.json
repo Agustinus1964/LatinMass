@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-16T08:46:30.351Z",
+  "lastUpdated": "2026-09-16T14:00:09.242Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vC953x9nMYw",
-          "title": "Low Mass -Ss. Cornelius and Cyprian - 9/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/vC953x9nMYw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-16T11:15:00Z"
-        },
-        {
-          "id": "dwm1wVNBrH4",
-          "title": "Wed. Sep. 16, 2026  -  Sts. Cornelius & Cyprian, Pope (St. Cornelius), Bishop, St. (Cyprian) Martyrs",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/dwm1wVNBrH4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-16T11:15:00Z"
-        },
         {
           "id": "3VmhyyhHNtY",
           "title": "Rosenkranz und hl. Messe - Hl. Kornelius und Cyprian - 16. September 2026",
@@ -57,21 +39,30 @@
           "thumbnail": "https://i.ytimg.com/vi/hDNGld0E3AM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-17T05:15:00Z"
+        },
+        {
+          "id": "Abe7KZTb09w",
+          "title": "Low Mass  - Feria - 9/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Abe7KZTb09w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-17T11:15:00Z"
+        },
+        {
+          "id": "K412nIuu4w8",
+          "title": "Thu. Sep. 17, 2026   -   Stigmata of St, Francis of Assisi",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/K412nIuu4w8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-17T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "_cyCQ-Dvkbo",
-          "title": "Live Stream Holy Mass from Cleveland (Saints Cornelius, Pope & Martyr, and Cyprian, Bishop & Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/_cyCQ-Dvkbo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-16T11:30:00Z"
-        },
         {
           "id": "h_9BrJVOOdc",
           "title": "Wednesday",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IOmW2h4XgTg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T17:00:00Z"
+        },
+        {
+          "id": "MJUzzSct7cE",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Stigmata of Saint Francis of Assisi)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/MJUzzSct7cE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-17T11:30:00Z"
         }
       ]
     }
