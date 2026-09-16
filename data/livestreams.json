@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-16T18:07:07.277Z",
+  "lastUpdated": "2026-09-16T21:30:35.022Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "B5PzE03ZhYY",
+          "title": "Ferial Mass - 17.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/B5PzE03ZhYY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hDNGld0E3AM",
           "title": "Hl. Messe - 17. September 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/hDNGld0E3AM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-17T05:15:00Z"
+        },
+        {
+          "id": "LbIlJkaWqcw",
+          "title": "Feria: 16ᵗʰ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/LbIlJkaWqcw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-17T07:15:00Z"
         },
         {
           "id": "K412nIuu4w8",
@@ -36,6 +54,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Q8sStACRY6A",
+          "title": "Terço e Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Q8sStACRY6A/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "MJUzzSct7cE",
           "title": "Live Stream Holy Mass from Cleveland USA (The Stigmata of Saint Francis of Assisi)",
