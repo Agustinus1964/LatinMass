@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-15T23:56:03.338Z",
+  "lastUpdated": "2026-09-16T03:26:40.053Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5gDq2oxpEHU",
-          "title": "Compline - 9/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/5gDq2oxpEHU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-16T00:45:00Z"
-        },
         {
           "id": "zouI3a39QjY",
           "title": "Hl. Messe - Hl. Kornelius und Cyprian - 16. September 2026",
@@ -66,30 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/P6s-qB04t_U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-16T23:00:00Z"
+        },
+        {
+          "id": "ck0Pc1mgn_Q",
+          "title": "Compline - 9/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ck0Pc1mgn_Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-17T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UE8Vz5gjF38",
-          "title": "SEVEN SORROWS OF THE BLESSED VIRGIN MARY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/UE8Vz5gjF38/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VkWQzX3-n_c",
-          "title": "Festa de Nossa Senhora das Dores - Missa Solene",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/VkWQzX3-n_c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_cyCQ-Dvkbo",
           "title": "Live Stream Holy Mass from Cleveland (Saints Cornelius, Pope & Martyr, and Cyprian, Bishop & Martyr)",
