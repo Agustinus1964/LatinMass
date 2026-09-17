@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-17T15:09:07.294Z",
+  "lastUpdated": "2026-09-17T19:09:12.479Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fBzxaDhDVQw",
-          "title": "FSSPX Antwerpen - 17/09 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/fBzxaDhDVQw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xAUlFp5jr5s",
-          "title": "Sakramentsandacht und hl. Messe - 17. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xAUlFp5jr5s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "0GMx9mtNDFE",
           "title": "Hl. Messe - hl. Joseph von Cupertino - 18. September 2026",
@@ -64,22 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "aPkkTxy5Al0",
-          "title": "Thursday",
+          "id": "kCiyyDhb4pA",
+          "title": "Friday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/aPkkTxy5Al0/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/kCiyyDhb4pA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-17T17:00:00Z"
+          "scheduledTime": "2026-09-18T17:00:00Z"
         },
         {
-          "id": "4BMI2Yzxo-U",
+          "id": "NEPmZMtEFeo",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/4BMI2Yzxo-U/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/NEPmZMtEFeo/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-17T17:00:00Z"
+          "scheduledTime": "2026-09-18T17:00:00Z"
         }
       ]
     }
