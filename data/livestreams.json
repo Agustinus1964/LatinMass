@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-17T05:05:58.548Z",
+  "lastUpdated": "2026-09-17T10:14:04.023Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hDNGld0E3AM",
-          "title": "Hl. Messe - 17. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/hDNGld0E3AM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-17T05:15:00Z"
-        },
-        {
-          "id": "LbIlJkaWqcw",
-          "title": "Feria: 16ᵗʰ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/LbIlJkaWqcw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-17T07:15:00Z"
-        },
         {
           "id": "K412nIuu4w8",
           "title": "Thu. Sep. 17, 2026   -   Stigmata of St, Francis of Assisi",
@@ -39,12 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/xAUlFp5jr5s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-17T15:00:00Z"
+        },
+        {
+          "id": "0GMx9mtNDFE",
+          "title": "Hl. Messe - hl. Joseph von Cupertino - 18. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/0GMx9mtNDFE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-18T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "QxiEU-Okr5I",
+          "title": "Thursday 6 AM Traditional Catholic Mass 09/17/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/QxiEU-Okr5I/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "MJUzzSct7cE",
           "title": "Live Stream Holy Mass from Cleveland USA (The Stigmata of Saint Francis of Assisi)",
