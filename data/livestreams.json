@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-09-17T10:14:04.023Z",
+  "lastUpdated": "2026-09-17T15:09:07.294Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "K412nIuu4w8",
-          "title": "Thu. Sep. 17, 2026   -   Stigmata of St, Francis of Assisi",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/K412nIuu4w8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-17T11:15:00Z"
+          "id": "fBzxaDhDVQw",
+          "title": "FSSPX Antwerpen - 17/09 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/fBzxaDhDVQw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "xAUlFp5jr5s",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/xAUlFp5jr5s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-17T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "0GMx9mtNDFE",
@@ -30,30 +30,39 @@
           "thumbnail": "https://i.ytimg.com/vi/0GMx9mtNDFE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-18T05:15:00Z"
+        },
+        {
+          "id": "qsxO_wax-mg",
+          "title": "Low Mass - St. Joseph of Cupertino - 9/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qsxO_wax-mg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-18T11:15:00Z"
+        },
+        {
+          "id": "W0lxmnDxrmg",
+          "title": "Fri. Sep. 18, 2026   -   St. Joseph of Cupertino,  Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/W0lxmnDxrmg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-18T11:15:00Z"
+        },
+        {
+          "id": "A1T8-G2qzUQ",
+          "title": "Spiritual Conference: How To Benefit From The Sacrament Of Holy Communion?",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/A1T8-G2qzUQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-18T11:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QxiEU-Okr5I",
-          "title": "Thursday 6 AM Traditional Catholic Mass 09/17/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/QxiEU-Okr5I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MJUzzSct7cE",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Stigmata of Saint Francis of Assisi)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/MJUzzSct7cE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-17T11:30:00Z"
-        },
         {
           "id": "aPkkTxy5Al0",
           "title": "Thursday",
