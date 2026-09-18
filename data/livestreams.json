@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-18T05:30:51.214Z",
+  "lastUpdated": "2026-09-18T10:29:31.936Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0GMx9mtNDFE",
-          "title": "Hl. Messe - hl. Joseph von Cupertino - 18. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/0GMx9mtNDFE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ezwAAXyTC3g",
-          "title": "Saint Joseph of Cupertino, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ezwAAXyTC3g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-18T06:15:00Z"
-        },
         {
           "id": "qsxO_wax-mg",
           "title": "Low Mass - St. Joseph of Cupertino - 9/18/26",
@@ -82,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nuyn1T9_uIk",
-          "title": "6pm Mass. Feria. IV. Thursday, September 17, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/nuyn1T9_uIk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "kCiyyDhb4pA",
           "title": "Friday",
           "channel": "Oxford Oratory",
@@ -116,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/FU8x97Vc6Vc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-18T22:30:00Z"
+        },
+        {
+          "id": "s8_7F3Tb53A",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/s8_7F3Tb53A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T07:30:00Z"
+        },
+        {
+          "id": "YkB3KHjoJos",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/YkB3KHjoJos/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T09:00:00Z"
         }
       ]
     }
