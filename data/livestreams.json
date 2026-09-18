@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T18:01:59.814Z",
+  "lastUpdated": "2026-09-18T21:05:27.475Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,6 +32,15 @@
           "scheduledTime": "2026-09-19T05:15:00Z"
         },
         {
+          "id": "uDnyfNIklJ4",
+          "title": "Saint Januarius, bishop, and his companions, martyrs",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/uDnyfNIklJ4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T07:30:00Z"
+        },
+        {
           "id": "1yKwuLzVU3o",
           "title": "Low Mass - St. Januarius - 9/19/26",
           "channel": "SSPX Seminary - USA",
@@ -55,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "8tJXR8JdnRs",
-          "title": "Friday, 18 September 2026 - Saint Joseph of Cupertino",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/8tJXR8JdnRs/mqdefault_live.jpg",
+          "id": "GJ1OQq6M0U4",
+          "title": "Terço e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/GJ1OQq6M0U4/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
