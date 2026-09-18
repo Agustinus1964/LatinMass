@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T22:19:21.728Z",
+  "lastUpdated": "2026-09-18T00:35:20.526Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/A1T8-G2qzUQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-18T11:45:00Z"
+        },
+        {
+          "id": "j9zf6YymQNc",
+          "title": "Stations of the Cross - 9/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/j9zf6YymQNc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-18T22:55:00Z"
         }
       ]
     },
@@ -80,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NEPmZMtEFeo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-18T17:00:00Z"
+        },
+        {
+          "id": "FU8x97Vc6Vc",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Joseph of Cupertino, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/FU8x97Vc6Vc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-18T22:30:00Z"
         }
       ]
     }
