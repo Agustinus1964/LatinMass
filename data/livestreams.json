@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-18T00:35:20.526Z",
+  "lastUpdated": "2026-09-18T05:30:51.214Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/0GMx9mtNDFE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-18T05:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ezwAAXyTC3g",
@@ -20,7 +20,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/ezwAAXyTC3g/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-18T07:15:00Z"
+          "scheduledTime": "2026-09-18T06:15:00Z"
         },
         {
           "id": "qsxO_wax-mg",
@@ -57,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/j9zf6YymQNc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-18T22:55:00Z"
+        },
+        {
+          "id": "kEH8xV-amXg",
+          "title": "Compline - 9/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/kEH8xV-amXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T00:45:00Z"
+        },
+        {
+          "id": "lxgpS_TQjlU",
+          "title": "Hl. Messe - hl. Januarius und Gefährten - 19. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lxgpS_TQjlU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T05:15:00Z"
         }
       ]
     },
