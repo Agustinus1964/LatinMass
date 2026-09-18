@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-18T21:05:27.475Z",
+  "lastUpdated": "2026-09-18T23:27:11.170Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "j9zf6YymQNc",
-          "title": "Stations of the Cross - 9/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/j9zf6YymQNc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-18T22:55:00Z"
-        },
         {
           "id": "kEH8xV-amXg",
           "title": "Compline - 9/18/26",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Za9Jlxgb3s8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-19T12:00:00Z"
+        },
+        {
+          "id": "qssffAq0WB4",
+          "title": "Rosary - 9/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qssffAq0WB4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T23:00:00Z"
         }
       ]
     },
@@ -64,22 +64,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "GJ1OQq6M0U4",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/GJ1OQq6M0U4/mqdefault_live.jpg",
+          "id": "030hfhA-gbU",
+          "title": "6pm Mass & Holy Hour. St. Joseph of Cupertino, Confessor. III. Friday, September 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/030hfhA-gbU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "FU8x97Vc6Vc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Joseph of Cupertino, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/FU8x97Vc6Vc/mqdefault_live.jpg",
+          "id": "-N0lId48J6Q",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 09/18/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/-N0lId48J6Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "u3LuRHAvAFU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/u3LuRHAvAFU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-18T22:30:00Z"
+          "scheduledTime": "2026-09-18T23:28:00Z"
         },
         {
           "id": "s8_7F3Tb53A",
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YkB3KHjoJos/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-19T09:00:00Z"
+        },
+        {
+          "id": "1SK9MVyys5M",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Januarius, Bishop, and Companions, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/1SK9MVyys5M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T13:00:00Z"
         }
       ]
     }
