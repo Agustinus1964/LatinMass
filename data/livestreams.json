@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-18T10:29:31.936Z",
+  "lastUpdated": "2026-09-18T14:36:28.753Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qsxO_wax-mg",
-          "title": "Low Mass - St. Joseph of Cupertino - 9/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/qsxO_wax-mg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-18T11:15:00Z"
-        },
-        {
-          "id": "W0lxmnDxrmg",
-          "title": "Fri. Sep. 18, 2026   -   St. Joseph of Cupertino,  Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/W0lxmnDxrmg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-18T11:15:00Z"
-        },
-        {
-          "id": "A1T8-G2qzUQ",
-          "title": "Spiritual Conference: How To Benefit From The Sacrament Of Holy Communion?",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/A1T8-G2qzUQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-18T11:45:00Z"
-        },
         {
           "id": "j9zf6YymQNc",
           "title": "Stations of the Cross - 9/18/26",
@@ -57,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/lxgpS_TQjlU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-19T05:15:00Z"
+        },
+        {
+          "id": "1yKwuLzVU3o",
+          "title": "Low Mass - St. Januarius - 9/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/1yKwuLzVU3o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T11:15:00Z"
+        },
+        {
+          "id": "Za9Jlxgb3s8",
+          "title": "Sat. Sep. 19, 2026   -   St. Januarius and Companions,  Bishop (St. Januarius) and Martyrs  (All)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Za9Jlxgb3s8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-19T12:00:00Z"
         }
       ]
     },
