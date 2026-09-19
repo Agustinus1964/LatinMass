@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-19T11:18:46.790Z",
+  "lastUpdated": "2026-09-19T14:36:31.792Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1yKwuLzVU3o",
-          "title": "Low Mass - St. Januarius - 9/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/1yKwuLzVU3o/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Za9Jlxgb3s8",
-          "title": "Sat. Sep. 19, 2026   -   St. Januarius and Companions,  Bishop (St. Januarius) and Martyrs  (All)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Za9Jlxgb3s8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T12:00:00Z"
-        },
         {
           "id": "qssffAq0WB4",
           "title": "Rosary - 9/19/26",
@@ -39,6 +21,33 @@
           "thumbnail": "https://i.ytimg.com/vi/aTNTybZmeBs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T00:45:00Z"
+        },
+        {
+          "id": "IefBJAxYON8",
+          "title": "Low Mass - 17th Sunday after Pentecost - 9/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/IefBJAxYON8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T11:20:00Z"
+        },
+        {
+          "id": "jUxKJbuFEOU",
+          "title": "17th Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/jUxKJbuFEOU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T13:30:00Z"
+        },
+        {
+          "id": "Swoeu-3mc0g",
+          "title": "Sun. Sep. 20, 2026   -   17th Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Swoeu-3mc0g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T14:00:00Z"
         }
       ]
     },
@@ -46,40 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mYUfmqYG_Ec",
-          "title": "Sunday, 20 September 2026 - 17th Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/mYUfmqYG_Ec/mqdefault_live.jpg",
+          "id": "1-Vl3l1PND0",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/1-Vl3l1PND0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "j6Pd3dw3sME",
-          "title": "7am Mass. St. Januarius, Bishop, & Companions, Martyrs. III. Saturday, September 19, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/j6Pd3dw3sME/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "u-19L6HW17g",
-          "title": "Saturday 7 AM Catholic Mass for 09/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/u-19L6HW17g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1SK9MVyys5M",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saints Januarius, Bishop, and Companions, Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/1SK9MVyys5M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T13:00:00Z"
         },
         {
           "id": "VZua9ZG6Sm0",
@@ -100,6 +82,15 @@
           "scheduledTime": "2026-09-20T08:30:00Z"
         },
         {
+          "id": "wjWuLZ1dyls",
+          "title": "Sainte messe du XVIIème dimanche après la Pentecôte - JUSTUS EST",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/wjWuLZ1dyls/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T09:00:00Z"
+        },
+        {
           "id": "ycDKRWpwR1E",
           "title": "11am — 25th Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
@@ -107,6 +98,33 @@
           "thumbnail": "https://i.ytimg.com/vi/ycDKRWpwR1E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T10:00:00Z"
+        },
+        {
+          "id": "vR5Z4xYeYO8",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Seventeenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/vR5Z4xYeYO8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T12:00:00Z"
+        },
+        {
+          "id": "wjkINTH1nPI",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Seventeenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/wjkINTH1nPI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T14:30:00Z"
+        },
+        {
+          "id": "rK8nSmqcVlI",
+          "title": "10:30am Sung Mass. Seventeenth Sunday after Pentecost. II. September 20, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/rK8nSmqcVlI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T14:30:00Z"
         }
       ]
     }
