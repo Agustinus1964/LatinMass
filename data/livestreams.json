@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-19T06:16:16.326Z",
+  "lastUpdated": "2026-09-19T11:18:46.790Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "uDnyfNIklJ4",
-          "title": "Saint Januarius, bishop, and his companions, martyrs",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/uDnyfNIklJ4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T07:30:00Z"
-        },
         {
           "id": "1yKwuLzVU3o",
           "title": "Low Mass - St. Januarius - 9/19/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/1yKwuLzVU3o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Za9Jlxgb3s8",
@@ -55,22 +46,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "s8_7F3Tb53A",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/s8_7F3Tb53A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T07:30:00Z"
+          "id": "mYUfmqYG_Ec",
+          "title": "Sunday, 20 September 2026 - 17th Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/mYUfmqYG_Ec/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "YkB3KHjoJos",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/YkB3KHjoJos/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T09:00:00Z"
+          "id": "j6Pd3dw3sME",
+          "title": "7am Mass. St. Januarius, Bishop, & Companions, Martyrs. III. Saturday, September 19, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/j6Pd3dw3sME/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "u-19L6HW17g",
+          "title": "Saturday 7 AM Catholic Mass for 09/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/u-19L6HW17g/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1SK9MVyys5M",
@@ -80,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/1SK9MVyys5M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-19T13:00:00Z"
+        },
+        {
+          "id": "VZua9ZG6Sm0",
+          "title": "8am — 17th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/VZua9ZG6Sm0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T07:00:00Z"
+        },
+        {
+          "id": "V9TTcwW0x8s",
+          "title": "9:30am — 25th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/V9TTcwW0x8s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T08:30:00Z"
+        },
+        {
+          "id": "ycDKRWpwR1E",
+          "title": "11am — 25th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ycDKRWpwR1E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T10:00:00Z"
         }
       ]
     }
