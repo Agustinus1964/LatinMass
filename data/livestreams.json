@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-19T14:36:31.792Z",
+  "lastUpdated": "2026-09-19T17:44:06.459Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aTNTybZmeBs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T00:45:00Z"
+        },
+        {
+          "id": "95wq2RPxvYo",
+          "title": "17th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/95wq2RPxvYo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T10:00:00Z"
         },
         {
           "id": "IefBJAxYON8",
@@ -48,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Swoeu-3mc0g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T14:00:00Z"
+        },
+        {
+          "id": "_zk8APskl7g",
+          "title": "Vesper und Sakramentsandacht - 17. Sonntag nach Pfingsten - 20. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/_zk8APskl7g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T15:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1-Vl3l1PND0",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/1-Vl3l1PND0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "VZua9ZG6Sm0",
           "title": "8am — 17th Sunday after Pentecost",
@@ -125,6 +134,42 @@
           "thumbnail": "https://i.ytimg.com/vi/rK8nSmqcVlI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T14:30:00Z"
+        },
+        {
+          "id": "XONklnTY784",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/XONklnTY784/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T14:45:00Z"
+        },
+        {
+          "id": "47NiOcXx2cg",
+          "title": "SEVENTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/47NiOcXx2cg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T15:30:00Z"
+        },
+        {
+          "id": "WIsjtyaH4GU",
+          "title": "Premières vêpres de la fête de saint Matthieu, apôtre & évangéliste - TRADENT ENIM VOS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WIsjtyaH4GU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T15:45:00Z"
+        },
+        {
+          "id": "BEytKC4pnLg",
+          "title": "Vespers and Benediction — 17th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/BEytKC4pnLg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T16:00:00Z"
         }
       ]
     }
