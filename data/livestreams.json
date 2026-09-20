@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-19T22:16:46.707Z",
+  "lastUpdated": "2026-09-20T00:13:41.770Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "qssffAq0WB4",
-          "title": "Rosary - 9/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/qssffAq0WB4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-19T23:00:00Z"
-        },
-        {
-          "id": "aTNTybZmeBs",
-          "title": "Compline - 9/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aTNTybZmeBs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T00:45:00Z"
+          "id": "IsWq2PbDUDs",
+          "title": "SEVENTEENTH SUNDAY AFTER PENTECOST - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/IsWq2PbDUDs/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "p3HNoeNWuK0",
@@ -59,6 +50,15 @@
           "scheduledTime": "2026-09-20T13:30:00Z"
         },
         {
+          "id": "8gACO-CtbB0",
+          "title": "Solemn High Mass - 17th Sunday after Pentecost - 9/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8gACO-CtbB0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T13:55:00Z"
+        },
+        {
           "id": "Swoeu-3mc0g",
           "title": "Sun. Sep. 20, 2026   -   17th Sunday after Pentecost",
           "channel": "Transfiguration Church SSPX",
@@ -84,6 +84,15 @@
           "thumbnail": "https://i.ytimg.com/vi/a1ShIRy_hiU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T17:00:00Z"
+        },
+        {
+          "id": "czdVG7HYiE8",
+          "title": "Simple II Vespers - 17th Sunday after Pentecost - 9/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/czdVG7HYiE8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T20:55:00Z"
         }
       ]
     },
