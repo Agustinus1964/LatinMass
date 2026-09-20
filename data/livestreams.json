@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-20T19:37:00.374Z",
+  "lastUpdated": "2026-09-20T22:09:08.648Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "czdVG7HYiE8",
-          "title": "Simple II Vespers - 17th Sunday after Pentecost - 9/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/czdVG7HYiE8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T20:55:00Z"
-        },
         {
           "id": "YaMM4n97DnA",
           "title": "Compline - 9/20/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KJDmKpAGOmo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-21T05:15:00Z"
+        },
+        {
+          "id": "hUKFlxfFZ1g",
+          "title": "Saint Matthew, apostle and evangelist",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/hUKFlxfFZ1g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-21T07:15:00Z"
         },
         {
           "id": "C9c3VqoavaM",
@@ -81,6 +81,33 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "MnRUmbfAYGM",
+          "title": "17th Sunday after Pentecost / 17e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/MnRUmbfAYGM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xH0nKXU7e1Y",
+          "title": "Missa rezada - XVII domingo depois de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/xH0nKXU7e1Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ziXnczmBhfg",
+          "title": "17th Sunday after Pentecost / 17e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/ziXnczmBhfg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-20T21:11:46Z"
+        },
         {
           "id": "tL6rQqobuNA",
           "title": "7am Mass. St. Matthew, Apostle & Evangelist. II. Monday, September 21, 2026.",
