@@ -1,15 +1,24 @@
 {
-  "lastUpdated": "2026-09-20T09:56:28.198Z",
+  "lastUpdated": "2026-09-20T13:58:00.723Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "95wq2RPxvYo",
-          "title": "17th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/95wq2RPxvYo/mqdefault_live.jpg",
+          "id": "8gACO-CtbB0",
+          "title": "Solemn High Mass - 17th Sunday after Pentecost - 9/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8gACO-CtbB0/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tbUUGGtPpQo",
+          "title": "Seventeenth Sunday After Pentecost",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/tbUUGGtPpQo/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +28,8 @@
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
           "thumbnail": "https://i.ytimg.com/vi/jUxKJbuFEOU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T13:30:00Z"
-        },
-        {
-          "id": "8gACO-CtbB0",
-          "title": "Solemn High Mass - 17th Sunday after Pentecost - 9/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/8gACO-CtbB0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T13:55:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "a1ShIRy_hiU",
@@ -57,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/YaMM4n97DnA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-21T00:45:00Z"
+        },
+        {
+          "id": "C9c3VqoavaM",
+          "title": "Sung Mass - St. Matthew, Apostle and Evangelist - 9/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/C9c3VqoavaM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-21T10:50:00Z"
+        },
+        {
+          "id": "llDwAyCR1qU",
+          "title": "Mon. Sept. 21, 2026    -    St. Matthew,    Apostle and Evangelist",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/llDwAyCR1qU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-21T11:15:00Z"
         }
       ]
     },
@@ -64,40 +82,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "qi7oSAQdPkc",
-          "title": "Monday, 21 September 2026 - Saint Matthew",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/qi7oSAQdPkc/mqdefault_live.jpg",
+          "id": "DBDUbY4bK8M",
+          "title": "Sunday 8:45 AM Catholic Mass for 09/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/DBDUbY4bK8M/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "ycDKRWpwR1E",
-          "title": "11am — 25th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ycDKRWpwR1E/mqdefault_live.jpg",
+          "id": "biTiE9hwcl0",
+          "title": "Missa Cantada - XVII domingos depois de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/biTiE9hwcl0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "wjWuLZ1dyls",
-          "title": "Sainte messe du XVIIème dimanche après la Pentecôte - JUSTUS EST",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/wjWuLZ1dyls/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vR5Z4xYeYO8",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Seventeenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/vR5Z4xYeYO8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T12:00:00Z"
         },
         {
           "id": "wjkINTH1nPI",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/l-ZWDLOMzjg/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T18:00:00Z"
+        },
+        {
+          "id": "tL6rQqobuNA",
+          "title": "7am Mass. St. Matthew, Apostle & Evangelist. II. Monday, September 21, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/tL6rQqobuNA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-21T11:00:00Z"
         }
       ]
     }
