@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-20T17:20:40.170Z",
+  "lastUpdated": "2026-09-20T19:37:00.374Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "a1ShIRy_hiU",
-          "title": "XVII Sunday after Pentecost | September 20th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/a1ShIRy_hiU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "czdVG7HYiE8",
           "title": "Simple II Vespers - 17th Sunday after Pentecost - 9/20/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YaMM4n97DnA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-21T00:45:00Z"
+        },
+        {
+          "id": "KJDmKpAGOmo",
+          "title": "Hl. Messe - hl. Matthäus - 21. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/KJDmKpAGOmo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-21T05:15:00Z"
         },
         {
           "id": "C9c3VqoavaM",
@@ -59,6 +59,15 @@
           "scheduledTime": "2026-09-21T15:00:00Z"
         },
         {
+          "id": "5doHo15mf5k",
+          "title": "Rosenkranz und hl. Messe - hl. Matthäus - 21. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/5doHo15mf5k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-21T16:00:00Z"
+        },
+        {
           "id": "gPHlV7OHYOQ",
           "title": "FSSPX Antwerpen - 21/09  H. MATTHEUS",
           "channel": "FSSPX Antwerpen",
@@ -72,15 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "l-ZWDLOMzjg",
-          "title": "There is No Salvation Outside of the Church. One Shepherd, One Sheepfold.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/l-ZWDLOMzjg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T18:00:00Z"
-        },
         {
           "id": "tL6rQqobuNA",
           "title": "7am Mass. St. Matthew, Apostle & Evangelist. II. Monday, September 21, 2026.",
