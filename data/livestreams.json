@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-20T05:09:38.467Z",
+  "lastUpdated": "2026-09-20T09:56:28.198Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "p3HNoeNWuK0",
-          "title": "XVII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/p3HNoeNWuK0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T08:25:00Z"
-        },
         {
           "id": "95wq2RPxvYo",
           "title": "17th Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/95wq2RPxvYo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jUxKJbuFEOU",
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/8gACO-CtbB0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-20T13:55:00Z"
-        },
-        {
-          "id": "_zk8APskl7g",
-          "title": "Vesper und Sakramentsandacht - 17. Sonntag nach Pfingsten - 20. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/_zk8APskl7g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T15:30:00Z"
         },
         {
           "id": "a1ShIRy_hiU",
@@ -82,31 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "VZua9ZG6Sm0",
-          "title": "8am — 17th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/VZua9ZG6Sm0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T07:00:00Z"
-        },
-        {
-          "id": "V9TTcwW0x8s",
-          "title": "9:30am — 25th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/V9TTcwW0x8s/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T08:30:00Z"
-        },
-        {
-          "id": "wjWuLZ1dyls",
-          "title": "Sainte messe du XVIIème dimanche après la Pentecôte - JUSTUS EST",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/wjWuLZ1dyls/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T09:00:00Z"
+          "id": "qi7oSAQdPkc",
+          "title": "Monday, 21 September 2026 - Saint Matthew",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/qi7oSAQdPkc/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ycDKRWpwR1E",
@@ -114,8 +78,17 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/ycDKRWpwR1E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-20T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "wjWuLZ1dyls",
+          "title": "Sainte messe du XVIIème dimanche après la Pentecôte - JUSTUS EST",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/wjWuLZ1dyls/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "vR5Z4xYeYO8",
