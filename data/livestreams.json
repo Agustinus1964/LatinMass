@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-09-21T16:48:04.315Z",
+  "lastUpdated": "2026-09-21T20:45:31.037Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gPHlV7OHYOQ",
-          "title": "FSSPX Antwerpen - 21/09  H. MATTHEUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gPHlV7OHYOQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5doHo15mf5k",
-          "title": "Rosenkranz und hl. Messe - hl. Matthäus - 21. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/5doHo15mf5k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8lTx8NPHFD4",
-          "title": "Benediction - 9/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/8lTx8NPHFD4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T23:00:00Z"
-        },
-        {
-          "id": "Gp2uq9JupcA",
-          "title": "Compline - 9/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Gp2uq9JupcA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T00:45:00Z"
-        },
         {
           "id": "HNz8vqGBnvc",
           "title": "Hl. Messe - hl. Mauritius und Gefährten - 22. September 2026",
@@ -48,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/HNz8vqGBnvc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-22T05:15:00Z"
+        },
+        {
+          "id": "eqjGS8zsAbI",
+          "title": "Saint Thomas of Villanova, bishop and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/eqjGS8zsAbI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T07:15:00Z"
+        },
+        {
+          "id": "a0tD8jjvZMg",
+          "title": "Low Mass - St. Thomas of Villanova- 9/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/a0tD8jjvZMg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T11:15:00Z"
         },
         {
           "id": "rH4pADDf0do",
@@ -91,42 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mbL4iMtC1sc",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/mbL4iMtC1sc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T16:58:00Z"
-        },
-        {
-          "id": "P81BUY7XT1A",
-          "title": "Monday, 21 September 2026 - Saint Matthew",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/P81BUY7XT1A/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T17:00:00Z"
-        },
-        {
-          "id": "Wrr8mwC9NMM",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Wrr8mwC9NMM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T17:00:00Z"
-        },
-        {
-          "id": "FhnlAIOViw8",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/FhnlAIOViw8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T17:00:00Z"
-        },
-        {
           "id": "HN8NCFoF510",
           "title": "7am Mass. St. Thomas of Villanova. III. Tuesday, September 22, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -143,6 +89,33 @@
           "thumbnail": "https://i.ytimg.com/vi/pXaREtR-5JI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-22T11:30:00Z"
+        },
+        {
+          "id": "5fZbtWg71Ck",
+          "title": "Tuesday, 22 September 2026 - Saint Thomas of Villanova",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/5fZbtWg71Ck/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T17:00:00Z"
+        },
+        {
+          "id": "Ri3YwU3g1sM",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Ri3YwU3g1sM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T17:00:00Z"
+        },
+        {
+          "id": "r0Gmg68mYNo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/r0Gmg68mYNo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T17:00:00Z"
         }
       ]
     }
