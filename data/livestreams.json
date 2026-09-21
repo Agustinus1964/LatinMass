@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-21T05:14:46.924Z",
+  "lastUpdated": "2026-09-21T10:56:34.577Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KJDmKpAGOmo",
-          "title": "Hl. Messe - hl. Matthäus - 21. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/KJDmKpAGOmo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "hUKFlxfFZ1g",
-          "title": "Saint Matthew, apostle and evangelist",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/hUKFlxfFZ1g/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T06:15:00Z"
-        },
         {
           "id": "C9c3VqoavaM",
           "title": "Sung Mass - St. Matthew, Apostle and Evangelist - 9/21/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/C9c3VqoavaM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T10:50:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "llDwAyCR1qU",
@@ -84,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Gp2uq9JupcA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-22T00:45:00Z"
+        },
+        {
+          "id": "HNz8vqGBnvc",
+          "title": "Hl. Messe - hl. Mauritius und Gefährten - 22. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HNz8vqGBnvc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T05:15:00Z"
         }
       ]
     },
@@ -96,8 +87,8 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/tL6rQqobuNA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "h3eioZcasNc",
