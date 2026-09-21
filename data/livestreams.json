@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-21T10:56:34.577Z",
+  "lastUpdated": "2026-09-21T16:48:04.315Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "C9c3VqoavaM",
-          "title": "Sung Mass - St. Matthew, Apostle and Evangelist - 9/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/C9c3VqoavaM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "llDwAyCR1qU",
-          "title": "Mon. Sept. 21, 2026    -    St. Matthew,    Apostle and Evangelist",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/llDwAyCR1qU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T11:15:00Z"
-        },
-        {
-          "id": "gFO0FegBO10",
-          "title": "FSSPX Antwerpen - 21/09 Aanbidding met Rozenhoedje",
+          "id": "gPHlV7OHYOQ",
+          "title": "FSSPX Antwerpen - 21/09  H. MATTHEUS",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gFO0FegBO10/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T15:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/gPHlV7OHYOQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5doHo15mf5k",
@@ -37,17 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/5doHo15mf5k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T16:00:00Z"
-        },
-        {
-          "id": "gPHlV7OHYOQ",
-          "title": "FSSPX Antwerpen - 21/09  H. MATTHEUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/gPHlV7OHYOQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-21T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "8lTx8NPHFD4",
@@ -75,6 +48,42 @@
           "thumbnail": "https://i.ytimg.com/vi/HNz8vqGBnvc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-22T05:15:00Z"
+        },
+        {
+          "id": "rH4pADDf0do",
+          "title": "Tue. Sept. 22, 2026   -   St. Thomas of Villanova,        Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/rH4pADDf0do/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T11:15:00Z"
+        },
+        {
+          "id": "IjYjgB3uRLk",
+          "title": "FSSPX Antwerpen - 22/09 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/IjYjgB3uRLk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T15:00:00Z"
+        },
+        {
+          "id": "kNhAFO9gb3Y",
+          "title": "Rosenkranz und hl. Messe - hl. Mauritius und Gefährten - 22. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/kNhAFO9gb3Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T16:00:00Z"
+        },
+        {
+          "id": "JIlQAconxlg",
+          "title": "FSSPX Antwerpen - 22/09  H. THOMAS van VILLANOVA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/JIlQAconxlg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T16:30:00Z"
         }
       ]
     },
@@ -82,22 +91,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tL6rQqobuNA",
-          "title": "7am Mass. St. Matthew, Apostle & Evangelist. II. Monday, September 21, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/tL6rQqobuNA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "h3eioZcasNc",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Matthew, Apostle and Evangelist)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/h3eioZcasNc/mqdefault_live.jpg",
+          "id": "mbL4iMtC1sc",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/mbL4iMtC1sc/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-21T11:30:00Z"
+          "scheduledTime": "2026-09-21T16:58:00Z"
         },
         {
           "id": "P81BUY7XT1A",
@@ -125,6 +125,24 @@
           "thumbnail": "https://i.ytimg.com/vi/FhnlAIOViw8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-21T17:00:00Z"
+        },
+        {
+          "id": "HN8NCFoF510",
+          "title": "7am Mass. St. Thomas of Villanova. III. Tuesday, September 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/HN8NCFoF510/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T11:00:00Z"
+        },
+        {
+          "id": "pXaREtR-5JI",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Thomas of Villanova, Bishop and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/pXaREtR-5JI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-22T11:30:00Z"
         }
       ]
     }
