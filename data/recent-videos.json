@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-09-22T02:56:55.904Z",
+  "lastUpdated": "2026-09-22T08:16:07.446Z",
   "videos": [
+    {
+      "id": "vsZYRwp1OJA",
+      "title": "Holy Mass 9/21/26 - Feast of St. Matthew",
+      "channel": "What Catholics Believe - Holy Mass Livestream",
+      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
+      "description": "Immaculate Conception Church, Norwood, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/vsZYRwp1OJA/mqdefault.jpg",
+      "publishedAt": "2026-09-22T04:16:11Z",
+      "category": "What Catholics Believe"
+    },
     {
       "id": "cabdpS8Akwc",
       "title": "US Bishop Praises Yom Kippur",
@@ -140,16 +150,6 @@
       "thumbnail": "https://i.ytimg.com/vi/zoQ6-jBYRmw/mqdefault.jpg",
       "publishedAt": "2026-09-21T15:24:07Z",
       "category": "SSPX News"
-    },
-    {
-      "id": "vsZYRwp1OJA",
-      "title": "Holy Mass 9/21/26 - Feast of St. Matthew",
-      "channel": "What Catholics Believe - Holy Mass Livestream",
-      "channelId": "UC7qx5iw1K0deq6cw1g6uWAA",
-      "description": "Immaculate Conception Church, Norwood, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/vsZYRwp1OJA/mqdefault_live.jpg",
-      "publishedAt": "2026-09-21T14:32:04Z",
-      "category": "What Catholics Believe"
     },
     {
       "id": "_qUVYGUzEgo",
