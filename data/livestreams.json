@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-22T03:07:55.867Z",
+  "lastUpdated": "2026-09-22T08:42:48.866Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HNz8vqGBnvc",
-          "title": "Hl. Messe - hl. Mauritius und Gefährten - 22. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HNz8vqGBnvc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T05:15:00Z"
-        },
-        {
-          "id": "eqjGS8zsAbI",
-          "title": "Saint Thomas of Villanova, bishop and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/eqjGS8zsAbI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T07:15:00Z"
-        },
         {
           "id": "a0tD8jjvZMg",
           "title": "Low Mass - St. Thomas of Villanova- 9/22/26",
@@ -84,6 +66,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ZW5SKgEHQO4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T00:45:00Z"
+        },
+        {
+          "id": "MaDeyEN7pJI",
+          "title": "Hl. Messe - Quatembermittwoch - 23. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/MaDeyEN7pJI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T05:15:00Z"
+        },
+        {
+          "id": "AWQEcZYdTW0",
+          "title": "FSSPX Antwerpen - 23/09  QUATERTEMPERWOENSDAG",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/AWQEcZYdTW0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T05:30:00Z"
         }
       ]
     },
