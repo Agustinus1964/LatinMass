@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-22T17:53:56.784Z",
+  "lastUpdated": "2026-09-22T20:50:00.318Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -41,6 +41,15 @@
           "scheduledTime": "2026-09-23T05:30:00Z"
         },
         {
+          "id": "HD7md-KqVyI",
+          "title": "Ember Wednesday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/HD7md-KqVyI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T07:15:00Z"
+        },
+        {
           "id": "gqG7fYkuH18",
           "title": "Low Mass - Ember Wednesday in September - 9/23/26",
           "channel": "SSPX Seminary - USA",
@@ -72,33 +81,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "66OtbUhPPqQ",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/66OtbUhPPqQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5fZbtWg71Ck",
-          "title": "Tuesday, 22 September 2026 - Saint Thomas of Villanova",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/5fZbtWg71Ck/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "r0Gmg68mYNo",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/r0Gmg68mYNo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KcvPrklUock",
           "title": "7am Mass. Ember Wednesday in September. II. September 23, 2026.",
