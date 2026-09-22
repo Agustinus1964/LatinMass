@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-22T13:51:58.799Z",
+  "lastUpdated": "2026-09-22T17:53:56.784Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IjYjgB3uRLk",
-          "title": "FSSPX Antwerpen - 22/09 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IjYjgB3uRLk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T15:00:00Z"
-        },
-        {
-          "id": "kNhAFO9gb3Y",
-          "title": "Rosenkranz und hl. Messe - hl. Mauritius und Gefährten - 22. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/kNhAFO9gb3Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T16:00:00Z"
-        },
-        {
-          "id": "JIlQAconxlg",
-          "title": "FSSPX Antwerpen - 22/09  H. THOMAS van VILLANOVA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/JIlQAconxlg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T16:30:00Z"
-        },
         {
           "id": "0y8Ou6yHs_I",
           "title": "Rosary - 9/22/26",
@@ -84,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QzjAg6HWwdA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T11:15:00Z"
+        },
+        {
+          "id": "62v2yMeY7wc",
+          "title": "Rosenkranz und hl. Messe - Quatembermittwoch - 23. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/62v2yMeY7wc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T16:00:00Z"
         }
       ]
     },
@@ -91,22 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "66OtbUhPPqQ",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/66OtbUhPPqQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "5fZbtWg71Ck",
           "title": "Tuesday, 22 September 2026 - Saint Thomas of Villanova",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/5fZbtWg71Ck/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T17:00:00Z"
-        },
-        {
-          "id": "Ri3YwU3g1sM",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Ri3YwU3g1sM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "r0Gmg68mYNo",
@@ -114,8 +96,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/r0Gmg68mYNo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "KcvPrklUock",
@@ -134,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ByY3ttiY16U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T11:30:00Z"
+        },
+        {
+          "id": "S3XLqzGhYFA",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/S3XLqzGhYFA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T17:00:00Z"
+        },
+        {
+          "id": "WXOajVonJYI",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/WXOajVonJYI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T17:00:00Z"
         }
       ]
     }
