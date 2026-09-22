@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-22T08:42:48.866Z",
+  "lastUpdated": "2026-09-22T13:51:58.799Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "a0tD8jjvZMg",
-          "title": "Low Mass - St. Thomas of Villanova- 9/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/a0tD8jjvZMg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T11:15:00Z"
-        },
-        {
-          "id": "rH4pADDf0do",
-          "title": "Tue. Sept. 22, 2026   -   St. Thomas of Villanova,        Bishop and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/rH4pADDf0do/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T11:15:00Z"
-        },
         {
           "id": "IjYjgB3uRLk",
           "title": "FSSPX Antwerpen - 22/09 Aanbidding met Rozenhoedje",
@@ -84,30 +66,30 @@
           "thumbnail": "https://i.ytimg.com/vi/AWQEcZYdTW0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T05:30:00Z"
+        },
+        {
+          "id": "gqG7fYkuH18",
+          "title": "Low Mass - Ember Wednesday in September - 9/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/gqG7fYkuH18/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T11:15:00Z"
+        },
+        {
+          "id": "QzjAg6HWwdA",
+          "title": "Wed. Sept. 23, 2026    -   Ember Wednesday of September",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/QzjAg6HWwdA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HN8NCFoF510",
-          "title": "7am Mass. St. Thomas of Villanova. III. Tuesday, September 22, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/HN8NCFoF510/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T11:00:00Z"
-        },
-        {
-          "id": "pXaREtR-5JI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Thomas of Villanova, Bishop and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/pXaREtR-5JI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-22T11:30:00Z"
-        },
         {
           "id": "5fZbtWg71Ck",
           "title": "Tuesday, 22 September 2026 - Saint Thomas of Villanova",
@@ -134,6 +116,24 @@
           "thumbnail": "https://i.ytimg.com/vi/r0Gmg68mYNo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-22T17:00:00Z"
+        },
+        {
+          "id": "KcvPrklUock",
+          "title": "7am Mass. Ember Wednesday in September. II. September 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/KcvPrklUock/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T11:00:00Z"
+        },
+        {
+          "id": "ByY3ttiY16U",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Wednesday in September)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/ByY3ttiY16U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T11:30:00Z"
         }
       ]
     }
