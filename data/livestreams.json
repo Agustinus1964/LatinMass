@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-22T23:27:14.619Z",
+  "lastUpdated": "2026-09-23T01:40:20.750Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZW5SKgEHQO4",
-          "title": "Compline - 9/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZW5SKgEHQO4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T00:45:00Z"
-        },
         {
           "id": "MaDeyEN7pJI",
           "title": "Hl. Messe - Quatembermittwoch - 23. September 2026",
@@ -75,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RCFzlIV9mQM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T23:00:00Z"
+        },
+        {
+          "id": "NSQbjRCTTMU",
+          "title": "Compline - 9/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/NSQbjRCTTMU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-24T00:45:00Z"
         }
       ]
     },
@@ -105,6 +105,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/S3XLqzGhYFA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-23T17:00:00Z"
+        },
+        {
+          "id": "7ulgzVShOlM",
+          "title": "Sainte messe du Mercredi des Quatre-Temps de septembre - EXSULTATE DEO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/7ulgzVShOlM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T17:00:00Z"
         },
