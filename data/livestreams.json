@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-23T07:16:41.294Z",
+  "lastUpdated": "2026-09-23T12:52:32.150Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gqG7fYkuH18",
-          "title": "Low Mass - Ember Wednesday in September - 9/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/gqG7fYkuH18/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T11:15:00Z"
-        },
-        {
-          "id": "QzjAg6HWwdA",
-          "title": "Wed. Sept. 23, 2026    -   Ember Wednesday of September",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/QzjAg6HWwdA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T11:15:00Z"
-        },
         {
           "id": "62v2yMeY7wc",
           "title": "Rosenkranz und hl. Messe - Quatembermittwoch - 23. September 2026",
@@ -32,24 +14,6 @@
           "scheduledTime": "2026-09-23T16:00:00Z"
         },
         {
-          "id": "RCFzlIV9mQM",
-          "title": "Rosary - 9/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/RCFzlIV9mQM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T23:00:00Z"
-        },
-        {
-          "id": "NSQbjRCTTMU",
-          "title": "Compline - 9/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/NSQbjRCTTMU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-24T00:45:00Z"
-        },
-        {
           "id": "HnSxUV9uK8Q",
           "title": "Hl. Messe - 24. September 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HnSxUV9uK8Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-24T05:15:00Z"
+        },
+        {
+          "id": "OCXelqIB3qc",
+          "title": "Thu. Sept. 24, 2026   -   Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/OCXelqIB3qc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-24T11:15:00Z"
         }
       ]
     },
@@ -64,22 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "KcvPrklUock",
-          "title": "7am Mass. Ember Wednesday in September. II. September 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/KcvPrklUock/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T11:00:00Z"
-        },
-        {
-          "id": "ByY3ttiY16U",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Wednesday in September)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ByY3ttiY16U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T11:30:00Z"
+          "id": "c_gH3ChnP5M",
+          "title": "Wednesday 8 AM Traditional Catholic Mass 09/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/c_gH3ChnP5M/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "S3XLqzGhYFA",
@@ -107,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WXOajVonJYI/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-23T17:00:00Z"
+        },
+        {
+          "id": "52-6mSfdU9k",
+          "title": "7am Mass. Our Lady of Ransom. IV. Thursday, September 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/52-6mSfdU9k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-24T11:00:00Z"
+        },
+        {
+          "id": "sNCFZYX_MTk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Our Lady of Ransom)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/sNCFZYX_MTk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-24T11:30:00Z"
         }
       ]
     }
