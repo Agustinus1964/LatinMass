@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-23T01:40:20.750Z",
+  "lastUpdated": "2026-09-23T07:16:41.294Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MaDeyEN7pJI",
-          "title": "Hl. Messe - Quatembermittwoch - 23. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/MaDeyEN7pJI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T05:15:00Z"
-        },
-        {
-          "id": "AWQEcZYdTW0",
-          "title": "FSSPX Antwerpen - 23/09  QUATERTEMPERWOENSDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/AWQEcZYdTW0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T05:30:00Z"
-        },
-        {
-          "id": "HD7md-KqVyI",
-          "title": "Ember Wednesday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/HD7md-KqVyI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-23T07:15:00Z"
-        },
         {
           "id": "gqG7fYkuH18",
           "title": "Low Mass - Ember Wednesday in September - 9/23/26",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NSQbjRCTTMU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-24T00:45:00Z"
+        },
+        {
+          "id": "HnSxUV9uK8Q",
+          "title": "Hl. Messe - 24. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HnSxUV9uK8Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-24T05:15:00Z"
         }
       ]
     },
