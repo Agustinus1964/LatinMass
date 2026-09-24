@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-24T02:58:49.432Z",
+  "lastUpdated": "2026-09-24T08:18:45.207Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HnSxUV9uK8Q",
-          "title": "Hl. Messe - 24. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HnSxUV9uK8Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-24T05:15:00Z"
-        },
-        {
-          "id": "1U4os8EwCJg",
-          "title": "Feria: 17ᵗʰ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/1U4os8EwCJg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-24T07:15:00Z"
-        },
         {
           "id": "OCXelqIB3qc",
           "title": "Thu. Sept. 24, 2026   -   Ferial Day",
@@ -57,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/_B93-1vDC6Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-24T16:30:00Z"
+        },
+        {
+          "id": "KauFEmemyr4",
+          "title": "Hl. Messe - hl. Bruder Klaus - 25. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/KauFEmemyr4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-25T05:15:00Z"
+        },
+        {
+          "id": "Mtd306NXPr4",
+          "title": "FSSPX Antwerpen - 25/09 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Mtd306NXPr4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-25T08:00:00Z"
         }
       ]
     },
