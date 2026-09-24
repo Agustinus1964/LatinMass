@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-09-24T18:07:50.309Z",
+  "lastUpdated": "2026-09-24T21:39:32.870Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "khDnyVS0y6c",
+          "title": "Mass of Ember Friday - 25.9.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/khDnyVS0y6c/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "KauFEmemyr4",
           "title": "Hl. Messe - hl. Bruder Klaus - 25. September 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/KauFEmemyr4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-25T05:15:00Z"
+        },
+        {
+          "id": "TD6GvCUxn5o",
+          "title": "Ember Friday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/TD6GvCUxn5o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-25T07:30:00Z"
         },
         {
           "id": "Mtd306NXPr4",
@@ -69,8 +87,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/fxQrcSNamws/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-24T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Y5mIFdgwldQ",
+          "title": "Ofício de adoração e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Y5mIFdgwldQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "fbxKpeN9tzM",
