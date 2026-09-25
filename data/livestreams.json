@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-25T05:11:24.194Z",
+  "lastUpdated": "2026-09-25T10:22:39.357Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KauFEmemyr4",
-          "title": "Hl. Messe - hl. Bruder Klaus - 25. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/KauFEmemyr4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-25T05:15:00Z"
-        },
-        {
-          "id": "TD6GvCUxn5o",
-          "title": "Ember Friday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/TD6GvCUxn5o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-25T07:30:00Z"
-        },
-        {
-          "id": "Mtd306NXPr4",
-          "title": "FSSPX Antwerpen - 25/09 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Mtd306NXPr4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-25T08:00:00Z"
-        },
         {
           "id": "o49NAANrcLE",
           "title": "Fri. Sept. 25, 2026   -   Ember Friday in September",
@@ -41,13 +14,13 @@
           "scheduledTime": "2026-09-25T11:15:00Z"
         },
         {
-          "id": "Uv0ZNOQ2z9g",
-          "title": "FSSPX Antwerpen - 25/09 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Uv0ZNOQ2z9g/mqdefault_live.jpg",
+          "id": "VmCYD_nKlk8",
+          "title": "Spiritual Conference: How To Benefit From The Sacrament Of Extreme Unction?",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/VmCYD_nKlk8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-25T15:45:00Z"
+          "scheduledTime": "2026-09-25T11:45:00Z"
         },
         {
           "id": "h6ndqW8BCkk",
@@ -59,13 +32,22 @@
           "scheduledTime": "2026-09-25T16:00:00Z"
         },
         {
-          "id": "O77ISwv9lFQ",
-          "title": "FSSPX Antwerpen - 25/09  QUATERTEMPERVRIJDAG",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/O77ISwv9lFQ/mqdefault_live.jpg",
+          "id": "TpQGgdXLVTE",
+          "title": "Hl. Messe - Quatembersamstag - 26. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/TpQGgdXLVTE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-25T16:30:00Z"
+          "scheduledTime": "2026-09-26T05:15:00Z"
+        },
+        {
+          "id": "f9F4L11yfhA",
+          "title": "Sat. Sept. 26, 2026   -   Ember Saturday of September",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/f9F4L11yfhA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T09:45:00Z"
         }
       ]
     },
@@ -107,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WgQLmxT-Xy8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-25T22:30:00Z"
+        },
+        {
+          "id": "91cTl0r6ZIo",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/91cTl0r6ZIo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T09:00:00Z"
         }
       ]
     }
