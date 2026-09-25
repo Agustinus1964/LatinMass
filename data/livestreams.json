@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-24T21:39:32.870Z",
+  "lastUpdated": "2026-09-25T00:14:15.259Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "khDnyVS0y6c",
-          "title": "Mass of Ember Friday - 25.9.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/khDnyVS0y6c/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "KauFEmemyr4",
           "title": "Hl. Messe - hl. Bruder Klaus - 25. September 2026",
@@ -82,24 +73,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "fxQrcSNamws",
-          "title": "6pm Mass. Our Lady of Ransom. IV. Thursday, September 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/fxQrcSNamws/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Y5mIFdgwldQ",
-          "title": "Ofício de adoração e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Y5mIFdgwldQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "fbxKpeN9tzM",
           "title": "7am Mass. Ember Friday in September. II. September 25, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -116,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/dLmm0l0t6r0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-25T17:00:00Z"
+        },
+        {
+          "id": "zkU5MlTsgp0",
+          "title": "6pm Mass & Holy Hour. Ember Friday in September. II. September 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/zkU5MlTsgp0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-25T22:00:00Z"
+        },
+        {
+          "id": "WgQLmxT-Xy8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in September)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/WgQLmxT-Xy8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-25T22:30:00Z"
         }
       ]
     }
