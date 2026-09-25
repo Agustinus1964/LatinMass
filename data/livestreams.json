@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-25T10:22:39.357Z",
+  "lastUpdated": "2026-09-25T15:23:53.245Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "o49NAANrcLE",
-          "title": "Fri. Sept. 25, 2026   -   Ember Friday in September",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/o49NAANrcLE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-25T11:15:00Z"
-        },
-        {
-          "id": "VmCYD_nKlk8",
-          "title": "Spiritual Conference: How To Benefit From The Sacrament Of Extreme Unction?",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/VmCYD_nKlk8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-25T11:45:00Z"
+          "id": "Mtd306NXPr4",
+          "title": "FSSPX Antwerpen - 25/09 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/Mtd306NXPr4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "h6ndqW8BCkk",
@@ -54,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fbxKpeN9tzM",
-          "title": "7am Mass. Ember Friday in September. II. September 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/fbxKpeN9tzM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-25T11:00:00Z"
-        },
         {
           "id": "dLmm0l0t6r0",
           "title": "Friday",
@@ -98,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/91cTl0r6ZIo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-26T09:00:00Z"
+        },
+        {
+          "id": "szsu00yfdAY",
+          "title": "La foi est-elle une affaire de cœur ou de raison ? — Les difficultés de la foi catholique (1/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/szsu00yfdAY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T09:00:00Z"
+        },
+        {
+          "id": "srAzppAAhZg",
+          "title": "7am Mass. Ember Saturday in September. II. September 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/srAzppAAhZg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T11:00:00Z"
+        },
+        {
+          "id": "JEKNHEjOIoc",
+          "title": "9am Mass. Ember Saturday in September. II. September 26, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/JEKNHEjOIoc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T13:00:00Z"
         }
       ]
     }
