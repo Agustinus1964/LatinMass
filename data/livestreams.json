@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T15:41:17.152Z",
+  "lastUpdated": "2026-09-26T18:57:37.113Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YM_EjF5IDTA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T07:30:00Z"
+        },
+        {
+          "id": "kKMQBB9qK-4",
+          "title": "18th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/kKMQBB9qK-4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T10:00:00Z"
         },
         {
           "id": "yBXSnHz71RY",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/syhbaKX9D8s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T15:30:00Z"
+        },
+        {
+          "id": "nZlEnYQEHlo",
+          "title": "XVIII Sunday after Pentecost | September 27th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/nZlEnYQEHlo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T17:00:00Z"
         }
       ]
     },
@@ -53,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9OXucLXhUoY/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-26T22:00:00Z"
-        },
-        {
-          "id": "daqESYn9l40",
-          "title": "8am — 18th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/daqESYn9l40/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T07:00:00Z"
         },
         {
           "id": "ZoEpWxuDRfc",
@@ -143,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sty1UENSAYM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T15:30:00Z"
+        },
+        {
+          "id": "sxfV6SwUMU4",
+          "title": "Vespers and Benediction — 18th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/sxfV6SwUMU4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T16:00:00Z"
         }
       ]
     }
