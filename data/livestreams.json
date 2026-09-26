@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-26T11:38:36.375Z",
+  "lastUpdated": "2026-09-26T15:41:17.152Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "2-Ys-tzxEeY",
-          "title": "Low Mass - Ember Saturday in September - 9/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/2-Ys-tzxEeY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YM_EjF5IDTA",
           "title": "Amt - 18. Sonntag nach Pfingsten - 27. September 2026",
@@ -21,39 +12,39 @@
           "thumbnail": "https://i.ytimg.com/vi/YM_EjF5IDTA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T07:30:00Z"
+        },
+        {
+          "id": "yBXSnHz71RY",
+          "title": "18th Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/yBXSnHz71RY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T13:30:00Z"
+        },
+        {
+          "id": "BU_scb53xHE",
+          "title": "Solemn High Mass - 18th Sunday after Pentecost - 9/27/6",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BU_scb53xHE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T14:00:00Z"
+        },
+        {
+          "id": "syhbaKX9D8s",
+          "title": "Vesper und Sakramentsandacht - 18. Sonntag nach Pfingsten - 27. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/syhbaKX9D8s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T15:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "srAzppAAhZg",
-          "title": "7am & 9am Mass. Ember Saturday in September. II. September 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/srAzppAAhZg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4PnMfEpQT0Y",
-          "title": "Saturday 7 AM Catholic Mass for 09/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/4PnMfEpQT0Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PKLisqqsnSY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in September)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/PKLisqqsnSY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-26T13:00:00Z"
-        },
         {
           "id": "9OXucLXhUoY",
           "title": "\"Mysterium Ecclesiae\" Introducción al Curso. P Daniel Heenan FSSP",
@@ -62,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9OXucLXhUoY/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-26T22:00:00Z"
+        },
+        {
+          "id": "daqESYn9l40",
+          "title": "8am — 18th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/daqESYn9l40/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T07:00:00Z"
+        },
+        {
+          "id": "ZoEpWxuDRfc",
+          "title": "9:30am — 26th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ZoEpWxuDRfc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T08:30:00Z"
         },
         {
           "id": "QjtqoSWLydQ",
@@ -73,6 +82,15 @@
           "scheduledTime": "2026-09-27T09:00:00Z"
         },
         {
+          "id": "kcrq9bRcKuw",
+          "title": "11am —26th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/kcrq9bRcKuw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T10:00:00Z"
+        },
+        {
           "id": "PVgEbT3mFMU",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Eighteenth Sunday after Pentecost. II. September 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -80,6 +98,51 @@
           "thumbnail": "https://i.ytimg.com/vi/PVgEbT3mFMU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T11:00:00Z"
+        },
+        {
+          "id": "7Za98gF95JM",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Eighteenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7Za98gF95JM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T12:00:00Z"
+        },
+        {
+          "id": "mOGWs6USRTM",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Eighteenth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/mOGWs6USRTM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T14:30:00Z"
+        },
+        {
+          "id": "N-wf6A_XPbA",
+          "title": "10:30am Sung Mass. Eighteenth Sunday after Pentecost. II. September 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/N-wf6A_XPbA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T14:30:00Z"
+        },
+        {
+          "id": "TSBBOkgKL60",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/TSBBOkgKL60/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T14:45:00Z"
+        },
+        {
+          "id": "sty1UENSAYM",
+          "title": "EIGHTEENTH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/sty1UENSAYM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T15:30:00Z"
         }
       ]
     }
