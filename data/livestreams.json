@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-25T22:37:14.953Z",
+  "lastUpdated": "2026-09-26T01:09:13.826Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BIcP9B-YMuI",
-          "title": "Mass of Ember Saturday - September 26th 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/BIcP9B-YMuI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "TpQGgdXLVTE",
           "title": "Hl. Messe - Quatembersamstag - 26. September 2026",
@@ -30,30 +21,12 @@
           "thumbnail": "https://i.ytimg.com/vi/xxJHzN_YcBE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-26T07:30:00Z"
-        },
-        {
-          "id": "f9F4L11yfhA",
-          "title": "Sat. Sept. 26, 2026   -   Ember Saturday of September",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/f9F4L11yfhA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-26T09:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WgQLmxT-Xy8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Ember Friday in September)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/WgQLmxT-Xy8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zkU5MlTsgp0",
           "title": "6pm Mass & Holy Hour. Ember Friday in September. II. September 25, 2026.",
@@ -98,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/srAzppAAhZg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-26T11:00:00Z"
+        },
+        {
+          "id": "PKLisqqsnSY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Ember Saturday in September)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/PKLisqqsnSY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T13:00:00Z"
         },
         {
           "id": "JEKNHEjOIoc",
