@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T18:57:37.113Z",
+  "lastUpdated": "2026-09-26T21:53:59.741Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YM_EjF5IDTA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T07:30:00Z"
+        },
+        {
+          "id": "YJST1mM9so8",
+          "title": "XVIII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/YJST1mM9so8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T08:25:00Z"
         },
         {
           "id": "kKMQBB9qK-4",
@@ -57,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nZlEnYQEHlo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T17:00:00Z"
+        },
+        {
+          "id": "K3-Pz5rRdqg",
+          "title": "Simple II Vespers - 18th Sunday after Pentecost - 9/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/K3-Pz5rRdqg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T21:00:00Z"
         }
       ]
     },
