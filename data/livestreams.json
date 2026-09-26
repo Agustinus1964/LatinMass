@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-26T01:09:13.826Z",
+  "lastUpdated": "2026-09-26T06:22:01.563Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TpQGgdXLVTE",
-          "title": "Hl. Messe - Quatembersamstag - 26. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/TpQGgdXLVTE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-26T05:15:00Z"
-        },
         {
           "id": "xxJHzN_YcBE",
           "title": "Ember Saturday",
@@ -20,22 +11,13 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/xxJHzN_YcBE/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-26T07:30:00Z"
+          "scheduledTime": "2026-09-26T06:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zkU5MlTsgp0",
-          "title": "6pm Mass & Holy Hour. Ember Friday in September. II. September 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/zkU5MlTsgp0/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "HVqz0WTBGZw",
           "title": "Sainte messe du Samedi des Quatre-Temps de septembre - VENITE ADOREMUS",
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/JEKNHEjOIoc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-26T13:00:00Z"
+        },
+        {
+          "id": "9OXucLXhUoY",
+          "title": "\"Mysterium Ecclesiae\" Introducción al Curso. P Daniel Heenan FSSP",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/9OXucLXhUoY/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-26T22:00:00Z"
         }
       ]
     }
