@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-27T00:10:19.269Z",
+  "lastUpdated": "2026-09-27T05:31:49.259Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "PqRABJ_Vqq8",
-          "title": "EIGHTEENTH SUNDAY AFTER PENTECOST - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/PqRABJ_Vqq8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "YM_EjF5IDTA",
           "title": "Amt - 18. Sonntag nach Pfingsten - 27. September 2026",
@@ -68,13 +59,13 @@
           "scheduledTime": "2026-09-27T17:00:00Z"
         },
         {
-          "id": "K3-Pz5rRdqg",
-          "title": "Simple II Vespers - 18th Sunday after Pentecost - 9/27/26",
+          "id": "TVC33qO_zr8",
+          "title": "Compline - 9/27/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/K3-Pz5rRdqg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/TVC33qO_zr8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-27T21:00:00Z"
+          "scheduledTime": "2026-09-28T00:45:00Z"
         }
       ]
     },
@@ -179,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sxfV6SwUMU4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T16:00:00Z"
+        },
+        {
+          "id": "__rBQCokkro",
+          "title": "Paralyzed by Sin. Without Me, You Can Do Nothing.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/__rBQCokkro/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-27T18:00:00Z"
         }
       ]
     }
