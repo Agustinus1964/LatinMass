@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-09-27T15:44:10.130Z",
+  "lastUpdated": "2026-09-27T19:29:43.226Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rVFqqm0uL00",
-          "title": "Eighteenth Sunday after Pentecost, September 27, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/rVFqqm0uL00/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yA5wVIlR_pQ",
-          "title": "FSSPX Antwerpen - 27/09 Gebed voor het Vaderland",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/yA5wVIlR_pQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "syhbaKX9D8s",
-          "title": "Vesper und Sakramentsandacht - 18. Sonntag nach Pfingsten - 27. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/syhbaKX9D8s/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "nZlEnYQEHlo",
-          "title": "XVIII Sunday after Pentecost | September 27th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/nZlEnYQEHlo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T17:00:00Z"
-        },
         {
           "id": "qtjbfhEY_ww",
           "title": "Mon. Sept. 28, 2026   -   St. Wenceslaus,      Duke and Martyr",
@@ -55,87 +19,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mOGWs6USRTM",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Eighteenth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/mOGWs6USRTM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2Vw_6fpLNG4",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/2Vw_6fpLNG4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "N-wf6A_XPbA",
-          "title": "10:30am Sung Mass. Eighteenth Sunday after Pentecost. II. September 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/N-wf6A_XPbA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sty1UENSAYM",
-          "title": "EIGHTEENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/sty1UENSAYM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2PDtSlIr_ts",
-          "title": "Sunday 11:15 AM Sung Mass 2026-09-27",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/2PDtSlIr_ts/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "t52SBuM5_4U",
-          "title": "18th Sunday after Pentecost / 18e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/t52SBuM5_4U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2ruumvixsoo",
-          "title": "Secondes vêpres de la solennité de sainte Thérèse de l'Enfant Jésus - BENEDICTUS DOMINUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/2ruumvixsoo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sxfV6SwUMU4",
-          "title": "Vespers and Benediction — 18th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/sxfV6SwUMU4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T16:00:00Z"
-        },
-        {
-          "id": "__rBQCokkro",
-          "title": "Paralyzed by Sin. Without Me, You Can Do Nothing.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/__rBQCokkro/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T18:00:00Z"
-        },
-        {
           "id": "LHRUCniK11s",
           "title": "7am Mass. St. Wenceslaus, Duke & Martyr. III. Monday, September 28, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -143,6 +26,33 @@
           "thumbnail": "https://i.ytimg.com/vi/LHRUCniK11s/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-28T11:00:00Z"
+        },
+        {
+          "id": "rMRXvKxZq_A",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Wenceslaus, Duke and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/rMRXvKxZq_A/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-28T11:30:00Z"
+        },
+        {
+          "id": "48kT4-ozEgM",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/48kT4-ozEgM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-28T17:00:00Z"
+        },
+        {
+          "id": "g2YsxpVyZw8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/g2YsxpVyZw8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-28T17:00:00Z"
         }
       ]
     }
