@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-27T05:31:49.259Z",
+  "lastUpdated": "2026-09-27T11:19:24.321Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "YM_EjF5IDTA",
-          "title": "Amt - 18. Sonntag nach Pfingsten - 27. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YM_EjF5IDTA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T07:30:00Z"
-        },
-        {
-          "id": "YJST1mM9so8",
-          "title": "XVIII Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/YJST1mM9so8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T08:25:00Z"
-        },
         {
           "id": "kKMQBB9qK-4",
           "title": "18th Sunday after Whitsun",
           "channel": "SSPX Scotland",
           "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
           "thumbnail": "https://i.ytimg.com/vi/kKMQBB9qK-4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "yBXSnHz71RY",
@@ -66,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/TVC33qO_zr8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-28T00:45:00Z"
+        },
+        {
+          "id": "e7tBIfYdLSU",
+          "title": "Low Mass -St. Wenceslaus, Duke & Martyr- 9/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/e7tBIfYdLSU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-28T11:15:00Z"
+        },
+        {
+          "id": "qtjbfhEY_ww",
+          "title": "Mon. Sept. 28, 2026   -   St. Wenceslaus,      Duke and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/qtjbfhEY_ww/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-28T11:15:00Z"
         }
       ]
     },
@@ -73,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ZoEpWxuDRfc",
-          "title": "9:30am — 26th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ZoEpWxuDRfc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T08:30:00Z"
-        },
-        {
-          "id": "QjtqoSWLydQ",
-          "title": "Sainte messe de la solennité de sainte Thérèse de l'Enfant Jésus - VENI DE LIBANO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/QjtqoSWLydQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T09:00:00Z"
-        },
-        {
-          "id": "kcrq9bRcKuw",
-          "title": "11am —26th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/kcrq9bRcKuw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T10:00:00Z"
+          "id": "E7o8JAfaE5w",
+          "title": "Sunday, 27 September 2026 - 18th Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/E7o8JAfaE5w/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PVgEbT3mFMU",
@@ -105,8 +87,26 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/PVgEbT3mFMU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-27T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tmS8axpRruY",
+          "title": "Sunday 7 AM Catholic Mass for 09/27/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/tmS8axpRruY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_ohxVWC4yFI",
+          "title": "Missa rezada - XVIII Domingo depois de Pentecostes - 2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/_ohxVWC4yFI/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7Za98gF95JM",
@@ -179,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/__rBQCokkro/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-27T18:00:00Z"
+        },
+        {
+          "id": "LHRUCniK11s",
+          "title": "7am Mass. St. Wenceslaus, Duke & Martyr. III. Monday, September 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/LHRUCniK11s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-28T11:00:00Z"
         }
       ]
     }
