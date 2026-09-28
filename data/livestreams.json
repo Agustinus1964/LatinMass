@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-09-28T15:43:51.055Z",
+  "lastUpdated": "2026-09-28T21:33:07.015Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "IBRbFf3WzbU",
-          "title": "FSSPX Antwerpen - 28/09 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IBRbFf3WzbU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "spjSgRsjHNM",
-          "title": "Rosenkranz und hl. Messe - hl. Wenzeslaus - 28. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/spjSgRsjHNM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-28T16:00:00Z"
-        },
-        {
-          "id": "UWsoirVU1lc",
+          "id": "GZvfLug_KPU",
           "title": "Dedication of St. Michael the Archangel",
           "channel": "SSPX ANZ-District",
           "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/UWsoirVU1lc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-28T21:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/GZvfLug_KPU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "z2i_XZD_4LM",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z2i_XZD_4LM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T05:15:00Z"
+        },
+        {
+          "id": "UaAyPAPua-Q",
+          "title": "The Dedication of Saint Michael, archangel",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/UaAyPAPua-Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-29T07:15:00Z"
         },
         {
           "id": "bgRNU-6ykDM",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/3Qhr0GHorWY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T15:30:00Z"
+        },
+        {
+          "id": "w2r48rRkEHM",
+          "title": "Solemn II Vespers - Dedication of the Archbasilica of St. Michael the Archangel - 9/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/w2r48rRkEHM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-29T21:30:00Z"
         }
       ]
     },
@@ -73,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "48kT4-ozEgM",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/48kT4-ozEgM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-28T17:00:00Z"
-        },
-        {
-          "id": "g2YsxpVyZw8",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/g2YsxpVyZw8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-28T17:00:00Z"
+          "id": "BteJo7KWic4",
+          "title": "Missa Tridentina em Brasília está ao vivo!",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/BteJo7KWic4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "O-3cn1XJ8H0",
@@ -116,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EB5h6RhdvYo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T11:58:00Z"
+        },
+        {
+          "id": "zj_ni__esSs",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/zj_ni__esSs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-29T17:00:00Z"
         }
       ]
     }
