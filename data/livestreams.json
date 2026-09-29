@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-28T21:33:07.015Z",
+  "lastUpdated": "2026-09-29T01:26:15.271Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GZvfLug_KPU",
-          "title": "Dedication of St. Michael the Archangel",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/GZvfLug_KPU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "z2i_XZD_4LM",
           "title": "Hl. Messe - hl. Erzengel Michael - 29. September 2026",
@@ -66,21 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/w2r48rRkEHM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T21:30:00Z"
+        },
+        {
+          "id": "0fskAi9Qav8",
+          "title": "Tue. Sept. 29, 2026   -   Dedication of St. Michael the Archangel",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/0fskAi9Qav8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-29T22:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BteJo7KWic4",
-          "title": "Missa Tridentina em Brasília está ao vivo!",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/BteJo7KWic4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "O-3cn1XJ8H0",
           "title": "7am Mass. The Dedication of St. Michael the Archangel. I. Tuesday, September 29, 2026.",
@@ -116,6 +107,24 @@
           "thumbnail": "https://i.ytimg.com/vi/zj_ni__esSs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T17:00:00Z"
+        },
+        {
+          "id": "D0yBiMUI2go",
+          "title": "Tuesday 7 PM Sung Mass for 09/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/D0yBiMUI2go/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-29T22:59:00Z"
+        },
+        {
+          "id": "SP3KhdymItY",
+          "title": "DEDICATION OF SAINT MICHAEL THE ARCHANGEL, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/SP3KhdymItY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-29T23:00:00Z"
         }
       ]
     }
