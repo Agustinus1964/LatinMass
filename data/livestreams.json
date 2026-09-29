@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-09-29T19:32:11.817Z",
+  "lastUpdated": "2026-09-29T23:24:13.057Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "w2r48rRkEHM",
-          "title": "Solemn II Vespers - Dedication of the Archbasilica of St. Michael the Archangel - 9/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/w2r48rRkEHM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T21:55:00Z"
-        },
-        {
-          "id": "0fskAi9Qav8",
-          "title": "Tue. Sept. 29, 2026   -   Dedication of St. Michael the Archangel",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/0fskAi9Qav8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T22:00:00Z"
-        },
         {
           "id": "iC4XpE_8YiU",
           "title": "Hl. Messe - hl. Hieronymus - 30. September 2026",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iC4XpE_8YiU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-30T05:15:00Z"
+        },
+        {
+          "id": "tMbWU-4RbSs",
+          "title": "Saint Jerome, priest, confessor and doctor of the Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/tMbWU-4RbSs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T07:15:00Z"
         },
         {
           "id": "F00Fjiljvc4",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Fi0318toIkE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-30T16:00:00Z"
+        },
+        {
+          "id": "bX2l_Jcb0a8",
+          "title": "Rosary - 9/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/bX2l_Jcb0a8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T23:00:00Z"
         }
       ]
     },
@@ -64,22 +64,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "D0yBiMUI2go",
-          "title": "Tuesday 7 PM Sung Mass for 09/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/D0yBiMUI2go/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T22:59:00Z"
-        },
-        {
           "id": "SP3KhdymItY",
           "title": "DEDICATION OF SAINT MICHAEL THE ARCHANGEL, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/SP3KhdymItY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "D0yBiMUI2go",
+          "title": "Tuesday 7 PM Sung Mass for 09/29/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/D0yBiMUI2go/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "kk8BPkxKy_Y",
+          "title": "Feast of St. Michael the Archangel / Fête de saint Michel Archange",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/kk8BPkxKy_Y/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "kkXk-ocr2qY",
