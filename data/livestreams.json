@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-09-29T07:16:34.691Z",
+  "lastUpdated": "2026-09-29T14:12:12.159Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UaAyPAPua-Q",
-          "title": "The Dedication of Saint Michael, archangel",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/UaAyPAPua-Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bgRNU-6ykDM",
-          "title": "Solemn High Mass - Dedication of the Archbasilica of St. Michael the Archangel - 9/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/bgRNU-6ykDM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T10:50:00Z"
-        },
-        {
-          "id": "p4qV1zJnzyA",
-          "title": "Tue. Sept 29, 2026   -   Dedication of St. Michael the Archangel",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/p4qV1zJnzyA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T11:15:00Z"
-        },
         {
           "id": "3Qhr0GHorWY",
           "title": "II. Vesper und Singmesse - hl. Erzengel Michael - 29. September 2026",
@@ -47,7 +20,7 @@
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/w2r48rRkEHM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-09-29T21:30:00Z"
+          "scheduledTime": "2026-09-29T21:55:00Z"
         },
         {
           "id": "0fskAi9Qav8",
@@ -66,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/iC4XpE_8YiU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-30T05:15:00Z"
+        },
+        {
+          "id": "F00Fjiljvc4",
+          "title": "Low Mass - St. Jerome, Priest, Confessor and Doctor of the Church - 9/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/F00Fjiljvc4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T11:15:00Z"
+        },
+        {
+          "id": "LOQQQAw--p0",
+          "title": "Wed. Sept. 30. 2026   -   St. Jerome,    Priest, and Doctor of the Church",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/LOQQQAw--p0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T11:15:00Z"
         }
       ]
     },
@@ -73,31 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "O-3cn1XJ8H0",
-          "title": "7am Mass. The Dedication of St. Michael the Archangel. I. Tuesday, September 29, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/O-3cn1XJ8H0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T11:00:00Z"
-        },
-        {
-          "id": "ucQPAb7ICcQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Dedication of Saint Michael the Archangel)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ucQPAb7ICcQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T11:30:00Z"
-        },
-        {
-          "id": "EB5h6RhdvYo",
-          "title": "Tuesday 8 AM Traditional Catholic Mass 09/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/EB5h6RhdvYo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T11:58:00Z"
+          "id": "UpP60T-bnn4",
+          "title": "Santo Sacrificio de la Misa, Dedicación de San Miguel Arcángel, 29 de septiembre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/UpP60T-bnn4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zj_ni__esSs",
@@ -125,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/SP3KhdymItY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T23:00:00Z"
+        },
+        {
+          "id": "kkXk-ocr2qY",
+          "title": "7am Mass. St. Jerome, Priest, Confessor & Doctor. III. Wednesday, September 30, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/kkXk-ocr2qY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T11:00:00Z"
+        },
+        {
+          "id": "QPFXxpvlOfs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Jerome, Priest, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/QPFXxpvlOfs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T11:30:00Z"
         }
       ]
     }
