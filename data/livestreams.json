@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-09-29T01:26:15.271Z",
+  "lastUpdated": "2026-09-29T07:16:34.691Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "z2i_XZD_4LM",
-          "title": "Hl. Messe - hl. Erzengel Michael - 29. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/z2i_XZD_4LM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T05:15:00Z"
-        },
         {
           "id": "UaAyPAPua-Q",
           "title": "The Dedication of Saint Michael, archangel",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/UaAyPAPua-Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-29T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bgRNU-6ykDM",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0fskAi9Qav8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-29T22:00:00Z"
+        },
+        {
+          "id": "iC4XpE_8YiU",
+          "title": "Hl. Messe - hl. Hieronymus - 30. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/iC4XpE_8YiU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-09-30T05:15:00Z"
         }
       ]
     },
