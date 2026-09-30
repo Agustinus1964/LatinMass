@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-29T23:24:13.057Z",
+  "lastUpdated": "2026-09-30T02:15:33.589Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tMbWU-4RbSs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-09-30T07:15:00Z"
-        },
-        {
-          "id": "F00Fjiljvc4",
-          "title": "Low Mass - St. Jerome, Priest, Confessor and Doctor of the Church - 9/30/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/F00Fjiljvc4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-30T11:15:00Z"
         },
         {
           "id": "LOQQQAw--p0",
@@ -63,33 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "SP3KhdymItY",
-          "title": "DEDICATION OF SAINT MICHAEL THE ARCHANGEL, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/SP3KhdymItY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "D0yBiMUI2go",
-          "title": "Tuesday 7 PM Sung Mass for 09/29/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/D0yBiMUI2go/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kk8BPkxKy_Y",
-          "title": "Feast of St. Michael the Archangel / Fête de saint Michel Archange",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/kk8BPkxKy_Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "kkXk-ocr2qY",
           "title": "7am Mass. St. Jerome, Priest, Confessor & Doctor. III. Wednesday, September 30, 2026.",
