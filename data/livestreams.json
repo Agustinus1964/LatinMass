@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-09-30T15:34:15.782Z",
+  "lastUpdated": "2026-09-30T20:29:44.402Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Fi0318toIkE",
-          "title": "Rosenkranz und hl. Messe - hl. Hieronymus - 30. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Fi0318toIkE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-30T16:00:00Z"
-        },
         {
           "id": "UMEKToyQjhQ",
           "title": "Hl. Messe - 01. Oktober 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/UMEKToyQjhQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-01T05:15:00Z"
+        },
+        {
+          "id": "chiD6U1L65o",
+          "title": "Saint Remigius, bishop and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/chiD6U1L65o/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-01T07:15:00Z"
         },
         {
           "id": "EhscLcu_cJ8",
@@ -55,33 +55,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "27Vz4yh3rEs",
-          "title": "Wednesday, 30 September 2026 - Saint Jerome",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/27Vz4yh3rEs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-30T17:00:00Z"
-        },
-        {
-          "id": "gY7eGPIZUmE",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/gY7eGPIZUmE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-09-30T17:00:00Z"
-        },
-        {
-          "id": "UmMawEA-jSU",
-          "title": "Thursday, 1 October 2026 - Votive Mass of Our Lord Eternal and High Priest",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/UmMawEA-jSU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-01T07:00:00Z"
-        },
-        {
           "id": "O9LiI_oG0vo",
           "title": "7am Mass. Feria. IV. Thursday, October 1, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -98,6 +71,33 @@
           "thumbnail": "https://i.ytimg.com/vi/K5JCJKAx06g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-01T11:30:00Z"
+        },
+        {
+          "id": "169MI0RPIaw",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/169MI0RPIaw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-01T17:00:00Z"
+        },
+        {
+          "id": "cfFOshOttxA",
+          "title": "Sainte messe de l'anniversaire de la dédicace de saint Eugène",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/cfFOshOttxA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-01T17:00:00Z"
+        },
+        {
+          "id": "miuWnvTbRcs",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/miuWnvTbRcs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-01T17:00:00Z"
         }
       ]
     }
