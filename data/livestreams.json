@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-10-01T00:07:55.178Z",
+  "lastUpdated": "2026-10-01T06:18:50.183Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "UMEKToyQjhQ",
-          "title": "Hl. Messe - 01. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UMEKToyQjhQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-01T05:15:00Z"
-        },
         {
           "id": "chiD6U1L65o",
           "title": "Saint Remigius, bishop and confessor",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/chiD6U1L65o/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-01T07:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "EhscLcu_cJ8",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WEj9mFZp4jE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-01T22:55:00Z"
+        },
+        {
+          "id": "-GY7HzTNDuU",
+          "title": "Hl. Messe - Kirchweihfest der Dreifaltigkeitskirche - 02. September 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-GY7HzTNDuU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-02T05:15:00Z"
         }
       ]
     },
