@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-30T20:29:44.402Z",
+  "lastUpdated": "2026-10-01T00:07:55.178Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/PjDvlfukMLU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-01T15:00:00Z"
+        },
+        {
+          "id": "WEj9mFZp4jE",
+          "title": "Sung Rosary - 5/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/WEj9mFZp4jE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-01T22:55:00Z"
         }
       ]
     },
@@ -98,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/miuWnvTbRcs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-01T17:00:00Z"
+        },
+        {
+          "id": "R3MyLvkw2sM",
+          "title": "6pm Mass. Feria. IV. Thursday, October 1, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/R3MyLvkw2sM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-01T22:00:00Z"
         }
       ]
     }
