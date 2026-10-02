@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-02T02:25:08.723Z",
+  "lastUpdated": "2026-10-02T08:48:23.967Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-GY7HzTNDuU",
-          "title": "Hl. Messe - Kirchweihfest der Dreifaltigkeitskirche - 02. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/-GY7HzTNDuU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T05:15:00Z"
-        },
-        {
-          "id": "cTEdeEFlX9Y",
-          "title": "The Holy Guardian Angels",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/cTEdeEFlX9Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T07:15:00Z"
-        },
         {
           "id": "kx4Csh8GIR4",
           "title": "Fri. Oct. 2, 2026   -   Holy Guardian Angels    (First Friday)",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ocIgrFpj_WA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-02T16:00:00Z"
+        },
+        {
+          "id": "K6HGAJ0L9d4",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 03. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/K6HGAJ0L9d4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T05:15:00Z"
         }
       ]
     },
