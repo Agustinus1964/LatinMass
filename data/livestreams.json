@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-01T23:19:10.233Z",
+  "lastUpdated": "2026-10-02T02:25:08.723Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WEj9mFZp4jE",
-          "title": "Sung Rosary - 5/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WEj9mFZp4jE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "-GY7HzTNDuU",
           "title": "Hl. Messe - Kirchweihfest der Dreifaltigkeitskirche - 02. September 2026",
@@ -55,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "jQebhGRg-gI",
-          "title": "Terço e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/jQebhGRg-gI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "cVn2tKc0y94",
+          "title": "First Friday: 7am Mass. Holy Guardian Angels. III. October 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/cVn2tKc0y94/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-02T11:00:00Z"
         },
         {
           "id": "cy2qUyfoIdQ",
@@ -71,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cy2qUyfoIdQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-02T17:00:00Z"
+        },
+        {
+          "id": "7lc-dsIUpEY",
+          "title": "First Friday: 6pm Mass & Holy Hour. Holy Guardian Angels. III. October 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/7lc-dsIUpEY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-02T22:00:00Z"
         },
         {
           "id": "7ImFeJLe5DQ",
