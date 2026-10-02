@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-02T15:19:05.613Z",
+  "lastUpdated": "2026-10-02T20:03:22.197Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "B6rItUWvLb8",
-          "title": "FSSPX Antwerpen - 02/10 H. Uur met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/B6rItUWvLb8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ocIgrFpj_WA",
-          "title": "Vesper, Sakramentsandacht und Amt - Kirchweihfest der Dreifaltigkeitskirche - 02. September 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ocIgrFpj_WA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T16:00:00Z"
-        },
         {
           "id": "K6HGAJ0L9d4",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 03. Oktober 2026",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/K6HGAJ0L9d4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-03T05:15:00Z"
+        },
+        {
+          "id": "oWoBcVJ7PEY",
+          "title": "Saint Teresa of the Child Jesus, virgin",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/oWoBcVJ7PEY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T07:30:00Z"
         },
         {
           "id": "aHZ3v3swxfY",
@@ -45,15 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cy2qUyfoIdQ",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/cy2qUyfoIdQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T17:00:00Z"
-        },
         {
           "id": "7lc-dsIUpEY",
           "title": "First Friday: 6pm Mass & Holy Hour. Holy Guardian Angels. III. October 2, 2026.",
