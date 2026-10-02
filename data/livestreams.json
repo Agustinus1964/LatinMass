@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T20:03:22.197Z",
+  "lastUpdated": "2026-10-02T23:55:27.535Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/aHZ3v3swxfY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-03T13:00:00Z"
+        },
+        {
+          "id": "qrS7I9CAz-U",
+          "title": "Sung Rosary - 5/3/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qrS7I9CAz-U/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T22:55:00Z"
         }
       ]
     },
@@ -37,22 +46,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "7lc-dsIUpEY",
-          "title": "First Friday: 6pm Mass & Holy Hour. Holy Guardian Angels. III. October 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/7lc-dsIUpEY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T22:00:00Z"
+          "id": "Nx-ysK2Fu1U",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Nx-ysK2Fu1U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "7ImFeJLe5DQ",
-          "title": "Live Stream Holy Mass from Cleveland USA (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/7ImFeJLe5DQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T22:30:00Z"
+          "id": "72eXwK4fZSU",
+          "title": "First Friday 7 PM Traditional Latin Mass and Benediction 10/02/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/72eXwK4fZSU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SPp-_Bl5BvY",
+          "title": "1st Friday / 1er vendredi",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/SPp-_Bl5BvY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Jb4rMlEfIXg",
