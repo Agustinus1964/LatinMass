@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-02T08:48:23.967Z",
+  "lastUpdated": "2026-10-02T15:19:05.613Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "kx4Csh8GIR4",
-          "title": "Fri. Oct. 2, 2026   -   Holy Guardian Angels    (First Friday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/kx4Csh8GIR4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T11:15:00Z"
+          "id": "B6rItUWvLb8",
+          "title": "FSSPX Antwerpen - 02/10 H. Uur met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/B6rItUWvLb8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ocIgrFpj_WA",
@@ -30,21 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/K6HGAJ0L9d4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-03T05:15:00Z"
+        },
+        {
+          "id": "aHZ3v3swxfY",
+          "title": "Sat. Oct. 3, 2026   -   St. Therese of the Child Jesus   (First Saturday)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/aHZ3v3swxfY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T13:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cVn2tKc0y94",
-          "title": "First Friday: 7am Mass. Holy Guardian Angels. III. October 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/cVn2tKc0y94/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-02T11:00:00Z"
-        },
         {
           "id": "cy2qUyfoIdQ",
           "title": "Friday",
@@ -71,6 +71,60 @@
           "thumbnail": "https://i.ytimg.com/vi/7ImFeJLe5DQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-02T22:30:00Z"
+        },
+        {
+          "id": "Jb4rMlEfIXg",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Jb4rMlEfIXg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T09:00:00Z"
+        },
+        {
+          "id": "d7ZCt6x1tRY",
+          "title": "Saturday, 3 October 2026 - Saint Thérèse of the Child Jesus and of the Holy Face",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/d7ZCt6x1tRY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T09:30:00Z"
+        },
+        {
+          "id": "FSjx5S355W0",
+          "title": "First Saturday: 7am Mass. St. Teresa of the Child Jesus, Virgin. III. October 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/FSjx5S355W0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T11:00:00Z"
+        },
+        {
+          "id": "3O6JUqkvhgM",
+          "title": "Live Stream Holy Mass from Cleveland (Saint Thérèse of the Child Jesus and the Holy Face, Virgin)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/3O6JUqkvhgM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T13:00:00Z"
+        },
+        {
+          "id": "-OvVlSgGhxY",
+          "title": "First Saturday: 9am Sung Mass. St. Teresa of the Child Jesus, Virgin. III. October 3, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/-OvVlSgGhxY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T13:00:00Z"
+        },
+        {
+          "id": "ZeU5Qt1VWq4",
+          "title": "SAINT THERESE OF THE CHILD JESUS, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/ZeU5Qt1VWq4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-03T14:00:00Z"
         }
       ]
     }
