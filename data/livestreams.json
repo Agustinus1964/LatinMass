@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T18:30:24.481Z",
+  "lastUpdated": "2026-10-03T21:57:17.229Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,13 +14,13 @@
           "scheduledTime": "2026-10-03T22:55:00Z"
         },
         {
-          "id": "GCKnL9srlk0",
-          "title": "Amt - 19. Sonntag nach Pfingsten - 04. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/GCKnL9srlk0/mqdefault_live.jpg",
+          "id": "IdDFhXYcj6U",
+          "title": "San Francesco d'Assisi, Patrono d'Italia - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/IdDFhXYcj6U/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-04T07:30:00Z"
+          "scheduledTime": "2026-10-04T08:25:00Z"
         },
         {
           "id": "ixTlKSCqaPs",
@@ -50,13 +50,13 @@
           "scheduledTime": "2026-10-04T14:45:00Z"
         },
         {
-          "id": "4OzvQaKv5GA",
-          "title": "Vesper und Sakramentsandacht - 19. Sonntag nach Pfingsten - 04. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4OzvQaKv5GA/mqdefault_live.jpg",
+          "id": "gWxS-hTtwSQ",
+          "title": "Simple II Vespers - 19th Sunday after Pentecost - 10/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/gWxS-hTtwSQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-04T15:00:00Z"
+          "scheduledTime": "2026-10-04T21:00:00Z"
         }
       ]
     },
@@ -152,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/NXoAkco-rCw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-04T15:30:00Z"
+        },
+        {
+          "id": "mQKR9f2QdGM",
+          "title": "Secondes vêpres de la solennité du Très-Saint Rosaire - BEATA MATER",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/mQKR9f2QdGM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T15:45:00Z"
         },
         {
           "id": "Ywg4ee9xhx4",
