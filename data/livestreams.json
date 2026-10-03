@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-03T03:43:59.417Z",
+  "lastUpdated": "2026-10-03T09:38:08.929Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "K6HGAJ0L9d4",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 03. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/K6HGAJ0L9d4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T05:15:00Z"
-        },
-        {
-          "id": "oWoBcVJ7PEY",
-          "title": "Saint Teresa of the Child Jesus, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/oWoBcVJ7PEY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T07:30:00Z"
-        },
         {
           "id": "aHZ3v3swxfY",
           "title": "Sat. Oct. 3, 2026   -   St. Therese of the Child Jesus   (First Saturday)",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qrS7I9CAz-U/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-03T22:55:00Z"
+        },
+        {
+          "id": "GCKnL9srlk0",
+          "title": "Amt - 19. Sonntag nach Pfingsten - 04. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/GCKnL9srlk0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T07:30:00Z"
         }
       ]
     },
@@ -46,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Jb4rMlEfIXg",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Jb4rMlEfIXg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T09:00:00Z"
-        },
-        {
-          "id": "d7ZCt6x1tRY",
-          "title": "Saturday, 3 October 2026 - Saint Thérèse of the Child Jesus and of the Holy Face",
+          "id": "ISOF99KCJd4",
+          "title": "Friday, 2 October 2026 - First Friday - Holy Guardian Angels",
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/d7ZCt6x1tRY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T09:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/ISOF99KCJd4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "m32acvcEgvY",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/m32acvcEgvY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FSjx5S355W0",
@@ -98,6 +89,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZeU5Qt1VWq4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-03T14:00:00Z"
+        },
+        {
+          "id": "YNMBRSRyWbM",
+          "title": "Sainte messe de la solennité du Très-Saint Rosaire - GAUDEAMUS OMNES",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YNMBRSRyWbM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T09:00:00Z"
         }
       ]
     }
