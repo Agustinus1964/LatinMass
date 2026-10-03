@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T09:38:08.929Z",
+  "lastUpdated": "2026-10-03T14:31:58.407Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/aHZ3v3swxfY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qrS7I9CAz-U",
@@ -30,6 +30,33 @@
           "thumbnail": "https://i.ytimg.com/vi/GCKnL9srlk0/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-04T07:30:00Z"
+        },
+        {
+          "id": "ixTlKSCqaPs",
+          "title": "Low Mass - 19th Sunday after Pentecost - 10/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ixTlKSCqaPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T11:20:00Z"
+        },
+        {
+          "id": "uMaUyIg_uMA",
+          "title": "Solemn High Mass - External Solemnity of the Feast of the Holy Rosary - 10/4/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/uMaUyIg_uMA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T13:30:00Z"
+        },
+        {
+          "id": "Y1Yt2oMv6bI",
+          "title": "Sun. Oct. 4, 2026    -    19th Sunday after Pentecost  (Solemnity of the Holy Rosary)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Y1Yt2oMv6bI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T14:00:00Z"
         }
       ]
     },
@@ -37,49 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ISOF99KCJd4",
-          "title": "Friday, 2 October 2026 - First Friday - Holy Guardian Angels",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/ISOF99KCJd4/mqdefault_live.jpg",
+          "id": "79MdZtqs03w",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/79MdZtqs03w/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "m32acvcEgvY",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/m32acvcEgvY/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FSjx5S355W0",
-          "title": "First Saturday: 7am Mass. St. Teresa of the Child Jesus, Virgin. III. October 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/FSjx5S355W0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T11:00:00Z"
-        },
-        {
-          "id": "3O6JUqkvhgM",
-          "title": "Live Stream Holy Mass from Cleveland (Saint Thérèse of the Child Jesus and the Holy Face, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/3O6JUqkvhgM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T13:00:00Z"
-        },
-        {
-          "id": "-OvVlSgGhxY",
-          "title": "First Saturday: 9am Sung Mass. St. Teresa of the Child Jesus, Virgin. III. October 3, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/-OvVlSgGhxY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-03T13:00:00Z"
         },
         {
           "id": "ZeU5Qt1VWq4",
@@ -87,8 +78,44 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/ZeU5Qt1VWq4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fBkn_LRrhME",
+          "title": "First Saturday 9 AM Traditional Latin Mass & Benediction 10/03/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/fBkn_LRrhME/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XxZhAa6Apes",
+          "title": "Santo Sacrificio de la Misa. Santa Teresita del niño Jesús, 3 de octubre 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/XxZhAa6Apes/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "G7TG282clWY",
+          "title": "8am — 19th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/G7TG282clWY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-03T14:00:00Z"
+          "scheduledTime": "2026-10-04T07:00:00Z"
+        },
+        {
+          "id": "kX0ZSfDLC2g",
+          "title": "9:30am — 27th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/kX0ZSfDLC2g/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T08:30:00Z"
         },
         {
           "id": "YNMBRSRyWbM",
@@ -98,6 +125,42 @@
           "thumbnail": "https://i.ytimg.com/vi/YNMBRSRyWbM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-04T09:00:00Z"
+        },
+        {
+          "id": "SK7SJDze9TY",
+          "title": "11am — 27th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/SK7SJDze9TY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T10:00:00Z"
+        },
+        {
+          "id": "vb3q0EImkwU",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Nineteenth Sunday after Pentecost. II. October 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/vb3q0EImkwU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T11:00:00Z"
+        },
+        {
+          "id": "CXppq_HDxjI",
+          "title": "Live Stream Holy Mass (High) from Cleveland (External Solemnity of Our Lady of the Most Holy Rosary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/CXppq_HDxjI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T14:30:00Z"
+        },
+        {
+          "id": "QCkdDeUTucw",
+          "title": "10:30am Sung Mass. Nineteenth Sunday after Pentecost. II. October 4, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/QCkdDeUTucw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T14:30:00Z"
         }
       ]
     }
