@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-10-04T20:19:04.158Z",
+  "lastUpdated": "2026-10-04T23:25:48.253Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jnntxS7C1Wg",
-          "title": "19th Sunday After Pentecost",
-          "channel": "SSPX Florida",
-          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/jnntxS7C1Wg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kQsDryWkctk",
-          "title": "Ferial  5.10.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/kQsDryWkctk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gWxS-hTtwSQ",
-          "title": "Simple II Vespers - 19th Sunday after Pentecost - 10/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/gWxS-hTtwSQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T21:00:00Z"
-        },
         {
           "id": "EZuyFz9BUFA",
           "title": "Hl. Messe - 05. Oktober 2026",
@@ -48,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/H76hcgCejHA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-05T07:15:00Z"
-        },
-        {
-          "id": "etWCuzm5uCg",
-          "title": "Low Mass - Sts. Placidus and Companions Martyrs - 10/5/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/etWCuzm5uCg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-05T11:15:00Z"
         },
         {
           "id": "g5jOqpr5M_Y",
@@ -81,15 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "T65G3BeZfn8",
-          "title": "Missa rezada - XIX Domingo depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/T65G3BeZfn8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "7OJZ1KE4e7w",
           "title": "Live Stream Holy Mass from Cleveland (Saints Placid and Companions, Martyrs)",
