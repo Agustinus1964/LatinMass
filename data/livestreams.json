@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-04T00:23:04.636Z",
+  "lastUpdated": "2026-10-04T06:10:46.328Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MxX76Dx1_gs",
-          "title": "Mass of Nineteenth Sunday after Pentecost - 4.10.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/MxX76Dx1_gs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IdDFhXYcj6U",
           "title": "San Francesco d'Assisi, Patrono d'Italia - Santa Messa cantata - FSSPX Italia",
@@ -50,6 +41,15 @@
           "scheduledTime": "2026-10-04T14:45:00Z"
         },
         {
+          "id": "YLgYnJ9cDCI",
+          "title": "XIX Sunday after Pentecost (Rosary Sunday) | October 4th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/YLgYnJ9cDCI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T17:00:00Z"
+        },
+        {
           "id": "gWxS-hTtwSQ",
           "title": "Simple II Vespers - 19th Sunday after Pentecost - 10/4/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gWxS-hTtwSQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-04T21:00:00Z"
+        },
+        {
+          "id": "EZuyFz9BUFA",
+          "title": "Hl. Messe - 05. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/EZuyFz9BUFA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-05T05:15:00Z"
         }
       ]
     },
@@ -170,6 +179,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ywg4ee9xhx4/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-04T16:00:00Z"
+        },
+        {
+          "id": "75gInMHrFSs",
+          "title": "The Immaculate Conception",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/75gInMHrFSs/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-04T18:00:00Z"
         }
       ]
     }
