@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-10-04T12:42:09.057Z",
+  "lastUpdated": "2026-10-04T17:15:43.043Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "uMaUyIg_uMA",
-          "title": "Solemn High Mass - External Solemnity of the Feast of the Holy Rosary - 10/4/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/uMaUyIg_uMA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T13:30:00Z"
-        },
-        {
-          "id": "wLlBf19DkPg",
-          "title": "Nineteenth Sunday after Pentecost, October 4, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/wLlBf19DkPg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T14:45:00Z"
+          "id": "jnntxS7C1Wg",
+          "title": "19th Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/jnntxS7C1Wg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "YLgYnJ9cDCI",
@@ -28,8 +19,8 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/YLgYnJ9cDCI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gWxS-hTtwSQ",
@@ -66,111 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/g5jOqpr5M_Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-05T11:15:00Z"
+        },
+        {
+          "id": "-0WcjXC4p5k",
+          "title": "Rosenkranz und hl. Messe - 05. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/-0WcjXC4p5k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-05T16:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OgEN3W_NyGE",
-          "title": "Live Stream Holy Mass (Low) from Cleveland (External Solemnity of Our Lady of the Most Holy Rosary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/OgEN3W_NyGE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "l3UrnyExkgs",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/l3UrnyExkgs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vb3q0EImkwU",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Nineteenth Sunday after Pentecost. II. October 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vb3q0EImkwU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YzC4DhbfZWs",
-          "title": "Sunday 8:45 AM Catholic Mass for 10/04/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/YzC4DhbfZWs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WW5DStY6H6g",
-          "title": "Missa Cantada - XIX Domingo depois de Pentecostes- 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/WW5DStY6H6g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "CXppq_HDxjI",
-          "title": "Live Stream Holy Mass (High) from Cleveland (External Solemnity of Our Lady of the Most Holy Rosary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/CXppq_HDxjI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T14:30:00Z"
-        },
-        {
-          "id": "QCkdDeUTucw",
-          "title": "10:30am Sung Mass. Nineteenth Sunday after Pentecost. II. October 4, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/QCkdDeUTucw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T14:30:00Z"
-        },
-        {
-          "id": "yk_Xca_RPUQ",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/yk_Xca_RPUQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T14:45:00Z"
-        },
-        {
-          "id": "NXoAkco-rCw",
-          "title": "NINETEENTH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/NXoAkco-rCw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T15:30:00Z"
-        },
-        {
-          "id": "mQKR9f2QdGM",
-          "title": "Secondes vêpres de la solennité du Très-Saint Rosaire - BEATA MATER",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/mQKR9f2QdGM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T15:45:00Z"
-        },
-        {
-          "id": "Ywg4ee9xhx4",
-          "title": "Vespers and Benediction — 19th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Ywg4ee9xhx4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T16:00:00Z"
-        },
         {
           "id": "75gInMHrFSs",
           "title": "The Immaculate Conception",
@@ -181,6 +82,15 @@
           "scheduledTime": "2026-10-04T18:00:00Z"
         },
         {
+          "id": "7OJZ1KE4e7w",
+          "title": "Live Stream Holy Mass from Cleveland (Saints Placid and Companions, Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/7OJZ1KE4e7w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-05T11:00:00Z"
+        },
+        {
           "id": "tt8Z-k4CMv8",
           "title": "7am Mass. Feria. IV. Monday, October 5, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -188,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/tt8Z-k4CMv8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-05T11:00:00Z"
+        },
+        {
+          "id": "pmYjMoun8H4",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/pmYjMoun8H4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-05T17:00:00Z"
+        },
+        {
+          "id": "OFwLWKJDmUc",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/OFwLWKJDmUc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-05T17:00:00Z"
         }
       ]
     }
