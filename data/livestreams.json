@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-04T17:15:43.043Z",
+  "lastUpdated": "2026-10-04T20:19:04.158Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,11 +14,11 @@
           "scheduledTime": null
         },
         {
-          "id": "YLgYnJ9cDCI",
-          "title": "XIX Sunday after Pentecost (Rosary Sunday) | October 4th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/YLgYnJ9cDCI/mqdefault_live.jpg",
+          "id": "kQsDryWkctk",
+          "title": "Ferial  5.10.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/kQsDryWkctk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EZuyFz9BUFA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-05T05:15:00Z"
+        },
+        {
+          "id": "H76hcgCejHA",
+          "title": "Feria: 19ᵗʰ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/H76hcgCejHA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-05T07:15:00Z"
         },
         {
           "id": "etWCuzm5uCg",
@@ -73,13 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "75gInMHrFSs",
-          "title": "The Immaculate Conception",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/75gInMHrFSs/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-04T18:00:00Z"
+          "id": "T65G3BeZfn8",
+          "title": "Missa rezada - XIX Domingo depois de Pentecostes",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/T65G3BeZfn8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7OJZ1KE4e7w",
