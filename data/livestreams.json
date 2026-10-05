@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-05T02:14:31.499Z",
+  "lastUpdated": "2026-10-05T09:24:52.945Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EZuyFz9BUFA",
-          "title": "Hl. Messe - 05. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/EZuyFz9BUFA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-05T05:15:00Z"
-        },
-        {
-          "id": "H76hcgCejHA",
-          "title": "Feria: 19ᵗʰ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/H76hcgCejHA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-05T07:15:00Z"
-        },
         {
           "id": "g5jOqpr5M_Y",
           "title": "Mon. Oct. 5, 2026   -   Ferial Day",
@@ -39,12 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/-0WcjXC4p5k/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-05T16:00:00Z"
+        },
+        {
+          "id": "dUNgJp5fdCA",
+          "title": "Hl. Messe - hl. Bruno - 06. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/dUNgJp5fdCA/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-06T05:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "y-cqLBIAcWw",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/y-cqLBIAcWw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7OJZ1KE4e7w",
           "title": "Live Stream Holy Mass from Cleveland (Saints Placid and Companions, Martyrs)",
