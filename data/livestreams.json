@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-06T07:08:36.500Z",
+  "lastUpdated": "2026-10-06T14:20:46.326Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "L5o7bzWl94c",
-          "title": "Low Mass - St. Bruno - 10/6/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/L5o7bzWl94c/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-06T11:15:00Z"
-        },
-        {
-          "id": "IJBfG4LXpHo",
-          "title": "Tue. Oct. 6, 2026   -   St. Bruno,    Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/IJBfG4LXpHo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-06T11:15:00Z"
-        },
         {
           "id": "PSpI-lSDC7g",
           "title": "Rosenkranz und hl. Messe - hl. Bruno - 06. Oktober 2026",
@@ -48,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/pmJzQAG0qZM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-07T05:30:00Z"
+        },
+        {
+          "id": "9Fd3e5QXhDc",
+          "title": "Sung Mass - Our Lady of the Rosary - 10/7/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/9Fd3e5QXhDc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T10:50:00Z"
+        },
+        {
+          "id": "bZP295Mb7f0",
+          "title": "Wed. Oct. 7, 2026    -   Our Lady of the Holy Rosary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/bZP295Mb7f0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T11:15:00Z"
         }
       ]
     },
@@ -55,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "VtEm2mN6i3Y",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/VtEm2mN6i3Y/mqdefault_live.jpg",
+          "id": "JMk7iPApGzU",
+          "title": "Santo Sacrificio de la Misa, San Bruno, Confesor, 6 de octubre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/JMk7iPApGzU/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "BmXZyB9NfJs",
-          "title": "Live Stream Holy Mass from Cleveland (Saint Bruno, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/BmXZyB9NfJs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-06T11:00:00Z"
-        },
-        {
-          "id": "XCUc3tADWdo",
-          "title": "7am Mass. St. Bruno, Confessor. III. Tuesday, October 6, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/XCUc3tADWdo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-06T11:00:00Z"
         },
         {
           "id": "Ay3Vihwg4SU",
@@ -89,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Ay3Vihwg4SU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-06T17:00:00Z"
+        },
+        {
+          "id": "upQ-HKFqJPU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Our Lady of the Most Holy Rosary)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/upQ-HKFqJPU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T11:00:00Z"
+        },
+        {
+          "id": "Ceo-jWy93so",
+          "title": "7am Mass. Our Lady of the Rosary. II. Wednesday, October 7, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Ceo-jWy93so/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T11:00:00Z"
         }
       ]
     }
