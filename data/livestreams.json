@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T19:40:04.006Z",
+  "lastUpdated": "2026-10-06T23:31:54.961Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -62,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Ceo-jWy93so/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-07T11:00:00Z"
+        },
+        {
+          "id": "mBVHMr9p884",
+          "title": "OUR LADY OF THE ROSARY, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/mBVHMr9p884/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T23:00:00Z"
         }
       ]
     }
