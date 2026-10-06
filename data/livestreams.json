@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-06T00:33:43.412Z",
+  "lastUpdated": "2026-10-06T07:08:36.500Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dUNgJp5fdCA",
-          "title": "Hl. Messe - hl. Bruno - 06. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/dUNgJp5fdCA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-06T05:15:00Z"
-        },
         {
           "id": "L5o7bzWl94c",
           "title": "Low Mass - St. Bruno - 10/6/26",
@@ -39,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/PSpI-lSDC7g/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-06T16:00:00Z"
+        },
+        {
+          "id": "TMvDMtJLD1Y",
+          "title": "Hl. Messe - Rosenkranzfest - 07. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/TMvDMtJLD1Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T05:15:00Z"
+        },
+        {
+          "id": "pmJzQAG0qZM",
+          "title": "FSSPX Antwerpen - 07/10  O.-L.-V. v/d H. ROZENKRANS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/pmJzQAG0qZM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-07T05:30:00Z"
         }
       ]
     },
@@ -46,11 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "C2zOqrMXpMw",
-          "title": "Santo Sacrificio de la Misa, San Plácido y compañeros mártires, 5 de octubre de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/C2zOqrMXpMw/mqdefault_live.jpg",
+          "id": "VtEm2mN6i3Y",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/VtEm2mN6i3Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -71,15 +80,6 @@
           "thumbnail": "https://i.ytimg.com/vi/XCUc3tADWdo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-06T11:00:00Z"
-        },
-        {
-          "id": "hjlcumyw9d0",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/hjlcumyw9d0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-06T17:00:00Z"
         },
         {
           "id": "Ay3Vihwg4SU",
