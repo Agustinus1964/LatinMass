@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-05T18:42:26.508Z",
+  "lastUpdated": "2026-10-06T00:33:43.412Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -45,6 +45,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "C2zOqrMXpMw",
+          "title": "Santo Sacrificio de la Misa, San Plácido y compañeros mártires, 5 de octubre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/C2zOqrMXpMw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BmXZyB9NfJs",
           "title": "Live Stream Holy Mass from Cleveland (Saint Bruno, Confessor)",
