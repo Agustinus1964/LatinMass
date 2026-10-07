@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-10-07T04:06:55.512Z",
+  "lastUpdated": "2026-10-07T11:13:34.772Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "TMvDMtJLD1Y",
-          "title": "Hl. Messe - Rosenkranzfest - 07. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/TMvDMtJLD1Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-07T05:15:00Z"
-        },
         {
           "id": "9Fd3e5QXhDc",
           "title": "Sung Mass - Our Lady of the Rosary - 10/7/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/9Fd3e5QXhDc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-07T10:50:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bZP295Mb7f0",
@@ -28,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/bZP295Mb7f0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-07T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "qdLiHi9jJVE",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qdLiHi9jJVE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-07T15:40:00Z"
+        },
+        {
+          "id": "8Fg3_hp96vQ",
+          "title": "Hl. Messe - hl. Brigitta von Schweden - 08. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/8Fg3_hp96vQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-08T05:15:00Z"
         }
       ]
     },
@@ -51,8 +51,8 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/upQ-HKFqJPU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-07T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ceo-jWy93so",
@@ -60,8 +60,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Ceo-jWy93so/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "bq9bAu6p9zI",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/bq9bAu6p9zI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-07T11:00:00Z"
+          "scheduledTime": "2026-10-07T17:00:00Z"
         },
         {
           "id": "mBVHMr9p884",
@@ -71,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/mBVHMr9p884/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-07T23:00:00Z"
+        },
+        {
+          "id": "iftcvtuB8wQ",
+          "title": "7am Mass. St. Bridget of Sweden. III. Thursday, October 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/iftcvtuB8wQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-08T11:00:00Z"
         }
       ]
     }
