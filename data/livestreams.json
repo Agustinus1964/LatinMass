@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T17:53:13.639Z",
+  "lastUpdated": "2026-10-07T22:37:30.585Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/8Fg3_hp96vQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-08T05:15:00Z"
+        },
+        {
+          "id": "0aj4oUXauxw",
+          "title": "Saint Bridget, widow",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/0aj4oUXauxw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-08T07:15:00Z"
         },
         {
           "id": "PQsIpMjTQbg",
@@ -46,38 +55,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "d81Upi6G1ZE",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/d81Upi6G1ZE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "URmf86PuNNg",
-          "title": "Wednesday, 7 October 2026 - Our Lady of the Most Holy Rosary.jpg",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/URmf86PuNNg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bq9bAu6p9zI",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/bq9bAu6p9zI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WXOajVonJYI",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/WXOajVonJYI/mqdefault_live.jpg",
+          "id": "7os0OjfLaqw",
+          "title": "Missa Cantada - Nossa Senhora do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/7os0OjfLaqw/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -134,6 +116,15 @@
           "thumbnail": "https://i.ytimg.com/vi/nZ70tWNHt64/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-08T17:00:00Z"
+        },
+        {
+          "id": "CB7T7uafG0E",
+          "title": "6pm Mass. St. Bridget of Sweden. III. Thursday, October 8, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/CB7T7uafG0E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-08T22:00:00Z"
         }
       ]
     }
