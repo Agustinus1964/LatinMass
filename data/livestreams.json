@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-10-08T09:19:45.574Z",
+  "lastUpdated": "2026-10-08T16:44:53.267Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "PQsIpMjTQbg",
-          "title": "Low Mass - St. Bridget - 10/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/PQsIpMjTQbg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T11:15:00Z"
-        },
-        {
-          "id": "hidAuoK6Khs",
-          "title": "Thu. Oct. 8, 2026   -   St. Bridget of Sweden",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/hidAuoK6Khs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T11:15:00Z"
-        },
-        {
-          "id": "76ebawXT4zs",
-          "title": "Sakramentsandacht - hl. Brigitta von Schweden - 08. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/76ebawXT4zs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T15:00:00Z"
+          "id": "B3VbU6pUGXo",
+          "title": "FSSPX Antwerpen - 08/10 H. BIRGITTA van ZWEDEN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/B3VbU6pUGXo/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "z43jNZpgl9Y",
@@ -39,39 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/z43jNZpgl9Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-09T05:15:00Z"
+        },
+        {
+          "id": "_C2XJN6XOGw",
+          "title": "Low Mass - St. John Leonardi - 10/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/_C2XJN6XOGw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T11:15:00Z"
+        },
+        {
+          "id": "SMya2ts0L5M",
+          "title": "Fri. Oct. 9, 2026    -   St. John Leonardi,     Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/SMya2ts0L5M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T11:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "g19kiZT556Q",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/g19kiZT556Q/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T08:52:46Z"
-        },
-        {
-          "id": "wXOEwYQX4U4",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Bridget of Sweden, Widow)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/wXOEwYQX4U4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T11:00:00Z"
-        },
-        {
-          "id": "iftcvtuB8wQ",
-          "title": "7am Mass. St. Bridget of Sweden. III. Thursday, October 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/iftcvtuB8wQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T11:00:00Z"
-        },
         {
           "id": "4-mWrHbP_EU",
           "title": "Thursday",
@@ -98,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CB7T7uafG0E/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-08T22:00:00Z"
+        },
+        {
+          "id": "5Ic2fcIXAhg",
+          "title": "7am Mass. St. John Leonardi, Confessor. III. Friday, October 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/5Ic2fcIXAhg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T11:00:00Z"
         }
       ]
     }
