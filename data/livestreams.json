@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-08T02:26:48.077Z",
+  "lastUpdated": "2026-10-08T09:19:45.574Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8Fg3_hp96vQ",
-          "title": "Hl. Messe - hl. Brigitta von Schweden - 08. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/8Fg3_hp96vQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T05:15:00Z"
-        },
-        {
-          "id": "0aj4oUXauxw",
-          "title": "Saint Bridget, widow",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/0aj4oUXauxw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T07:15:00Z"
-        },
         {
           "id": "PQsIpMjTQbg",
           "title": "Low Mass - St. Bridget - 10/8/26",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/76ebawXT4zs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-08T15:00:00Z"
+        },
+        {
+          "id": "z43jNZpgl9Y",
+          "title": "Hl. Messe - hl. Johannes Leonardi - 09. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/z43jNZpgl9Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T05:15:00Z"
         }
       ]
     },
@@ -55,13 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "VDVZIlKxDgg",
-          "title": "Thursday, 8 October 2026 - Saint Bridget of Sweden",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/VDVZIlKxDgg/mqdefault_live.jpg",
+          "id": "g19kiZT556Q",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/g19kiZT556Q/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-08T07:00:00Z"
+          "scheduledTime": "2026-10-08T08:52:46Z"
         },
         {
           "id": "wXOEwYQX4U4",
