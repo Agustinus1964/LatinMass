@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T22:37:30.585Z",
+  "lastUpdated": "2026-10-08T02:26:48.077Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -54,24 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7os0OjfLaqw",
-          "title": "Missa Cantada - Nossa Senhora do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/7os0OjfLaqw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mBVHMr9p884",
-          "title": "OUR LADY OF THE ROSARY, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/mBVHMr9p884/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-07T23:00:00Z"
-        },
         {
           "id": "VDVZIlKxDgg",
           "title": "Thursday, 8 October 2026 - Saint Bridget of Sweden",
