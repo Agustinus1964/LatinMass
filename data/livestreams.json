@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-08T16:44:53.267Z",
+  "lastUpdated": "2026-10-08T21:47:09.092Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "B3VbU6pUGXo",
-          "title": "FSSPX Antwerpen - 08/10 H. BIRGITTA van ZWEDEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/B3VbU6pUGXo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "z43jNZpgl9Y",
           "title": "Hl. Messe - hl. Johannes Leonardi - 09. Oktober 2026",
@@ -21,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/z43jNZpgl9Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-09T05:15:00Z"
+        },
+        {
+          "id": "l9SSA2FViW8",
+          "title": "Saint John Leonard, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/l9SSA2FViW8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T07:15:00Z"
         },
         {
           "id": "_C2XJN6XOGw",
@@ -46,31 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "4-mWrHbP_EU",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/4-mWrHbP_EU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T17:00:00Z"
-        },
-        {
-          "id": "nZ70tWNHt64",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/nZ70tWNHt64/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T17:00:00Z"
-        },
-        {
           "id": "CB7T7uafG0E",
           "title": "6pm Mass. St. Bridget of Sweden. III. Thursday, October 8, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/CB7T7uafG0E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-08T22:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "eqYbVXjU-8Q",
+          "title": "Ofício e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/eqYbVXjU-8Q/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5Ic2fcIXAhg",
@@ -80,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5Ic2fcIXAhg/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-09T11:00:00Z"
+        },
+        {
+          "id": "iBrInIJv9U8",
+          "title": "Solemn Mass for the Feast of St John Henry Newman",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/iBrInIJv9U8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T17:00:00Z"
         }
       ]
     }
