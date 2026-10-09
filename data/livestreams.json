@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-09T08:25:38.340Z",
+  "lastUpdated": "2026-10-09T15:27:55.366Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "SMya2ts0L5M",
-          "title": "Fri. Oct. 9, 2026    -   St. John Leonardi,     Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/SMya2ts0L5M/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-09T11:15:00Z"
+          "id": "zgqZRPdEfPM",
+          "title": "FSSPX Antwerpen - 09/10 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/zgqZRPdEfPM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cQqCRRkeVOM",
@@ -21,21 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/cQqCRRkeVOM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-10T05:15:00Z"
+        },
+        {
+          "id": "u5aTmLVAyxk",
+          "title": "Sat. Oct. 10, 2026   -   St. Francis Borgia,     Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/u5aTmLVAyxk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-10T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5Ic2fcIXAhg",
-          "title": "7am Mass. St. John Leonardi, Confessor. III. Friday, October 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/5Ic2fcIXAhg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-09T11:00:00Z"
-        },
         {
           "id": "iBrInIJv9U8",
           "title": "Solemn Mass for the Feast of St John Henry Newman",
@@ -71,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Iz-sQpThQeU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-10T07:30:00Z"
+        },
+        {
+          "id": "Q9Nqcd0iwqE",
+          "title": "7am Mass. St. Francis Borgia, Confessor. III. Saturday, October 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Q9Nqcd0iwqE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-10T11:00:00Z"
+        },
+        {
+          "id": "loytSR3IKJk",
+          "title": "9am Mass. St. Francis Borgia, Confessor. III. Saturday, October 10, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/loytSR3IKJk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-10T13:00:00Z"
         }
       ]
     }
