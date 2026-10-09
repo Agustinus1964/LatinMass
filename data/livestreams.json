@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T21:47:09.092Z",
+  "lastUpdated": "2026-10-09T01:42:28.359Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-10-09T07:15:00Z"
         },
         {
-          "id": "_C2XJN6XOGw",
-          "title": "Low Mass - St. John Leonardi - 10/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/_C2XJN6XOGw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-09T11:15:00Z"
-        },
-        {
           "id": "SMya2ts0L5M",
           "title": "Fri. Oct. 9, 2026    -   St. John Leonardi,     Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -45,24 +36,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CB7T7uafG0E",
-          "title": "6pm Mass. St. Bridget of Sweden. III. Thursday, October 8, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/CB7T7uafG0E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "eqYbVXjU-8Q",
-          "title": "Ofício e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/eqYbVXjU-8Q/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "5Ic2fcIXAhg",
           "title": "7am Mass. St. John Leonardi, Confessor. III. Friday, October 9, 2026.",
@@ -80,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/iBrInIJv9U8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-09T17:00:00Z"
+        },
+        {
+          "id": "yx2PrZgSAJg",
+          "title": "6pm Mass & Holy Hour. St. John Leonardi, Confessor. III. Friday, October 9, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/yx2PrZgSAJg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T22:00:00Z"
+        },
+        {
+          "id": "KriTavNUfns",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Leonardi, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/KriTavNUfns/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-09T22:30:00Z"
         }
       ]
     }
