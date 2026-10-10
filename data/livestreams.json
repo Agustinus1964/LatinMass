@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T12:50:39.453Z",
+  "lastUpdated": "2026-10-10T17:37:09.482Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,33 @@
           "thumbnail": "https://i.ytimg.com/vi/m-SpCN-sjUQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-11T07:30:00Z"
+        },
+        {
+          "id": "p89gvhf5M1M",
+          "title": "XX Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/p89gvhf5M1M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T08:25:00Z"
+        },
+        {
+          "id": "1KijFOnoXEk",
+          "title": "Sun. Oct. 11, 2026   -   20th Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/1KijFOnoXEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T14:00:00Z"
+        },
+        {
+          "id": "ehXwJ23xUPw",
+          "title": "Vesper und Sakramentsandacht - 20. Sonntag nach Pfingsten - 11. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ehXwJ23xUPw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T15:00:00Z"
         }
       ]
     },
@@ -19,22 +46,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Q9Nqcd0iwqE",
-          "title": "7am Mass, Rosary, 9am Mass. St. Francis Borgia, Confessor. III. Saturday, October 10, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Q9Nqcd0iwqE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "FdH_WLuZT2s",
+          "title": "8am — 20th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/FdH_WLuZT2s/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T07:00:00Z"
         },
         {
-          "id": "eUTvu-dNkug",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Francis Borgia, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/eUTvu-dNkug/mqdefault_live.jpg",
+          "id": "CxHWTs_k6gA",
+          "title": "9:30am — 28th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/CxHWTs_k6gA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-10T13:00:00Z"
+          "scheduledTime": "2026-10-11T08:30:00Z"
         },
         {
           "id": "q_qPYle_2yo",
@@ -46,6 +73,15 @@
           "scheduledTime": "2026-10-11T09:00:00Z"
         },
         {
+          "id": "rHwqeJV855w",
+          "title": "11am — 28th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rHwqeJV855w/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T10:00:00Z"
+        },
+        {
           "id": "ykOnkAifiLw",
           "title": "7am Low Mass, Rosary, 8:30am Low Mass. Twentieth Sunday after Pentecost. II. October 11, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -53,6 +89,51 @@
           "thumbnail": "https://i.ytimg.com/vi/ykOnkAifiLw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-11T11:00:00Z"
+        },
+        {
+          "id": "VTTxzYwaymw",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Twentieth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/VTTxzYwaymw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T12:00:00Z"
+        },
+        {
+          "id": "FnphQrT50T0",
+          "title": "10:30am Sung Mass. Twentieth Sunday after Pentecost. II. October 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/FnphQrT50T0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T14:30:00Z"
+        },
+        {
+          "id": "Fooqdc9ko8E",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Fooqdc9ko8E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T14:45:00Z"
+        },
+        {
+          "id": "VQ6rWd8aNNE",
+          "title": "TWENTIETH SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/VQ6rWd8aNNE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T15:30:00Z"
+        },
+        {
+          "id": "Y7H-l70X5dk",
+          "title": "Vespers and Benediction — 20th Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Y7H-l70X5dk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T16:00:00Z"
         }
       ]
     }
