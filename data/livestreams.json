@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-10-10T06:10:27.989Z",
+  "lastUpdated": "2026-10-10T12:50:39.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "w__AgA_4dWs",
-          "title": "Saint Francis Borgia, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/w__AgA_4dWs/mqdefault_live.jpg",
+          "id": "m-SpCN-sjUQ",
+          "title": "20. Sonntag nach Pfingsten - 11. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/m-SpCN-sjUQ/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-10T06:30:00Z"
-        },
-        {
-          "id": "u5aTmLVAyxk",
-          "title": "Sat. Oct. 10, 2026   -   St. Francis Borgia,     Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/u5aTmLVAyxk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-10T12:00:00Z"
+          "scheduledTime": "2026-10-11T07:30:00Z"
         }
       ]
     },
@@ -28,22 +19,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Iz-sQpThQeU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Iz-sQpThQeU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-10T07:30:00Z"
-        },
-        {
           "id": "Q9Nqcd0iwqE",
-          "title": "7am Mass. St. Francis Borgia, Confessor. III. Saturday, October 10, 2026.",
+          "title": "7am Mass, Rosary, 9am Mass. St. Francis Borgia, Confessor. III. Saturday, October 10, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Q9Nqcd0iwqE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-10T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "eUTvu-dNkug",
@@ -55,22 +37,22 @@
           "scheduledTime": "2026-10-10T13:00:00Z"
         },
         {
-          "id": "loytSR3IKJk",
-          "title": "9am Mass. St. Francis Borgia, Confessor. III. Saturday, October 10, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/loytSR3IKJk/mqdefault_live.jpg",
+          "id": "q_qPYle_2yo",
+          "title": "Sainte messe de la solennité de saint Denys - ANNUNCIATE INTER GENTES",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/q_qPYle_2yo/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-10T13:00:00Z"
+          "scheduledTime": "2026-10-11T09:00:00Z"
         },
         {
-          "id": "cdZulVkt1SQ",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/cdZulVkt1SQ/mqdefault_live.jpg",
+          "id": "ykOnkAifiLw",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Twentieth Sunday after Pentecost. II. October 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ykOnkAifiLw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-10T17:00:00Z"
+          "scheduledTime": "2026-10-11T11:00:00Z"
         }
       ]
     }
