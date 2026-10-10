@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-10T00:11:26.222Z",
+  "lastUpdated": "2026-10-10T06:10:27.989Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "cQqCRRkeVOM",
-          "title": "Hl. Messe - hl. Franz von Borgia - 10. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/cQqCRRkeVOM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-10T05:15:00Z"
-        },
         {
           "id": "w__AgA_4dWs",
           "title": "Saint Francis Borgia, confessor",
@@ -20,7 +11,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/w__AgA_4dWs/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-10T07:30:00Z"
+          "scheduledTime": "2026-10-10T06:30:00Z"
         },
         {
           "id": "u5aTmLVAyxk",
@@ -36,24 +27,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Nz8xPmy_RIM",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Nz8xPmy_RIM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "FgOW7I7VmWk",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 10/09/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/FgOW7I7VmWk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Iz-sQpThQeU",
           "title": "Sainte messe en semaine",
@@ -71,6 +44,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Q9Nqcd0iwqE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-10T11:00:00Z"
+        },
+        {
+          "id": "eUTvu-dNkug",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Francis Borgia, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/eUTvu-dNkug/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-10T13:00:00Z"
         },
         {
           "id": "loytSR3IKJk",
