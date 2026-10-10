@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-09T20:15:05.808Z",
+  "lastUpdated": "2026-10-10T00:11:26.222Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -37,22 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "yx2PrZgSAJg",
-          "title": "6pm Mass & Holy Hour. St. John Leonardi, Confessor. III. Friday, October 9, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/yx2PrZgSAJg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-09T22:00:00Z"
+          "id": "Nz8xPmy_RIM",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Nz8xPmy_RIM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "KriTavNUfns",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Leonardi, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/KriTavNUfns/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-09T22:30:00Z"
+          "id": "FgOW7I7VmWk",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 10/09/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/FgOW7I7VmWk/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Iz-sQpThQeU",
