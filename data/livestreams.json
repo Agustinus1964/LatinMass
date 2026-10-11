@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-11T00:19:01.445Z",
+  "lastUpdated": "2026-10-11T06:08:17.451Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9EDkyb-nDMw",
-          "title": "TWENTIETH SUNDAY AFTER PENTECOST 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/9EDkyb-nDMw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "m-SpCN-sjUQ",
           "title": "20. Sonntag nach Pfingsten - 11. Oktober 2026",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/p89gvhf5M1M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-11T08:25:00Z"
+        },
+        {
+          "id": "f6TZvSNyVuk",
+          "title": "20th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/f6TZvSNyVuk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T10:00:00Z"
         },
         {
           "id": "ehXwJ23xUPw",
@@ -109,6 +109,15 @@
           "scheduledTime": "2026-10-11T12:00:00Z"
         },
         {
+          "id": "UXWTucgTOdU",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Twentieth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/UXWTucgTOdU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T14:30:00Z"
+        },
+        {
           "id": "FnphQrT50T0",
           "title": "10:30am Sung Mass. Twentieth Sunday after Pentecost. II. October 11, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -152,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Y7H-l70X5dk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-11T16:00:00Z"
+        },
+        {
+          "id": "OwuR1Q553XU",
+          "title": "Does Christ Reign in You? Only Where Christ Reigns Can There Be True Peace.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/OwuR1Q553XU/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T18:00:00Z"
         }
       ]
     }
