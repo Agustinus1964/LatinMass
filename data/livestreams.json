@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-10-11T18:15:49.292Z",
+  "lastUpdated": "2026-10-11T22:14:28.423Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "WbR-EpxLnfo",
-          "title": "XX Sunday after Pentecost | October 11th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/WbR-EpxLnfo/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "y6uckyQ9Wlk",
+          "title": "Hl. Messe - 12. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/y6uckyQ9Wlk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T05:15:00Z"
+        },
+        {
+          "id": "cEl9ykM_6Vs",
+          "title": "St. Wilfrid, Bishop and Confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/cEl9ykM_6Vs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T07:15:00Z"
         },
         {
           "id": "FpzlUnG9nFg",
@@ -30,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7ta80gis6aU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-12T12:00:00Z"
+        },
+        {
+          "id": "9AONMzXXMUo",
+          "title": "Rosenkranz und hl. Messe - 12. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9AONMzXXMUo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T16:00:00Z"
         }
       ]
     },
@@ -37,20 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BTKCoRKpU1I",
-          "title": "Sunday 1:30 PM Catholic Mass 10/11/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/BTKCoRKpU1I/mqdefault_live.jpg",
+          "id": "mcsCPLC6r6Y",
+          "title": "20th Sunday after Pentecost / 20e Dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/mcsCPLC6r6Y/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "rZSL4pMFQ6Q",
-          "title": "Santo Sacrificio de la Misa. 11 de octubre 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/rZSL4pMFQ6Q/mqdefault_live.jpg",
+          "id": "o2eOr_Dul2g",
+          "title": "Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/o2eOr_Dul2g/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
