@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-10-10T21:05:46.213Z",
+  "lastUpdated": "2026-10-11T00:19:01.445Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "9EDkyb-nDMw",
+          "title": "TWENTIETH SUNDAY AFTER PENTECOST 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/9EDkyb-nDMw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "m-SpCN-sjUQ",
           "title": "20. Sonntag nach Pfingsten - 11. Oktober 2026",
@@ -21,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/p89gvhf5M1M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-11T08:25:00Z"
-        },
-        {
-          "id": "1KijFOnoXEk",
-          "title": "Sun. Oct. 11, 2026   -   20th Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/1KijFOnoXEk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T14:00:00Z"
         },
         {
           "id": "ehXwJ23xUPw",
@@ -54,15 +54,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FOH9YnCKb8M",
-          "title": "Ofício do Rosário (mês de outubro)",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/FOH9YnCKb8M/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "FdH_WLuZT2s",
           "title": "8am — 20th Sunday after Pentecost",
@@ -143,6 +134,15 @@
           "thumbnail": "https://i.ytimg.com/vi/VQ6rWd8aNNE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-11T15:30:00Z"
+        },
+        {
+          "id": "e4Y3vUUoEW4",
+          "title": "Secondes vêpres de la solennité de saint Denys et ses compagnons, martyrs - BENEDICTUS DOMINUS",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/e4Y3vUUoEW4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-11T15:45:00Z"
         },
         {
           "id": "Y7H-l70X5dk",
