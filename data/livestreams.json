@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-10-11T13:14:56.655Z",
+  "lastUpdated": "2026-10-11T18:15:49.292Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "pKWEg2qiMz8",
-          "title": "Twentieth Sunday After Pentecost",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/pKWEg2qiMz8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ehXwJ23xUPw",
-          "title": "Vesper und Sakramentsandacht - 20. Sonntag nach Pfingsten - 11. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/ehXwJ23xUPw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T15:00:00Z"
-        },
         {
           "id": "WbR-EpxLnfo",
           "title": "XX Sunday after Pentecost | October 11th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/WbR-EpxLnfo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "FpzlUnG9nFg",
@@ -55,103 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vrX2VknGSrU",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/vrX2VknGSrU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ykOnkAifiLw",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Twentieth Sunday after Pentecost. II. October 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/ykOnkAifiLw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AD3_Sk7dNnY",
-          "title": "Sunday 8:45 AM Catholic Mass for 10/11/2026",
+          "id": "BTKCoRKpU1I",
+          "title": "Sunday 1:30 PM Catholic Mass 10/11/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/AD3_Sk7dNnY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/BTKCoRKpU1I/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "YUheR7dc-iE",
-          "title": "Missa Cantada XX Domingo Depois De Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/YUheR7dc-iE/mqdefault_live.jpg",
+          "id": "rZSL4pMFQ6Q",
+          "title": "Santo Sacrificio de la Misa. 11 de octubre 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/rZSL4pMFQ6Q/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "UXWTucgTOdU",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Twentieth Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/UXWTucgTOdU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T14:30:00Z"
-        },
-        {
-          "id": "FnphQrT50T0",
-          "title": "10:30am Sung Mass. Twentieth Sunday after Pentecost. II. October 11, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/FnphQrT50T0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T14:30:00Z"
-        },
-        {
-          "id": "Fooqdc9ko8E",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Fooqdc9ko8E/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T14:45:00Z"
-        },
-        {
-          "id": "VQ6rWd8aNNE",
-          "title": "TWENTIETH SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/VQ6rWd8aNNE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T15:30:00Z"
-        },
-        {
-          "id": "e4Y3vUUoEW4",
-          "title": "Secondes vêpres de la solennité de saint Denys et ses compagnons, martyrs - BENEDICTUS DOMINUS",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/e4Y3vUUoEW4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T15:45:00Z"
-        },
-        {
-          "id": "Y7H-l70X5dk",
-          "title": "Vespers and Benediction — 20th Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Y7H-l70X5dk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T16:00:00Z"
-        },
-        {
-          "id": "OwuR1Q553XU",
-          "title": "Does Christ Reign in You? Only Where Christ Reigns Can There Be True Peace.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/OwuR1Q553XU/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-11T18:00:00Z"
         },
         {
           "id": "FM7e1TVecRY",
@@ -161,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/FM7e1TVecRY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-12T11:00:00Z"
+        },
+        {
+          "id": "rB4ht-p3eec",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rB4ht-p3eec/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T17:00:00Z"
+        },
+        {
+          "id": "Aw3Z-tdvKYQ",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Aw3Z-tdvKYQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T17:00:00Z"
         }
       ]
     }
