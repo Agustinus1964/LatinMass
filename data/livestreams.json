@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-11T22:14:28.423Z",
+  "lastUpdated": "2026-10-12T01:30:36.760Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9AONMzXXMUo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-12T16:00:00Z"
+        },
+        {
+          "id": "2TcxAoy9Urk",
+          "title": "Sung Rosary - 10/12/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/2TcxAoy9Urk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T22:55:00Z"
         }
       ]
     },
@@ -55,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mcsCPLC6r6Y",
-          "title": "20th Sunday after Pentecost / 20e Dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/mcsCPLC6r6Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "o2eOr_Dul2g",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/o2eOr_Dul2g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
+          "id": "SvGE-ZAaKj8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Twentieth Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/SvGE-ZAaKj8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-12T11:00:00Z"
         },
         {
           "id": "FM7e1TVecRY",
