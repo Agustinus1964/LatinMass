@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-10-12T08:31:44.746Z",
+  "lastUpdated": "2026-10-12T18:32:14.469Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FpzlUnG9nFg",
-          "title": "Dominican Rite Low Mass - Feria - 10/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/FpzlUnG9nFg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-12T11:15:00Z"
-        },
-        {
-          "id": "7ta80gis6aU",
-          "title": "Mon. Oct. 12, 2026   =   Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/7ta80gis6aU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-12T12:00:00Z"
-        },
-        {
-          "id": "9AONMzXXMUo",
-          "title": "Rosenkranz und hl. Messe - 12. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9AONMzXXMUo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-12T16:00:00Z"
-        },
         {
           "id": "2TcxAoy9Urk",
           "title": "Sung Rosary - 10/12/26",
@@ -39,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/2TcxAoy9Urk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-12T22:55:00Z"
+        },
+        {
+          "id": "bHrcF7oUgPs",
+          "title": "Sakramentsandacht und Singmesse - hl. Eduard - 13. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/bHrcF7oUgPs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-13T16:00:00Z"
         }
       ]
     },
@@ -46,40 +28,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "SvGE-ZAaKj8",
-          "title": "Live Stream Holy Mass from Cleveland USA (Feria of the Twentieth Sunday after Pentecost)",
+          "id": "1vSXxbOkCQE",
+          "title": "Monday, 12 October 2026 - Mass of 20th Sunday after Pentecost",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/1vSXxbOkCQE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "UwOqXVSHSnM",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Edward, King and Confessor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/SvGE-ZAaKj8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/UwOqXVSHSnM/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-12T11:00:00Z"
+          "scheduledTime": "2026-10-13T11:00:00Z"
         },
         {
-          "id": "FM7e1TVecRY",
-          "title": "7am Mass. Feria. IV. Monday, October 12, 2026.",
+          "id": "eLXAbA5MLiA",
+          "title": "7am Mass. St. Edward the Confessor, King. III. Tuesday, October 13, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/FM7e1TVecRY/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/eLXAbA5MLiA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-12T11:00:00Z"
+          "scheduledTime": "2026-10-13T11:00:00Z"
         },
         {
-          "id": "rB4ht-p3eec",
-          "title": "Monday",
+          "id": "k3gu52s9Ido",
+          "title": "Tuesday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/rB4ht-p3eec/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/k3gu52s9Ido/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-12T17:00:00Z"
+          "scheduledTime": "2026-10-13T17:00:00Z"
         },
         {
-          "id": "Aw3Z-tdvKYQ",
+          "id": "9Z0J5gfNmQ8",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Aw3Z-tdvKYQ/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/9Z0J5gfNmQ8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-12T17:00:00Z"
+          "scheduledTime": "2026-10-13T17:00:00Z"
         }
       ]
     }
