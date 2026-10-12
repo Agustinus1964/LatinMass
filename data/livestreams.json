@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-12T01:30:36.760Z",
+  "lastUpdated": "2026-10-12T08:31:44.746Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "y6uckyQ9Wlk",
-          "title": "Hl. Messe - 12. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/y6uckyQ9Wlk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-12T05:15:00Z"
-        },
-        {
-          "id": "cEl9ykM_6Vs",
-          "title": "St. Wilfrid, Bishop and Confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/cEl9ykM_6Vs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-12T07:15:00Z"
-        },
         {
           "id": "FpzlUnG9nFg",
           "title": "Dominican Rite Low Mass - Feria - 10/12/26",
