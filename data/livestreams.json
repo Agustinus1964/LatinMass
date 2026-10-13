@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-13T16:12:58.329Z",
+  "lastUpdated": "2026-10-13T21:23:35.835Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qJcZgnDHSAk",
-          "title": "FSSPX Antwerpen - 13/10 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/qJcZgnDHSAk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "bHrcF7oUgPs",
-          "title": "Sakramentsandacht und Singmesse - hl. Eduard - 13. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/bHrcF7oUgPs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "xZBVRMEsF5Y",
           "title": "Tue. Oct. 13, 2026   -   St. Edward the Confessor",
@@ -32,31 +14,13 @@
           "scheduledTime": "2026-10-13T22:00:00Z"
         },
         {
-          "id": "Uo7dBWvciJU",
-          "title": "Sung Rosary - 10/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Uo7dBWvciJU/mqdefault_live.jpg",
+          "id": "nEwqorYO-I8",
+          "title": "Saint Callistus I, pope and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/nEwqorYO-I8/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-13T22:55:00Z"
-        },
-        {
-          "id": "ZdkM0SCuI24",
-          "title": "Compline - 10/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/ZdkM0SCuI24/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T00:45:00Z"
-        },
-        {
-          "id": "INnPx-RIE9k",
-          "title": "Dominican Rite Low Mass - St. Callistus I - 10/14/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/INnPx-RIE9k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T11:15:00Z"
+          "scheduledTime": "2026-10-14T07:15:00Z"
         },
         {
           "id": "gegWgvkbspE",
@@ -82,33 +46,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "1d2GbknGoXc",
-          "title": "Tuesday, 13 October 2026 - Saint Edward",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/1d2GbknGoXc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "k3gu52s9Ido",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/k3gu52s9Ido/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-13T17:00:00Z"
-        },
-        {
-          "id": "9Z0J5gfNmQ8",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/9Z0J5gfNmQ8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-13T17:00:00Z"
-        },
-        {
           "id": "oHtI4KyyJsg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Callistus I, Pope and Martyr)",
           "channel": "Usus Antiquior",
@@ -125,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/r2qPCmwK0js/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-14T11:00:00Z"
+        },
+        {
+          "id": "BEmYUMk4UoM",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/BEmYUMk4UoM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-14T17:00:00Z"
+        },
+        {
+          "id": "x_xCZ5NsBWE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/x_xCZ5NsBWE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-14T17:00:00Z"
         }
       ]
     }
