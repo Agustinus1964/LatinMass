@@ -1,17 +1,35 @@
 {
-  "lastUpdated": "2026-10-12T18:32:14.469Z",
+  "lastUpdated": "2026-10-13T01:04:57.193Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "2TcxAoy9Urk",
-          "title": "Sung Rosary - 10/12/26",
+          "id": "lgUPsZ674k4",
+          "title": "Compline - 10/12/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/2TcxAoy9Urk/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/lgUPsZ674k4/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DWbFzXNM2yY",
+          "title": "Saint Edward, king and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/DWbFzXNM2yY/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-12T22:55:00Z"
+          "scheduledTime": "2026-10-13T07:15:00Z"
+        },
+        {
+          "id": "BxdThUWJYhY",
+          "title": "Dominican Rite Low Mass - St. Edward - 10/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BxdThUWJYhY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-13T11:15:00Z"
         },
         {
           "id": "bHrcF7oUgPs",
@@ -21,21 +39,39 @@
           "thumbnail": "https://i.ytimg.com/vi/bHrcF7oUgPs/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-13T16:00:00Z"
+        },
+        {
+          "id": "xZBVRMEsF5Y",
+          "title": "Tue. Oct. 13, 2026   -   St. Edward the Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/xZBVRMEsF5Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-13T22:00:00Z"
+        },
+        {
+          "id": "Uo7dBWvciJU",
+          "title": "Sung Rosary - 10/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Uo7dBWvciJU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-13T22:55:00Z"
+        },
+        {
+          "id": "ZdkM0SCuI24",
+          "title": "Compline - 10/13/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ZdkM0SCuI24/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-14T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1vSXxbOkCQE",
-          "title": "Monday, 12 October 2026 - Mass of 20th Sunday after Pentecost",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/1vSXxbOkCQE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "UwOqXVSHSnM",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Edward, King and Confessor)",
