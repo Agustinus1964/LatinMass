@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-13T01:04:57.193Z",
+  "lastUpdated": "2026-10-13T08:02:45.922Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lgUPsZ674k4",
-          "title": "Compline - 10/12/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/lgUPsZ674k4/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DWbFzXNM2yY",
-          "title": "Saint Edward, king and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/DWbFzXNM2yY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-13T07:15:00Z"
-        },
         {
           "id": "BxdThUWJYhY",
           "title": "Dominican Rite Low Mass - St. Edward - 10/13/26",
@@ -30,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/BxdThUWJYhY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-13T11:15:00Z"
-        },
-        {
-          "id": "bHrcF7oUgPs",
-          "title": "Sakramentsandacht und Singmesse - hl. Eduard - 13. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/bHrcF7oUgPs/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-13T16:00:00Z"
         },
         {
           "id": "xZBVRMEsF5Y",
@@ -66,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ZdkM0SCuI24/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-14T00:45:00Z"
+        },
+        {
+          "id": "sXrICeCRxQQ",
+          "title": "Hl. Messe - hl. Kallistus - 14. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/sXrICeCRxQQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-14T05:15:00Z"
         }
       ]
     },
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/eLXAbA5MLiA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-13T11:00:00Z"
+        },
+        {
+          "id": "DQJLkLR1nr8",
+          "title": "Nuestra Señora del Pilar | Fraternidad Sacerdotal San Pedro",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/DQJLkLR1nr8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-13T15:15:00Z"
         },
         {
           "id": "k3gu52s9Ido",
