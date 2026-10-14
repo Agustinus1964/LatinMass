@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-14T15:19:33.731Z",
+  "lastUpdated": "2026-10-14T19:33:25.658Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9a6q1ukaiBQ",
-          "title": "Hl. Messe - hl. Theresia von Avila - 15. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/9a6q1ukaiBQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-15T05:15:00Z"
-        },
         {
           "id": "Z38VQyinqqI",
           "title": "Dominican Rite Low Mass - St. Teresa of Avila - 10/15/26",
@@ -46,24 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "BEmYUMk4UoM",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/BEmYUMk4UoM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T17:00:00Z"
-        },
-        {
-          "id": "x_xCZ5NsBWE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/x_xCZ5NsBWE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T17:00:00Z"
-        },
-        {
           "id": "AYrNsi-mEdM",
           "title": "7AM Mass. St. Teresa of Avila, Virgin & Doctor of the Church. III. Thursday, October 15, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
@@ -80,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/qRS187vRDkQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-15T11:30:00Z"
+        },
+        {
+          "id": "NsgpYa2c_bg",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NsgpYa2c_bg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T17:00:00Z"
+        },
+        {
+          "id": "kOFABZMQTWE",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/kOFABZMQTWE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T17:00:00Z"
         }
       ]
     }
