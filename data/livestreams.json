@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-14T10:24:51.705Z",
+  "lastUpdated": "2026-10-14T15:19:33.731Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gegWgvkbspE",
-          "title": "Wed. Oct. 14, 2026   -   St. Callistus,    Pope and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gegWgvkbspE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T11:15:00Z"
-        },
         {
           "id": "9a6q1ukaiBQ",
           "title": "Hl. Messe - hl. Theresia von Avila - 15. Oktober 2026",
@@ -21,39 +12,39 @@
           "thumbnail": "https://i.ytimg.com/vi/9a6q1ukaiBQ/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-15T05:15:00Z"
+        },
+        {
+          "id": "Z38VQyinqqI",
+          "title": "Dominican Rite Low Mass - St. Teresa of Avila - 10/15/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Z38VQyinqqI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T11:15:00Z"
+        },
+        {
+          "id": "yevKc0RaJUg",
+          "title": "Thur. Oct. 15, 2026   -   St. Teresa of Avila,      Virgin",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/yevKc0RaJUg/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T11:15:00Z"
+        },
+        {
+          "id": "uRWQn7b2_qk",
+          "title": "Sakramentsandacht und hl. Messe - hl. Theresia von Avila - 15. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/uRWQn7b2_qk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T15:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NCOezQ5XhXQ",
-          "title": "Wednesday 6 AM Traditional Catholic Mass 10/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NCOezQ5XhXQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oHtI4KyyJsg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Callistus I, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/oHtI4KyyJsg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T11:00:00Z"
-        },
-        {
-          "id": "r2qPCmwK0js",
-          "title": "7am Mass. St. Callistus I, Pope and Martyr. III. Wednesday, October 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/r2qPCmwK0js/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-14T11:00:00Z"
-        },
         {
           "id": "BEmYUMk4UoM",
           "title": "Wednesday",
@@ -71,6 +62,24 @@
           "thumbnail": "https://i.ytimg.com/vi/x_xCZ5NsBWE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-14T17:00:00Z"
+        },
+        {
+          "id": "AYrNsi-mEdM",
+          "title": "7AM Mass. St. Teresa of Avila, Virgin & Doctor of the Church. III. Thursday, October 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/AYrNsi-mEdM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T11:00:00Z"
+        },
+        {
+          "id": "qRS187vRDkQ",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Teresa of Jesus, Virgin and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/qRS187vRDkQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-15T11:30:00Z"
         }
       ]
     }
