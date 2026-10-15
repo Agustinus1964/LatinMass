@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-15T16:14:04.341Z",
+  "lastUpdated": "2026-10-15T19:57:30.916Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "q-jBFjEb4ZQ",
-          "title": "FSSPX Antwerpen - 15/10 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/q-jBFjEb4ZQ/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "uRWQn7b2_qk",
-          "title": "Sakramentsandacht und hl. Messe - hl. Theresia von Avila - 15. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/uRWQn7b2_qk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Ggcs9QZVDlk",
           "title": "Sung Rosary - 10/15/26",
@@ -39,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/xAoyHmxi1aM/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-16T00:45:00Z"
+        },
+        {
+          "id": "L18QOCUcGk8",
+          "title": "Saint Hedwig, widow",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/L18QOCUcGk8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-16T07:30:00Z"
+        },
+        {
+          "id": "kykGLvmG5ck",
+          "title": "Saint Hedwig, widow",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/kykGLvmG5ck/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-16T07:30:00Z"
         },
         {
           "id": "HNo_lLQx2g4",
@@ -73,22 +73,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "NsgpYa2c_bg",
-          "title": "Thursday",
+          "id": "lllKiZLQatI",
+          "title": "Friday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/NsgpYa2c_bg/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/lllKiZLQatI/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-15T17:00:00Z"
+          "scheduledTime": "2026-10-16T17:00:00Z"
         },
         {
-          "id": "kOFABZMQTWE",
+          "id": "0xOtPJiZBCw",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/kOFABZMQTWE/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/0xOtPJiZBCw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-15T17:00:00Z"
+          "scheduledTime": "2026-10-16T17:00:00Z"
         }
       ]
     }
