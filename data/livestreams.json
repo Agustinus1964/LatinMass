@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-10-15T06:09:02.550Z",
+  "lastUpdated": "2026-10-15T11:52:30.431Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "P3inmUD_avM",
-          "title": "Saint Teresa, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/P3inmUD_avM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-15T06:15:00Z"
-        },
         {
           "id": "Z38VQyinqqI",
           "title": "Dominican Rite Low Mass - St. Teresa of Avila - 10/15/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/Z38VQyinqqI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-15T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "yevKc0RaJUg",
@@ -28,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/yevKc0RaJUg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-15T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ggcs9QZVDlk",
@@ -57,6 +48,24 @@
           "thumbnail": "https://i.ytimg.com/vi/EcILPyE3w9Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-16T05:15:00Z"
+        },
+        {
+          "id": "HNo_lLQx2g4",
+          "title": "Dominican Rite Low Mass - St. Hedwig - 10/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HNo_lLQx2g4/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-16T11:15:00Z"
+        },
+        {
+          "id": "d6Aojb1LgCc",
+          "title": "Fri. Oct. 16, 2026   -   St. Hedwig,     Widow",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/d6Aojb1LgCc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-16T11:15:00Z"
         }
       ]
     },
@@ -69,8 +78,8 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/qRS187vRDkQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-15T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NsgpYa2c_bg",
