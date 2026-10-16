@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-16T05:43:35.742Z",
+  "lastUpdated": "2026-10-16T10:36:44.705Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "EcILPyE3w9Y",
-          "title": "Hl. Messe - hl. Gallus - 16. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/EcILPyE3w9Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "L18QOCUcGk8",
-          "title": "Saint Hedwig, widow",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/L18QOCUcGk8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-16T06:15:00Z"
-        },
         {
           "id": "HNo_lLQx2g4",
           "title": "Dominican Rite Low Mass - St. Hedwig - 10/16/26",
@@ -91,15 +73,6 @@
           "scheduledTime": "2026-10-16T17:00:00Z"
         },
         {
-          "id": "_Z1KLTn6T-U",
-          "title": "6pm Mass & Holy Hour. St. Hedwig, Widow. III. Friday, October 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_Z1KLTn6T-U/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-16T22:00:00Z"
-        },
-        {
           "id": "BKKtFqhA5Do",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hedwig, Widow)",
           "channel": "Usus Antiquior",
@@ -107,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/BKKtFqhA5Do/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-16T22:30:00Z"
+        },
+        {
+          "id": "6d-xs4kurdM",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/6d-xs4kurdM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T07:30:00Z"
+        },
+        {
+          "id": "Rk4sph66ezY",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Rk4sph66ezY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T09:00:00Z"
         }
       ]
     }
