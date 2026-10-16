@@ -1,59 +1,31 @@
 {
-  "lastUpdated": "2026-10-16T18:53:34.928Z",
+  "lastUpdated": "2026-10-16T21:53:34.930Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "dfUzVGfP_a0",
-          "title": "Sung Rosary - 10/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dfUzVGfP_a0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-16T22:55:00Z"
-        },
-        {
-          "id": "BSXIduo5sxo",
-          "title": "Compline - 10/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/BSXIduo5sxo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T00:45:00Z"
-        },
-        {
-          "id": "oFSkWrO8nwY",
-          "title": "Dominican Rite Low Mass - St. Margaret Mary Alacoque - 10/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/oFSkWrO8nwY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T11:15:00Z"
-        },
-        {
-          "id": "NW1rxUIxfVc",
-          "title": "Sat, Oct. 17, 2026   -   St, Margaret Mary Alacoque,     Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/NW1rxUIxfVc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T12:00:00Z"
-        },
-        {
-          "id": "lFBeMNHlUPw",
-          "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/lFBeMNHlUPw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T15:40:00Z"
-        }
-      ]
+      "videos": []
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_Z1KLTn6T-U",
+          "title": "6pm Mass & Holy Hour. St. Hedwig, Widow. III. Friday, October 16, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/_Z1KLTn6T-U/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8VM5TnJ4LlA",
+          "title": "Ofício do Rosário e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/8VM5TnJ4LlA/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "BKKtFqhA5Do",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hedwig, Widow)",
