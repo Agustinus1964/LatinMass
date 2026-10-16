@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-16T15:09:07.500Z",
+  "lastUpdated": "2026-10-16T18:53:34.928Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hlSRLGzYHtk",
-          "title": "FSSPX Antwerpen - 16/10 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/hlSRLGzYHtk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "dfUzVGfP_a0",
           "title": "Sung Rosary - 10/16/26",
@@ -32,15 +23,6 @@
           "scheduledTime": "2026-10-17T00:45:00Z"
         },
         {
-          "id": "MKHcSJAD-t4",
-          "title": "Hl. Messe - hl. Margareta Maria - 17. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/MKHcSJAD-t4/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T05:15:00Z"
-        },
-        {
           "id": "oFSkWrO8nwY",
           "title": "Dominican Rite Low Mass - St. Margaret Mary Alacoque - 10/17/26",
           "channel": "SSPX Seminary - USA",
@@ -57,30 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/NW1rxUIxfVc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-17T12:00:00Z"
+        },
+        {
+          "id": "lFBeMNHlUPw",
+          "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lFBeMNHlUPw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T15:40:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lllKiZLQatI",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lllKiZLQatI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-16T17:00:00Z"
-        },
-        {
-          "id": "0xOtPJiZBCw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/0xOtPJiZBCw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-16T17:00:00Z"
-        },
         {
           "id": "BKKtFqhA5Do",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Hedwig, Widow)",
