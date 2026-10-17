@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-10-17T12:52:45.824Z",
+  "lastUpdated": "2026-10-17T16:06:49.049Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "lFBeMNHlUPw",
+          "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lFBeMNHlUPw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "l7ul-oS8mVk",
           "title": "Sung Rosary - 10/17/26",
@@ -23,13 +32,22 @@
           "scheduledTime": "2026-10-18T00:45:00Z"
         },
         {
-          "id": "k6AawdIGvYw",
-          "title": "Amt - 21. Sonntag nach Pfingsten - 18. Oktober 2026",
+          "id": "jMt1aFf2qPc",
+          "title": "21st Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/jMt1aFf2qPc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T10:00:00Z"
+        },
+        {
+          "id": "WQHzJmSWlHU",
+          "title": "Vesper und Sakramentsandacht - 21. Sonntag nach Pfingsten - 18. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/k6AawdIGvYw/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/WQHzJmSWlHU/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-18T07:30:00Z"
+          "scheduledTime": "2026-10-18T15:00:00Z"
         }
       ]
     },
@@ -37,13 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "YoPN9eekcIY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Margaret Mary Alacoque, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/YoPN9eekcIY/mqdefault_live.jpg",
+          "id": "fprWAV1WZaA",
+          "title": "8am — 21st Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/fprWAV1WZaA/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-17T13:00:00Z"
+          "scheduledTime": "2026-10-18T07:00:00Z"
+        },
+        {
+          "id": "cqOq6dFkXK0",
+          "title": "9:30am — 29th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/cqOq6dFkXK0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T08:30:00Z"
         },
         {
           "id": "eWTQV8UAmcE",
@@ -53,6 +80,51 @@
           "thumbnail": "https://i.ytimg.com/vi/eWTQV8UAmcE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T09:00:00Z"
+        },
+        {
+          "id": "1UDgBBqEZoM",
+          "title": "11am — 29th Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1UDgBBqEZoM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T10:00:00Z"
+        },
+        {
+          "id": "l8F9UifKGMY",
+          "title": "Live Stream Holy Mass from Cleveland USA (The Twenty-First Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/l8F9UifKGMY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T12:00:00Z"
+        },
+        {
+          "id": "2VYO9DjSCAI",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/2VYO9DjSCAI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T14:45:00Z"
+        },
+        {
+          "id": "5HyseHuf2M0",
+          "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/5HyseHuf2M0/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T15:30:00Z"
+        },
+        {
+          "id": "WowC5e29eAY",
+          "title": "Vespers and Benediction — St Frideswide",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/WowC5e29eAY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T16:00:00Z"
         }
       ]
     }
