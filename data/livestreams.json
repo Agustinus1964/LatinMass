@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T21:12:26.225Z",
+  "lastUpdated": "2026-10-17T23:17:28.714Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,17 @@
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/l7ul-oS8mVk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T22:55:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "J_yoelh2uzg",
+          "title": "TWENTY FIRST SUNDAY AFTER PENTECOST - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/J_yoelh2uzg/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7c5hTEo3b2Q",
@@ -63,15 +72,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Bd9TdsoEh6k",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Bd9TdsoEh6k/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "fprWAV1WZaA",
           "title": "8am — 21st Sunday after Pentecost",
