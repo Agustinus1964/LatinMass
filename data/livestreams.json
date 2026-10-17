@@ -1,39 +1,85 @@
 {
-  "lastUpdated": "2026-10-16T21:53:34.930Z",
+  "lastUpdated": "2026-10-17T00:07:41.467Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "BSXIduo5sxo",
+          "title": "Compline - 10/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BSXIduo5sxo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T00:45:00Z"
+        },
+        {
+          "id": "0napHj7Aqow",
+          "title": "Saint Margaret Mary Alacoque, virgin",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/0napHj7Aqow/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T07:30:00Z"
+        },
+        {
+          "id": "oFSkWrO8nwY",
+          "title": "Dominican Rite Low Mass - St. Margaret Mary Alacoque - 10/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/oFSkWrO8nwY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T11:15:00Z"
+        },
+        {
+          "id": "NW1rxUIxfVc",
+          "title": "Sat, Oct. 17, 2026   -   St, Margaret Mary Alacoque,     Virgin",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/NW1rxUIxfVc/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T12:00:00Z"
+        },
+        {
+          "id": "lFBeMNHlUPw",
+          "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/lFBeMNHlUPw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T15:40:00Z"
+        },
+        {
+          "id": "l7ul-oS8mVk",
+          "title": "Sung Rosary - 10/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/l7ul-oS8mVk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T22:55:00Z"
+        }
+      ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_Z1KLTn6T-U",
-          "title": "6pm Mass & Holy Hour. St. Hedwig, Widow. III. Friday, October 16, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/_Z1KLTn6T-U/mqdefault_live.jpg",
+          "id": "Rifr1kWcTEs",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Rifr1kWcTEs/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "8VM5TnJ4LlA",
-          "title": "Ofício do Rosário e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/8VM5TnJ4LlA/mqdefault_live.jpg",
+          "id": "fyTFvmk7hAA",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 10/16/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/fyTFvmk7hAA/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "BKKtFqhA5Do",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Hedwig, Widow)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/BKKtFqhA5Do/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-16T22:30:00Z"
         },
         {
           "id": "6d-xs4kurdM",
@@ -52,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Rk4sph66ezY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-17T09:00:00Z"
+        },
+        {
+          "id": "YoPN9eekcIY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Margaret Mary Alacoque, Virgin)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/YoPN9eekcIY/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T13:00:00Z"
         }
       ]
     }
