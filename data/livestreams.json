@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-17T04:47:39.030Z",
+  "lastUpdated": "2026-10-17T08:59:14.944Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "0napHj7Aqow",
-          "title": "Saint Margaret Mary Alacoque, virgin",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/0napHj7Aqow/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T07:30:00Z"
-        },
         {
           "id": "oFSkWrO8nwY",
           "title": "Dominican Rite Low Mass - St. Margaret Mary Alacoque - 10/17/26",
@@ -21,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/oFSkWrO8nwY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-17T11:15:00Z"
-        },
-        {
-          "id": "lFBeMNHlUPw",
-          "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/lFBeMNHlUPw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T15:40:00Z"
         },
         {
           "id": "l7ul-oS8mVk",
@@ -48,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7c5hTEo3b2Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T00:45:00Z"
+        },
+        {
+          "id": "k6AawdIGvYw",
+          "title": "Amt - 21. Sonntag nach Pfingsten - 18. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/k6AawdIGvYw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T07:30:00Z"
         }
       ]
     },
@@ -55,20 +46,38 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6d-xs4kurdM",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/6d-xs4kurdM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T07:30:00Z"
-        },
-        {
           "id": "Rk4sph66ezY",
           "title": "Saturday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/Rk4sph66ezY/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Bout6QjV97E",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Bout6QjV97E/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "uWy6CrjVMcM",
+          "title": "Messe anniversaire de requiem pour M. l'Abbé Aulagnié",
+          "channel": "Instituto del Buen Pastor - Bogotá",
+          "channelId": "UCiWilCCTiEgEYmYUzVyNqYA",
+          "thumbnail": "https://i.ytimg.com/vi/uWy6CrjVMcM/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-17T09:00:00Z"
+        },
+        {
+          "id": "2zdg8O-DLf8",
+          "title": "Requiem solennel pour M. l'Abbé Paul Aulagnier - REQUIEM ÆTERNAM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/2zdg8O-DLf8/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-17T09:00:00Z"
         },
