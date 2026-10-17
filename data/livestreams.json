@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-17T18:41:45.671Z",
+  "lastUpdated": "2026-10-17T21:12:26.225Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7c5hTEo3b2Q/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T00:45:00Z"
+        },
+        {
+          "id": "-tcDZAyPH8I",
+          "title": "XXI Domenica dopo Pentecoste - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/-tcDZAyPH8I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T08:25:00Z"
         },
         {
           "id": "jMt1aFf2qPc",
@@ -54,6 +63,15 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Bd9TdsoEh6k",
+          "title": "Ofício do Rosário",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/Bd9TdsoEh6k/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fprWAV1WZaA",
           "title": "8am — 21st Sunday after Pentecost",
