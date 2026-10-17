@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-17T16:06:49.049Z",
+  "lastUpdated": "2026-10-17T18:41:45.671Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lFBeMNHlUPw",
-          "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/lFBeMNHlUPw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "l7ul-oS8mVk",
           "title": "Sung Rosary - 10/17/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WQHzJmSWlHU/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T15:00:00Z"
+        },
+        {
+          "id": "roPiAOgqOz8",
+          "title": "XXI Sunday after Pentecost | October 18th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/roPiAOgqOz8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T17:00:00Z"
         }
       ]
     },
