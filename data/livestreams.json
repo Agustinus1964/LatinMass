@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-17T00:07:41.467Z",
+  "lastUpdated": "2026-10-17T04:47:39.030Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "BSXIduo5sxo",
-          "title": "Compline - 10/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/BSXIduo5sxo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T00:45:00Z"
-        },
         {
           "id": "0napHj7Aqow",
           "title": "Saint Margaret Mary Alacoque, virgin",
@@ -32,15 +23,6 @@
           "scheduledTime": "2026-10-17T11:15:00Z"
         },
         {
-          "id": "NW1rxUIxfVc",
-          "title": "Sat, Oct. 17, 2026   -   St, Margaret Mary Alacoque,     Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/NW1rxUIxfVc/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-17T12:00:00Z"
-        },
-        {
           "id": "lFBeMNHlUPw",
           "title": "Sakramentsandacht - hl. Margareta Maria - 17. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,30 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/l7ul-oS8mVk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-17T22:55:00Z"
+        },
+        {
+          "id": "7c5hTEo3b2Q",
+          "title": "Compline - 10/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7c5hTEo3b2Q/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T00:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Rifr1kWcTEs",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Rifr1kWcTEs/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fyTFvmk7hAA",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 10/16/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/fyTFvmk7hAA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "6d-xs4kurdM",
           "title": "Sainte messe en semaine",
