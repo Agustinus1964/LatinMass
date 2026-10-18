@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-10-18T15:19:29.406Z",
+  "lastUpdated": "2026-10-18T18:14:19.488Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "aCDFB7n6I1I",
-          "title": "Solemn High Mass - 21st Sunday after Pentecost - 10/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aCDFB7n6I1I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-jjzQy4CjzM",
-          "title": "Twenty-First Sunday after Pentecost, October 18, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/-jjzQy4CjzM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "klrYFXSQ4uE",
-          "title": "Sun. Oct. 18,, 2026   -   21st Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/klrYFXSQ4uE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WQHzJmSWlHU",
-          "title": "Vesper und Sakramentsandacht - 21. Sonntag nach Pfingsten - 18. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/WQHzJmSWlHU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "roPiAOgqOz8",
           "title": "XXI Sunday after Pentecost | October 18th",
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/roPiAOgqOz8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BHFqkoTAyRU",
@@ -75,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/7cvy6nKyuCE/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-19T15:00:00Z"
+        },
+        {
+          "id": "sfpUbxihzag",
+          "title": "FSSPX Antwerpen - 19/10  H. PETRUS van ALCANTARA",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/sfpUbxihzag/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-19T16:30:00Z"
         }
       ]
     },
@@ -82,94 +55,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "G35JEB0gNCw",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Twenty-First Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/G35JEB0gNCw/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3EGgdO9oaUU",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/3EGgdO9oaUU/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "xJN720Pcaq8",
-          "title": "10:30am Sung Mass. Twenty first Sunday after Pentecost. II. October 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/xJN720Pcaq8/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OzcPpu_iaM8",
-          "title": "Sunday 11:15 AM Sung Mass 2026-10-18",
+          "id": "m-0nZe_2aB0",
+          "title": "Sunday 1:30 PM Catholic Mass 10/18/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/OzcPpu_iaM8/mqdefault_live.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/m-0nZe_2aB0/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "rsas4fTb0O8",
-          "title": "21st Sunday after Pentecost / 21e dimanche après la Pentecôte",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/rsas4fTb0O8/mqdefault_live.jpg",
+          "id": "Rez4R7mo57U",
+          "title": "Santa Misa Dominical. 18 de octubre 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Rez4R7mo57U/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "2VYO9DjSCAI",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/2VYO9DjSCAI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5HyseHuf2M0",
-          "title": "TWENTY-FIRST SUNDAY AFTER PENTECOST, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/5HyseHuf2M0/mqdefault_live.jpg",
+          "id": "QhoKM1NwD_Y",
+          "title": "\"Mysterium Ecclesiae:\" Los Padres de la Iglesia y la unidad de la Iglesia. P. Daniel Heenan",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/QhoKM1NwD_Y/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-18T15:30:00Z"
-        },
-        {
-          "id": "msRg3aKIxGM",
-          "title": "Secondes vêpres de la fête de saint Luc - ESTOTE FORTES IN BELLO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/msRg3aKIxGM/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T15:45:00Z"
-        },
-        {
-          "id": "WowC5e29eAY",
-          "title": "Vespers and Benediction — St Frideswide",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/WowC5e29eAY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T16:00:00Z"
-        },
-        {
-          "id": "RLr9eElpVQE",
-          "title": "As You Forgive,  So Shall You Be Forgiven",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/RLr9eElpVQE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T18:00:00Z"
+          "scheduledTime": "2026-10-19T02:00:00Z"
         },
         {
           "id": "fAwV_fajLSk",
@@ -179,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/fAwV_fajLSk/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-19T11:30:00Z"
+        },
+        {
+          "id": "ES8vqSIkWEk",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ES8vqSIkWEk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-19T17:00:00Z"
+        },
+        {
+          "id": "9gm6rkabiYQ",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/9gm6rkabiYQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-19T17:00:00Z"
         }
       ]
     }
