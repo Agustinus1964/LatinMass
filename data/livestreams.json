@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-18T20:56:37.631Z",
+  "lastUpdated": "2026-10-18T22:48:28.046Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WBle66sKTLg",
-          "title": "Simple II Vespers - 21st Sunday after Pentecost - 10/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WBle66sKTLg/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "zlYOGZpblUc",
           "title": "Hl. Messe - hl. Petrus von Alcantara - 19. Oktober 2026",
@@ -87,15 +78,6 @@
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
           "thumbnail": "https://i.ytimg.com/vi/0FBlJXNHR6U/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7N4FCV0Vmbk",
-          "title": "Missa rezada - XXI Domingo depois de Pentecostes",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/7N4FCV0Vmbk/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
