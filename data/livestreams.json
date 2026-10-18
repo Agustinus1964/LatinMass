@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T01:20:48.950Z",
+  "lastUpdated": "2026-10-18T06:18:27.398Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -21,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/jMt1aFf2qPc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T10:00:00Z"
+        },
+        {
+          "id": "9fw6VCk-IVE",
+          "title": "Low Mass - 21st Sunday after Pentecost - 10/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/9fw6VCk-IVE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T11:30:00Z"
+        },
+        {
+          "id": "aCDFB7n6I1I",
+          "title": "Solemn High Mass - 21st Sunday after Pentecost - 10/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/aCDFB7n6I1I/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T14:00:00Z"
         },
         {
           "id": "WQHzJmSWlHU",
@@ -125,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WowC5e29eAY/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T16:00:00Z"
+        },
+        {
+          "id": "RLr9eElpVQE",
+          "title": "As You Forgive,  So Shall You Be Forgiven",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/RLr9eElpVQE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-18T18:00:00Z"
         }
       ]
     }
