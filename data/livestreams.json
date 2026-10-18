@@ -1,35 +1,44 @@
 {
-  "lastUpdated": "2026-10-18T11:31:55.671Z",
+  "lastUpdated": "2026-10-18T15:19:29.406Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9fw6VCk-IVE",
-          "title": "Low Mass - 21st Sunday after Pentecost - 10/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/9fw6VCk-IVE/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "jMt1aFf2qPc",
-          "title": "21st Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/jMt1aFf2qPc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "aCDFB7n6I1I",
           "title": "Solemn High Mass - 21st Sunday after Pentecost - 10/18/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/aCDFB7n6I1I/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T14:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-jjzQy4CjzM",
+          "title": "Twenty-First Sunday after Pentecost, October 18, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/-jjzQy4CjzM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "klrYFXSQ4uE",
+          "title": "Sun. Oct. 18,, 2026   -   21st Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/klrYFXSQ4uE/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "WQHzJmSWlHU",
+          "title": "Vesper und Sakramentsandacht - 21. Sonntag nach Pfingsten - 18. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WQHzJmSWlHU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "roPiAOgqOz8",
@@ -41,6 +50,15 @@
           "scheduledTime": "2026-10-18T17:00:00Z"
         },
         {
+          "id": "BHFqkoTAyRU",
+          "title": "Low Mass - St. Peter of Alcantara - 10/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/BHFqkoTAyRU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-19T11:15:00Z"
+        },
+        {
           "id": "gYaI5-a0QuA",
           "title": "Mon. Oct, 19, 2026   -   St, Peter Alcantara, Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +66,15 @@
           "thumbnail": "https://i.ytimg.com/vi/gYaI5-a0QuA/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-19T11:15:00Z"
+        },
+        {
+          "id": "7cvy6nKyuCE",
+          "title": "FSSPX Antwerpen - 19/10 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/7cvy6nKyuCE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-19T15:00:00Z"
         }
       ]
     },
@@ -55,49 +82,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Q9tj0_ePI7g",
-          "title": "7am Mass, Rosary, 8:30am Mass. Twenty first Sunday after Pentecost. II. October 18, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/Q9tj0_ePI7g/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fkM_vNPkCWI",
-          "title": "Sunday 7 AM Catholic Mass for 10/18/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/fkM_vNPkCWI/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1UDgBBqEZoM",
-          "title": "11am — 29th Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1UDgBBqEZoM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ALXOy4WLv6E",
-          "title": "Missa rezada - XXI Domingo depois de Pentecostes - 2026",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ALXOy4WLv6E/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "l8F9UifKGMY",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Twenty-First Sunday after Pentecost)",
+          "id": "G35JEB0gNCw",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Twenty-First Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/l8F9UifKGMY/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T12:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/G35JEB0gNCw/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "3EGgdO9oaUU",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/3EGgdO9oaUU/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "xJN720Pcaq8",
+          "title": "10:30am Sung Mass. Twenty first Sunday after Pentecost. II. October 18, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/xJN720Pcaq8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "OzcPpu_iaM8",
+          "title": "Sunday 11:15 AM Sung Mass 2026-10-18",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/OzcPpu_iaM8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rsas4fTb0O8",
+          "title": "21st Sunday after Pentecost / 21e dimanche après la Pentecôte",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/rsas4fTb0O8/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "2VYO9DjSCAI",
@@ -105,8 +132,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/2VYO9DjSCAI/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-18T14:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5HyseHuf2M0",
@@ -143,6 +170,15 @@
           "thumbnail": "https://i.ytimg.com/vi/RLr9eElpVQE/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-18T18:00:00Z"
+        },
+        {
+          "id": "fAwV_fajLSk",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter of Alcantara, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/fAwV_fajLSk/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-19T11:30:00Z"
         }
       ]
     }
