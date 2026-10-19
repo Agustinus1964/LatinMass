@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-10-19T05:39:59.911Z",
+  "lastUpdated": "2026-10-19T12:00:15.061Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zlYOGZpblUc",
-          "title": "Hl. Messe - hl. Petrus von Alcantara - 19. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/zlYOGZpblUc/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "j8Nos6rmgsA",
-          "title": "Saint Peter of Alcantara, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/j8Nos6rmgsA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T06:30:00Z"
-        },
-        {
-          "id": "BHFqkoTAyRU",
-          "title": "Low Mass - St. Peter of Alcantara - 10/19/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/BHFqkoTAyRU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T11:15:00Z"
-        },
         {
           "id": "gYaI5-a0QuA",
           "title": "Mon. Oct, 19, 2026   -   St, Peter Alcantara, Confessor",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/gYaI5-a0QuA/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "7cvy6nKyuCE",
@@ -96,8 +69,17 @@
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/fAwV_fajLSk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T11:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "fhGh81-F7kM",
+          "title": "Monday 8 AM Traditional Latin Mass10/19/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/fhGh81-F7kM/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3VDKqnqwtm0",
