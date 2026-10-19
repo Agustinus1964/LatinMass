@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-10-19T12:00:15.061Z",
+  "lastUpdated": "2026-10-19T18:46:31.688Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "gYaI5-a0QuA",
-          "title": "Mon. Oct, 19, 2026   -   St, Peter Alcantara, Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/gYaI5-a0QuA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7cvy6nKyuCE",
-          "title": "FSSPX Antwerpen - 19/10 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/7cvy6nKyuCE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T15:00:00Z"
-        },
-        {
-          "id": "xySSAl1wjzg",
-          "title": "Rosenkranz und hl. Messe - hl. Petrus von Alcantara - 19. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xySSAl1wjzg/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T16:00:00Z"
-        },
-        {
-          "id": "sfpUbxihzag",
-          "title": "FSSPX Antwerpen - 19/10  H. PETRUS van ALCANTARA",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/sfpUbxihzag/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T16:30:00Z"
-        },
         {
           "id": "kzjcRY0x8ik",
           "title": "Sung Rosary - 10/19/26",
@@ -50,6 +14,15 @@
           "scheduledTime": "2026-10-19T22:55:00Z"
         },
         {
+          "id": "ozeLczO1wE8",
+          "title": "Compline - 10/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ozeLczO1wE8/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T00:45:00Z"
+        },
+        {
           "id": "p0g7xPHMgOw",
           "title": "Hl. Messe - hl. Johannes von Kenty - 20. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -57,6 +30,42 @@
           "thumbnail": "https://i.ytimg.com/vi/p0g7xPHMgOw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-20T05:15:00Z"
+        },
+        {
+          "id": "cOgZqQSPLLo",
+          "title": "Low Mass - St. John Cantius, Confessor - 10/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/cOgZqQSPLLo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T11:15:00Z"
+        },
+        {
+          "id": "vSnVa8jwa_k",
+          "title": "FSSPX Antwerpen - 20/10 Aanbidding met Rozenhoedje",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/vSnVa8jwa_k/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T15:00:00Z"
+        },
+        {
+          "id": "eYVtw-xcywQ",
+          "title": "Sakramentsandacht und hl. Messe -  hl. Johannes von Kenty - 20. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/eYVtw-xcywQ/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T15:40:00Z"
+        },
+        {
+          "id": "led-J0cSNVU",
+          "title": "FSSPX Antwerpen - 20/10  H. JOHANNES van KENTY",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/led-J0cSNVU/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T16:30:00Z"
         }
       ]
     },
@@ -64,49 +73,40 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "fAwV_fajLSk",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Peter of Alcantara, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/fAwV_fajLSk/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "fhGh81-F7kM",
-          "title": "Monday 8 AM Traditional Latin Mass10/19/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/fhGh81-F7kM/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "3VDKqnqwtm0",
-          "title": "Monday, 19 October 2026 - Saint Peter of Alcantara",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/3VDKqnqwtm0/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T17:00:00Z"
-        },
-        {
-          "id": "ES8vqSIkWEk",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ES8vqSIkWEk/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-19T17:00:00Z"
-        },
-        {
           "id": "9gm6rkabiYQ",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/9gm6rkabiYQ/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "tELVdkRxyJw",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Cantius, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/tELVdkRxyJw/mqdefault_live.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-19T17:00:00Z"
+          "scheduledTime": "2026-10-20T11:30:00Z"
+        },
+        {
+          "id": "ejFJJ7OJ8hw",
+          "title": "Tuesday, 20 October 2026 - Saint John Cantius",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/ejFJJ7OJ8hw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T17:00:00Z"
+        },
+        {
+          "id": "jsZM6sa2y0Y",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/jsZM6sa2y0Y/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-20T17:00:00Z"
         }
       ]
     }
