@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-10-20T12:50:11.863Z",
+  "lastUpdated": "2026-10-20T17:44:37.681Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "vSnVa8jwa_k",
-          "title": "FSSPX Antwerpen - 20/10 Aanbidding met Rozenhoedje",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/vSnVa8jwa_k/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T15:00:00Z"
-        },
-        {
-          "id": "eYVtw-xcywQ",
-          "title": "Sakramentsandacht und hl. Messe -  hl. Johannes von Kenty - 20. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/eYVtw-xcywQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T15:40:00Z"
-        },
-        {
-          "id": "led-J0cSNVU",
-          "title": "FSSPX Antwerpen - 20/10  H. JOHANNES van KENTY",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/led-J0cSNVU/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T16:30:00Z"
-        },
         {
           "id": "-Yj7d7NB-Y8",
           "title": "Tue. Oct.20, 2026   -  St. John Cantius,     Confessor",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/63xsoAtAFxo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-21T11:15:00Z"
+        },
+        {
+          "id": "BQwdXQSkz0M",
+          "title": "Rosenkranz und hl. Messe - 21. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/BQwdXQSkz0M/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T16:00:00Z"
         }
       ]
     },
@@ -82,11 +64,11 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "mSS5cEd_ico",
-          "title": "Tuesday 8 AM Traditional Catholic Mass 10/20/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/mSS5cEd_ico/mqdefault_live.jpg",
+          "id": "L0Cd_gb3iY8",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/L0Cd_gb3iY8/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
@@ -96,8 +78,8 @@
           "channel": "Sacred Heart Church - Limerick - ICKSP",
           "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
           "thumbnail": "https://i.ytimg.com/vi/ejFJJ7OJ8hw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "jsZM6sa2y0Y",
@@ -105,8 +87,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/jsZM6sa2y0Y/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5qaI0YI5HNw",
@@ -116,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/5qaI0YI5HNw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-21T11:30:00Z"
+        },
+        {
+          "id": "JXyOmF1Ts6E",
+          "title": "Wednesday, 21 October 2026 - Votive Mass of Saint Joseph",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/JXyOmF1Ts6E/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T17:00:00Z"
+        },
+        {
+          "id": "xC14_6QmPhw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/xC14_6QmPhw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T17:00:00Z"
         }
       ]
     }
