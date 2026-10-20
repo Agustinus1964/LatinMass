@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-10-20T07:05:43.630Z",
+  "lastUpdated": "2026-10-20T12:50:11.863Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3oAx6NEgL0I",
-          "title": "Saint John Cantius, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/3oAx6NEgL0I/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cOgZqQSPLLo",
-          "title": "Low Mass - St. John Cantius, Confessor - 10/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/cOgZqQSPLLo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T11:15:00Z"
-        },
         {
           "id": "vSnVa8jwa_k",
           "title": "FSSPX Antwerpen - 20/10 Aanbidding met Rozenhoedje",
@@ -59,24 +41,6 @@
           "scheduledTime": "2026-10-20T22:00:00Z"
         },
         {
-          "id": "4g-byRTGsgo",
-          "title": "Sung Rosary - 10/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4g-byRTGsgo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T22:55:00Z"
-        },
-        {
-          "id": "65X-l2L3EoQ",
-          "title": "Compline - 10/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/65X-l2L3EoQ/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-21T00:45:00Z"
-        },
-        {
           "id": "0pYzX_39v54",
           "title": "Hl. Messe - 21. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -93,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/SKaJ5mxYPUo/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-21T05:30:00Z"
+        },
+        {
+          "id": "5uIqto2_New",
+          "title": "Low Mass - Feria- 10/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/5uIqto2_New/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T11:15:00Z"
+        },
+        {
+          "id": "63xsoAtAFxo",
+          "title": "Wed. Oct. 21, 2026   -   Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/63xsoAtAFxo/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T11:15:00Z"
         }
       ]
     },
@@ -100,13 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tELVdkRxyJw",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint John Cantius, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/tELVdkRxyJw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T11:30:00Z"
+          "id": "mSS5cEd_ico",
+          "title": "Tuesday 8 AM Traditional Catholic Mass 10/20/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/mSS5cEd_ico/mqdefault_live.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ejFJJ7OJ8hw",
@@ -125,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jsZM6sa2y0Y/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-20T17:00:00Z"
+        },
+        {
+          "id": "5qaI0YI5HNw",
+          "title": "Live Stream Holy Mass from Cleveland USA (St. Hilarion, Abbot; comm. Ss Ursula &c, Virgin Martyrs)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/5qaI0YI5HNw/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T11:30:00Z"
         }
       ]
     }
