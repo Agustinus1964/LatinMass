@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-21T09:30:53.861Z",
+  "lastUpdated": "2026-10-21T14:49:37.330Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "63xsoAtAFxo",
-          "title": "Wed. Oct. 21, 2026   -   Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/63xsoAtAFxo/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-21T11:15:00Z"
-        },
         {
           "id": "BQwdXQSkz0M",
           "title": "Rosenkranz und hl. Messe - 21. Oktober 2026",
@@ -23,24 +14,6 @@
           "scheduledTime": "2026-10-21T16:00:00Z"
         },
         {
-          "id": "eHj9UGM14OE",
-          "title": "Sung Rosary - 10/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/eHj9UGM14OE/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-21T22:55:00Z"
-        },
-        {
-          "id": "5auL6N5x-a8",
-          "title": "Compline - 10/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/5auL6N5x-a8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T00:45:00Z"
-        },
-        {
           "id": "XNKsvaAEOQc",
           "title": "Hl. Messe - 22. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -48,30 +21,30 @@
           "thumbnail": "https://i.ytimg.com/vi/XNKsvaAEOQc/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-22T05:15:00Z"
+        },
+        {
+          "id": "OjGJUPqgARs",
+          "title": "Thur. Oct. 22, 2026   -   Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/OjGJUPqgARs/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-22T11:15:00Z"
+        },
+        {
+          "id": "LI-H09fBfOI",
+          "title": "FSSPX Antwerpen - 22/10 Priester-Uur-Gebed",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/LI-H09fBfOI/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-22T13:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "58grxeAavAA",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/58grxeAavAA/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5qaI0YI5HNw",
-          "title": "Live Stream Holy Mass from Cleveland USA (St. Hilarion, Abbot; comm. Ss Ursula &c, Virgin Martyrs)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/5qaI0YI5HNw/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-21T11:30:00Z"
-        },
         {
           "id": "JXyOmF1Ts6E",
           "title": "Wednesday, 21 October 2026 - Votive Mass of Saint Joseph",
@@ -89,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/xC14_6QmPhw/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-21T17:00:00Z"
+        },
+        {
+          "id": "Qw4a8-ThGes",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Most Holy Sacrament of the Eucharist)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Qw4a8-ThGes/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-22T11:30:00Z"
         }
       ]
     }
