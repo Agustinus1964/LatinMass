@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-20T21:11:49.682Z",
+  "lastUpdated": "2026-10-21T00:00:04.459Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "-Yj7d7NB-Y8",
-          "title": "Tue. Oct.20, 2026   -  St. John Cantius,     Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/-Yj7d7NB-Y8/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-20T22:00:00Z"
-        },
         {
           "id": "0pYzX_39v54",
           "title": "Hl. Messe - 21. Oktober 2026",
@@ -41,15 +32,6 @@
           "scheduledTime": "2026-10-21T07:30:00Z"
         },
         {
-          "id": "5uIqto2_New",
-          "title": "Low Mass - Feria- 10/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/5uIqto2_New/mqdefault_live.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-21T11:15:00Z"
-        },
-        {
           "id": "63xsoAtAFxo",
           "title": "Wed. Oct. 21, 2026   -   Ferial Day",
           "channel": "Transfiguration Church SSPX",
@@ -66,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BQwdXQSkz0M/mqdefault_live.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-21T16:00:00Z"
+        },
+        {
+          "id": "eHj9UGM14OE",
+          "title": "Sung Rosary - 10/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/eHj9UGM14OE/mqdefault_live.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-21T22:55:00Z"
         }
       ]
     },
@@ -78,15 +69,6 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/jsZM6sa2y0Y/mqdefault_live.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "kWxSqBMp1bI",
-          "title": "Ofício do Rosário e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/kWxSqBMp1bI/mqdefault_live.jpg",
           "status": "live",
           "scheduledTime": null
         },
