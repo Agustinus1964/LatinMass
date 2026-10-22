@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-22T20:42:32.241Z",
+  "lastUpdated": "2026-10-22T23:51:35.187Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ZTGEpx8Osu4",
-          "title": "Mass of St Anthony Mary Claret - 23.10.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/ZTGEpx8Osu4/mqdefault.jpg?v=6",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "hPp8MBS_fqc",
           "title": "Fri. Oct. 23, 2026   -   St. Anthony Mary Claret,    Bishop and Confessor",
@@ -71,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Y6krm6euXac/mqdefault.jpg?v=6ad1069c",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "HbVegHCe6nY",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony Mary Claret, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/HbVegHCe6nY/mqdefault.jpg?v=6ad9fda9",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T22:30:00Z"
         }
       ]
     }
