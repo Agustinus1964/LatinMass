@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-10-22T12:13:14.303Z",
+  "lastUpdated": "2026-10-22T17:27:15.285Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OjGJUPqgARs",
-          "title": "Thur. Oct. 22, 2026   -   Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/OjGJUPqgARs/mqdefault.jpg?v=6ad2c227",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LI-H09fBfOI",
-          "title": "FSSPX Antwerpen - 22/10 Priester-Uur-Gebed",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/LI-H09fBfOI/mqdefault.jpg?v=6ad320f0",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T13:30:00Z"
-        },
-        {
-          "id": "ssEHQnKTTlU",
-          "title": "FSSPX Antwerpen - 22/10  DOOR DE WEEK",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/ssEHQnKTTlU/mqdefault.jpg?v=6ad3212f",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T16:30:00Z"
-        },
-        {
-          "id": "82LcnNYWGEs",
-          "title": "Hl. Messe - hl. Antonius Maria Claret - 23. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/82LcnNYWGEs/mqdefault.jpg?v=6ad516fd",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T05:15:00Z"
-        },
         {
           "id": "hPp8MBS_fqc",
           "title": "Fri. Oct. 23, 2026   -   St. Anthony Mary Claret,    Bishop and Confessor",
@@ -48,6 +12,42 @@
           "thumbnail": "https://i.ytimg.com/vi/hPp8MBS_fqc/mqdefault.jpg?v=6ad2c34e",
           "status": "upcoming",
           "scheduledTime": "2026-10-23T11:15:00Z"
+        },
+        {
+          "id": "CHIgc5-XtZ4",
+          "title": "FSSPX Antwerpen - 23/10 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/CHIgc5-XtZ4/mqdefault.jpg?v=6ad32160",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T15:00:00Z"
+        },
+        {
+          "id": "2Qaf2_JSeLI",
+          "title": "FSSPX Antwerpen - 23/10 H. Kruisweg",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/2Qaf2_JSeLI/mqdefault.jpg?v=6ad32193",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T15:45:00Z"
+        },
+        {
+          "id": "4M8LCjDmCbc",
+          "title": "Rosenkranz und hl. Messe - hl. Antonius Maria Claret - 23. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4M8LCjDmCbc/mqdefault.jpg?v=6ad5171a",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T16:00:00Z"
+        },
+        {
+          "id": "BUhQTscMvE4",
+          "title": "FSSPX Antwerpen - 23/10  H. ANTONIUS MARIA CLARET",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/BUhQTscMvE4/mqdefault.jpg?v=6ad321d0",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T16:30:00Z"
         }
       ]
     },
@@ -55,11 +55,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "w1CQvFM0wVI",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 10/22/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/w1CQvFM0wVI/mqdefault.jpg?v=3",
+          "id": "K5VwD4l4IDY",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/K5VwD4l4IDY/mqdefault.jpg?v=6",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rvf5-oYZcLo",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/rvf5-oYZcLo/mqdefault.jpg?v=6",
           "status": "live",
           "scheduledTime": null
         },
@@ -69,8 +78,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Y6krm6euXac/mqdefault.jpg?v=6ad1069c",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "HQEavNM3240",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/HQEavNM3240/mqdefault.jpg?v=6ad2581e",
           "status": "upcoming",
-          "scheduledTime": "2026-10-22T17:00:00Z"
+          "scheduledTime": "2026-10-23T17:00:00Z"
         }
       ]
     }
