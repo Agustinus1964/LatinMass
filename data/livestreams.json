@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-22T01:10:04.597Z",
+  "lastUpdated": "2026-10-22T06:20:58.236Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XNKsvaAEOQc",
-          "title": "Hl. Messe - 22. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/XNKsvaAEOQc/mqdefault.jpg?v=6ad5162a",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T05:15:00Z"
-        },
         {
           "id": "VF06om3myy8",
           "title": "Votive Mass for Vocations",
@@ -20,7 +11,7 @@
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
           "thumbnail": "https://i.ytimg.com/vi/VF06om3myy8/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-22T07:30:00Z"
+          "scheduledTime": "2026-10-22T06:30:00Z"
         },
         {
           "id": "OjGJUPqgARs",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/ssEHQnKTTlU/mqdefault.jpg?v=6ad3212f",
           "status": "upcoming",
           "scheduledTime": "2026-10-22T16:30:00Z"
+        },
+        {
+          "id": "82LcnNYWGEs",
+          "title": "Hl. Messe - hl. Antonius Maria Claret - 23. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/82LcnNYWGEs/mqdefault.jpg?v=6ad516fd",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T05:15:00Z"
         }
       ]
     },
