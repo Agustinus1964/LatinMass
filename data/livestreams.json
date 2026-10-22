@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-10-22T17:27:15.285Z",
+  "lastUpdated": "2026-10-22T20:42:32.241Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZTGEpx8Osu4",
+          "title": "Mass of St Anthony Mary Claret - 23.10.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/ZTGEpx8Osu4/mqdefault.jpg?v=6",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "hPp8MBS_fqc",
           "title": "Fri. Oct. 23, 2026   -   St. Anthony Mary Claret,    Bishop and Confessor",
@@ -55,24 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "K5VwD4l4IDY",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/K5VwD4l4IDY/mqdefault.jpg?v=6",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "rvf5-oYZcLo",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/rvf5-oYZcLo/mqdefault.jpg?v=6",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "Y6krm6euXac",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -80,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/Y6krm6euXac/mqdefault.jpg?v=6ad1069c",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "HQEavNM3240",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/HQEavNM3240/mqdefault.jpg?v=6ad2581e",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T17:00:00Z"
         }
       ]
     }
