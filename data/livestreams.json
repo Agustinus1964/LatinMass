@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-10-22T06:20:58.236Z",
+  "lastUpdated": "2026-10-22T12:13:14.303Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VF06om3myy8",
-          "title": "Votive Mass for Vocations",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/VF06om3myy8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T06:30:00Z"
-        },
         {
           "id": "OjGJUPqgARs",
           "title": "Thur. Oct. 22, 2026   -   Ferial Day",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/OjGJUPqgARs/mqdefault.jpg?v=6ad2c227",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "LI-H09fBfOI",
@@ -30,15 +21,6 @@
           "thumbnail": "https://i.ytimg.com/vi/LI-H09fBfOI/mqdefault.jpg?v=6ad320f0",
           "status": "upcoming",
           "scheduledTime": "2026-10-22T13:30:00Z"
-        },
-        {
-          "id": "iHUxlovU8Vg",
-          "title": "Sakramentsandacht und hl. Messe - 22. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/iHUxlovU8Vg/mqdefault.jpg?v=6ad5167f",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T15:00:00Z"
         },
         {
           "id": "ssEHQnKTTlU",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/82LcnNYWGEs/mqdefault.jpg?v=6ad516fd",
           "status": "upcoming",
           "scheduledTime": "2026-10-23T05:15:00Z"
+        },
+        {
+          "id": "hPp8MBS_fqc",
+          "title": "Fri. Oct. 23, 2026   -   St. Anthony Mary Claret,    Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/hPp8MBS_fqc/mqdefault.jpg?v=6ad2c34e",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-23T11:15:00Z"
         }
       ]
     },
@@ -64,13 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Qw4a8-ThGes",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Most Holy Sacrament of the Eucharist)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Qw4a8-ThGes/mqdefault.jpg?v=6ad8acac",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-22T11:30:00Z"
+          "id": "w1CQvFM0wVI",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 10/22/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/w1CQvFM0wVI/mqdefault.jpg?v=3",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Y6krm6euXac",
