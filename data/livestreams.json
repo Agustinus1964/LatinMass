@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T03:13:13.903Z",
+  "lastUpdated": "2026-10-23T08:44:24.328Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -32,15 +32,6 @@
           "scheduledTime": "2026-10-23T15:45:00Z"
         },
         {
-          "id": "4M8LCjDmCbc",
-          "title": "Rosenkranz und hl. Messe - hl. Antonius Maria Claret - 23. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/4M8LCjDmCbc/mqdefault.jpg?v=6ad5171a",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T16:00:00Z"
-        },
-        {
           "id": "BUhQTscMvE4",
           "title": "FSSPX Antwerpen - 23/10  H. ANTONIUS MARIA CLARET",
           "channel": "FSSPX Antwerpen",
@@ -48,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/BUhQTscMvE4/mqdefault.jpg?v=6ad321d0",
           "status": "upcoming",
           "scheduledTime": "2026-10-23T16:30:00Z"
+        },
+        {
+          "id": "hH1yU5jD2ec",
+          "title": "Hl. Messe - hl. Erzengel Raphael - 24. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/hH1yU5jD2ec/mqdefault.jpg?v=6ad51766",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-24T05:15:00Z"
+        },
+        {
+          "id": "UXlaopIw4wU",
+          "title": "FSSPX Antwerpen - 24/10  H. RAPHAËL",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/UXlaopIw4wU/mqdefault.jpg?v=6ad3220a",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-24T08:00:00Z"
         }
       ]
     },
@@ -62,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HbVegHCe6nY/mqdefault.jpg?v=6ad9fda9",
           "status": "upcoming",
           "scheduledTime": "2026-10-23T22:30:00Z"
+        },
+        {
+          "id": "_f6DmPV5MTo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/_f6DmPV5MTo/mqdefault.jpg?v=6ad32406",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-24T07:30:00Z"
         }
       ]
     }
