@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T18:35:10.322Z",
+  "lastUpdated": "2026-10-23T21:48:59.442Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,11 +19,20 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "_f6DmPV5MTo",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/_f6DmPV5MTo/mqdefault.jpg?v=6ad32406",
+          "id": "vIc2BK4HC7w",
+          "title": "6pm Mass & Holy Hour. St. Anthony Mary Claret, Bishop & Confessor. III. Friday, October 23, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/vIc2BK4HC7w/mqdefault.jpg?v=6ad025d2",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "iP4GLGK7eg8",
+          "title": "Ofício do Rosário e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/iP4GLGK7eg8/mqdefault.jpg?v=6adbc5b9",
           "status": "live",
           "scheduledTime": null
         },
@@ -44,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/cL4VaVuIBUU/mqdefault.jpg?v=6adb9d12",
           "status": "upcoming",
           "scheduledTime": "2026-10-24T07:30:00Z"
+        },
+        {
+          "id": "gKEqtk-98zY",
+          "title": "La dévotion mariale est-elle exagérée ? — Les difficultés de la foi catholique (2/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/gKEqtk-98zY/mqdefault.jpg?v=6adbd472",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-24T08:30:00Z"
         },
         {
           "id": "HR7pTzmaOcE",
