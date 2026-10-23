@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-10-23T08:44:24.328Z",
+  "lastUpdated": "2026-10-23T14:01:41.688Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "hPp8MBS_fqc",
-          "title": "Fri. Oct. 23, 2026   -   St. Anthony Mary Claret,    Bishop and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/hPp8MBS_fqc/mqdefault.jpg?v=6ad2c34e",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T11:15:00Z"
-        },
-        {
-          "id": "CHIgc5-XtZ4",
-          "title": "FSSPX Antwerpen - 23/10 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/CHIgc5-XtZ4/mqdefault.jpg?v=6ad32160",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T15:00:00Z"
-        },
-        {
-          "id": "2Qaf2_JSeLI",
-          "title": "FSSPX Antwerpen - 23/10 H. Kruisweg",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/2Qaf2_JSeLI/mqdefault.jpg?v=6ad32193",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T15:45:00Z"
-        },
-        {
-          "id": "BUhQTscMvE4",
-          "title": "FSSPX Antwerpen - 23/10  H. ANTONIUS MARIA CLARET",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/BUhQTscMvE4/mqdefault.jpg?v=6ad321d0",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T16:30:00Z"
-        },
         {
           "id": "hH1yU5jD2ec",
           "title": "Hl. Messe - hl. Erzengel Raphael - 24. Oktober 2026",
@@ -50,19 +14,28 @@
           "scheduledTime": "2026-10-24T05:15:00Z"
         },
         {
-          "id": "UXlaopIw4wU",
-          "title": "FSSPX Antwerpen - 24/10  H. RAPHAËL",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/UXlaopIw4wU/mqdefault.jpg?v=6ad3220a",
+          "id": "tck9h7zAEPU",
+          "title": "Sat. Oct. 24, 2026   -   St. Raphael the Archangel",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/tck9h7zAEPU/mqdefault.jpg?v=6ad2c429",
           "status": "upcoming",
-          "scheduledTime": "2026-10-24T08:00:00Z"
+          "scheduledTime": "2026-10-24T12:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "_PNkkl5iIYQ",
+          "title": "Santo Sacrificio de la Misa, San Antonio María Claret, Obispo y Confesor, 23 de octubre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/_PNkkl5iIYQ/mqdefault.jpg?v=1",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "HbVegHCe6nY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony Mary Claret, Confessor)",
@@ -80,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/_f6DmPV5MTo/mqdefault.jpg?v=6ad32406",
           "status": "upcoming",
           "scheduledTime": "2026-10-24T07:30:00Z"
+        },
+        {
+          "id": "hvT6E1gFzVA",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/hvT6E1gFzVA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-24T09:00:00Z"
         }
       ]
     }
