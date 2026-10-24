@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T09:16:11.513Z",
+  "lastUpdated": "2026-10-24T13:27:12.874Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -9,49 +9,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "JgtjPT_FHUA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/JgtjPT_FHUA/mqdefault.jpg?v=1",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "gKEqtk-98zY",
-          "title": "La dévotion mariale est-elle exagérée ? — Les difficultés de la foi catholique (2/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/gKEqtk-98zY/mqdefault.jpg?v=6adbd472",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "-xBH5hS8h5A",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/-xBH5hS8h5A/mqdefault.jpg?v=6adc72da",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HR7pTzmaOcE",
-          "title": "Saturday, 24 October 2026 - Saint Raphael",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/HR7pTzmaOcE/mqdefault.jpg?v=6adb8c64",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-24T09:30:00Z"
-        },
-        {
           "id": "rOdWFk4HorU",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Raphael, Archangel)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/rOdWFk4HorU/mqdefault.jpg?v=6adbe960",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-24T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "zd06SvSQUAE",
+          "title": "7am Mass, Rosary, 9am Mass. St. Raphael the Archangel. III. Saturday, October 24, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/zd06SvSQUAE/mqdefault.jpg?v=6ad026dd",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "iDYzMmtrlpM",
+          "title": "Saturday 9 AM Traditional Catholic Mass 10/24/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/iDYzMmtrlpM/mqdefault.jpg?v=6ad38300",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tFfxvP09OOA",
