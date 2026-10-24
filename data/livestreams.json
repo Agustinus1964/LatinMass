@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-10-24T21:43:16.789Z",
+  "lastUpdated": "2026-10-24T23:57:58.535Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "H3MIEd5uy2g",
+          "title": "FEAST OF CHRIST THE KING - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/H3MIEd5uy2g/mqdefault.jpg?v=d",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "e9jA8Z0j4ok",
           "title": "Festa di Cristo Re (XXII Domenica dopo Pentecoste) - Santa Messa cantata - FSSPX Italia",
@@ -39,21 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/7PXQgbFwVcM/mqdefault.jpg?v=6ad5182d",
           "status": "upcoming",
           "scheduledTime": "2026-10-25T16:00:00Z"
+        },
+        {
+          "id": "5vOpRfT097c",
+          "title": "Feast of Christ the King | October 25th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/5vOpRfT097c/mqdefault.jpg?v=6add32bc",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Fy9ev--I4VI",
-          "title": "Ofício do Rosário",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/Fy9ev--I4VI/mqdefault.jpg?v=6add1f04",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "9PhQrRA_LGw",
           "title": "8am — Christ the King",
@@ -134,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/T3DTplnX1pM/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-25T17:00:00Z"
+        },
+        {
+          "id": "lnMG6SPyYI8",
+          "title": "Secondes vêpres de la fête du Christ Roi - HABET IN VESTIMENTO",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/lnMG6SPyYI8/mqdefault.jpg?v=6add4332",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T17:45:00Z"
         }
       ]
     }
