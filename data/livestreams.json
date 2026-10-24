@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T04:52:31.595Z",
+  "lastUpdated": "2026-10-24T09:16:11.513Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -9,13 +9,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "cL4VaVuIBUU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/cL4VaVuIBUU/mqdefault.jpg?v=6adb9d12",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-24T07:30:00Z"
+          "id": "JgtjPT_FHUA",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/JgtjPT_FHUA/mqdefault.jpg?v=1",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "gKEqtk-98zY",
@@ -23,8 +23,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/gKEqtk-98zY/mqdefault.jpg?v=6adbd472",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-24T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "-xBH5hS8h5A",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/-xBH5hS8h5A/mqdefault.jpg?v=6adc72da",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "HR7pTzmaOcE",
