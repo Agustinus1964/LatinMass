@@ -1,50 +1,13 @@
 {
-  "lastUpdated": "2026-10-24T00:13:47.483Z",
+  "lastUpdated": "2026-10-24T04:52:31.595Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "tck9h7zAEPU",
-          "title": "Sat. Oct. 24, 2026   -   St. Raphael the Archangel",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/tck9h7zAEPU/mqdefault.jpg?v=6ad2c429",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-24T12:00:00Z"
-        }
-      ]
+      "videos": []
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "5ZwsJYurRB4",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/5ZwsJYurRB4/mqdefault.jpg?v=9",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5v3Xh6WSVZc",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 10/23/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/5v3Xh6WSVZc/mqdefault.jpg?v=10",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sVWBU1zBJ8g",
-          "title": "Santo Sacrificio de la Misa, Boda Joél y Wendy",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/sVWBU1zBJ8g/mqdefault.jpg?v=10",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "cL4VaVuIBUU",
           "title": "Sainte messe en semaine",
