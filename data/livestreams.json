@@ -1,48 +1,85 @@
 {
-  "lastUpdated": "2026-10-24T13:27:12.874Z",
+  "lastUpdated": "2026-10-24T16:49:02.905Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "9EJf6dR_B3Y",
+          "title": "Feast of Christ The King",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/9EJf6dR_B3Y/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T13:30:00Z"
+        },
+        {
+          "id": "uqlsnedIf_8",
+          "title": "Christ the King, October 25, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/uqlsnedIf_8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T14:45:00Z"
+        },
+        {
+          "id": "7PXQgbFwVcM",
+          "title": "Vesper und Sakramentsandacht - Christkönigsfest - 25. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7PXQgbFwVcM/mqdefault.jpg?v=6ad5182d",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T16:00:00Z"
+        }
+      ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rOdWFk4HorU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Raphael, Archangel)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/rOdWFk4HorU/mqdefault.jpg?v=6adbe960",
+          "id": "U-2P14zcBEM",
+          "title": "Santo Sacrificio de la Misa, 24 de octubre de 2026",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/U-2P14zcBEM/mqdefault.jpg?v=a",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "zd06SvSQUAE",
-          "title": "7am Mass, Rosary, 9am Mass. St. Raphael the Archangel. III. Saturday, October 24, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/zd06SvSQUAE/mqdefault.jpg?v=6ad026dd",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iDYzMmtrlpM",
-          "title": "Saturday 9 AM Traditional Catholic Mass 10/24/2026",
+          "id": "vMSqIf6-RVk",
+          "title": "Wedding 2:30 pm Saturday 10/24/2026",
           "channel": "St. Benedict Parish",
           "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/iDYzMmtrlpM/mqdefault.jpg?v=6ad38300",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "tFfxvP09OOA",
-          "title": "2:30 PM Saturday Livestream - Traditional Latin Wedding",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/tFfxvP09OOA/mqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/vMSqIf6-RVk/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-24T18:15:00Z"
+        },
+        {
+          "id": "3EhVPhsNXbg",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Christ the King. I. Sunday, October 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/3EhVPhsNXbg/mqdefault.jpg?v=6ad03459",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T11:00:00Z"
+        },
+        {
+          "id": "DMm6JwOaGQ0",
+          "title": "10:30am Sung Mass. Christ the King. I. Sunday, October 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/DMm6JwOaGQ0/mqdefault.jpg?v=6ad034c0",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T14:30:00Z"
+        },
+        {
+          "id": "kgT0YAz-6mg",
+          "title": "CHRIST THE KING, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/kgT0YAz-6mg/mqdefault.jpg?v=6ac696ab",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T15:30:00Z"
         }
       ]
     }
