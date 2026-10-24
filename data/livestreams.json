@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T21:48:59.442Z",
+  "lastUpdated": "2026-10-24T00:13:47.483Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -19,31 +19,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vIc2BK4HC7w",
-          "title": "6pm Mass & Holy Hour. St. Anthony Mary Claret, Bishop & Confessor. III. Friday, October 23, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/vIc2BK4HC7w/mqdefault.jpg?v=6ad025d2",
+          "id": "5ZwsJYurRB4",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/5ZwsJYurRB4/mqdefault.jpg?v=9",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "iP4GLGK7eg8",
-          "title": "Ofício do Rosário e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/iP4GLGK7eg8/mqdefault.jpg?v=6adbc5b9",
+          "id": "5v3Xh6WSVZc",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 10/23/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/5v3Xh6WSVZc/mqdefault.jpg?v=10",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "HbVegHCe6nY",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Anthony Mary Claret, Bishop and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/HbVegHCe6nY/mqdefault.jpg?v=6ad9fda9",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-23T22:30:00Z"
+          "id": "sVWBU1zBJ8g",
+          "title": "Santo Sacrificio de la Misa, Boda Joél y Wendy",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/sVWBU1zBJ8g/mqdefault.jpg?v=10",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "cL4VaVuIBUU",
@@ -71,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HR7pTzmaOcE/mqdefault.jpg?v=6adb8c64",
           "status": "upcoming",
           "scheduledTime": "2026-10-24T09:30:00Z"
+        },
+        {
+          "id": "rOdWFk4HorU",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Raphael, Archangel)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/rOdWFk4HorU/mqdefault.jpg?v=6adbe960",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-24T13:00:00Z"
         },
         {
           "id": "tFfxvP09OOA",
