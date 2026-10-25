@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-24T23:57:58.535Z",
+  "lastUpdated": "2026-10-25T03:55:29.881Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "H3MIEd5uy2g",
-          "title": "FEAST OF CHRIST THE KING - 2026",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/H3MIEd5uy2g/mqdefault.jpg?v=d",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "e9jA8Z0j4ok",
           "title": "Festa di Cristo Re (XXII Domenica dopo Pentecoste) - Santa Messa cantata - FSSPX Italia",
@@ -152,6 +143,15 @@
           "thumbnail": "https://i.ytimg.com/vi/lnMG6SPyYI8/mqdefault.jpg?v=6add4332",
           "status": "upcoming",
           "scheduledTime": "2026-10-25T17:45:00Z"
+        },
+        {
+          "id": "6sY5TXFEcNI",
+          "title": "My Kingdom Is Not of This World",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/6sY5TXFEcNI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T18:00:00Z"
         }
       ]
     }
