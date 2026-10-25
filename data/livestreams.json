@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-10-25T13:33:19.203Z",
+  "lastUpdated": "2026-10-25T17:22:34.627Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "S0VDzavlrbA",
-          "title": "Pontifical High Mass - Feast of Christ the King- 10/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/S0VDzavlrbA/mqdefault.jpg?v=6ad8b299",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "9EJf6dR_B3Y",
           "title": "Feast of Christ The King",
           "channel": "SSPX Florida",
           "channelId": "UC5AwyRmhCooK05cufOGAG1w",
-          "thumbnail": "https://i.ytimg.com/vi/9EJf6dR_B3Y/mqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/9EJf6dR_B3Y/mqdefault.jpg?v=1d",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "uqlsnedIf_8",
-          "title": "Christ the King, October 25, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/uqlsnedIf_8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T14:45:00Z"
         },
         {
           "id": "5vOpRfT097c",
@@ -37,8 +19,17 @@
           "channel": "Our Lady of the Angels",
           "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
           "thumbnail": "https://i.ytimg.com/vi/5vOpRfT097c/mqdefault.jpg?v=6add32bc",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "7PXQgbFwVcM",
+          "title": "Vesper und Sakramentsandacht - Christkönigsfest - 25. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7PXQgbFwVcM/mqdefault.jpg?v=6ad5182d",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "4R2RprW9V8o",
@@ -55,76 +46,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3EhVPhsNXbg",
-          "title": "7am Low Mass, Rosary, 8:30am Low Mass. Christ the King. I. Sunday, October 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/3EhVPhsNXbg/mqdefault.jpg?v=6ad03459",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4iXej2MVgjo",
-          "title": "Sunday 8:45 AM Catholic Mass for 10/25/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/4iXej2MVgjo/mqdefault.jpg?v=6ad4d0c0",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "yFtJZtu4yXE",
-          "title": "Missa Solene Festa de Cristo Rei",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/yFtJZtu4yXE/mqdefault.jpg?v=6addf6bc",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "8FLt0y3fzOs",
-          "title": "The Feast of Christ the King/La fête du Christ-Roi",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/8FLt0y3fzOs/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T14:15:00Z"
-        },
-        {
-          "id": "ZkegYUIc5n4",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Kingship of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZkegYUIc5n4/mqdefault.jpg?v=6adce6ca",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T14:30:00Z"
-        },
-        {
-          "id": "DMm6JwOaGQ0",
-          "title": "10:30am Sung Mass. Christ the King. I. Sunday, October 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/DMm6JwOaGQ0/mqdefault.jpg?v=6ad034c0",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T14:30:00Z"
-        },
-        {
           "id": "kgT0YAz-6mg",
           "title": "CHRIST THE KING, 2026",
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/kgT0YAz-6mg/mqdefault.jpg?v=6ac696ab",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Q_wxwP4OjVw",
+          "title": "Santo Sacrificio de la Misa, Fiesta de Cristo Rey, 25 de octubre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/Q_wxwP4OjVw/mqdefault.jpg?v=4",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T3DTplnX1pM",
           "title": "Vespers and Benediction",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/T3DTplnX1pM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T17:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/T3DTplnX1pM/mqdefault.jpg?v=6",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "lnMG6SPyYI8",
@@ -132,8 +78,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/lnMG6SPyYI8/mqdefault.jpg?v=6add4332",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T17:45:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "4HJeBBci0Wg",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/4HJeBBci0Wg/mqdefault.jpg?v=6ad4e98d",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "6sY5TXFEcNI",
@@ -152,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9HZVrgqo3BE/mqdefault.jpg?v=6ad1c3f7",
           "status": "upcoming",
           "scheduledTime": "2026-10-26T11:00:00Z"
+        },
+        {
+          "id": "Lqc6zZ8bcds",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Lqc6zZ8bcds/mqdefault.jpg?v=6ade3433",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-26T11:30:00Z"
         }
       ]
     }
