@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T17:22:34.627Z",
+  "lastUpdated": "2026-10-25T19:50:23.304Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -14,22 +14,13 @@
           "scheduledTime": null
         },
         {
-          "id": "5vOpRfT097c",
-          "title": "Feast of Christ the King | October 25th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/5vOpRfT097c/mqdefault.jpg?v=6add32bc",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7PXQgbFwVcM",
-          "title": "Vesper und Sakramentsandacht - Christkönigsfest - 25. Oktober 2026",
+          "id": "MG_rjni6oVc",
+          "title": "Hl. Messe - 26. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7PXQgbFwVcM/mqdefault.jpg?v=6ad5182d",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/MG_rjni6oVc/mqdefault.jpg?v=6ade5a0d",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-26T06:15:00Z"
         },
         {
           "id": "4R2RprW9V8o",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4R2RprW9V8o/mqdefault.jpg?v=6adc0758",
           "status": "upcoming",
           "scheduledTime": "2026-10-26T11:15:00Z"
+        },
+        {
+          "id": "IXLkjOhcumQ",
+          "title": "Rosenkranz und hl. Messe - 26. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IXLkjOhcumQ/mqdefault.jpg?v=6ade5a47",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-26T17:00:00Z"
         }
       ]
     },
@@ -46,58 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "kgT0YAz-6mg",
-          "title": "CHRIST THE KING, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/kgT0YAz-6mg/mqdefault.jpg?v=6ac696ab",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Q_wxwP4OjVw",
+          "id": "mTOrot7aruc",
           "title": "Santo Sacrificio de la Misa, Fiesta de Cristo Rey, 25 de octubre de 2026.",
           "channel": "FSSP en MEXICO - Oficial",
           "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/Q_wxwP4OjVw/mqdefault.jpg?v=4",
+          "thumbnail": "https://i.ytimg.com/vi/mTOrot7aruc/mqdefault.jpg?v=d",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "T3DTplnX1pM",
-          "title": "Vespers and Benediction",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/T3DTplnX1pM/mqdefault.jpg?v=6",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "lnMG6SPyYI8",
-          "title": "Secondes vêpres de la fête du Christ Roi - HABET IN VESTIMENTO",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/lnMG6SPyYI8/mqdefault.jpg?v=6add4332",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "4HJeBBci0Wg",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/4HJeBBci0Wg/mqdefault.jpg?v=6ad4e98d",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6sY5TXFEcNI",
-          "title": "My Kingdom Is Not of This World",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/6sY5TXFEcNI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T18:00:00Z"
         },
         {
           "id": "9HZVrgqo3BE",
@@ -116,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Lqc6zZ8bcds/mqdefault.jpg?v=6ade3433",
           "status": "upcoming",
           "scheduledTime": "2026-10-26T11:30:00Z"
+        },
+        {
+          "id": "l7DZRhRbHEQ",
+          "title": "Monday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/l7DZRhRbHEQ/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-26T18:00:00Z"
         }
       ]
     }
