@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-10-25T03:55:29.881Z",
+  "lastUpdated": "2026-10-25T08:55:51.503Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "CfYXip4A3yU",
+          "title": "Amt - Christkönigsfest - 25. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/CfYXip4A3yU/mqdefault.jpg?v=6ad517e4",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "e9jA8Z0j4ok",
           "title": "Festa di Cristo Re (XXII Domenica dopo Pentecoste) - Santa Messa cantata - FSSPX Italia",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/e9jA8Z0j4ok/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-25T09:25:00Z"
+        },
+        {
+          "id": "b1-iK1slUFI",
+          "title": "Christ the King",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/b1-iK1slUFI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-25T11:00:00Z"
         },
         {
           "id": "9EJf6dR_B3Y",
@@ -32,15 +50,6 @@
           "scheduledTime": "2026-10-25T14:45:00Z"
         },
         {
-          "id": "7PXQgbFwVcM",
-          "title": "Vesper und Sakramentsandacht - Christkönigsfest - 25. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7PXQgbFwVcM/mqdefault.jpg?v=6ad5182d",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T16:00:00Z"
-        },
-        {
           "id": "5vOpRfT097c",
           "title": "Feast of Christ the King | October 25th",
           "channel": "Our Lady of the Angels",
@@ -59,9 +68,9 @@
           "title": "8am — Christ the King",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/9PhQrRA_LGw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-25T08:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/9PhQrRA_LGw/mqdefault.jpg?v=b",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "zjDCJgcACdY",
