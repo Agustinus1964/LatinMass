@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-10-26T18:46:48.418Z",
+  "lastUpdated": "2026-10-26T23:00:11.882Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "yXle5ODscmo",
+          "title": "Sung Rosary - 10/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/yXle5ODscmo/mqdefault.jpg?v=6ad8b376",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "qv3jvay-9GE",
           "title": "Votive Mass of the Angels",
@@ -39,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/orSbEkFF790/mqdefault.jpg?v=6ade5ad1",
           "status": "upcoming",
           "scheduledTime": "2026-10-27T16:40:00Z"
+        },
+        {
+          "id": "HQyKb9cqWJA",
+          "title": "Sung Rosary - 10/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/HQyKb9cqWJA/mqdefault.jpg?v=6adf4b96",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T22:55:00Z"
         }
       ]
     },
@@ -55,22 +73,13 @@
           "scheduledTime": null
         },
         {
-          "id": "9_DNNNPxlJ4",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/9_DNNNPxlJ4/mqdefault.jpg?v=6ad65acd",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "0uevFMxDQtQ",
-          "title": "Monday, 26 October 2026 - Saint Evaristus",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/0uevFMxDQtQ/mqdefault.jpg?v=6adf8603",
+          "id": "H_NzV_azvLQ",
+          "title": "\"Mysterium Ecclesia:\" Tema 4: Imágenes de la Iglesia en el Antiguo Testamento. P. Javier Ruiz FSSP",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/H_NzV_azvLQ/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-26T18:00:00Z"
+          "scheduledTime": "2026-10-27T02:00:00Z"
         },
         {
           "id": "sIok8How5Z4",
