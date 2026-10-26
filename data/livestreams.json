@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-26T05:44:04.639Z",
+  "lastUpdated": "2026-10-26T12:11:15.067Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,17 +10,26 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/4R2RprW9V8o/mqdefault.jpg?v=6adc0758",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-26T11:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "IXLkjOhcumQ",
-          "title": "Rosenkranz und hl. Messe - 26. Oktober 2026",
+          "id": "iQ0nT2cEspU",
+          "title": "Hl. Messe - 27. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/IXLkjOhcumQ/mqdefault.jpg?v=6ade5a47",
+          "thumbnail": "https://i.ytimg.com/vi/iQ0nT2cEspU/mqdefault.jpg?v=6ade5a99",
           "status": "upcoming",
-          "scheduledTime": "2026-10-26T17:00:00Z"
+          "scheduledTime": "2026-10-27T06:15:00Z"
+        },
+        {
+          "id": "-46mPBM86js",
+          "title": "Tue. Oct. 27, 2026    -    Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/-46mPBM86js/mqdefault.jpg?v=6adc08a9",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T11:15:00Z"
         }
       ]
     },
@@ -33,17 +42,17 @@
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/9HZVrgqo3BE/mqdefault.jpg?v=6ad1c3f7",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-26T11:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "Lqc6zZ8bcds",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Lqc6zZ8bcds/mqdefault.jpg?v=6ade3433",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-26T11:30:00Z"
+          "id": "zErmrziOuvQ",
+          "title": "Monday 8 AM Traditional Latin Mass10/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/zErmrziOuvQ/mqdefault.jpg?v=6ad617f2",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "l7DZRhRbHEQ",
@@ -53,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/l7DZRhRbHEQ/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-26T18:00:00Z"
+        },
+        {
+          "id": "sIok8How5Z4",
+          "title": "7am Mass. Feria. IV. Tuesday, October 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/sIok8How5Z4/mqdefault.jpg?v=6ad1c435",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T11:00:00Z"
         }
       ]
     }
