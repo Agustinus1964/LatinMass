@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-10-26T12:11:15.067Z",
+  "lastUpdated": "2026-10-26T18:46:48.418Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "4R2RprW9V8o",
-          "title": "Mon. Oct. 26, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/4R2RprW9V8o/mqdefault.jpg?v=6adc0758",
-          "status": "live",
-          "scheduledTime": null
+          "id": "qv3jvay-9GE",
+          "title": "Votive Mass of the Angels",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/qv3jvay-9GE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T06:30:00Z"
         },
         {
-          "id": "iQ0nT2cEspU",
-          "title": "Hl. Messe - 27. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/iQ0nT2cEspU/mqdefault.jpg?v=6ade5a99",
+          "id": "MuJHz2TcWcA",
+          "title": "Low Mass - Feria - 10/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/MuJHz2TcWcA/mqdefault.jpg?v=6adf4b7b",
           "status": "upcoming",
-          "scheduledTime": "2026-10-27T06:15:00Z"
+          "scheduledTime": "2026-10-27T11:15:00Z"
         },
         {
           "id": "-46mPBM86js",
@@ -30,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/-46mPBM86js/mqdefault.jpg?v=6adc08a9",
           "status": "upcoming",
           "scheduledTime": "2026-10-27T11:15:00Z"
+        },
+        {
+          "id": "orSbEkFF790",
+          "title": "Sakramentsandacht und hl. Messe - 27. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/orSbEkFF790/mqdefault.jpg?v=6ade5ad1",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T16:40:00Z"
         }
       ]
     },
@@ -46,20 +55,20 @@
           "scheduledTime": null
         },
         {
-          "id": "zErmrziOuvQ",
-          "title": "Monday 8 AM Traditional Latin Mass10/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/zErmrziOuvQ/mqdefault.jpg?v=6ad617f2",
+          "id": "9_DNNNPxlJ4",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/9_DNNNPxlJ4/mqdefault.jpg?v=6ad65acd",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "l7DZRhRbHEQ",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/l7DZRhRbHEQ/mqdefault.jpg",
+          "id": "0uevFMxDQtQ",
+          "title": "Monday, 26 October 2026 - Saint Evaristus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/0uevFMxDQtQ/mqdefault.jpg?v=6adf8603",
           "status": "upcoming",
           "scheduledTime": "2026-10-26T18:00:00Z"
         },
@@ -71,6 +80,33 @@
           "thumbnail": "https://i.ytimg.com/vi/sIok8How5Z4/mqdefault.jpg?v=6ad1c435",
           "status": "upcoming",
           "scheduledTime": "2026-10-27T11:00:00Z"
+        },
+        {
+          "id": "cjcqN290NAs",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/cjcqN290NAs/mqdefault.jpg?v=6adf43ab",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T11:30:00Z"
+        },
+        {
+          "id": "HwF4VQ0sv9M",
+          "title": "Tuesday, 27 October 2026 - Votive Mass of Christ the King",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/HwF4VQ0sv9M/mqdefault.jpg?v=6adf864e",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T18:00:00Z"
+        },
+        {
+          "id": "bmTQyAS7FCI",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/bmTQyAS7FCI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-27T18:00:00Z"
         }
       ]
     }
