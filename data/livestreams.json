@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T13:54:08.287Z",
+  "lastUpdated": "2026-10-27T19:11:15.422Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -23,15 +23,6 @@
           "scheduledTime": "2026-10-28T00:45:00Z"
         },
         {
-          "id": "LyTyqRjpdUU",
-          "title": "Hl. Messe - hll. Apostel Simon und Judas Thaddäus - 28. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/LyTyqRjpdUU/mqdefault.jpg?v=6ade5b03",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-28T06:15:00Z"
-        },
-        {
           "id": "rlKJ03oIRRY",
           "title": "Sung Mass - Sts. Simon and Jude - 10/28/26",
           "channel": "SSPX Seminary - USA",
@@ -39,39 +30,21 @@
           "thumbnail": "https://i.ytimg.com/vi/rlKJ03oIRRY/mqdefault.jpg?v=6adf4bfa",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T10:50:00Z"
+        },
+        {
+          "id": "jD5r7GarQP8",
+          "title": "Rosenkranz und hl. Messe - hll. Apostel Simon und Judas Thaddäus - 28. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jD5r7GarQP8/mqdefault.jpg?v=6ade5b20",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ussOwrQ8mmA",
-          "title": "Santo Sacrificio de la Misa, San Evaristo, Papa y mártir. 26 de octubre de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/ussOwrQ8mmA/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "HwF4VQ0sv9M",
-          "title": "Tuesday, 27 October 2026 - Votive Mass of Christ the King",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/HwF4VQ0sv9M/mqdefault.jpg?v=6adf864e",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T18:00:00Z"
-        },
-        {
-          "id": "bmTQyAS7FCI",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/bmTQyAS7FCI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T18:00:00Z"
-        },
         {
           "id": "YdOxN48Ak8Y",
           "title": "Live Stream Holy Mass from Cleveland USA (Saints Simon and Jude, Apostles)",
@@ -80,6 +53,24 @@
           "thumbnail": "https://i.ytimg.com/vi/YdOxN48Ak8Y/mqdefault.jpg?v=6ae095aa",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T11:30:00Z"
+        },
+        {
+          "id": "GjzYi-IkAjE",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/GjzYi-IkAjE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T18:00:00Z"
+        },
+        {
+          "id": "wdPlEUDbFLs",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/wdPlEUDbFLs/mqdefault.jpg?v=6ada4fca",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T18:00:00Z"
         }
       ]
     }
