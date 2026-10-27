@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-27T01:58:20.096Z",
+  "lastUpdated": "2026-10-27T07:33:38.750Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -9,9 +9,9 @@
           "title": "Votive Mass of the Angels",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/qv3jvay-9GE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T06:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/qv3jvay-9GE/mqdefault.jpg?v=2",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "MuJHz2TcWcA",
@@ -32,15 +32,6 @@
           "scheduledTime": "2026-10-27T11:15:00Z"
         },
         {
-          "id": "orSbEkFF790",
-          "title": "Sakramentsandacht und hl. Messe - 27. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/orSbEkFF790/mqdefault.jpg?v=6ade5ad1",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T16:40:00Z"
-        },
-        {
           "id": "HQyKb9cqWJA",
           "title": "Sung Rosary - 10/27/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/WiKw77ddVdE/mqdefault.jpg?v=6adf4bbc",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T00:45:00Z"
+        },
+        {
+          "id": "LyTyqRjpdUU",
+          "title": "Hl. Messe - hll. Apostel Simon und Judas Thaddäus - 28. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/LyTyqRjpdUU/mqdefault.jpg?v=6ade5b03",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T06:15:00Z"
         }
       ]
     },
@@ -71,15 +71,6 @@
           "thumbnail": "https://i.ytimg.com/vi/9HZVrgqo3BE/mqdefault.jpg?v=6ad1c3f7",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "H_NzV_azvLQ",
-          "title": "\"Mysterium Ecclesia:\" Tema 4: Imágenes de la Iglesia en el Antiguo Testamento. P. Javier Ruiz FSSP",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/H_NzV_azvLQ/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T02:00:00Z"
         },
         {
           "id": "sIok8How5Z4",
