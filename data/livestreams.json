@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-26T23:00:11.882Z",
+  "lastUpdated": "2026-10-27T01:58:20.096Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "yXle5ODscmo",
-          "title": "Sung Rosary - 10/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/yXle5ODscmo/mqdefault.jpg?v=6ad8b376",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "qv3jvay-9GE",
           "title": "Votive Mass of the Angels",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/HQyKb9cqWJA/mqdefault.jpg?v=6adf4b96",
           "status": "upcoming",
           "scheduledTime": "2026-10-27T22:55:00Z"
+        },
+        {
+          "id": "WiKw77ddVdE",
+          "title": "Compline - 10/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/WiKw77ddVdE/mqdefault.jpg?v=6adf4bbc",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T00:45:00Z"
         }
       ]
     },
