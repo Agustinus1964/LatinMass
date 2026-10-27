@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-27T19:11:15.422Z",
+  "lastUpdated": "2026-10-27T23:02:31.089Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "HQyKb9cqWJA",
-          "title": "Sung Rosary - 10/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/HQyKb9cqWJA/mqdefault.jpg?v=6adf4b96",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T22:55:00Z"
-        },
         {
           "id": "WiKw77ddVdE",
           "title": "Compline - 10/27/26",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jD5r7GarQP8/mqdefault.jpg?v=6ade5b20",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T17:00:00Z"
+        },
+        {
+          "id": "qr2E1q5p764",
+          "title": "Sung Rosary - 10/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/qr2E1q5p764/mqdefault.jpg?v=6adf4c57",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T22:55:00Z"
         }
       ]
     },
@@ -53,6 +53,15 @@
           "thumbnail": "https://i.ytimg.com/vi/YdOxN48Ak8Y/mqdefault.jpg?v=6ae095aa",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T11:30:00Z"
+        },
+        {
+          "id": "9EgamPy0A-M",
+          "title": "Wednesday, 28 October 2026 - Saints Simon & Jude",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/9EgamPy0A-M/mqdefault.jpg?v=6ae1129b",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T18:00:00Z"
         },
         {
           "id": "GjzYi-IkAjE",
