@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-10-27T07:33:38.750Z",
+  "lastUpdated": "2026-10-27T13:54:08.287Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "qv3jvay-9GE",
-          "title": "Votive Mass of the Angels",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/qv3jvay-9GE/mqdefault.jpg?v=2",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "MuJHz2TcWcA",
-          "title": "Low Mass - Feria - 10/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/MuJHz2TcWcA/mqdefault.jpg?v=6adf4b7b",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T11:15:00Z"
-        },
-        {
-          "id": "-46mPBM86js",
-          "title": "Tue. Oct. 27, 2026    -    Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/-46mPBM86js/mqdefault.jpg?v=6adc08a9",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T11:15:00Z"
-        },
         {
           "id": "HQyKb9cqWJA",
           "title": "Sung Rosary - 10/27/26",
@@ -57,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/LyTyqRjpdUU/mqdefault.jpg?v=6ade5b03",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T06:15:00Z"
+        },
+        {
+          "id": "rlKJ03oIRRY",
+          "title": "Sung Mass - Sts. Simon and Jude - 10/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/rlKJ03oIRRY/mqdefault.jpg?v=6adf4bfa",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T10:50:00Z"
         }
       ]
     },
@@ -64,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9HZVrgqo3BE",
-          "title": "7am Mass. Feria. IV. Monday, October 26, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/9HZVrgqo3BE/mqdefault.jpg?v=6ad1c3f7",
+          "id": "ussOwrQ8mmA",
+          "title": "Santo Sacrificio de la Misa, San Evaristo, Papa y mártir. 26 de octubre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/ussOwrQ8mmA/mqdefault.jpg",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "sIok8How5Z4",
-          "title": "7am Mass. Feria. IV. Tuesday, October 27, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/sIok8How5Z4/mqdefault.jpg?v=6ad1c435",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T11:00:00Z"
-        },
-        {
-          "id": "cjcqN290NAs",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/cjcqN290NAs/mqdefault.jpg?v=6adf43ab",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-27T11:30:00Z"
         },
         {
           "id": "HwF4VQ0sv9M",
@@ -107,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/bmTQyAS7FCI/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-27T18:00:00Z"
+        },
+        {
+          "id": "YdOxN48Ak8Y",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saints Simon and Jude, Apostles)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/YdOxN48Ak8Y/mqdefault.jpg?v=6ae095aa",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-28T11:30:00Z"
         }
       ]
     }
