@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-27T23:02:31.089Z",
+  "lastUpdated": "2026-10-28T02:29:17.519Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "WiKw77ddVdE",
-          "title": "Compline - 10/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WiKw77ddVdE/mqdefault.jpg?v=6adf4bbc",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-28T00:45:00Z"
-        },
         {
           "id": "rlKJ03oIRRY",
           "title": "Sung Mass - Sts. Simon and Jude - 10/28/26",
@@ -39,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/qr2E1q5p764/mqdefault.jpg?v=6adf4c57",
           "status": "upcoming",
           "scheduledTime": "2026-10-28T22:55:00Z"
+        },
+        {
+          "id": "VBf0QMFPlwQ",
+          "title": "Compline - 10/28/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/VBf0QMFPlwQ/mqdefault.jpg?v=6adf4c26",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-29T00:45:00Z"
         }
       ]
     },
