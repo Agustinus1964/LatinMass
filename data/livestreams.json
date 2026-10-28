@@ -1,50 +1,32 @@
 {
-  "lastUpdated": "2026-10-28T15:41:38.903Z",
+  "lastUpdated": "2026-10-28T20:44:31.893Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "tbXB-5ZgLxM",
-          "title": "Hl. Messe - 29. Oktober 2026",
+          "id": "nsn6uE8i9lY",
+          "title": "Ferial Mass - 29/10/26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/nsn6uE8i9lY/mqdefault.jpg?v=7",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SZ4rgx3Lqzk",
+          "title": "Sakramentsandacht und hl. Messe - 29. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tbXB-5ZgLxM/mqdefault.jpg?v=6ade5b57",
+          "thumbnail": "https://i.ytimg.com/vi/SZ4rgx3Lqzk/mqdefault.jpg?v=6ade5b73",
           "status": "upcoming",
-          "scheduledTime": "2026-10-29T06:15:00Z"
+          "scheduledTime": "2026-10-29T16:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "9EgamPy0A-M",
-          "title": "Wednesday, 28 October 2026 - Saints Simon & Jude",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/9EgamPy0A-M/mqdefault.jpg?v=6ae1129b",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-28T18:00:00Z"
-        },
-        {
-          "id": "GjzYi-IkAjE",
-          "title": "Wednesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/GjzYi-IkAjE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-28T18:00:00Z"
-        },
-        {
-          "id": "wdPlEUDbFLs",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/wdPlEUDbFLs/mqdefault.jpg?v=6ada4fca",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-28T18:00:00Z"
-        },
         {
           "id": "jLHwaUAahK0",
           "title": "Thursday, 29 October 2026 - Votive Mass of Christ the King",
@@ -62,6 +44,24 @@
           "thumbnail": "https://i.ytimg.com/vi/9UfG53EYP-A/mqdefault.jpg?v=6ae1e9d9",
           "status": "upcoming",
           "scheduledTime": "2026-10-29T11:30:00Z"
+        },
+        {
+          "id": "vNE1p-32MJM",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/vNE1p-32MJM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-29T18:00:00Z"
+        },
+        {
+          "id": "4V1Z-4qCaC8",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/4V1Z-4qCaC8/mqdefault.jpg?v=6adba14b",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-29T18:00:00Z"
         }
       ]
     }
