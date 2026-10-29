@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-10-29T00:34:26.054Z",
+  "lastUpdated": "2026-10-29T06:43:02.211Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "SZ4rgx3Lqzk",
-          "title": "Sakramentsandacht und hl. Messe - 29. Oktober 2026",
+          "id": "tbXB-5ZgLxM",
+          "title": "Hl. Messe - 29. Oktober 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/SZ4rgx3Lqzk/mqdefault.jpg?v=6ade5b73",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-29T16:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/tbXB-5ZgLxM/mqdefault.jpg?v=6ade5b57",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sWq2Npec2g8",
@@ -21,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/sWq2Npec2g8/mqdefault.jpg?v=6adc09a8",
           "status": "upcoming",
           "scheduledTime": "2026-10-29T22:00:00Z"
+        },
+        {
+          "id": "VlAqerUERmU",
+          "title": "Hl. Messe - 30. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/VlAqerUERmU/mqdefault.jpg?v=6ade5bbe",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T06:15:00Z"
         }
       ]
     },
