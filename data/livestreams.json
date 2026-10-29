@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-29T13:54:40.214Z",
+  "lastUpdated": "2026-10-29T19:23:28.047Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,15 +12,6 @@
           "thumbnail": "https://i.ytimg.com/vi/sWq2Npec2g8/mqdefault.jpg?v=6adc09a8",
           "status": "upcoming",
           "scheduledTime": "2026-10-29T22:00:00Z"
-        },
-        {
-          "id": "VlAqerUERmU",
-          "title": "Hl. Messe - 30. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/VlAqerUERmU/mqdefault.jpg?v=6ade5bbe",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-30T06:15:00Z"
         },
         {
           "id": "l3lX9L6k9NE",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CkHASIy3n0Y/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T11:45:00Z"
+        },
+        {
+          "id": "rShXN_JVosc",
+          "title": "Rosenkranz und hl. Messe - 30. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/rShXN_JVosc/mqdefault.jpg?v=6ade5bf5",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T17:30:00Z"
         }
       ]
     },
@@ -55,22 +55,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "vNE1p-32MJM",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/vNE1p-32MJM/mqdefault.jpg",
+          "id": "9OtnMsaidmE",
+          "title": "Friday, 30 October 2026 - Votive Mass of Christ the King",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/9OtnMsaidmE/mqdefault.jpg?v=6ae112f4",
           "status": "upcoming",
-          "scheduledTime": "2026-10-29T18:00:00Z"
+          "scheduledTime": "2026-10-30T18:00:00Z"
         },
         {
-          "id": "4V1Z-4qCaC8",
+          "id": "Kju8i1dJOME",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Kju8i1dJOME/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T18:00:00Z"
+        },
+        {
+          "id": "BUiutu0fnNA",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/4V1Z-4qCaC8/mqdefault.jpg?v=6adba14b",
+          "thumbnail": "https://i.ytimg.com/vi/BUiutu0fnNA/mqdefault.jpg?v=6adba0d3",
           "status": "upcoming",
-          "scheduledTime": "2026-10-29T18:00:00Z"
+          "scheduledTime": "2026-10-30T18:00:00Z"
         }
       ]
     }
