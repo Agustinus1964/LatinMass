@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-29T06:43:02.211Z",
+  "lastUpdated": "2026-10-29T13:54:40.214Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "tbXB-5ZgLxM",
-          "title": "Hl. Messe - 29. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/tbXB-5ZgLxM/mqdefault.jpg?v=6ade5b57",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "sWq2Npec2g8",
           "title": "Thur. Oct. 29, 2026   -   Ferial Day",
@@ -30,30 +21,39 @@
           "thumbnail": "https://i.ytimg.com/vi/VlAqerUERmU/mqdefault.jpg?v=6ade5bbe",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T06:15:00Z"
+        },
+        {
+          "id": "l3lX9L6k9NE",
+          "title": "Low Mass - Feria - 10/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/l3lX9L6k9NE/mqdefault.jpg?v=6ae1efb5",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T11:15:00Z"
+        },
+        {
+          "id": "4fvUCFBVssw",
+          "title": "Fri. Oct. 30, 2026   -   Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/4fvUCFBVssw/mqdefault.jpg?v=6adc0aa1",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T11:15:00Z"
+        },
+        {
+          "id": "CkHASIy3n0Y",
+          "title": "Spiritual Conference: Literature in our Education",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/CkHASIy3n0Y/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T11:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "jLHwaUAahK0",
-          "title": "Thursday, 29 October 2026 - Votive Mass of Christ the King",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/jLHwaUAahK0/mqdefault.jpg?v=6ae112c3",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-29T08:00:00Z"
-        },
-        {
-          "id": "9UfG53EYP-A",
-          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/9UfG53EYP-A/mqdefault.jpg?v=6ae1e9d9",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-29T11:30:00Z"
-        },
         {
           "id": "vNE1p-32MJM",
           "title": "Thursday",
