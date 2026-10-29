@@ -1,17 +1,26 @@
 {
-  "lastUpdated": "2026-10-29T19:23:28.047Z",
+  "lastUpdated": "2026-10-29T23:28:33.091Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "sWq2Npec2g8",
-          "title": "Thur. Oct. 29, 2026   -   Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/sWq2Npec2g8/mqdefault.jpg?v=6adc09a8",
+          "id": "FjwO4Jp9i_I",
+          "title": "Sung Rosary - 10/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/FjwO4Jp9i_I/mqdefault.jpg?v=6adf4c94",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MikBovf9PPs",
+          "title": "Votive Mass of the Holy Cross",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/MikBovf9PPs/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-29T22:00:00Z"
+          "scheduledTime": "2026-10-30T07:30:00Z"
         },
         {
           "id": "l3lX9L6k9NE",
@@ -48,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rShXN_JVosc/mqdefault.jpg?v=6ade5bf5",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T17:30:00Z"
+        },
+        {
+          "id": "Zn80mo710io",
+          "title": "Sung Rosary - 10/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/Zn80mo710io/mqdefault.jpg?v=6ae1efcc",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T22:50:00Z"
         }
       ]
     },
@@ -80,6 +98,15 @@
           "thumbnail": "https://i.ytimg.com/vi/BUiutu0fnNA/mqdefault.jpg?v=6adba0d3",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T18:00:00Z"
+        },
+        {
+          "id": "Bhy1svujqs8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/Bhy1svujqs8/mqdefault.jpg?v=6ae33871",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-30T22:30:00Z"
         }
       ]
     }
