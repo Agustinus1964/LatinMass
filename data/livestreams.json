@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-30T02:49:51.533Z",
+  "lastUpdated": "2026-10-30T09:32:59.666Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MikBovf9PPs",
-          "title": "Votive Mass of the Holy Cross",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/MikBovf9PPs/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-30T07:30:00Z"
-        },
         {
           "id": "l3lX9L6k9NE",
           "title": "Low Mass - Feria - 10/30/26",
@@ -36,18 +27,9 @@
           "title": "Spiritual Conference: Literature in our Education",
           "channel": "SSPX District of Asia",
           "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/CkHASIy3n0Y/mqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/CkHASIy3n0Y/mqdefault.jpg?v=6ae42945",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T11:45:00Z"
-        },
-        {
-          "id": "rShXN_JVosc",
-          "title": "Rosenkranz und hl. Messe - 30. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/rShXN_JVosc/mqdefault.jpg?v=6ade5bf5",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-30T17:30:00Z"
         },
         {
           "id": "Zn80mo710io",
@@ -66,12 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/aRejlpWNdzU/mqdefault.jpg?v=6ae1f026",
           "status": "upcoming",
           "scheduledTime": "2026-10-31T00:45:00Z"
+        },
+        {
+          "id": "1DCkilbsHoQ",
+          "title": "Hl. Messe - Muttergottessamstag - 31. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/1DCkilbsHoQ/mqdefault.jpg?v=6ade5c23",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-31T06:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "ZqJMYQ5ObwQ",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/ZqJMYQ5ObwQ/mqdefault.jpg?v=6ae45b50",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "9OtnMsaidmE",
           "title": "Friday, 30 October 2026 - Votive Mass of Christ the King",
@@ -104,9 +104,18 @@
           "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Kingship of Our Lord Jesus Christ)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Bhy1svujqs8/mqdefault.jpg?v=6ae33871",
+          "thumbnail": "https://i.ytimg.com/vi/Bhy1svujqs8/mqdefault.jpg?v=6ae40fe2",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T22:30:00Z"
+        },
+        {
+          "id": "F4-t8__fVuw",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/F4-t8__fVuw/mqdefault.jpg?v=6adc6cf7",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-31T08:30:00Z"
         }
       ]
     }
