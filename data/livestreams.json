@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-29T23:28:33.091Z",
+  "lastUpdated": "2026-10-30T02:49:51.533Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "FjwO4Jp9i_I",
-          "title": "Sung Rosary - 10/29/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/FjwO4Jp9i_I/mqdefault.jpg?v=6adf4c94",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "MikBovf9PPs",
           "title": "Votive Mass of the Holy Cross",
@@ -66,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Zn80mo710io/mqdefault.jpg?v=6ae1efcc",
           "status": "upcoming",
           "scheduledTime": "2026-10-30T22:50:00Z"
+        },
+        {
+          "id": "aRejlpWNdzU",
+          "title": "Compline - 10/30/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/aRejlpWNdzU/mqdefault.jpg?v=6ae1f026",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-31T00:45:00Z"
         }
       ]
     },
