@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-30T16:30:35.969Z",
+  "lastUpdated": "2026-10-30T21:21:28.860Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "EC1S14L1zEg",
-          "title": "FSSPX Antwerpen - 30/10 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EC1S14L1zEg/mqdefault.jpg?v=6adb346b",
+          "id": "0HveiVgKonY",
+          "title": "Mass of Our Lady on Saturdays - 31st October 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/0HveiVgKonY/mqdefault.jpg?v=4",
           "status": "live",
           "scheduledTime": null
         },
@@ -32,13 +32,13 @@
           "scheduledTime": "2026-10-31T00:45:00Z"
         },
         {
-          "id": "1DCkilbsHoQ",
-          "title": "Hl. Messe - Muttergottessamstag - 31. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/1DCkilbsHoQ/mqdefault.jpg?v=6ade5c23",
+          "id": "sBXTWdu1RJ4",
+          "title": "The Blessed Virgin Mary on Saturday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/sBXTWdu1RJ4/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-31T06:15:00Z"
+          "scheduledTime": "2026-10-31T07:30:00Z"
         },
         {
           "id": "yxm1eKfHjso",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/IIV7kNjMPyY/mqdefault.jpg?v=6adc117a",
           "status": "upcoming",
           "scheduledTime": "2026-10-31T12:00:00Z"
+        },
+        {
+          "id": "1IdMiqBL_L8",
+          "title": "I. Vesper und Sakramentsandacht - 31. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/1IdMiqBL_L8/mqdefault.jpg?v=6ade5c5e",
+          "status": "upcoming",
+          "scheduledTime": "2026-10-31T17:00:00Z"
         }
       ]
     },
@@ -64,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "9OtnMsaidmE",
-          "title": "Friday, 30 October 2026 - Votive Mass of Christ the King",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/9OtnMsaidmE/mqdefault.jpg?v=6ae112f4",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-30T18:00:00Z"
-        },
-        {
-          "id": "Kju8i1dJOME",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Kju8i1dJOME/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-30T18:00:00Z"
-        },
-        {
-          "id": "BUiutu0fnNA",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/BUiutu0fnNA/mqdefault.jpg?v=6adba0d3",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-30T18:00:00Z"
+          "id": "2fjr_aYHzNg",
+          "title": "Ofício do Rosário e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/2fjr_aYHzNg/mqdefault.jpg?v=6ae5006c",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Bhy1svujqs8",
