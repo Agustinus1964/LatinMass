@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-10-31T00:55:43.823Z",
+  "lastUpdated": "2026-10-31T06:36:17.315Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "aRejlpWNdzU",
-          "title": "Compline - 10/30/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/aRejlpWNdzU/mqdefault.jpg?v=6ae1f026",
+          "id": "1DCkilbsHoQ",
+          "title": "Hl. Messe - Muttergottessamstag - 31. Oktober 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/1DCkilbsHoQ/mqdefault.jpg?v=6ade5c23",
           "status": "live",
           "scheduledTime": null
         },
@@ -30,24 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/yxm1eKfHjso/mqdefault.jpg?v=6ae1f03b",
           "status": "upcoming",
           "scheduledTime": "2026-10-31T11:15:00Z"
-        },
-        {
-          "id": "IIV7kNjMPyY",
-          "title": "Sat. Oct 31, 2026   -   Vigil of All Saints Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/IIV7kNjMPyY/mqdefault.jpg?v=6adc117a",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T12:00:00Z"
-        },
-        {
-          "id": "1IdMiqBL_L8",
-          "title": "I. Vesper und Sakramentsandacht - 31. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/1IdMiqBL_L8/mqdefault.jpg?v=6ade5c5e",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T17:00:00Z"
         },
         {
           "id": "_iTcYrNVZiE",
