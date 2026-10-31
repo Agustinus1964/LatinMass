@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-10-31T17:50:56.452Z",
+  "lastUpdated": "2026-10-31T20:56:12.608Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1IdMiqBL_L8",
-          "title": "I. Vesper und Sakramentsandacht - 31. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/1IdMiqBL_L8/mqdefault.jpg?v=6ade5c5e",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "_iTcYrNVZiE",
           "title": "Sung Rosary - 10/31/26",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/e5kThS18Kbg/mqdefault.jpg?v=6ade5db0",
           "status": "upcoming",
           "scheduledTime": "2026-11-01T16:00:00Z"
+        },
+        {
+          "id": "2XT7fMsQkvc",
+          "title": "All Saints Day | November 1st",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/2XT7fMsQkvc/mqdefault.jpg?v=6ae628ac",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-01T18:00:00Z"
         }
       ]
     },
