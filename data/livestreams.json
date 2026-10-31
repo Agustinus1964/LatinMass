@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-10-31T06:36:17.315Z",
+  "lastUpdated": "2026-10-31T13:15:57.031Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "1DCkilbsHoQ",
-          "title": "Hl. Messe - Muttergottessamstag - 31. Oktober 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/1DCkilbsHoQ/mqdefault.jpg?v=6ade5c23",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sBXTWdu1RJ4",
-          "title": "The Blessed Virgin Mary on Saturday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/sBXTWdu1RJ4/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T07:30:00Z"
-        },
-        {
-          "id": "yxm1eKfHjso",
-          "title": "Low Mass - Feria - 10/31/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/yxm1eKfHjso/mqdefault.jpg?v=6ae1f03b",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T11:15:00Z"
-        },
         {
           "id": "_iTcYrNVZiE",
           "title": "Sung Rosary - 10/31/26",
@@ -48,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/-bcx8GNkNwA/mqdefault.jpg?v=6ae1f095",
           "status": "upcoming",
           "scheduledTime": "2026-11-01T00:45:00Z"
+        },
+        {
+          "id": "HmRpLOALkTI",
+          "title": "Pontifikalamt - Allerheiligen - 01. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HmRpLOALkTI/mqdefault.jpg?v=6ade5d70",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-01T08:30:00Z"
+        },
+        {
+          "id": "Kg0BSStvqNs",
+          "title": "All Saints",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/Kg0BSStvqNs/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-01T11:00:00Z"
         }
       ]
     },
@@ -55,40 +46,67 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "F4-t8__fVuw",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/F4-t8__fVuw/mqdefault.jpg?v=6adc6cf7",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T08:30:00Z"
-        },
-        {
-          "id": "QdZELzRzjkc",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/QdZELzRzjkc/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T10:00:00Z"
-        },
-        {
-          "id": "zyPqqWAaDB0",
-          "title": "Saturday, 31 October 2026 - Blessed Virgin Mary on Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/zyPqqWAaDB0/mqdefault.jpg?v=6ae11323",
-          "status": "upcoming",
-          "scheduledTime": "2026-10-31T10:30:00Z"
-        },
-        {
           "id": "RpyFMHSEAbY",
           "title": "Live Stream Holy Mass from Cleveland USA (Saturday of Our Lady)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/RpyFMHSEAbY/mqdefault.jpg?v=6ae52374",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "sHE5TptzgNc",
+          "title": "7am Mass, Rosary, 9am Mass. Our Lady on Saturday. IV. Saturday, October 31, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/sHE5TptzgNc/mqdefault.jpg?v=6ad25534",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "k4LWlpLDL18",
+          "title": "Saturday 9 AM Traditional Catholic Mass 10/31/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/k4LWlpLDL18/mqdefault.jpg?v=6adcbd81",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "6htdZHx9BVc",
+          "title": "8am — All Saints",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6htdZHx9BVc/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-10-31T13:00:00Z"
+          "scheduledTime": "2026-11-01T08:00:00Z"
+        },
+        {
+          "id": "MKZHB5nPxsA",
+          "title": "9:30am — All Saints",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/MKZHB5nPxsA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-01T09:30:00Z"
+        },
+        {
+          "id": "5C93nq57oqM",
+          "title": "Sainte messe de la fête de la Toussaint - GAUDEAMUS OMNES",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5C93nq57oqM/mqdefault.jpg?v=6ade203a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-01T10:00:00Z"
+        },
+        {
+          "id": "12wA4ARrLWE",
+          "title": "11am — All Saints",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/12wA4ARrLWE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-01T11:00:00Z"
         }
       ]
     }
