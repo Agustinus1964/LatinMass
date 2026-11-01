@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-11-01T04:45:47.885Z",
+  "lastUpdated": "2026-11-01T11:38:13.573Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "mMZrA1H5wrg",
-          "title": "Festa di Tutti i Santi (XXIII Dom. dopo Pentecoste) - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/mMZrA1H5wrg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T09:25:00Z"
-        },
         {
           "id": "Kg0BSStvqNs",
           "title": "All Saints",
@@ -39,15 +30,6 @@
           "thumbnail": "https://i.ytimg.com/vi/tt0S4iZ7pDk/mqdefault.jpg?v=6ae65ec7",
           "status": "upcoming",
           "scheduledTime": "2026-11-01T14:55:00Z"
-        },
-        {
-          "id": "e5kThS18Kbg",
-          "title": "Vesper und Sakramentsandacht - Allerheiligen - 01. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/e5kThS18Kbg/mqdefault.jpg?v=6ade5db0",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T16:00:00Z"
         },
         {
           "id": "2XT7fMsQkvc",
@@ -82,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6htdZHx9BVc",
-          "title": "8am — All Saints",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6htdZHx9BVc/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T08:00:00Z"
+          "id": "c_sqsxQkycA",
+          "title": "Sunday, 1st November 2026: Feast of All Saints",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/c_sqsxQkycA/mqdefault.jpg?v=6ae668da",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "MKZHB5nPxsA",
-          "title": "9:30am — All Saints",
+          "id": "12wA4ARrLWE",
+          "title": "11am — All Saints",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/MKZHB5nPxsA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T09:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/12wA4ARrLWE/mqdefault.jpg?v=8",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5C93nq57oqM",
@@ -105,26 +87,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/5C93nq57oqM/mqdefault.jpg?v=6ade203a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T10:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "c_sqsxQkycA",
-          "title": "Sunday, 1st November 2026: Feast of All Saints",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/c_sqsxQkycA/mqdefault.jpg?v=6ae668da",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T10:30:00Z"
-        },
-        {
-          "id": "12wA4ARrLWE",
-          "title": "11am — All Saints",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/12wA4ARrLWE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T11:00:00Z"
+          "id": "bKyHkHr8r0s",
+          "title": "Missa rezada - Festa de Todos os Santos -2026",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/bKyHkHr8r0s/mqdefault.jpg?v=6ae71300",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "20xIvC9jN6w",
