@@ -1,35 +1,26 @@
 {
-  "lastUpdated": "2026-11-01T17:35:05.697Z",
+  "lastUpdated": "2026-11-01T21:38:30.878Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "m2tGRARGNNk",
-          "title": "Feast Of All Saints - The Immaculata Live Stream",
-          "channel": "The Immaculata",
-          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
-          "thumbnail": "https://i.ytimg.com/vi/m2tGRARGNNk/mqdefault.jpg?v=6ae74ac8",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "C4bFwuLIrC8",
-          "title": "Feast of All Saints, November 1, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/C4bFwuLIrC8/mqdefault.jpg?v=16",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "2XT7fMsQkvc",
-          "title": "All Saints Day | November 1st",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/2XT7fMsQkvc/mqdefault.jpg?v=6ae628ac",
+          "id": "UKkXGW4Bugw",
+          "title": "Hl. Messe - Allerseelen - 02. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/UKkXGW4Bugw/mqdefault.jpg?v=6ae78fd4",
           "status": "upcoming",
-          "scheduledTime": "2026-11-01T18:00:00Z"
+          "scheduledTime": "2026-11-02T05:45:00Z"
+        },
+        {
+          "id": "GaD-HqhWpFU",
+          "title": "Commemoration of All Souls",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/GaD-HqhWpFU/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T07:15:00Z"
         },
         {
           "id": "A-K6AgFoMh0",
@@ -48,84 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/IW7K79IjbS8/mqdefault.jpg?v=6ae5a23a",
           "status": "upcoming",
           "scheduledTime": "2026-11-02T17:30:00Z"
+        },
+        {
+          "id": "atUSgNUF4B8",
+          "title": "Amt - Allerseelen - 02. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/atUSgNUF4B8/mqdefault.jpg?v=6ae79001",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T18:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "MBPw45fMM90",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/MBPw45fMM90/mqdefault.jpg?v=14",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YX9gowJpo3c",
-          "title": "ALL SAINTS, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/YX9gowJpo3c/mqdefault.jpg?v=6ad4debc",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Dod-GddgqD8",
-          "title": "Sunday 11:15 AM Sung Mass 2026-11-01",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/Dod-GddgqD8/mqdefault.jpg?v=6ade392f",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "EMY4MaelEjM",
-          "title": "The Feast of All Saints / La Toussaint",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/EMY4MaelEjM/mqdefault.jpg?v=1b",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "JJw18Y28SLg",
-          "title": "Santa Misa Dominical. 1 de noviembre 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/JJw18Y28SLg/mqdefault.jpg?v=2c",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "vrXCp97BRHw",
-          "title": "Vespers and Benediction - All Saints",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/vrXCp97BRHw/mqdefault.jpg?v=7",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "wUpZomb9nTA",
-          "title": "Secondes vêpres de la fête de la Toussaint & vêpres des morts - O QUAM GLORIOSUM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/wUpZomb9nTA/mqdefault.jpg?v=6ae68428",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "SxQhhmA3zQU",
-          "title": "For His Mercy is Without Measure",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/SxQhhmA3zQU/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-01T19:00:00Z"
-        },
         {
           "id": "2NnH2Oj0Vt8",
           "title": "Monday 6 AM (3 Masses) for the Faithful Departed",
@@ -152,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/gsEMfTZUW3E/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-02T12:58:00Z"
+        },
+        {
+          "id": "49mltWRz2LA",
+          "title": "Monday 2nd November 2026: All Souls Day - Requiem Mass",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/49mltWRz2LA/mqdefault.jpg?v=6ae66d0a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T18:00:00Z"
+        },
+        {
+          "id": "1MjNj4koPuI",
+          "title": "Solemn Requiem Mass for All Souls",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1MjNj4koPuI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T18:00:00Z"
         }
       ]
     }
