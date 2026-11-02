@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-11-02T01:12:52.738Z",
+  "lastUpdated": "2026-11-02T07:55:50.867Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "UKkXGW4Bugw",
-          "title": "Hl. Messe - Allerseelen - 02. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/UKkXGW4Bugw/mqdefault.jpg?v=6ae78fd4",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T05:45:00Z"
-        },
-        {
           "id": "GaD-HqhWpFU",
           "title": "Commemoration of All Souls",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/GaD-HqhWpFU/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T07:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/GaD-HqhWpFU/mqdefault.jpg?v=9",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "A-K6AgFoMh0",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/EpY15rXH2JM/mqdefault.jpg?v=6ae54645",
           "status": "upcoming",
           "scheduledTime": "2026-11-02T23:00:00Z"
+        },
+        {
+          "id": "fErw6K2b5pQ",
+          "title": "Hl. Messe - hl. Idda - 03. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fErw6K2b5pQ/mqdefault.jpg?v=6ae7902d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T06:15:00Z"
         }
       ]
     },
