@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-11-02T07:55:50.867Z",
+  "lastUpdated": "2026-11-02T17:46:52.876Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GaD-HqhWpFU",
-          "title": "Commemoration of All Souls",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/GaD-HqhWpFU/mqdefault.jpg?v=9",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "A-K6AgFoMh0",
-          "title": "Mon. Nov. 2, 2026   -   All Souls Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/A-K6AgFoMh0/mqdefault.jpg?v=6ae543d8",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T12:15:00Z"
-        },
         {
           "id": "IW7K79IjbS8",
           "title": "FSSPX Antwerpen - 02/11  ALLERZIELEN",
           "channel": "FSSPX Antwerpen",
           "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
           "thumbnail": "https://i.ytimg.com/vi/IW7K79IjbS8/mqdefault.jpg?v=6ae5a23a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T17:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "atUSgNUF4B8",
@@ -57,6 +39,42 @@
           "thumbnail": "https://i.ytimg.com/vi/fErw6K2b5pQ/mqdefault.jpg?v=6ae7902d",
           "status": "upcoming",
           "scheduledTime": "2026-11-03T06:15:00Z"
+        },
+        {
+          "id": "O9uxR_PtJDo",
+          "title": "Understanding The Crisis in the Church - Lecture 15 - ....",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/O9uxR_PtJDo/mqdefault.jpg?v=6ae8bbfb",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T11:45:00Z"
+        },
+        {
+          "id": "KyWElyMnUnE",
+          "title": "Tue. Nov. 3, 2026   -   Ferial Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/KyWElyMnUnE/mqdefault.jpg?v=6ae54735",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T12:15:00Z"
+        },
+        {
+          "id": "IE_-FNXJdo0",
+          "title": "Rosenkranz und hl. Messe - hl. Idda - 03. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/IE_-FNXJdo0/mqdefault.jpg?v=6ae79045",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T17:00:00Z"
+        },
+        {
+          "id": "HLAxtSPRbl8",
+          "title": "FSSPX Antwerpen - 03/11  H. HUBERTUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/HLAxtSPRbl8/mqdefault.jpg?v=6ae5a286",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T17:30:00Z"
         }
       ]
     },
@@ -64,31 +82,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2NnH2Oj0Vt8",
-          "title": "Monday 6 AM (3 Masses) for the Faithful Departed",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/2NnH2Oj0Vt8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T10:58:00Z"
-        },
-        {
-          "id": "cUq4BXE2Kfg",
-          "title": "Two Live Stream Holy Masses from Cleveland USA (The Commemoration of All the Faithful Departed)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/cUq4BXE2Kfg/mqdefault.jpg?v=6ae77358",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T12:30:00Z"
-        },
-        {
-          "id": "gsEMfTZUW3E",
-          "title": "Monday 8 AM (3 Masses) for the Faithful Departed",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/gsEMfTZUW3E/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T12:58:00Z"
+          "id": "lAJu1Jy-YMk",
+          "title": "12pm Mass. Commemoration of All the Faithful Departed (All Souls Day). I. Monday, November 2, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/lAJu1Jy-YMk/mqdefault.jpg?v=6ad25813",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "1MjNj4koPuI",
@@ -100,8 +100,17 @@
           "scheduledTime": "2026-11-02T18:00:00Z"
         },
         {
+          "id": "YpR7nYU2dFs",
+          "title": "Requiem solennel pour tous les Fidèles défunts - REQUIEM ÆTERNAM",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YpR7nYU2dFs/mqdefault.jpg?v=6ae84ff2",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T18:00:00Z"
+        },
+        {
           "id": "EFiogs_RPb4",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (Commemoration of All the Faithful Departed)",
+          "title": "Live Stream Holy Mass (High) from Cleveland (Commemoration of All the Faithful Departed, 1st Mass)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/EFiogs_RPb4/mqdefault.jpg?v=6ae7759c",
