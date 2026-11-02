@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T21:38:30.878Z",
+  "lastUpdated": "2026-11-02T01:12:52.738Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/atUSgNUF4B8/mqdefault.jpg?v=6ae79001",
           "status": "upcoming",
           "scheduledTime": "2026-11-02T18:30:00Z"
+        },
+        {
+          "id": "EpY15rXH2JM",
+          "title": "Mon. Nov. 2, 2026   -   All Souls Day",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/EpY15rXH2JM/mqdefault.jpg?v=6ae54645",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T23:00:00Z"
         }
       ]
     },
@@ -65,7 +74,7 @@
         },
         {
           "id": "cUq4BXE2Kfg",
-          "title": "Two Live Stream Holy Masses (Low) from Cleveland USA (The Commemoration of All Souls)",
+          "title": "Two Live Stream Holy Masses from Cleveland USA (The Commemoration of All the Faithful Departed)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/cUq4BXE2Kfg/mqdefault.jpg?v=6ae77358",
@@ -82,15 +91,6 @@
           "scheduledTime": "2026-11-02T12:58:00Z"
         },
         {
-          "id": "49mltWRz2LA",
-          "title": "Monday 2nd November 2026: All Souls Day - Requiem Mass",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/49mltWRz2LA/mqdefault.jpg?v=6ae66d0a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T18:00:00Z"
-        },
-        {
           "id": "1MjNj4koPuI",
           "title": "Solemn Requiem Mass for All Souls",
           "channel": "Oxford Oratory",
@@ -98,6 +98,24 @@
           "thumbnail": "https://i.ytimg.com/vi/1MjNj4koPuI/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-02T18:00:00Z"
+        },
+        {
+          "id": "EFiogs_RPb4",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (Commemoration of All the Faithful Departed)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/EFiogs_RPb4/mqdefault.jpg?v=6ae7759c",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-02T23:30:00Z"
+        },
+        {
+          "id": "ZYEN15App-I",
+          "title": "ALL SOULS, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/ZYEN15App-I/mqdefault.jpg?v=6ad4df9f",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T00:00:00Z"
         }
       ]
     }
