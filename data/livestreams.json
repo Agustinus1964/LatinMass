@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-03T07:05:55.215Z",
+  "lastUpdated": "2026-11-03T15:23:50.920Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dyawGxXOKdE",
-          "title": "Feria: 23ʳᵈ Sunday after Pentecost",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/dyawGxXOKdE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T07:15:00Z"
-        },
-        {
-          "id": "O9uxR_PtJDo",
-          "title": "Understanding The Crisis in the Church - Lecture 15 - ....",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/O9uxR_PtJDo/mqdefault.jpg?v=6ae8bbfb",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T11:45:00Z"
-        },
-        {
-          "id": "KyWElyMnUnE",
-          "title": "Tue. Nov. 3, 2026   -   Ferial Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/KyWElyMnUnE/mqdefault.jpg?v=6ae54735",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T12:15:00Z"
-        },
         {
           "id": "IE_-FNXJdo0",
           "title": "Rosenkranz und hl. Messe - hl. Idda - 03. November 2026",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Qj3I_lw87ms/mqdefault.jpg?v=6ae5a2c4",
           "status": "upcoming",
           "scheduledTime": "2026-11-04T06:30:00Z"
+        },
+        {
+          "id": "apCIdisiukE",
+          "title": "Wed. Nov. 4, 2026   -   St. Charles Borromeo,   Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/apCIdisiukE/mqdefault.jpg?v=6ae54899",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-04T12:15:00Z"
         }
       ]
     },
