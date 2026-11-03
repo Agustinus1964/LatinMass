@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-02T17:46:52.876Z",
+  "lastUpdated": "2026-11-03T00:26:44.977Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IW7K79IjbS8",
-          "title": "FSSPX Antwerpen - 02/11  ALLERZIELEN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/IW7K79IjbS8/mqdefault.jpg?v=6ae5a23a",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "atUSgNUF4B8",
-          "title": "Amt - Allerseelen - 02. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/atUSgNUF4B8/mqdefault.jpg?v=6ae79001",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T18:30:00Z"
-        },
-        {
-          "id": "EpY15rXH2JM",
-          "title": "Mon. Nov. 2, 2026   -   All Souls Day",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/EpY15rXH2JM/mqdefault.jpg?v=6ae54645",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T23:00:00Z"
-        },
         {
           "id": "fErw6K2b5pQ",
           "title": "Hl. Messe - hl. Idda - 03. November 2026",
@@ -39,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fErw6K2b5pQ/mqdefault.jpg?v=6ae7902d",
           "status": "upcoming",
           "scheduledTime": "2026-11-03T06:15:00Z"
+        },
+        {
+          "id": "dyawGxXOKdE",
+          "title": "Feria: 23ʳᵈ Sunday after Pentecost",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/dyawGxXOKdE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T07:15:00Z"
         },
         {
           "id": "O9uxR_PtJDo",
@@ -82,40 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "lAJu1Jy-YMk",
-          "title": "12pm Mass. Commemoration of All the Faithful Departed (All Souls Day). I. Monday, November 2, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/lAJu1Jy-YMk/mqdefault.jpg?v=6ad25813",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "1MjNj4koPuI",
-          "title": "Solemn Requiem Mass for All Souls",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1MjNj4koPuI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T18:00:00Z"
-        },
-        {
-          "id": "YpR7nYU2dFs",
-          "title": "Requiem solennel pour tous les Fidèles défunts - REQUIEM ÆTERNAM",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/YpR7nYU2dFs/mqdefault.jpg?v=6ae84ff2",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T18:00:00Z"
-        },
-        {
           "id": "EFiogs_RPb4",
           "title": "Live Stream Holy Mass (High) from Cleveland (Commemoration of All the Faithful Departed, 1st Mass)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/EFiogs_RPb4/mqdefault.jpg?v=6ae7759c",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-02T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "ssIocxgs44A",
+          "title": "7pm Sung Mass. Commemoration of All the Faithful Departed/All Souls Day. I. Monday, November 2, 2026",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/ssIocxgs44A/mqdefault.jpg?v=6ad25966",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZYEN15App-I",
@@ -123,8 +87,53 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/ZYEN15App-I/mqdefault.jpg?v=6ad4df9f",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "I1s0MAxOldk",
+          "title": "7 PM Monday All Souls Day Sung Mass",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/I1s0MAxOldk/mqdefault.jpg?v=6",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SX-N6cIDmqM",
+          "title": "Commemoration of the Faithful Departed / Commémoraison de tous les fidèles défunts",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/SX-N6cIDmqM/mqdefault.jpg?v=1",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "8g1vxD4KA-s",
+          "title": "Santa Misa: Conmemoración de los fieles difuntos. 2 de noviembre 2026. 6:30 PM",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/8g1vxD4KA-s/mqdefault.jpg?v=1",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "q0_rGD47E3A",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/q0_rGD47E3A/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-03T00:00:00Z"
+          "scheduledTime": "2026-11-03T18:00:00Z"
+        },
+        {
+          "id": "9Z-yx8NZGfA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/9Z-yx8NZGfA/mqdefault.jpg?v=6ae0e6d7",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-03T18:00:00Z"
         }
       ]
     }
