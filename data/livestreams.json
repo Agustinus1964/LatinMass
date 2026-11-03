@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-03T15:23:50.920Z",
+  "lastUpdated": "2026-11-03T21:10:26.347Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "IE_-FNXJdo0",
-          "title": "Rosenkranz und hl. Messe - hl. Idda - 03. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/IE_-FNXJdo0/mqdefault.jpg?v=6ae79045",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T17:00:00Z"
-        },
-        {
-          "id": "HLAxtSPRbl8",
-          "title": "FSSPX Antwerpen - 03/11  H. HUBERTUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/HLAxtSPRbl8/mqdefault.jpg?v=6ae5a286",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T17:30:00Z"
-        },
-        {
-          "id": "i2ObmDFjP1w",
-          "title": "Compline - 11/3/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/i2ObmDFjP1w/mqdefault.jpg?v=6ae760a0",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-04T01:45:00Z"
-        },
         {
           "id": "dtR7TJ8otys",
           "title": "Hl. Messe - hl. Karl Borromäus - 04. November 2026",
@@ -50,6 +23,15 @@
           "scheduledTime": "2026-11-04T06:30:00Z"
         },
         {
+          "id": "dzGFFgEd2qk",
+          "title": "Saint Charles, bishop and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/dzGFFgEd2qk/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-04T07:15:00Z"
+        },
+        {
           "id": "apCIdisiukE",
           "title": "Wed. Nov. 4, 2026   -   St. Charles Borromeo,   Bishop and Confessor",
           "channel": "Transfiguration Church SSPX",
@@ -57,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/apCIdisiukE/mqdefault.jpg?v=6ae54899",
           "status": "upcoming",
           "scheduledTime": "2026-11-04T12:15:00Z"
+        },
+        {
+          "id": "9bsZu1G957s",
+          "title": "Rosenkranz und hl. Messe - hl. Karl Borromäus - 04. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/9bsZu1G957s/mqdefault.jpg?v=6ae790a7",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-04T17:00:00Z"
         }
       ]
     },
@@ -64,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "q0_rGD47E3A",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/q0_rGD47E3A/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T18:00:00Z"
+          "id": "fhYpzOppBck",
+          "title": "\"Mysterium Ecclesiae:\" Tema 4: Imágenes de la Iglesia en el Antiguo Testamento. P. Javier Ruíz Vel.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/fhYpzOppBck/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "9Z-yx8NZGfA",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/9Z-yx8NZGfA/mqdefault.jpg?v=6ae0e6d7",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-03T18:00:00Z"
+          "id": "UUrgZBUkqPY",
+          "title": "Terço e Missa Rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/UUrgZBUkqPY/mqdefault.jpg?v=6aea49e9",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WsXPXFEvT9Y",
@@ -89,6 +80,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WsXPXFEvT9Y/mqdefault.jpg?v=6ae936d8",
           "status": "upcoming",
           "scheduledTime": "2026-11-03T23:30:00Z"
+        },
+        {
+          "id": "Q2V2X5QZS9Y",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q2V2X5QZS9Y/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-04T18:00:00Z"
+        },
+        {
+          "id": "BscJRt9V480",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/BscJRt9V480/mqdefault.jpg?v=6ae23839",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-04T18:00:00Z"
         }
       ]
     }
