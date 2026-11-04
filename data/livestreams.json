@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-04T01:32:55.807Z",
+  "lastUpdated": "2026-11-04T08:33:04.366Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dtR7TJ8otys",
-          "title": "Hl. Messe - hl. Karl Borromäus - 04. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/dtR7TJ8otys/mqdefault.jpg?v=6ae79077",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-04T06:15:00Z"
-        },
-        {
-          "id": "Qj3I_lw87ms",
-          "title": "FSSPX Antwerpen - 04/11  H. CAROLUS BORROMEUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/Qj3I_lw87ms/mqdefault.jpg?v=6ae5a2c4",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-04T06:30:00Z"
-        },
-        {
-          "id": "dzGFFgEd2qk",
-          "title": "Saint Charles, bishop and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/dzGFFgEd2qk/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-04T07:15:00Z"
-        },
         {
           "id": "apCIdisiukE",
           "title": "Wed. Nov. 4, 2026   -   St. Charles Borromeo,   Bishop and Confessor",
@@ -48,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/9bsZu1G957s/mqdefault.jpg?v=6ae790a7",
           "status": "upcoming",
           "scheduledTime": "2026-11-04T17:00:00Z"
+        },
+        {
+          "id": "EkaJ-HbP8NM",
+          "title": "Hl. Messe - Reliquienfest - 05. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/EkaJ-HbP8NM/mqdefault.jpg?v=6ae790e2",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-05T06:15:00Z"
         }
       ]
     },
