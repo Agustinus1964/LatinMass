@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-06T04:56:17.849Z",
+  "lastUpdated": "2026-11-06T12:43:19.344Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "2blg-8LDuhs",
-          "title": "Hl. Messe - Herz-Jesu Freitag - 06. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/2blg-8LDuhs/mqdefault.jpg?v=6ae7917a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-06T06:15:00Z"
+          "id": "WGPzR0S43zY",
+          "title": "Sung Mass - Sacred Heart of Jesus - 11/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/WGPzR0S43zY/mqdefault.jpg?v=6ae75671",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "bV2mXzoW6z4",
@@ -19,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/bV2mXzoW6z4/mqdefault.jpg?v=6ae54b99",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-06T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sWwHl-XJG2U",
@@ -48,12 +48,48 @@
           "thumbnail": "https://i.ytimg.com/vi/pZVDxJidvfg/mqdefault.jpg?v=6ae791a9",
           "status": "upcoming",
           "scheduledTime": "2026-11-06T17:30:00Z"
+        },
+        {
+          "id": "fUFnrvfsT5U",
+          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fUFnrvfsT5U/mqdefault.jpg?v=6ae791f1",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T06:15:00Z"
+        },
+        {
+          "id": "U0fxj4ifhHw",
+          "title": "FSSPX Antwerpen - 07/11 Uitstelling v/h Allerheiligste Sacrament en gebedsstonde i/d geest v. Fatima",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/U0fxj4ifhHw/mqdefault.jpg?v=6ae5a416",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T07:15:00Z"
+        },
+        {
+          "id": "52jW__U2yms",
+          "title": "FSSPX Antwerpen - 07/11 H. WILLIBRORDUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/52jW__U2yms/mqdefault.jpg?v=6ae5a3ce",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T09:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Mo4EX9n0-3M",
+          "title": "First Friday: 7am Mass. Feria. IV. Daily Mass for the Dead. III. November 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Mo4EX9n0-3M/mqdefault.jpg?v=6ae0a42e",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "b0M2KHqYfn4",
           "title": "Friday",
@@ -80,6 +116,33 @@
           "thumbnail": "https://i.ytimg.com/vi/XE7YBXWD6uU/mqdefault.jpg?v=6aec8199",
           "status": "upcoming",
           "scheduledTime": "2026-11-06T23:30:00Z"
+        },
+        {
+          "id": "VdMObg4Km4I",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/VdMObg4Km4I/mqdefault.jpg?v=6ae5a725",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T08:30:00Z"
+        },
+        {
+          "id": "nc3YznA-vWk",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/nc3YznA-vWk/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T10:00:00Z"
+        },
+        {
+          "id": "y4c0AaHO8lE",
+          "title": "Solemn Requiem for Deceased Fathers and Brothers",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/y4c0AaHO8lE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T11:00:00Z"
         }
       ]
     }
