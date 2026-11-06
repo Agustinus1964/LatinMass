@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-11-06T19:49:22.526Z",
+  "lastUpdated": "2026-11-06T23:55:37.639Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "uLwBRNfr1Ow",
+          "title": "Holy Hour - 11/6/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/uLwBRNfr1Ow/mqdefault.jpg?v=6ae75e6a",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "fUFnrvfsT5U",
           "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. November 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fUFnrvfsT5U/mqdefault.jpg?v=6ae791f1",
           "status": "upcoming",
           "scheduledTime": "2026-11-07T06:15:00Z"
+        },
+        {
+          "id": "VjQG_RPfeyM",
+          "title": "The Blessed Virgin Mary on Saturday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/VjQG_RPfeyM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-07T07:30:00Z"
         },
         {
           "id": "KuWgV2lgvrA",
@@ -28,22 +46,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "PRlEFgs-Vlg",
-          "title": "Friday, 6 November 2026 - First Friday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/PRlEFgs-Vlg/mqdefault.jpg?v=6ae7b31a",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "XE7YBXWD6uU",
           "title": "Live Stream Holy Mass from Cleveland (1st Friday—Votive Mass of the Most Sacred Heart of Jesus)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/XE7YBXWD6uU/mqdefault.jpg?v=6aec8199",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-06T23:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Wxg6UqQ-dJc",
+          "title": "First Friday: 6pm Mass & Holy Hour. Feria. IV. Daily Mass for the Dead. III. November 6, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Wxg6UqQ-dJc/mqdefault.jpg?v=6ae0a475",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "L8onJtc_Mlo",
+          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 11/06/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/L8onJtc_Mlo/mqdefault.jpg",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "VdMObg4Km4I",
