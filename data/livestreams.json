@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-11-07T04:38:04.136Z",
+  "lastUpdated": "2026-11-07T11:28:06.214Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fUFnrvfsT5U",
-          "title": "Hl. Messe - Herz-Mariä Sühnesamstag - 07. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/fUFnrvfsT5U/mqdefault.jpg?v=6ae791f1",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T06:15:00Z"
-        },
-        {
-          "id": "VjQG_RPfeyM",
-          "title": "The Blessed Virgin Mary on Saturday",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/VjQG_RPfeyM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T07:30:00Z"
-        },
         {
           "id": "KuWgV2lgvrA",
           "title": "Sat. Nov. 7, 2026    -    Blessed Virgin Mary on Saturday        (First Saturday)",
@@ -30,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/KuWgV2lgvrA/mqdefault.jpg?v=6ae54cee",
           "status": "upcoming",
           "scheduledTime": "2026-11-07T14:00:00Z"
+        },
+        {
+          "id": "3Xh-bxOS66Y",
+          "title": "Amt - 24. Sonntag nach Pfingsten - 08. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/3Xh-bxOS66Y/mqdefault.jpg?v=6ae79240",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T08:30:00Z"
+        },
+        {
+          "id": "k5TgpUaP16E",
+          "title": "XXIV Domenica dopo Pentecoste (V dopo l'Epifania) - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/k5TgpUaP16E/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T09:25:00Z"
         }
       ]
     },
@@ -37,31 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "VdMObg4Km4I",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/VdMObg4Km4I/mqdefault.jpg?v=6ae5a725",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T08:30:00Z"
-        },
-        {
-          "id": "nc3YznA-vWk",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/nc3YznA-vWk/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T10:00:00Z"
+          "id": "iYYqiaYcrec",
+          "title": "Saturday, 7 November 2026 - First Saturday",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/iYYqiaYcrec/mqdefault.jpg?v=6ae7b344",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "y4c0AaHO8lE",
           "title": "Solemn Requiem for Deceased Fathers and Brothers",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/y4c0AaHO8lE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T11:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/y4c0AaHO8lE/mqdefault.jpg?v=7",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "T9XeiMMRRtY",
@@ -71,6 +62,42 @@
           "thumbnail": "https://i.ytimg.com/vi/T9XeiMMRRtY/mqdefault.jpg?v=6aee9b92",
           "status": "upcoming",
           "scheduledTime": "2026-11-07T14:00:00Z"
+        },
+        {
+          "id": "tji2qxSIGB8",
+          "title": "8am — 5th Sunday remaining after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/tji2qxSIGB8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T08:00:00Z"
+        },
+        {
+          "id": "NmnCxeVTL3I",
+          "title": "9:30am — 32nd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NmnCxeVTL3I/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T09:30:00Z"
+        },
+        {
+          "id": "qBrYqCGSDxM",
+          "title": "Sainte messe du XXIVème dimanche après la Pentecôte",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/qBrYqCGSDxM/mqdefault.jpg?v=6ae8de8d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T10:00:00Z"
+        },
+        {
+          "id": "ejAfAKZXlT0",
+          "title": "11:15am — Solemn Requiem for Remembrance Sunday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/ejAfAKZXlT0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T11:15:00Z"
         }
       ]
     }
