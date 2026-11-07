@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-11-07T11:28:06.214Z",
+  "lastUpdated": "2026-11-07T16:57:38.779Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "KuWgV2lgvrA",
-          "title": "Sat. Nov. 7, 2026    -    Blessed Virgin Mary on Saturday        (First Saturday)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/KuWgV2lgvrA/mqdefault.jpg?v=6ae54cee",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T14:00:00Z"
-        },
         {
           "id": "3Xh-bxOS66Y",
           "title": "Amt - 24. Sonntag nach Pfingsten - 08. November 2026",
@@ -30,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/k5TgpUaP16E/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-08T09:25:00Z"
+        },
+        {
+          "id": "e6hN2ubv0uY",
+          "title": "Sun. Nov. 8, 2026    -    24th Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/e6hN2ubv0uY/mqdefault.jpg?v=6ae54e0f",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T15:00:00Z"
+        },
+        {
+          "id": "2RUHdXjv-JI",
+          "title": "Vesper und Sakramentsandacht - 24. Sonntag nach Pfingsten - 08. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/2RUHdXjv-JI/mqdefault.jpg?v=6ae7926d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T16:30:00Z"
         }
       ]
     },
@@ -37,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "iYYqiaYcrec",
-          "title": "Saturday, 7 November 2026 - First Saturday",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/iYYqiaYcrec/mqdefault.jpg?v=6ae7b344",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "y4c0AaHO8lE",
-          "title": "Solemn Requiem for Deceased Fathers and Brothers",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/y4c0AaHO8lE/mqdefault.jpg?v=7",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "T9XeiMMRRtY",
-          "title": "Live Stream Holy Mass from Cleveland (1st Saturday—The Immaculate Heart of the Blessed Virgin Mary)",
+          "id": "VSpcmbxyzZ0",
+          "title": "Live Stream Holy Mass (Solemn) from Cleveland (The Immaculate Heart of the Blessed Virgin Mary)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/T9XeiMMRRtY/mqdefault.jpg?v=6aee9b92",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-07T14:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/VSpcmbxyzZ0/mqdefault.jpg?v=6aef38f0",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "tji2qxSIGB8",
@@ -98,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ejAfAKZXlT0/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-08T11:15:00Z"
+        },
+        {
+          "id": "86o955ABcdA",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/86o955ABcdA/mqdefault.jpg?v=6ae75ed7",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T15:45:00Z"
+        },
+        {
+          "id": "W5U2eS6EWQY",
+          "title": "FIFTH SUNDAY AFTER EPIPHANY (RESUMED), 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/W5U2eS6EWQY/mqdefault.jpg?v=6ae8ddfb",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T16:30:00Z"
         }
       ]
     }
