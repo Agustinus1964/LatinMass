@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-11-07T16:57:38.779Z",
+  "lastUpdated": "2026-11-07T20:42:40.823Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "3Xh-bxOS66Y",
-          "title": "Amt - 24. Sonntag nach Pfingsten - 08. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/3Xh-bxOS66Y/mqdefault.jpg?v=6ae79240",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T08:30:00Z"
-        },
         {
           "id": "k5TgpUaP16E",
           "title": "XXIV Domenica dopo Pentecoste (V dopo l'Epifania) - Santa Messa cantata - FSSPX Italia",
@@ -23,15 +14,6 @@
           "scheduledTime": "2026-11-08T09:25:00Z"
         },
         {
-          "id": "e6hN2ubv0uY",
-          "title": "Sun. Nov. 8, 2026    -    24th Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/e6hN2ubv0uY/mqdefault.jpg?v=6ae54e0f",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T15:00:00Z"
-        },
-        {
           "id": "2RUHdXjv-JI",
           "title": "Vesper und Sakramentsandacht - 24. Sonntag nach Pfingsten - 08. November 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
@@ -39,21 +21,21 @@
           "thumbnail": "https://i.ytimg.com/vi/2RUHdXjv-JI/mqdefault.jpg?v=6ae7926d",
           "status": "upcoming",
           "scheduledTime": "2026-11-08T16:30:00Z"
+        },
+        {
+          "id": "0E-3Z2Hv6bc",
+          "title": "V Sunday which remained after Epiphany | November 8th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/0E-3Z2Hv6bc/mqdefault.jpg?v=6aeeb6df",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T18:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "VSpcmbxyzZ0",
-          "title": "Live Stream Holy Mass (Solemn) from Cleveland (The Immaculate Heart of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/VSpcmbxyzZ0/mqdefault.jpg?v=6aef38f0",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "tji2qxSIGB8",
           "title": "8am — 5th Sunday remaining after Epiphany",
@@ -107,6 +89,24 @@
           "thumbnail": "https://i.ytimg.com/vi/W5U2eS6EWQY/mqdefault.jpg?v=6ae8ddfb",
           "status": "upcoming",
           "scheduledTime": "2026-11-08T16:30:00Z"
+        },
+        {
+          "id": "vTcU_5cbDkM",
+          "title": "Vespers and Benediction - 5th Sunday remaining after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/vTcU_5cbDkM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T17:00:00Z"
+        },
+        {
+          "id": "p5BJqaPcTHQ",
+          "title": "Sunday 2:00 PM Catholic Military Mass 11/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/p5BJqaPcTHQ/mqdefault.jpg?v=6aedf06e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-08T18:58:00Z"
         }
       ]
     }
