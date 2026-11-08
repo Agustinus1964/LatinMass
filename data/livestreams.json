@@ -1,17 +1,35 @@
 {
-  "lastUpdated": "2026-11-08T18:37:46.358Z",
+  "lastUpdated": "2026-11-08T22:38:19.744Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "0E-3Z2Hv6bc",
-          "title": "V Sunday which remained after Epiphany | November 8th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/0E-3Z2Hv6bc/mqdefault.jpg?v=6aeeb6df",
+          "id": "LDVvmmhGP3E",
+          "title": "Simple II Vespers - 24th Sunday after Pentecost - 11/8/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/LDVvmmhGP3E/mqdefault.jpg?v=6ae7604a",
           "status": "live",
           "scheduledTime": null
+        },
+        {
+          "id": "b37M2shSSb0",
+          "title": "Hl. Messe - Weihefest der Lateranbasilika - 09. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/b37M2shSSb0/mqdefault.jpg?v=6af0cb0c",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-09T06:15:00Z"
+        },
+        {
+          "id": "713QiWDRWdc",
+          "title": "The Dedication of the Archbasilica of the Most Holy Saviour",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/713QiWDRWdc/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-09T07:15:00Z"
         },
         {
           "id": "JODQQEdQmZ8",
@@ -30,39 +48,21 @@
           "thumbnail": "https://i.ytimg.com/vi/HggPyAorPWQ/mqdefault.jpg?v=6aef6abd",
           "status": "upcoming",
           "scheduledTime": "2026-11-09T12:15:00Z"
+        },
+        {
+          "id": "jS3RJvIAJ1k",
+          "title": "Rosenkranz und hl. Messe - Weihefest der Lateranbasilika - 09. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/jS3RJvIAJ1k/mqdefault.jpg?v=6af0cb29",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-09T17:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "lZIeRngz2uA",
-          "title": "Santa Misa Dominical. 8 de noviembre 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/lZIeRngz2uA/mqdefault.jpg?v=2",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "p5BJqaPcTHQ",
-          "title": "Sunday 2:00 PM Catholic Military Mass 11/08/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/p5BJqaPcTHQ/mqdefault.jpg?v=6aedf06e",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T18:58:00Z"
-        },
-        {
-          "id": "mneaUg3iNXk",
-          "title": "Without Charity, What Will the Harvest Bring?",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/mneaUg3iNXk/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T19:00:00Z"
-        },
         {
           "id": "LrBVLJi_wBI",
           "title": "Live Stream Holy Mass from Cleveland USA (Dedication of the Archbasilica of the Most Holy Savior)",
