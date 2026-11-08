@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-11-08T06:27:38.422Z",
+  "lastUpdated": "2026-11-08T13:45:32.083Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "k5TgpUaP16E",
-          "title": "XXIV Domenica dopo Pentecoste (V dopo l'Epifania) - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/k5TgpUaP16E/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T09:25:00Z"
-        },
-        {
-          "id": "2RUHdXjv-JI",
-          "title": "Vesper und Sakramentsandacht - 24. Sonntag nach Pfingsten - 08. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/2RUHdXjv-JI/mqdefault.jpg?v=6ae7926d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T16:30:00Z"
-        },
         {
           "id": "0E-3Z2Hv6bc",
           "title": "V Sunday which remained after Epiphany | November 8th",
@@ -30,6 +12,24 @@
           "thumbnail": "https://i.ytimg.com/vi/0E-3Z2Hv6bc/mqdefault.jpg?v=6aeeb6df",
           "status": "upcoming",
           "scheduledTime": "2026-11-08T18:00:00Z"
+        },
+        {
+          "id": "JODQQEdQmZ8",
+          "title": "Sung Mass -  Dedication of the Archbasilica of the Holy Savior - 11/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/JODQQEdQmZ8/mqdefault.jpg?v=6af06a8a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-09T11:50:00Z"
+        },
+        {
+          "id": "HggPyAorPWQ",
+          "title": "Mon. Nov. 9, 2026   -   Dedication of the Archbasilica of the Holy Savior",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/HggPyAorPWQ/mqdefault.jpg?v=6aef6abd",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-09T12:15:00Z"
         }
       ]
     },
@@ -37,49 +37,49 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "tji2qxSIGB8",
-          "title": "8am — 5th Sunday remaining after Epiphany",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/tji2qxSIGB8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T08:00:00Z"
-        },
-        {
-          "id": "NmnCxeVTL3I",
-          "title": "9:30am — 32nd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/NmnCxeVTL3I/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T09:30:00Z"
-        },
-        {
-          "id": "qBrYqCGSDxM",
-          "title": "Sainte messe du XXIVème dimanche après la Pentecôte",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/qBrYqCGSDxM/mqdefault.jpg?v=6aefbeeb",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T10:00:00Z"
-        },
-        {
-          "id": "ejAfAKZXlT0",
-          "title": "11:15am — Solemn Requiem for Remembrance Sunday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/ejAfAKZXlT0/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T11:15:00Z"
-        },
-        {
           "id": "yN88M4l5wsE",
           "title": "Live Stream Holy Mass from Cleveland USA (The Resumed Fifth Sunday after Epiphany)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/yN88M4l5wsE/mqdefault.jpg?v=6aefe78e",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-08T13:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "_Ao7_sbyeXA",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/_Ao7_sbyeXA/mqdefault.jpg?v=3",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "GAmxWqosDNw",
+          "title": "7am Low Mass, Rosary, 8:30am Low Mass. 5th Resumed Sunday after Epiphany, 3rd Sunday of November.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/GAmxWqosDNw/mqdefault.jpg?v=6ae0a5ae",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Y6qJTUXYMPc",
+          "title": "Sunday 8:45 AM Catholic Mass for 11/08/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/Y6qJTUXYMPc/mqdefault.jpg?v=6ae753d1",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "aZyLksW15Lk",
+          "title": "Missa cantada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/aZyLksW15Lk/mqdefault.jpg?v=6af06abb",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "86o955ABcdA",
@@ -104,7 +104,7 @@
           "title": "Premières vêpres de la fête de la Dédicace de l'Archibasilique du Latran - SANCTIFICAVIT",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/YAPCmDd26xQ/mqdefault.jpg?v=6aefc772",
+          "thumbnail": "https://i.ytimg.com/vi/YAPCmDd26xQ/mqdefault.jpg?v=6af05196",
           "status": "upcoming",
           "scheduledTime": "2026-11-08T16:45:00Z"
         },
