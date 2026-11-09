@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-11-09T10:02:24.379Z",
+  "lastUpdated": "2026-11-09T20:55:31.203Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "JODQQEdQmZ8",
-          "title": "Sung Mass -  Dedication of the Archbasilica of the Holy Savior - 11/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JODQQEdQmZ8/mqdefault.jpg?v=6af06a8a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-09T11:50:00Z"
-        },
-        {
-          "id": "HggPyAorPWQ",
-          "title": "Mon. Nov. 9, 2026   -   Dedication of the Archbasilica of the Holy Savior",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/HggPyAorPWQ/mqdefault.jpg?v=6aef6abd",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-09T12:15:00Z"
-        },
-        {
-          "id": "jS3RJvIAJ1k",
-          "title": "Rosenkranz und hl. Messe - Weihefest der Lateranbasilika - 09. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/jS3RJvIAJ1k/mqdefault.jpg?v=6af0cb29",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-09T17:00:00Z"
-        },
-        {
-          "id": "JyFZesvVVEs",
-          "title": "Benediction - 11/9/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/JyFZesvVVEs/mqdefault.jpg?v=6af06ab4",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-10T00:00:00Z"
+          "id": "aeLsPsBF4js",
+          "title": "Matrimony of Joseph and Laura McCall",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/aeLsPsBF4js/mqdefault.jpg?v=c",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "3xmSZ1TOMyk",
@@ -48,6 +21,33 @@
           "thumbnail": "https://i.ytimg.com/vi/3xmSZ1TOMyk/mqdefault.jpg?v=6af0cb52",
           "status": "upcoming",
           "scheduledTime": "2026-11-10T06:15:00Z"
+        },
+        {
+          "id": "2WtL6iulCPA",
+          "title": "Saint Andrew Avellino, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/2WtL6iulCPA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-10T07:15:00Z"
+        },
+        {
+          "id": "Vwy0ktFJ2oQ",
+          "title": "Tue. Nov. 10, 2026   -   St. Andrew Avellino,     Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/Vwy0ktFJ2oQ/mqdefault.jpg?v=6aef77af",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-10T12:15:00Z"
+        },
+        {
+          "id": "WRLCliOWDlM",
+          "title": "Rosenkranz und hl. Messe - hl. Andreas Avelino - 10. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/WRLCliOWDlM/mqdefault.jpg?v=6af0cb6f",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-10T17:00:00Z"
         }
       ]
     },
@@ -55,40 +55,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "ojE6Q2KBNbM",
-          "title": "Laudes e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ojE6Q2KBNbM/mqdefault.jpg?v=6af18acb",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "LrBVLJi_wBI",
-          "title": "Live Stream Holy Mass from Cleveland USA (Dedication of the Archbasilica of the Most Holy Savior)",
+          "id": "ywc143-xJJg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Andrew Avellino, Confessor)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/LrBVLJi_wBI/mqdefault.jpg?v=6af08328",
+          "thumbnail": "https://i.ytimg.com/vi/ywc143-xJJg/mqdefault.jpg?v=6af1c72c",
           "status": "upcoming",
-          "scheduledTime": "2026-11-09T12:30:00Z"
+          "scheduledTime": "2026-11-10T12:30:00Z"
         },
         {
-          "id": "si65S_iniDU",
-          "title": "Monday",
+          "id": "KBF2wwqNtdw",
+          "title": "Tuesday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/si65S_iniDU/mqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/KBF2wwqNtdw/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-09T18:00:00Z"
+          "scheduledTime": "2026-11-10T18:00:00Z"
         },
         {
-          "id": "BsCYm1HA_7w",
+          "id": "TSrmLL6fefE",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/BsCYm1HA_7w/mqdefault.jpg?v=6ae8d0d6",
+          "thumbnail": "https://i.ytimg.com/vi/TSrmLL6fefE/mqdefault.jpg?v=6aea212f",
           "status": "upcoming",
-          "scheduledTime": "2026-11-09T18:00:00Z"
+          "scheduledTime": "2026-11-10T18:00:00Z"
         }
       ]
     }
