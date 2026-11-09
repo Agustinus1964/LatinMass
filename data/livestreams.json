@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-11-08T22:38:19.744Z",
+  "lastUpdated": "2026-11-09T02:20:00.948Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "LDVvmmhGP3E",
-          "title": "Simple II Vespers - 24th Sunday after Pentecost - 11/8/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/LDVvmmhGP3E/mqdefault.jpg?v=6ae7604a",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "b37M2shSSb0",
           "title": "Hl. Messe - Weihefest der Lateranbasilika - 09. November 2026",
@@ -57,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/jS3RJvIAJ1k/mqdefault.jpg?v=6af0cb29",
           "status": "upcoming",
           "scheduledTime": "2026-11-09T17:00:00Z"
+        },
+        {
+          "id": "JyFZesvVVEs",
+          "title": "Benediction - 11/9/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/JyFZesvVVEs/mqdefault.jpg?v=6af06ab4",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-10T00:00:00Z"
         }
       ]
     },
