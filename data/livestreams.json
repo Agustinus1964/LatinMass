@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T18:46:17.864Z",
+  "lastUpdated": "2026-11-10T23:53:23.226Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -12,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/0U-RBX2eZA8/mqdefault.jpg?v=6af0cb94",
           "status": "upcoming",
           "scheduledTime": "2026-11-11T06:15:00Z"
+        },
+        {
+          "id": "flpZT3-uOSg",
+          "title": "Saint Martin, bishop and confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/flpZT3-uOSg/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-11T07:15:00Z"
         },
         {
           "id": "ce3gJj1cbZM",
@@ -36,24 +45,6 @@
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NwyMFlCsEOg",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/NwyMFlCsEOg/mqdefault.jpg?v=a",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "TSrmLL6fefE",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/TSrmLL6fefE/mqdefault.jpg?v=6aea212f",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "D40e3aUv944",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Martin of Tours, Bishop and Confessor)",
