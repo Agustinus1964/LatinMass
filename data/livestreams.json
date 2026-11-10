@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-10T11:29:37.040Z",
+  "lastUpdated": "2026-11-10T18:46:17.864Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "XReGC9M69xA",
-          "title": "Understanding The Crisis in the Church - Lecture 16 - Introduction to Ecumenism",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/XReGC9M69xA/mqdefault.jpg?v=6af2eeee",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-10T11:45:00Z"
-        },
-        {
-          "id": "Vwy0ktFJ2oQ",
-          "title": "Tue. Nov. 10, 2026   -   St. Andrew Avellino,     Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/Vwy0ktFJ2oQ/mqdefault.jpg?v=6aef77af",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-10T12:15:00Z"
-        },
-        {
-          "id": "WRLCliOWDlM",
-          "title": "Rosenkranz und hl. Messe - hl. Andreas Avelino - 10. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/WRLCliOWDlM/mqdefault.jpg?v=6af0cb6f",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-10T17:00:00Z"
-        },
         {
           "id": "0U-RBX2eZA8",
           "title": "Hl. Messe - Martin von Tours - 11. November 2026",
@@ -41,13 +14,22 @@
           "scheduledTime": "2026-11-11T06:15:00Z"
         },
         {
-          "id": "EC5W338Ehoo",
-          "title": "FSSPX Antwerpen - 11/11  H. MARTINUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/EC5W338Ehoo/mqdefault.jpg?v=6aedf47f",
+          "id": "ce3gJj1cbZM",
+          "title": "Wed. Nov.11,  2026   -   St. Martin of Tours,    Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/ce3gJj1cbZM/mqdefault.jpg?v=6aef6d36",
           "status": "upcoming",
-          "scheduledTime": "2026-11-11T06:30:00Z"
+          "scheduledTime": "2026-11-11T12:15:00Z"
+        },
+        {
+          "id": "QElc3oVSg5A",
+          "title": "Rosenkranz und hl. Messe - Martin von Tours - 11. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QElc3oVSg5A/mqdefault.jpg?v=6af0cbad",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-11T17:00:00Z"
         }
       ]
     },
@@ -55,31 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2ByrCiyKBiE",
-          "title": "Tuesday 6 AM Sung Mass for 11/10/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/2ByrCiyKBiE/mqdefault.jpg?v=6ae9ca49",
+          "id": "NwyMFlCsEOg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/NwyMFlCsEOg/mqdefault.jpg?v=a",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "ywc143-xJJg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Andrew Avellino, Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ywc143-xJJg/mqdefault.jpg?v=6af1c72c",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-10T12:30:00Z"
-        },
-        {
-          "id": "KBF2wwqNtdw",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/KBF2wwqNtdw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-10T18:00:00Z"
         },
         {
           "id": "TSrmLL6fefE",
@@ -87,8 +51,35 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/TSrmLL6fefE/mqdefault.jpg?v=6aea212f",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "D40e3aUv944",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Martin of Tours, Bishop and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/D40e3aUv944/mqdefault.jpg?v=6af318d7",
           "status": "upcoming",
-          "scheduledTime": "2026-11-10T18:00:00Z"
+          "scheduledTime": "2026-11-11T12:30:00Z"
+        },
+        {
+          "id": "kCPYryjplm8",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/kCPYryjplm8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-11T18:00:00Z"
+        },
+        {
+          "id": "pgAtXcHUTqM",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/pgAtXcHUTqM/mqdefault.jpg?v=6aeb72b1",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-11T18:00:00Z"
         }
       ]
     }
