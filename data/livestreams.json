@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-11-11T04:31:49.978Z",
+  "lastUpdated": "2026-11-11T12:23:36.980Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "0U-RBX2eZA8",
-          "title": "Hl. Messe - Martin von Tours - 11. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/0U-RBX2eZA8/mqdefault.jpg?v=6af0cb94",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-11T06:15:00Z"
-        },
-        {
-          "id": "flpZT3-uOSg",
-          "title": "Saint Martin, bishop and confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/flpZT3-uOSg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-11T07:15:00Z"
+          "id": "9yEfc86FVb0",
+          "title": "Low Mass - St. Martin of Tours - 11/11/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/9yEfc86FVb0/mqdefault.jpg?v=6af1c965",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ce3gJj1cbZM",
@@ -28,8 +19,8 @@
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/ce3gJj1cbZM/mqdefault.jpg?v=6aef6d36",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-11T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QElc3oVSg5A",
@@ -39,12 +30,39 @@
           "thumbnail": "https://i.ytimg.com/vi/QElc3oVSg5A/mqdefault.jpg?v=6af0cbad",
           "status": "upcoming",
           "scheduledTime": "2026-11-11T17:00:00Z"
+        },
+        {
+          "id": "m8-a-u0vq20",
+          "title": "Hl. Messe - hl. Martin I. - 12. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/m8-a-u0vq20/mqdefault.jpg?v=6af0cbd1",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-12T06:15:00Z"
+        },
+        {
+          "id": "MvDeP0HRLNQ",
+          "title": "Thurs. Nov. 12, 2026   -   St. Martin I     Pope and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/MvDeP0HRLNQ/mqdefault.jpg?v=6aef6f32",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-12T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "Lb8LgCEOxns",
+          "title": "7am Mass. St. Martin of Tours, Bishop & Confessor. III. Wednesday, November 11, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Lb8LgCEOxns/mqdefault.jpg?v=6ae0de88",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "D40e3aUv944",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Martin of Tours, Bishop and Confessor)",
