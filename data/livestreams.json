@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-12T01:46:23.798Z",
+  "lastUpdated": "2026-11-12T09:13:11.007Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oCeg02kq30U",
-          "title": "Compline - 11/11/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/oCeg02kq30U/mqdefault.jpg?v=6af1c99e",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "m8-a-u0vq20",
-          "title": "Hl. Messe - hl. Martin I. - 12. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/m8-a-u0vq20/mqdefault.jpg?v=6af0cbd1",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T06:15:00Z"
-        },
-        {
-          "id": "-fkrn_r9MtI",
-          "title": "Saint Martin I, pope and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/-fkrn_r9MtI/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T07:15:00Z"
-        },
         {
           "id": "MvDeP0HRLNQ",
           "title": "Thurs. Nov. 12, 2026   -   St. Martin I     Pope and Martyr",
@@ -48,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/AAW13YbaywY/mqdefault.jpg?v=6af0cbf6",
           "status": "upcoming",
           "scheduledTime": "2026-11-12T16:00:00Z"
+        },
+        {
+          "id": "Jhu0azip8Fg",
+          "title": "Hl. Messe - hl. Didacus - 13. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Jhu0azip8Fg/mqdefault.jpg?v=6af0cc24",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T06:15:00Z"
         }
       ]
     },
@@ -55,13 +37,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "UkGqkYUumgA",
-          "title": "\"La importancia de la amistad verdadera\". Luis Castillo.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/UkGqkYUumgA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T02:30:00Z"
+          "id": "DegyrqqWFbI",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/DegyrqqWFbI/mqdefault.jpg?v=6af57e3a",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ZoM9DOMbeoU",
