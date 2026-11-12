@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-11-12T17:40:47.351Z",
+  "lastUpdated": "2026-11-12T23:09:36.771Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "zShNaRY2-QE",
-          "title": "FSSPX Antwerpen - 12/11  H. MARTINUS I",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/zShNaRY2-QE/mqdefault.jpg?v=6aedf524",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "AAW13YbaywY",
-          "title": "Sakramentsandacht und hl. Messe - hl. Martin I. - 12. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/AAW13YbaywY/mqdefault.jpg?v=6af0cbf6",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "Jhu0azip8Fg",
           "title": "Hl. Messe - hl. Didacus - 13. November 2026",
@@ -30,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/Jhu0azip8Fg/mqdefault.jpg?v=6af0cc24",
           "status": "upcoming",
           "scheduledTime": "2026-11-13T06:15:00Z"
+        },
+        {
+          "id": "20Z2mz9-WqE",
+          "title": "Saint Didacus, confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/20Z2mz9-WqE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T07:15:00Z"
         },
         {
           "id": "O9uxR_PtJDo",
@@ -73,22 +64,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "46rPEfySc7g",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/46rPEfySc7g/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T18:00:00Z"
-        },
-        {
           "id": "3IYacUJsIQ4",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/3IYacUJsIQ4/mqdefault.jpg?v=6aecc432",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "O5YKRftZpL8",
+          "title": "Friday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/O5YKRftZpL8/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-12T18:00:00Z"
+          "scheduledTime": "2026-11-13T18:00:00Z"
+        },
+        {
+          "id": "liiDlZ4pXh4",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/liiDlZ4pXh4/mqdefault.jpg?v=6aee16de",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T18:00:00Z"
         }
       ]
     }
