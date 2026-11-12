@@ -1,17 +1,17 @@
 {
-  "lastUpdated": "2026-11-12T09:13:11.007Z",
+  "lastUpdated": "2026-11-12T17:40:47.351Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "MvDeP0HRLNQ",
-          "title": "Thurs. Nov. 12, 2026   -   St. Martin I     Pope and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/MvDeP0HRLNQ/mqdefault.jpg?v=6aef6f32",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T12:15:00Z"
+          "id": "zShNaRY2-QE",
+          "title": "FSSPX Antwerpen - 12/11  H. MARTINUS I",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/zShNaRY2-QE/mqdefault.jpg?v=6aedf524",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "AAW13YbaywY",
@@ -19,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/AAW13YbaywY/mqdefault.jpg?v=6af0cbf6",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T16:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Jhu0azip8Fg",
@@ -30,30 +30,48 @@
           "thumbnail": "https://i.ytimg.com/vi/Jhu0azip8Fg/mqdefault.jpg?v=6af0cc24",
           "status": "upcoming",
           "scheduledTime": "2026-11-13T06:15:00Z"
+        },
+        {
+          "id": "O9uxR_PtJDo",
+          "title": "Spiritual Conference: Literature in our Education, Part 3",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/O9uxR_PtJDo/mqdefault.jpg?v=6aedb5eb",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T11:45:00Z"
+        },
+        {
+          "id": "5VYwiCCWYyQ",
+          "title": "Fri. Nov. 13, 2026   -   St. Didacus (and St. Frances X. Cabrini)     Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/5VYwiCCWYyQ/mqdefault.jpg?v=6aef75cd",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T12:15:00Z"
+        },
+        {
+          "id": "4wdWt9aKXXo",
+          "title": "Fatimasühneabend und Singmesse- hl. Didacus - 13. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/4wdWt9aKXXo/mqdefault.jpg?v=6af0cc4f",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T17:00:00Z"
+        },
+        {
+          "id": "KeZczGxgaxQ",
+          "title": "FSSPX Antwerpen - 13/11  H. DIDACUS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/KeZczGxgaxQ/mqdefault.jpg?v=6aedf611",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T17:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "DegyrqqWFbI",
-          "title": "Prima e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/DegyrqqWFbI/mqdefault.jpg?v=6af57e3a",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "ZoM9DOMbeoU",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Martin I, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/ZoM9DOMbeoU/mqdefault.jpg?v=6af4694b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-12T12:30:00Z"
-        },
         {
           "id": "46rPEfySc7g",
           "title": "Thursday",
