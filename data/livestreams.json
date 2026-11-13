@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T23:09:36.771Z",
+  "lastUpdated": "2026-11-13T03:30:10.397Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -64,15 +64,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "3IYacUJsIQ4",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/3IYacUJsIQ4/mqdefault.jpg?v=6aecc432",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "O5YKRftZpL8",
           "title": "Friday",
           "channel": "Oxford Oratory",
@@ -89,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/liiDlZ4pXh4/mqdefault.jpg?v=6aee16de",
           "status": "upcoming",
           "scheduledTime": "2026-11-13T18:00:00Z"
+        },
+        {
+          "id": "CBN1JNxWKVo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Didacus, Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/CBN1JNxWKVo/mqdefault.jpg?v=6af5bb6b",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-13T23:30:00Z"
         }
       ]
     }
