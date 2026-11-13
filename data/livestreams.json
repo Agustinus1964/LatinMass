@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-11-13T03:30:10.397Z",
+  "lastUpdated": "2026-11-13T11:27:23.438Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Jhu0azip8Fg",
-          "title": "Hl. Messe - hl. Didacus - 13. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Jhu0azip8Fg/mqdefault.jpg?v=6af0cc24",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T06:15:00Z"
-        },
-        {
-          "id": "20Z2mz9-WqE",
-          "title": "Saint Didacus, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/20Z2mz9-WqE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T07:15:00Z"
-        },
         {
           "id": "O9uxR_PtJDo",
           "title": "Spiritual Conference: Literature in our Education, Part 3",
@@ -50,13 +32,13 @@
           "scheduledTime": "2026-11-13T17:00:00Z"
         },
         {
-          "id": "KeZczGxgaxQ",
-          "title": "FSSPX Antwerpen - 13/11  H. DIDACUS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/KeZczGxgaxQ/mqdefault.jpg?v=6aedf611",
+          "id": "QRhqaqm5SQs",
+          "title": "Hl. Messe - hl. Josaphat - 14. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QRhqaqm5SQs/mqdefault.jpg?v=6af0cc70",
           "status": "upcoming",
-          "scheduledTime": "2026-11-13T17:30:00Z"
+          "scheduledTime": "2026-11-14T06:15:00Z"
         }
       ]
     },
@@ -89,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/CBN1JNxWKVo/mqdefault.jpg?v=6af5bb6b",
           "status": "upcoming",
           "scheduledTime": "2026-11-13T23:30:00Z"
+        },
+        {
+          "id": "5GST24wQR8A",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/5GST24wQR8A/mqdefault.jpg?v=6aeee19c",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-14T08:30:00Z"
         }
       ]
     }
