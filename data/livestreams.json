@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-11-13T11:27:23.438Z",
+  "lastUpdated": "2026-11-13T18:40:02.032Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "O9uxR_PtJDo",
-          "title": "Spiritual Conference: Literature in our Education, Part 3",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/O9uxR_PtJDo/mqdefault.jpg?v=6aedb5eb",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T11:45:00Z"
-        },
-        {
-          "id": "5VYwiCCWYyQ",
-          "title": "Fri. Nov. 13, 2026   -   St. Didacus (and St. Frances X. Cabrini)     Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/5VYwiCCWYyQ/mqdefault.jpg?v=6aef75cd",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T12:15:00Z"
-        },
         {
           "id": "4wdWt9aKXXo",
           "title": "Fatimasühneabend und Singmesse- hl. Didacus - 13. November 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/4wdWt9aKXXo/mqdefault.jpg?v=6af0cc4f",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "QRhqaqm5SQs",
@@ -39,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QRhqaqm5SQs/mqdefault.jpg?v=6af0cc70",
           "status": "upcoming",
           "scheduledTime": "2026-11-14T06:15:00Z"
+        },
+        {
+          "id": "t5ESkKnpa9U",
+          "title": "Sat. Nov. 14, 2026   -   St. Josaphat       Bishop and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/t5ESkKnpa9U/mqdefault.jpg?v=6af5302d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-14T13:00:00Z"
         }
       ]
     },
@@ -46,13 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
+          "id": "fbFxpit0nyE",
+          "title": "Friday, 13 November 2026 - Saint Didacus",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/fbFxpit0nyE/mqdefault.jpg?v=6ae7b439",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
           "id": "O5YKRftZpL8",
           "title": "Friday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/O5YKRftZpL8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T18:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/O5YKRftZpL8/mqdefault.jpg?v=1a",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "liiDlZ4pXh4",
@@ -60,8 +60,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/liiDlZ4pXh4/mqdefault.jpg?v=6aee16de",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-13T18:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "CBN1JNxWKVo",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5GST24wQR8A/mqdefault.jpg?v=6aeee19c",
           "status": "upcoming",
           "scheduledTime": "2026-11-14T08:30:00Z"
+        },
+        {
+          "id": "NkKTOzA8q8Q",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/NkKTOzA8q8Q/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-14T18:00:00Z"
         }
       ]
     }
