@@ -1,35 +1,35 @@
 {
-  "lastUpdated": "2026-11-14T06:50:51.477Z",
+  "lastUpdated": "2026-11-14T13:55:17.105Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QRhqaqm5SQs",
-          "title": "Hl. Messe - hl. Josaphat - 14. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QRhqaqm5SQs/mqdefault.jpg?v=6af0cc70",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "S4PEUcgdlm0",
-          "title": "St. Josaphat, Bishop and Martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/S4PEUcgdlm0/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-14T07:30:00Z"
-        },
         {
           "id": "t5ESkKnpa9U",
           "title": "Sat. Nov. 14, 2026   -   St. Josaphat       Bishop and Martyr",
           "channel": "Transfiguration Church SSPX",
           "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
           "thumbnail": "https://i.ytimg.com/vi/t5ESkKnpa9U/mqdefault.jpg?v=6af5302d",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "r_o-OmRXeL8",
+          "title": "Amt - 25. Sonntag nach Pfingsten - 15. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/r_o-OmRXeL8/mqdefault.jpg?v=6af0ccb4",
           "status": "upcoming",
-          "scheduledTime": "2026-11-14T13:00:00Z"
+          "scheduledTime": "2026-11-15T08:30:00Z"
+        },
+        {
+          "id": "Be7E5xYsEUA",
+          "title": "25th Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/Be7E5xYsEUA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T11:00:00Z"
         }
       ]
     },
@@ -37,13 +37,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5GST24wQR8A",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/5GST24wQR8A/mqdefault.jpg?v=6aeee19c",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-14T08:30:00Z"
+          "id": "2e5F4mNw76E",
+          "title": "7am Mass, Rosary, 9am Sung Mass. St. Josephat, Bishop and Martyr. III. Saturday, November 14, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/2e5F4mNw76E/mqdefault.jpg?v=6ae0e115",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "MzCeH_L3VdM",
+          "title": "Saturday 9 AM Traditional Catholic Mass 11/14/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/MzCeH_L3VdM/mqdefault.jpg?v=6aef4091",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "hfcFjXquJOo",
@@ -53,15 +62,6 @@
           "thumbnail": "https://i.ytimg.com/vi/hfcFjXquJOo/mqdefault.jpg?v=6af7a75a",
           "status": "upcoming",
           "scheduledTime": "2026-11-14T14:00:00Z"
-        },
-        {
-          "id": "NkKTOzA8q8Q",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/NkKTOzA8q8Q/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-14T18:00:00Z"
         }
       ]
     }
