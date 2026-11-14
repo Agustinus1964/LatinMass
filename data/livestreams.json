@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T18:56:06.324Z",
+  "lastUpdated": "2026-11-14T22:52:05.481Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -39,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/6bXdRVJ5424/mqdefault.jpg?v=6af0ccd9",
           "status": "upcoming",
           "scheduledTime": "2026-11-15T16:30:00Z"
+        },
+        {
+          "id": "Z7J1rvY9qyc",
+          "title": "VI Sunday which remained after Epiphany | November 15th",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/Z7J1rvY9qyc/mqdefault.jpg?v=6af8c966",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T18:00:00Z"
         }
       ]
     },
