@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-11-14T13:55:17.105Z",
+  "lastUpdated": "2026-11-14T18:56:06.324Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "t5ESkKnpa9U",
-          "title": "Sat. Nov. 14, 2026   -   St. Josaphat       Bishop and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/t5ESkKnpa9U/mqdefault.jpg?v=6af5302d",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "r_o-OmRXeL8",
           "title": "Amt - 25. Sonntag nach Pfingsten - 15. November 2026",
@@ -30,6 +21,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Be7E5xYsEUA/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-15T11:00:00Z"
+        },
+        {
+          "id": "P58gtej0N-M",
+          "title": "Sun. Nov. 15, 2026   -   25th Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/P58gtej0N-M/mqdefault.jpg?v=6af52ee1",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T15:00:00Z"
+        },
+        {
+          "id": "6bXdRVJ5424",
+          "title": "Vesper und Sakramentsandacht - 25. Sonntag nach Pfingsten - 15. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/6bXdRVJ5424/mqdefault.jpg?v=6af0ccd9",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T16:30:00Z"
         }
       ]
     },
@@ -37,31 +46,94 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "2e5F4mNw76E",
-          "title": "7am Mass, Rosary, 9am Sung Mass. St. Josephat, Bishop and Martyr. III. Saturday, November 14, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/2e5F4mNw76E/mqdefault.jpg?v=6ae0e115",
-          "status": "live",
-          "scheduledTime": null
+          "id": "6gVrCwDBGCM",
+          "title": "8am — 6th Sunday remaining after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/6gVrCwDBGCM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T08:00:00Z"
         },
         {
-          "id": "MzCeH_L3VdM",
-          "title": "Saturday 9 AM Traditional Catholic Mass 11/14/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/MzCeH_L3VdM/mqdefault.jpg?v=6aef4091",
-          "status": "live",
-          "scheduledTime": null
+          "id": "94s8cEgXAo4",
+          "title": "9:30am — 33rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/94s8cEgXAo4/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T09:30:00Z"
         },
         {
-          "id": "hfcFjXquJOo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Josaphat, Bishop and Martyr)",
+          "id": "OG2p5PD35DI",
+          "title": "Sainte messe de la fête de saint Eugène, évêque & martyr - STATUIT",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/OG2p5PD35DI/mqdefault.jpg?v=6af868c6",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T10:00:00Z"
+        },
+        {
+          "id": "xMj4z4GsGog",
+          "title": "11am — 33rd Sunday in Ordinary Time",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/xMj4z4GsGog/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T11:00:00Z"
+        },
+        {
+          "id": "xNFjrLfbkD8",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixth Sunday after Epiphany, Resumed)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/hfcFjXquJOo/mqdefault.jpg?v=6af7a75a",
+          "thumbnail": "https://i.ytimg.com/vi/xNFjrLfbkD8/mqdefault.jpg?v=6af880a2",
           "status": "upcoming",
-          "scheduledTime": "2026-11-14T14:00:00Z"
+          "scheduledTime": "2026-11-15T13:00:00Z"
+        },
+        {
+          "id": "DoTSdZWj_68",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Sixth Sunday after Epiphany, Resumed)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/DoTSdZWj_68/mqdefault.jpg?v=6af881f3",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T15:30:00Z"
+        },
+        {
+          "id": "vljstSKMukY",
+          "title": "Chapelet de Notre Dame des 7 Douleurs",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/vljstSKMukY/mqdefault.jpg?v=6af09913",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T15:45:00Z"
+        },
+        {
+          "id": "GVo4zpeueXs",
+          "title": "SIXTH SUNDAY AFTER EPIPHANY, RESUMED, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/GVo4zpeueXs/mqdefault.jpg?v=6aedf21b",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T16:30:00Z"
+        },
+        {
+          "id": "Bwqe-D8eqx0",
+          "title": "Vespers and Benediction - 6th Sunday remaining after Epiphany",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Bwqe-D8eqx0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T17:00:00Z"
+        },
+        {
+          "id": "InGwPu6D45M",
+          "title": "Sunday 1:30 PM Catholic Mass 11/15/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/InGwPu6D45M/mqdefault.jpg?v=6af86dd4",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T18:28:00Z"
         }
       ]
     }
