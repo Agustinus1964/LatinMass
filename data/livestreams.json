@@ -1,26 +1,26 @@
 {
-  "lastUpdated": "2026-11-14T00:07:38.825Z",
+  "lastUpdated": "2026-11-14T06:50:51.477Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "iv9M8PWKgAY",
-          "title": "Stations of the Cross- 11/13/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/iv9M8PWKgAY/mqdefault.jpg?v=6af1cb3b",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "QRhqaqm5SQs",
           "title": "Hl. Messe - hl. Josaphat - 14. November 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/QRhqaqm5SQs/mqdefault.jpg?v=6af0cc70",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "S4PEUcgdlm0",
+          "title": "St. Josaphat, Bishop and Martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/S4PEUcgdlm0/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-14T06:15:00Z"
+          "scheduledTime": "2026-11-14T07:30:00Z"
         },
         {
           "id": "t5ESkKnpa9U",
@@ -37,33 +37,6 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nJYYvv2_z0k",
-          "title": "6pm Mass/Holy Hour. St Didacus, Confessor. III. St Frances Xavier Cabrini, Virgin. III. 11/13/2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/nJYYvv2_z0k/mqdefault.jpg?v=6ae0e168",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "SfjT0RQceDo",
-          "title": "Friday 7 PM Livestream of the Traditional Latin Mass 11/13/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/SfjT0RQceDo/mqdefault.jpg?v=4",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "liiDlZ4pXh4",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/liiDlZ4pXh4/mqdefault.jpg?v=6aee16de",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
           "id": "5GST24wQR8A",
           "title": "Sainte messe en semaine",
           "channel": "Ite Missa Est",
@@ -71,6 +44,15 @@
           "thumbnail": "https://i.ytimg.com/vi/5GST24wQR8A/mqdefault.jpg?v=6aeee19c",
           "status": "upcoming",
           "scheduledTime": "2026-11-14T08:30:00Z"
+        },
+        {
+          "id": "hfcFjXquJOo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Josaphat, Bishop and Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/hfcFjXquJOo/mqdefault.jpg?v=6af7a75a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-14T14:00:00Z"
         },
         {
           "id": "NkKTOzA8q8Q",
