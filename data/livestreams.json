@@ -1,15 +1,15 @@
 {
-  "lastUpdated": "2026-11-15T02:21:04.464Z",
+  "lastUpdated": "2026-11-15T09:43:27.435Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "jKEeJLBciSU",
-          "title": "Sung Mass - 25th Sunday after Pentecost",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/jKEeJLBciSU/mqdefault.jpg?v=69b6b50f",
+          "id": "SZmjDEZvnno",
+          "title": "FSSPX Antwerpen - 15/11 25° ZONDAG na PINKSTEREN",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SZmjDEZvnno/mqdefault.jpg?v=6aedf973",
           "status": "live",
           "scheduledTime": null
         },
@@ -19,17 +19,17 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/r_o-OmRXeL8/mqdefault.jpg?v=6af0ccb4",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T08:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "sM0tZ05zpP0",
           "title": "XXV Domenica dopo Pentecoste (VI dopo l'Epifania) - Santa Messa cantata - FSSPX Italia",
           "channel": "FSSPX Italia",
           "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/sM0tZ05zpP0/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T09:25:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/sM0tZ05zpP0/mqdefault.jpg?v=4",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Be7E5xYsEUA",
@@ -73,22 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "6gVrCwDBGCM",
-          "title": "8am — 6th Sunday remaining after Epiphany",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/6gVrCwDBGCM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T08:00:00Z"
-        },
-        {
           "id": "94s8cEgXAo4",
           "title": "9:30am — 33rd Sunday in Ordinary Time",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/94s8cEgXAo4/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T09:30:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/94s8cEgXAo4/mqdefault.jpg?v=3",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "OG2p5PD35DI",
@@ -145,6 +136,15 @@
           "scheduledTime": "2026-11-15T16:30:00Z"
         },
         {
+          "id": "mmnj6UPESHk",
+          "title": "Secondes vêpres de la solennité de saint Eugène, évêque & martyr - QUI VULT VENIRE POST ME",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/mmnj6UPESHk/mqdefault.jpg?v=6af9650e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T16:45:00Z"
+        },
+        {
           "id": "Bwqe-D8eqx0",
           "title": "Vespers and Benediction - 6th Sunday remaining after Epiphany",
           "channel": "Oxford Oratory",
@@ -161,6 +161,15 @@
           "thumbnail": "https://i.ytimg.com/vi/InGwPu6D45M/mqdefault.jpg?v=6af86dd4",
           "status": "upcoming",
           "scheduledTime": "2026-11-15T18:28:00Z"
+        },
+        {
+          "id": "bq0Lms1magg",
+          "title": "Will You Remember Me When I Am Gone? Life is not taken away but rather changed.",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/bq0Lms1magg/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T19:00:00Z"
         }
       ]
     }
