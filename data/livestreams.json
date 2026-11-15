@@ -1,35 +1,26 @@
 {
-  "lastUpdated": "2026-11-15T16:46:10.286Z",
+  "lastUpdated": "2026-11-15T21:26:59.825Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "_wSf6mT4Lf8",
-          "title": "Twenty-Fifth Sunday after Pentecost, November 15, 2026",
-          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
-          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
-          "thumbnail": "https://i.ytimg.com/vi/_wSf6mT4Lf8/mqdefault.jpg?v=b",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "6bXdRVJ5424",
-          "title": "Vesper und Sakramentsandacht - 25. Sonntag nach Pfingsten - 15. November 2026",
+          "id": "XAkcOOAhT10",
+          "title": "Hl. Messe - hl. Otmar - 16. November 2026",
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/6bXdRVJ5424/mqdefault.jpg?v=6af0ccd9",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/XAkcOOAhT10/mqdefault.jpg?v=6af9fd70",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-16T06:15:00Z"
         },
         {
-          "id": "Z7J1rvY9qyc",
-          "title": "VI Sunday which remained after Epiphany | November 15th",
-          "channel": "Our Lady of the Angels",
-          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
-          "thumbnail": "https://i.ytimg.com/vi/Z7J1rvY9qyc/mqdefault.jpg?v=6af8c966",
+          "id": "ni2aoaF96MQ",
+          "title": "St. Edmund of Canterbury, Bishop and Confessor",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ni2aoaF96MQ/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-15T18:00:00Z"
+          "scheduledTime": "2026-11-16T07:15:00Z"
         },
         {
           "id": "8e7EY1v7YtA",
@@ -48,6 +39,15 @@
           "thumbnail": "https://i.ytimg.com/vi/dmPJkYR9QCM/mqdefault.jpg?v=6af7db07",
           "status": "upcoming",
           "scheduledTime": "2026-11-16T12:15:00Z"
+        },
+        {
+          "id": "HwntXLa9Ktw",
+          "title": "Rosenkranz und hl. Messe - hl. Otmar - 16. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/HwntXLa9Ktw/mqdefault.jpg?v=6af9fd98",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-16T17:00:00Z"
         }
       ]
     },
@@ -55,94 +55,40 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DoTSdZWj_68",
-          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Sixth Sunday after Epiphany, Resumed)",
+          "id": "s7oxP4D1XX4",
+          "title": "Missa rezada - VI Domingo remanescente depois da Epifania",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/s7oxP4D1XX4/mqdefault.jpg?v=6afa0d8a",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "Tf1OhkPiTh0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gertrude the Great, Virgin)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/DoTSdZWj_68/mqdefault.jpg?v=6af881f3",
-          "status": "live",
-          "scheduledTime": null
+          "thumbnail": "https://i.ytimg.com/vi/Tf1OhkPiTh0/mqdefault.jpg?v=6af9eaf4",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-16T12:30:00Z"
         },
         {
-          "id": "srwSVwcGLJI",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/srwSVwcGLJI/mqdefault.jpg?v=a",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "SZU_r9CxRWs",
-          "title": "10:30am Sung Mass. Resumed Sixth Sunday after Epiphany. II. November 15, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/SZU_r9CxRWs/mqdefault.jpg?v=6ae0e2ce",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "GVo4zpeueXs",
-          "title": "SIXTH SUNDAY AFTER EPIPHANY, RESUMED, 2026",
-          "channel": "National Shrine of Saint Alphonsus Liguori",
-          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
-          "thumbnail": "https://i.ytimg.com/vi/GVo4zpeueXs/mqdefault.jpg?v=6aedf21b",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "oRk1Zi8jVCQ",
-          "title": "Sunday 11:15 AM Sung Mass 2026-11-15",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/oRk1Zi8jVCQ/mqdefault.jpg?v=6af0bc3f",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "maHmh64UIE0",
-          "title": "6th Resumed Sunday (from after Epiphany) / 6e dimanche restant (transféré depuis l'Épiphanie)",
-          "channel": "St. Clement's Parish Paroisse St-Clement",
-          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
-          "thumbnail": "https://i.ytimg.com/vi/maHmh64UIE0/mqdefault.jpg?v=11",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "mmnj6UPESHk",
-          "title": "Secondes vêpres de la solennité de saint Eugène, évêque & martyr - QUI VULT VENIRE POST ME",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/mmnj6UPESHk/mqdefault.jpg?v=6af9650e",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Bwqe-D8eqx0",
-          "title": "Vespers and Benediction - 6th Sunday remaining after Epiphany",
+          "id": "d5EyEbUjL24",
+          "title": "Monday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Bwqe-D8eqx0/mqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/d5EyEbUjL24/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-15T17:00:00Z"
+          "scheduledTime": "2026-11-16T18:00:00Z"
         },
         {
-          "id": "InGwPu6D45M",
-          "title": "Sunday 1:30 PM Catholic Mass 11/15/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/InGwPu6D45M/mqdefault.jpg?v=6af86dd4",
+          "id": "ym_onE_IvdU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/ym_onE_IvdU/mqdefault.jpg?v=6af20a38",
           "status": "upcoming",
-          "scheduledTime": "2026-11-15T18:28:00Z"
-        },
-        {
-          "id": "bq0Lms1magg",
-          "title": "Will You Remember Me When I Am Gone? Life is not taken away but rather changed.",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/bq0Lms1magg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T19:00:00Z"
+          "scheduledTime": "2026-11-16T18:00:00Z"
         }
       ]
     }
