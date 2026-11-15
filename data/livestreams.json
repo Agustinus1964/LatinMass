@@ -1,9 +1,18 @@
 {
-  "lastUpdated": "2026-11-14T22:52:05.481Z",
+  "lastUpdated": "2026-11-15T02:21:04.464Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "jKEeJLBciSU",
+          "title": "Sung Mass - 25th Sunday after Pentecost",
+          "channel": "SSPX District of Asia",
+          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
+          "thumbnail": "https://i.ytimg.com/vi/jKEeJLBciSU/mqdefault.jpg?v=69b6b50f",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "r_o-OmRXeL8",
           "title": "Amt - 25. Sonntag nach Pfingsten - 15. November 2026",
@@ -12,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/r_o-OmRXeL8/mqdefault.jpg?v=6af0ccb4",
           "status": "upcoming",
           "scheduledTime": "2026-11-15T08:30:00Z"
+        },
+        {
+          "id": "sM0tZ05zpP0",
+          "title": "XXV Domenica dopo Pentecoste (VI dopo l'Epifania) - Santa Messa cantata - FSSPX Italia",
+          "channel": "FSSPX Italia",
+          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
+          "thumbnail": "https://i.ytimg.com/vi/sM0tZ05zpP0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-15T09:25:00Z"
         },
         {
           "id": "Be7E5xYsEUA",
