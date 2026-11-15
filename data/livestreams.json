@@ -1,53 +1,17 @@
 {
-  "lastUpdated": "2026-11-15T09:43:27.435Z",
+  "lastUpdated": "2026-11-15T16:46:10.286Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "SZmjDEZvnno",
-          "title": "FSSPX Antwerpen - 15/11 25° ZONDAG na PINKSTEREN",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/SZmjDEZvnno/mqdefault.jpg?v=6aedf973",
+          "id": "_wSf6mT4Lf8",
+          "title": "Twenty-Fifth Sunday after Pentecost, November 15, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/_wSf6mT4Lf8/mqdefault.jpg?v=b",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "r_o-OmRXeL8",
-          "title": "Amt - 25. Sonntag nach Pfingsten - 15. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/r_o-OmRXeL8/mqdefault.jpg?v=6af0ccb4",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "sM0tZ05zpP0",
-          "title": "XXV Domenica dopo Pentecoste (VI dopo l'Epifania) - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/sM0tZ05zpP0/mqdefault.jpg?v=4",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Be7E5xYsEUA",
-          "title": "25th Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/Be7E5xYsEUA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T11:00:00Z"
-        },
-        {
-          "id": "P58gtej0N-M",
-          "title": "Sun. Nov. 15, 2026   -   25th Sunday after Pentecost",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/P58gtej0N-M/mqdefault.jpg?v=6af52ee1",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T15:00:00Z"
         },
         {
           "id": "6bXdRVJ5424",
@@ -55,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/6bXdRVJ5424/mqdefault.jpg?v=6af0ccd9",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Z7J1rvY9qyc",
@@ -66,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Z7J1rvY9qyc/mqdefault.jpg?v=6af8c966",
           "status": "upcoming",
           "scheduledTime": "2026-11-15T18:00:00Z"
+        },
+        {
+          "id": "8e7EY1v7YtA",
+          "title": "Low Mass - St. Gertrude, Virgin - 11/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8e7EY1v7YtA/mqdefault.jpg?v=6af8d57d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-16T12:15:00Z"
+        },
+        {
+          "id": "dmPJkYR9QCM",
+          "title": "Mon. Nov. 16, 2026   -   St. Gertrude    -   Virgin",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/dmPJkYR9QCM/mqdefault.jpg?v=6af7db07",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-16T12:15:00Z"
         }
       ]
     },
@@ -73,58 +55,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "94s8cEgXAo4",
-          "title": "9:30am — 33rd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/94s8cEgXAo4/mqdefault.jpg?v=3",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "OG2p5PD35DI",
-          "title": "Sainte messe de la fête de saint Eugène, évêque & martyr - STATUIT",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/OG2p5PD35DI/mqdefault.jpg?v=6af868c6",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T10:00:00Z"
-        },
-        {
-          "id": "xMj4z4GsGog",
-          "title": "11am — 33rd Sunday in Ordinary Time",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/xMj4z4GsGog/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T11:00:00Z"
-        },
-        {
-          "id": "xNFjrLfbkD8",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Sixth Sunday after Epiphany, Resumed)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/xNFjrLfbkD8/mqdefault.jpg?v=6af880a2",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T13:00:00Z"
-        },
-        {
           "id": "DoTSdZWj_68",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Sixth Sunday after Epiphany, Resumed)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/DoTSdZWj_68/mqdefault.jpg?v=6af881f3",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "vljstSKMukY",
-          "title": "Chapelet de Notre Dame des 7 Douleurs",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/vljstSKMukY/mqdefault.jpg?v=6af09913",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T15:45:00Z"
+          "id": "srwSVwcGLJI",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/srwSVwcGLJI/mqdefault.jpg?v=a",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SZU_r9CxRWs",
+          "title": "10:30am Sung Mass. Resumed Sixth Sunday after Epiphany. II. November 15, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/SZU_r9CxRWs/mqdefault.jpg?v=6ae0e2ce",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "GVo4zpeueXs",
@@ -132,8 +87,26 @@
           "channel": "National Shrine of Saint Alphonsus Liguori",
           "channelId": "UCItp3GIpTS67DvqOLuWuWig",
           "thumbnail": "https://i.ytimg.com/vi/GVo4zpeueXs/mqdefault.jpg?v=6aedf21b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T16:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "oRk1Zi8jVCQ",
+          "title": "Sunday 11:15 AM Sung Mass 2026-11-15",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/oRk1Zi8jVCQ/mqdefault.jpg?v=6af0bc3f",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "maHmh64UIE0",
+          "title": "6th Resumed Sunday (from after Epiphany) / 6e dimanche restant (transféré depuis l'Épiphanie)",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/maHmh64UIE0/mqdefault.jpg?v=11",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "mmnj6UPESHk",
@@ -141,8 +114,8 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/mmnj6UPESHk/mqdefault.jpg?v=6af9650e",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-15T16:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Bwqe-D8eqx0",
