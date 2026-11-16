@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-16T08:16:13.619Z",
+  "lastUpdated": "2026-11-16T18:45:24.507Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "8e7EY1v7YtA",
-          "title": "Low Mass - St. Gertrude, Virgin - 11/16/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/8e7EY1v7YtA/mqdefault.jpg?v=6af8d57d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T12:15:00Z"
-        },
-        {
-          "id": "dmPJkYR9QCM",
-          "title": "Mon. Nov. 16, 2026   -   St. Gertrude    -   Virgin",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/dmPJkYR9QCM/mqdefault.jpg?v=6af7db07",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T12:15:00Z"
-        },
-        {
-          "id": "HwntXLa9Ktw",
-          "title": "Rosenkranz und hl. Messe - hl. Otmar - 16. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/HwntXLa9Ktw/mqdefault.jpg?v=6af9fd98",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T17:00:00Z"
-        },
         {
           "id": "Sunz1TryHtI",
           "title": "Rosary - 11/16/26",
@@ -57,6 +30,33 @@
           "thumbnail": "https://i.ytimg.com/vi/fhmumehAFQU/mqdefault.jpg?v=6af9fdb6",
           "status": "upcoming",
           "scheduledTime": "2026-11-17T06:15:00Z"
+        },
+        {
+          "id": "h70yFeXvnOg",
+          "title": "Low Mass - St. Gregory the Wonderworker, Bishop and Confessor - 11/17/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/h70yFeXvnOg/mqdefault.jpg?v=6afa3557",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T12:15:00Z"
+        },
+        {
+          "id": "FLhnnCtqCjA",
+          "title": "Tues. Nov 17, 2026   -   St Gregory the Wonder Worker,   Bishop and Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/FLhnnCtqCjA/mqdefault.jpg?v=6af7dc1a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T12:15:00Z"
+        },
+        {
+          "id": "_3gpXgtgZ8s",
+          "title": "Rosenkranz und hl. Messe - hl. Gregor der Wundertäter - 17. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/_3gpXgtgZ8s/mqdefault.jpg?v=6af9fdcf",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T17:00:00Z"
         }
       ]
     },
@@ -64,22 +64,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "Tf1OhkPiTh0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gertrude the Great, Virgin)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/Tf1OhkPiTh0/mqdefault.jpg?v=6af9eaf4",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T12:30:00Z"
+          "id": "4GpCzHlZ2Sg",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/4GpCzHlZ2Sg/mqdefault.jpg?v=a",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "d5EyEbUjL24",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/d5EyEbUjL24/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T18:00:00Z"
+          "id": "T-AJg3ktRdo",
+          "title": "Monday, 16 November 2026 - Saint Gertrude",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/T-AJg3ktRdo/mqdefault.jpg?v=6ae7b4d4",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "ym_onE_IvdU",
@@ -87,8 +87,35 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/ym_onE_IvdU/mqdefault.jpg?v=6af20a38",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "TUGm_lwWCn0",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory the Wonderworker, Bishop and Confessor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/TUGm_lwWCn0/mqdefault.jpg?v=6afb016f",
           "status": "upcoming",
-          "scheduledTime": "2026-11-16T18:00:00Z"
+          "scheduledTime": "2026-11-17T12:30:00Z"
+        },
+        {
+          "id": "lfQZw0iWHHg",
+          "title": "Tuesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/lfQZw0iWHHg/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T18:00:00Z"
+        },
+        {
+          "id": "pxhhNxrZ-Os",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/pxhhNxrZ-Os/mqdefault.jpg?v=6af35bb5",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T18:00:00Z"
         }
       ]
     }
