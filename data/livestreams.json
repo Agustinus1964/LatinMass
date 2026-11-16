@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-16T01:17:21.538Z",
+  "lastUpdated": "2026-11-16T08:16:13.619Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "N3DlCHjO0iY",
-          "title": "Compline - 11/15/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/N3DlCHjO0iY/mqdefault.jpg?v=6afa3843",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T01:45:00Z"
-        },
-        {
-          "id": "XAkcOOAhT10",
-          "title": "Hl. Messe - hl. Otmar - 16. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/XAkcOOAhT10/mqdefault.jpg?v=6af9fd70",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T06:15:00Z"
-        },
-        {
-          "id": "ni2aoaF96MQ",
-          "title": "St. Edmund of Canterbury, Bishop and Confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ni2aoaF96MQ/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-16T07:15:00Z"
-        },
         {
           "id": "8e7EY1v7YtA",
           "title": "Low Mass - St. Gertrude, Virgin - 11/16/26",
@@ -66,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Sunz1TryHtI/mqdefault.jpg?v=6af8d585",
           "status": "upcoming",
           "scheduledTime": "2026-11-17T00:00:00Z"
+        },
+        {
+          "id": "6nOuCcpyExY",
+          "title": "Compline - 11/16/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/6nOuCcpyExY/mqdefault.jpg?v=6af8d58e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T01:45:00Z"
+        },
+        {
+          "id": "fhmumehAFQU",
+          "title": "Hl. Messe - hl. Gregor der Wundertäter - 17. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/fhmumehAFQU/mqdefault.jpg?v=6af9fdb6",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-17T06:15:00Z"
         }
       ]
     },
