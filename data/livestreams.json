@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-11-17T10:56:34.176Z",
+  "lastUpdated": "2026-11-17T19:38:12.460Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QumEqVQmeY4",
-          "title": "Understanding The Crisis in the Church - Lecture 17 - Are all religions means of Salvation?",
-          "channel": "SSPX District of Asia",
-          "channelId": "UCm44MLLBK5wohdkgL7L0I8g",
-          "thumbnail": "https://i.ytimg.com/vi/QumEqVQmeY4/mqdefault.jpg?v=6afc2f39",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-17T11:45:00Z"
-        },
-        {
-          "id": "h70yFeXvnOg",
-          "title": "Low Mass - St. Gregory the Wonderworker, Bishop and Confessor - 11/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/h70yFeXvnOg/mqdefault.jpg?v=6afa3557",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-17T12:15:00Z"
-        },
-        {
-          "id": "FLhnnCtqCjA",
-          "title": "Tues. Nov 17, 2026   -   St Gregory the Wonder Worker,   Bishop and Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/FLhnnCtqCjA/mqdefault.jpg?v=6af7dc1a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-17T12:15:00Z"
-        },
-        {
-          "id": "_3gpXgtgZ8s",
-          "title": "Rosenkranz und hl. Messe - hl. Gregor der Wundertäter - 17. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/_3gpXgtgZ8s/mqdefault.jpg?v=6af9fdcf",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-17T17:00:00Z"
-        },
         {
           "id": "dn2E6hgGYbY",
           "title": "Rosary - 11/17/26",
@@ -66,6 +30,33 @@
           "thumbnail": "https://i.ytimg.com/vi/U1b8SYOaYv0/mqdefault.jpg?v=6af9fdf6",
           "status": "upcoming",
           "scheduledTime": "2026-11-18T06:15:00Z"
+        },
+        {
+          "id": "a4frocC5R8s",
+          "title": "Low Mass - Dedication of the Basilicas of the Holy Apostles Peter and Paul - 11/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/a4frocC5R8s/mqdefault.jpg?v=6afbb115",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-18T12:15:00Z"
+        },
+        {
+          "id": "UHW_jXy4ezw",
+          "title": "Wed. Nov. 18, 2026   -   Dedication of the Basilicas of Sts. Peter and Paul",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/UHW_jXy4ezw/mqdefault.jpg?v=6af7dd3e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-18T12:15:00Z"
+        },
+        {
+          "id": "z7_5QSads3M",
+          "title": "Rosenkranz und hl. Messe - Weihefest der  Basiliken St. Peter und Paul - 18. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/z7_5QSads3M/mqdefault.jpg?v=6af9fe0e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-18T17:00:00Z"
         }
       ]
     },
@@ -73,22 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "TUGm_lwWCn0",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Gregory the Wonderworker, Bishop and Confessor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/TUGm_lwWCn0/mqdefault.jpg?v=6afb016f",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-17T12:30:00Z"
-        },
-        {
-          "id": "lfQZw0iWHHg",
-          "title": "Tuesday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/lfQZw0iWHHg/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-17T18:00:00Z"
+          "id": "h6vybd93Tis",
+          "title": "Tuesday, 17 November 2026 - Saint Gregory the Wonderworker",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/h6vybd93Tis/mqdefault.jpg?v=6ae7b52b",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "pxhhNxrZ-Os",
@@ -96,8 +78,35 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/pxhhNxrZ-Os/mqdefault.jpg?v=6af35bb5",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "IOnvXgO2AMg",
+          "title": "Live Stream Holy Mass from Cleveland (Dedication of the Basilicas of Saints Peter & Paul, Apostles)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/IOnvXgO2AMg/mqdefault.jpg?v=6afc52dc",
           "status": "upcoming",
-          "scheduledTime": "2026-11-17T18:00:00Z"
+          "scheduledTime": "2026-11-18T12:30:00Z"
+        },
+        {
+          "id": "UtNup0IOUqI",
+          "title": "Wednesday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/UtNup0IOUqI/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-18T18:00:00Z"
+        },
+        {
+          "id": "YFTSZIvWIrA",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/YFTSZIvWIrA/mqdefault.jpg?v=6af4ad39",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-18T18:00:00Z"
         }
       ]
     }
