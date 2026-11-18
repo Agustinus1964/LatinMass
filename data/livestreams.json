@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-18T02:03:04.573Z",
+  "lastUpdated": "2026-11-18T10:28:21.705Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Oh0tB2bqXsY",
-          "title": "Compline - 11/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/Oh0tB2bqXsY/mqdefault.jpg?v=6afa3567",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "U1b8SYOaYv0",
-          "title": "Hl. Messe - Weihefest der  Basiliken St. Peter und Paul - 18. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/U1b8SYOaYv0/mqdefault.jpg?v=6af9fdf6",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-18T06:15:00Z"
-        },
-        {
-          "id": "x4lGYnqGZ2k",
-          "title": "The Dedication of the Basilicas of Saints Peter and Paul",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/x4lGYnqGZ2k/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-18T07:15:00Z"
-        },
         {
           "id": "a4frocC5R8s",
           "title": "Low Mass - Dedication of the Basilicas of the Holy Apostles Peter and Paul - 11/18/26",
@@ -75,6 +48,15 @@
           "thumbnail": "https://i.ytimg.com/vi/4bDXmcAtIw4/mqdefault.jpg?v=6afbb128",
           "status": "upcoming",
           "scheduledTime": "2026-11-19T01:45:00Z"
+        },
+        {
+          "id": "QINJN04xFfk",
+          "title": "Hl. Messe - hl. Elisabeth von Thüringen - 19. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QINJN04xFfk/mqdefault.jpg?v=6af9fe2e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-19T06:15:00Z"
         }
       ]
     },
