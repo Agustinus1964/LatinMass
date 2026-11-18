@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-11-17T19:38:12.460Z",
+  "lastUpdated": "2026-11-18T02:03:04.573Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "dn2E6hgGYbY",
-          "title": "Rosary - 11/17/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/dn2E6hgGYbY/mqdefault.jpg?v=6afa355f",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-18T00:00:00Z"
-        },
         {
           "id": "Oh0tB2bqXsY",
           "title": "Compline - 11/17/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/Oh0tB2bqXsY/mqdefault.jpg?v=6afa3567",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-18T01:45:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "U1b8SYOaYv0",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/U1b8SYOaYv0/mqdefault.jpg?v=6af9fdf6",
           "status": "upcoming",
           "scheduledTime": "2026-11-18T06:15:00Z"
+        },
+        {
+          "id": "x4lGYnqGZ2k",
+          "title": "The Dedication of the Basilicas of Saints Peter and Paul",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/x4lGYnqGZ2k/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-18T07:15:00Z"
         },
         {
           "id": "a4frocC5R8s",
@@ -57,30 +57,30 @@
           "thumbnail": "https://i.ytimg.com/vi/z7_5QSads3M/mqdefault.jpg?v=6af9fe0e",
           "status": "upcoming",
           "scheduledTime": "2026-11-18T17:00:00Z"
+        },
+        {
+          "id": "rVg_7TFJ0GQ",
+          "title": "Rosary - 11/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/rVg_7TFJ0GQ/mqdefault.jpg?v=6afbb120",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-19T00:00:00Z"
+        },
+        {
+          "id": "4bDXmcAtIw4",
+          "title": "Compline - 11/18/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/4bDXmcAtIw4/mqdefault.jpg?v=6afbb128",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-19T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "h6vybd93Tis",
-          "title": "Tuesday, 17 November 2026 - Saint Gregory the Wonderworker",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/h6vybd93Tis/mqdefault.jpg?v=6ae7b52b",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "pxhhNxrZ-Os",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/pxhhNxrZ-Os/mqdefault.jpg?v=6af35bb5",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "IOnvXgO2AMg",
           "title": "Live Stream Holy Mass from Cleveland (Dedication of the Basilicas of Saints Peter & Paul, Apostles)",
