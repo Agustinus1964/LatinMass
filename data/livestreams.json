@@ -1,18 +1,9 @@
 {
-  "lastUpdated": "2026-11-18T18:58:39.670Z",
+  "lastUpdated": "2026-11-19T01:01:06.586Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rVg_7TFJ0GQ",
-          "title": "Rosary - 11/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/rVg_7TFJ0GQ/mqdefault.jpg?v=6afbb120",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-19T00:00:00Z"
-        },
         {
           "id": "4bDXmcAtIw4",
           "title": "Compline - 11/18/26",
@@ -30,6 +21,15 @@
           "thumbnail": "https://i.ytimg.com/vi/QINJN04xFfk/mqdefault.jpg?v=6af9fe2e",
           "status": "upcoming",
           "scheduledTime": "2026-11-19T06:15:00Z"
+        },
+        {
+          "id": "8F9PCU8JbZA",
+          "title": "Saint Elizabeth, widow",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/8F9PCU8JbZA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-19T07:15:00Z"
         },
         {
           "id": "bsyPb0UM1_s",
@@ -57,30 +57,21 @@
           "thumbnail": "https://i.ytimg.com/vi/bp10RbvZqZk/mqdefault.jpg?v=6af9fe44",
           "status": "upcoming",
           "scheduledTime": "2026-11-19T16:00:00Z"
+        },
+        {
+          "id": "aKzCbDOVstc",
+          "title": "Benediction - 11/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/aKzCbDOVstc/mqdefault.jpg?v=6afc57c6",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-20T00:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "kI4utUQ6-Ic",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/kI4utUQ6-Ic/mqdefault.jpg?v=c",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YFTSZIvWIrA",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/YFTSZIvWIrA/mqdefault.jpg?v=6af4ad39",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "b0dx_d01Guw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Elizabeth of Hungary, Widow)",
@@ -96,6 +87,15 @@
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
           "thumbnail": "https://i.ytimg.com/vi/-7ybTdE36Fc/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-19T18:00:00Z"
+        },
+        {
+          "id": "PlexnCDRTYo",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/PlexnCDRTYo/mqdefault.jpg?v=6af5feae",
           "status": "upcoming",
           "scheduledTime": "2026-11-19T18:00:00Z"
         }
