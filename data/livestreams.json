@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-19T01:01:06.586Z",
+  "lastUpdated": "2026-11-19T09:05:08.414Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "4bDXmcAtIw4",
-          "title": "Compline - 11/18/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/4bDXmcAtIw4/mqdefault.jpg?v=6afbb128",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-19T01:45:00Z"
-        },
-        {
-          "id": "QINJN04xFfk",
-          "title": "Hl. Messe - hl. Elisabeth von Thüringen - 19. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QINJN04xFfk/mqdefault.jpg?v=6af9fe2e",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-19T06:15:00Z"
-        },
-        {
-          "id": "8F9PCU8JbZA",
-          "title": "Saint Elizabeth, widow",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/8F9PCU8JbZA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-19T07:15:00Z"
-        },
         {
           "id": "bsyPb0UM1_s",
           "title": "Low Mass - St. Elizabeth, Widow - 11/19/26",
@@ -66,12 +39,39 @@
           "thumbnail": "https://i.ytimg.com/vi/aKzCbDOVstc/mqdefault.jpg?v=6afc57c6",
           "status": "upcoming",
           "scheduledTime": "2026-11-20T00:00:00Z"
+        },
+        {
+          "id": "P-oti16498U",
+          "title": "Compline - 11/19/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/P-oti16498U/mqdefault.jpg?v=6afc57d0",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-20T01:45:00Z"
+        },
+        {
+          "id": "YCGxH-Gr8eU",
+          "title": "Hl. Messe - hl. Felix von Valois - 20. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YCGxH-Gr8eU/mqdefault.jpg?v=6af9fe64",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-20T06:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "s1DauwkBRSI",
+          "title": "Prima e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/s1DauwkBRSI/mqdefault.jpg?v=6afeb987",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "b0dx_d01Guw",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Elizabeth of Hungary, Widow)",
