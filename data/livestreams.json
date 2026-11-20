@@ -1,21 +1,67 @@
 {
-  "lastUpdated": "2026-11-20T17:05:10.782Z",
+  "lastUpdated": "2026-11-20T23:14:31.072Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": []
+      "videos": [
+        {
+          "id": "pr0uApIs2Mw",
+          "title": "Holy Matrimony & Nuptial Mass of Jacob & Cecilia Morris",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/pr0uApIs2Mw/mqdefault.jpg?v=6b00d2c6",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T01:00:00Z"
+        },
+        {
+          "id": "7QPz-MngXBI",
+          "title": "Hl. Messe - Mariä Opferung - 21. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7QPz-MngXBI/mqdefault.jpg?v=6af9fe9a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T06:15:00Z"
+        },
+        {
+          "id": "MlUOYN7ObdQ",
+          "title": "The Presentation of the Blessed Virgin Mary",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/MlUOYN7ObdQ/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T07:30:00Z"
+        },
+        {
+          "id": "fkTRDFYVqlw",
+          "title": "Low Mass - Presentation of the Blessed Virgin Mary - 11/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/fkTRDFYVqlw/mqdefault.jpg?v=6afefa48",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T12:15:00Z"
+        },
+        {
+          "id": "90EW6ZhEUho",
+          "title": "Sat. Nov. 21, 2026    -    Presentation of the Blessed Virgin Mary",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/90EW6ZhEUho/mqdefault.jpg?v=6af7e266",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T13:00:00Z"
+        }
+      ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "nQmDh5i3qpA",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/nQmDh5i3qpA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T18:00:00Z"
+          "id": "UpbFjxlz5qU",
+          "title": "6pm Mass and Holy Hour. St. Felix of Valois, Confessor. III. Friday, November 20, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/UpbFjxlz5qU/mqdefault.jpg?v=6ae0e4e1",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "_6vccEP3e7Y",
