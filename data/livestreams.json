@@ -1,82 +1,9 @@
 {
-  "lastUpdated": "2026-11-20T08:00:55.589Z",
+  "lastUpdated": "2026-11-20T17:05:10.782Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
-      "videos": [
-        {
-          "id": "w0oyiZ4Bb2U",
-          "title": "Mass of The Presentation of the BVM - 21.11.26",
-          "channel": "SSPX ANZ-District",
-          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
-          "thumbnail": "https://i.ytimg.com/vi/w0oyiZ4Bb2U/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T07:18:42Z"
-        },
-        {
-          "id": "NqRXl1vq6E0",
-          "title": "Low Mass - St. Felix de Valois, Confessor - 11/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/NqRXl1vq6E0/mqdefault.jpg?v=6afda733",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T12:15:00Z"
-        },
-        {
-          "id": "ASfUsDVr9ME",
-          "title": "Fri. Nov. 20, 2026   -   St. Felix of Valois  -  Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/ASfUsDVr9ME/mqdefault.jpg?v=6af7e16b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T12:15:00Z"
-        },
-        {
-          "id": "jZwLMpKBfhI",
-          "title": "Rosenkranz und hl. Messe - hl. Felix von Valois - 20. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/jZwLMpKBfhI/mqdefault.jpg?v=6af9fe7a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T17:00:00Z"
-        },
-        {
-          "id": "-7wvuYRiBZ4",
-          "title": "FSSPX Antwerpen - 20/11  H. FELIX van VALOIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/-7wvuYRiBZ4/mqdefault.jpg?v=6af6f025",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T17:30:00Z"
-        },
-        {
-          "id": "uHkldywPmUs",
-          "title": "Stations of the Cross - 11/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/uHkldywPmUs/mqdefault.jpg?v=6afda73d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T23:55:00Z"
-        },
-        {
-          "id": "7k0DFAmDqz8",
-          "title": "Compline - 11/20/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/7k0DFAmDqz8/mqdefault.jpg?v=6afda749",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T01:45:00Z"
-        },
-        {
-          "id": "7QPz-MngXBI",
-          "title": "Hl. Messe - Mariä Opferung - 21. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7QPz-MngXBI/mqdefault.jpg?v=6af9fe9a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T06:15:00Z"
-        }
-      ]
+      "videos": []
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
@@ -91,15 +18,6 @@
           "scheduledTime": "2026-11-20T18:00:00Z"
         },
         {
-          "id": "Sp9-MzVahn0",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Sp9-MzVahn0/mqdefault.jpg?v=6af75030",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T18:00:00Z"
-        },
-        {
           "id": "_6vccEP3e7Y",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Felix of Valois, Confessor)",
           "channel": "Usus Antiquior",
@@ -107,6 +25,42 @@
           "thumbnail": "https://i.ytimg.com/vi/_6vccEP3e7Y/mqdefault.jpg?v=6afef5c4",
           "status": "upcoming",
           "scheduledTime": "2026-11-20T23:30:00Z"
+        },
+        {
+          "id": "uVMPbs8QVjU",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/uVMPbs8QVjU/mqdefault.jpg?v=6af81c13",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T08:30:00Z"
+        },
+        {
+          "id": "3GJGH2_7cGA",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/3GJGH2_7cGA/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T10:00:00Z"
+        },
+        {
+          "id": "fR6GDTIvT2I",
+          "title": "Saturday 6 AM Catholic Mass for 11/21/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/fR6GDTIvT2I/mqdefault.jpg?v=6afda567",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T10:58:00Z"
+        },
+        {
+          "id": "WEdrOOxaz04",
+          "title": "Saturday 7 AM Traditional Catholic Mass 11/21/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/WEdrOOxaz04/mqdefault.jpg?v=6afda5f8",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T11:58:00Z"
         }
       ]
     }
