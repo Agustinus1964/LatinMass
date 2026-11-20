@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-11-20T00:48:43.176Z",
+  "lastUpdated": "2026-11-20T08:00:55.589Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "YCGxH-Gr8eU",
-          "title": "Hl. Messe - hl. Felix von Valois - 20. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YCGxH-Gr8eU/mqdefault.jpg?v=6af9fe64",
+          "id": "w0oyiZ4Bb2U",
+          "title": "Mass of The Presentation of the BVM - 21.11.26",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/w0oyiZ4Bb2U/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-20T06:15:00Z"
-        },
-        {
-          "id": "sOjK8uqRvjA",
-          "title": "Saint Felix of Valois, confessor",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/sOjK8uqRvjA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-20T07:30:00Z"
+          "scheduledTime": "2026-11-20T07:18:42Z"
         },
         {
           "id": "NqRXl1vq6E0",
@@ -66,6 +57,24 @@
           "thumbnail": "https://i.ytimg.com/vi/uHkldywPmUs/mqdefault.jpg?v=6afda73d",
           "status": "upcoming",
           "scheduledTime": "2026-11-20T23:55:00Z"
+        },
+        {
+          "id": "7k0DFAmDqz8",
+          "title": "Compline - 11/20/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/7k0DFAmDqz8/mqdefault.jpg?v=6afda749",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T01:45:00Z"
+        },
+        {
+          "id": "7QPz-MngXBI",
+          "title": "Hl. Messe - Mariä Opferung - 21. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/7QPz-MngXBI/mqdefault.jpg?v=6af9fe9a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-21T06:15:00Z"
         }
       ]
     },
