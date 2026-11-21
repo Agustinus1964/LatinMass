@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-21T12:53:14.278Z",
+  "lastUpdated": "2026-11-21T19:54:30.728Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "fkTRDFYVqlw",
-          "title": "Low Mass - Presentation of the Blessed Virgin Mary - 11/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/fkTRDFYVqlw/mqdefault.jpg?v=6afefa48",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "WbgOqibedB0",
-          "title": "Rosary - 11/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WbgOqibedB0/mqdefault.jpg?v=6afefa52",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T00:00:00Z"
-        },
-        {
-          "id": "WH9Ya1h4VWg",
-          "title": "Compline - 11/21/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/WH9Ya1h4VWg/mqdefault.jpg?v=6afefa5b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T01:45:00Z"
-        },
         {
           "id": "E4xpXPNW6UM",
           "title": "Amt - Letzter Sonntag nach Pfingsten - 22. November 2026",
@@ -48,39 +21,39 @@
           "thumbnail": "https://i.ytimg.com/vi/SyeR69_wwwo/mqdefault.jpg?v=6b00499a",
           "status": "upcoming",
           "scheduledTime": "2026-11-22T12:20:00Z"
+        },
+        {
+          "id": "8IiTOMLSn94",
+          "title": "Solemn High Mass - Last Sunday after Pentecost - 11/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/8IiTOMLSn94/mqdefault.jpg?v=6b0049a7",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T15:00:00Z"
+        },
+        {
+          "id": "F77RdQCXt2I",
+          "title": "Last Sunday after Pentecost, November 22, 2026",
+          "channel": "Saint Isidore Catholic Church - Watkins, Colorado",
+          "channelId": "UCwcR47Gy6U2StngG6FW9OEg",
+          "thumbnail": "https://i.ytimg.com/vi/F77RdQCXt2I/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T15:45:00Z"
+        },
+        {
+          "id": "ZGBaYrlXuwo",
+          "title": "Vesper und Sakramentsandacht - Letzter Sonntag nach Pfingsten - 22. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/ZGBaYrlXuwo/mqdefault.jpg?v=6af9feee",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T16:30:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "QpnEeLofXio",
-          "title": "7am Mass, Rosary, 9am Sung Mass. The Presentation of the Blessed Virgin Mary. III. Sat. 11-21-2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/QpnEeLofXio/mqdefault.jpg?v=6ae0e610",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "t8V0J6zOj28",
-          "title": "Missa Cantada Apresentação de Nossa Senhora",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/t8V0J6zOj28/mqdefault.jpg?v=6b017d1d",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "5s1rZ1xp-4M",
-          "title": "Live Stream Holy Mass from Cleveland USA (The Presentation of the Blessed Virgin Mary)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/5s1rZ1xp-4M/mqdefault.jpg?v=6b00e63f",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T14:00:00Z"
-        },
         {
           "id": "Xk1Zq9CsbL8",
           "title": "8am — Last Sunday after Pentecost",
@@ -116,6 +89,42 @@
           "thumbnail": "https://i.ytimg.com/vi/KMS9PzI-COE/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-22T11:00:00Z"
+        },
+        {
+          "id": "tatP-kUz0hk",
+          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Last Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/tatP-kUz0hk/mqdefault.jpg?v=6b018b9b",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T13:00:00Z"
+        },
+        {
+          "id": "LHcTIRm2D0Y",
+          "title": "Live Stream Holy Mass (High) from Cleveland USA (The Last Sunday after Pentecost)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/LHcTIRm2D0Y/mqdefault.jpg?v=6b018be7",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T15:30:00Z"
+        },
+        {
+          "id": "p0YrBFUDjB8",
+          "title": "TWENTY-FOURTH & LAST SUNDAY AFTER PENTECOST, 2026",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/p0YrBFUDjB8/mqdefault.jpg?v=6afc6911",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T16:30:00Z"
+        },
+        {
+          "id": "Q2qbdq7qVEs",
+          "title": "Vespers and Benediction",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q2qbdq7qVEs/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T17:00:00Z"
         }
       ]
     }
