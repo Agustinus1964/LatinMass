@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-11-21T04:07:23.870Z",
+  "lastUpdated": "2026-11-21T12:53:14.278Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "7QPz-MngXBI",
-          "title": "Hl. Messe - Mariä Opferung - 21. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/7QPz-MngXBI/mqdefault.jpg?v=6af9fe9a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T06:15:00Z"
-        },
-        {
-          "id": "MlUOYN7ObdQ",
-          "title": "The Presentation of the Blessed Virgin Mary",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/MlUOYN7ObdQ/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T07:30:00Z"
-        },
         {
           "id": "fkTRDFYVqlw",
           "title": "Low Mass - Presentation of the Blessed Virgin Mary - 11/21/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/fkTRDFYVqlw/mqdefault.jpg?v=6afefa48",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T12:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "WbgOqibedB0",
@@ -48,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/WH9Ya1h4VWg/mqdefault.jpg?v=6afefa5b",
           "status": "upcoming",
           "scheduledTime": "2026-11-22T01:45:00Z"
+        },
+        {
+          "id": "E4xpXPNW6UM",
+          "title": "Amt - Letzter Sonntag nach Pfingsten - 22. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/E4xpXPNW6UM/mqdefault.jpg?v=6af9fec7",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T08:30:00Z"
+        },
+        {
+          "id": "SyeR69_wwwo",
+          "title": "Low Mass - Last Sunday after Pentecost - 11/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/SyeR69_wwwo/mqdefault.jpg?v=6b00499a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T12:20:00Z"
         }
       ]
     },
@@ -55,40 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "uVMPbs8QVjU",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/uVMPbs8QVjU/mqdefault.jpg?v=6af81c13",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T08:30:00Z"
+          "id": "QpnEeLofXio",
+          "title": "7am Mass, Rosary, 9am Sung Mass. The Presentation of the Blessed Virgin Mary. III. Sat. 11-21-2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/QpnEeLofXio/mqdefault.jpg?v=6ae0e610",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "3GJGH2_7cGA",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/3GJGH2_7cGA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T10:00:00Z"
-        },
-        {
-          "id": "fR6GDTIvT2I",
-          "title": "Saturday 6 AM Catholic Mass for 11/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/fR6GDTIvT2I/mqdefault.jpg?v=6afda567",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T10:58:00Z"
-        },
-        {
-          "id": "WEdrOOxaz04",
-          "title": "Saturday 7 AM Traditional Catholic Mass 11/21/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/WEdrOOxaz04/mqdefault.jpg?v=6afda5f8",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-21T11:58:00Z"
+          "id": "t8V0J6zOj28",
+          "title": "Missa Cantada Apresentação de Nossa Senhora",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/t8V0J6zOj28/mqdefault.jpg?v=6b017d1d",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "5s1rZ1xp-4M",
@@ -98,6 +80,42 @@
           "thumbnail": "https://i.ytimg.com/vi/5s1rZ1xp-4M/mqdefault.jpg?v=6b00e63f",
           "status": "upcoming",
           "scheduledTime": "2026-11-21T14:00:00Z"
+        },
+        {
+          "id": "Xk1Zq9CsbL8",
+          "title": "8am — Last Sunday after Pentecost",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Xk1Zq9CsbL8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T08:00:00Z"
+        },
+        {
+          "id": "q45roa4ADmM",
+          "title": "9:30am — Christ the King",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/q45roa4ADmM/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T09:30:00Z"
+        },
+        {
+          "id": "CEUPlH92umA",
+          "title": "Sainte messe de la solennité de sainte Cécile - Missa Domine salvum fac Regem de Lalande - LOQUEBAR",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/CEUPlH92umA/mqdefault.jpg?v=6af9d7a8",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T10:00:00Z"
+        },
+        {
+          "id": "KMS9PzI-COE",
+          "title": "11am — Christ the King",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/KMS9PzI-COE/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T11:00:00Z"
         }
       ]
     }
