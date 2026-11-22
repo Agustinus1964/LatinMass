@@ -1,9 +1,27 @@
 {
-  "lastUpdated": "2026-11-21T19:54:30.728Z",
+  "lastUpdated": "2026-11-22T00:03:06.352Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
+        {
+          "id": "WbgOqibedB0",
+          "title": "Rosary - 11/21/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/WbgOqibedB0/mqdefault.jpg?v=6afefa52",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "au1IpZWtOB8",
+          "title": "LAST SUNDAY AFTER PENTECOST - 2026",
+          "channel": "SSPX ANZ-District",
+          "channelId": "UCBqo4pYIxecfKNS8gyvl_7A",
+          "thumbnail": "https://i.ytimg.com/vi/au1IpZWtOB8/mqdefault.jpg?v=24",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "E4xpXPNW6UM",
           "title": "Amt - Letzter Sonntag nach Pfingsten - 22. November 2026",
@@ -12,6 +30,15 @@
           "thumbnail": "https://i.ytimg.com/vi/E4xpXPNW6UM/mqdefault.jpg?v=6af9fec7",
           "status": "upcoming",
           "scheduledTime": "2026-11-22T08:30:00Z"
+        },
+        {
+          "id": "-veWvFdfGbQ",
+          "title": "Last Sunday after Whitsun",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/-veWvFdfGbQ/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T11:00:00Z"
         },
         {
           "id": "SyeR69_wwwo",
@@ -48,6 +75,24 @@
           "thumbnail": "https://i.ytimg.com/vi/ZGBaYrlXuwo/mqdefault.jpg?v=6af9feee",
           "status": "upcoming",
           "scheduledTime": "2026-11-22T16:30:00Z"
+        },
+        {
+          "id": "9o8xbU2P-O8",
+          "title": "XXIV and Last Sunday after Pentecost | November 22nd",
+          "channel": "Our Lady of the Angels",
+          "channelId": "UC9YlPkoxPrcjbqH6fL-sJ7g",
+          "thumbnail": "https://i.ytimg.com/vi/9o8xbU2P-O8/mqdefault.jpg?v=6b0225a3",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T18:00:00Z"
+        },
+        {
+          "id": "ZaHMPhsM1Ec",
+          "title": "Simple II Vespers - Last Sunday after Pentecost - 11/22/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/ZaHMPhsM1Ec/mqdefault.jpg?v=6b0049b1",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T22:00:00Z"
         }
       ]
     },
