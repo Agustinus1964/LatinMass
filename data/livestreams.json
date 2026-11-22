@@ -1,53 +1,53 @@
 {
-  "lastUpdated": "2026-11-22T07:13:04.228Z",
+  "lastUpdated": "2026-11-22T15:30:42.453Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "E4xpXPNW6UM",
-          "title": "Amt - Letzter Sonntag nach Pfingsten - 22. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/E4xpXPNW6UM/mqdefault.jpg?v=6af9fec7",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T08:30:00Z"
-        },
-        {
-          "id": "B9PtFKM1_fA",
-          "title": "XXVI Domenica dopo Pentecoste (ultima dopo Pentecoste) - Santa Messa cantata - FSSPX Italia",
-          "channel": "FSSPX Italia",
-          "channelId": "UC-2rfS6vNWzKMYrfb4t2d5Q",
-          "thumbnail": "https://i.ytimg.com/vi/B9PtFKM1_fA/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T09:25:00Z"
-        },
-        {
-          "id": "-veWvFdfGbQ",
-          "title": "Last Sunday after Whitsun",
-          "channel": "SSPX Scotland",
-          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
-          "thumbnail": "https://i.ytimg.com/vi/-veWvFdfGbQ/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T11:00:00Z"
-        },
-        {
-          "id": "SyeR69_wwwo",
-          "title": "Low Mass - Last Sunday after Pentecost - 11/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/SyeR69_wwwo/mqdefault.jpg?v=6b00499a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T12:20:00Z"
-        },
         {
           "id": "8IiTOMLSn94",
           "title": "Solemn High Mass - Last Sunday after Pentecost - 11/22/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/8IiTOMLSn94/mqdefault.jpg?v=6b0049a7",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T15:00:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "AQhnFDm-eqc",
+          "title": "Last Sunday After Pentecost- Immaculata Live Stream",
+          "channel": "The Immaculata",
+          "channelId": "UC7b-QQ7PbrZs6yAUdJkSL7w",
+          "thumbnail": "https://i.ytimg.com/vi/AQhnFDm-eqc/mqdefault.jpg?v=6b02f767",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "OaJ5vJZUPWs",
+          "title": "24th Sunday After Pentecost",
+          "channel": "SSPX Florida",
+          "channelId": "UC5AwyRmhCooK05cufOGAG1w",
+          "thumbnail": "https://i.ytimg.com/vi/OaJ5vJZUPWs/mqdefault.jpg?v=d",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "x_QCslhF_1M",
+          "title": "Sun. Nov. 22, 2026   -   Last Sunday after Pentecost",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/x_QCslhF_1M/mqdefault.jpg?v=6af7e6e6",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "SmZ1RalWq1k",
+          "title": "FSSPX Antwerpen - 22/11 Gebed voor het Vaderland",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/SmZ1RalWq1k/mqdefault.jpg?v=6af6f0fa",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "F77RdQCXt2I",
@@ -93,6 +93,24 @@
           "thumbnail": "https://i.ytimg.com/vi/GqP-PXutQg4/mqdefault.jpg?v=6b0049bb",
           "status": "upcoming",
           "scheduledTime": "2026-11-23T01:45:00Z"
+        },
+        {
+          "id": "XWnTYMYyJ28",
+          "title": "Low Mass - St. Clement, Pope and Martyr - 11/23/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/XWnTYMYyJ28/mqdefault.jpg?v=6b019b30",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-23T12:15:00Z"
+        },
+        {
+          "id": "bt4dVH8s5Zo",
+          "title": "Mon. Nov. 23, 2026   -   St. Clement,    Pope and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/bt4dVH8s5Zo/mqdefault.jpg?v=6b0105b0",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-23T12:15:00Z"
         }
       ]
     },
@@ -100,67 +118,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "5Sg64oWR6WU",
-          "title": "Santo Sacrificio de la Misa, 21 de noviembre de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/5Sg64oWR6WU/mqdefault.jpg",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Xk1Zq9CsbL8",
-          "title": "8am — Last Sunday after Pentecost",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Xk1Zq9CsbL8/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T08:00:00Z"
-        },
-        {
-          "id": "q45roa4ADmM",
-          "title": "9:30am — Christ the King",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/q45roa4ADmM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T09:30:00Z"
-        },
-        {
-          "id": "CEUPlH92umA",
-          "title": "Sainte messe de la solennité de sainte Cécile - Missa Domine salvum fac Regem de Lalande - LOQUEBAR",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/CEUPlH92umA/mqdefault.jpg?v=6af9d7a8",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T10:00:00Z"
-        },
-        {
-          "id": "KMS9PzI-COE",
-          "title": "11am — Christ the King",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/KMS9PzI-COE/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T11:00:00Z"
-        },
-        {
-          "id": "tatP-kUz0hk",
-          "title": "Live Stream Holy Mass (Low) from Cleveland USA (The Last Sunday after Pentecost)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/tatP-kUz0hk/mqdefault.jpg?v=6b018b9b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T13:00:00Z"
-        },
-        {
           "id": "LHcTIRm2D0Y",
           "title": "Live Stream Holy Mass (High) from Cleveland USA (The Last Sunday after Pentecost)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
           "thumbnail": "https://i.ytimg.com/vi/LHcTIRm2D0Y/mqdefault.jpg?v=6b018be7",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-22T15:30:00Z"
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "y_5JGV4lNCw",
+          "title": "10:30am Sung Mass. Twenty-fourth & last Sunday after Pentecost. II. November 22, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/y_5JGV4lNCw/mqdefault.jpg?v=6aec092e",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "rl-cQhX5C6I",
+          "title": "External Solemnity of St. Clement/ Solennité externe de Saint Clément",
+          "channel": "St. Clement's Parish Paroisse St-Clement",
+          "channelId": "UC-k7cYplIu_EGCi7iKsLwig",
+          "thumbnail": "https://i.ytimg.com/vi/rl-cQhX5C6I/mqdefault.jpg?v=3",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "p0YrBFUDjB8",
@@ -170,6 +152,15 @@
           "thumbnail": "https://i.ytimg.com/vi/p0YrBFUDjB8/mqdefault.jpg?v=6afc6911",
           "status": "upcoming",
           "scheduledTime": "2026-11-22T16:30:00Z"
+        },
+        {
+          "id": "VFB1aAuX9bc",
+          "title": "Secondes vêpres de la fête de sainte Cécile, vierge & martyre - VIRGO GLORIOSA",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/VFB1aAuX9bc/mqdefault.jpg?v=6b029c22",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-22T16:45:00Z"
         },
         {
           "id": "Q2qbdq7qVEs",
