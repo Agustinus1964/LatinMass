@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-23T10:14:49.406Z",
+  "lastUpdated": "2026-11-23T22:08:30.952Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "bt4dVH8s5Zo",
-          "title": "Mon. Nov. 23, 2026   -   St. Clement,    Pope and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/bt4dVH8s5Zo/mqdefault.jpg?v=6b0105b0",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T12:15:00Z"
-        },
-        {
-          "id": "URWDw-nN8nI",
-          "title": "Rosenkranz und hl. Messe - hl. Kolumban - 23. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/URWDw-nN8nI/mqdefault.jpg?v=6b033e63",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T17:00:00Z"
-        },
-        {
-          "id": "oH0-ZJHqEug",
-          "title": "Compline - 11/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/oH0-ZJHqEug/mqdefault.jpg?v=6b019b41",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T01:45:00Z"
-        },
         {
           "id": "QL2UjKgEgsY",
           "title": "Hl. Messe - hl. Johannes vom Kreuz - 24. November 2026",
@@ -39,6 +12,42 @@
           "thumbnail": "https://i.ytimg.com/vi/QL2UjKgEgsY/mqdefault.jpg?v=6b033e9d",
           "status": "upcoming",
           "scheduledTime": "2026-11-24T06:15:00Z"
+        },
+        {
+          "id": "NR42FPVFUo0",
+          "title": "Saint John of the Cross, confessor and doctor of the Church",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/NR42FPVFUo0/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T07:15:00Z"
+        },
+        {
+          "id": "-PJdJhCz1CE",
+          "title": "Low Mass - St. John of the Cross, Confessor and Doctor of the Church - 11/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/-PJdJhCz1CE/mqdefault.jpg?v=6b03a061",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T12:15:00Z"
+        },
+        {
+          "id": "bySLvcBnjuk",
+          "title": "Tues. Nov. 24, 2026   -   St. John of the Cross,    Confessor",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/bySLvcBnjuk/mqdefault.jpg?v=6b010694",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T12:15:00Z"
+        },
+        {
+          "id": "YGJQj-hy9Ho",
+          "title": "Rosenkranz und hl. Messe - hl. Johannes vom Kreuz - 24. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/YGJQj-hy9Ho/mqdefault.jpg?v=6b033ec5",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T17:00:00Z"
         }
       ]
     },
@@ -46,31 +55,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "rjOsMPubkg4",
-          "title": "Laudes e Missa rezada",
+          "id": "ilK-pDHWl_Y",
+          "title": "Terço e Missa rezada",
           "channel": "Missa Tridentina em Brasília",
           "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/rjOsMPubkg4/mqdefault.jpg?v=6b03fed6",
+          "thumbnail": "https://i.ytimg.com/vi/ilK-pDHWl_Y/mqdefault.jpg?v=6b04a88a",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "E8MG18_6lkA",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Clement I, Pope and Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/E8MG18_6lkA/mqdefault.jpg?v=6b032a93",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T12:30:00Z"
-        },
-        {
-          "id": "rNUhqzxLmoM",
-          "title": "Monday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/rNUhqzxLmoM/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T18:00:00Z"
         },
         {
           "id": "E1ELGvoxQ_Y",
@@ -80,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/E1ELGvoxQ_Y/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-24T02:30:00Z"
+        },
+        {
+          "id": "eHlyc1-KS_s",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint John of the Cross, Confessor and Doctor)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/eHlyc1-KS_s/mqdefault.jpg?v=6b043a16",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T12:30:00Z"
+        },
+        {
+          "id": "Gn6BPm4wIlk",
+          "title": "Sainte messe en semaine",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/Gn6BPm4wIlk/mqdefault.jpg?v=6afc9759",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T18:00:00Z"
         }
       ]
     }
