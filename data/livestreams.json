@@ -1,54 +1,9 @@
 {
-  "lastUpdated": "2026-11-23T01:55:16.753Z",
+  "lastUpdated": "2026-11-23T10:14:49.406Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GqP-PXutQg4",
-          "title": "Compline - 11/22/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/GqP-PXutQg4/mqdefault.jpg?v=6b0049bb",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "awNa1UgBw40",
-          "title": "Hl. Messe - hl. Kolumban - 23. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/awNa1UgBw40/mqdefault.jpg?v=6b033daa",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T06:15:00Z"
-        },
-        {
-          "id": "7iVixNmAuIw",
-          "title": "Saint Clement I, pope and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/7iVixNmAuIw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T07:15:00Z"
-        },
-        {
-          "id": "qV3TgpSG6sw",
-          "title": "Saint Clement I, pope and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/qV3TgpSG6sw/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T07:15:00Z"
-        },
-        {
-          "id": "XWnTYMYyJ28",
-          "title": "Low Mass - St. Clement, Pope and Martyr - 11/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/XWnTYMYyJ28/mqdefault.jpg?v=6b019b30",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-23T12:15:00Z"
-        },
         {
           "id": "bt4dVH8s5Zo",
           "title": "Mon. Nov. 23, 2026   -   St. Clement,    Pope and Martyr",
@@ -68,15 +23,6 @@
           "scheduledTime": "2026-11-23T17:00:00Z"
         },
         {
-          "id": "6YeoqtYTChg",
-          "title": "Rosary - 11/23/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/6YeoqtYTChg/mqdefault.jpg?v=6b019b39",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T00:00:00Z"
-        },
-        {
           "id": "oH0-ZJHqEug",
           "title": "Compline - 11/23/26",
           "channel": "SSPX Seminary - USA",
@@ -84,12 +30,30 @@
           "thumbnail": "https://i.ytimg.com/vi/oH0-ZJHqEug/mqdefault.jpg?v=6b019b41",
           "status": "upcoming",
           "scheduledTime": "2026-11-24T01:45:00Z"
+        },
+        {
+          "id": "QL2UjKgEgsY",
+          "title": "Hl. Messe - hl. Johannes vom Kreuz - 24. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/QL2UjKgEgsY/mqdefault.jpg?v=6b033e9d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T06:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "rjOsMPubkg4",
+          "title": "Laudes e Missa rezada",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/rjOsMPubkg4/mqdefault.jpg?v=6b03fed6",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "E8MG18_6lkA",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Clement I, Pope and Martyr)",
@@ -107,6 +71,15 @@
           "thumbnail": "https://i.ytimg.com/vi/rNUhqzxLmoM/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-23T18:00:00Z"
+        },
+        {
+          "id": "E1ELGvoxQ_Y",
+          "title": "\"Mysterium Ecclesiae:\" Tema 5: La institución de la Iglesia en la Biblia. P Daniel Heenan.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/E1ELGvoxQ_Y/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-24T02:30:00Z"
         }
       ]
     }
