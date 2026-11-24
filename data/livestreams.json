@@ -1,44 +1,17 @@
 {
-  "lastUpdated": "2026-11-24T06:13:55.396Z",
+  "lastUpdated": "2026-11-24T18:03:52.640Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "QL2UjKgEgsY",
-          "title": "Hl. Messe - hl. Johannes vom Kreuz - 24. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/QL2UjKgEgsY/mqdefault.jpg?v=6b033e9d",
+          "id": "NDSMiHUGXLE",
+          "title": "FSSPX Antwerpen - 24/11  H. JOHANNES v/h KRUIS",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/NDSMiHUGXLE/mqdefault.jpg?v=6b006eb4",
           "status": "live",
           "scheduledTime": null
-        },
-        {
-          "id": "NR42FPVFUo0",
-          "title": "Saint John of the Cross, confessor and doctor of the Church",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/NR42FPVFUo0/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T07:15:00Z"
-        },
-        {
-          "id": "-PJdJhCz1CE",
-          "title": "Low Mass - St. John of the Cross, Confessor and Doctor of the Church - 11/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/-PJdJhCz1CE/mqdefault.jpg?v=6b03a061",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T12:15:00Z"
-        },
-        {
-          "id": "bySLvcBnjuk",
-          "title": "Tues. Nov. 24, 2026   -   St. John of the Cross,    Confessor",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/bySLvcBnjuk/mqdefault.jpg?v=6b010694",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T12:15:00Z"
         },
         {
           "id": "YGJQj-hy9Ho",
@@ -46,8 +19,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/YGJQj-hy9Ho/mqdefault.jpg?v=6b033ec5",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T17:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iWzWjCb29vU",
@@ -66,6 +39,42 @@
           "thumbnail": "https://i.ytimg.com/vi/FGRbFqMeb-s/mqdefault.jpg?v=6b03a072",
           "status": "upcoming",
           "scheduledTime": "2026-11-25T01:45:00Z"
+        },
+        {
+          "id": "rS13s64jZLw",
+          "title": "Hl. Messe - hl. Katharina von Alexandrien - 25. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/rS13s64jZLw/mqdefault.jpg?v=6b033eef",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-25T06:15:00Z"
+        },
+        {
+          "id": "wMwQrTTBNhE",
+          "title": "Low Mass - St. Catherine of Alexandria, Virgin and Martyr - 11/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/wMwQrTTBNhE/mqdefault.jpg?v=6b03a0a8",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-25T12:15:00Z"
+        },
+        {
+          "id": "OuJST89GYnE",
+          "title": "Wed. Nov. 25, 2026    -   St. Catherine of Alexandria,   Virgin and Martyr",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/OuJST89GYnE/mqdefault.jpg?v=6b01076d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-25T12:15:00Z"
+        },
+        {
+          "id": "Wkw-N2h4GgU",
+          "title": "Rosenkranz und hl. Messe - hl. Katharina von Alexandrien - 25. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Wkw-N2h4GgU/mqdefault.jpg?v=6b033f09",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-25T17:00:00Z"
         }
       ]
     },
@@ -73,13 +82,31 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "eHlyc1-KS_s",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint John of the Cross, Confessor and Doctor)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/eHlyc1-KS_s/mqdefault.jpg?v=6b043a16",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T12:30:00Z"
+          "id": "Wj0kA_mG484",
+          "title": "Mass",
+          "channel": "ICKSP",
+          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
+          "thumbnail": "https://i.ytimg.com/vi/Wj0kA_mG484/mqdefault.jpg?v=1",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "cVraJj7L-U0",
+          "title": "Tuesday, 24 November 2026 - Saint John of the Cross",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/cVraJj7L-U0/mqdefault.jpg?v=6ae7b696",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "dBS3TnSx3SA",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/dBS3TnSx3SA/mqdefault.jpg?v=1",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Gn6BPm4wIlk",
@@ -87,8 +114,17 @@
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
           "thumbnail": "https://i.ytimg.com/vi/Gn6BPm4wIlk/mqdefault.jpg?v=6afc9759",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "DUj1K2YOnyo",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Alexandria, Virgin Martyr)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/DUj1K2YOnyo/mqdefault.jpg?v=6b058d40",
           "status": "upcoming",
-          "scheduledTime": "2026-11-24T18:00:00Z"
+          "scheduledTime": "2026-11-25T12:00:00Z"
         }
       ]
     }
