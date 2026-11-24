@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T22:08:30.952Z",
+  "lastUpdated": "2026-11-24T06:13:55.396Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -10,8 +10,8 @@
           "channel": "Kirchgemeinde Sancta Maria Wil",
           "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
           "thumbnail": "https://i.ytimg.com/vi/QL2UjKgEgsY/mqdefault.jpg?v=6b033e9d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T06:15:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "NR42FPVFUo0",
@@ -48,30 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/YGJQj-hy9Ho/mqdefault.jpg?v=6b033ec5",
           "status": "upcoming",
           "scheduledTime": "2026-11-24T17:00:00Z"
+        },
+        {
+          "id": "iWzWjCb29vU",
+          "title": "Rosary - 11/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/iWzWjCb29vU/mqdefault.jpg?v=6b03a068",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-25T00:00:00Z"
+        },
+        {
+          "id": "FGRbFqMeb-s",
+          "title": "Compline - 11/24/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/FGRbFqMeb-s/mqdefault.jpg?v=6b03a072",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-25T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "ilK-pDHWl_Y",
-          "title": "Terço e Missa rezada",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/ilK-pDHWl_Y/mqdefault.jpg?v=6b04a88a",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "E1ELGvoxQ_Y",
-          "title": "\"Mysterium Ecclesiae:\" Tema 5: La institución de la Iglesia en la Biblia. P Daniel Heenan.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/E1ELGvoxQ_Y/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-24T02:30:00Z"
-        },
         {
           "id": "eHlyc1-KS_s",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint John of the Cross, Confessor and Doctor)",
