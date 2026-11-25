@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-11-24T18:03:52.640Z",
+  "lastUpdated": "2026-11-25T02:41:13.561Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "NDSMiHUGXLE",
-          "title": "FSSPX Antwerpen - 24/11  H. JOHANNES v/h KRUIS",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/NDSMiHUGXLE/mqdefault.jpg?v=6b006eb4",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "YGJQj-hy9Ho",
-          "title": "Rosenkranz und hl. Messe - hl. Johannes vom Kreuz - 24. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/YGJQj-hy9Ho/mqdefault.jpg?v=6b033ec5",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "iWzWjCb29vU",
-          "title": "Rosary - 11/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/iWzWjCb29vU/mqdefault.jpg?v=6b03a068",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T00:00:00Z"
-        },
-        {
-          "id": "FGRbFqMeb-s",
-          "title": "Compline - 11/24/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/FGRbFqMeb-s/mqdefault.jpg?v=6b03a072",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T01:45:00Z"
-        },
         {
           "id": "rS13s64jZLw",
           "title": "Hl. Messe - hl. Katharina von Alexandrien - 25. November 2026",
@@ -50,13 +14,13 @@
           "scheduledTime": "2026-11-25T06:15:00Z"
         },
         {
-          "id": "wMwQrTTBNhE",
-          "title": "Low Mass - St. Catherine of Alexandria, Virgin and Martyr - 11/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/wMwQrTTBNhE/mqdefault.jpg?v=6b03a0a8",
+          "id": "67jvgl1qFrc",
+          "title": "Saint Catherine, virgin and martyr",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/67jvgl1qFrc/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-25T12:15:00Z"
+          "scheduledTime": "2026-11-25T07:15:00Z"
         },
         {
           "id": "OuJST89GYnE",
@@ -75,48 +39,21 @@
           "thumbnail": "https://i.ytimg.com/vi/Wkw-N2h4GgU/mqdefault.jpg?v=6b033f09",
           "status": "upcoming",
           "scheduledTime": "2026-11-25T17:00:00Z"
+        },
+        {
+          "id": "xaRrYLaLNaI",
+          "title": "Compline - 11/25/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/xaRrYLaLNaI/mqdefault.jpg?v=6b03a0b9",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "Wj0kA_mG484",
-          "title": "Mass",
-          "channel": "ICKSP",
-          "channelId": "UCBb7H5dkIrNjCmwBSwUX9Zw",
-          "thumbnail": "https://i.ytimg.com/vi/Wj0kA_mG484/mqdefault.jpg?v=1",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "cVraJj7L-U0",
-          "title": "Tuesday, 24 November 2026 - Saint John of the Cross",
-          "channel": "Sacred Heart Church - Limerick - ICKSP",
-          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
-          "thumbnail": "https://i.ytimg.com/vi/cVraJj7L-U0/mqdefault.jpg?v=6ae7b696",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "dBS3TnSx3SA",
-          "title": "Thursday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/dBS3TnSx3SA/mqdefault.jpg?v=1",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "Gn6BPm4wIlk",
-          "title": "Sainte messe en semaine",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/Gn6BPm4wIlk/mqdefault.jpg?v=6afc9759",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DUj1K2YOnyo",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Alexandria, Virgin Martyr)",
