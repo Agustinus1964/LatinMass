@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-11-25T02:41:13.561Z",
+  "lastUpdated": "2026-11-25T12:03:17.509Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rS13s64jZLw",
-          "title": "Hl. Messe - hl. Katharina von Alexandrien - 25. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/rS13s64jZLw/mqdefault.jpg?v=6b033eef",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T06:15:00Z"
-        },
-        {
-          "id": "67jvgl1qFrc",
-          "title": "Saint Catherine, virgin and martyr",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/67jvgl1qFrc/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T07:15:00Z"
-        },
         {
           "id": "OuJST89GYnE",
           "title": "Wed. Nov. 25, 2026    -   St. Catherine of Alexandria,   Virgin and Martyr",
@@ -48,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/xaRrYLaLNaI/mqdefault.jpg?v=6b03a0b9",
           "status": "upcoming",
           "scheduledTime": "2026-11-26T01:45:00Z"
+        },
+        {
+          "id": "GLxlqF1Q92Y",
+          "title": "Hl. Messe - hl. Konrad - 26. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/GLxlqF1Q92Y/mqdefault.jpg?v=6b033f31",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T06:15:00Z"
+        },
+        {
+          "id": "F8EYNwTVTeY",
+          "title": "Thurs. Nov. 26, 2026    -    St. Sylvester        (BISHOP MASS)",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/F8EYNwTVTeY/mqdefault.jpg?v=6b010c6b",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T11:15:00Z"
         }
       ]
     },
@@ -59,9 +59,18 @@
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Alexandria, Virgin Martyr)",
           "channel": "Usus Antiquior",
           "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/DUj1K2YOnyo/mqdefault.jpg?v=6b058d40",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T12:00:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/DUj1K2YOnyo/mqdefault.jpg?v=6b06bf1a",
+          "status": "live",
+          "scheduledTime": null
+        },
+        {
+          "id": "XyacywF04c4",
+          "title": "7am Mass. St. Catherine of Alexandria, Virgin and Martyr. III. Wednesday, November 25, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/XyacywF04c4/mqdefault.jpg?v=6aec0ac0",
+          "status": "live",
+          "scheduledTime": null
         }
       ]
     }
