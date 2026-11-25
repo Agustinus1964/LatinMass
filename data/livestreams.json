@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-25T12:03:17.509Z",
+  "lastUpdated": "2026-11-25T21:53:12.216Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "OuJST89GYnE",
-          "title": "Wed. Nov. 25, 2026    -   St. Catherine of Alexandria,   Virgin and Martyr",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/OuJST89GYnE/mqdefault.jpg?v=6b01076d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T12:15:00Z"
-        },
-        {
-          "id": "Wkw-N2h4GgU",
-          "title": "Rosenkranz und hl. Messe - hl. Katharina von Alexandrien - 25. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Wkw-N2h4GgU/mqdefault.jpg?v=6b033f09",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-25T17:00:00Z"
-        },
-        {
-          "id": "xaRrYLaLNaI",
-          "title": "Compline - 11/25/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/xaRrYLaLNaI/mqdefault.jpg?v=6b03a0b9",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T01:45:00Z"
-        },
         {
           "id": "GLxlqF1Q92Y",
           "title": "Hl. Messe - hl. Konrad - 26. November 2026",
@@ -41,6 +14,15 @@
           "scheduledTime": "2026-11-26T06:15:00Z"
         },
         {
+          "id": "z0crDt_S_8s",
+          "title": "Saint Sylvester, abbot",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/z0crDt_S_8s/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T07:15:00Z"
+        },
+        {
           "id": "F8EYNwTVTeY",
           "title": "Thurs. Nov. 26, 2026    -    St. Sylvester        (BISHOP MASS)",
           "channel": "Transfiguration Church SSPX",
@@ -48,6 +30,24 @@
           "thumbnail": "https://i.ytimg.com/vi/F8EYNwTVTeY/mqdefault.jpg?v=6b010c6b",
           "status": "upcoming",
           "scheduledTime": "2026-11-26T11:15:00Z"
+        },
+        {
+          "id": "OF7WMo6_ago",
+          "title": "Low Mass - St. Sylvester, Abbot - 11/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/OF7WMo6_ago/mqdefault.jpg?v=6b063d56",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T12:15:00Z"
+        },
+        {
+          "id": "e7PX2Sk03AA",
+          "title": "Sakramentsandacht und hl. Messe - hl. Konrad - 26. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/e7PX2Sk03AA/mqdefault.jpg?v=6b033f6b",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T16:00:00Z"
         }
       ]
     },
@@ -55,22 +55,22 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "DUj1K2YOnyo",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Catherine of Alexandria, Virgin Martyr)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/DUj1K2YOnyo/mqdefault.jpg?v=6b06bf1a",
+          "id": "oIO_Ggn0bi4",
+          "title": "Terço e Santa Missa",
+          "channel": "Missa Tridentina em Brasília",
+          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
+          "thumbnail": "https://i.ytimg.com/vi/oIO_Ggn0bi4/mqdefault.jpg?v=6b07493f",
           "status": "live",
           "scheduledTime": null
         },
         {
-          "id": "XyacywF04c4",
-          "title": "7am Mass. St. Catherine of Alexandria, Virgin and Martyr. III. Wednesday, November 25, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/XyacywF04c4/mqdefault.jpg?v=6aec0ac0",
-          "status": "live",
-          "scheduledTime": null
+          "id": "DihvqJiuYeg",
+          "title": "Live Stream Holy Mass from Cleveland USA (Saint Sylvester, Abbot)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/DihvqJiuYeg/mqdefault.jpg?v=6b06d777",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T14:00:00Z"
         }
       ]
     }
