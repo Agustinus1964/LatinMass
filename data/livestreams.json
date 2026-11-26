@@ -1,26 +1,17 @@
 {
-  "lastUpdated": "2026-11-26T13:29:59.256Z",
+  "lastUpdated": "2026-11-26T22:31:20.794Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "e7PX2Sk03AA",
-          "title": "Sakramentsandacht und hl. Messe - hl. Konrad - 26. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/e7PX2Sk03AA/mqdefault.jpg?v=6b033f6b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T16:00:00Z"
-        },
         {
           "id": "CbCHGWVx8oU",
           "title": "Benediction - 11/26/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
           "thumbnail": "https://i.ytimg.com/vi/CbCHGWVx8oU/mqdefault.jpg?v=6b058afd",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T22:30:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "PWDY9hfERyU",
@@ -41,6 +32,15 @@
           "scheduledTime": "2026-11-27T06:15:00Z"
         },
         {
+          "id": "rN5oJDfjIxY",
+          "title": "Votive Mass of the Holy Cross",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/rN5oJDfjIxY/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T07:15:00Z"
+        },
+        {
           "id": "u5JYeC9ZCzA",
           "title": "Low Mass - Feria - 11/27/26",
           "channel": "SSPX Seminary - USA",
@@ -57,6 +57,15 @@
           "thumbnail": "https://i.ytimg.com/vi/m-lA6E4rEcA/mqdefault.jpg?v=6b010da8",
           "status": "upcoming",
           "scheduledTime": "2026-11-27T12:15:00Z"
+        },
+        {
+          "id": "Ms41sbOS7Yg",
+          "title": "Rosenkranz und hl. Messe - hl. Klemens I. - 27. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/Ms41sbOS7Yg/mqdefault.jpg?v=6b033fdb",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T17:00:00Z"
         }
       ]
     },
@@ -64,31 +73,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "myrsnNADKac",
-          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 11/26/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/myrsnNADKac/mqdefault.jpg?v=4",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "DihvqJiuYeg",
-          "title": "Live Stream Holy Mass from Cleveland USA (Saint Sylvester, Abbot)",
-          "channel": "Usus Antiquior",
-          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
-          "thumbnail": "https://i.ytimg.com/vi/DihvqJiuYeg/mqdefault.jpg?v=6b06d777",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T14:00:00Z"
-        },
-        {
-          "id": "1v629PcfNrQ",
-          "title": "Thursday",
+          "id": "7C7GCe0QF1Q",
+          "title": "Friday",
           "channel": "Oxford Oratory",
           "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/1v629PcfNrQ/mqdefault.jpg",
+          "thumbnail": "https://i.ytimg.com/vi/7C7GCe0QF1Q/mqdefault.jpg",
           "status": "upcoming",
-          "scheduledTime": "2026-11-26T18:00:00Z"
+          "scheduledTime": "2026-11-27T18:00:00Z"
         }
       ]
     }
