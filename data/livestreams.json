@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25T21:53:12.216Z",
+  "lastUpdated": "2026-11-26T03:54:56.738Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
@@ -48,21 +48,30 @@
           "thumbnail": "https://i.ytimg.com/vi/e7PX2Sk03AA/mqdefault.jpg?v=6b033f6b",
           "status": "upcoming",
           "scheduledTime": "2026-11-26T16:00:00Z"
+        },
+        {
+          "id": "CbCHGWVx8oU",
+          "title": "Benediction - 11/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/CbCHGWVx8oU/mqdefault.jpg?v=6b058afd",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T22:30:00Z"
+        },
+        {
+          "id": "PWDY9hfERyU",
+          "title": "Compline - 11/26/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/PWDY9hfERyU/mqdefault.jpg?v=6b063d5d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T01:45:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
-        {
-          "id": "oIO_Ggn0bi4",
-          "title": "Terço e Santa Missa",
-          "channel": "Missa Tridentina em Brasília",
-          "channelId": "UCYTjPJ08-aYoFddIcdRDRaA",
-          "thumbnail": "https://i.ytimg.com/vi/oIO_Ggn0bi4/mqdefault.jpg?v=6b07493f",
-          "status": "live",
-          "scheduledTime": null
-        },
         {
           "id": "DihvqJiuYeg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Sylvester, Abbot)",
