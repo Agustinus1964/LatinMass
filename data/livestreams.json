@@ -1,45 +1,9 @@
 {
-  "lastUpdated": "2026-11-26T03:54:56.738Z",
+  "lastUpdated": "2026-11-26T13:29:59.256Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "GLxlqF1Q92Y",
-          "title": "Hl. Messe - hl. Konrad - 26. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/GLxlqF1Q92Y/mqdefault.jpg?v=6b033f31",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T06:15:00Z"
-        },
-        {
-          "id": "z0crDt_S_8s",
-          "title": "Saint Sylvester, abbot",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/z0crDt_S_8s/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T07:15:00Z"
-        },
-        {
-          "id": "F8EYNwTVTeY",
-          "title": "Thurs. Nov. 26, 2026    -    St. Sylvester        (BISHOP MASS)",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/F8EYNwTVTeY/mqdefault.jpg?v=6b010c6b",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T11:15:00Z"
-        },
-        {
-          "id": "OF7WMo6_ago",
-          "title": "Low Mass - St. Sylvester, Abbot - 11/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/OF7WMo6_ago/mqdefault.jpg?v=6b063d56",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-26T12:15:00Z"
-        },
         {
           "id": "e7PX2Sk03AA",
           "title": "Sakramentsandacht und hl. Messe - hl. Konrad - 26. November 2026",
@@ -66,12 +30,48 @@
           "thumbnail": "https://i.ytimg.com/vi/PWDY9hfERyU/mqdefault.jpg?v=6b063d5d",
           "status": "upcoming",
           "scheduledTime": "2026-11-27T01:45:00Z"
+        },
+        {
+          "id": "xVgaVOF008c",
+          "title": "Hl. Messe - hl. Klemens I. - 27. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/xVgaVOF008c/mqdefault.jpg?v=6b033fa5",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T06:15:00Z"
+        },
+        {
+          "id": "u5JYeC9ZCzA",
+          "title": "Low Mass - Feria - 11/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/u5JYeC9ZCzA/mqdefault.jpg?v=6b058b0c",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T12:15:00Z"
+        },
+        {
+          "id": "m-lA6E4rEcA",
+          "title": "Fri. Nov. 27, 2026    -    Ferial Day    -     Feast of Our Lady of the Miraculous Medal",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/m-lA6E4rEcA/mqdefault.jpg?v=6b010da8",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T12:15:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "myrsnNADKac",
+          "title": "Thursday 8 AM Thursday Daily Traditional Catholic Mass 11/26/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/myrsnNADKac/mqdefault.jpg?v=4",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "DihvqJiuYeg",
           "title": "Live Stream Holy Mass from Cleveland USA (Saint Sylvester, Abbot)",
@@ -80,6 +80,15 @@
           "thumbnail": "https://i.ytimg.com/vi/DihvqJiuYeg/mqdefault.jpg?v=6b06d777",
           "status": "upcoming",
           "scheduledTime": "2026-11-26T14:00:00Z"
+        },
+        {
+          "id": "1v629PcfNrQ",
+          "title": "Thursday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/1v629PcfNrQ/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-26T18:00:00Z"
         }
       ]
     }
