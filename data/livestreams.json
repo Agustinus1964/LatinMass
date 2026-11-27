@@ -1,27 +1,9 @@
 {
-  "lastUpdated": "2026-11-26T22:31:20.794Z",
+  "lastUpdated": "2026-11-27T04:44:23.746Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "CbCHGWVx8oU",
-          "title": "Benediction - 11/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/CbCHGWVx8oU/mqdefault.jpg?v=6b058afd",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "PWDY9hfERyU",
-          "title": "Compline - 11/26/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/PWDY9hfERyU/mqdefault.jpg?v=6b063d5d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T01:45:00Z"
-        },
         {
           "id": "xVgaVOF008c",
           "title": "Hl. Messe - hl. Klemens I. - 27. November 2026",
@@ -41,15 +23,6 @@
           "scheduledTime": "2026-11-27T07:15:00Z"
         },
         {
-          "id": "u5JYeC9ZCzA",
-          "title": "Low Mass - Feria - 11/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/u5JYeC9ZCzA/mqdefault.jpg?v=6b058b0c",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T12:15:00Z"
-        },
-        {
           "id": "m-lA6E4rEcA",
           "title": "Fri. Nov. 27, 2026    -    Ferial Day    -     Feast of Our Lady of the Miraculous Medal",
           "channel": "Transfiguration Church SSPX",
@@ -66,6 +39,24 @@
           "thumbnail": "https://i.ytimg.com/vi/Ms41sbOS7Yg/mqdefault.jpg?v=6b033fdb",
           "status": "upcoming",
           "scheduledTime": "2026-11-27T17:00:00Z"
+        },
+        {
+          "id": "m1Ourdj9ywc",
+          "title": "Stations of the Cross - 11/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/m1Ourdj9ywc/mqdefault.jpg?v=6b058b14",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T23:55:00Z"
+        },
+        {
+          "id": "rZ14F0PQGi4",
+          "title": "Compline - 11/27/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/rZ14F0PQGi4/mqdefault.jpg?v=6b058b1e",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T01:45:00Z"
         }
       ]
     },
@@ -80,6 +71,24 @@
           "thumbnail": "https://i.ytimg.com/vi/7C7GCe0QF1Q/mqdefault.jpg",
           "status": "upcoming",
           "scheduledTime": "2026-11-27T18:00:00Z"
+        },
+        {
+          "id": "Iw_ke2Sd_kg",
+          "title": "6pm Mass & Holy Hour. Feria. IV. Our Lady of the Miraculous Medal. IV. Friday, November 27, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/Iw_ke2Sd_kg/mqdefault.jpg?v=6af78c5d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T23:00:00Z"
+        },
+        {
+          "id": "iVHYeLtiK-8",
+          "title": "Live Stream Holy Mass from Cleveland USA (Votive Mass of the Holy Cross)",
+          "channel": "Usus Antiquior",
+          "channelId": "UC-HuFJsZMy5CdwfXp9j-J0Q",
+          "thumbnail": "https://i.ytimg.com/vi/iVHYeLtiK-8/mqdefault.jpg?v=6b084641",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-27T23:30:00Z"
         }
       ]
     }
