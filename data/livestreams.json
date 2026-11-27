@@ -1,36 +1,9 @@
 {
-  "lastUpdated": "2026-11-27T14:39:18.407Z",
+  "lastUpdated": "2026-11-27T23:10:40.757Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
-        {
-          "id": "rN5oJDfjIxY",
-          "title": "Votive Mass of the Holy Cross",
-          "channel": "SSPX Great Britain",
-          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/rN5oJDfjIxY/mqdefault.jpg?v=9",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "VT2IChUpp44",
-          "title": "FSSPX Antwerpen - 27/11 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
-          "channel": "FSSPX Antwerpen",
-          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
-          "thumbnail": "https://i.ytimg.com/vi/VT2IChUpp44/mqdefault.jpg?v=6b093aac",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T16:00:00Z"
-        },
-        {
-          "id": "Ms41sbOS7Yg",
-          "title": "Rosenkranz und hl. Messe - hl. Klemens I. - 27. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/Ms41sbOS7Yg/mqdefault.jpg?v=6b033fdb",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T17:00:00Z"
-        },
         {
           "id": "k3cDb7iPkiM",
           "title": "Hl. Messe - 28. November 2026",
@@ -39,6 +12,15 @@
           "thumbnail": "https://i.ytimg.com/vi/k3cDb7iPkiM/mqdefault.jpg?v=6b033ff5",
           "status": "upcoming",
           "scheduledTime": "2026-11-28T06:15:00Z"
+        },
+        {
+          "id": "ktgF75yi-Rk",
+          "title": "The Blessed Virgin Mary on Saturday",
+          "channel": "SSPX Great Britain",
+          "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
+          "thumbnail": "https://i.ytimg.com/vi/ktgF75yi-Rk/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T07:30:00Z"
         },
         {
           "id": "c7-7mjqxwwE",
@@ -64,31 +46,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "36UaDiEZ-2Q",
-          "title": "Santo Sacrificio de la Misa, Feria, 27 de noviembre de 2026.",
-          "channel": "FSSP en MEXICO - Oficial",
-          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
-          "thumbnail": "https://i.ytimg.com/vi/36UaDiEZ-2Q/mqdefault.jpg?v=9",
-          "status": "live",
-          "scheduledTime": null
-        },
-        {
-          "id": "7C7GCe0QF1Q",
-          "title": "Friday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/7C7GCe0QF1Q/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T18:00:00Z"
-        },
-        {
           "id": "Iw_ke2Sd_kg",
           "title": "6pm Mass & Holy Hour. Feria. IV. Our Lady of the Miraculous Medal. IV. Friday, November 27, 2026.",
           "channel": "St. Mary's on Broadway, FSSP",
           "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
           "thumbnail": "https://i.ytimg.com/vi/Iw_ke2Sd_kg/mqdefault.jpg?v=6af78c5d",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T23:00:00Z"
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "iVHYeLtiK-8",
@@ -98,6 +62,15 @@
           "thumbnail": "https://i.ytimg.com/vi/iVHYeLtiK-8/mqdefault.jpg?v=6b084641",
           "status": "upcoming",
           "scheduledTime": "2026-11-27T23:30:00Z"
+        },
+        {
+          "id": "VXP_IE_hgtA",
+          "title": "Le Christ est-il vraiment ressuscité ? — Les difficultés de la foi catholique (3/10)",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/VXP_IE_hgtA/mqdefault.jpg?v=6b09b059",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T09:30:00Z"
         },
         {
           "id": "Q49goSsLIKY",
@@ -118,15 +91,6 @@
           "scheduledTime": "2026-11-28T11:58:00Z"
         },
         {
-          "id": "X-Q-WG3yRM8",
-          "title": "7am Mass, Rosary, 9am Mass. Our Lady on Saturday. IV. November 28, 2026.",
-          "channel": "St. Mary's on Broadway, FSSP",
-          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
-          "thumbnail": "https://i.ytimg.com/vi/X-Q-WG3yRM8/mqdefault.jpg?v=6af78cdd",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T12:00:00Z"
-        },
-        {
           "id": "BIukPbZ6gm8",
           "title": "Saturday 9 AM Traditional Catholic Mass 11/28/2026",
           "channel": "St. Benedict Parish",
@@ -143,6 +107,15 @@
           "thumbnail": "https://i.ytimg.com/vi/fbnEry36lc0/mqdefault.jpg?v=6ad642fd",
           "status": "upcoming",
           "scheduledTime": "2026-11-28T14:00:00Z"
+        },
+        {
+          "id": "4KIklDvJZJ8",
+          "title": "[Diffusion privée] Mariage de Juliana & Dylan",
+          "channel": "Ite Missa Est",
+          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
+          "thumbnail": "https://i.ytimg.com/vi/4KIklDvJZJ8/mqdefault.jpg?v=6b09c1a9",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T14:30:00Z"
         }
       ]
     }
