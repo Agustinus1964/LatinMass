@@ -1,35 +1,26 @@
 {
-  "lastUpdated": "2026-11-27T04:44:23.746Z",
+  "lastUpdated": "2026-11-27T14:39:18.407Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "xVgaVOF008c",
-          "title": "Hl. Messe - hl. Klemens I. - 27. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/xVgaVOF008c/mqdefault.jpg?v=6b033fa5",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T06:15:00Z"
-        },
-        {
           "id": "rN5oJDfjIxY",
           "title": "Votive Mass of the Holy Cross",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/rN5oJDfjIxY/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-27T07:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/rN5oJDfjIxY/mqdefault.jpg?v=9",
+          "status": "live",
+          "scheduledTime": null
         },
         {
-          "id": "m-lA6E4rEcA",
-          "title": "Fri. Nov. 27, 2026    -    Ferial Day    -     Feast of Our Lady of the Miraculous Medal",
-          "channel": "Transfiguration Church SSPX",
-          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
-          "thumbnail": "https://i.ytimg.com/vi/m-lA6E4rEcA/mqdefault.jpg?v=6b010da8",
+          "id": "VT2IChUpp44",
+          "title": "FSSPX Antwerpen - 27/11 Rozenhoedje vóór het uitgesteld Allerheiligste Sacrament",
+          "channel": "FSSPX Antwerpen",
+          "channelId": "UCOSyx9ZAMY0c3mE4aGDPA-Q",
+          "thumbnail": "https://i.ytimg.com/vi/VT2IChUpp44/mqdefault.jpg?v=6b093aac",
           "status": "upcoming",
-          "scheduledTime": "2026-11-27T12:15:00Z"
+          "scheduledTime": "2026-11-27T16:00:00Z"
         },
         {
           "id": "Ms41sbOS7Yg",
@@ -41,28 +32,46 @@
           "scheduledTime": "2026-11-27T17:00:00Z"
         },
         {
-          "id": "m1Ourdj9ywc",
-          "title": "Stations of the Cross - 11/27/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/m1Ourdj9ywc/mqdefault.jpg?v=6b058b14",
+          "id": "k3cDb7iPkiM",
+          "title": "Hl. Messe - 28. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/k3cDb7iPkiM/mqdefault.jpg?v=6b033ff5",
           "status": "upcoming",
-          "scheduledTime": "2026-11-27T23:55:00Z"
+          "scheduledTime": "2026-11-28T06:15:00Z"
         },
         {
-          "id": "rZ14F0PQGi4",
-          "title": "Compline - 11/27/26",
+          "id": "c7-7mjqxwwE",
+          "title": "Low Mass - Our Lady on Saturdays - 11/28/26",
           "channel": "SSPX Seminary - USA",
           "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/rZ14F0PQGi4/mqdefault.jpg?v=6b058b1e",
+          "thumbnail": "https://i.ytimg.com/vi/c7-7mjqxwwE/mqdefault.jpg?v=6b08e68e",
           "status": "upcoming",
-          "scheduledTime": "2026-11-28T01:45:00Z"
+          "scheduledTime": "2026-11-28T12:15:00Z"
+        },
+        {
+          "id": "BQP1HwCyfpE",
+          "title": "Sat. Nov. 28, 2026    -    Blessed Virgin Mary on Saturday",
+          "channel": "Transfiguration Church SSPX",
+          "channelId": "UC_W1sjtJTk7pE1j-EUbR5Tg",
+          "thumbnail": "https://i.ytimg.com/vi/BQP1HwCyfpE/mqdefault.jpg?v=6b010e9f",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T13:00:00Z"
         }
       ]
     },
     "non-sspx": {
       "name": "Non-SSPX Latin Mass",
       "videos": [
+        {
+          "id": "36UaDiEZ-2Q",
+          "title": "Santo Sacrificio de la Misa, Feria, 27 de noviembre de 2026.",
+          "channel": "FSSP en MEXICO - Oficial",
+          "channelId": "UCM-i8QqB--VNgGERPRKX1WQ",
+          "thumbnail": "https://i.ytimg.com/vi/36UaDiEZ-2Q/mqdefault.jpg?v=9",
+          "status": "live",
+          "scheduledTime": null
+        },
         {
           "id": "7C7GCe0QF1Q",
           "title": "Friday",
@@ -89,6 +98,51 @@
           "thumbnail": "https://i.ytimg.com/vi/iVHYeLtiK-8/mqdefault.jpg?v=6b084641",
           "status": "upcoming",
           "scheduledTime": "2026-11-27T23:30:00Z"
+        },
+        {
+          "id": "Q49goSsLIKY",
+          "title": "Saturday",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/Q49goSsLIKY/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T10:00:00Z"
+        },
+        {
+          "id": "NqGO-RHx5UE",
+          "title": "Saturday 7 AM Catholic Mass for 11/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/NqGO-RHx5UE/mqdefault.jpg?v=6b07831a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T11:58:00Z"
+        },
+        {
+          "id": "X-Q-WG3yRM8",
+          "title": "7am Mass, Rosary, 9am Mass. Our Lady on Saturday. IV. November 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/X-Q-WG3yRM8/mqdefault.jpg?v=6af78cdd",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T12:00:00Z"
+        },
+        {
+          "id": "BIukPbZ6gm8",
+          "title": "Saturday 9 AM Traditional Catholic Mass 11/28/2026",
+          "channel": "St. Benedict Parish",
+          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
+          "thumbnail": "https://i.ytimg.com/vi/BIukPbZ6gm8/mqdefault.jpg?v=6b07828a",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T13:58:00Z"
+        },
+        {
+          "id": "fbnEry36lc0",
+          "title": "ADVENT REFLECTIONS SERIES 2026: PART I",
+          "channel": "National Shrine of Saint Alphonsus Liguori",
+          "channelId": "UCItp3GIpTS67DvqOLuWuWig",
+          "thumbnail": "https://i.ytimg.com/vi/fbnEry36lc0/mqdefault.jpg?v=6ad642fd",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-28T14:00:00Z"
         }
       ]
     }
