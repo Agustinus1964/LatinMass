@@ -1,35 +1,17 @@
 {
-  "lastUpdated": "2026-11-28T04:50:07.205Z",
+  "lastUpdated": "2026-11-28T13:50:50.505Z",
   "categories": {
     "sspx": {
       "name": "SSPX Latin Mass",
       "videos": [
         {
-          "id": "k3cDb7iPkiM",
-          "title": "Hl. Messe - 28. November 2026",
-          "channel": "Kirchgemeinde Sancta Maria Wil",
-          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
-          "thumbnail": "https://i.ytimg.com/vi/k3cDb7iPkiM/mqdefault.jpg?v=6b033ff5",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T06:15:00Z"
-        },
-        {
           "id": "ktgF75yi-Rk",
           "title": "The Blessed Virgin Mary on Saturday",
           "channel": "SSPX Great Britain",
           "channelId": "UCQKWgHLZxKCmIIRmok8tNuw",
-          "thumbnail": "https://i.ytimg.com/vi/ktgF75yi-Rk/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T07:30:00Z"
-        },
-        {
-          "id": "c7-7mjqxwwE",
-          "title": "Low Mass - Our Lady on Saturdays - 11/28/26",
-          "channel": "SSPX Seminary - USA",
-          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
-          "thumbnail": "https://i.ytimg.com/vi/c7-7mjqxwwE/mqdefault.jpg?v=6b08e68e",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T12:15:00Z"
+          "thumbnail": "https://i.ytimg.com/vi/ktgF75yi-Rk/mqdefault.jpg?v=4d",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "Ix8aAxItITc",
@@ -48,6 +30,33 @@
           "thumbnail": "https://i.ytimg.com/vi/cLLmLA54jEM/mqdefault.jpg?v=6b08e69c",
           "status": "upcoming",
           "scheduledTime": "2026-11-29T01:45:00Z"
+        },
+        {
+          "id": "RuJRHOaYq3c",
+          "title": "Amt - 1. Adventssonntag - 29. November 2026",
+          "channel": "Kirchgemeinde Sancta Maria Wil",
+          "channelId": "UC6qx2PRO71pPHKgrSIfNVOw",
+          "thumbnail": "https://i.ytimg.com/vi/RuJRHOaYq3c/mqdefault.jpg?v=6b03401c",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T08:30:00Z"
+        },
+        {
+          "id": "xaVqvjCFd6w",
+          "title": "First Sunday of Advent",
+          "channel": "SSPX Scotland",
+          "channelId": "UCYTLXswwX616jHMRmpNvj5Q",
+          "thumbnail": "https://i.ytimg.com/vi/xaVqvjCFd6w/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T11:00:00Z"
+        },
+        {
+          "id": "2CK0sb4CXME",
+          "title": "Low Mass - First Sunday of Advent - 11/29/26",
+          "channel": "SSPX Seminary - USA",
+          "channelId": "UCZoB5_BphShGRovMZ2AsG5A",
+          "thumbnail": "https://i.ytimg.com/vi/2CK0sb4CXME/mqdefault.jpg?v=6b0973bb",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T12:20:00Z"
         }
       ]
     },
@@ -55,31 +64,13 @@
       "name": "Non-SSPX Latin Mass",
       "videos": [
         {
-          "id": "VXP_IE_hgtA",
-          "title": "Le Christ est-il vraiment ressuscité ? — Les difficultés de la foi catholique (3/10)",
-          "channel": "Ite Missa Est",
-          "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/VXP_IE_hgtA/mqdefault.jpg?v=6b09b059",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T09:30:00Z"
-        },
-        {
-          "id": "Q49goSsLIKY",
-          "title": "Saturday",
-          "channel": "Oxford Oratory",
-          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
-          "thumbnail": "https://i.ytimg.com/vi/Q49goSsLIKY/mqdefault.jpg",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T10:00:00Z"
-        },
-        {
-          "id": "NqGO-RHx5UE",
-          "title": "Saturday 7 AM Catholic Mass for 11/28/2026",
-          "channel": "St. Benedict Parish",
-          "channelId": "UCy7sVkgogsfm3tBpWyNHhEQ",
-          "thumbnail": "https://i.ytimg.com/vi/NqGO-RHx5UE/mqdefault.jpg?v=6b07831a",
-          "status": "upcoming",
-          "scheduledTime": "2026-11-28T11:58:00Z"
+          "id": "X-Q-WG3yRM8",
+          "title": "7am Mass, Rosary, 9am Mass. Our Lady on Saturday. IV. November 28, 2026.",
+          "channel": "St. Mary's on Broadway, FSSP",
+          "channelId": "UCKyyBg-7STnPDO_-oEQWY0g",
+          "thumbnail": "https://i.ytimg.com/vi/X-Q-WG3yRM8/mqdefault.jpg?v=6af78cdd",
+          "status": "live",
+          "scheduledTime": null
         },
         {
           "id": "BIukPbZ6gm8",
@@ -110,12 +101,48 @@
         },
         {
           "id": "4KIklDvJZJ8",
-          "title": "[Diffusion privée] Mariage de Juliana & Dylan",
+          "title": "[Diffusion privée] Mariage de Yuliana & Dylan",
           "channel": "Ite Missa Est",
           "channelId": "UCIz1_vK-gfwd26Q3cIvDxPg",
-          "thumbnail": "https://i.ytimg.com/vi/4KIklDvJZJ8/mqdefault.jpg?v=6b09c1a9",
+          "thumbnail": "https://i.ytimg.com/vi/4KIklDvJZJ8/mqdefault.jpg?v=6b0aa661",
           "status": "upcoming",
           "scheduledTime": "2026-11-28T14:30:00Z"
+        },
+        {
+          "id": "-lbsRs19HU8",
+          "title": "8am — 1st Sunday of Advent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/-lbsRs19HU8/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T08:00:00Z"
+        },
+        {
+          "id": "BIB-SV4MmQg",
+          "title": "9:30am — 1st Sunday of Advent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/BIB-SV4MmQg/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T09:30:00Z"
+        },
+        {
+          "id": "CorEjQk2IAA",
+          "title": "Sunday, 29 November 2026 - 1st Sunday of Advent",
+          "channel": "Sacred Heart Church - Limerick - ICKSP",
+          "channelId": "UCHhWuGhHEo7HCEKJ1MObM9g",
+          "thumbnail": "https://i.ytimg.com/vi/CorEjQk2IAA/mqdefault.jpg?v=6b05729d",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T10:30:00Z"
+        },
+        {
+          "id": "OVBs521FSFU",
+          "title": "11am — 1st Sunday of Advent",
+          "channel": "Oxford Oratory",
+          "channelId": "UCZ6YQ4ZBs0fbeNPHl16YyFw",
+          "thumbnail": "https://i.ytimg.com/vi/OVBs521FSFU/mqdefault.jpg",
+          "status": "upcoming",
+          "scheduledTime": "2026-11-29T11:00:00Z"
         }
       ]
     }
